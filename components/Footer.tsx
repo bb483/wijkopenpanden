@@ -82,13 +82,13 @@ export default function Footer() {
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
             {columns.map((col) => (
               <div key={col.title}>
-                <p className="text-xs text-[#C4A35A] font-medium tracking-widest uppercase mb-4">
+                <p className="text-xs sm:text-sm text-[#C4A35A] font-semibold tracking-widest uppercase mb-4">
                   {col.title}
                 </p>
                 <ul className="flex flex-col gap-2.5">
                   {col.links.map((link) => (
                     <li key={link.href}>
-                      <a href={link.href} className="text-sm text-white/40 hover:text-white transition-colors duration-150">
+                      <a href={link.href} className="text-sm sm:text-base text-white/50 hover:text-white transition-colors duration-150">
                         {link.label}
                       </a>
                     </li>

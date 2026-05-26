@@ -135,7 +135,7 @@ export default function Hero() {
                   </svg>
                 </div>
                 <span
-                  className="text-sm font-medium text-center leading-snug"
+                  className="text-sm sm:text-base font-medium text-center leading-snug"
                   style={{ color: "#4A3D30" }}
                 >
                   {item}

@@ -86,23 +86,23 @@ export default function EerlijkPrijs() {
           className="overflow-x-auto rounded-2xl"
           style={{ border: "1px solid rgba(28,22,16,0.08)" }}
         >
-          <table className="w-full border-collapse text-base">
+          <table className="w-full border-collapse text-xs sm:text-sm md:text-base" style={{ minWidth: "520px" }}>
             <thead>
               <tr style={{ borderBottom: "1px solid rgba(28,22,16,0.10)" }}>
                 <th
-                  className="text-left py-4 px-6 font-medium"
+                  className="text-left py-3 px-3 sm:px-5 md:px-6 font-semibold"
                   style={{ color: "#5C4D3C" }}
                 >
                   Post
                 </th>
                 <th
-                  className="text-right py-4 px-6 font-medium"
+                  className="text-right py-3 px-3 sm:px-5 md:px-6 font-semibold"
                   style={{ color: "#6B5744" }}
                 >
                   Via makelaar
                 </th>
                 <th
-                  className="text-right py-4 px-6 font-medium"
+                  className="text-right py-3 px-3 sm:px-5 md:px-6 font-semibold"
                   style={{ color: "#C4A35A" }}
                 >
                   Via wijkopenpanden.be
@@ -125,7 +125,7 @@ export default function EerlijkPrijs() {
                   }}
                 >
                   <td
-                    className="py-4 px-6"
+                    className="py-3 px-3 sm:px-5 md:px-6"
                     style={{
                       color: rij.highlight ? "#1C1610" : "#5C4D3C",
                       fontWeight: rij.highlight ? 500 : 400,
@@ -134,13 +134,13 @@ export default function EerlijkPrijs() {
                     {rij.label}
                   </td>
                   <td
-                    className="text-right py-4 px-6"
+                    className="text-right py-3 px-3 sm:px-5 md:px-6"
                     style={{ color: "#6B5744" }}
                   >
                     {rij.traditioneel}
                   </td>
                   <td
-                    className="text-right py-4 px-6 font-medium"
+                    className="text-right py-3 px-3 sm:px-5 md:px-6 font-medium"
                     style={{ color: "#C4A35A" }}
                   >
                     {rij.wij}

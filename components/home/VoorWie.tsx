@@ -122,8 +122,9 @@ export default function VoorWie() {
                 whileInView={{ opacity: 1, x: 0 }}
                 viewport={{ once: true }}
                 transition={{ duration: 0.5, ease: [0.22, 1, 0.36, 1], delay: i * 0.06 }}
-                className="flex-shrink-0 w-72 snap-start flex flex-col gap-5 p-7 rounded-2xl"
+                className="flex-shrink-0 snap-start flex flex-col gap-5 p-6 rounded-2xl"
                 style={{
+                  width: "min(288px, calc(100vw - 48px))",
                   background: "#FFFFFF",
                   border: "1px solid rgba(28,22,16,0.08)",
                 }}
