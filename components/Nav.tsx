@@ -80,7 +80,7 @@ export default function Nav() {
     >
       <Container className="flex items-center justify-between py-4">
         {/* Logo */}
-        <a href="/" className="flex-shrink-0 font-serif text-xl text-[#1C1610] tracking-tight">
+        <a href="/" className="flex-shrink-0 font-serif font-bold text-xl text-[#1C1610] tracking-tight">
           wijkopenpanden
           <span style={{ color: "#C4A35A" }}>.</span>
           be

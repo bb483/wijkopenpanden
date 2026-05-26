@@ -94,7 +94,7 @@ export default function VoorWie() {
             Voor wie
           </p>
           <h2
-            className="font-serif font-normal max-w-xl mb-4"
+            className="font-serif font-bold max-w-xl mb-4"
             style={{
               fontSize: "clamp(2rem, 4vw, 3rem)",
               color: "#1C1610",
@@ -136,7 +136,7 @@ export default function VoorWie() {
                   {item.icon}
                 </div>
                 <div>
-                  <h3 className="font-serif text-xl text-[#1C1610] mb-2">{item.title}</h3>
+                  <h3 className="font-serif font-semibold text-xl text-[#1C1610] mb-2">{item.title}</h3>
                   <p className="text-base leading-relaxed" style={{ color: "#5C4D3C" }}>
                     {item.body}
                   </p>
@@ -173,7 +173,7 @@ export default function VoorWie() {
                 {item.icon}
               </div>
               <div>
-                <h3 className="font-serif text-2xl text-[#1C1610] mb-3">{item.title}</h3>
+                <h3 className="font-serif font-semibold text-2xl text-[#1C1610] mb-3">{item.title}</h3>
                 <p className="text-base leading-relaxed" style={{ color: "#5C4D3C" }}>
                   {item.body}
                 </p>

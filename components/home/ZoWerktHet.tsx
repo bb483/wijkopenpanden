@@ -77,7 +77,7 @@ export default function ZoWerktHet() {
             Werkwijze
           </p>
           <h2
-            className="font-serif font-normal max-w-xl"
+            className="font-serif font-bold max-w-xl"
             style={{
               fontSize: "clamp(2rem, 4vw, 3rem)",
               color: "#1C1610",
@@ -132,7 +132,7 @@ export default function ZoWerktHet() {
                     Stap {stap.nr}
                   </div>
                   <h3
-                    className="font-serif text-2xl"
+                    className="font-serif font-semibold text-2xl"
                     style={{ color: "#1C1610" }}
                   >
                     {stap.title}

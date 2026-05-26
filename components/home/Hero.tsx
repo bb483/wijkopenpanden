@@ -61,11 +61,11 @@ export default function Hero() {
 
           {/* Headline */}
           <h1
-            className="font-serif font-normal mb-7"
+            className="font-serif font-extrabold mb-7"
             style={{
               fontSize: "clamp(2.75rem, 7vw, 5.75rem)",
               letterSpacing: "-0.03em",
-              lineHeight: 1.06,
+              lineHeight: 1.04,
               color: "#1C1610",
             }}
           >

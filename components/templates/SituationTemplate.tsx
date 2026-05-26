@@ -80,7 +80,7 @@ export default function SituationTemplate({ data }: { data: Situation }) {
                     {String(i + 1).padStart(2, "0")}
                   </span>
                   <div>
-                    <h3 className="font-serif text-xl text-ink mb-2">{step.title}</h3>
+                    <h3 className="font-serif font-semibold text-xl text-ink mb-2">{step.title}</h3>
                     <p className="text-sm text-muted leading-relaxed">{step.body}</p>
                   </div>
                 </div>

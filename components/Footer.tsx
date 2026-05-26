@@ -52,7 +52,7 @@ export default function Footer() {
         <Container>
           <div className="flex flex-col md:flex-row md:items-end justify-between gap-6">
             <div>
-              <a href="/" className="font-serif text-2xl text-white tracking-tight">
+              <a href="/" className="font-serif font-bold text-2xl text-white tracking-tight">
                 wijkopenpanden
                 <span style={{ color: "#C4A35A" }}>.</span>
                 be

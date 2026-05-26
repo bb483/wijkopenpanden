@@ -59,7 +59,7 @@ export default function EerlijkPrijs() {
             Transparantie
           </p>
           <h2
-            className="font-serif font-normal max-w-2xl mb-4"
+            className="font-serif font-bold max-w-2xl mb-4"
             style={{
               fontSize: "clamp(2rem, 4vw, 3rem)",
               color: "#1C1610",

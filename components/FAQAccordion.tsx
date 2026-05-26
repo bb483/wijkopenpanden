@@ -15,7 +15,7 @@ export default function FAQAccordion({ faqs }: { faqs: FAQ[] }) {
             className="w-full flex items-center justify-between gap-4 py-5 text-left group"
             aria-expanded={open === i}
           >
-            <span className="font-serif text-base md:text-lg text-ink group-hover:text-accent transition-colors">
+            <span className="font-serif font-semibold text-base md:text-lg text-ink group-hover:text-accent transition-colors">
               {item.question}
             </span>
             <span className="text-muted flex-shrink-0 text-xl leading-none select-none">

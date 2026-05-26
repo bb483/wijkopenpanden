@@ -285,7 +285,7 @@ export default function Formulier() {
               Gratis en vrijblijvend
             </p>
             <h2
-              className="font-serif font-normal mb-4"
+              className="font-serif font-bold mb-4"
               style={{ fontSize: "clamp(1.75rem, 3.5vw, 2.5rem)", color: "#1C1610", letterSpacing: "-0.02em" }}
             >
               Vraag uw eerlijk bod aan

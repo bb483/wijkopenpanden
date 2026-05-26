@@ -62,7 +62,7 @@ export default function BlijvenWonen() {
               Bijzondere constructies
             </p>
             <h2
-              className="font-serif font-normal mb-6"
+              className="font-serif font-bold mb-6"
               style={{
                 fontSize: "clamp(2rem, 4vw, 3.25rem)",
                 color: "#1C1610",
@@ -112,7 +112,7 @@ export default function BlijvenWonen() {
                   {item.tag}
                 </span>
                 <h3
-                  className="font-serif text-2xl md:text-3xl"
+                  className="font-serif font-semibold text-2xl md:text-3xl"
                   style={{ color: "#1C1610" }}
                 >
                   {item.title}

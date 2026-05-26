@@ -71,7 +71,7 @@ export default function FAQ() {
             Veelgestelde vragen
           </p>
           <h2
-            className="font-serif font-normal max-w-xl"
+            className="font-serif font-bold max-w-xl"
             style={{
               fontSize: "clamp(2rem, 4vw, 3rem)",
               color: "#1C1610",
@@ -147,7 +147,7 @@ export default function FAQ() {
           style={{ background: "#F5EFE4", border: "1px solid rgba(28,22,16,0.08)" }}
         >
           <div>
-            <p className="font-serif text-xl font-normal mb-1" style={{ color: "#1C1610" }}>Nog vragen? Wij helpen u graag.</p>
+            <p className="font-serif text-xl font-bold mb-1" style={{ color: "#1C1610" }}>Nog vragen? Wij helpen u graag.</p>
             <p className="text-base" style={{ color: "#4A3D30" }}>Gratis en vrijblijvend — wij nemen binnen 2 uur contact op.</p>
           </div>
           <div className="flex flex-col sm:flex-row gap-3 flex-shrink-0">

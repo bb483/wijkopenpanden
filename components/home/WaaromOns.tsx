@@ -128,7 +128,7 @@ function TiltCard({ item, index }: { item: typeof voordelen[0]; index: number })
           {item.icon}
         </div>
         <div>
-          <h3 className="font-serif text-xl text-[#1C1610] mb-2">{item.label}</h3>
+          <h3 className="font-serif font-semibold text-xl text-[#1C1610] mb-2">{item.label}</h3>
           <p className="text-base leading-relaxed" style={{ color: "#5C4D3C" }}>
             {item.body}
           </p>
@@ -160,7 +160,7 @@ export default function WaaromOns() {
             Waarom wijkopenpanden.be
           </p>
           <h2
-            className="font-serif font-normal max-w-xl"
+            className="font-serif font-bold max-w-xl"
             style={{
               fontSize: "clamp(2rem, 4vw, 3rem)",
               color: "#1C1610",
