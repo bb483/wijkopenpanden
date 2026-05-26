@@ -70,7 +70,7 @@ function OptionButton({
     <button
       type="button"
       onClick={onClick}
-      className="px-4 py-3 rounded-xl text-sm font-medium text-left transition-all duration-150"
+      className="px-4 py-3 rounded-xl text-sm font-medium text-left transition-all duration-150 break-words"
       style={{
         background: selected ? "rgba(196,163,90,0.10)" : "#FAF7F2",
         border: selected ? "2px solid #C4A35A" : "1.5px solid rgba(28,22,16,0.12)",
@@ -194,7 +194,7 @@ const types = [
   "Vrijstaande woning",
   "Villa",
   "Herenhuis",
-  "Opbrengsteigendom",
+  "Opbrengst eigendom",
   "Bouwgrond",
   "Garage / box",
   "Andere",
