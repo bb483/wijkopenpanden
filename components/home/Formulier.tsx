@@ -83,19 +83,46 @@ export default function Formulier() {
   const [form, setForm] = useState<FormData>(initial);
   const [errors, setErrors] = useState<Errors>({});
   const [submitted, setSubmitted] = useState(false);
+  const [loading, setLoading] = useState(false);
+  const [sendError, setSendError] = useState(false);
 
   const set =
     (field: keyof FormData) =>
     (e: React.ChangeEvent<HTMLInputElement | HTMLSelectElement>) =>
       setForm((f) => ({ ...f, [field]: e.target.value }));
 
-  function handleSubmit(e: FormEvent) {
+  async function handleSubmit(e: FormEvent) {
     e.preventDefault();
     const errs = validate(form);
     setErrors(errs);
     if (Object.keys(errs).length > 0) return;
-    console.log("Formulier ingediend:", form);
-    setSubmitted(true);
+
+    setLoading(true);
+    setSendError(false);
+
+    try {
+      const res = await fetch("https://api.web3forms.com/submit", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          access_key: "db7cb328-aaf2-4d20-becc-849f2aa440de",
+          subject: `Nieuw bod aangevraagd — ${form.adres}`,
+          from_name: form.naam,
+          replyto: form.telefoon,
+          ...form,
+        }),
+      });
+      const data = await res.json();
+      if (data.success) {
+        setSubmitted(true);
+      } else {
+        setSendError(true);
+      }
+    } catch {
+      setSendError(true);
+    } finally {
+      setLoading(false);
+    }
   }
 
   const focusStyle = {
@@ -306,13 +333,20 @@ export default function Formulier() {
 
                 <button
                   type="submit"
-                  className="w-full rounded-full py-4 text-base font-medium text-[#1C1610] transition-colors duration-200 mt-2"
+                  disabled={loading}
+                  className="w-full rounded-full py-4 text-base font-semibold text-white transition-colors duration-200 mt-2 disabled:opacity-60"
                   style={{ background: "#C0392B" }}
-                  onMouseEnter={(e) => (e.currentTarget.style.background = "#a93226")}
-                  onMouseLeave={(e) => (e.currentTarget.style.background = "#C0392B")}
+                  onMouseEnter={(e) => { if (!loading) e.currentTarget.style.background = "#a93226"; }}
+                  onMouseLeave={(e) => { if (!loading) e.currentTarget.style.background = "#C0392B"; }}
                 >
-                  Vraag mijn eerlijk bod aan
+                  {loading ? "Verzenden…" : "Vraag mijn eerlijk bod aan"}
                 </button>
+
+                {sendError && (
+                  <p className="text-sm text-center" style={{ color: "#C0392B" }}>
+                    Er ging iets mis. Bel ons op 0492 77 94 75 of probeer opnieuw.
+                  </p>
+                )}
 
                 <p
                   className="text-xs text-center"
