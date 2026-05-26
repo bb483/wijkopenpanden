@@ -35,7 +35,7 @@ const voordelen = [
       </svg>
     ),
     label: "Geen verborgen kosten",
-    body: "Wat in het bod staat, is wat u ontvangt. Geen aftrekposten voor herstellingen of keuringen.",
+    body: "Wat in het bod staat, is wat u ontvangt. Keuringen en ontruiming zijn volledig voor onze rekening en worden nooit van de prijs afgetrokken.",
   },
   {
     icon: (

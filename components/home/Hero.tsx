@@ -7,7 +7,7 @@ import Container from "@/components/Container";
 const trust = [
   "Reactie binnen 2 uur",
   "Geen commissie of kosten",
-  "Keuringen volledig inbegrepen",
+  "Keuringen & ontruiming inbegrepen",
   "Vrijblijvend bod na bezichtiging",
 ];
 

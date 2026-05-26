@@ -12,7 +12,12 @@ const vergelijking = [
   {
     label: "EPC, elektriciteitskeuring, asbestinventaris",
     traditioneel: "Ten laste van verkoper",
-    wij: "Geen",
+    wij: "Volledig inbegrepen",
+  },
+  {
+    label: "Ontruiming van de woning",
+    traditioneel: "Ten laste van verkoper",
+    wij: "Volledig inbegrepen",
   },
   {
     label: "Publicatie op vastgoedportalen",

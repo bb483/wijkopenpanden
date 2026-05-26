@@ -21,6 +21,11 @@ const vragen = [
       "Als koper betalen wij de registratierechten en notariskosten aan koperskant. U betaalt uitsluitend uw eigen notaris, als u er een kiest. Er zijn geen verborgen kosten.",
   },
   {
+    vraag: "Zijn keuringen en ontruiming inbegrepen in de prijs?",
+    antwoord:
+      "Ja, volledig. Wij regelen en betalen alle wettelijk verplichte keuringen (EPC, elektriciteitskeuring, asbestinventaris) én de ontruiming van de woning. Deze kosten worden nooit van het overeengekomen bod afgetrokken. Wat in het bod staat, is wat u ontvangt.",
+  },
+  {
     vraag: "Hoe snel kan de overdracht plaatsvinden?",
     antwoord:
       "Gemiddeld 2 tot 3 maanden van eerste contact tot ondertekening van de akte. In dringende gevallen — bijvoorbeeld bij een erfenis of financiële druk — kunnen we sneller schakelen. De akte-datum bepaalt u.",
