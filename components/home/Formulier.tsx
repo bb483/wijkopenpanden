@@ -1,7 +1,7 @@
 "use client";
 
-import { useState, FormEvent } from "react";
-import { motion } from "framer-motion";
+import { useState, FormEvent, useRef, useEffect, useCallback } from "react";
+import { motion, AnimatePresence } from "framer-motion";
 import Container from "@/components/Container";
 
 interface FormData {
@@ -80,6 +80,110 @@ function OptionButton({
     >
       {label}
     </button>
+  );
+}
+
+function AdresAutocomplete({
+  value,
+  onChange,
+  error,
+}: {
+  value: string;
+  onChange: (val: string) => void;
+  error?: string;
+}) {
+  const [suggestions, setSuggestions] = useState<string[]>([]);
+  const [open, setOpen] = useState(false);
+  const [focused, setFocused] = useState(false);
+  const wrapperRef = useRef<HTMLDivElement>(null);
+  const timerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+
+  const fetchSuggestions = useCallback(async (q: string) => {
+    if (q.length < 3) { setSuggestions([]); setOpen(false); return; }
+    try {
+      const res = await fetch(
+        `https://geo.api.vlaanderen.be/geolocation/v4/Suggestion?q=${encodeURIComponent(q)}&c=6`
+      );
+      const data = await res.json();
+      const results: string[] = data?.SuggestionResult ?? [];
+      setSuggestions(results);
+      setOpen(results.length > 0);
+    } catch {
+      setSuggestions([]);
+    }
+  }, []);
+
+  const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+    const val = e.target.value;
+    onChange(val);
+    if (timerRef.current) clearTimeout(timerRef.current);
+    timerRef.current = setTimeout(() => fetchSuggestions(val), 300);
+  };
+
+  const handleSelect = (s: string) => {
+    onChange(s);
+    setSuggestions([]);
+    setOpen(false);
+  };
+
+  useEffect(() => {
+    const handleClick = (e: MouseEvent) => {
+      if (wrapperRef.current && !wrapperRef.current.contains(e.target as Node)) {
+        setOpen(false);
+      }
+    };
+    document.addEventListener("mousedown", handleClick);
+    return () => document.removeEventListener("mousedown", handleClick);
+  }, []);
+
+  return (
+    <div ref={wrapperRef} className="relative">
+      <input
+        type="text"
+        placeholder="Straat en nummer, gemeente"
+        value={value}
+        onChange={handleChange}
+        onFocus={() => { setFocused(true); if (suggestions.length > 0) setOpen(true); }}
+        onBlur={() => setFocused(false)}
+        autoComplete="off"
+        style={{
+          ...inputBase,
+          borderColor: focused ? "#C4A35A" : error ? "#C0392B" : "rgba(28,22,16,0.12)",
+          boxShadow: focused ? "0 0 0 3px rgba(196,163,90,0.12)" : "none",
+        }}
+        className="placeholder:text-[#1C1610]/30"
+      />
+      <AnimatePresence>
+        {open && (
+          <motion.ul
+            initial={{ opacity: 0, y: -4 }}
+            animate={{ opacity: 1, y: 0 }}
+            exit={{ opacity: 0, y: -4 }}
+            transition={{ duration: 0.15 }}
+            className="absolute z-50 w-full mt-1 rounded-xl overflow-hidden"
+            style={{ background: "#FFFFFF", border: "1.5px solid rgba(28,22,16,0.10)", boxShadow: "0 8px 24px rgba(28,22,16,0.10)" }}
+          >
+            {suggestions.map((s, i) => (
+              <li key={i}>
+                <button
+                  type="button"
+                  onMouseDown={() => handleSelect(s)}
+                  className="w-full text-left px-4 py-3 text-sm transition-colors duration-100"
+                  style={{ color: "#1C1610", borderBottom: i < suggestions.length - 1 ? "1px solid rgba(28,22,16,0.06)" : "none" }}
+                  onMouseEnter={(e) => (e.currentTarget.style.background = "#FAF7F2")}
+                  onMouseLeave={(e) => (e.currentTarget.style.background = "transparent")}
+                >
+                  <svg className="inline mr-2 flex-shrink-0" width="12" height="12" viewBox="0 0 12 12" fill="none">
+                    <path d="M6 1C4.07 1 2.5 2.57 2.5 4.5c0 2.63 3.5 6.5 3.5 6.5s3.5-3.87 3.5-6.5C9.5 2.57 7.93 1 6 1zm0 4.75a1.25 1.25 0 1 1 0-2.5 1.25 1.25 0 0 1 0 2.5z" fill="#C4A35A" />
+                  </svg>
+                  {s}
+                </button>
+              </li>
+            ))}
+          </motion.ul>
+        )}
+      </AnimatePresence>
+    </div>
   );
 }
 
@@ -220,15 +324,10 @@ export default function Formulier() {
 
                 {/* Adres */}
                 <Field label="Adres van het pand" error={errors.adres}>
-                  <input
-                    type="text"
-                    placeholder="Straat en nummer, gemeente"
+                  <AdresAutocomplete
                     value={form.adres}
-                    onChange={setText("adres")}
-                    onFocus={handleFocus}
-                    onBlur={handleBlur}
-                    style={inputBase}
-                    className="placeholder:text-[#1C1610]/30"
+                    onChange={(val) => setForm((f) => ({ ...f, adres: val }))}
+                    error={errors.adres}
                   />
                 </Field>
 
