@@ -65,17 +65,18 @@ export default function FAQ() {
           className="mb-16"
         >
           <p
-            className="text-sm font-semibold tracking-widest uppercase mb-3"
+            className="flex items-center gap-3 text-sm font-semibold tracking-widest uppercase mb-4"
             style={{ color: "#C4A35A" }}
           >
+            <span className="w-6 h-px flex-shrink-0" style={{ background: "#C4A35A" }} />
             Veelgestelde vragen
           </p>
           <h2
             className="font-serif font-bold max-w-xl"
             style={{
-              fontSize: "clamp(2rem, 4vw, 3rem)",
+              fontSize: "clamp(2.25rem, 4.5vw, 3.5rem)",
               color: "#1C1610",
-              letterSpacing: "-0.02em",
+              letterSpacing: "-0.025em",
             }}
           >
             Wat eigenaars ons het vaakst vragen

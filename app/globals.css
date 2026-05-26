@@ -41,8 +41,20 @@ body {
   line-height: 1.65;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+  text-rendering: optimizeLegibility;
   overflow-x: hidden;
 }
+
+::selection {
+  background: rgba(196, 163, 90, 0.20);
+  color: #1C1610;
+}
+
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: #FAF7F2; }
+::-webkit-scrollbar-thumb { background: rgba(28,22,16,0.18); border-radius: 99px; }
+::-webkit-scrollbar-thumb:hover { background: rgba(28,22,16,0.32); }
 
 h1, h2 {
   font-family: var(--font-serif);

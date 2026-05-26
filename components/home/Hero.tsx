@@ -53,10 +53,12 @@ export default function Hero() {
 
           {/* Eyebrow */}
           <p
-            className="text-sm font-semibold tracking-widest uppercase mb-6"
+            className="inline-flex items-center gap-3 text-sm font-semibold tracking-widest uppercase mb-6"
             style={{ color: "#C4A35A" }}
           >
+            <span className="w-6 h-px flex-shrink-0" style={{ background: "#C4A35A" }} />
             Vastgoed opkoper — Antwerpen &amp; omstreken
+            <span className="w-6 h-px flex-shrink-0" style={{ background: "#C4A35A" }} />
           </p>
 
           {/* Headline */}
@@ -91,12 +93,15 @@ export default function Hero() {
           <div className="flex flex-col sm:flex-row items-stretch sm:items-center justify-center gap-3 mb-14">
             <a
               href="#formulier"
-              className="px-8 py-4 rounded-full font-semibold text-white transition-colors duration-200 text-center"
+              className="inline-flex items-center justify-center gap-2.5 px-8 py-4 rounded-full font-semibold text-white transition-colors duration-200 text-center"
               style={{ background: "#C0392B", fontSize: "1.0625rem" }}
               onMouseEnter={(e) => (e.currentTarget.style.background = "#a93226")}
               onMouseLeave={(e) => (e.currentTarget.style.background = "#C0392B")}
             >
               Vraag uw gratis bod aan
+              <svg width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true">
+                <path d="M3 8h10M9 4l4 4-4 4" stroke="currentColor" strokeWidth="1.75" strokeLinecap="round" strokeLinejoin="round" />
+              </svg>
             </a>
             <a
               href="tel:0492779475"

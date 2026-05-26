@@ -281,7 +281,8 @@ export default function Formulier() {
             className="rounded-2xl p-8 md:p-12"
             style={{ background: "#FFFFFF", border: "1px solid rgba(28,22,16,0.08)", boxShadow: "0 4px 32px rgba(28,22,16,0.07)" }}
           >
-            <p className="text-sm font-semibold tracking-widest uppercase mb-3" style={{ color: "#C4A35A" }}>
+            <p className="flex items-center gap-3 text-sm font-semibold tracking-widest uppercase mb-4" style={{ color: "#C4A35A" }}>
+              <span className="w-6 h-px flex-shrink-0" style={{ background: "#C4A35A" }} />
               Gratis en vrijblijvend
             </p>
             <h2

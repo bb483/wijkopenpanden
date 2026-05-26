@@ -71,17 +71,18 @@ export default function ZoWerktHet() {
         {/* Header */}
         <div className="mb-24">
           <p
-            className="text-sm font-semibold tracking-widest uppercase mb-3"
+            className="flex items-center gap-3 text-sm font-semibold tracking-widest uppercase mb-4"
             style={{ color: "#C4A35A" }}
           >
+            <span className="w-6 h-px flex-shrink-0" style={{ background: "#C4A35A" }} />
             Werkwijze
           </p>
           <h2
             className="font-serif font-bold max-w-xl"
             style={{
-              fontSize: "clamp(2rem, 4vw, 3rem)",
+              fontSize: "clamp(2.25rem, 4.5vw, 3.5rem)",
               color: "#1C1610",
-              letterSpacing: "-0.02em",
+              letterSpacing: "-0.025em",
             }}
           >
             Zo werkt het
@@ -108,10 +109,10 @@ export default function ZoWerktHet() {
                 {/* Step number — serves as line anchor on desktop */}
                 <div className="flex-shrink-0 relative z-10">
                   <span
-                    className="font-serif leading-none select-none block"
+                    className="font-serif font-bold leading-none select-none block"
                     style={{
-                      fontSize: "clamp(4rem, 8vw, 7rem)",
-                      color: "#E8DCC8",
+                      fontSize: "clamp(4.5rem, 9vw, 8rem)",
+                      color: "rgba(196,163,90,0.18)",
                       lineHeight: 1,
                     }}
                   >
@@ -132,8 +133,8 @@ export default function ZoWerktHet() {
                     Stap {stap.nr}
                   </div>
                   <h3
-                    className="font-serif font-semibold text-2xl"
-                    style={{ color: "#1C1610" }}
+                    className="font-serif font-bold text-2xl md:text-3xl"
+                    style={{ color: "#1C1610", letterSpacing: "-0.02em" }}
                   >
                     {stap.title}
                   </h3>

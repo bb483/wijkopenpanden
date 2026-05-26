@@ -56,17 +56,18 @@ export default function BlijvenWonen() {
             transition={{ duration: 0.7, ease: [0.22, 1, 0.36, 1] }}
           >
             <p
-              className="text-sm font-semibold tracking-widest uppercase mb-3"
+              className="flex items-center gap-3 text-sm font-semibold tracking-widest uppercase mb-4"
               style={{ color: "#C4A35A" }}
             >
+              <span className="w-6 h-px flex-shrink-0" style={{ background: "#C4A35A" }} />
               Bijzondere constructies
             </p>
             <h2
               className="font-serif font-bold mb-6"
               style={{
-                fontSize: "clamp(2rem, 4vw, 3.25rem)",
+                fontSize: "clamp(2.25rem, 4.5vw, 3.5rem)",
                 color: "#1C1610",
-                letterSpacing: "-0.02em",
+                letterSpacing: "-0.025em",
               }}
             >
               Verkopen zonder te verhuizen
@@ -81,12 +82,15 @@ export default function BlijvenWonen() {
 
             <a
               href="#formulier"
-              className="inline-block px-8 py-3.5 rounded-full text-sm font-medium text-[#1C1610] transition-colors duration-200"
+              className="inline-flex items-center gap-2 px-8 py-3.5 rounded-full text-sm font-semibold text-white transition-colors duration-200"
               style={{ background: "#C0392B" }}
               onMouseEnter={(e) => (e.currentTarget.style.background = "#a93226")}
               onMouseLeave={(e) => (e.currentTarget.style.background = "#C0392B")}
             >
               Meer informatie over deze formules
+              <svg width="14" height="14" viewBox="0 0 16 16" fill="none" aria-hidden="true">
+                <path d="M3 8h10M9 4l4 4-4 4" stroke="currentColor" strokeWidth="1.75" strokeLinecap="round" strokeLinejoin="round" />
+              </svg>
             </a>
           </motion.div>
 
@@ -130,10 +134,9 @@ export default function BlijvenWonen() {
                       className="flex items-start gap-2.5 text-sm"
                       style={{ color: "#5C4D3C" }}
                     >
-                      <span
-                        className="mt-1.5 w-1.5 h-1.5 rounded-full flex-shrink-0"
-                        style={{ background: "#C4A35A" }}
-                      />
+                      <svg width="14" height="14" viewBox="0 0 14 14" fill="none" className="flex-shrink-0 mt-0.5" aria-hidden="true">
+                        <path d="M2.5 7l3 3 6-6" stroke="#C4A35A" strokeWidth="1.75" strokeLinecap="round" strokeLinejoin="round" />
+                      </svg>
                       {punt}
                     </li>
                   ))}
