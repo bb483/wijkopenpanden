@@ -1,36 +1,47 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Sleutel — Vastgoed opkoper Antwerpen
 
-## Getting Started
+Next.js fundering voor de Berabrick leads website. Bevat het design-systeem, core componenten en de basisstructuur voor volgende sprints.
 
-First, run the development server:
+## Setup
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
+pnpm install
 pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) voor de homepage.
+Open [http://localhost:3000/styleguide](http://localhost:3000/styleguide) om alle componenten visueel te valideren.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Tech stack
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Next.js 16** met App Router + TypeScript
+- **Tailwind CSS v4** — tokens gedefinieerd via `@theme` in `globals.css`
+- **Framer Motion** — geïnstalleerd, nog niet actief
+- **Fraunces** (serif) + **Inter** (sans) via `next/font/google`
 
-## Learn More
+## Design tokens (globals.css)
 
-To learn more about Next.js, take a look at the following resources:
+| Token     | Waarde    | Gebruik                         |
+|-----------|-----------|----------------------------------|
+| `bone`    | `#F5F2ED` | Hoofdachtergrond                |
+| `ink`     | `#1A1A1A` | Hoofdtekst                      |
+| `accent`  | `#B8633A` | Terracotta, spaarzaam gebruiken |
+| `navy`    | `#1E2A3A` | Subtiele diepte                 |
+| `muted`   | `#8A8A85` | Ondersteunende tekst            |
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Componenten (`/components`)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+| Component     | Beschrijving                                         |
+|---------------|------------------------------------------------------|
+| `Container`   | Max-width wrapper met responsive padding             |
+| `Section`     | Verticale sectie met `bone/white/ink` varianten      |
+| `Button`      | `primary` (ink) en `secondary` (outlined) varianten |
+| `Heading`     | h1/h2/h3 met Fraunces serif, correcte schaal         |
+| `Prose`       | Body-tekst wrapper met `max-w-prose` en line-height  |
+| `Nav`         | Minimalistisch: logo links, tel + CTA rechts         |
+| `Footer`      | KBO, contact, privacybeleid                          |
 
-## Deploy on Vercel
+## Pagina's
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- `/` — Homepage: Nav + placeholder hero + Footer
+- `/styleguide` — Alle componenten in alle varianten (intern, altijd beschikbaar)

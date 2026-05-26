@@ -1,0 +1,23 @@
+[     678ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/09do_next_dist_0y9hd5u._.js:2431
+[    1042ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/09do_next_dist_0y9hd5u._.js:2431
+[    1514ms] [WARNING] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead. @ http://localhost:3001/_next/static/chunks/09do_next_dist_0y9hd5u._.js:2431
+[  259995ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/09do_next_dist_0y9hd5u._.js:2431
+[  260707ms] [LOG] [Fast Refresh] done in 805ms @ http://localhost:3001/_next/static/chunks/09do_next_dist_0y9hd5u._.js:2431
+[  260834ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/09do_next_dist_0y9hd5u._.js:2431
+[  260900ms] [LOG] [Fast Refresh] done in 167ms @ http://localhost:3001/_next/static/chunks/09do_next_dist_0y9hd5u._.js:2431
+[  261013ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/09do_next_dist_0y9hd5u._.js:2431
+[  261032ms] [LOG] [Fast Refresh] done in 120ms @ http://localhost:3001/_next/static/chunks/09do_next_dist_0y9hd5u._.js:2431
+[  261145ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/09do_next_dist_0y9hd5u._.js:2431
+[  261192ms] [LOG] [Fast Refresh] done in 153ms @ http://localhost:3001/_next/static/chunks/09do_next_dist_0y9hd5u._.js:2431
+[  265026ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/09do_next_dist_0y9hd5u._.js:2431
+[  265303ms] [LOG] [Fast Refresh] done in 371ms @ http://localhost:3001/_next/static/chunks/09do_next_dist_0y9hd5u._.js:2431
+[  265407ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/09do_next_dist_0y9hd5u._.js:2431
+[  265628ms] [LOG] [Fast Refresh] done in 321ms @ http://localhost:3001/_next/static/chunks/09do_next_dist_0y9hd5u._.js:2431
+[  265748ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/09do_next_dist_0y9hd5u._.js:2431
+[  265756ms] [LOG] [Fast Refresh] done in 108ms @ http://localhost:3001/_next/static/chunks/09do_next_dist_0y9hd5u._.js:2431
+[  266094ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/09do_next_dist_0y9hd5u._.js:2431
+[  266104ms] [LOG] [Fast Refresh] done in 112ms @ http://localhost:3001/_next/static/chunks/09do_next_dist_0y9hd5u._.js:2431
+[  271832ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/09do_next_dist_0y9hd5u._.js:2431
+[  271877ms] [LOG] [Fast Refresh] done in 143ms @ http://localhost:3001/_next/static/chunks/09do_next_dist_0y9hd5u._.js:2431
+[  333324ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/09do_next_dist_0y9hd5u._.js:2431
+[  333347ms] [LOG] [Fast Refresh] done in 130ms @ http://localhost:3001/_next/static/chunks/09do_next_dist_0y9hd5u._.js:2431

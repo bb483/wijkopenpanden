@@ -1,0 +1,427 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - link "wijkopenpanden.be" [ref=e4] [cursor=pointer]:
+        - /url: /
+      - navigation [ref=e5]:
+        - button "Vastgoedtype" [ref=e7]
+        - button "Situatie" [ref=e9]
+        - button "Regio" [ref=e11]
+        - button "Kennisbank" [ref=e13]
+      - generic [ref=e14]:
+        - link "0492 77 94 75" [ref=e15] [cursor=pointer]:
+          - /url: tel:0492779475
+        - link "Vraag bod aan" [ref=e16] [cursor=pointer]:
+          - /url: "#formulier"
+  - main [ref=e17]:
+    - generic [ref=e18]:
+      - generic [ref=e20]:
+        - generic [ref=e21]:
+          - paragraph [ref=e22]: Antwerpen & omstreken
+          - heading "Direct een eerlijk bod. Zonder makelaar. Volledig ontzorgd." [level=1] [ref=e23]:
+            - text: Direct een eerlijk bod.
+            - text: Zonder makelaar.
+            - text: Volledig ontzorgd.
+          - paragraph [ref=e24]: Wij nemen binnen 2 uur contact op en bezorgen u na bezichtiging een concreet bod.
+          - generic [ref=e25]:
+            - link "Vraag uw bod aan" [ref=e26] [cursor=pointer]:
+              - /url: "#formulier"
+            - link "0492 77 94 75" [ref=e27] [cursor=pointer]:
+              - /url: tel:0492779475
+          - list [ref=e28]:
+            - listitem [ref=e29]: Geen makelaar, geen commissie
+            - listitem [ref=e31]: Reactie binnen 2 uur — ook in het weekend
+            - listitem [ref=e33]: Keuringen en notaris inbegrepen
+            - listitem [ref=e35]: Vrijblijvend en kosteloos
+        - img [ref=e39]
+      - generic [ref=e57]: Scroll
+    - generic [ref=e60]:
+      - generic [ref=e61]:
+        - generic [ref=e62]: 2 uur
+        - generic [ref=e63]: Reactietijd
+      - generic [ref=e64]:
+        - generic [ref=e65]: "0"
+        - generic [ref=e66]: Commissie
+      - generic [ref=e67]:
+        - generic [ref=e68]: 2–3 mnd
+        - generic [ref=e69]: Doorlooptijd
+    - generic [ref=e71]:
+      - generic [ref=e72]:
+        - paragraph [ref=e73]: Voor wie
+        - heading "In welke situatie verkoopt u aan wijkopenpanden.be?" [level=2] [ref=e74]
+        - paragraph [ref=e75]: Er is geen typische verkoper. Eigenaars kiezen voor ons wanneer snelheid, discretie of zekerheid zwaarder wegen dan de absolute maximumprijs.
+      - generic [ref=e76]:
+        - generic [ref=e77]:
+          - img [ref=e79]
+          - generic [ref=e84]:
+            - heading "Nalatenschap" [level=3] [ref=e85]
+            - paragraph [ref=e86]: Een geërfde woning die u niet wilt verhuren of verbouwen. Wij kopen snel en correct aan, zodat u de erfenis vlot kunt afwikkelen.
+        - generic [ref=e87]:
+          - img [ref=e89]
+          - generic [ref=e92]:
+            - heading "Scheiding" [level=3] [ref=e93]
+            - paragraph [ref=e94]: Wanneer beide partijen snel willen afsluiten. Geen getouwtrek over de prijs, geen lang verkooptraject.
+        - generic [ref=e95]:
+          - img [ref=e97]
+          - generic [ref=e99]:
+            - heading "Opknapper" [level=3] [ref=e100]
+            - paragraph [ref=e101]: Uw woning heeft renovaties nodig maar u wilt de investering niet meer doen. Wij kopen in elke staat aan.
+        - generic [ref=e102]:
+          - img [ref=e104]
+          - generic [ref=e109]:
+            - heading "Opbrengsteigendom" [level=3] [ref=e110]
+            - paragraph [ref=e111]: U wilt van uw huurwoning af, met of zonder huurders. Wij regelen de overdracht volledig.
+        - generic [ref=e112]:
+          - img [ref=e114]
+          - generic [ref=e117]:
+            - heading "Blijven wonen" [level=3] [ref=e118]
+            - paragraph [ref=e119]: U verkoopt uw woning maar woont er nog jaren in als huurder. Zekerheid nu, verhuizen wanneer het u uitkomt.
+        - generic [ref=e120]:
+          - img [ref=e122]
+          - generic [ref=e124]:
+            - heading "Lijfrente" [level=3] [ref=e125]
+            - paragraph [ref=e126]: Wij kopen uw woning aan en betalen u maandelijks een aanvullend inkomen. U behoudt het recht om te blijven wonen.
+    - generic [ref=e128]:
+      - generic [ref=e129]:
+        - paragraph [ref=e130]: Werkwijze
+        - heading "Zo werkt het" [level=2] [ref=e131]
+      - generic [ref=e133]:
+        - generic [ref=e134]:
+          - generic [ref=e136]: "01"
+          - generic [ref=e137]:
+            - generic [ref=e138]: Stap 01
+            - heading "Aanmelding" [level=3] [ref=e140]
+            - paragraph [ref=e141]: "U vult het formulier in of belt ons. U geeft een korte beschrijving van de woning: adres, oppervlakte en staat. Dat volstaat voor een eerste inschatting."
+        - generic [ref=e142]:
+          - generic [ref=e144]: "02"
+          - generic [ref=e145]:
+            - generic [ref=e146]: Stap 02
+            - heading "Contact binnen 2 uur" [level=3] [ref=e148]
+            - paragraph [ref=e149]: Wij nemen contact op, ook in het weekend. We plannen een bezichtiging op een moment dat u past.
+        - generic [ref=e150]:
+          - generic [ref=e152]: "03"
+          - generic [ref=e153]:
+            - generic [ref=e154]: Stap 03
+            - heading "Bezoek & bod" [level=3] [ref=e156]
+            - paragraph [ref=e157]: Wij bezoeken het pand en bezorgen u een schriftelijk bod. Geen schatting — een concreet bedrag. Vrijblijvend en kosteloos.
+        - generic [ref=e158]:
+          - generic [ref=e160]: "04"
+          - generic [ref=e161]:
+            - generic [ref=e162]: Stap 04
+            - heading "Notaris & akte" [level=3] [ref=e164]
+            - paragraph [ref=e165]: Wij regelen alles. Keuringen, compromis en akte worden door ons gecoördineerd. Gemiddeld 2 tot 3 maanden.
+      - link "Vraag nu uw gratis bod aan" [ref=e167] [cursor=pointer]:
+        - /url: "#formulier"
+    - generic [ref=e169]:
+      - generic [ref=e170]:
+        - paragraph [ref=e171]: Waarom wijkopenpanden.be
+        - heading "Concreet voordeel bij elke stap" [level=2] [ref=e172]
+      - generic [ref=e173]:
+        - generic [ref=e176]:
+          - img [ref=e178]
+          - generic [ref=e181]:
+            - heading "Eigen vermogen" [level=3] [ref=e182]
+            - paragraph [ref=e183]: Wij kopen met eigen middelen. Geen bankgoedkeuring, geen risico op uitval van de koop.
+        - generic [ref=e186]:
+          - img [ref=e188]
+          - generic [ref=e191]:
+            - heading "Vaste contactpersoon" [level=3] [ref=e192]
+            - paragraph [ref=e193]: U hebt één aanspreekpunt van het eerste gesprek tot de notariële akte.
+        - generic [ref=e196]:
+          - img [ref=e198]
+          - generic [ref=e200]:
+            - heading "Geen verborgen kosten" [level=3] [ref=e201]
+            - paragraph [ref=e202]: Wat in het bod staat, is wat u ontvangt. Geen aftrekposten voor herstellingen of keuringen.
+        - generic [ref=e205]:
+          - img [ref=e207]
+          - generic [ref=e210]:
+            - heading "Elke staat aanvaard" [level=3] [ref=e211]
+            - paragraph [ref=e212]: Van instapklaar tot zware renovatie — wij kopen zonder uitzonderingen.
+        - generic [ref=e215]:
+          - img [ref=e217]
+          - generic [ref=e220]:
+            - heading "Snelle overdracht" [level=3] [ref=e221]
+            - paragraph [ref=e222]: Gemiddeld 2 tot 3 maanden van eerste contact tot ondertekening van de akte.
+        - generic [ref=e225]:
+          - img [ref=e227]
+          - generic [ref=e230]:
+            - heading "Antwerpen is ons terrein" [level=3] [ref=e231]
+            - paragraph [ref=e232]: Wij kennen de lokale markt van Deurne tot Wilrijk en van Hoboken tot Merksem.
+    - generic [ref=e235]:
+      - generic [ref=e236]:
+        - paragraph [ref=e237]: Bijzondere constructies
+        - heading "Verkopen zonder te verhuizen" [level=2] [ref=e238]
+        - paragraph [ref=e239]: Niet elke eigenaar wil na de verkoop meteen verhuizen. Wij bieden twee formules aan die verkoop en woonzekerheid combineren.
+        - link "Meer informatie over deze formules" [ref=e240] [cursor=pointer]:
+          - /url: "#formulier"
+      - generic [ref=e241]:
+        - generic [ref=e242]:
+          - generic [ref=e243]: Constructie 1
+          - heading "Verkopen en blijven wonen" [level=3] [ref=e244]
+          - paragraph [ref=e245]: U verkoopt uw woning aan wijkopenpanden.be tegen een marktconforme prijs. Vervolgens tekent u een huurcontract en blijft u zo lang wonen als u wenst. U beschikt onmiddellijk over het kapitaal van uw verkoop, zonder te moeten verhuizen.
+          - list [ref=e246]:
+            - listitem [ref=e247]: Marktconforme verkoopprijs
+            - listitem [ref=e249]: Huurprijs vastgelegd bij verkoop
+            - listitem [ref=e251]: Geen termijn op de huur
+            - listitem [ref=e253]: Ideaal bij pensioenplanning of herfinanciering
+        - generic [ref=e255]:
+          - generic [ref=e256]: Constructie 2
+          - heading "Lijfrente" [level=3] [ref=e257]
+          - paragraph [ref=e258]: Wij kopen uw woning aan en betalen u maandelijks een gegarandeerd inkomen — de lijfrente — tot het einde van uw leven. U behoudt het gebruiksrecht op de woning. De aankoopprijs wordt gespreid uitbetaald in plaats van in één keer.
+          - list [ref=e259]:
+            - listitem [ref=e260]: Levenslang maandelijks inkomen
+            - listitem [ref=e262]: Gebruiksrecht op de woning blijft
+            - listitem [ref=e264]: Fiscaal voordelig in bepaalde situaties
+            - listitem [ref=e266]: Zekerheid voor beide partijen, vastgelegd bij notaris
+    - generic [ref=e269]:
+      - generic [ref=e270]:
+        - paragraph [ref=e271]: Transparantie
+        - heading "Eerlijk over de prijs" [level=2] [ref=e272]
+        - paragraph [ref=e273]: Ons bod ligt doorgaans iets onder de theoretische maximumprijs op de vrije markt. Maar wanneer u alle kosten en onzekerheid van een klassieke verkoop meetelt, is het nettoverschil veel kleiner dan verwacht — en soms in uw voordeel.
+      - table [ref=e275]:
+        - rowgroup [ref=e276]:
+          - row "Post Via makelaar Via wijkopenpanden.be" [ref=e277]:
+            - columnheader "Post" [ref=e278]
+            - columnheader "Via makelaar" [ref=e279]
+            - columnheader "Via wijkopenpanden.be" [ref=e280]
+        - rowgroup [ref=e281]:
+          - row "Makelaarscommissie (incl. btw) Ja Geen" [ref=e282]:
+            - cell "Makelaarscommissie (incl. btw)" [ref=e283]
+            - cell "Ja" [ref=e284]
+            - cell "Geen" [ref=e285]
+          - row "EPC, elektriciteitskeuring, asbestinventaris Ten laste van verkoper Geen" [ref=e286]:
+            - cell "EPC, elektriciteitskeuring, asbestinventaris" [ref=e287]
+            - cell "Ten laste van verkoper" [ref=e288]
+            - cell "Geen" [ref=e289]
+          - row "Publicatie op vastgoedportalen Ten laste van verkoper Geen" [ref=e290]:
+            - cell "Publicatie op vastgoedportalen" [ref=e291]
+            - cell "Ten laste van verkoper" [ref=e292]
+            - cell "Geen" [ref=e293]
+          - row "Dubbele woonlast tijdens wachttijd Mogelijk meerdere maanden Geen" [ref=e294]:
+            - cell "Dubbele woonlast tijdens wachttijd" [ref=e295]
+            - cell "Mogelijk meerdere maanden" [ref=e296]
+            - cell "Geen" [ref=e297]
+          - row "Herstellingen voor verkoop Vaak geadviseerd Geen — pand as-is" [ref=e298]:
+            - cell "Herstellingen voor verkoop" [ref=e299]
+            - cell "Vaak geadviseerd" [ref=e300]
+            - cell "Geen — pand as-is" [ref=e301]
+          - row "Zekerheid over eindprijs Pas bij compromis Schriftelijk bod na bezoek" [ref=e302]:
+            - cell "Zekerheid over eindprijs" [ref=e303]
+            - cell "Pas bij compromis" [ref=e304]
+            - cell "Schriftelijk bod na bezoek" [ref=e305]
+    - generic [ref=e307]:
+      - generic [ref=e308]:
+        - paragraph [ref=e309]: Referenties
+        - heading "Recente aankopen" [level=2] [ref=e310]
+        - paragraph [ref=e311]: Concrete voorbeelden uit de Antwerpse regio. Namen en adressen worden niet vermeld — discretie is onze standaard.
+      - generic [ref=e312]:
+        - generic [ref=e314]:
+          - generic [ref=e315]:
+            - generic [ref=e316]:
+              - paragraph [ref=e317]: Berchem
+              - paragraph [ref=e318]: Erfenis — rijwoning, lichte renovatie
+            - generic [ref=e319]:
+              - paragraph [ref=e320]: Doorlooptijd
+              - paragraph [ref=e321]: 18 dagen
+          - paragraph [ref=e322]: Drie erfgenamen, woning stond leeg. Akte ondertekend 18 dagen na eerste contact.
+        - generic [ref=e324]:
+          - generic [ref=e325]:
+            - generic [ref=e326]:
+              - paragraph [ref=e327]: Deurne
+              - paragraph [ref=e328]: Scheiding — appartement, instapklaar
+            - generic [ref=e329]:
+              - paragraph [ref=e330]: Doorlooptijd
+              - paragraph [ref=e331]: 12 dagen
+          - paragraph [ref=e332]: Beide partijen wensten een snelle en neutrale afhandeling.
+        - generic [ref=e334]:
+          - generic [ref=e335]:
+            - generic [ref=e336]:
+              - paragraph [ref=e337]: Hoboken
+              - paragraph [ref=e338]: Opknapper — open woning, zware renovatie
+            - generic [ref=e339]:
+              - paragraph [ref=e340]: Doorlooptijd
+              - paragraph [ref=e341]: 24 dagen
+          - paragraph [ref=e342]: Eigenaar wilde niet investeren. Wij kochten in staat van bevinding.
+        - generic [ref=e344]:
+          - generic [ref=e345]:
+            - generic [ref=e346]:
+              - paragraph [ref=e347]: Merksem
+              - paragraph [ref=e348]: Blijven wonen — halfopen woning, senioreigenaars
+            - generic [ref=e349]:
+              - paragraph [ref=e350]: Doorlooptijd
+              - paragraph [ref=e351]: 21 dagen
+          - paragraph [ref=e352]: Eigenaar verkoopt, sluit huurcontract en blijft wonen. Kapitaal beschikbaar.
+    - generic [ref=e354]:
+      - generic [ref=e355]:
+        - paragraph [ref=e356]: Veelgestelde vragen
+        - heading "Wat eigenaars ons het vaakst vragen" [level=2] [ref=e357]
+      - generic [ref=e358]:
+        - button "Hoe bepaalt u de aankoopprijs?" [ref=e360]:
+          - generic [ref=e361]: Hoe bepaalt u de aankoopprijs?
+          - img [ref=e363]
+        - button "Is uw bod bindend?" [ref=e365]:
+          - generic [ref=e366]: Is uw bod bindend?
+          - img [ref=e368]
+        - button "Wie betaalt de notariskosten?" [ref=e370]:
+          - generic [ref=e371]: Wie betaalt de notariskosten?
+          - img [ref=e373]
+        - button "Hoe snel kan de overdracht plaatsvinden?" [ref=e375]:
+          - generic [ref=e376]: Hoe snel kan de overdracht plaatsvinden?
+          - img [ref=e378]
+        - button "Wat als de woning nog een hypotheek heeft?" [ref=e380]:
+          - generic [ref=e381]: Wat als de woning nog een hypotheek heeft?
+          - img [ref=e383]
+        - button "Koopt u ook buiten Antwerpen?" [ref=e385]:
+          - generic [ref=e386]: Koopt u ook buiten Antwerpen?
+          - img [ref=e388]
+        - button "Wat als ik toch wil blijven wonen na de verkoop?" [ref=e390]:
+          - generic [ref=e391]: Wat als ik toch wil blijven wonen na de verkoop?
+          - img [ref=e393]
+        - button "Is er een verplichte minimumoppervlakte of -prijs?" [ref=e395]:
+          - generic [ref=e396]: Is er een verplichte minimumoppervlakte of -prijs?
+          - img [ref=e398]
+    - generic [ref=e402]:
+      - paragraph [ref=e403]: Gratis en vrijblijvend
+      - heading "Vraag uw eerlijk bod aan" [level=2] [ref=e404]
+      - generic [ref=e405]:
+        - paragraph [ref=e406]: Onze reactiebelofte
+        - paragraph [ref=e407]: Binnen 2 uur een reactie — ook in het weekend en na 18 uur.
+      - generic [ref=e408]:
+        - generic [ref=e409]:
+          - generic [ref=e410]: Adres van de woning
+          - textbox "Straat en nummer, gemeente" [ref=e411]
+        - generic [ref=e412]:
+          - generic [ref=e413]:
+            - generic [ref=e414]: Type woning
+            - combobox [ref=e415] [cursor=pointer]:
+              - option "Kies een type" [selected]
+              - option "Appartement"
+              - option "Rijwoning"
+              - option "Halfopen woning"
+              - option "Open bebouwing"
+              - option "Villa"
+              - option "Andere"
+          - generic [ref=e416]:
+            - generic [ref=e417]: Bewoonbare oppervlakte (m²)
+            - spinbutton [ref=e418]
+        - generic [ref=e419]:
+          - generic [ref=e420]: Staat van de woning
+          - combobox [ref=e421] [cursor=pointer]:
+            - option "Kies de staat" [selected]
+            - option "Instapklaar"
+            - option "Lichte renovatie nodig"
+            - option "Zware renovatie nodig"
+            - option "Te slopen"
+        - generic [ref=e422]:
+          - generic [ref=e423]:
+            - generic [ref=e424]: Uw naam
+            - textbox "Voornaam en achternaam" [ref=e425]
+          - generic [ref=e426]:
+            - generic [ref=e427]: Telefoonnummer
+            - textbox "bv. 0492 77 94 75" [ref=e428]
+        - generic [ref=e429]:
+          - generic [ref=e430]: Wat zoekt u?
+          - combobox [ref=e431] [cursor=pointer]:
+            - option "Kies een optie" [selected]
+            - option "Volledig verkopen"
+            - option "Verkopen en blijven wonen"
+            - option "Lijfrente"
+            - option "Nog niet zeker"
+        - button "Vraag mijn eerlijk bod aan" [ref=e432]
+        - paragraph [ref=e433]: Uw gegevens worden vertrouwelijk behandeld en uitsluitend gebruikt voor het opstellen van uw bod.
+  - contentinfo [ref=e434]:
+    - generic [ref=e437]:
+      - generic [ref=e438]:
+        - link "wijkopenpanden.be" [ref=e439] [cursor=pointer]:
+          - /url: /
+        - paragraph [ref=e440]: Direct een eerlijk bod op uw woning — zonder makelaar, volledig ontzorgd.
+      - generic [ref=e441]:
+        - link "0492 77 94 75" [ref=e442] [cursor=pointer]:
+          - /url: tel:0492779475
+        - link "0492 27 70 76" [ref=e443] [cursor=pointer]:
+          - /url: tel:0492277076
+        - link "info@wijkopenpanden.be" [ref=e444] [cursor=pointer]:
+          - /url: mailto:info@wijkopenpanden.be
+    - generic [ref=e447]:
+      - generic [ref=e448]:
+        - paragraph [ref=e449]: Vastgoedtype
+        - list [ref=e450]:
+          - listitem [ref=e451]:
+            - link "Rijhuis verkopen" [ref=e452] [cursor=pointer]:
+              - /url: /rijhuis-verkopen-antwerpen
+          - listitem [ref=e453]:
+            - link "Appartement verkopen" [ref=e454] [cursor=pointer]:
+              - /url: /appartement-verkopen-antwerpen
+          - listitem [ref=e455]:
+            - link "Herenhuis verkopen" [ref=e456] [cursor=pointer]:
+              - /url: /herenhuis-verkopen-antwerpen
+          - listitem [ref=e457]:
+            - link "Villa verkopen" [ref=e458] [cursor=pointer]:
+              - /url: /villa-verkopen-antwerpen
+          - listitem [ref=e459]:
+            - link "Opbrengsteigendom" [ref=e460] [cursor=pointer]:
+              - /url: /opbrengsteigendom-verkopen-antwerpen
+      - generic [ref=e461]:
+        - paragraph [ref=e462]: Situatie
+        - list [ref=e463]:
+          - listitem [ref=e464]:
+            - link "Bij erfenis" [ref=e465] [cursor=pointer]:
+              - /url: /huis-verkopen-bij-erfenis
+          - listitem [ref=e466]:
+            - link "Bij scheiding" [ref=e467] [cursor=pointer]:
+              - /url: /huis-verkopen-bij-scheiding
+          - listitem [ref=e468]:
+            - link "Opknapper" [ref=e469] [cursor=pointer]:
+              - /url: /opknappand-verkopen
+          - listitem [ref=e470]:
+            - link "Met huurders" [ref=e471] [cursor=pointer]:
+              - /url: /pand-met-huurders-verkopen
+          - listitem [ref=e472]:
+            - link "Zonder makelaar" [ref=e473] [cursor=pointer]:
+              - /url: /verkopen-zonder-makelaar
+      - generic [ref=e474]:
+        - paragraph [ref=e475]: Regio
+        - list [ref=e476]:
+          - listitem [ref=e477]:
+            - link "Alle regio's" [ref=e478] [cursor=pointer]:
+              - /url: /regios
+          - listitem [ref=e479]:
+            - link "Borgerhout" [ref=e480] [cursor=pointer]:
+              - /url: /regios/borgerhout
+          - listitem [ref=e481]:
+            - link "Deurne" [ref=e482] [cursor=pointer]:
+              - /url: /regios/deurne
+          - listitem [ref=e483]:
+            - link "Berchem" [ref=e484] [cursor=pointer]:
+              - /url: /regios/berchem
+          - listitem [ref=e485]:
+            - link "Mortsel" [ref=e486] [cursor=pointer]:
+              - /url: /regios/mortsel
+          - listitem [ref=e487]:
+            - link "Wilrijk" [ref=e488] [cursor=pointer]:
+              - /url: /regios/wilrijk
+      - generic [ref=e489]:
+        - paragraph [ref=e490]: Informatie
+        - list [ref=e491]:
+          - listitem [ref=e492]:
+            - link "Kennisbank" [ref=e493] [cursor=pointer]:
+              - /url: /kennisbank
+          - listitem [ref=e494]:
+            - link "Hoe wij werken" [ref=e495] [cursor=pointer]:
+              - /url: /hoe-wij-werken
+          - listitem [ref=e496]:
+            - link "Blijven wonen" [ref=e497] [cursor=pointer]:
+              - /url: /blijven-wonen
+          - listitem [ref=e498]:
+            - link "Lijfrente" [ref=e499] [cursor=pointer]:
+              - /url: /lijfrente-antwerpen
+          - listitem [ref=e500]:
+            - link "Over ons" [ref=e501] [cursor=pointer]:
+              - /url: /over
+    - generic [ref=e502]:
+      - generic [ref=e503]: "© 2026 wijkopenpanden.be — KBO: BE 0000.000.000 — Antwerpen, België"
+      - generic [ref=e504]:
+        - link "Privacybeleid" [ref=e505] [cursor=pointer]:
+          - /url: /privacy
+        - link "Contact" [ref=e506] [cursor=pointer]:
+          - /url: /contact
