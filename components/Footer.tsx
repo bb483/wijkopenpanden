@@ -103,7 +103,7 @@ export default function Footer() {
       {/* Bottom bar */}
       <Container className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3 py-5 text-xs text-white/30">
         <span>
-          &copy; {new Date().getFullYear()} wijkopenpanden.be — KBO: BE 0000.000.000 — Antwerpen, België
+          &copy; {new Date().getFullYear()} wijkopenpanden.be — KBO: BE 0797.335.149 — Antwerpen, België
         </span>
         <div className="flex gap-4">
           <a href="/privacy" className="hover:text-white transition-colors duration-150">
