@@ -4,7 +4,7 @@ export const articles: Article[] = [
   {
     slug: "commissie-makelaar-belgie",
     title: "Makelaarsloon in België: wat betaalt u echt?",
-    metaTitle: "Makelaarsloon in België 2025 — wat betaalt u echt? | wijkopenpanden.be",
+    metaTitle: "Makelaarsloon in België 2026 — wat betaalt u echt? | wijkopenpanden.be",
     metaDescription:
       "Wat kost een makelaar in België? De commissie plus verborgen kosten lopen hoger op dan velen denken. Lees de volledige analyse en vergelijk met verkopen aan een opkoper.",
     publishedAt: "2024-09-01",
@@ -77,7 +77,7 @@ export const articles: Article[] = [
   {
     slug: "keuringen-bij-verkoop-woning",
     title: "Welke keuringen zijn verplicht bij de verkoop van een woning in België?",
-    metaTitle: "Verplichte keuringen bij woningverkoop in België 2025 | wijkopenpanden.be",
+    metaTitle: "Verplichte keuringen bij woningverkoop in België 2026 | wijkopenpanden.be",
     metaDescription:
       "EPC, elektriciteitskeuring, asbestinventaris, stookolietank — welke keuringen zijn wettelijk verplicht bij de verkoop van uw woning? Overzicht van kosten en termijnen.",
     publishedAt: "2025-02-01",
@@ -142,7 +142,7 @@ export const articles: Article[] = [
   {
     slug: "verkoop-kosten-berekenen",
     title: "Alle verkoopkosten berekend: wat blijft er netto over?",
-    metaTitle: "Verkoopkosten woning berekenen in België 2025 | wijkopenpanden.be",
+    metaTitle: "Verkoopkosten woning berekenen in België 2026 | wijkopenpanden.be",
     metaDescription:
       "Wat zijn de werkelijke kosten bij de verkoop van uw woning? Notariskosten, keuringen, commissie, fiscaliteit — bereken uw netto-opbrengst voor u beslist.",
     publishedAt: "2025-02-15",
@@ -205,7 +205,7 @@ export const articles: Article[] = [
   {
     slug: "epc-attest-antwerpen",
     title: "EPC-attest in Antwerpen: alles wat u moet weten",
-    metaTitle: "EPC-attest aanvragen in Antwerpen 2025 — kosten en procedure | wijkopenpanden.be",
+    metaTitle: "EPC-attest aanvragen in Antwerpen 2026 — kosten en procedure | wijkopenpanden.be",
     metaDescription:
       "Wat is een EPC-attest, hoe vraagt u het aan in Antwerpen, hoeveel kost het en wat zijn de gevolgen van een lage energiescore voor uw verkoopprijs?",
     publishedAt: "2025-03-01",
@@ -262,7 +262,7 @@ export const articles: Article[] = [
   {
     slug: "erfenis-woning-stappenplan",
     title: "Erfenis woning verkopen: stap voor stap",
-    metaTitle: "Erfenis woning verkopen in België — stappenplan 2025 | wijkopenpanden.be",
+    metaTitle: "Erfenis woning verkopen in België — stappenplan 2026 | wijkopenpanden.be",
     metaDescription:
       "Wat zijn de stappen bij de verkoop van een geërfde woning? Successierechten, onverdeeldheid, bodemattest en tijdsdruk — lees het volledige stappenplan.",
     publishedAt: "2025-03-01",
@@ -371,7 +371,7 @@ export const articles: Article[] = [
   {
     slug: "notariskosten-woning-verkoop",
     title: "Notariskosten bij de verkoop van uw woning: wat betaalt u echt?",
-    metaTitle: "Notariskosten bij woningverkoop in België 2025 | wijkopenpanden.be",
+    metaTitle: "Notariskosten bij woningverkoop in België 2026 | wijkopenpanden.be",
     metaDescription:
       "Hoeveel kost een notaris bij de verkoop van uw woning? Registratierechten, ereloon, doorhaling hypotheek — volledig overzicht van de notariskosten in België.",
     publishedAt: "2025-03-15",
@@ -423,7 +423,7 @@ export const articles: Article[] = [
   {
     slug: "lijfrente-uitgelegd",
     title: "Lijfrente bij vastgoed: hoe werkt het en voor wie is het geschikt?",
-    metaTitle: "Lijfrente woning verkopen uitgelegd 2025 | wijkopenpanden.be",
+    metaTitle: "Lijfrente woning verkopen uitgelegd 2026 | wijkopenpanden.be",
     metaDescription:
       "Lijfrente bij vastgoed: wat is het, hoe wordt de prijs berekend, wat zijn de fiscale voordelen en voor wie is een lijfrenteverkoop interessant?",
     publishedAt: "2025-03-20",
@@ -535,7 +535,7 @@ export const articles: Article[] = [
   {
     slug: "pand-in-slechte-staat-verkopen",
     title: "Een pand in slechte staat verkopen: wat zijn uw opties?",
-    metaTitle: "Pand in slechte staat verkopen in Antwerpen 2025 | wijkopenpanden.be",
+    metaTitle: "Pand in slechte staat verkopen in Antwerpen 2026 | wijkopenpanden.be",
     metaDescription:
       "Hoe verkoopt u een woning die gerenoveerd moet worden? Wat kunt u verwachten qua prijs, en wat zijn de voor- en nadelen van renoveren voor verkoop vs. as-is verkopen?",
     publishedAt: "2025-04-01",
@@ -592,7 +592,7 @@ export const articles: Article[] = [
   {
     slug: "belastingen-bij-woningverkoop",
     title: "Belastingen bij woningverkoop in België: wat betaalt u echt?",
-    metaTitle: "Belastingen bij woningverkoop in België 2025 | wijkopenpanden.be",
+    metaTitle: "Belastingen bij woningverkoop in België 2026 | wijkopenpanden.be",
     metaDescription:
       "Welke belastingen betaalt u bij de verkoop van uw woning in België? Meerwaardebelasting, registratierechten, onroerende voorheffing — alles uitgelegd met praktische voorbeelden.",
     publishedAt: "2025-05-01",
@@ -668,7 +668,7 @@ export const articles: Article[] = [
   {
     slug: "mede-eigendom-verkopen",
     title: "Mede-eigendom verkopen in België: erfenis, scheiding en geblokkeerde situaties",
-    metaTitle: "Mede-eigendom verkopen in België 2025 — erfenis, scheiding | wijkopenpanden.be",
+    metaTitle: "Mede-eigendom verkopen in België 2026 — erfenis, scheiding | wijkopenpanden.be",
     metaDescription:
       "Wat als een mede-eigenaar niet wil verkopen? Hoe verkoopt u een woning in onverdeeldheid na erfenis of scheiding? Alles over mede-eigendom en gedwongen verdeling in België.",
     publishedAt: "2025-05-10",
@@ -730,7 +730,7 @@ export const articles: Article[] = [
   {
     slug: "snel-geld-vrijmaken-woning",
     title: "Snel geld vrijmaken uit uw woning: alle opties naast elkaar",
-    metaTitle: "Snel geld vrijmaken uit uw woning in België 2025 | wijkopenpanden.be",
+    metaTitle: "Snel geld vrijmaken uit uw woning in België 2026 | wijkopenpanden.be",
     metaDescription:
       "Wilt u snel geld vrijmaken uit uw woning zonder te verhuizen of met snelle verkoop? Vergelijking van alle opties: verkoop aan opkoper, herfinanciering, lijfrente, sale-and-leaseback.",
     publishedAt: "2025-05-20",
@@ -804,13 +804,13 @@ export const articles: Article[] = [
     ],
   },
   {
-    slug: "energie-renovatieplicht-vlaanderen-2025",
-    title: "Energie-renovatieplicht Vlaanderen 2025: wat betekent het voor uw woning?",
-    metaTitle: "Energie-renovatieplicht Vlaanderen 2025 — gevolgen voor verkopers | wijkopenpanden.be",
+    slug: "energie-renovatieplicht-vlaanderen-2026",
+    title: "Energie-renovatieplicht Vlaanderen 2026: wat betekent het voor uw woning?",
+    metaTitle: "Energie-renovatieplicht Vlaanderen 2026 — gevolgen voor verkopers | wijkopenpanden.be",
     metaDescription:
       "Heeft uw woning EPC-label E of F? De Vlaamse renovatieplicht verplicht kopers tot renovatie binnen 5 jaar. Wat betekent dit voor uw verkoopprijs — en wat zijn uw opties?",
-    publishedAt: "2025-05-28",
-    updatedAt: "2025-05-28",
+    publishedAt: "2026-05-28",
+    updatedAt: "2026-05-28",
     intro:
       "Wie in Vlaanderen een woning koopt met een laag energieprestatieattest — EPC-label E of F — is wettelijk verplicht om die woning binnen vijf jaar te renoveren tot minstens label D. Die verplichting rust op de koper, niet op de verkoper. Maar eigenaars voelen de gevolgen rechtstreeks in hun verkoopprijs: kopers trekken de geschatte renovatiekost systematisch af van hun bod. In dit artikel leggen we uit wat de renovatieplicht precies inhoudt, welke woningen in Antwerpen het zwaarst getroffen zijn, en welke opties u als eigenaar heeft.",
     sections: [
