@@ -43,6 +43,7 @@ export const propertyTypes: PropertyType[] = [
     ],
     relatedRegions: ["borgerhout", "deurne", "berchem", "wilrijk"],
     relatedSituations: ["huis-verkopen-bij-erfenis", "huis-verkopen-bij-scheiding", "opknappand-verkopen"],
+    relatedArticles: ["energie-renovatieplicht-vlaanderen-2026", "epc-attest-antwerpen", "keuringen-bij-verkoop-woning", "pand-in-slechte-staat-verkopen", "commissie-makelaar-belgie"],
     faqs: [
       {
         question: "Koopt u een rijhuis aan als de elektriciteit niet conform is?",
@@ -112,6 +113,7 @@ export const propertyTypes: PropertyType[] = [
     ],
     relatedRegions: ["antwerpen", "berchem", "borgerhout", "deurne"],
     relatedSituations: ["huis-verkopen-bij-erfenis", "huis-verkopen-bij-scheiding", "pand-met-huurders-verkopen"],
+    relatedArticles: ["mede-eigendom-verkopen", "energie-renovatieplicht-vlaanderen-2026", "keuringen-bij-verkoop-woning", "epc-attest-antwerpen", "commissie-makelaar-belgie"],
     faqs: [
       {
         question: "Moet ik het reservefonds verrekenen bij de verkoop van mijn appartement?",
@@ -181,6 +183,7 @@ export const propertyTypes: PropertyType[] = [
     ],
     relatedRegions: ["antwerpen", "berchem", "borgerhout"],
     relatedSituations: ["huis-verkopen-bij-erfenis", "opknappand-verkopen"],
+    relatedArticles: ["energie-renovatieplicht-vlaanderen-2026", "keuringen-bij-verkoop-woning", "epc-attest-antwerpen", "belastingen-bij-woningverkoop", "pand-in-slechte-staat-verkopen"],
     faqs: [
       {
         question: "Kan ik een beschermd herenhuis in Zurenborg verkopen zonder vergunning?",
@@ -250,6 +253,7 @@ export const propertyTypes: PropertyType[] = [
     ],
     relatedRegions: ["schilde", "brasschaat", "edegem", "kontich", "wilrijk"],
     relatedSituations: ["huis-verkopen-bij-erfenis", "opknappand-verkopen"],
+    relatedArticles: ["energie-renovatieplicht-vlaanderen-2026", "belastingen-bij-woningverkoop", "keuringen-bij-verkoop-woning", "verkoop-kosten-berekenen"],
     faqs: [
       {
         question: "Heeft u een bodemattest nodig bij de verkoop van een villa in Brasschaat?",
@@ -318,6 +322,7 @@ export const propertyTypes: PropertyType[] = [
     ],
     relatedRegions: ["antwerpen", "borgerhout", "berchem", "deurne"],
     relatedSituations: ["pand-met-huurders-verkopen", "huis-verkopen-bij-erfenis"],
+    relatedArticles: ["mede-eigendom-verkopen", "belastingen-bij-woningverkoop", "energie-renovatieplicht-vlaanderen-2026", "keuringen-bij-verkoop-woning", "commissie-makelaar-belgie"],
     faqs: [
       {
         question: "Kan ik een verhuurd pand verkopen zonder de huurders te verwittigen?",
@@ -358,6 +363,7 @@ export const propertyTypes: PropertyType[] = [
     priceRanges: [{ area: "Antwerpen", min: 150000, max: 500000 }],
     relatedRegions: ["antwerpen"],
     relatedSituations: [],
+    relatedArticles: ["belastingen-bij-woningverkoop", "notariskosten-woning-verkoop", "verkoop-kosten-berekenen"],
     faqs: [],
   },
   {
@@ -372,6 +378,7 @@ export const propertyTypes: PropertyType[] = [
     priceRanges: [{ area: "Antwerpen", min: 20000, max: 60000 }],
     relatedRegions: ["antwerpen"],
     relatedSituations: [],
+    relatedArticles: ["verkoop-kosten-berekenen", "notariskosten-woning-verkoop"],
     faqs: [],
   },
   {
@@ -386,6 +393,7 @@ export const propertyTypes: PropertyType[] = [
     priceRanges: [{ area: "Antwerpen", min: 100000, max: 600000 }],
     relatedRegions: ["antwerpen"],
     relatedSituations: [],
+    relatedArticles: ["belastingen-bij-woningverkoop", "verkoop-kosten-berekenen", "notariskosten-woning-verkoop"],
     faqs: [],
   },
 ];

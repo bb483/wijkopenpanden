@@ -15,6 +15,7 @@ export interface PropertyType {
   priceRanges: { area: string; min: number; max: number; note?: string }[];
   relatedRegions: string[];
   relatedSituations: string[];
+  relatedArticles: string[];
   faqs: FAQ[];
 }
 

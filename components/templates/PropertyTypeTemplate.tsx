@@ -9,6 +9,7 @@ import FAQAccordion from "@/components/FAQAccordion";
 import JsonLd from "@/components/JsonLd";
 import StickyCtaButton from "@/components/StickyCtaButton";
 import type { PropertyType } from "@/content/types";
+import { articles } from "@/content/knowledge-articles";
 
 const BASE_URL = "https://wijkopenpanden.be";
 
@@ -85,7 +86,7 @@ export default function PropertyTypeTemplate({ data }: { data: PropertyType }) {
           </Section>
         )}
 
-        {/* Internal links */}
+        {/* Internal links — regio's en situaties */}
         <Section variant="bone">
           <Heading level={2} className="mb-8">Meer informatie</Heading>
           <div className="flex flex-wrap gap-4">
@@ -101,6 +102,39 @@ export default function PropertyTypeTemplate({ data }: { data: PropertyType }) {
             ))}
           </div>
         </Section>
+
+        {/* Kennisbank artikelen */}
+        {data.relatedArticles.length > 0 && (() => {
+          const linked = data.relatedArticles
+            .map((slug) => articles.find((a) => a.slug === slug))
+            .filter(Boolean) as typeof articles;
+          if (linked.length === 0) return null;
+          return (
+            <Section variant="white">
+              <div className="flex items-center gap-3 mb-8">
+                <span className="w-6 h-px flex-shrink-0" style={{ background: "#C4A35A" }} />
+                <p className="text-xs font-semibold tracking-widest uppercase" style={{ color: "#C4A35A" }}>Kennisbank</p>
+              </div>
+              <Heading level={2} className="mb-8">Lees ook</Heading>
+              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+                {linked.map((article) => (
+                  <a
+                    key={article.slug}
+                    href={`/kennisbank/${article.slug}`}
+                    className="group border border-ink/10 p-5 hover:border-ink/30 transition-colors"
+                  >
+                    <p className="text-xs text-muted mb-2">
+                      {new Date(article.updatedAt).toLocaleDateString("nl-BE", { day: "numeric", month: "long", year: "numeric" })}
+                    </p>
+                    <h3 className="font-serif text-base text-ink group-hover:text-accent transition-colors leading-snug">
+                      {article.title}
+                    </h3>
+                  </a>
+                ))}
+              </div>
+            </Section>
+          );
+        })()}
 
         {/* CTA formulier */}
         <Section variant="white" id="formulier">
