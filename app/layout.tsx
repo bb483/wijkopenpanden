@@ -16,8 +16,32 @@ const jakarta = Plus_Jakarta_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "wijkopenpanden.be — Vastgoed opkoper Antwerpen",
-  description: "wijkopenpanden.be koopt uw woning snel en discreet aan in Antwerpen.",
+  metadataBase: new URL("https://wijkopenpanden.be"),
+  title: {
+    default: "Vastgoed opkoper Antwerpen | wijkopenpanden.be",
+    template: "%s | wijkopenpanden.be",
+  },
+  description:
+    "Woning of pand verkopen in Antwerpen? Geen commissie, geen makelaar. Keuringen & ontruiming volledig inbegrepen. Direct een eerlijk schriftelijk bod na bezichtiging.",
+  openGraph: {
+    siteName: "wijkopenpanden.be",
+    locale: "nl_BE",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    site: "@wijkopenpanden",
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      "max-image-preview": "large",
+      "max-snippet": -1,
+    },
+  },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

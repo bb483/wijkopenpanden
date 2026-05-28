@@ -25,6 +25,11 @@ export async function generateMetadata(
       locale: "nl_BE",
       type: "website",
     },
+    twitter: {
+      card: "summary_large_image",
+      title: data.metaTitle,
+      description: data.metaDescription,
+    },
   };
 }
 

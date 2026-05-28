@@ -23,6 +23,7 @@ export const metadata: Metadata = {
     locale: "nl_BE",
     type: "website",
   },
+  twitter: { card: "summary_large_image" },
 };
 
 const benefits = [

@@ -27,6 +27,11 @@ export async function generateMetadata(
       publishedTime: data.publishedAt,
       modifiedTime: data.updatedAt,
     },
+    twitter: {
+      card: "summary_large_image",
+      title: data.metaTitle,
+      description: data.metaDescription,
+    },
   };
 }
 
