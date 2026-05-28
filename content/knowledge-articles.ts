@@ -227,7 +227,7 @@ export const articles: Article[] = [
       },
       {
         heading: "Wat zijn de gevolgen van een laag EPC-label?",
-        body: "Een woning met label E of F:\n\n• Scoort minder aantrekkelijk bij potentiële kopers op vastgoedportalen\n• Kan moeilijker te financieren zijn — banken passen soms strengere voorwaarden toe bij label E/F\n• Kan aanleiding geven tot prijsonderhandelingen door de koper\n• In Vlaanderen geldt een renovatieverplichting bij aankoop van woningen met label E of F: de nieuwe eigenaar moet binnen vijf jaar na de akte het pand renoveren tot minimaal label D\n\nDeze renovatieverplichting wordt steeds strenger: de Vlaamse overheid trekt de lat op. Eigenaars die nu verkopen, doen er goed aan transparant te zijn over de energiestaat.",
+        body: "Een woning met label E of F:\n\n• Scoort minder aantrekkelijk bij potentiële kopers op vastgoedportalen\n• Kan moeilijker te financieren zijn — banken passen soms strengere voorwaarden toe bij label E/F\n• Kan aanleiding geven tot prijsonderhandelingen door de koper\n• In Vlaanderen geldt een renovatieverplichting bij aankoop van woningen met label E of F: de nieuwe eigenaar moet binnen zes jaar na de akte het pand renoveren tot minimaal label D (termijn verlengd van 5 naar 6 jaar in 2026)\n\nHet verstrengingspad naar label C (gepland voor 2028) is definitief geschrapt. Label D blijft de enige wettelijke doelstelling. Eigenaars die nu verkopen, doen er goed aan transparant te zijn over de energiestaat.",
       },
       {
         heading: "EPC en verkoop aan wijkopenpanden.be",
@@ -276,7 +276,7 @@ export const articles: Article[] = [
       },
       {
         heading: "Stap 2: Erfbelasting betalen",
-        body: "De successierechten moeten worden betaald binnen twee maanden na het indienen van de aangifte. Het tarief is progressief en afhankelijk van de graad van verwantschap:\n\n• In rechte lijn (kinderen, partner): lagere tarieven\n• Zijlijn en vreemden: hogere tarieven\n\nBij een geërfde woning kan dit een aanzienlijk bedrag zijn. Als de erfgenamen onvoldoende liquiditeiten hebben, kan dit een extra reden zijn om de woning snel te verkopen.\n\nBelangrijk: u kunt successierechten betalen vóór de woning is verkocht. De Vlaamse Belastingdienst kent geen uitstel van betaling toe louter omwille van een lopende verkoop.",
+        body: "De successierechten moeten worden betaald binnen twee maanden na het indienen van de aangifte. Sinds 1 januari 2026 gelden nieuwe tarieven in Vlaanderen:\n\n• In rechte lijn (kinderen, partner): 3% tot 27% (maximumtarief verlaagd van 30% naar 27% in 2026)\n• Zijlijn (broers, zusters): hogere tarieven\n• Vreemden: hoogste tarieven\n• Partners genieten een vrijstelling op roerende goederen tot €75.000 (verhoogd van €50.000 in 2026)\n\nBij een geërfde woning kan dit een aanzienlijk bedrag zijn. Als de erfgenamen onvoldoende liquiditeiten hebben, kan dit een extra reden zijn om de woning snel te verkopen.\n\nBelangrijk: u kunt successierechten betalen vóór de woning is verkocht. De Vlaamse Belastingdienst kent geen uitstel van betaling toe louter omwille van een lopende verkoop.",
       },
       {
         heading: "Stap 3: Onverdeeldheid en toestemming van alle erfgenamen",
@@ -385,7 +385,7 @@ export const articles: Article[] = [
       },
       {
         heading: "Registratierechten in Vlaanderen",
-        body: "Bij de aankoop van een woning in Vlaanderen betaalt de koper registratierechten op de koopprijs. Het standaardtarief bedraagt 3% voor de enige en eigen woning (na verlaging in 2024), en 12% voor andere onroerende goederen.\n\nDit tarief is voor de koper relevant, maar beïnvloedt ook de onderhandeling: hoe hoger de registratierechten, hoe meer kopers de netto aankoopprijs willen beperken.",
+        body: "Bij de aankoop van een woning in Vlaanderen betaalt de koper registratierechten op de koopprijs. Sinds 1 januari 2025 bedraagt het verlaagde tarief 2% voor de enige en eigen woning (daarvoor 3%). Het standaardtarief voor andere onroerende goederen blijft 12%.\n\nVanaf 1 januari 2026 gelden strengere voorwaarden voor het 2%-tarief: de koper moet een natuurlijk persoon zijn, volle eigendom verwerven, en zich binnen drie jaar domiciliëren aan het adres voor minstens één ononderbroken jaar.\n\nDit tarief is voor de koper relevant, maar beïnvloedt ook de onderhandeling: hoe hoger de registratierechten, hoe meer kopers de netto aankoopprijs willen beperken.",
       },
       {
         heading: "Notarieel ereloon",
@@ -808,15 +808,15 @@ export const articles: Article[] = [
     title: "Energie-renovatieplicht Vlaanderen 2026: wat betekent het voor uw woning?",
     metaTitle: "Energie-renovatieplicht Vlaanderen 2026 — gevolgen voor verkopers | wijkopenpanden.be",
     metaDescription:
-      "Heeft uw woning EPC-label E of F? De Vlaamse renovatieplicht verplicht kopers tot renovatie binnen 5 jaar. Wat betekent dit voor uw verkoopprijs — en wat zijn uw opties?",
+      "Heeft uw woning EPC-label E of F? De Vlaamse renovatieplicht verplicht kopers tot renovatie binnen 6 jaar. Wat betekent dit voor uw verkoopprijs — en wat zijn uw opties?",
     publishedAt: "2026-05-28",
     updatedAt: "2026-05-28",
     intro:
-      "Wie in Vlaanderen een woning koopt met een laag energieprestatieattest — EPC-label E of F — is wettelijk verplicht om die woning binnen vijf jaar te renoveren tot minstens label D. Die verplichting rust op de koper, niet op de verkoper. Maar eigenaars voelen de gevolgen rechtstreeks in hun verkoopprijs: kopers trekken de geschatte renovatiekost systematisch af van hun bod. In dit artikel leggen we uit wat de renovatieplicht precies inhoudt, welke woningen in Antwerpen het zwaarst getroffen zijn, en welke opties u als eigenaar heeft.",
+      "Wie in Vlaanderen een woning koopt met een laag energieprestatieattest — EPC-label E of F — is wettelijk verplicht om die woning binnen zes jaar te renoveren tot minstens label D. Die verplichting rust op de koper, niet op de verkoper. Maar eigenaars voelen de gevolgen rechtstreeks in hun verkoopprijs: kopers trekken de geschatte renovatiekost systematisch af van hun bod. In dit artikel leggen we uit wat de renovatieplicht precies inhoudt, welke woningen in Antwerpen het zwaarst getroffen zijn, en welke opties u als eigenaar heeft.",
     sections: [
       {
         heading: "Wat houdt de Vlaamse renovatieplicht precies in?",
-        body: "Sinds 1 januari 2023 geldt in Vlaanderen een verplicht renovatietraject voor residentieel vastgoed met een laag EPC-label. De regels in een notendop:\n\n• Wie een woning koopt met EPC-label E of F, moet die woning binnen 5 jaar na de aankoopdatum renoveren tot minstens EPC-label D.\n• De verplichting geldt voor de KOPER — niet voor de huidige eigenaar. U bent als verkoper niet verplicht zelf te renoveren voor de verkoop.\n• Woningen met EPC-label A+, A, B, C of D vallen niet onder de renovatieplicht.\n• De verplichting wordt opgevolgd via de Vlaamse overheid en gekoppeld aan de akte.\n\nDe lat wordt bovendien jaar na jaar hoger gelegd. Wie vanaf 2028 een woning koopt met label D of lager, moet binnen vijf jaar label C halen. Tegen 2050 wil Vlaanderen dat alle woningen label A of B halen.",
+        body: "Sinds 1 januari 2023 geldt in Vlaanderen een verplicht renovatietraject voor residentieel vastgoed met een laag EPC-label. De regels in een notendop:\n\n• Wie een woning koopt met EPC-label E of F, moet die woning binnen 6 jaar na de aankoopdatum renoveren tot minstens EPC-label D.\n• De verplichting geldt voor de KOPER — niet voor de huidige eigenaar. U bent als verkoper niet verplicht zelf te renoveren voor de verkoop.\n• Woningen met EPC-label A+, A, B, C of D vallen niet onder de renovatieplicht.\n• De verplichting wordt opgevolgd via de Vlaamse overheid en gekoppeld aan de akte.\n• De termijn is in 2026 versoepeld van 5 naar 6 jaar — ook voor lopende verplichtingen van vóór 2026.\n\nBelangrijke update 2026: het eerder geplande verstrengingspad (label C verplicht vanaf 2028, label B vanaf 2035) is definitief geschrapt. Label D blijft de enige wettelijke doelstelling.",
       },
       {
         heading: "Welke woningen in Antwerpen vallen hieronder?",
@@ -828,7 +828,7 @@ export const articles: Article[] = [
       },
       {
         heading: "Impact op de verkoopprijs: hoe rekenen kopers dit in?",
-        body: "Kopers die een woning met EPC E of F willen kopen, weten dat ze binnen vijf jaar moeten investeren. Ze berekenen dit systematisch:\n\n1. Ze schatten de renovatiekost (of vragen een renovatiedeskundige).\n2. Ze trekken die kost af van de prijs die ze bereid zouden zijn te betalen voor een label D-woning.\n3. Bovendien verhogen ze de risicopremie: stel dat de renovatiekost hoger uitvalt, of dat ze de aannemer niet vinden.\n\nIn de praktijk betekent dit:\n• Een rijhuis dat zonder renovatieverplichting €250.000 waard is, wordt bij EPC F aangeboden voor €210.000 of minder.\n• De onderhandeling verloopt moeilijker: kopers die op zoek zijn naar een instapklare woning haken af.\n• Financiering: sommige banken weigeren of bemoeilijken het hypothecaire krediet voor woningen met zeer laag EPC-label.\n\nVoor eigenaar-verkopers die zelf niet wensen te renoveren, zijn de opties beperkt: de prijs lager stellen dan gewenst, of zoeken naar een koper die de renovatieverplichting als een kans beschouwt — zoals een vastgoedopkoper.",
+        body: "Kopers die een woning met EPC E of F willen kopen, weten dat ze binnen zes jaar moeten investeren. Ze berekenen dit systematisch:\n\n1. Ze schatten de renovatiekost (of vragen een renovatiedeskundige).\n2. Ze trekken die kost af van de prijs die ze bereid zouden zijn te betalen voor een label D-woning.\n3. Bovendien verhogen ze de risicopremie: stel dat de renovatiekost hoger uitvalt, of dat ze de aannemer niet vinden.\n\nIn de praktijk betekent dit:\n• Een rijhuis dat zonder renovatieverplichting €250.000 waard is, wordt bij EPC F aangeboden voor €210.000 of minder.\n• De onderhandeling verloopt moeilijker: kopers die op zoek zijn naar een instapklare woning haken af.\n• Financiering: sommige banken weigeren of bemoeilijken het hypothecaire krediet voor woningen met zeer laag EPC-label.\n\nVoor eigenaar-verkopers die zelf niet wensen te renoveren, zijn de opties beperkt: de prijs lager stellen dan gewenst, of zoeken naar een koper die de renovatieverplichting als een kans beschouwt — zoals een vastgoedopkoper.",
       },
       {
         heading: "Vergelijking: renoveren voor verkoop vs. as-is verkopen",
