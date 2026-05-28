@@ -589,6 +589,220 @@ export const articles: Article[] = [
       },
     ],
   },
+  {
+    slug: "belastingen-bij-woningverkoop",
+    title: "Belastingen bij woningverkoop in België: wat betaalt u echt?",
+    metaTitle: "Belastingen bij woningverkoop in België 2025 | wijkopenpanden.be",
+    metaDescription:
+      "Welke belastingen betaalt u bij de verkoop van uw woning in België? Meerwaardebelasting, registratierechten, onroerende voorheffing — alles uitgelegd met praktische voorbeelden.",
+    publishedAt: "2025-05-01",
+    updatedAt: "2025-05-28",
+    intro:
+      "Veel eigenaars zijn verrast door de belastingen die komen kijken bij de verkoop van een woning. Sommige belastingen zijn de verantwoordelijkheid van de koper, andere van de verkoper — en de regels verschillen naargelang de situatie. In dit artikel zetten we de belangrijkste fiscale aspecten op een rij, zodat u weet wat u kunt verwachten.",
+    sections: [
+      {
+        heading: "Meerwaardebelasting: wanneer betaalt u belasting op uw winst?",
+        body: "België kent geen algemene meerwaardebelasting op de verkoop van onroerend goed voor particulieren. Er zijn echter uitzonderingen:\n\nEigen woning (hoofdverblijfplaats): als u uw eigen woning verkoopt waar u effectief in woont, betaalt u in de regel geen meerwaardebelasting. De vrijstelling geldt ongeacht de winst die u maakt.\n\nVastgoed dat u minder dan 5 jaar bezit: bij de verkoop van een woning of grond die u minder dan 5 jaar geleden kocht, kan een meerwaarde worden belast. Voor gebouwen geldt een tarief van 16,5% op de meerwaarde; voor gronden is dat 33% bij verkoop binnen 5 jaar en 16,5% tussen 5 en 8 jaar.\n\nErfenis en schenking: gronden die u heeft gekregen via erfenis of schenking en daarna snel doorverkoopt, kunnen eveneens aanleiding geven tot een belastbare meerwaarde. De berekeningsbasis is de waarde op het moment van overlijden of schenking.\n\nProfessioneel vastgoed: als de belastingdienst de verkoop beschouwt als een beroepsmatige activiteit (herhaling van aankopen en verkopen), wordt de volledige winst belast als beroepsinkomen aan het progressieve tarief.",
+      },
+      {
+        heading: "Registratierechten: wie betaalt wat?",
+        body: "Registratierechten zijn de belasting die bij de notariële akte geheven wordt. In België zijn dit de verantwoordelijkheid van de koper — niet van de verkoper.\n\nAls verkoper betaalt u dus geen registratierechten. Wel betaalt u de notariskosten voor de opmaak van de akte aan koperskant, maar ook die zijn technisch een koperskost.\n\nWat de verkoper wél betaalt: de kosten van uw eigen notaris (als u er een aanstelt). Dit is optioneel maar aanbevolen bij complexe situaties zoals erfenis of scheiding.\n\nBij een verkoop aan wijkopenpanden.be betalen wij alle registratierechten en notariskosten aan koperskant. U ontvangt het overeengekomen bod netto.",
+      },
+      {
+        heading: "Onroerende voorheffing: geen pro-rata meer",
+        body: "Tot 2014 werd de onroerende voorheffing pro-rata verdeeld tussen verkoper en koper (naar rato van de bezitsduur in het kalenderjaar). Sindsdien is deze regeling afgeschaft in Vlaanderen.\n\nDe eigenaar op 1 januari van het belastingjaar betaalt de volledige jaarlijkse onroerende voorheffing. Als u uw woning verkoopt in de loop van het jaar, betaalt u nog steeds de volledige jaarlijkse aanslag voor dat jaar — ongeacht wanneer de akte wordt getekend.\n\nDit is een punt waarover onderhandeld kan worden in de koopovereenkomst, maar de belastingdienst houdt zich aan de eigenaar op 1 januari.",
+      },
+      {
+        heading: "Btw bij nieuwbouw en ingrijpend gerenoveerde woningen",
+        body: "Bij de verkoop van een nieuwbouwwoning of een ingrijpend gerenoveerde woning is de verkoper btw-plichtig. Het tarief is 21% op de verkoopprijs (excl. grond). De koper betaalt de btw; de verkoper int deze en stort ze door aan de overheid.\n\nAls particulier die zijn eigen woning verkoopt, bent u in de regel geen btw-plichtige. Dit geldt enkel voor professionele verkopers (bouwpromotoren) of particulieren die hun woning als 'nieuw' verkopen (binnen 2 jaar na eerste ingebruikname).\n\nIn de Antwerpse markt speelt dit voornamelijk bij appartementen in nieuwbouwprojecten. Als u een oudere woning verkoopt, is btw niet van toepassing.",
+      },
+      {
+        heading: "Belasting bij een erfeniswoning",
+        body: "Als u een woning erft en verkoopt, betaalt u eerst erfbelasting (successierechten) op de waarde van het geërfde vermogen. Erfbelasting in Vlaanderen is progressief en afhankelijk van de verwantschap met de overledene.\n\nNa de erfenis: bij de latere verkoop van de geërfde woning is de meerwaarde in principe niet belastbaar als u de woning meer dan 5 jaar na het overlijden verkoopt. Bij snelle verkoop (binnen de grenzen van de meerwaardebelasting) gelden de regels van de meerwaarde zoals hierboven beschreven.\n\nPraktisch: als meerdere erfgenamen de woning willen verkopen, moet er overeenstemming zijn over de verkoopprijs. Raadpleeg een notaris of gebruik een opkoper die de overdracht volledig coördineert.",
+      },
+      {
+        heading: "Overzicht: belastingen bij de verkoop",
+        body: "Samengevat",
+        table: {
+          headers: ["Belasting", "Wie betaalt?", "Tarief", "Uitzondering"],
+          rows: [
+            ["Meerwaardebelasting", "Verkoper", "16,5% – 33% (of 0%)", "Eigen woning: vrijgesteld"],
+            ["Registratierechten", "Koper", "Niet van toepassing voor verkoper", "–"],
+            ["Onroerende voorheffing", "Eigenaar op 1 jan", "Kadastraal inkomen × coëfficiënt", "Geen pro-rata meer"],
+            ["Btw", "Koper (incasseerd door verkoper)", "21% (enkel nieuwbouw)", "Oudere woningen: niet van toepassing"],
+            ["Erfbelasting", "Erfgenaam", "Progressief (Vlaanderen)", "Echtgeno(o)t(e): vrijstelling gezinswoning"],
+          ],
+        },
+      },
+    ],
+    relatedArticles: ["notariskosten-woning-verkoop", "verkoop-kosten-berekenen", "erfenis-woning-stappenplan"],
+    relatedSituations: ["huis-verkopen-bij-erfenis", "huis-verkopen-bij-scheiding"],
+    faqs: [
+      {
+        question: "Betaal ik belasting op de winst bij de verkoop van mijn woning?",
+        answer:
+          "Als u uw eigen woning (hoofdverblijfplaats) verkoopt, betaalt u in België geen meerwaardebelasting op de winst. Bij een tweede woning of investeringspand gelden andere regels.",
+      },
+      {
+        question: "Wie betaalt de registratierechten in België?",
+        answer:
+          "De registratierechten zijn een koperskost in België. Als verkoper betaalt u geen registratierechten. Wel betaalt u eventueel uw eigen notaris.",
+      },
+      {
+        question: "Betaal ik onroerende voorheffing als ik mijn woning verkoop?",
+        answer:
+          "In Vlaanderen betaalt de eigenaar op 1 januari de volledige jaarlijkse onroerende voorheffing, ook als u de woning later dat jaar verkoopt. Dit kan onderhandeld worden in de koopakte.",
+      },
+      {
+        question: "Is er btw verschuldigd bij de verkoop van een oudere woning?",
+        answer:
+          "Nee. Btw is enkel van toepassing bij nieuwbouw of ingrijpend gerenoveerde woningen die binnen 2 jaar na eerste ingebruikname worden verkocht. Bij oudere woningen geldt registratierecht (koperskost).",
+      },
+      {
+        question: "Moet ik belasting betalen als ik een geërfde woning snel verkoop?",
+        answer:
+          "U betaalt erfbelasting op de geërfde waarde. De latere verkoop zelf is bij particulieren doorgaans niet belastbaar als meerwaarde, op voorwaarde dat de belastingdienst de transactie niet als speculatief bestempelt.",
+      },
+    ],
+  },
+  {
+    slug: "mede-eigendom-verkopen",
+    title: "Mede-eigendom verkopen in België: erfenis, scheiding en geblokkeerde situaties",
+    metaTitle: "Mede-eigendom verkopen in België 2025 — erfenis, scheiding | wijkopenpanden.be",
+    metaDescription:
+      "Wat als een mede-eigenaar niet wil verkopen? Hoe verkoopt u een woning in onverdeeldheid na erfenis of scheiding? Alles over mede-eigendom en gedwongen verdeling in België.",
+    publishedAt: "2025-05-10",
+    updatedAt: "2025-05-28",
+    intro:
+      "Wanneer meerdere mensen samen eigenaar zijn van een woning, kan de verkoop vastlopen. Eén mede-eigenaar wil verkopen, een andere niet. Dit speelt het vaakst bij erfenissen en echtscheidingen. In dit artikel leggen we uit wat mede-eigendom inhoudt, welke opties u heeft en hoe u een geblokkeerde situatie kunt doorbreken.",
+    sections: [
+      {
+        heading: "Wat is mede-eigendom?",
+        body: "Mede-eigendom (of onverdeeldheid) ontstaat wanneer meerdere personen samen eigenaar zijn van hetzelfde goed. Elke eigenaar bezit een onverdeeld aandeel — niet een afgebakend deel van de woning, maar een percentage van het geheel.\n\nDit komt het vaakst voor bij:\n• Erfenis: meerdere erfgenamen erven samen een woning\n• Huwelijk of wettelijk samenwonen: beide partners zijn mede-eigenaar van de gezinswoning\n• Scheiding: ex-partners blijven na de feitelijke scheiding in onverdeeldheid totdat de woning verkocht of toebedeeld is\n• Gemeenschappelijke aankoop: vrienden of familieleden die samen een woning kopen\n\nDe wet erkent het recht van elke mede-eigenaar om uit de onverdeeldheid te treden. Niemand kan verplicht worden om eeuwig mede-eigenaar te blijven.",
+      },
+      {
+        heading: "Verkopen bij erfenis: alle erfgenamen moeten akkoord gaan",
+        body: "Na een overlijden komen de erfgenamen samen in onverdeeldheid. Voor de verkoop van de woning is in principe unanimiteit vereist: alle erfgenamen moeten instemmen met de verkoopprijs en de koper.\n\nAls één erfgenaam weigert mee te werken aan de verkoop, heeft u twee opties:\n\n1. Minnelijke schikking: probeer via overleg of via een notaris tot een akkoord te komen. Soms helpt een neutrale schatting om discussies over de prijs te beslechten.\n\n2. Gerechtelijke verdeling: als overleg mislukt, kan elke mede-eigenaar aan de vrederechter vragen om de onverdeeldheid te beëindigen. De rechter kan de verkoop opleggen via een openbare verkoping.\n\nDe gerechtelijke procedure duurt gemiddeld 1 tot 3 jaar en brengt kosten met zich mee (advocaat, gerechtskosten). De opbrengst van de gedwongen verkoop ligt doorgaans lager dan bij een minnelijke verkoop.",
+      },
+      {
+        heading: "Mede-eigendom bij scheiding",
+        body: "Bij een echtscheiding of beëindiging van wettelijk samenwonen blijven beide partners in onverdeeldheid over het gemeenschappelijke vastgoed totdat:\n• De woning verkocht wordt en de opbrengst verdeeld\n• Eén partner het aandeel van de andere overneemt (uitkoop)\n• De rechter een verdeling oplegt\n\nZolang de onverdeeldheid duurt, zijn beide partners verantwoordelijk voor de lasten (hypotheek, onroerende voorheffing, onderhoudskosten). Dit kan financieel belastend zijn als de relatie gebroken is.\n\nPraktisch advies: spreek zo snel mogelijk af wat er met de woning gebeurt. Een verkoop aan een opkoper kan de beslissing vereenvoudigen: de prijs is snel duidelijk, de overdracht verloopt snel, en beide partners ontvangen hun aandeel netto na akte.\n\nBij wijkopenpanden.be zijn we vertrouwd met deze situaties. Wij treden op als neutrale koper en werken mee met de notaris en advocaten van beide partijen.",
+      },
+      {
+        heading: "Eén mede-eigenaar wil niet verkopen: wat nu?",
+        body: "Als één mede-eigenaar weigert mee te werken, heeft u de volgende opties:\n\n1. Uw aandeel verkopen: u kunt uw eigen onverdeeld aandeel verkopen aan een derde partij. Dit is echter moeilijk in de praktijk — kopers voor een onverdeeld aandeel zijn schaars en de prijs ligt laag.\n\n2. Uitkoopbod: u biedt de blokkerende mede-eigenaar aan om zijn/haar aandeel over te nemen. Dit vereist financieringsmiddelen.\n\n3. Aanvraag gerechtelijke verdeling: via de vrederechter kunt u de beëindiging van de onverdeeldheid vorderen. De rechter kan een openbare verkoping bevelen als geen van de partijen het geheel kan overnemen.\n\n4. Bemiddeling: een notaris of erkend bemiddelaar kan het conflict helpen oplossen zonder rechtbank. Vaak goedkoper en sneller dan een procedure.\n\nEen professionele opkoper als wijkopenpanden.be kan in sommige gevallen rechtstreeks onderhandelen met alle mede-eigenaars samen, de verdeling coördineren en de overdracht vlot laten verlopen.",
+      },
+      {
+        heading: "Praktisch: de rol van de notaris bij mede-eigendom",
+        body: "Bij elke verkoop van mede-eigendom is een notaris verplicht. De notaris:\n• Stelt de verkoopovereenkomst en akte op\n• Verdeelt de opbrengst tussen de mede-eigenaars naar rato van hun aandeel\n• Vereffent de openstaande hypotheek (als die er is)\n• Zorgt voor de fiscale aangifte\n\nAls de mede-eigenaars verschillende notarissen willen, is dat mogelijk. De kopers- en verkopers-notaris werken dan samen.\n\nBij verkoop aan wijkopenpanden.be regelen wij de volledige coördinatie met de notaris(sen). U hoeft zich niet te bekommeren om de administratie.",
+      },
+    ],
+    relatedArticles: ["erfenis-woning-stappenplan", "belastingen-bij-woningverkoop", "verkoop-kosten-berekenen"],
+    relatedSituations: ["huis-verkopen-bij-erfenis", "huis-verkopen-bij-scheiding"],
+    faqs: [
+      {
+        question: "Kan ik mijn woning verkopen als één mede-eigenaar weigert?",
+        answer:
+          "Niet zonder instemming van alle mede-eigenaars. Als overleg mislukt, kunt u via de vrederechter een gerechtelijke verdeling vorderen. Dit kan leiden tot een gedwongen openbare verkoop.",
+      },
+      {
+        question: "Hoe lang duurt een gerechtelijke verdeling in België?",
+        answer:
+          "Gemiddeld 1 tot 3 jaar, afhankelijk van de complexiteit en de bereidheid van partijen. Een minnelijke schikking via bemiddeling of notaris is veel sneller.",
+      },
+      {
+        question: "Kan ik mijn onverdeeld aandeel verkopen zonder akkoord van de andere eigenaar?",
+        answer:
+          "Technisch ja, maar in de praktijk nauwelijks mogelijk. Kopers voor een onverdeeld aandeel zijn uiterst zeldzaam en de prijs ligt ver onder de marktwaarde.",
+      },
+      {
+        question: "Wat als ex-partners het niet eens zijn over de waarde van de woning?",
+        answer:
+          "Een neutrale schatting door een beëdigd schatter of notaris kan discussies beslechten. Als dit niet volstaat, kan de rechter een schatter aanstellen.",
+      },
+      {
+        question: "Verkoopt wijkopenpanden.be ook bij mede-eigendom?",
+        answer:
+          "Ja. Wij zijn vertrouwd met situaties van mede-eigendom na erfenis of scheiding. Wij coördineren met alle betrokken partijen en hun notarissen, en zorgen voor een vlotte overdracht.",
+      },
+    ],
+  },
+  {
+    slug: "snel-geld-vrijmaken-woning",
+    title: "Snel geld vrijmaken uit uw woning: alle opties naast elkaar",
+    metaTitle: "Snel geld vrijmaken uit uw woning in België 2025 | wijkopenpanden.be",
+    metaDescription:
+      "Wilt u snel geld vrijmaken uit uw woning zonder te verhuizen of met snelle verkoop? Vergelijking van alle opties: verkoop aan opkoper, herfinanciering, lijfrente, sale-and-leaseback.",
+    publishedAt: "2025-05-20",
+    updatedAt: "2025-05-28",
+    intro:
+      "Uw woning is waarschijnlijk uw grootste vermogen. Maar vermogen dat in stenen zit, is niet direct beschikbaar. Er zijn verschillende manieren om kapitaal vrij te maken uit uw woning — elk met andere voor- en nadelen. Dit artikel vergelijkt alle opties eerlijk, zodat u de juiste keuze kunt maken voor uw situatie.",
+    sections: [
+      {
+        heading: "Optie 1: verkoop via makelaar",
+        body: "De meest bekende weg: u stelt uw woning te koop via een makelaar en wacht op een koper. Dit levert in principe de hoogste prijs op, maar er zijn nadelen:\n\n• Tijdlijn: gemiddeld 3 tot 9 maanden van beslissing tot akte in de Antwerpse markt\n• Onzekerheid: u weet niet wanneer u verkoopt of voor welke prijs\n• Kosten: makelaarscommissie, keuringen, publicatie, mogelijk herstellingen\n• U moet de woning verlaten op de afgesproken datum\n\nGeschikt voor wie: voldoende tijd heeft, de woning verlaat en de maximale prijs nastreeft.",
+      },
+      {
+        heading: "Optie 2: verkoop aan een vastgoedopkoper",
+        body: "Een opkoper koopt uw woning rechtstreeks aan, zonder makelaar, zonder publicatie en zonder wachttijd. De prijs ligt lager dan de theoretische maximumprijs, maar het nettoverschil is kleiner dan het lijkt als u alle kosten en de wachttijd van een klassieke verkoop meerekent.\n\nVoordelen:\n• Zekerheid over datum en prijs: schriftelijk bod na één bezoek\n• Geen commissie, keuringen of ontruimingskosten: volledig voor rekening van de opkoper\n• Snelheid: gemiddeld 2 tot 3 maanden van aanvraag tot akte\n• Geen bezichtigingen: geen vreemden in uw woning\n\nBij wijkopenpanden.be ontvangt u een vrijblijvend schriftelijk bod na één bezoek. Wij nemen alle keuringen, de ontruiming en de notariscoördinatie op ons.\n\nGeschikt voor wie: snel zekerheid nodig heeft, de woning in huidige staat wil verkopen of een complexe situatie heeft (erfenis, scheiding, huurders).",
+      },
+      {
+        heading: "Optie 3: herfinanciering of hypothecaire lening",
+        body: "Als u uw woning niet wilt verlaten maar toch kapitaal nodig heeft, kunt u een nieuwe hypothecaire lening aangaan op uw woning (mits voldoende equity).\n\nVoordelen:\n• U blijft eigenaar en behoudt de woning\n• Lage rente ten opzichte van persoonlijke leningen\n\nNadelen:\n• U betaalt maandelijkse aflossingen\n• De bank beoordeelt uw financiële situatie (inkomen, leeftijd)\n• Na 65 jaar of bij pensioen is herfinanciering moeilijker te bekomen\n• Schuld op de woning vergroot het risico als u later toch moet verkopen\n\nGeschikt voor wie: over voldoende inkomen beschikt voor aflossingen en tijdelijk kapitaal nodig heeft.",
+      },
+      {
+        heading: "Optie 4: lijfrente",
+        body: "Bij een lijfrenteverkoop verkoopt u uw woning aan een koper (of aan wijkopenpanden.be) in ruil voor een maandelijks gegarandeerd inkomen — de lijfrente — voor de rest van uw leven. U behoudt het recht om in de woning te blijven wonen.\n\nVoordelen:\n• Levenslang aanvullend inkomen, ongeacht hoe lang u leeft\n• U hoeft niet te verhuizen\n• Zekerheid voor beide partijen, vastgelegd bij notaris\n\nNadelen:\n• U ontvangt geen groot eenmalig bedrag\n• Als u vroeg overlijdt, heeft u minder ontvangen dan bij een klassieke verkoop\n• Erfgenamen erven de woning niet meer\n\nGeschikt voor wie: senioren die hun pensioen willen aanvullen en in de woning willen blijven wonen.",
+      },
+      {
+        heading: "Optie 5: sale-and-leaseback (verkopen en blijven huren)",
+        body: "U verkoopt uw woning en tekent tegelijk een huurcontract, zodat u er kunt blijven wonen als huurder. U ontvangt de volledige verkoopprijs en betaalt maandelijkse huur.\n\nVoordelen:\n• Direct groot kapitaal beschikbaar\n• U verhuist niet\n• Geen onderhoudsplicht meer als eigenaar\n\nNadelen:\n• U bent geen eigenaar meer van de woning\n• Huurprijs is afhankelijk van marktomstandigheden\n• Bij opzegging van de huurovereenkomst moet u op zoek naar nieuwe woning\n\nBij wijkopenpanden.be bieden we deze formule standaard aan. De huurprijs en de duur worden vastgelegd bij de verkoop, zodat u zekerheid heeft.\n\nGeschikt voor wie: kapitaal nodig heeft maar niet direct wil of kan verhuizen.",
+      },
+      {
+        heading: "Vergelijking van alle opties",
+        body: "Overzichtstabel",
+        table: {
+          headers: ["Optie", "Snel geld?", "Blijven wonen?", "Eigendom kwijt?", "Maandelijkse lasten?"],
+          rows: [
+            ["Verkoop via makelaar", "Na 3–9 mnd", "Nee", "Ja", "Nee"],
+            ["Verkoop aan opkoper", "Na 2–3 mnd", "Nee (of ja via huur)", "Ja", "Nee (of huur)"],
+            ["Herfinanciering", "Ja (lening)", "Ja", "Nee", "Ja (aflossingen)"],
+            ["Lijfrente", "Maandelijks", "Ja (levenslang)", "Ja", "Nee"],
+            ["Sale-and-leaseback", "Ja (eenmalig)", "Ja (als huurder)", "Ja", "Ja (huur)"],
+          ],
+        },
+      },
+    ],
+    relatedArticles: ["lijfrente-uitgelegd", "blijven-wonen-na-verkoop", "verkoop-kosten-berekenen"],
+    relatedSituations: ["blijven-wonen", "huis-verkopen-bij-erfenis"],
+    faqs: [
+      {
+        question: "Hoe kan ik snel geld vrijmaken uit mijn woning zonder te verkopen?",
+        answer:
+          "De meest gebruikelijke manier is een hypothecaire lening op uw woning. Als u ouder bent of geen inkomen meer heeft, is dit moeilijker. Een lijfrenteverkoop of sale-and-leaseback zijn dan alternatieven waarbij u wel verkoopt maar in de woning blijft.",
+      },
+      {
+        question: "Is verkopen aan een opkoper de snelste manier om geld vrij te maken?",
+        answer:
+          "Ja, als u de woning wilt verkopen. Bij wijkopenpanden.be ontvangt u een schriftelijk bod na één bezoek en wordt de akte gemiddeld binnen 2 tot 3 maanden getekend. Er zijn geen keuringskosten, geen commissie en geen wachttijd.",
+      },
+      {
+        question: "Wat is het verschil tussen lijfrente en sale-and-leaseback?",
+        answer:
+          "Bij een lijfrente ontvangt u een maandelijks inkomen voor de rest van uw leven en behoudt u het recht om te wonen. Bij sale-and-leaseback ontvangt u de volledige verkoopprijs in één keer en betaalt u daarna maandelijkse huur.",
+      },
+      {
+        question: "Kan ik mijn woning verkopen en er toch in blijven wonen?",
+        answer:
+          "Ja, via een sale-and-leaseback (huurovereenkomst) of via een vruchtgebruikconstructie. Wijkopenpanden.be biedt beide formules aan. U verkoopt de woning en sluit tegelijk een huurcontract of vruchtgebruik af.",
+      },
+      {
+        question: "Voor wie is een lijfrenteverkoop interessant?",
+        answer:
+          "Hoofdzakelijk voor senioren die hun pensioen willen aanvullen, geen erfgenamen hebben of wens om te erven, en in hun woning willen blijven. De fiscale behandeling van lijfrente is in bepaalde situaties voordelig.",
+      },
+    ],
+  },
 ];
 
 export function getArticle(slug: string): Article | undefined {
