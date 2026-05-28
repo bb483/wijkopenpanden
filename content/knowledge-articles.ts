@@ -803,6 +803,98 @@ export const articles: Article[] = [
       },
     ],
   },
+  {
+    slug: "energie-renovatieplicht-vlaanderen-2025",
+    title: "Energie-renovatieplicht Vlaanderen 2025: wat betekent het voor uw woning?",
+    metaTitle: "Energie-renovatieplicht Vlaanderen 2025 — gevolgen voor verkopers | wijkopenpanden.be",
+    metaDescription:
+      "Heeft uw woning EPC-label E of F? De Vlaamse renovatieplicht verplicht kopers tot renovatie binnen 5 jaar. Wat betekent dit voor uw verkoopprijs — en wat zijn uw opties?",
+    publishedAt: "2025-05-28",
+    updatedAt: "2025-05-28",
+    intro:
+      "Wie in Vlaanderen een woning koopt met een laag energieprestatieattest — EPC-label E of F — is wettelijk verplicht om die woning binnen vijf jaar te renoveren tot minstens label D. Die verplichting rust op de koper, niet op de verkoper. Maar eigenaars voelen de gevolgen rechtstreeks in hun verkoopprijs: kopers trekken de geschatte renovatiekost systematisch af van hun bod. In dit artikel leggen we uit wat de renovatieplicht precies inhoudt, welke woningen in Antwerpen het zwaarst getroffen zijn, en welke opties u als eigenaar heeft.",
+    sections: [
+      {
+        heading: "Wat houdt de Vlaamse renovatieplicht precies in?",
+        body: "Sinds 1 januari 2023 geldt in Vlaanderen een verplicht renovatietraject voor residentieel vastgoed met een laag EPC-label. De regels in een notendop:\n\n• Wie een woning koopt met EPC-label E of F, moet die woning binnen 5 jaar na de aankoopdatum renoveren tot minstens EPC-label D.\n• De verplichting geldt voor de KOPER — niet voor de huidige eigenaar. U bent als verkoper niet verplicht zelf te renoveren voor de verkoop.\n• Woningen met EPC-label A+, A, B, C of D vallen niet onder de renovatieplicht.\n• De verplichting wordt opgevolgd via de Vlaamse overheid en gekoppeld aan de akte.\n\nDe lat wordt bovendien jaar na jaar hoger gelegd. Wie vanaf 2028 een woning koopt met label D of lager, moet binnen vijf jaar label C halen. Tegen 2050 wil Vlaanderen dat alle woningen label A of B halen.",
+      },
+      {
+        heading: "Welke woningen in Antwerpen vallen hieronder?",
+        body: "De impact van de renovatieplicht is ongelijk verdeeld over de Antwerpse vastgoedmarkt. Het grootste deel van de getroffen woningen zijn rijhuizen en appartementen uit de eerste helft van de twintigste eeuw — vaak gebouwd zonder of met minimale isolatie.\n\nTypisch aangetaste types per wijk:\n\n• Seefhoek en Antwerpen-Noord: arbeiderswoning jaren 1890–1940, smal, slecht geïsoleerd, vaak EPC label E of F. Dit zijn de meest voorkomende gevallen in onze portefeuille.\n• Borgerhout: gemengd. Rijhuizen met originele gevelopbouw kunnen label E of F hebben; recent gerenoveerde panden vaak label C of beter.\n• Deurne en Berchem: ruimere woningen uit de jaren 1930–1960. Meer variatie in energielabels. Woningen zonder dakisolatie of met oud verwarmingssysteem scoren vaak label E.\n• Zurenborg: beschermde panden met erfgoedverplichtingen. Renovatie naar label D is hier technisch moeilijker en duurder. Veel eigenaars stuiten op beperkingen bij het isoleren van de gevel.\n\nVuistregel: elke woning met een gasketel ouder dan 15 jaar, zonder dakisolatie en zonder dubbele beglazing haalt zelden beter dan label D.",
+      },
+      {
+        heading: "Wat kost een renovatie van label E of F naar label D?",
+        body: "De renovatiekost hangt sterk af van het vertrekpunt (hoe slecht is het label?) en de woning zelf (grootte, bouwjaar, constructietype). Op basis van de Antwerpse markt zijn dit de gangbare kostenposten:\n\nDakisolatie:\nVoor een rijhuis van 80–120 m² bedraagt dakisolatie (spouwisolatie of nieuwe dakbedekking met isolatie) gemiddeld €4.000 tot €12.000.\n\nVervanging van de verwarmingsinstallatie:\nEen condensatieketel vervangen door een warmtepomp kost inclusief installatie €10.000 tot €18.000. Subsidies van de Vlaamse overheid (VEKA-premies) kunnen dit terugbrengen met €3.000 tot €7.000.\n\nGevelisolatie of binnenisolatie:\nBij smalle rijhuizen in de stad is buitenisolatie zelden mogelijk (stedenbouwkundige bezwaren, burenakkoord). Binnenisolatie kost €4.000 tot €15.000 afhankelijk van het oppervlak.\n\nVervanging van beglazing:\nEnkel naar dubbel glas: €3.000 tot €10.000 afhankelijk van het aantal ramen.\n\nTotaalraming voor een doorsnee Antwerps rijhuis van EPC E naar D:\n€20.000 tot €45.000, afhankelijk van de staat en het bouwjaar.\n\nVoor een appartement met label F in een oud gebouw kan de kost oplopen tot €50.000 of meer als het gaat om gedeelde installaties (stookplaats van de VME).",
+      },
+      {
+        heading: "Impact op de verkoopprijs: hoe rekenen kopers dit in?",
+        body: "Kopers die een woning met EPC E of F willen kopen, weten dat ze binnen vijf jaar moeten investeren. Ze berekenen dit systematisch:\n\n1. Ze schatten de renovatiekost (of vragen een renovatiedeskundige).\n2. Ze trekken die kost af van de prijs die ze bereid zouden zijn te betalen voor een label D-woning.\n3. Bovendien verhogen ze de risicopremie: stel dat de renovatiekost hoger uitvalt, of dat ze de aannemer niet vinden.\n\nIn de praktijk betekent dit:\n• Een rijhuis dat zonder renovatieverplichting €250.000 waard is, wordt bij EPC F aangeboden voor €210.000 of minder.\n• De onderhandeling verloopt moeilijker: kopers die op zoek zijn naar een instapklare woning haken af.\n• Financiering: sommige banken weigeren of bemoeilijken het hypothecaire krediet voor woningen met zeer laag EPC-label.\n\nVoor eigenaar-verkopers die zelf niet wensen te renoveren, zijn de opties beperkt: de prijs lager stellen dan gewenst, of zoeken naar een koper die de renovatieverplichting als een kans beschouwt — zoals een vastgoedopkoper.",
+      },
+      {
+        heading: "Vergelijking: renoveren voor verkoop vs. as-is verkopen",
+        body: "Sommige eigenaars overwegen om zelf te renoveren voor de verkoop om een hogere prijs te halen. De rekensom is bijna nooit gunstig.",
+        table: {
+          headers: ["Scenario", "Tijdlijn", "Kostprijs eigenaar", "Verwachte verkoopprijs", "Netto resultaat"],
+          rows: [
+            [
+              "Renoveren tot label D, dan verkopen via makelaar",
+              "12–24 maanden",
+              "€25.000–€45.000 (renovatie) + commissie",
+              "Marktprijs voor label D",
+              "Investering amper terugverdiend",
+            ],
+            [
+              "As-is verkopen via makelaar (EPC E/F)",
+              "6–12 maanden",
+              "Commissie + keuringen",
+              "Marktprijs min renovatiekorting",
+              "Lang traject, onzekerheid",
+            ],
+            [
+              "As-is verkopen aan wijkopenpanden.be",
+              "2–3 maanden",
+              "Geen commissie, geen keuringen",
+              "Eerlijk bod rekening houdend met EPC",
+              "Snel, zeker, geen vooruitgave",
+            ],
+          ],
+        },
+      },
+      {
+        heading: "Wat doet wijkopenpanden.be met woningen met laag EPC-label?",
+        body: "Wij kopen woningen met EPC-label E, F en ook D rechtstreeks aan — ook als ze renovatieplichtig zijn na onze aankoop. De renovatieverplichting gaat over op ons als koper. Wij rekenen de renovatiekost intern in en trekken die niet ongefundeerd van uw prijs af: wij baseren ons op werkelijke renovatieramingen, niet op overdreven angstcijfers.\n\nVoordelen voor u als eigenaar:\n• Geen voorafgaande renovatie nodig\n• Geen keuringskosten (EPC, elektriciteit, asbest) — die zijn voor ons\n• Geen makelaar, geen commissie\n• Schriftelijk bod na één bezoek\n• Akte binnen 2 tot 3 maanden\n\nWij leggen u bij het bezoek transparant uit hoe wij het EPC-label meewegen in ons bod. U beslist vrijblijvend.",
+      },
+    ],
+    relatedArticles: ["epc-attest-antwerpen", "keuringen-bij-verkoop-woning", "pand-in-slechte-staat-verkopen"],
+    relatedSituations: ["opknappand-verkopen", "verkopen-zonder-makelaar"],
+    faqs: [
+      {
+        question: "Ben ik als verkoper verplicht mijn woning te renoveren voor ik verkoop?",
+        answer:
+          "Nee. De Vlaamse renovatieplicht rust op de KOPER, niet op de verkoper. U mag uw woning met EPC-label E of F verkopen zonder zelf te renoveren. De koper neemt de renovatieplicht over bij de aankoop.",
+      },
+      {
+        question: "Mag een bank een hypotheek weigeren voor een woning met EPC F?",
+        answer:
+          "Banken zijn niet wettelijk verplicht een hypotheek te weigeren, maar ze mogen strengere voorwaarden opleggen. In de praktijk vragen sommige banken een renovatieplan of een geblokkeerd renovatiekrediet bij de financiering van een EPC F-woning. Dit maakt de verkoop via de vrije markt complexer.",
+      },
+      {
+        question: "Wat als een koper de renovatieplicht niet nakomt?",
+        answer:
+          "De Vlaamse overheid kan handhaven via een regularisatie-eis en eventuele boetes. In de praktijk wordt dit nog niet systematisch gecontroleerd, maar de regelgeving wordt strikter. De verplichting is echter een zaak tussen de koper en de overheid — als verkoper draagt u hiervoor geen verantwoordelijkheid na de akte.",
+      },
+      {
+        question: "Hoe bepaalt wijkopenpanden.be het bod voor een EPC E of F woning?",
+        answer:
+          "Wij baseren ons op de marktwaarde van vergelijkbare gerenoveerde woningen in de buurt, min de geschatte renovatiekost op basis van werkelijke offertes. Wij werken met vaste aannemers en kennen de reële kosten. Wij verdienen geen geld door de renovatiekost te overdrijven — wij verdienen door de woning efficiënt te renoveren en te verkopen.",
+      },
+      {
+        question: "Kan ik een woning met EPC F verkopen als de notaris er vragen over stelt?",
+        answer:
+          "Ja. De notaris zal de koper bij de akte informeren over de renovatieplicht en de koper bevestigt dit te weten. Dit is een verplichte mededeling, geen verkoopblokkade. Verkopen met EPC E of F is 100% legaal.",
+      },
+    ],
+  },
 ];
 
 export function getArticle(slug: string): Article | undefined {
