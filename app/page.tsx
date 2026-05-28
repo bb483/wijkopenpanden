@@ -50,6 +50,12 @@ const localBusinessSchema = {
     addressLocality: "Antwerpen",
     addressCountry: "BE",
   },
+  image: {
+    "@type": "ImageObject",
+    url: "https://wijkopenpanden.be/opengraph-image",
+    width: 1200,
+    height: 630,
+  },
   sameAs: ["https://wijkopenpanden.be"],
 };
 

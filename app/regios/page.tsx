@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   title: "Woning verkopen per regio in Antwerpen | wijkopenpanden.be",
   description: "wijkopenpanden.be koopt woningen aan in Antwerpen en alle omliggende gemeenten. Kies uw gemeente en ontdek wat wij voor u kunnen doen.",
   alternates: { canonical: "https://wijkopenpanden.be/regios" },
+  twitter: { card: "summary_large_image" },
 };
 
 export default function RegiosPage() {

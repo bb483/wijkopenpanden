@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   title: "Kennisbank vastgoed Antwerpen | wijkopenpanden.be",
   description: "Praktische gidsen over vastgoed verkopen in Antwerpen: makelaarskosten, erfenis, scheiding en meer. Geschreven door wijkopenpanden.be.",
   alternates: { canonical: "https://wijkopenpanden.be/kennisbank" },
+  twitter: { card: "summary_large_image" },
 };
 
 export default function KennisbankPage() {

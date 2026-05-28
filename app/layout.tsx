@@ -44,10 +44,31 @@ export const metadata: Metadata = {
   },
 };
 
+const organizationSchema = {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  name: "wijkopenpanden.be",
+  url: "https://wijkopenpanden.be",
+  logo: "https://wijkopenpanden.be/opengraph-image",
+  telephone: "+32492779475",
+  email: "info@wijkopenpanden.be",
+  address: {
+    "@type": "PostalAddress",
+    addressLocality: "Antwerpen",
+    addressCountry: "BE",
+  },
+  areaServed: "Antwerpen",
+  sameAs: ["https://wijkopenpanden.be"],
+};
+
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="nl" className={`${playfair.variable} ${jakarta.variable} h-full`}>
       <body className="min-h-full flex flex-col bg-[#FAF7F2] text-[#1C1610]">
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationSchema) }}
+        />
         <SmoothScrollProvider>
           {children}
         </SmoothScrollProvider>

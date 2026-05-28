@@ -29,6 +29,7 @@ export default function RegionTemplate({ data }: { data: Region }) {
     description: `Vastgoed opkoper actief in ${data.name}`,
     url: BASE_URL,
     telephone: "+32492779475",
+    image: `${BASE_URL}/opengraph-image`,
     address: { "@type": "PostalAddress", addressLocality: "Antwerpen", addressCountry: "BE" },
     geo: { "@type": "GeoCoordinates", latitude: data.geo.lat, longitude: data.geo.lng },
     areaServed: data.name,

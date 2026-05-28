@@ -28,9 +28,16 @@ export default function ArticleTemplate({ data }: { data: Article }) {
     headline: data.title,
     datePublished: data.publishedAt,
     dateModified: data.updatedAt,
-    author: { "@type": "Organization", name: "wijkopenpanden.be" },
-    publisher: { "@type": "Organization", name: "wijkopenpanden.be", url: BASE_URL },
+    image: `${BASE_URL}/kennisbank/${data.slug}/opengraph-image`,
+    author: { "@type": "Organization", name: "wijkopenpanden.be", url: BASE_URL },
+    publisher: {
+      "@type": "Organization",
+      name: "wijkopenpanden.be",
+      url: BASE_URL,
+      logo: { "@type": "ImageObject", url: `${BASE_URL}/opengraph-image` },
+    },
     url: `${BASE_URL}/kennisbank/${data.slug}`,
+    mainEntityOfPage: { "@type": "WebPage", "@id": `${BASE_URL}/kennisbank/${data.slug}` },
   };
 
   const faqSchema = data.faqs.length > 0 ? {

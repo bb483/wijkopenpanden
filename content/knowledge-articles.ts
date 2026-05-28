@@ -4,7 +4,7 @@ export const articles: Article[] = [
   {
     slug: "commissie-makelaar-belgie",
     title: "Makelaarsloon in België: wat betaalt u echt?",
-    metaTitle: "Makelaarsloon in België 2024 — wat betaalt u echt? | wijkopenpanden.be",
+    metaTitle: "Makelaarsloon in België 2025 — wat betaalt u echt? | wijkopenpanden.be",
     metaDescription:
       "Wat kost een makelaar in België? De commissie plus verborgen kosten lopen hoger op dan velen denken. Lees de volledige analyse en vergelijk met verkopen aan een opkoper.",
     publishedAt: "2024-09-01",
