@@ -966,6 +966,164 @@ export const articles: Article[] = [
       },
     ],
   },
+  {
+    slug: "huis-verkopen-antwerpen-gids",
+    title: "Huis verkopen in Antwerpen: de complete gids (2026)",
+    metaTitle: "Huis verkopen in Antwerpen — complete gids 2026 | wijkopenpanden.be",
+    metaDescription:
+      "Hoe verkoop je een woning in Antwerpen? Stap-voor-stap: attesten, tijdlijn, kosten en keuze tussen makelaar of opkoper. Alles wat u nodig hebt in 2026.",
+    publishedAt: "2026-06-04",
+    updatedAt: "2026-06-04",
+    intro:
+      "Een woning of pand verkopen in Antwerpen is geen eenvoudige beslissing. Er zijn wettelijke verplichtingen, fiscale gevolgen, meerdere verkoopopties en een tijdlijn die sterk verschilt naargelang u via een makelaar verkoopt, zelf de markt op gaat, of rechtstreeks verkoopt aan een opkoper. Deze gids legt stap voor stap uit wat u kunt verwachten — van de eerste beslissing tot de ondertekening van de akte bij de notaris.",
+    sections: [
+      {
+        heading: "Stap 1: Bepaal hoe u uw woning in Antwerpen wilt verkopen",
+        body: "Vooraleer u ook maar één attest aanvraagt, moet u kiezen hoe u wilt verkopen. Die keuze bepaalt alles: de tijdlijn, de kosten en de zekerheid.\n\nDe drie gangbare opties in Antwerpen:\n\nVia een vastgoedmakelaar\nEen makelaar regelt de publicatie, de bezichtigingen en de onderhandelingen. U betaalt een commissie (doorgaans 3–4% + btw) op de verkoopprijs. De tijdlijn is onzeker: gemiddeld 3 tot 9 maanden van beslissing tot akte, afhankelijk van de buurt en de staat van de woning.\n\nZelf verkopen (zonder makelaar)\nU plaatst de woning zelf op Immoweb of Zimmo, regelt de bezichtigingen en onderhandelt rechtstreeks. Geen commissie, maar u draagt alle verantwoordelijkheid voor de juridische correctheid.\n\nVerkopen aan een vastgoedopkoper\nEen opkoper — zoals wijkopenpanden.be — koopt uw woning rechtstreeks aan, zonder makelaar, zonder bezichtigingen voor derden en zonder wachttijd. De tijdlijn is voorspelbaar: gemiddeld 2 tot 3 maanden. U betaalt geen commissie en de keuringen zijn inbegrepen.",
+      },
+      {
+        heading: "Stap 2: De verplichte attesten voor een woning in Antwerpen",
+        body: "Ongeacht hoe u verkoopt, zijn een aantal attesten wettelijk verplicht in Vlaanderen. Zonder deze attesten kan de notariële akte niet worden opgesteld.\n\nEPC (energieprestatiecertificaat)\nHet EPC geeft het energieverbruik van de woning weer op een schaal van A+ tot F. Het attest is verplicht bij publicatie — u mag uw woning niet te koop zetten zonder het. De kostprijs bedraagt gemiddeld €150 tot €350, afhankelijk van de grootte.\n\nElektriciteitskeuring\nBij de verkoop van een woning met een elektrische installatie gebouwd of gerenoveerd voor 2001 is een keuring verplicht. Een niet-conforme keuring is geen blokkade voor de verkoop — de koper heeft 18 maanden om de installatie in orde te brengen.\n\nAsbestinventaris\nVoor woningen gebouwd voor 2001 is een asbestinventarisatieattest verplicht. Een gecertificeerde asbestdeskundige voert een visueel onderzoek uit. Kostprijs: €200 tot €600 afhankelijk van de grootte.\n\nBodemattesten en andere documenten\nDe notaris vraagt zelf de nodige bodemattesten (OVAM) en stedenbouwkundige uittreksels op. U hoeft dit zelf niet te regelen.\n\nBij een verkoop aan wijkopenpanden.be nemen wij alle keuringen over: EPC, elektriciteit en asbest zijn volledig voor onze rekening en worden nooit van uw bod afgetrokken.",
+      },
+      {
+        heading: "Stap 3: De marktwaarde van uw Antwerpse woning bepalen",
+        body: "Wat is uw woning waard? Die vraag is eenvoudiger te stellen dan te beantwoorden. De waarde hangt af van:\n\n• Ligging: buurt, nabijheid openbaar vervoer, school en handelszaken\n• Type en grootte: rijhuis, appartement, herenhuis, opbrengsteigendom\n• Staat: sleutelklaar, te renoveren of grondig op te knappen\n• EPC-label: een label E of F drukt de marktwaarde door de renovatieplicht\n• Vergelijkbare transacties: recente verkopen van gelijkaardige panden in de straat of buurt\n\nConcreet voor Antwerpen:\n\nRijhuizen in Borgerhout variëren van €185.000 (renovatiepand) tot €290.000 (goed onderhouden). In Berchem liggen de prijzen 25–40% hoger voor een vergelijkbaar type. Een appartement in het centrum kost gemiddeld €185.000 tot €360.000 afhankelijk van verdieping, oppervlakte en staat.\n\nEen makelaar schat uw woning in tijdens een gratis bezoek. Wijkopenpanden.be doet u een concreet schriftelijk bod na één bezoek — op basis van de werkelijke marktwaarde minus de renovatiekost die wij zelf dragen.",
+      },
+      {
+        heading: "Stap 4: Van aanbieding tot bod — hoe de onderhandeling verloopt",
+        body: "Bij een klassieke verkoop via makelaar:\nUw woning wordt gepubliceerd op Immoweb, Zimmo en sociale media. Geïnteresseerden plannen bezichtigingen. Na meerdere weken tot maanden ontvangen u (hopelijk) een bod. Er volgen mogelijk tegenbiedingen. Pas als beide partijen akkoord gaan over prijs en voorwaarden, wordt een aankoopbelofte of compromis opgesteld.\n\nBij een verkoop aan wijkopenpanden.be:\n1. U vraagt een bod aan via het formulier of telefonisch.\n2. Wij plannen een bezoek — doorgaans binnen 2 werkdagen.\n3. Na het bezoek ontvangt u een schriftelijk bod, doorgaans binnen 24 uur.\n4. U beslist vrijblijvend. Geen tijdsdruk.\n5. Akkoord? Wij plannen een afspraak bij de notaris.\n\nEr zijn geen onderhandelingen over keuringskosten, renovatietoelagen of ontruimingskosten. Die zijn nooit een aftrekpost op het bod.",
+      },
+      {
+        heading: "Stap 5: Van compromis tot notariële akte",
+        body: "De voorlopige koopovereenkomst (compromis) is bindend voor beide partijen. Zodra het compromis is ondertekend, heeft de koper 4 maanden de tijd om de financiering te regelen en de akte bij de notaris te laten verlijden.\n\nWat u als verkoper moet doen na het compromis:\n• Uw goederen verhuizen of laten ontruimen op de afgesproken datum\n• Eventuele attesten of documenten aanleveren die nog ontbreken\n• Aanwezig zijn bij de notariële akte (of een volmacht geven)\n\nBij de akte:\nDe notaris leest de akte voor, beide partijen tekenen, en de aankoopprijs wordt uitbetaald. De registratierechten (2% voor de enige en eigen woning van de koper, 12% voor overige aankopen) zijn voor rekening van de koper. Als verkoper ontvangt u netto het overeengekomen bedrag.",
+      },
+      {
+        heading: "Vergelijking: makelaar, zelf verkopen of opkoper",
+        body: "Overzichtstabel van de drie verkoopopties",
+        table: {
+          headers: ["Criterium", "Via makelaar", "Zelf verkopen", "Opkoper (wijkopenpanden.be)"],
+          rows: [
+            ["Tijdlijn", "5–12 maanden", "4–10 maanden", "2–3 maanden"],
+            ["Commissie", "3–4% + btw", "Geen", "Geen"],
+            ["Keuringen (EPC, elektra, asbest)", "Kopers rekening", "Kopers rekening", "Volledig inbegrepen"],
+            ["Ontruiming", "Eigen kosten", "Eigen kosten", "Volledig inbegrepen"],
+            ["Zekerheid over prijs", "Pas bij compromis", "Pas bij akkoord", "Schriftelijk bod na bezoek"],
+            ["Bezichtigingen door vreemden", "Ja, meerdere", "Ja, meerdere", "Nee — enkel ons bezoek"],
+            ["Geschikt voor probleempanden", "Beperkt", "Moeilijk", "Ja — elke staat"],
+          ],
+        },
+      },
+    ],
+    relatedArticles: ["commissie-makelaar-belgie", "keuringen-bij-verkoop-woning", "notariskosten-woning-verkoop", "verkoop-kosten-berekenen", "belastingen-bij-woningverkoop", "hoelang-duurt-huis-verkopen-belgie"],
+    relatedSituations: ["verkopen-zonder-makelaar", "opknappand-verkopen", "huis-verkopen-bij-erfenis"],
+    faqs: [
+      {
+        question: "Wat zijn de kosten als ik mijn huis verkoop in Antwerpen?",
+        answer:
+          "Als verkoper betaalt u doorgaans: makelaarscommissie (3–4% + btw, indien ingeschakeld), de verplichte attesten (EPC €150–350, elektriciteitskeuring €150–300, asbestinventaris €200–600) en eventueel uw eigen notaris. Bij een verkoop aan wijkopenpanden.be zijn alle keuringen inbegrepen en betaalt u geen commissie.",
+      },
+      {
+        question: "Moet ik mijn woning renoveren voor ik verkoop?",
+        answer:
+          "Nee. U kunt een woning in elke staat verkopen. Renoveren loont zelden: de kost wordt zelden volledig terugverdiend in een hogere verkoopprijs. Een opkoper koopt uw woning as-is aan en houdt de renovatiekost intern in zijn bod.",
+      },
+      {
+        question: "Wat is het verschil tussen compromis en akte?",
+        answer:
+          "Het compromis (voorlopige koopovereenkomst) is de eerste bindende overeenkomst tussen koper en verkoper. De akte is het officiële juridische document dat bij de notaris wordt ondertekend, waarna de eigendom overgaat. Tussen compromis en akte zit gemiddeld 3 tot 4 maanden.",
+      },
+      {
+        question: "Kan ik mijn woning verkopen als er nog een hypotheek op staat?",
+        answer:
+          "Ja. De openstaande hypotheek wordt bij de notariële akte automatisch afgelost via de verkoopprijs. De notaris regelt de doorstorting naar uw bank. U ontvangt het saldo na aflossing.",
+      },
+      {
+        question: "Hoeveel belasting betaal ik als ik mijn woning verkoop in Antwerpen?",
+        answer:
+          "Als u uw eigen woning (hoofdverblijfplaats) verkoopt, betaalt u in principe geen meerwaardebelasting. Verkoopt u een tweede woning of investering binnen 5 jaar na aankoop, dan bedraagt de meerwaardebelasting 16,5%. Registratierechten zijn een koperskost.",
+      },
+    ],
+  },
+  {
+    slug: "hoelang-duurt-huis-verkopen-belgie",
+    title: "Hoelang duurt een huis verkopen in België? Realistische tijdlijnen (2026)",
+    metaTitle: "Hoelang duurt een huis verkopen in België? Tijdlijnen 2026 | wijkopenpanden.be",
+    metaDescription:
+      "Hoelang duurt het om een woning te verkopen in België? Van 6 weken tot meer dan een jaar — afhankelijk van uw keuze. Vergelijking per verkoopoptie voor 2026.",
+    publishedAt: "2026-06-04",
+    updatedAt: "2026-06-04",
+    intro:
+      "Hoelang duurt een huis verkopen in België? Het eerlijke antwoord: het hangt sterk af van hoe u verkoopt, in welke buurt de woning staat en in welke staat ze verkeert. Via een makelaar rekent u op 5 tot 12 maanden van beslissing tot akte. Via een vastgoedopkoper is dat gemiddeld 2 tot 3 maanden. In dit artikel leggen we elke fase uit — met concrete tijdlijnen per verkoopoptie — zodat u een realistische planning kunt maken.",
+    sections: [
+      {
+        heading: "De drie fases van een woningverkoop in België",
+        body: "Elke woningverkoop in België doorloopt drie fases, ongeacht de verkoopoptie:\n\nFase 1: Voorbereiding (2–8 weken)\nVoordat u uw woning kunt aanbieden, zijn er verplichte attesten nodig: EPC, elektriciteitskeuring en asbestinventaris. Een gecertificeerde energiedeskundige plannen kost doorgaans 1 tot 3 weken. Daarna volgt de eventuele fotografie, opmaak van de publicatie en het indienen bij de notaris.\n\nFase 2: Verkoop (2 weken tot 9 maanden)\nDit is de meest variabele fase. Via een makelaar wacht u op bezichtigingen, biedingen en onderhandelingen. In een gewilde Antwerpse buurt kan dit 4 tot 8 weken duren; in een pand dat grondige renovatie nodig heeft, kan het oplopen tot 6 tot 9 maanden — of langer.\n\nFase 3: Notarieel traject (2–4 maanden)\nVan het ondertekende compromis tot de notariële akte neemt gemiddeld 3 tot 4 maanden in beslag. De koper heeft tijd nodig om zijn financiering te regelen, de notaris vraagt attesten en bodemcertificaten op, en beide partijen moeten aanwezig zijn bij de akte.",
+      },
+      {
+        heading: "Tijdlijn per verkoopoptie: concrete vergelijking",
+        body: "Overzicht van de totale doorlooptijd per verkoopoptie",
+        table: {
+          headers: ["Verkoopoptie", "Voorbereiding", "Verkoop", "Akte", "Totaal"],
+          rows: [
+            ["Via makelaar (vlotte verkoop)", "3–5 weken", "4–8 weken", "3–4 maanden", "4–6 maanden"],
+            ["Via makelaar (trage markt)", "3–5 weken", "3–9 maanden", "3–4 maanden", "7–14 maanden"],
+            ["Zelf verkopen (Immoweb/Zimmo)", "2–4 weken", "6–12 weken", "3–4 maanden", "5–8 maanden"],
+            ["Opkoper (wijkopenpanden.be)", "Geen — wij regelen dit", "1–3 werkdagen", "6–10 weken", "2–3 maanden"],
+          ],
+        },
+      },
+      {
+        heading: "Wat verlengt de verkooptijdlijn? De 5 meest voorkomende oorzaken",
+        body: "1. Slechte EPC-score (label E of F)\nKopers die een woning met label E of F kopen, zijn verplicht binnen 6 jaar te renoveren tot label D. Dit schrikt veel kopers af of leidt tot forse prijsonderhandelingen. Resultaat: langere zoektijd naar een koper die dit accepteert.\n\n2. Niet-conforme elektriciteitskeuring\nEen negatief keuringsattest verplicht de koper de installatie binnen 18 maanden in orde te brengen. Sommige banken financieren moeilijker. Gevolg: minder geïnteresseerden op de vrije markt.\n\n3. Meerdere erfgenamen die het niet eens zijn\nBij een erfenis moet elke erfgenaam akkoord gaan met de verkoopprijs en de timing. Discussies kunnen de tijdlijn maanden verlengen. Een gerechtelijke verdeling duurt zelfs 1 tot 3 jaar.\n\n4. Stedenbouwkundige overtredingen\nNiet-vergunde aanbouwen of verbouwingen vertragen het notarieel traject en bemoeilijken de financiering van de koper. Regularisatie vóór de verkoop kost 4 tot 6 maanden extra.\n\n5. Huurders in het pand\nEen bewoond pand verkopen is complexer. De huurder heeft wettelijk een recht van voorkoop in bepaalde situaties. Kopers die zelf willen intrekken, haken af. Dit verlengt de zoektijd aanzienlijk.",
+      },
+      {
+        heading: "Hoelang duurt een huis verkopen in Antwerpen specifiek?",
+        body: "Antwerpen heeft een actieve vastgoedmarkt, maar de doorlooptijden verschillen sterk per buurt en type woning.\n\nSnel verkopende gebieden (4–6 maanden via makelaar):\n• Zurenborg en omgeving: hoge vraag, beschermde gevels, instapklare woningen gaan snel\n• Berchem en Mortsel: gezinswoningen in goede staat vinden snel een koper\n• Centrum en Eilandje: appartementen met goede EPC-score en parking scoren goed\n\nTrager verkopende segmenten (7–14 maanden via makelaar):\n• Renovatiepanden in Seefhoek of Borgerhout: doelgroep is kleiner, onderhandelingen langduriger\n• Opbrengsteigendommen met problematische huurders: kopers zijn wantrouwig en voorzichtig\n• Panden met EPC label F en actieve handhaving: banken financieren terughoudend\n\nVia wijkopenpanden.be is de tijdlijn altijd 2 tot 3 maanden — ongeacht de buurt, de staat of de situatie.",
+      },
+      {
+        heading: "Fase per fase: wat u als verkoper kunt verwachten",
+        body: "Week 1–3: Attesten aanvragen\nU plant een energiedeskundige in voor het EPC, een erkend keurder voor de elektriciteit en een asbestdeskundige. Wacht op de rapporten.\n\nWeek 3–6: Publicatie en bezichtigingen\nDe makelaar plaatst de woning online. De eerste bezichtigingen vinden plaats. Dit is emotioneel: vreemden beoordelen uw woning kritisch.\n\nWeek 6 tot maanden: Biedingen en onderhandeling\nU ontvangt (hopelijk) biedingen. Er volgt onderhandeling over prijs, roerende goederen en de datum van de akte. De koper vraagt een hypotheek aan bij zijn bank — dit duurt 2 tot 6 weken extra.\n\nNa akkoord: Compromis (1–2 weken)\nKoper en verkoper ondertekenen een voorlopige koopovereenkomst bij de notaris of makelaar.\n\nNa compromis: Akte (3–4 maanden)\nDe notaris vraagt attesten op, de koper regelt zijn financiering, en beide partijen ondertekenen de definitieve akte. Op dat moment ontvangt u het geld.",
+      },
+      {
+        heading: "Wanneer is snelheid belangrijker dan de maximumprijs?",
+        body: "Er zijn situaties waarbij 2 tot 3 maanden een wereld van verschil maakt:\n\n• Erfenis met meerdere erfgenamen: hoe langer de woning leegstaat, hoe meer kosten (leegstandsverzekering, onroerende voorheffing, onderhoud).\n• Scheiding: elke maand langer betekent emotionele en financiële druk voor beide partijen.\n• Financiële druk: u heeft snel kapitaal nodig voor een nieuwe woning, een zorgkost of een andere investering.\n• Probleempand: een opknapper of pand met huurders staat maanden te koop zonder ernstig bod.\n\nIn al deze situaties is de tijdlijn van een opkoper — 2 tot 3 maanden, vast — waarschijnlijk meer waard dan de theoretische maximumprijs via een makelaar.",
+      },
+    ],
+    relatedArticles: ["huis-verkopen-antwerpen-gids", "commissie-makelaar-belgie", "verkoop-kosten-berekenen", "energie-renovatieplicht-vlaanderen-2026", "stedenbouwkundige-overtreding-woning-verkopen"],
+    relatedSituations: ["huis-verkopen-bij-erfenis", "huis-verkopen-bij-scheiding", "pand-met-huurders-verkopen"],
+    faqs: [
+      {
+        question: "Hoelang duurt een huis verkopen in België gemiddeld?",
+        answer:
+          "Via een makelaar bedraagt de gemiddelde doorlooptijd in België 5 tot 9 maanden van beslissing tot ondertekening van de notariële akte. In Antwerpen kan dit in gewilde buurten 4 tot 6 maanden zijn; bij moeilijkere panden of minder gevraagde locaties loopt het op tot 10 tot 14 maanden. Via een vastgoedopkoper is de tijdlijn gemiddeld 2 tot 3 maanden.",
+      },
+      {
+        question: "Hoelang duurt het tussen compromis en akte?",
+        answer:
+          "Gemiddeld 3 tot 4 maanden. De koper heeft tijd nodig om zijn hypothecaire financiering te regelen (2 tot 6 weken), de notaris vraagt de nodige attesten en bodemcertificaten op, en de akte wordt ingepland wanneer alle documenten beschikbaar zijn.",
+      },
+      {
+        question: "Kan een huis sneller verkopen dan 3 maanden?",
+        answer:
+          "Via de traditionele weg (makelaar) is minder dan 3 maanden uitzonderlijk vanwege de verplichte termijnen in het notarieel traject. Via een opkoper is 6 tot 10 weken haalbaar in dringende situaties — als de attesten vlot beschikbaar zijn en beide partijen snel willen handelen.",
+      },
+      {
+        question: "Waarom duurt een huis verkopen zo lang?",
+        answer:
+          "De notariële procedure alleen al neemt 3 tot 4 maanden in beslag: de koper moet financiering regelen, de notaris vraagt attesten op en er zijn wettelijke termijnen tussen compromis en akte. Daarboven komt de tijd om een koper te vinden: gemiddeld 4 tot 12 weken bij een aantrekkelijk pand, meerdere maanden bij een renovatiepand.",
+      },
+      {
+        question: "Wat als ik mijn huis snel wil verkopen vanwege financiële problemen?",
+        answer:
+          "Een vastgoedopkoper is dan de meest directe optie. Wijkopenpanden.be geeft u een schriftelijk bod binnen 24 uur na het bezoek en plant de akte gemiddeld binnen 2 tot 3 maanden. Er zijn geen keuringskosten, geen commissie en geen bezichtigingen door derden.",
+      },
+      {
+        question: "Is de verkoopprijs lager als ik snel wil verkopen?",
+        answer:
+          "Een opkoper biedt minder dan de theoretische maximumprijs die u bij een klassieke verkoop in perfecte marktomstandigheden zou kunnen halen. Maar het nettoverschil is kleiner dan het lijkt: u bespaart de makelaarscommissie (3–4%), de keuringen (€500–€1.200), eventuele herstellingen en meerdere maanden dubbele lasten.",
+      },
+    ],
+  },
 ];
 
 export function getArticle(slug: string): Article | undefined {
