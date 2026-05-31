@@ -895,6 +895,77 @@ export const articles: Article[] = [
       },
     ],
   },
+  {
+    slug: "stedenbouwkundige-overtreding-woning-verkopen",
+    title: "Stedenbouwkundige overtreding: uw woning verkopen zonder te regulariseren",
+    metaTitle: "Stedenbouwkundige overtreding woning verkopen Antwerpen 2026 | wijkopenpanden.be",
+    metaDescription:
+      "Heeft uw woning een niet-vergunde aanbouw, veranda of verbouwing? U kunt verkopen zonder te regulariseren — maar er zijn regels. Alles wat u moet weten in 2026.",
+    publishedAt: "2026-06-04",
+    updatedAt: "2026-06-04",
+    intro:
+      "In Antwerpen heeft een aanzienlijk deel van de rijhuizen, appartementen en opbrengsteigendommen op zijn minst één niet-vergunde constructie: een veranda achteraan, een dakkapel, een verbouwde zolder of een uitbreiding die nooit werd gemeld. Dat maakt de woning niet onverkoopbaar — maar het verandert het verkooptraject. In 2026 gelden bovendien nieuwe verplichtingen rond het maatregelenregister. In dit artikel leggen we uit wat een stedenbouwkundige overtreding precies inhoudt, hoe u ze opspoort, en welke opties u heeft als verkoper.",
+    sections: [
+      {
+        heading: "Wat is een stedenbouwkundige overtreding?",
+        body: "Een stedenbouwkundige overtreding — ook bouwovertreding of bouwmisdrijf genoemd — is elke constructie of verbouwing die werd uitgevoerd zonder de vereiste omgevingsvergunning, of in afwijking van de verleende vergunning.\n\nVoorbeelden die regelmatig voorkomen bij Antwerpse woningen:\n\n• Een veranda of terrasoverkapping achteraan, aangebracht zonder vergunning\n• Een zolderverdieping omgebouwd tot leefruimte of slaapkamer, niet vergund\n• Een bijgebouw (garage, tuinhuis, poolhouse) dat groter is dan de vrijgestelde oppervlakte\n• Een raamopening toegevoegd aan de zijgevel zonder vergunning\n• Een kelder vergroot of omgebouwd tot bewoonbare ruimte\n• Een dakkapel of dakvenster toegevoegd zonder omgevingsvergunning\n\nBelangrijke nuance: sommige kleine werken zijn vrijgesteld van vergunning (bijvoorbeeld een tuinberging onder een bepaalde oppervlakte). Wat vrijgesteld is en wat niet, hangt af van de Vlaamse regelgeving en het gemeentelijke stedenbouwkundige voorschrift.",
+      },
+      {
+        heading: "Hoe weet u of uw woning een overtreding heeft?",
+        body: "Er zijn drie manieren om dit te achterhalen:\n\n1. Stedenbouwkundig uittreksel opvragen\nBij de gemeente of via het Omgevingsloket kunt u een stedenbouwkundig uittreksel aanvragen. Dit document vermeldt alle bekende vergunningen, aanvragen én vastgestelde overtredingen voor uw perceel. De notaris vraagt dit sowieso op bij een verkoop.\n\n2. Vergelijking met de vergunningsplannen\nVraag bij de gemeente de originele vergunde plannen op en vergelijk ze met de huidige toestand. Elke afwijking is technisch een overtreding, ook als niemand er ooit iets van gezegd heeft.\n\n3. Maatregelenregister (nieuw in 2026)\nSinds april 2026 is het maatregelenregister verplicht te raadplegen bij elke verkoop. Dit nieuwe Vlaamse register bevat alle handhavingsmaatregelen (stakingsbevelen, herstelmaatregelen) die door Vlaamse overheidsdiensten werden opgelegd. De notaris is verplicht dit register te raadplegen en de bevindingen op te nemen in de akte.",
+      },
+      {
+        heading: "Verjaringstermijn: 10 jaar in 2026",
+        body: "Veel eigenaars hopen dat een overtreding 'verjaart' na verloop van tijd. Dat klopt deels — maar het is geen vrijbrief.\n\nSince 28 april 2024 is de verjaringstermijn voor stedenbouwkundige overtredingen in Vlaanderen verlengd van 5 naar 10 jaar. Dit betekent dat de overheid gedurende 10 jaar na de overtreding een straf- of herstelvordering kan instellen.\n\nBelangrijke nuance: verjaring is niet gelijk aan legalisering. Zelfs na 10 jaar:\n\n• Blijft de overtreding in het stedenbouwkundig uittreksel vermeld\n• Blijft de constructie juridisch onvergund\n• Kan een nieuwe handhavingsronde de overtreding alsnog oprakelen\n• Blijft financiering door banken moeilijker\n\nEnkel een regularisatievergunning of herstel naar de vergunde toestand lost het probleem definitief op.",
+      },
+      {
+        heading: "Gevolgen voor de verkoop",
+        body: "Een overtreding maakt uw woning niet onverkoopbaar, maar heeft wel concrete gevolgen:\n\nInformatieplicht\nU bent als verkoper verplicht de koper te informeren over gekende overtredingen via het stedenbouwkundig uittreksel. Verzwijgen kan na de verkoop leiden tot juridische claims wegens verborgen gebreken.\n\nKoper neemt de last over\nEens de akte getekend, gaan alle stedenbouwkundige lasten over op de koper. Die wordt de nieuwe eigenaar én de nieuwe verantwoordelijke voor de overtreding. Sommige kopers aanvaarden dit; anderen niet.\n\nBanken financieren moeilijker\nVeel banken weigeren een hypothecaire lening voor een woning met een geregistreerde onvergunde constructie, of stellen extra voorwaarden. Dit verkleint uw markt bij een klassieke verkoop.\n\nPrijsdruk\nKopers die de overtreding aanvaarden, rekenen de regularisatiekost of het risico systematisch af van hun bod.",
+      },
+      {
+        heading: "Regulariseren voor de verkoop — wanneer loont het?",
+        body: "Regularisatie is mogelijk als de onvergunde constructie voldoet aan de huidige stedenbouwkundige voorschriften (bestemmingsplan, bouwcode, rooilijnen). U vraagt dan een regularisatievergunning aan bij de gemeente.\n\nWanneer is regularisatie mogelijk?\n• De constructie bevindt zich niet in een beschermd of kwetsbaar gebied\n• De constructie voldoet aan de geldende bouwcodes en erfdienstbaarheden\n• Er zijn geen bezwaren van buren ingediend die juridisch standhouden\n\nWanneer is regularisatie niet mogelijk?\n• De constructie overschrijdt de maximale bouwhoogte of bezettingsgraad\n• Het gebouw staat in agrarisch of groengebied\n• De constructie schaadt beschermde erfgoedelementen (bijv. in Zurenborg)\n\nKosten en tijdlijn van regularisatie:\nEen regularisatiedossier via een architect kost doorgaans €1.500 tot €4.000 (architect + leges). De behandelingstijd bij de gemeente is gemiddeld 60 tot 105 dagen. Telt u de voorbereiding en bezwaartermijnen mee, dan bent u al snel 4 tot 6 maanden verder vooraleer u kunt verkopen.",
+      },
+      {
+        heading: "Verkopen as-is aan wijkopenpanden.be — de praktische uitweg",
+        body: "Wilt u uw woning niet regulariseren voor de verkoop? Dan is verkopen as-is de meest directe optie — op voorwaarde dat u transparant bent over de toestand.\n\nWijkopenpanden.be koopt woningen aan met stedenbouwkundige overtredingen. Wij:\n\n• Raadplegen zelf het stedenbouwkundig uittreksel en het maatregelenregister\n• Beoordelen de regulariseerbaarheid intern\n• Verrekenen de regularisatiekost eerlijk in ons bod — geen zwarte doos\n• Nemen de stedenbouwkundige last volledig over bij de akte\n• Regelen de regularisatie na de aankoop zelf, op ons tempo en budget\n\nVoor u als verkoper betekent dit: geen wachttijd, geen architect, geen gemeentelijke procedure voor de verkoop. U ontvangt een schriftelijk bod na één bezoek en beslist vrijblijvend.",
+      },
+    ],
+    relatedArticles: ["keuringen-bij-verkoop-woning", "pand-in-slechte-staat-verkopen", "verkoop-kosten-berekenen"],
+    relatedSituations: ["opknappand-verkopen", "huis-verkopen-bij-erfenis"],
+    faqs: [
+      {
+        question: "Moet ik een stedenbouwkundige overtreding melden bij de verkoop?",
+        answer:
+          "Ja. U bent wettelijk verplicht de koper te informeren over alle gekende stedenbouwkundige overtredingen via het stedenbouwkundig uittreksel. Verzwijgen is juridisch riskant: de koper kan na de verkoop een vordering wegens verborgen gebreken instellen. Transparantie is zowel wettelijk verplicht als praktisch de beste aanpak.",
+      },
+      {
+        question: "Kan ik een woning verkopen als er een stakingsbevel op rust?",
+        answer:
+          "Een stakingsbevel (bevel om werken te staken) is een formele handhavingsmaatregel. Het verschijnt in het nieuwe maatregelenregister (verplicht te raadplegen bij verkoop in 2026). Verkopen is in principe mogelijk, maar de koper neemt de verplichting over om de situatie te regulariseren of te herstellen. Een professionele opkoper zoals wijkopenpanden.be accepteert dit; een particuliere koper doorgaans niet.",
+      },
+      {
+        question: "Verjaart een bouwovertreding na 10 jaar?",
+        answer:
+          "De straf- en herstelvordering van de overheid verjaart na 10 jaar (verlengd van 5 jaar in april 2024). Maar verjaring is niet hetzelfde als legalisering: de overtreding blijft zichtbaar in het uittreksel, de constructie blijft onvergund, en banken blijven terughoudend bij financiering. Enkel een regularisatievergunning lost het definitief op.",
+      },
+      {
+        question: "Wat kost een regularisatie in Antwerpen?",
+        answer:
+          "Een regularisatiedossier via een architect kost doorgaans €1.500 tot €4.000 inclusief leges, afhankelijk van de omvang en complexiteit. De doorlooptijd is 4 tot 6 maanden. Als u dit voor de verkoop wilt doen, vertraagt het uw verkooptraject aanzienlijk. Wijkopenpanden.be neemt de regularisatie na aankoop op zich.",
+      },
+      {
+        question: "Financiert een bank een woning met een bouwovertreding?",
+        answer:
+          "Veel banken weigeren of bemoeilijken een hypothecaire lening als er een geregistreerde onvergunde constructie op het pand staat. Dit is een praktisch probleem bij klassieke verkoop: de kopersselectie slinkt sterk. Bij een verkoop aan een professionele opkoper zonder hypotheekfinanciering speelt dit niet.",
+      },
+      {
+        question: "Hoe weet wijkopenpanden.be of mijn woning een overtreding heeft?",
+        answer:
+          "Wij vragen bij elk bezoek het stedenbouwkundig uittreksel op en raadplegen het maatregelenregister. Dit doen wij zelf, gratis, als onderdeel van ons due diligence-proces. U hoeft hier vooraf niets voor te doen.",
+      },
+    ],
+  },
 ];
 
 export function getArticle(slug: string): Article | undefined {

@@ -104,8 +104,8 @@ export default function PropertyTypeTemplate({ data }: { data: PropertyType }) {
         </Section>
 
         {/* Kennisbank artikelen */}
-        {data.relatedArticles.length > 0 && (() => {
-          const linked = data.relatedArticles
+        {(data.relatedArticles ?? []).length > 0 && (() => {
+          const linked = (data.relatedArticles ?? [])
             .map((slug) => articles.find((a) => a.slug === slug))
             .filter(Boolean) as typeof articles;
           if (linked.length === 0) return null;
