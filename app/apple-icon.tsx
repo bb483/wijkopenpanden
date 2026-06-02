@@ -12,23 +12,44 @@ export default function AppleIcon() {
           width: "100%",
           height: "100%",
           display: "flex",
+          flexDirection: "column",
           alignItems: "center",
           justifyContent: "center",
           background: "#1C1610",
-          borderRadius: "40px",
+          borderRadius: "38px",
         }}
       >
-        {/* Roof */}
-        <svg
-          width="140"
-          height="130"
-          viewBox="0 0 140 130"
-          style={{ position: "absolute" }}
+        {/* Roof — CSS triangle via border trick (satori-compatible) */}
+        <div
+          style={{
+            width: 0,
+            height: 0,
+            borderLeft: "58px solid transparent",
+            borderRight: "58px solid transparent",
+            borderBottom: "50px solid #C4A35A",
+          }}
+        />
+        {/* House body */}
+        <div
+          style={{
+            width: 116,
+            height: 72,
+            background: "#FAF7F2",
+            display: "flex",
+            alignItems: "flex-end",
+            justifyContent: "center",
+            paddingBottom: "0px",
+          }}
         >
-          <polygon points="70,10 130,60 10,60" fill="#C4A35A" />
-          <rect x="12" y="58" width="116" height="62" rx="4" fill="#FAF7F2" />
-          <rect x="52" y="84" width="36" height="36" fill="#1C1610" />
-        </svg>
+          {/* Door */}
+          <div
+            style={{
+              width: 32,
+              height: 42,
+              background: "#1C1610",
+            }}
+          />
+        </div>
       </div>
     ),
     { ...size }
