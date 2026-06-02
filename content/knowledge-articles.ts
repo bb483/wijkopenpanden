@@ -1124,6 +1124,162 @@ export const articles: Article[] = [
       },
     ],
   },
+  {
+    slug: "wat-is-een-vastgoedopkoper",
+    title: "Wat is een vastgoedopkoper — en hoe werkt het in Antwerpen?",
+    metaTitle: "Wat is een vastgoedopkoper? Hoe werkt het in Antwerpen? (2026)",
+    metaDescription:
+      "Een vastgoedopkoper koopt uw woning rechtstreeks aan — zonder makelaar, zonder wachttijd. Hoe bepaalt hij zijn prijs? En wanneer is het de beste keuze? Uitleg.",
+    publishedAt: "2026-06-04",
+    updatedAt: "2026-06-04",
+    intro:
+      "Een vastgoedopkoper is een bedrijf of investeerder die woningen en panden rechtstreeks aankoopt van de eigenaar — zonder makelaar, zonder publicatie op Immoweb en zonder maandenlange wachttijd. In Antwerpen is deze markt de laatste jaren sterk gegroeid, maar er bestaan ook veel misverstanden over hoe opkopers werken en hoeveel ze betalen. Dit artikel legt het helder uit.",
+    sections: [
+      {
+        heading: "Wat doet een vastgoedopkoper precies?",
+        body: "Een vastgoedopkoper — ook wel direct buyer of vastgoedinvesteerder genoemd — koopt woningen rechtstreeks van de eigenaar aan, zonder tussenkomst van een makelaar. Hij koopt de woning in de huidige staat, regelt alle praktische zaken (keuringen, ontruiming, notaris) en betaalt u een overeengekomen prijs bij de akte.\n\nVastgoedopkopers zijn geen speculanten die u proberen te misleiden. Het zijn professionele kopers die hun verdienmodel baseren op renovatie en doorverkoop of verhuur. Zij verdienen op de meerwaarde ná renovatie — niet door u een oneerlijk laag bod te geven.\n\nWat onderscheidt een serieuze opkoper?\n• Hij geeft u een schriftelijk bod na één bezoek — geen mondelinge beloftes\n• Hij legt u transparant uit hoe het bod berekend is\n• Hij vraagt geen voorschot, geen vergoeding en rekent u niets aan\n• Hij neemt alle keuringen en notariskosten voor zijn rekening\n• Hij respecteert uw beslissingstijd — geen druk",
+      },
+      {
+        heading: "Hoe berekent een vastgoedopkoper zijn bod?",
+        body: "De berekening van een opkoper is eenvoudiger dan velen denken:\n\nMarktwaarde na renovatie (ARV — After Renovation Value)\nDit is de geschatte verkoopprijs van de woning nadat ze volledig gerenoveerd is. De opkoper baseert zich op recente vergelijkbare transacties in de buurt.\n\nMin: renovatiekost\nDe opkoper schat de volledige renovatiekost op basis van de staat van de woning: structurele problemen, EPC-label, staat van de elektriciteit, dak, riolering. Wij werken met vaste aannemers en kennen de reële kosten — we overdrijven die niet.\n\nMin: kosten en winstmarge\nDe opkoper rekent registratierechten, notariskosten, financieringskosten en een redelijke marge voor het risico dat hij draagt.\n\nResultaat = uw bod\n\nConcreet voorbeeld:\nEen rijhuis in Borgerhout met EPC F en verouderde elektriciteit. Marktwaarde na renovatie: €280.000. Geschatte renovatiekost: €55.000. Kosten en marge opkoper: €25.000. Uw bod: circa €200.000 — netto in uw zak, zonder commissie of keuringskosten.",
+      },
+      {
+        heading: "Wanneer is een vastgoedopkoper de beste keuze?",
+        body: "Een opkoper is niet altijd de beste keuze — maar in bepaalde situaties is hij dat overduidelijk wel.\n\nKies voor een opkoper als:\n\n• U snel moet verkopen (erfenis, scheiding, financiële druk)\n• Uw woning in slechte staat is of een laag EPC-label heeft (E of F)\n• Er stedenbouwkundige overtredingen zijn die u niet wilt regulariseren\n• Er huurders in het pand zitten\n• U geen zin heeft in bezichtigingen, onderhandelingen en wachttijden\n• U zekerheid over de verkoopprijs wilt vóór u andere beslissingen neemt\n\nKies voor een makelaar als:\n\n• Uw woning in goede staat is en een goed EPC-label heeft\n• U voldoende tijd heeft en de maximumprijs wilt halen\n• De markt in uw buurt actief is en woningen snel verkopen",
+      },
+      {
+        heading: "Mythes over vastgoedopkopers ontkracht",
+        body: "Mythe 1: 'Een opkoper biedt altijd de helft van de waarde'\nOnjuist. Een serieuze opkoper biedt een marktconform bod op basis van de werkelijke renovatiekost. Bij een woning in goede staat is het verschil met de vrije marktprijs beperkt tot de commissie en keuringskosten die de opkoper overneemt.\n\nMythe 2: 'Opkopers zijn alleen geïnteresseerd in goedkope woningen'\nOnjuist. Opkopers kopen ook heren- en villa's, appartementen en opbrengsteigendommen aan — als de situatie van de eigenaar vraagt om snelheid of zekerheid.\n\nMythe 3: 'Je weet nooit of een opkoper serieus is'\nEen serieuze opkoper geeft u altijd een schriftelijk bod en is bereid zijn berekening toe te lichten. Hij vraagt geen exclusiviteit en dringt niet aan als u nee zegt.\n\nMythe 4: 'Je moet alles leegmaken voor de verkoop'\nBij wijkopenpanden.be hoeft u niets te doen. Wij nemen de ontruiming volledig over als onderdeel van het bod.",
+      },
+      {
+        heading: "Vergelijking: vastgoedopkoper vs. makelaar vs. openbare verkoop",
+        body: "Drie manieren om een woning te verkopen — naast elkaar",
+        table: {
+          headers: ["Criterium", "Vastgoedopkoper", "Makelaar", "Openbare verkoop"],
+          rows: [
+            ["Tijdlijn", "2–3 maanden", "5–12 maanden", "3–6 maanden (+ voorbereiding)"],
+            ["Commissie", "Geen", "3–4% + btw", "1–3% + btw"],
+            ["Keuringen inbegrepen", "Ja", "Nee", "Nee"],
+            ["Ontruiming inbegrepen", "Ja", "Nee", "Nee"],
+            ["Zekerheid over prijs", "Schriftelijk bod", "Pas bij compromis", "Afhankelijk van biedingen"],
+            ["Geschikt voor probleempanden", "Ja", "Beperkt", "Ja (maar lagere opbrengst)"],
+            ["Privacyvriendelijk", "Ja — geen publicatie", "Nee", "Nee"],
+          ],
+        },
+      },
+      {
+        heading: "Hoe werkt wijkopenpanden.be als vastgoedopkoper in Antwerpen?",
+        body: "wijkopenpanden.be is een vastgoedopkoper actief in Antwerpen en de directe omstreken. Ons proces:\n\n1. U vraagt een bod aan via het contactformulier of belt ons.\n2. Wij plannen een bezoek — doorgaans binnen 2 werkdagen.\n3. Tijdens het bezoek bekijken wij de woning grondig: structuur, EPC, elektriciteit, dak, inrichting.\n4. Binnen 24 uur na het bezoek ontvangt u een schriftelijk bod met een duidelijke toelichting.\n5. U beslist vrijblijvend. Geen tijdsdruk, geen clausules.\n6. Akkoord? Wij plannen de notariële akte. Gemiddelde doorlooptijd: 2 tot 3 maanden.\n\nWij betalen:\n• Alle keuringen (EPC, elektriciteit, asbest)\n• De ontruiming van de woning\n• Registratierechten en notariskosten aan koperskant\n\nU betaalt niets extra. Het bod is wat u ontvangt.",
+      },
+    ],
+    relatedArticles: ["commissie-makelaar-belgie", "hoelang-duurt-huis-verkopen-belgie", "huis-verkopen-antwerpen-gids", "keuringen-bij-verkoop-woning", "pand-in-slechte-staat-verkopen"],
+    relatedSituations: ["verkopen-zonder-makelaar", "opknappand-verkopen", "huis-verkopen-bij-erfenis"],
+    faqs: [
+      {
+        question: "Is een vastgoedopkoper wettelijk erkend in België?",
+        answer:
+          "Ja. Een vastgoedopkoper is een gewone koper op de Belgische vastgoedmarkt. De verkoop verloopt via een notaris met een officiële akte, identiek aan een klassieke verkoop. Er zijn geen speciale vergunningen of erkenningen vereist om als vastgoedopkoper actief te zijn.",
+      },
+      {
+        question: "Hoe weet ik of een vastgoedopkoper betrouwbaar is?",
+        answer:
+          "Een betrouwbare opkoper geeft u altijd een schriftelijk bod, legt de berekening uit, vraagt geen voorschot en dringt niet aan. Vraag altijd om een schriftelijk bod vóór u iets ondertekent. Controleer of het bedrijf een KBO-nummer heeft en zoek reviews of referenties op.",
+      },
+      {
+        question: "Hoeveel minder biedt een opkoper dan een makelaar zou opleveren?",
+        answer:
+          "Het verschil is kleiner dan het lijkt. Bij een makelaar betaalt u commissie (3–4% + btw), keuringen (€500–€1.200), eventuele herstellingen en loopt u weken tot maanden dubbele lasten. Na aftrek van al die kosten is het nettoverschil doorgaans 5 tot 10% van de verkoopprijs — in ruil voor zekerheid, snelheid en geen gedoe.",
+      },
+      {
+        question: "Kan ik onderhandelen met een vastgoedopkoper?",
+        answer:
+          "Ja. Het bod is een vertrekpunt, geen dictaat. Als u aanvullende informatie heeft (recente renovaties, nieuwe ketel, dakwerken) die de opkoper niet kende, kunt u dat meegeven. Wij herberekenen dan indien nodig. Wat wij niet doen: een eerste laag bod geven met de bedoeling op te bieden — ons eerste bod is meteen ons beste bod.",
+      },
+      {
+        question: "Wat als ik het bod weiger?",
+        answer:
+          "Dan is er niets aan de hand. U bent nergens toe verplicht. Er zijn geen kosten, geen opzegtermijnen en geen exclusiviteitsclausules. U kunt het bod weigeren en via een makelaar verder gaan — of later terugkomen.",
+      },
+    ],
+  },
+  {
+    slug: "verhuren-of-verkopen-antwerpen",
+    title: "Verhuren of verkopen in Antwerpen? De eerlijke vergelijking (2026)",
+    metaTitle: "Verhuren of verkopen in Antwerpen? Eerlijke vergelijking 2026 | wijkopenpanden.be",
+    metaDescription:
+      "Moet u uw woning verhuren of verkopen in Antwerpen? Rendement, risico's, EPC-verplichtingen en de nieuwe huurindexeringsregels — alles vergeleken voor 2026.",
+    publishedAt: "2026-06-04",
+    updatedAt: "2026-06-04",
+    intro:
+      "Verhuren of verkopen — het is een van de meest gestelde vragen bij eigenaars van een tweede woning, een erfenis of een opbrengsteigendom in Antwerpen. Het antwoord hangt af van uw financiële situatie, de staat van de woning en uw risicobereidheid. Maar in 2026 speelt er ook een nieuwe factor: de Vlaamse EPC-wetgeving maakt verhuren met een slecht energielabel steeds minder aantrekkelijk. In dit artikel vergelijken we beide opties eerlijk.",
+    sections: [
+      {
+        heading: "De financiële vergelijking: wat levert verhuren op?",
+        body: "Stel: u heeft een rijhuis in Borgerhout met een marktwaarde van €240.000 en een huurprijs van €1.000 per maand.\n\nBruto huurrendement: (€12.000 / €240.000) × 100 = 5%\n\nDat klinkt aantrekkelijk. Maar het brutocijfer is misleidend. Het nettorendement is wat overblijft na alle kosten:\n\n• Onroerende voorheffing: €800–€2.000 per jaar (afhankelijk van het KI)\n• Onderhoud en herstellingen: gemiddeld 1–2% van de waarde per jaar\n• Leegstand: bij elke huurderswisseling doorgaans 1 tot 3 maanden\n• Syndicus (bij appartementen): €600–€2.400 per jaar\n• Verzekering leegstand en aansprakelijkheid: €200–€500 per jaar\n• Beheer (als u zelf niet wilt beheren): 5–8% van de huurprijs\n\nIn de praktijk ligt het netto huurrendement op een Antwerps rijhuis tussen 2,5% en 3,5%. Dat is een correcte return — maar het houdt geen rekening met de nieuwe EPC-verplichtingen.",
+      },
+      {
+        heading: "De nieuwe EPC-regels voor verhuurders: wat verandert er?",
+        body: "Hier ligt het grootste risico voor eigenaars met een woning die een laag EPC-label heeft.\n\nSinds 1 oktober 2023 is de huurprijsindexering in Vlaanderen beperkt voor woningen met EPC-label D, E of F. Uw huurprijs kan niet meer volledig geïndexeerd worden aan de inflatie.\n\nVanaf 2028 is indexering volledig uitgesloten voor woningen met EPC-label E of F. Dit betekent dat de reële waarde van uw huurinkomsten elk jaar daalt door inflatie.\n\nVanaf 2030 mag u een woning met EPC-label E of F niet meer verhuren. De woning moet dan minstens label D hebben, of u kunt haar niet meer op de huurmarkt aanbieden.\n\nConcreet voor eigenaars in Antwerpen:\nEen groot deel van de Antwerpse rijhuizen en appartementen uit de vroege 20e eeuw haalt EPC-label E of F. Eigenaars die nu verhuren met zulke panden, moeten vóór 2030 investeren in energierenovatie — of verkopen. Renovatiekosten van EPC F naar D bedragen gemiddeld €20.000 tot €45.000.",
+      },
+      {
+        heading: "Vergelijking: verhuren vs. verkopen — 7 criteria",
+        body: "Overzicht voor een eigenaar van een woning in Antwerpen in 2026",
+        table: {
+          headers: ["Criterium", "Verhuren", "Verkopen"],
+          rows: [
+            ["Direct kapitaal beschikbaar", "Nee — maandelijks inkomen", "Ja — eenmalig bedrag"],
+            ["Netto rendement (EPC D+)", "2,5–4% per jaar", "Verkoopprijs nu beschikbaar"],
+            ["Netto rendement (EPC E/F)", "Afnemend door indexeringsbeperking", "Vermijdt renovatiekost"],
+            ["Risico op wanbetaling huurder", "Ja — procedure duurt 6–18 maanden", "Geen"],
+            ["Onderhoud en herstellingen", "Blijft uw verantwoordelijkheid", "Geen na verkoop"],
+            ["EPC-verplichting 2030", "Renoveren verplicht (€20k–€45k)", "Probleem gaat over op koper"],
+            ["Flexibiliteit", "Beperkt — huurder heeft rechten", "Volledig — u beschikt over het kapitaal"],
+          ],
+        },
+      },
+      {
+        heading: "Wanneer is verhuren de betere keuze?",
+        body: "Verhuren loont als:\n\n• Uw woning een goed EPC-label heeft (C of beter) — geen indexeringsbeperking, geen renovatieplicht vóór 2030\n• De huurmarkt in uw buurt sterk is en leegstand zeldzaam\n• U een langetermijnperspectief heeft en niet direct het kapitaal nodig heeft\n• U de woning op termijn wilt doorgeven aan kinderen of erfgenamen\n• U zelf de tijd en middelen heeft om huurders te begeleiden en herstellingen te regelen\n\nIn Antwerpen zijn buurten als Berchem, Mortsel en Zurenborg (voor instapklare panden) courant winstgevend voor verhuurders op lange termijn.",
+      },
+      {
+        heading: "Wanneer is verkopen de betere keuze?",
+        body: "Verkopen loont als:\n\n• Uw woning EPC-label E of F heeft — de renovatiekost eet uw rendement weg vóór 2030\n• U het kapitaal nu nodig heeft voor een andere investering, zorgkosten of pensioen\n• U problemen heeft met huurders (wanbetaling, schade, weigering vertrek)\n• De woning aanzienlijke herstellingen of renovaties nodig heeft\n• U de administratieve last van verhuur wilt vermijden\n• U meerdere erfgenamen bent en de nalatenschap wilt verdelen\n\nEen bijkomend argument: de huidige rente op veilige beleggingen (obligaties, spaarrekeningen) ligt hoger dan enkele jaren geleden. Het kapitaal uit de verkoop kan rendabeler elders ingezet worden dan via huur met 2,5% netto.",
+      },
+      {
+        heading: "Snel beslissen: drie vragen die alles verduidelijken",
+        body: "Als u twijfelt tussen verhuren of verkopen, beantwoord dan deze drie vragen:\n\n1. Wat is het EPC-label van uw woning?\nLabel E of F? Dan staat u voor een renovatieverplichting vóór 2030 als u wilt blijven verhuren. De vraag is dan niet 'verhuren of verkopen' maar 'nu verkopen of eerst renoveren en dan verhuren'.\n\n2. Heeft u de huurinkomsten nodig als inkomen, of is het kapitaal interessanter?\nAls u het geld nu kunt beleggen of gebruiken voor een betere investering, is verkopen financieel logischer.\n\n3. Bent u bereid de komende jaren verhuurder te zijn?\nEen huurder vinden, contracten opstellen, herstellingen regelen, eventuele conflicten oplossen — dat is werk. Als u dat niet wilt, is verhuren alleen aantrekkelijk met een beheerder, wat uw netto rendement drukt.",
+      },
+    ],
+    relatedArticles: ["wat-is-een-vastgoedopkoper", "energie-renovatieplicht-vlaanderen-2026", "belastingen-bij-woningverkoop", "snel-geld-vrijmaken-woning", "huis-verkopen-antwerpen-gids"],
+    relatedSituations: ["pand-met-huurders-verkopen", "opbrengsteigendom-verkopen-antwerpen", "verkopen-zonder-makelaar"],
+    faqs: [
+      {
+        question: "Is verhuren of verkopen financieel voordeliger in Antwerpen?",
+        answer:
+          "Dat hangt af van het EPC-label en de staat van de woning. Bij een woning met EPC C of beter en een stabiele huurder is verhuren op lange termijn interessant (2,5–4% netto). Bij EPC E of F moet u vóór 2030 renoveren (€20k–€45k), wat het rendement sterk drukt. In dat geval is verkopen voor de meeste eigenaars financieel beter.",
+      },
+      {
+        question: "Mag ik een woning met EPC label F nog verhuren in 2026?",
+        answer:
+          "In 2026 mag u nog verhuren met EPC F, maar de indexering van de huurprijs is al beperkt. Vanaf 2028 is indexering volledig uitgesloten voor EPC E en F. Vanaf 2030 mag u een woning met EPC E of F niet meer verhuren — dan is minimaal EPC D vereist.",
+      },
+      {
+        question: "Wat zijn de risico's van verhuren in Antwerpen?",
+        answer:
+          "De grootste risico's zijn: huurachterstand (een gerechtelijke uithuiszetting duurt 6 tot 18 maanden), schade bij vertrek van een huurder, leegstand tussen twee huurders en onverwachte herstellingskosten. Daarnaast zijn er de nieuwe EPC-verplichtingen die renovatiekosten opleggen vóór 2030.",
+      },
+      {
+        question: "Kan ik mijn woning verkopen terwijl er huurders in wonen?",
+        answer:
+          "Ja. Een bewoond pand verkopen is mogelijk. De huurder heeft een wettelijk recht van voorkoop in bepaalde omstandigheden. Op de vrije markt is een bewoond pand moeilijker te verkopen (minder kopers willen er zelf in wonen). Een vastgoedopkoper zoals wijkopenpanden.be koopt ook bewoonde panden aan en regelt de verdere afhandeling met de huurder.",
+      },
+      {
+        question: "Hoeveel belasting betaal ik als ik mijn huurwoning verkoop?",
+        answer:
+          "Als u de woning meer dan 5 jaar geleden kocht, betaalt u geen meerwaardebelasting op de verkoopwinst. Kocht u ze minder dan 5 jaar geleden, dan bedraagt de meerwaardebelasting 16,5% op de gerealiseerde meerwaarde. Registratierechten zijn een koperskost.",
+      },
+    ],
+  },
 ];
 
 export function getArticle(slug: string): Article | undefined {
