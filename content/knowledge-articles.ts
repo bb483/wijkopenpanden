@@ -1280,6 +1280,154 @@ export const articles: Article[] = [
       },
     ],
   },
+  {
+    slug: "wat-is-mijn-woning-waard-antwerpen",
+    title: "Wat is mijn woning waard in Antwerpen? Alles wat de waarde bepaalt (2026)",
+    metaTitle: "Wat is mijn woning waard in Antwerpen? Waarde bepalen 2026",
+    metaDescription:
+      "Wat bepaalt de waarde van uw woning in Antwerpen? Ligging, EPC, staat en markt uitgelegd met concrete prijzen per wijk. Gratis indicatie via wijkopenpanden.be.",
+    publishedAt: "2026-06-07",
+    updatedAt: "2026-06-07",
+    intro:
+      "Wat is mijn woning waard? Het is de eerste vraag die elke eigenaar stelt zodra hij aan verkopen denkt. Het antwoord is nooit één getal — het is het resultaat van meerdere factoren die samen de marktwaarde vormen. In dit artikel leggen we uit wat de waarde van een woning in Antwerpen bepaalt, welke factoren positief of negatief wegen, en hoe u een realistische schatting kunt maken.",
+    sections: [
+      {
+        heading: "De 7 factoren die de waarde van uw woning bepalen",
+        body: "De marktwaarde van een woning is wat een gemotiveerde koper bereid is te betalen op een vrije markt. Die prijs wordt bepaald door zeven hoofdfactoren:\n\n1. Ligging\nDe buurt is de meest bepalende factor — en de enige die u niet kunt veranderen. Een rijhuis in Berchem is structureel meer waard dan een identiek pand in Seefhoek, simpelweg omdat kopers meer betalen voor de omgeving. Nabijheid van openbaar vervoer, scholen, winkels en parken weegt mee.\n\n2. Type en oppervlakte\nRijhuis, appartement, herenhuis of villa — elk type heeft zijn eigen marktwaarde. Grotere bewoonbare oppervlakte verhoogt de prijs, maar niet lineair: de eerste 100 m² zijn het meest waardevol per m².\n\n3. Staat van de woning\nEen instapklare woning brengt 15 tot 30% meer op dan een gelijkaardig pand dat grondige renovatie nodig heeft. Kopers rekenen de geschatte renovatiekost af van de prijs die ze willen betalen.\n\n4. EPC-label\nSinds de Vlaamse renovatieplicht (kopers van EPC E/F moeten binnen 6 jaar renoveren) weegt het energielabel sterk door in de prijs. EPC A of B verhoogt de waarde; EPC E of F verlaagt ze — kopers trekken de renovatiekost systematisch af.\n\n5. Stedenbouwkundige conformiteit\nNiet-vergunde constructies (aanbouwen, dakkapellen, verbouwingen) verlagen de waarde doordat kopers extra risico inschatten. Een geregulariseerd pand is meer waard dan een identiek pand met openstaande overtredingen.\n\n6. Marktomstandigheden\nVraag en aanbod in de buurt op het moment van verkoop. In een actieve markt met weinig aanbod stijgen de prijzen; in een trage markt dalen ze.\n\n7. Bezetting en juridische situatie\nEen woning met huurders is voor de meeste kopers minder aantrekkelijk (ze willen er zelf in wonen). Huurpanden worden doorgaans 10 tot 20% lager gewaardeerd dan leegstaande woningen op de vrije markt.",
+      },
+      {
+        heading: "Wat is mijn woning waard per type en wijk in Antwerpen?",
+        body: "Concrete richtprijzen voor de Antwerpse markt in 2026. Dit zijn indicatieve ranges — de werkelijke waarde hangt af van de staat en het EPC-label.",
+        table: {
+          headers: ["Type woning", "Buurt", "Richtprijs (renovatie)", "Richtprijs (instapklaar)"],
+          rows: [
+            ["Rijhuis", "Seefhoek / Noord", "€150.000 – €200.000", "€220.000 – €280.000"],
+            ["Rijhuis", "Borgerhout / Deurne", "€185.000 – €240.000", "€260.000 – €330.000"],
+            ["Rijhuis", "Berchem / Wilrijk", "€240.000 – €310.000", "€320.000 – €420.000"],
+            ["Rijhuis", "Zurenborg", "€340.000 – €440.000", "€480.000 – €600.000"],
+            ["Appartement", "Centrum / Eilandje", "€160.000 – €250.000", "€280.000 – €420.000"],
+            ["Appartement", "Borgerhout / Berchem", "€130.000 – €200.000", "€210.000 – €310.000"],
+            ["Herenhuis", "Berchem / Stadspark", "€380.000 – €500.000", "€550.000 – €780.000"],
+            ["Villa", "Brasschaat / Schilde", "€480.000 – €650.000", "€700.000 – €1.100.000"],
+          ],
+        },
+      },
+      {
+        heading: "Hoe berekent een makelaar de waarde van uw woning?",
+        body: "Een makelaar gebruikt de vergelijkende methode: hij vergelijkt uw woning met recente verkopen van gelijkaardige panden in dezelfde buurt. Hij corrigeert voor oppervlakte, staat, verdieping (bij appartementen) en EPC-label.\n\nBelangrijke kanttekening: een makelaar geeft een schatting van de vraagprijs — het bedrag dat hij denkt te kunnen vragen. Of dat bedrag ook gerealiseerd wordt, hangt af van de markt en de kopers die zich melden. De werkelijke verkoopprijs kan 5 tot 15% lager liggen dan de initiële vraagprijs.\n\nEen makelaarschatting is bovendien gratis maar niet neutraal: makelaars schatten soms iets hoger in om het mandaat te krijgen, met de belofte later bij te sturen als er geen koper komt.",
+      },
+      {
+        heading: "Hoe berekent wijkopenpanden.be de waarde van uw woning?",
+        body: "Wij hanteren een andere methode dan makelaars, omdat wij een andere rol spelen: wij kopen zelf aan, wij verkopen niet voor u.\n\nOnze berekening:\n\n1. Marktwaarde na renovatie (ARV): wat is de woning waard nadat ze volledig gerenoveerd en opgefrist is?\n2. Min renovatiekost: wat kost het ons om de woning op te knappen? Wij werken met vaste aannemers en kennen de reële kosten.\n3. Min onze operationele kosten en marge: registratierechten, financiering, en een correcte marge voor het risico dat wij dragen.\n\nResultaat: het bod dat u ontvangt.\n\nWij leggen elke stap transparant uit bij het bezoek. Het bod is schriftelijk en vrijblijvend. U hoeft niet te beslissen op de dag zelf.",
+      },
+      {
+        heading: "Wat verhoogt de waarde van uw woning het meest?",
+        body: "Als u wilt investeren om de verkoopprijs te verhogen, zijn dit de ingrepen met de beste return:\n\nHoog rendement:\n• Dakisolatie of dakvernieuwing — zichtbaar, sterk effect op EPC en verkoopprijs\n• Nieuwe condensatieketel of warmtepomp — verbetert EPC, geeft koper zekerheid\n• Neutraliseren en opfrissen: professioneel schilderwerk in neutrale kleuren\n\nLaag rendement (investering wordt zelden terugverdiend):\n• Nieuwe keuken of badkamer — smaakgebonden, koper wil vaak toch zijn eigen keuze\n• Vloervervanging — koper ziet het, maar betaalt er niet evenredig voor\n• Uitbreidingen of aanbouwen — duur, lang, en vereisen vergunning\n\nVuistregel: renoveer alleen als de investering minstens 1,5× terugkomt in een hogere verkoopprijs. In de praktijk is dat zelden het geval bij grote ingrepen.",
+      },
+    ],
+    relatedArticles: ["energie-renovatieplicht-vlaanderen-2026", "huis-verkopen-antwerpen-gids", "pand-in-slechte-staat-verkopen", "wanneer-beste-moment-woning-verkopen", "commissie-makelaar-belgie"],
+    relatedSituations: ["opknappand-verkopen", "verkopen-zonder-makelaar"],
+    faqs: [
+      {
+        question: "Wat is mijn woning waard in Antwerpen?",
+        answer:
+          "De waarde hangt af van ligging, type, oppervlakte, staat en EPC-label. Een rijhuis in Borgerhout in gemiddelde staat is indicatief €185.000 tot €290.000 waard; een instapklaar rijhuis in Berchem zit tussen €320.000 en €420.000. Wij geven u na één bezoek een concreet schriftelijk bod.",
+      },
+      {
+        question: "Hoe kan ik gratis weten wat mijn woning waard is?",
+        answer:
+          "Via een gratis schatting door een makelaar, via online schattingstools (indicatief), of via een bezoek van wijkopenpanden.be — wij geven u een schriftelijk bod na één bezoek, volledig vrijblijvend en kosteloos.",
+      },
+      {
+        question: "Verlaagt een slecht EPC-label de waarde van mijn woning?",
+        answer:
+          "Ja, significant. Kopers die een woning met EPC E of F kopen, zijn verplicht binnen 6 jaar te renoveren tot minstens label D. Ze trekken de geschatte renovatiekost (€20.000–€45.000) systematisch af van hun bod. Bij wijkopenpanden.be weegt het EPC mee in onze berekening, maar wij overdrijven de aftrek niet.",
+      },
+      {
+        question: "Wat is het verschil tussen vraagprijs en verkoopprijs?",
+        answer:
+          "De vraagprijs is wat de verkoper vraagt; de verkoopprijs is wat effectief betaald wordt. In Antwerpen liggen verkoopprijzen gemiddeld 3 tot 10% onder de initiële vraagprijs, afhankelijk van de markt en de staat van het pand. Bij een opkoper is het bod meteen de verkoopprijs — er is geen onderhandeling nadien.",
+      },
+      {
+        question: "Moet ik renoveren voor ik mijn woning verkoop?",
+        answer:
+          "Zelden. De kost van een renovatie wordt bijna nooit volledig terugverdiend in een hogere verkoopprijs. Kleine cosmetische ingrepen (schilderwerk, opruimen) kunnen helpen. Grote renovaties (keuken, badkamer, dakwerken) leveren zelden een positieve return op.",
+      },
+    ],
+  },
+  {
+    slug: "wanneer-beste-moment-woning-verkopen",
+    title: "Wanneer is het beste moment om uw woning te verkopen? (2026)",
+    metaTitle: "Wanneer is het beste moment om uw woning te verkopen? (2026)",
+    metaDescription:
+      "Lente, winter of nu meteen? Het juiste moment om uw woning te verkopen hangt af van meer dan het seizoen. Alle factoren voor 2026 op een rij.",
+    publishedAt: "2026-06-07",
+    updatedAt: "2026-06-07",
+    intro:
+      "Wanneer is het beste moment om uw woning te verkopen? Veel eigenaars wachten op het perfecte moment — de ideale markt, de juiste rentestanden, het goede seizoen. Maar wachten heeft altijd een kost. In dit artikel leggen we uit welke factoren het verkoopmoment beïnvloeden, wanneer wachten loont en wanneer u beter vandaag verkoopt dan morgen.",
+    sections: [
+      {
+        heading: "Seizoenspatroon: wanneer zijn er de meeste kopers?",
+        body: "Op de vrije vastgoedmarkt is het seizoenspatroon in België duidelijk:\n\nLente (maart–mei): het drukste seizoen. Kopers zijn actief, gezinnen willen voor het nieuwe schooljaar verhuizen, en woningen komen er op hun best uit in goed licht. De concurrentie is echter ook het hoogst — er staat meer te koop.\n\nHerfst (september–oktober): het tweede actieve seizoen. Kopers die in de zomer niets gevonden hebben, gaan opnieuw zoeken. Minder aanbod dan lente, wat in uw voordeel kan spelen.\n\nZomer (juni–augustus): rustiger. Veel kopers zijn op vakantie. Ideaal voor kopers die zoeken, minder ideaal voor verkopers die snel willen.\n\nWinter (november–februari): traditioneel het traagste seizoen. Minder bezichtigingen, maar de kopers die actief zijn, zijn serieus gemotiveerd.\n\nBelangrijke nuance: dit seizoenspatroon geldt voor de vrije markt via een makelaar. Bij een verkoop aan wijkopenpanden.be speelt het seizoen geen enkele rol — wij kopen het hele jaar door, ook in december.",
+      },
+      {
+        heading: "Marktomstandigheden in 2026: is het een goed moment?",
+        body: "De Antwerpse vastgoedmarkt in 2026 kenmerkt zich door:\n\nRentevoeten: na de piekperiode van 2022–2023 zijn de hypotheekrente gedaald. Lagere rente betekent dat kopers meer kunnen lenen — dat stuwt de vraag en de prijzen.\n\nEPC-druk: eigenaars van woningen met EPC E of F worden steeds meer geconfronteerd met de renovatieplicht (6 jaar na aankoop) en de verhuurbeperking (2030). Dat creëert een extra aanbod van renovatiepanden op de markt.\n\nVraag naar instapklare woningen: kopers die willen vermijden te renoveren, betalen premiums voor woningen met goede EPC-labels. Het prijsverschil tussen EPC A/B en EPC E/F is groter dan ooit.\n\nConclussie voor verkopers: als uw woning een goed label heeft en instapklaar is, is de markt gunstig. Als uw woning EPC E/F heeft of renovatie nodig heeft, is wachten zelden voordelig — de druk neemt toe naarmate 2030 nadert.",
+      },
+      {
+        heading: "Persoonlijke omstandigheden: wanneer moet u verkopen?",
+        body: "Het perfecte marktmoment bestaat niet — maar persoonlijke omstandigheden bepalen vaak of wachten realistisch is.\n\nVerkoop nú als:\n\n• U erft een woning en er zijn meerdere erfgenamen: elke maand leegstand kost geld (leegstandsverzekering, onroerende voorheffing, onderhoud). Snel verkopen is meestal de verstandigste beslissing.\n\n• U scheidt: zolang de woning niet verkocht is, blijven beide partijen financieel en emotioneel gebonden. Een snelle verkoop geeft beiden een schone lei.\n\n• Uw woning heeft EPC E of F en u verhuurt: de indexering van uw huurprijs is al beperkt. Vanaf 2028 vervalt indexering volledig; vanaf 2030 mag u niet meer verhuren zonder renovatie. Verkopen vóór die datum vermijdt een gedwongen renovatie.\n\n• U de opbrengst nodig heeft voor een andere aankoop of zorgkosten: zekerheid over timing en prijs weegt zwaarder dan een mogelijke meerprijs later.\n\nWacht en optimaliseer als:\n\n• Uw woning EPC C of beter heeft en in goede staat is: u kunt de lente afwachten voor maximale marktblootstelling.\n• De buurt in volle ontwikkeling is: nieuw openbaar vervoer, heraanleg, nieuwe projecten — die kunnen de waarde verhogen binnen 1 tot 2 jaar.",
+      },
+      {
+        heading: "Vergelijking: nu verkopen vs. wachten",
+        body: "Wat u wint en verliest bij uitstellen",
+        table: {
+          headers: ["Factor", "Nu verkopen", "6 maanden wachten", "1–2 jaar wachten"],
+          rows: [
+            ["Zekerheid over prijs", "Ja — direct bod", "Onzeker", "Onzeker"],
+            ["Kosten tijdens wachttijd (leeg pand)", "Geen", "€3.000–€8.000", "€6.000–€20.000"],
+            ["EPC E/F: extra druk", "Geen", "Groter", "Groot — 2028 nadert"],
+            ["Renteschommeling (kopersvraag)", "Huidig niveau", "Onbekend", "Onbekend"],
+            ["Marktprijsevolutie", "Huidig", "+/- 2–5%", "+/- 5–15%"],
+            ["Emotionele belasting", "Eenmalig", "Aanslepend", "Aanslepend"],
+          ],
+        },
+      },
+      {
+        heading: "Het 'perfecte moment' bestaat niet — maar dit wel",
+        body: "Veel eigenaars wachten op het perfecte moment: de rente daalt nog wat, de markt trekt aan, het nieuwe jaar begint, de lente breekt aan. Intussen lopen de kosten door en groeit de onzekerheid.\n\nHet moment om te verkopen is niet wanneer de markt het beste staat — het is wanneer de beslissing voor u financieel en persoonlijk zinvol is.\n\nDrie vragen die alles verduidelijken:\n\n1. Kost de woning u geld zolang ze leegstaat of verhuurd is met een slechte EPC-score? Dan is elk kwartaal wachten een extra kost.\n\n2. Heeft u de verkoopprijs nodig voor iets concreets? Dan is zekerheid nu meer waard dan een hogere prijs over een jaar.\n\n3. Is de woning in goede staat en heeft u alle tijd? Dan kunt u de lente afwachten en via een makelaar de maximale prijs proberen te halen.\n\nWijkopenpanden.be koopt het hele jaar door. Wij geven u een schriftelijk bod na één bezoek — vrijblijvend, zonder tijdsdruk. Zo weet u wat de woning vandaag waard is en kunt u een weloverwogen beslissing nemen.",
+      },
+    ],
+    relatedArticles: ["wat-is-mijn-woning-waard-antwerpen", "huis-verkopen-antwerpen-gids", "hoelang-duurt-huis-verkopen-belgie", "energie-renovatieplicht-vlaanderen-2026", "verhuren-of-verkopen-antwerpen"],
+    relatedSituations: ["huis-verkopen-bij-erfenis", "huis-verkopen-bij-scheiding", "pand-met-huurders-verkopen"],
+    faqs: [
+      {
+        question: "Wanneer is het beste moment om een woning te verkopen in Antwerpen?",
+        answer:
+          "Op de vrije markt is lente (maart–mei) het drukste seizoen met de meeste kopers. Maar het beste moment hangt ook af van uw persoonlijke situatie: bij erfenis, scheiding of een woning met EPC E/F loont snel verkopen meer dan wachten op de perfecte markt. Wijkopenpanden.be koopt het hele jaar door.",
+      },
+      {
+        question: "Is het een goed moment om te verkopen in 2026?",
+        answer:
+          "Voor woningen in goede staat met een goed EPC-label is de markt in 2026 gunstig door dalende rentevoeten en actieve kopers. Voor woningen met EPC E/F wordt het wachten duurder: de druk van de renovatieplicht (EPC D verplicht bij aankoop) en het verhuurverbod in 2030 drukt de waarde jaar na jaar.",
+      },
+      {
+        question: "Loont het om te wachten op een betere markt?",
+        answer:
+          "Zelden. De vastgoedmarkt is onvoorspelbaar en een leegstaand pand kost maandelijks geld. Bovendien heeft u bij een hoger verwacht bod altijd hogere makelaarskosten en bijkomende keuringen. Een concreet bod vandaag is in de meeste gevallen beter dan een onzeker bod over zes maanden.",
+      },
+      {
+        question: "Wat als ik nog niet zeker ben of ik wil verkopen?",
+        answer:
+          "U kunt altijd vrijblijvend een bod aanvragen bij wijkopenpanden.be. Wij bezoeken de woning, geven u een schriftelijk bod en leggen de berekening uit. U bent nergens toe verplicht — geen exclusiviteit, geen kosten. Zo weet u wat uw woning vandaag waard is en kunt u beter beslissen.",
+      },
+      {
+        question: "Heeft het seizoen invloed op de verkoopprijs?",
+        answer:
+          "Marginaal. In de lente zijn er meer bezichtigingen en iets meer concurrentie tussen kopers, wat de prijs licht kan opdrijven. Maar het effect is kleiner dan de invloed van ligging, staat en EPC-label. Voor een verkoop aan een opkoper speelt het seizoen geen enkele rol.",
+      },
+    ],
+  },
 ];
 
 export function getArticle(slug: string): Article | undefined {
