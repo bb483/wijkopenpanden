@@ -1296,23 +1296,6 @@ export const articles: Article[] = [
         body: "De marktwaarde van een woning is wat een gemotiveerde koper bereid is te betalen op een vrije markt. Die prijs wordt bepaald door zeven hoofdfactoren:\n\n1. Ligging\nDe buurt is de meest bepalende factor — en de enige die u niet kunt veranderen. Een rijhuis in Berchem is structureel meer waard dan een identiek pand in Seefhoek, simpelweg omdat kopers meer betalen voor de omgeving. Nabijheid van openbaar vervoer, scholen, winkels en parken weegt mee.\n\n2. Type en oppervlakte\nRijhuis, appartement, herenhuis of villa — elk type heeft zijn eigen marktwaarde. Grotere bewoonbare oppervlakte verhoogt de prijs, maar niet lineair: de eerste 100 m² zijn het meest waardevol per m².\n\n3. Staat van de woning\nEen instapklare woning brengt 15 tot 30% meer op dan een gelijkaardig pand dat grondige renovatie nodig heeft. Kopers rekenen de geschatte renovatiekost af van de prijs die ze willen betalen.\n\n4. EPC-label\nSinds de Vlaamse renovatieplicht (kopers van EPC E/F moeten binnen 6 jaar renoveren) weegt het energielabel sterk door in de prijs. EPC A of B verhoogt de waarde; EPC E of F verlaagt ze — kopers trekken de renovatiekost systematisch af.\n\n5. Stedenbouwkundige conformiteit\nNiet-vergunde constructies (aanbouwen, dakkapellen, verbouwingen) verlagen de waarde doordat kopers extra risico inschatten. Een geregulariseerd pand is meer waard dan een identiek pand met openstaande overtredingen.\n\n6. Marktomstandigheden\nVraag en aanbod in de buurt op het moment van verkoop. In een actieve markt met weinig aanbod stijgen de prijzen; in een trage markt dalen ze.\n\n7. Bezetting en juridische situatie\nEen woning met huurders is voor de meeste kopers minder aantrekkelijk (ze willen er zelf in wonen). Huurpanden worden doorgaans 10 tot 20% lager gewaardeerd dan leegstaande woningen op de vrije markt.",
       },
       {
-        heading: "Wat is mijn woning waard per type en wijk in Antwerpen?",
-        body: "Concrete richtprijzen voor de Antwerpse markt in 2026. Dit zijn indicatieve ranges — de werkelijke waarde hangt af van de staat en het EPC-label.",
-        table: {
-          headers: ["Type woning", "Buurt", "Richtprijs (renovatie)", "Richtprijs (instapklaar)"],
-          rows: [
-            ["Rijhuis", "Seefhoek / Noord", "€150.000 – €200.000", "€220.000 – €280.000"],
-            ["Rijhuis", "Borgerhout / Deurne", "€185.000 – €240.000", "€260.000 – €330.000"],
-            ["Rijhuis", "Berchem / Wilrijk", "€240.000 – €310.000", "€320.000 – €420.000"],
-            ["Rijhuis", "Zurenborg", "€340.000 – €440.000", "€480.000 – €600.000"],
-            ["Appartement", "Centrum / Eilandje", "€160.000 – €250.000", "€280.000 – €420.000"],
-            ["Appartement", "Borgerhout / Berchem", "€130.000 – €200.000", "€210.000 – €310.000"],
-            ["Herenhuis", "Berchem / Stadspark", "€380.000 – €500.000", "€550.000 – €780.000"],
-            ["Villa", "Brasschaat / Schilde", "€480.000 – €650.000", "€700.000 – €1.100.000"],
-          ],
-        },
-      },
-      {
         heading: "Hoe berekent een makelaar de waarde van uw woning?",
         body: "Een makelaar gebruikt de vergelijkende methode: hij vergelijkt uw woning met recente verkopen van gelijkaardige panden in dezelfde buurt. Hij corrigeert voor oppervlakte, staat, verdieping (bij appartementen) en EPC-label.\n\nBelangrijke kanttekening: een makelaar geeft een schatting van de vraagprijs — het bedrag dat hij denkt te kunnen vragen. Of dat bedrag ook gerealiseerd wordt, hangt af van de markt en de kopers die zich melden. De werkelijke verkoopprijs kan 5 tot 15% lager liggen dan de initiële vraagprijs.\n\nEen makelaarschatting is bovendien gratis maar niet neutraal: makelaars schatten soms iets hoger in om het mandaat te krijgen, met de belofte later bij te sturen als er geen koper komt.",
       },
