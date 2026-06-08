@@ -136,10 +136,7 @@ export default function Page() {
           <FadeIn delay={0.15}>
             <a
               href="#tip-formulier"
-              className="inline-flex px-8 py-4 rounded-full text-base font-semibold text-white transition-colors duration-200"
-              style={{ background: "#C4A35A" }}
-              onMouseEnter={(e) => (e.currentTarget.style.background = "#b08d47")}
-              onMouseLeave={(e) => (e.currentTarget.style.background = "#C4A35A")}
+              className="inline-flex px-8 py-4 rounded-full text-base font-semibold text-white transition-colors duration-200 bg-[#C4A35A] hover:bg-[#b08d47]"
             >
               Geef uw tip door
             </a>
@@ -217,10 +214,7 @@ export default function Page() {
             </Prose>
             <a
               href="/#formulier"
-              className="inline-flex px-8 py-4 rounded-full text-base font-semibold text-white transition-colors duration-200"
-              style={{ background: "#C0392B" }}
-              onMouseEnter={(e) => (e.currentTarget.style.background = "#a93226")}
-              onMouseLeave={(e) => (e.currentTarget.style.background = "#C0392B")}
+              className="inline-flex px-8 py-4 rounded-full text-base font-semibond text-white transition-colors duration-200 bg-[#C0392B] hover:bg-[#a93226]"
             >
               Vraag uw bod aan
             </a>
