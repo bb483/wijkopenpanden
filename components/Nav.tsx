@@ -131,6 +131,13 @@ export default function Nav() {
             0492 77 94 75
           </a>
           <a
+            href="/tip-een-pand"
+            className="hidden lg:inline-flex px-5 py-2 rounded-full text-sm font-medium transition-colors duration-200 ease-out"
+            style={{ background: "rgba(196,163,90,0.12)", color: "#C4A35A", border: "1px solid rgba(196,163,90,0.30)" }}
+          >
+            Tip & verdien €5.000
+          </a>
+          <a
             href="#formulier"
             className="hidden md:inline-flex px-5 py-2 rounded-full text-sm font-medium text-white bg-[#C0392B] hover:bg-[#a93226] transition-colors duration-200 ease-out"
           >
@@ -195,6 +202,14 @@ export default function Nav() {
               className="block py-3 text-sm text-[#5C4D3C] active:text-[#1C1610] transition-colors"
             >
               0492 77 94 75
+            </a>
+            <a
+              href="/tip-een-pand"
+              className="block text-center px-6 py-4 rounded-full text-sm font-medium transition-colors duration-200"
+              style={{ background: "rgba(196,163,90,0.12)", color: "#C4A35A", border: "1px solid rgba(196,163,90,0.30)" }}
+              onClick={() => setMobileOpen(false)}
+            >
+              Tip een pand — verdien tot €5.000
             </a>
             <a
               href="#formulier"

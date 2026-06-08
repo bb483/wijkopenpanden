@@ -18,6 +18,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${BASE}/lijfrente-antwerpen`, lastModified: now, priority: 0.7, changeFrequency: "monthly" as const },
     { url: `${BASE}/over`, lastModified: now, priority: 0.5, changeFrequency: "yearly" as const },
     { url: `${BASE}/contact`, lastModified: now, priority: 0.6, changeFrequency: "yearly" as const },
+    { url: `${BASE}/tip-een-pand`, lastModified: now, priority: 0.8, changeFrequency: "monthly" as const },
   ];
 
   const propertyPages = propertyTypes.map((p) => ({
