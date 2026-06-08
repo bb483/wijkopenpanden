@@ -139,13 +139,10 @@ export default function Nav() {
           </a>
           <a
             href="/tip-een-pand"
-            className="md:hidden inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full text-xs font-semibold"
+            className="md:hidden inline-flex items-center px-2.5 py-1 rounded-full text-[11px] font-medium ml-auto"
             style={{ background: "rgba(196,163,90,0.12)", color: "#C4A35A", border: "1px solid rgba(196,163,90,0.30)" }}
           >
-            <svg width="11" height="11" viewBox="0 0 24 24" fill="none">
-              <path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z" fill="#C4A35A" />
-            </svg>
-            Tip & €5.000
+            Tip & verdien
           </a>
           <a
             href="#formulier"
