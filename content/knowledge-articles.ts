@@ -1486,6 +1486,98 @@ export const articles: Article[] = [
       },
     ],
   },
+  {
+    slug: "lijfrente-woning-verkopen-belgie",
+    title: "Lijfrente: uw woning verkopen met maandelijkse uitkering — berekening, fiscus en nadelen",
+    metaTitle: "Lijfrente woning verkopen 2026: berekening, fiscus & nadelen | wijkopenpanden.be",
+    metaDescription:
+      "Hoe werkt lijfrente bij vastgoed in België? Bouquet, berekening via sterftetafels, fiscale behandeling en vergelijking met gewone verkoop — volledig uitgelegd voor 2026.",
+    publishedAt: "2026-06-09",
+    updatedAt: "2026-06-09",
+    intro:
+      "Lijfrente is voor veel ouderen een onbekend alternatief voor de klassieke woningverkoop. U draagt de eigendom over, maar blijft in uw woning wonen en ontvangt maandelijks een uitkering voor de rest van uw leven. Dat klinkt aantrekkelijk — maar hoe wordt die uitkering berekend? Wat zijn de fiscale gevolgen? En wanneer is lijfrente niet de beste keuze? In dit artikel leggen we alles uit, inclusief de concrete berekening en een eerlijke vergelijking met de alternatieven.",
+    sections: [
+      {
+        heading: "Wat is lijfrente bij vastgoed?",
+        body: "Bij een lijfrenteverkoop (Frans: viager) draagt u de juridische eigendom van uw woning over aan een koper. In ruil daarvoor ontvangt u een maandelijkse uitkering — de lijfrente of rente — voor de rest van uw leven. Optioneel wordt er bij de ondertekening van de akte ook een eenmalig bedrag betaald: het bouquet.\n\nU behoudt doorgaans het recht van gebruik en bewoning of het vruchtgebruik:\n\n• Recht van gebruik en bewoning: u mag de woning zelf bewonen, maar niet verhuren. Dit is de meest voorkomende formule bij lijfrente.\n\n• Vruchtgebruik: u mag de woning bewonen én verhuren. Dat geeft u meer vrijheid maar heeft andere fiscale gevolgen.\n\nDe overeenkomst wordt vastgelegd in een notariële akte en is juridisch bindend voor beide partijen. De koper kan de eigendom pas volledig 'genieten' na uw overlijden.",
+      },
+      {
+        heading: "Hoe wordt de lijfrente berekend?",
+        body: "De berekening van de maandelijkse lijfrente is gebaseerd op drie factoren: de waarde van de woning, uw leeftijd en de huidige rentevoeten.\n\nStap 1 — Venale waarde: de notaris stelt de marktwaarde van de woning vast. Dit is het vertrekpunt van de berekening.\n\nStap 2 — Waarde van het voorbehouden recht: als u in de woning blijft wonen, wordt de waarde van dat recht van gebruik en bewoning afgetrokken van de venale waarde. Hoe ouder u bent, hoe kleiner die aftrek — want de verwachte resterende bewoningstermijn is korter.\n\nStap 3 — Bouquet in mindering: als er een eenmalig bedrag wordt afgesproken bij de akte, wordt dat in mindering gebracht op het resterende kapitaal.\n\nStap 4 — Omzetting naar lijfrente: het resterende kapitaal wordt omgezet naar een maandelijkse uitkering via sterftetafels. Die tabellen houden rekening met de statistische levensverwachting op basis van uw leeftijd en geslacht. Hoe ouder u bent, hoe hoger de maandelijkse uitkering — want de betalingsperiode is statistisch korter.\n\nPraktisch voorbeeld: een woning met een marktwaarde van €300.000, bewoner van 75 jaar, geen bouquet. Na aftrek van de waarde van het gebruik (geschat op basis van levensverwachting en huidige rentevoet) resulteert dit in een kapitaalbasis van bijvoorbeeld €180.000–€200.000. Omgezet naar een levenslange lijfrente betekent dit een maandelijkse uitkering van ruwweg €1.000–€1.400 per maand. De exacte berekening doet de notaris op basis van officiële sterftetabellen en de geldende interestvoet.",
+      },
+      {
+        heading: "Bouquet: wat is het en hoeveel bedraagt het?",
+        body: "Het bouquet is een eenmalige betaling die de koper uitbetaalt bij het ondertekenen van de notariële akte — bovenop of in plaats van een deel van de maandelijkse lijfrente. Het is niet verplicht maar wordt in de praktijk vaak ingebouwd.\n\nVoordelen van een bouquet:\n• U heeft onmiddellijk liquiditeiten voor een grote aankoop, schenking of specifieke behoefte\n• Het verlaagt het risico dat u 'niets ontvangt' als u vroeg overlijdt\n• Het verlaagt de maandelijkse lijfrente (het kapitaal is kleiner)\n\nHoe hoog kan het bouquet zijn? Er is geen wettelijke limiet, maar de praktijk houdt het bouquet doorgaans op 20% tot 40% van de venale waarde van het pand. Een te hoog bouquet maakt de maandelijkse lijfrente zo laag dat de formule haar aantrekkelijkheid verliest. Een te laag bouquet biedt onvoldoende bescherming bij vroeg overlijden.\n\nHet bouquet is juridisch een deel van de verkoopprijs en is onderworpen aan registratierechten.",
+      },
+      {
+        heading: "Fiscale behandeling van lijfrente in België (2026)",
+        body: "De fiscale behandeling van lijfrente bij vastgoed in België is genuanceerd en hangt af van de specifieke structuur van de overeenkomst. Wij geven een overzicht van de algemene principes; specifiek fiscaal advies vraagt u het best aan een notaris of fiscalist.\n\nRegistratierechten bij de akte:\nDe akte is onderworpen aan registratierechten op de totale verkoopwaarde (kapitalisatie van de rente + bouquet). Voor een woning die als enige en eigen woning wordt gebruikt, geldt het verlaagde tarief van 2%. Voor investeringspanden of tweede verblijven geldt het standaardtarief.\n\nBelasting op de maandelijkse rente:\nDe periodieke lijfrente wordt in België beschouwd als een divers inkomen in de personenbelasting. Een gedeelte van de rente wordt als kapitaalterugbetaling beschouwd (onbelast) en een gedeelte als interest (belastbaar). De verhouding hangt af van de kapitalisatievoet die bij de akte werd gebruikt. Uw notaris berekent dit bij de opmaak van de akte.\n\nRoerende voorheffing:\nOp de belastbare interestcomponent van de lijfrente is in principe roerende voorheffing van toepassing. De praktische afwikkeling verschilt afhankelijk van of de koper een particulier of een professionele partij is.\n\nBouquet:\nHet bouquet op zich is onderdeel van de verkooptransactie en wordt niet apart als inkomen belast naast de registratierechten.",
+      },
+      {
+        heading: "Bescherming van de verkoper: wat als de koper niet betaalt?",
+        body: "Het risico dat de koper op een dag de maandelijkse lijfrente niet meer kan betalen is reëel — zeker als de overeenkomst decennia duurt. De wet voorziet in een aantal beschermingsmechanismen die u als verkoper kunt inbouwen via uw notaris:\n\nHypotheekinschrijving: de koper stelt een hypothecaire zekerheid op de aangekochte woning als garantie voor de uitbetaling van de lijfrente. Als de koper in gebreke blijft, kunt u de woning laten uitwinnen.\n\nOntbindende clausule: als de koper drie of meer achtereenvolgende maanden niet betaalt, kan de verkoop worden ontbonden. De woning keert dan terug naar u — én u behoudt reeds ontvangen betalingen.\n\nIndexatie: een clausule die de lijfrente automatisch aanpast aan de index van de consumptieprijzen voorkomt dat inflatie uw koopkracht uitholt over de jaren.\n\nMinimale garantieperiode: sommige overeenkomsten voorzien dat de rente minstens X jaar wordt uitbetaald — ook als u vroeg overlijdt. In dat geval wordt na uw overlijden de resterende termijn uitbetaald aan uw erfgenamen.",
+      },
+      {
+        heading: "Nadelen van lijfrente: wanneer is het niet de beste keuze?",
+        body: "Lijfrente is niet voor iedereen de beste oplossing. Eerlijkheidshalve bespreken we ook de nadelen:\n\nU verliest de eigendom: eens de akte getekend is, bent u geen eigenaar meer. U kunt de woning niet meer verkopen, schenken of nalaten aan kinderen of kleinkinderen.\n\nGeen erfenis voor uw kinderen: als dat uw wens is om de woning na te laten, dan is lijfrente de verkeerde formule. Er is dan een alternatief: een gewone verkoop met het kapitaal geïnvesteerd in een spaar- of beleggingsproduct dat u wel kunt nalaten.\n\nAlea (het kansspelelement): als u vroeg overlijdt, heeft de koper de 'jackpot'. Als u heel lang leeft, betaalt de koper uiteindelijk veel meer dan de marktwaarde. Beide partijen nemen een risico. Voor u als verkoper is het risico: u ontvangt minder dan bij een gewone verkoop als u vroeg overlijdt.\n\nRenteberekening is complex: de berekening via sterftetabellen is niet transparant voor niet-specialisten. U heeft een goede notaris nodig die dit volledig uitlegt.\n\nNiet interessant voor jonge eigenaars: lijfrente is het meest voordelig voor eigenaars van 70 jaar of ouder. Bent u jonger, dan is de maandelijkse uitkering relatief laag omdat de statistische levensverwachting lang is.\n\nInflatierisico zonder indexering: als u geen indexeringsclausule inbouwt, verliest de vaste maandelijkse uitkering over de jaren koopkracht.",
+      },
+      {
+        heading: "Lijfrente vs gewone verkoop vs sale-and-rent-back: vergelijking",
+        body: "Drie formules om uw woning te verkopen en toch te blijven wonen. Wat zijn de verschillen?",
+        table: {
+          headers: ["Criterium", "Lijfrente", "Gewone verkoop", "Sale-and-rent-back"],
+          rows: [
+            ["Eenmalig kapitaal", "Alleen het bouquet (optioneel)", "Volledige verkoopprijs", "Volledige verkoopprijs"],
+            ["Maandelijkse inkomsten", "Levenslange lijfrente", "Geen (tenzij geïnvesteerd)", "Geen (u betaalt huur)"],
+            ["In de woning blijven", "Ja — recht van gebruik", "Neen", "Ja — als huurder"],
+            ["Maandelijkse vaste kost", "Geen", "Geen", "Huur te betalen"],
+            ["Erfenis voor kinderen", "Niet mogelijk", "Kapitaal nalaten", "Kapitaal nalaten"],
+            ["Fiscale complexiteit", "Hoog", "Laag", "Matig"],
+            ["Beste leeftijd", "70+", "Alle leeftijden", "Alle leeftijden"],
+            ["Risico bij vroeg overlijden", "Ja (ontvangen minder)", "Geen", "Geen"],
+          ],
+        },
+      },
+      {
+        heading: "Wanneer is lijfrente wél de juiste keuze?",
+        body: "Ondanks de nadelen is lijfrente in specifieke situaties uitstekend geschikt:\n\n• U bent 70 jaar of ouder en eigenaar van uw woning\n• Uw wettelijk pensioen is onvoldoende om comfortabel te leven\n• U wilt in uw woning blijven wonen en niet verhuizen naar een appartementsgebouw of serviceflat\n• U heeft geen erfgenamen of heeft bewust gekozen om de woning niet na te laten\n• U heeft geen behoefte aan een groot eenmalig kapitaal maar wél aan een stabiel maandelijks inkomen\n• U wilt de woning niet verhuren maar ook niet gewoon leeg laten staan\n\nVoor eigenaars die aan dit profiel voldoen, biedt lijfrente een combinatie van woonzekerheid en financiële rust die geen enkele andere formule biedt.",
+      },
+    ],
+    relatedArticles: ["wat-is-een-vastgoedopkoper", "verhuren-of-verkopen-antwerpen", "wanneer-beste-moment-woning-verkopen"],
+    relatedSituations: ["lijfrente-antwerpen", "blijven-wonen"],
+    faqs: [
+      {
+        question: "Vanaf welke leeftijd is lijfrente interessant?",
+        answer:
+          "Lijfrente is het meest voordelig voor eigenaars van 70 jaar of ouder. Hoe ouder u bent, hoe hoger de maandelijkse uitkering — omdat de statistische levensverwachting korter is en het kapitaal over minder maanden wordt gespreid. Bent u jonger dan 65, dan levert lijfrente doorgaans een lage maandelijkse rente op die minder aantrekkelijk is dan een gewone verkoop.",
+      },
+      {
+        question: "Kan ik de woning nog renoveren of verbouwen als lijfrentekoper de eigenaar is?",
+        answer:
+          "Grote structurele werken vallen toe aan de nieuwe eigenaar (de koper). Kleine herstellingen en het dagelijks onderhoud blijven doorgaans voor rekening van de bewoner (u). Wat precies voor wiens rekening valt, wordt vastgelegd in de notariële akte. Dit is een punt om goed te onderhandelen vóór u tekent.",
+      },
+      {
+        question: "Wat als mijn woning na de akte stijgt in waarde?",
+        answer:
+          "De meerwaarde gaat naar de koper. U heeft de woning verkocht en de prijs (maandelijkse rente) is vastgelegd bij de akte. Dat is het spiegelbeeldige risico van het alea-karakter van lijfrente: de koper betaalt mogelijk minder dan de woning later waard is, maar riskeert ook meer te betalen als u lang leeft.",
+      },
+      {
+        question: "Is lijfrente hetzelfde als een omgekeerde hypotheek?",
+        answer:
+          "Neen. Bij een omgekeerde hypotheek (niet beschikbaar in België) blijft u eigenaar en leent u tegen de waarde van uw woning. Bij lijfrente draagt u de eigendom effectief over. De omgekeerde hypotheek bestaat als product niet in België — lijfrente is het dichtstbijzijnde alternatief voor ouderen die hun woning willen 'verzilveren'.",
+      },
+      {
+        question: "Kan ik lijfrente combineren met een schenking aan mijn kinderen?",
+        answer:
+          "Niet van de woning zelf — die draagt u immers over aan de koper. Maar het bouquet dat u ontvangt, kunt u wel schenken aan uw kinderen. Ook de maandelijkse lijfrente kunt u (gedeeltelijk) schenken. Bespreek de fiscale optimalisatie hiervan met een notaris of fiscalist.",
+      },
+      {
+        question: "Hoe wordt de lijfrente gegarandeerd als de koper overlijdt?",
+        answer:
+          "Als de koper vóór u overlijdt, worden zijn verplichtingen overgedragen aan zijn erfgenamen. De erfgenamen zijn gehouden de maandelijkse lijfrente verder te betalen. De hypothekinschrijving op de woning dient als bijkomende garantie. Dit is een standaardclausule in elke lijfrenteovereenkomst.",
+      },
+    ],
+  },
 ];
 
 export function getArticle(slug: string): Article | undefined {
