@@ -1411,6 +1411,81 @@ export const articles: Article[] = [
       },
     ],
   },
+  {
+    slug: "pand-tippen-en-beloning-verdienen",
+    title: "Pand tippen en tot €5.000 verdienen: zo werkt het beloningsprogramma",
+    metaTitle: "Pand tippen en beloning verdienen tot €5.000 | wijkopenpanden.be",
+    metaDescription:
+      "Kent u een buur, kennis of familielid dat wil verkopen? Geef een tip aan wijkopenpanden.be en ontvang tot €5.000 beloning bij een succesvolle aankoop. Snel, discreet en gratis.",
+    publishedAt: "2026-06-09",
+    updatedAt: "2026-06-09",
+    intro:
+      "U kent vast iemand in uw omgeving die zijn woning liever kwijt is dan rijk: een buur met een leegstaand pand, een kennis die erft van een familielid, een collega die scheidt of emigreert. Die informatie is waardevol — en wij betalen ervoor. Via het beloningsprogramma van wijkopenpanden.be kunt u tot €5.000 verdienen door een tip door te geven over een pand in de Antwerpse regio. In dit artikel leggen we precies uit hoe dat werkt, wie in aanmerking komt en wat u kunt verwachten.",
+    sections: [
+      {
+        heading: "Wat is een pand-tip en waarom betalen wij ervoor?",
+        body: "Wij kopen panden aan in de Antwerpse regio — ook panden die niet op de markt staan. Veel eigenaars willen verkopen maar nemen zelf geen initiatief: ze kennen de opties niet, vinden het proces te complex of wachten op een aanleiding. Als wij die eigenaars bereiken via een vertrouwde tip, sparen wij tijd en kosten op prospectie. Die besparing delen wij met u.\n\nEen pand-tip is simpelweg het doorgeven van een adres van een woning waarvan u denkt dat de eigenaar mogelijk wil verkopen. U hoeft geen zekerheid te hebben — een vermoeden of een gesprek dat u ooit had met de eigenaar is voldoende. Wij nemen daarna discreet contact op met de eigenaar en onderzoeken of er interesse is.",
+      },
+      {
+        heading: "Wie kan een tip geven?",
+        body: "Iedereen. Er zijn geen vereisten, geen registratie en geen kosten. Concrete situaties die wij regelmatig zien:\n\n• Buren die weten dat de woning naast hen al maanden leegstaat\n• Familie van iemand die recent is verhuisd naar een rusthuis of woonzorgcentrum\n• Kennissen die een erfenis hebben ontvangen maar niet weten wat ermee te doen\n• Collega's of vrienden die scheiden en een gemeenschappelijk pand willen verkopen\n• Handwerklui of poetshulpen die in woningen komen en zien dat eigenaars overwegen te verkopen\n• Buurtbewoners die weten dat een naastgelegen pand te koop zou staan als er een eerlijk bod kwam\n\nU hoeft de eigenaar niet te kennen. U hoeft hem of haar zelfs niet te vragen of ze willen verkopen. U geeft het adres door — de rest doen wij.",
+      },
+      {
+        heading: "Welke situaties zijn het meest interessant om te tippen?",
+        body: "Hoe concreter de situatie, hoe groter de kans op een succesvolle deal. Dit zijn de situaties die wij het vaakst zien:\n\nLeegstand: een woning die al maanden of jaren leegstaat. De eigenaar betaalt onroerende voorheffing, verzekering en soms ook de leegstandsheffing van de gemeente — zonder inkomsten. Dat maakt verkopen aantrekkelijk.\n\nErfenis: iemand die een woning heeft geërfd maar er niet in wil wonen en het niet wil verhuren. Erfgenamen zijn vaak niet uit op de hoogste prijs, maar op een snelle, probleemloze afhandeling.\n\nScheiding: een koppel dat uit elkaar gaat en een gemeenschappelijk pand heeft. Beide partijen willen de situatie zo snel mogelijk oplossen zonder maandenlange juridische procedures.\n\nRenovatieplichtige woningen: eigenaars van woningen met EPC-label E of F die de renovatie niet willen of kunnen betalen. Wij kopen ook woningen as-is — zonder dat de eigenaar eerst moet renoveren.\n\nVerhuurproblemen: eigenaars met moeilijke huurders of een woning die al te lang leegstaat na vertrek van een huurder.\n\nEmigratie of verhuis: iemand die naar het buitenland vertrekt of definitief ergens anders gaat wonen en een pand in Antwerpen wil loslaten.",
+      },
+      {
+        heading: "Hoe verloopt het beloningsprogramma stap voor stap?",
+        body: "Het proces is eenvoudig en transparant:\n\nStap 1 — U geeft uw tip door via het formulier op wijkopenpanden.be/tip-een-pand. U vult het adres van het pand in, het type woning en eventueel een korte context (leegstand, erfenis, scheiding…). U geeft ook uw eigen contactgegevens op zodat wij u na een succesvolle deal kunnen bereiken.\n\nStap 2 — Wij nemen discreet contact op met de eigenaar. Uw naam wordt nooit vermeld tenzij u dit zelf wenst. Wij stellen ons voor als vastgoedopkoper die interesse heeft in de buurt en vragen vrijblijvend of de eigenaar openstaat voor een gesprek.\n\nStap 3 — Als de eigenaar interesse heeft, bezoeken wij de woning en doen wij een schriftelijk bod. De eigenaar beslist volledig vrij.\n\nStap 4 — Bij een ondertekend compromis of koopovereenkomst contacteren wij u om uw beloning te bevestigen.\n\nStap 5 — Na de ondertekening van de notariële akte wordt uw beloning uitbetaald. De uitbetaling verloopt via bankoverschrijving op een rekening naar keuze.",
+      },
+      {
+        heading: "Hoeveel beloning kunt u verdienen?",
+        body: "De beloning hangt af van het type pand en de aankoopprijs. Als richtlijn:\n\n• Rijhuis of halfopen woning: tot €2.000\n• Appartement: tot €1.500\n• Herenhuis of villa: tot €5.000\n• Opbrengsteigendom (meerdere units): tot €5.000\n• Bouwgrond: tot €3.000\n• Garage of box: tot €500\n\nHet exacte bedrag bespreken wij persoonlijk met u na ontvangst van uw tip. Er is geen onderhandeling achteraf: wij bevestigen de beloning schriftelijk vóór wij contact opnemen met de eigenaar.\n\nBelangrijk: u kunt meerdere tips geven. Voor elke succesvolle aankoop ontvangt u een aparte beloning. Er is geen maximum aan het aantal tips dat u kunt indienen.",
+      },
+      {
+        heading: "Is het correct om een tip te geven over andermans woning?",
+        body: "Dit is een vraag die veel tipgevers zich stellen. Het antwoord is: ja, en het is ook ethisch verantwoord — zolang u met goede intenties handelt.\n\nEen tip geven is niet hetzelfde als de eigenaar verplichten om te verkopen. U deelt informatie — wij doen de rest. Als de eigenaar niet geïnteresseerd is, stoppen wij meteen. Niemand wordt onder druk gezet.\n\nIn veel gevallen is de eigenaar zelfs blij dat iemand het initiatief neemt. Veel mensen willen verkopen maar weten niet hoe ze moeten beginnen, of ze hebben niemand die het voor hen in gang zet. Een discreet telefoontje van ons kan net de aanleiding zijn die ze nodig hadden.\n\nWij benaderen eigenaars altijd met respect en professioneel. Wij vermelden uw naam nooit — tenzij u dit zelf aangeeft — en wij forceren niets.",
+      },
+      {
+        heading: "Veelgestelde vragen van tipgevers",
+        body: "Moet ik zeker zijn dat de eigenaar wil verkopen? Nee. Een vermoeden is voldoende. Wij onderzoeken zelf of er interesse is.\n\nWat als meerdere mensen hetzelfde pand tippen? De beloning gaat naar de persoon die als eerste de tip heeft ingediend via het formulier.\n\nKan ik anoniem tippen? Uw identiteit wordt nooit gedeeld met de eigenaar, maar om de beloning te kunnen uitbetalen hebben wij uw contactgegevens nodig. Volledig anoniem tippen zonder beloning is ook mogelijk — maar dan kunnen wij u niet contacteren.\n\nHoe lang duurt het voor ik weet of mijn tip succesvol is? Dat varieert. Sommige eigenaars beslissen snel (enkele weken), anderen hebben maanden de tijd nodig. Wij houden u op de hoogte zodra er nieuws is.",
+      },
+    ],
+    relatedArticles: ["wat-is-een-vastgoedopkoper", "huis-verkopen-antwerpen-gids", "hoelang-duurt-huis-verkopen-belgie"],
+    relatedSituations: ["huis-verkopen-bij-erfenis", "huis-verkopen-bij-scheiding"],
+    faqs: [
+      {
+        question: "Wanneer ontvang ik mijn beloning als tipgever?",
+        answer:
+          "De beloning wordt uitbetaald na de ondertekening van de notariële akte van aankoop. Van zodra de deal definitief is, contacteren wij u om de uitbetaling te regelen via bankoverschrijving.",
+      },
+      {
+        question: "Wat als de eigenaar uiteindelijk niet wil verkopen?",
+        answer:
+          "Dan ontvangt u geen beloning — maar u riskeert ook niets. Een tip indienen is volledig gratis en vrijblijvend. Er zijn geen kosten, geen contracten en geen verplichtingen van uw kant.",
+      },
+      {
+        question: "Moet ik belastingen betalen op de beloning?",
+        answer:
+          "In de meeste gevallen wordt een eenmalige beloning als tipgever fiscaal beschouwd als een divers inkomen. Wij raden u aan uw situatie te bespreken met een accountant of fiscalist. Wijkopenpanden.be is niet verantwoordelijk voor de fiscale verwerking aan de kant van de tipgever.",
+      },
+      {
+        question: "Kan ik meerdere panden tippen?",
+        answer:
+          "Ja, absoluut. U kunt voor elk pand een apart formulier invullen. Er is geen limiet op het aantal tips. Voor elke succesvolle aankoop ontvangt u een aparte beloning.",
+      },
+      {
+        question: "Wie krijgt de beloning als meerdere mensen hetzelfde pand tippen?",
+        answer:
+          "De beloning gaat naar de persoon die als eerste de tip heeft ingediend via het formulier op onze website. De datum en het tijdstip van indiening worden automatisch geregistreerd.",
+      },
+      {
+        question: "Wat als ik de eigenaar persoonlijk ken — mag ik dan nog tippen?",
+        answer:
+          "Ja. Er zijn geen restricties op uw relatie met de eigenaar. Vrienden, familie of buren tippen is toegestaan. Wij benaderen de eigenaar altijd professioneel en discreet — uw naam wordt niet vermeld tenzij u dit zelf wenst.",
+      },
+    ],
+  },
 ];
 
 export function getArticle(slug: string): Article | undefined {
