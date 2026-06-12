@@ -1578,6 +1578,76 @@ export const articles: Article[] = [
       },
     ],
   },
+  {
+    slug: "leegstandsheffing-antwerpen-2026",
+    title: "Leegstandsheffing in de Antwerpse regio 2026: wat u betaalt en wat u kunt doen",
+    metaTitle: "Leegstandsheffing Antwerpen 2026: bedragen, regels en oplossingen | wijkopenpanden.be",
+    metaDescription:
+      "Staat uw woning leeg in de Antwerpse regio? Ontdek hoe de leegstandsheffing werkt in 2026, hoeveel u betaalt en welke opties u heeft om de heffing te vermijden.",
+    publishedAt: "2026-06-12",
+    updatedAt: "2026-06-12",
+    intro:
+      "Een leegstaande woning kost u meer dan u denkt. Naast de gewone onroerende voorheffing legt de gemeente of stad een extra leegstandsheffing op — een belasting die elk jaar dat uw pand leegstaat zwaarder wordt. In de Antwerpse regio passen steeds meer gemeenten dit instrument toe als hefboom tegen leegstand. In dit artikel leggen we uit hoe de heffing werkt, wat de concrete gevolgen zijn en welke opties u heeft als eigenaar.",
+    sections: [
+      {
+        heading: "Wat is een leegstandsheffing?",
+        body: "Een leegstandsheffing is een gemeentelijke belasting op woningen en gebouwen die langdurig leegstaan. Het doel is tweeledig: eigenaars aanzetten om hun pand terug op de markt te brengen (verhuren of verkopen) én inkomsten genereren voor de gemeente als dat niet gebeurt.\n\nDe heffing komt bovenop de gewone onroerende voorheffing die u elk jaar al betaalt. Ze is dus een extra kost, geen vervanging.\n\nIn Vlaanderen zijn gemeenten vrij om zelf te bepalen of ze een leegstandsheffing invoeren, en aan welk tarief. Dat leidt tot grote verschillen tussen gemeenten. Antwerpen-stad en veel randgemeenten zoals Mortsel, Edegem en Berchem hebben een actief leegstandsbeleid.",
+      },
+      {
+        heading: "Wanneer staat een woning 'officieel' leeg?",
+        body: "Een woning wordt geregistreerd als leegstaand wanneer ze gedurende minstens twaalf opeenvolgende maanden niet effectief bewoond of gebruikt wordt. De gemeente stelt dit vast via een combinatie van:\n\n• Het bevolkingsregister: niemand ingeschreven op het adres\n• Waterverbruik: verbruik onder de drempelwaarde (doorgaans minder dan 1 m³ per jaar)\n• Elektriciteitsverbruik: geen of verwaarloosbaar verbruik\n• Visuele vaststellingen door de dienst Wonen of een gemeentelijke inspecteur\n\nEens een woning op het leegstandsregister staat, ontvangt u als eigenaar een brief met de melding. Vanaf dat moment begint de termijn voor de heffing te lopen. U heeft het recht om bezwaar in te dienen als u vindt dat de woning onterecht geregistreerd werd — bijvoorbeeld als u aannemingswerken uitvoert of als de woning reeds te huur of te koop staat.",
+      },
+      {
+        heading: "Hoeveel bedraagt de leegstandsheffing in de Antwerpse regio?",
+        body: "De exacte bedragen verschillen per gemeente en worden jaarlijks vastgesteld in het gemeentelijk belastingreglement. Een aantal principes zijn wel algemeen:\n\nProgressieve opbouw: het eerste jaar staat de heffing doorgaans het laagst. Elk jaar dat de woning leegstaat, stijgt het bedrag. Na drie à vier jaar kan de jaarlijkse heffing oplopen tot meerdere duizenden euro.\n\nBerekening op basis van het kadastraal inkomen (KI): veel gemeenten gebruiken een vermenigvuldigingsfactor op het KI. Een pand met een KI van €800 in een gemeente met een factor ×15 geeft een heffing van €12.000 — bovenop de gewone onroerende voorheffing.\n\nAntwerpen-stad: de stad Antwerpen hanteert een van de strengste leegstandsregelingen in Vlaanderen. De heffing loopt progressief op en kan na meerdere jaren leegstand substantieel zijn. Raadpleeg het meest recente belastingreglement op de website van de stad voor de actuele cijfers.\n\nRandgemeenten: Mortsel, Edegem, Berchem, Borgerhout en omgeving hebben elk hun eigen reglement. Sommige gemeenten rekenen een vast bedrag per jaar, andere werken met het KI als basis.",
+      },
+      {
+        heading: "Onroerende voorheffing en leegstandsheffing gecombineerd",
+        body: "Als eigenaar van een leegstaand pand betaalt u twee afzonderlijke belastingen tegelijk:\n\n1. Onroerende voorheffing (OV): een jaarlijkse gewestelijke en gemeentelijke belasting op alle onroerende goederen, ongeacht of ze bewoond zijn of niet. In Antwerpen bedraagt het gecombineerde tarief (gewest + gemeente + provincie) typisch 25 tot 35% van het geïndexeerd kadastraal inkomen.\n\n2. Leegstandsheffing: de extra gemeentelijke belasting als het pand leegstaat.\n\nBij een gemiddeld rijhuis in Antwerpen met een kadastraal inkomen van €600–€1.000 kan de combinatie van beide belastingen na enkele jaren leegstand jaarlijks €3.000 tot €8.000 bedragen — puur voor een pand dat niets opbrengt. Daarbij komen nog de kosten voor de opstalverzekering van een leegstaand pand (doorgaans duurder dan voor een bewoond pand) en eventuele beveiligingskosten.",
+      },
+      {
+        heading: "Kunt u de leegstandsheffing vermijden?",
+        body: "Er zijn een aantal wettige manieren om de heffing te vermijden of te beperken:\n\nVerhuren: als de woning effectief verhuurd wordt en de huurder is ingeschreven, valt ze van het leegstandsregister. Dit is de meest voor de hand liggende oplossing — maar voor eigenaars met een pand in slechte staat of met een EPC-label E/F is het verhuurverbod (vanaf 2030) een bijkomende drempel.\n\nActieve renovatiewerken: in veel gemeenten wordt een woning tijdelijk van de heffing vrijgesteld als er aantoonbare renovatiewerken lopende zijn (aannemingscontract, bouwaanvraag). De vrijstelling geldt doorgaans voor één à twee jaar.\n\nBezwaar indienen: als u vindt dat de registratie onterecht is, kunt u bezwaar aantekenen bij de gemeente. U moet wel bewijzen dat de woning effectief bewoond of in gebruik is — facturen van nutsverbruik, aangetekende correspondentie, getuigenissen.\n\nVergunningsproblemen: als de woning niet bewoonbaar verklaard is door de gemeente (onbewoonbaar- of ongeschiktheidverklaring), gelden andere regels. De heffing kan in dat geval tijdelijk worden opgeschort.\n\nVerkopen: de meest definitieve oplossing. Als de woning verkocht wordt, eindigt de leegstandsheffing automatisch op de datum van de notariële akte. Voor panden in slechte staat of met complexe situaties (erfenis, mede-eigendom) is verkopen aan een vastgoedopkoper vaak de snelste weg.",
+      },
+      {
+        heading: "Leegstaande woning verkopen: is dat mogelijk?",
+        body: "Ja, een leegstaand pand verkopen is volledig mogelijk — ook als het op het leegstandsregister staat. De registratie heeft geen invloed op de verkoopbaarheid van het pand. De koper neemt na de akte de eigendom over en de leegstandsheffing eindigt voor u op de datum van de akte.\n\nBelangrijk: bij de notariële akte wordt de koper geïnformeerd over de leegstandsregistratie. Als de koper ook plannen heeft om het pand leeg te laten, neemt hij de lopende heffing over. Kopers die een pand willen renoveren of verhuren zijn doorgaans niet bezorgd over de registratie.\n\nVoor eigenaars die snel van een leegstaand en problematisch pand af willen, is verkopen aan een vastgoedopkoper vaak de snelste en eenvoudigste optie: geen makelaarscomissie, geen keuringen voor u, en akte binnen twee à drie maanden. Wijkopenpanden.be koopt leegstaande panden in alle staten aan in de Antwerpse regio.",
+      },
+      {
+        heading: "Wat als u een erfenis heeft met een leegstaand pand?",
+        body: "Erfgenamen die een leegstaande woning erven, worden mede-eigenaar van het pand en zijn samen verantwoordelijk voor de leegstandsheffing. Dat leidt in de praktijk tot twee problemen:\n\nFinancieel: de heffing loopt maandelijks door, ook terwijl de erfgenamen onderling overleggen over wat er met het pand moet gebeuren. Iedere maand uitstel kost geld.\n\nJuridisch: bij mede-eigendom moeten álle erfgenamen akkoord gaan met een beslissing (verhuren, renoveren, verkopen). Bij meningsverschillen kan dit een traject van maanden of jaren worden — terwijl de heffing doorloopt.\n\nVoor erfgenamen in de Antwerpse regio biedt een snelle verkoop aan een opkoper een praktische uitweg: één notariële akte, de opbrengst verdeeld onder de erfgenamen, en de heffing eindigt definitief. Geen verdere discussies, geen maandelijkse kosten.",
+      },
+    ],
+    relatedArticles: ["verhuren-of-verkopen-antwerpen", "energie-renovatieplicht-vlaanderen-2026", "huis-verkopen-bij-erfenis"],
+    relatedSituations: ["huis-verkopen-bij-erfenis", "opknappand-verkopen", "pand-met-huurders-verkopen"],
+    faqs: [
+      {
+        question: "Hoe weet ik of mijn woning op het leegstandsregister staat?",
+        answer:
+          "U ontvangt een aangetekende brief van de gemeente wanneer uw woning wordt geregistreerd als leegstaand. U kunt ook zelf navragen bij de dienst Wonen van uw gemeente of via het Vlaams Leegstandsregister. Stond u al jaren op de lijst zonder dat u het wist, dan kunt u de heffing terugvorderbaar maken als u kunt bewijzen dat de registratie onterecht was.",
+      },
+      {
+        question: "Geldt de leegstandsheffing ook voor garages en niet-residentieel vastgoed?",
+        answer:
+          "Ja, in veel gemeenten geldt de leegstandsbelasting ook voor bedrijfspanden, kantoren en andere niet-residentiële gebouwen. De drempel en de berekening kunnen afwijken van die voor woningen. Raadpleeg het belastingreglement van uw specifieke gemeente.",
+      },
+      {
+        question: "Wat als ik de leegstandsheffing niet betaal?",
+        answer:
+          "Niet-betaling leidt tot dwangbevel en gerechtelijke invordering. De gemeente kan uiteindelijk ook overgaan tot het leggen van een hypotheek op het pand als zekerheid. De schuld blijft verbonden aan het pand en wordt bij een eventuele verkoop verrekend bij de notariële akte.",
+      },
+      {
+        question: "Kan ik de leegstandsheffing aftrekken van de belastingen?",
+        answer:
+          "Neen, de leegstandsheffing is een gemeentelijke boete en is niet fiscaal aftrekbaar als beroepskost of in de personenbelasting. Ze is een nettokost die volledig ten laste van de eigenaar valt.",
+      },
+      {
+        question: "Hoe lang na de verkoop ontvang ik nog een aanslagbiljet?",
+        answer:
+          "De heffing eindigt op de datum van de notariële akte. Het aanslagbiljet voor het lopende jaar wordt doorgaans pro rata berekend tot op de datum van de akte. Na de overdracht is de koper verantwoordelijk. Zorg dat dit duidelijk wordt vastgelegd in de verkoopakte.",
+      },
+    ],
+  },
 ];
 
 export function getArticle(slug: string): Article | undefined {
