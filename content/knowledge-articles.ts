@@ -1648,6 +1648,81 @@ export const articles: Article[] = [
       },
     ],
   },
+  {
+    slug: "erfbelasting-vlaanderen-2026",
+    title: "Erfbelasting op een woning in Vlaanderen: tarieven, berekening en vrijstellingen (2026)",
+    metaTitle: "Erfbelasting woning Vlaanderen 2026: tarieven & berekening | wijkopenpanden.be",
+    metaDescription:
+      "Hoeveel erfbelasting betaalt u op een woning in Vlaanderen? Nieuwe tarieven 2026, vrijstelling gezinswoning, berekening in rechte lijn en wanneer verkopen financieel slim is.",
+    publishedAt: "2026-06-14",
+    updatedAt: "2026-06-14",
+    intro:
+      "U erft een woning van uw ouders, partner of een familielid. Nog voor u beslist wat u met het pand doet — bewonen, verhuren of verkopen — krijgt u te maken met de erfbelasting. In Vlaanderen gelden sinds 2025–2026 nieuwe tarieven en hogere vrijstellingen. In dit artikel leggen we de volledige regeling uit: wie betaalt hoeveel, hoe wordt de belasting berekend, welke vrijstellingen bestaan er en wanneer is verkopen na een erfenis de verstandigste keuze?",
+    sections: [
+      {
+        heading: "Wat is erfbelasting en wanneer moet u ze betalen?",
+        body: "Erfbelasting (vroeger 'successierechten' genoemd) is een Vlaamse belasting die u betaalt op alles wat u erft — inclusief onroerend goed zoals woningen, appartementen, bouwgronden en garages. De belasting is verschuldigd op de netto-erfmassa: de waarde van de activa minus de schulden van de overledene.\n\nU moet de erfbelasting aangeven via een aangifte van nalatenschap, in te dienen bij de Vlaamse Belastingdienst (Vlabel). De aangifte moet in principe binnen vier maanden na het overlijden worden ingediend als het overlijden in België plaatsvond, of binnen vijf maanden als het in het buitenland was.\n\nDe belasting is betaalbaar binnen twee maanden na het versturen van het aanslagbiljet door Vlabel. Betaalt u niet op tijd, dan lopen er nalatigheidsintresten.",
+      },
+      {
+        heading: "Tarieven erfbelasting in rechte lijn (2026)",
+        body: "Rechte lijn betekent: kinderen, kleinkinderen, ouders en grootouders. Dit zijn de meest voorkomende erfgenamen bij een woning-erfenis. In Vlaanderen gelden voor 2026 de volgende tarieven per erfgenaam in rechte lijn:\n\n• Op de eerste schijf tot €50.000: 3%\n• Op de schijf van €50.000 tot €250.000: 9%\n• Op het bedrag boven €250.000: 27%\n\nBelangrijk: de tarieven worden toegepast op het aandeel van elke erfgenaam afzonderlijk, niet op de totale waarde van de nalatenschap. Als u samen met twee broers of zussen erft, wordt ieders aandeel apart belast.\n\nPraktisch voorbeeld: u erft als enig kind een woning met een fiscale waarde van €300.000 en er zijn geen schulden.\n\n• 3% op €50.000 = €1.500\n• 9% op €200.000 (van €50.000 tot €250.000) = €18.000\n• 27% op €50.000 (van €250.000 tot €300.000) = €13.500\n• Totaal: €33.000 erfbelasting\n\nHet maximumtarief van 27% in rechte lijn is verlaagd ten opzichte van het vroegere tarief van 30%, wat een besparing oplevert bij grotere nalatenschappen.",
+      },
+      {
+        heading: "Vrijstelling op de gezinswoning voor de langstlevende partner",
+        body: "De belangrijkste vrijstelling in het Vlaamse erfrecht is de volledige vrijstelling van erfbelasting op de gezinswoning voor de langstlevende partner. Dit geldt voor:\n\n• Gehuwde partners\n• Wettelijk samenwonenden\n• Feitelijk samenwonenden die minstens drie jaar ononderbroken op hetzelfde adres zijn ingeschreven\n\nDe voorwaarde is dat de woning de gezamenlijke hoofdverblijfplaats was op het moment van het overlijden. De langstlevende partner betaalt dus geen erfbelasting op het gedeelte van de woning dat hij of zij erft — ook niet als die woning meerdere honderdduizenden euro's waard is.\n\nDaarnaast geldt voor de langstlevende partner een algemene vrijstelling van €75.000 op de rest van de nalatenschap (roerende en andere onroerende goederen). Dit bedrag werd verhoogd van €50.000 naar €75.000 in de recentste Vlaamse hervorming.\n\nKinderen die de woning erven terwijl de langstlevende ouder er nog in woont, kunnen rekenen op een vermindering van de erfbelasting als de langstlevende ouder het vruchtgebruik van de woning behoudt.",
+      },
+      {
+        heading: "Tarieven voor andere erfgenamen: broers, zussen en verre familie",
+        body: "Voor erfgenamen buiten de rechte lijn gelden aanzienlijk hogere tarieven. Dit speelt bij de vererving van een woning aan broers, zussen, neven, nichten of niet-verwanten.\n\nBroers en zussen (zijlijn, eerste graad):\n• Tot €35.000: 25%\n• Van €35.000 tot €75.000: 30%\n• Van €75.000 tot €175.000: 40%\n• Boven €175.000: 55%\n\nOomsn, tantes, neven en nichten (zijlijn, verdere graden):\n• Tot €35.000: 35%\n• Van €35.000 tot €75.000: 50%\n• Boven €75.000: 65%\n\nNiet-verwanten (vrienden, samenwonenden zonder drie jaar inschrijving):\n• Tot €35.000: 35%\n• Van €35.000 tot €75.000: 50%\n• Boven €75.000: 65%\n\nVoor deze categorieën is de erfbelasting op een woning van gemiddelde waarde al snel substantieel. Een woning van €200.000 geërfd door een neef of nicht levert een erfbelasting op van meer dan €100.000.",
+      },
+      {
+        heading: "Hoe wordt de fiscale waarde van de woning bepaald?",
+        body: "De erfbelasting wordt niet berekend op de verkoopprijs maar op de fiscale waarde die de erfgenamen zelf aangeven in de aangifte van nalatenschap. In principe is dit de verkoopwaarde op datum van overlijden — de prijs die een derde bereid zou zijn te betalen.\n\nVlabel controleert de opgegeven waarden. Als de dienst vindt dat de waarde te laag is opgegeven, kan zij een tegenvoorstel doen. Erfgenamen kunnen dan akkoord gaan of bezwaar indienen.\n\nPraktische tips:\n• Laat de woning schatten door een erkend vastgoedexpert of notaris voor u de aangifte indient\n• Een te lage waardering is een fiscaal risico (boetes + intresten bij correctie achteraf)\n• Een realistische waardering is ook in uw belang als u snel wilt verkopen: als u de woning later verkoopt voor meer dan de aangegeven waarde, kan dat fiscale gevolgen hebben\n\nAls er meerdere erfgenamen zijn die de woning willen verkopen, is de uiteindelijke verkoopprijs doorgaans de sterkste indicatie van de reële waarde.",
+      },
+      {
+        heading: "Erfbelasting en daarna: bewonen, verhuren of verkopen?",
+        body: "Na betaling van de erfbelasting staat u voor een praktische keuze: wat doet u met de geërfde woning?\n\nBewonen: als u in de woning intrekt als hoofdverblijfplaats, vermijdt u verdere belastingen en kosten op korte termijn. Maar u neemt ook alle onderhoudsverplichtingen, onroerende voorheffing en eventuele renovatiekosten op u.\n\nVerhuren: een optie als u de woning wil bijhouden als investering. Maar in 2026 gelden strenge EPC-eisen voor verhuur. Een woning met label E of F verhuren wordt steeds moeilijker en kan leiden tot het verhuurverbod dat Vlaanderen invoert voor de slechts scorende woningen.\n\nVerkopen: vaak de meest praktische oplossing, zeker als er meerdere erfgenamen zijn die niet allemaal in de woning willen wonen of ze samen willen bijhouden. De opbrengst wordt verdeeld onder de erfgenamen na aftrek van eventuele schulden.\n\nBelangrijk fiscaal punt bij verkoop: als u de woning verkoopt binnen twee jaar na het overlijden, kunt u in bepaalde gevallen een teruggave van een deel van de erfbelasting bekomen als de verkoopprijs lager uitvalt dan de aangegeven fiscale waarde. Uw notaris kan u hierover informeren.",
+      },
+      {
+        heading: "Wanneer is snel verkopen na een erfenis financieel verstandig?",
+        body: "Er zijn specifieke situaties waarin snel verkopen — ook aan een vastgoedopkoper — financieel verstandiger is dan wachten:\n\nMeerdere erfgenamen met verschillende plannen: zolang de woning niet verkocht is, moeten alle mede-eigenaars het eens zijn over elke beslissing. Dat kan maanden duren. Ondertussen lopen de kosten door.\n\nWoning in slechte staat of met laag EPC-label: renoveren kost geld en tijd die erfgenamen niet altijd hebben of willen investeren in een woning die ze toch willen verkopen. Verkopen as-is aan een opkoper vermijdt die investering.\n\nLeegstandsheffing: als de woning leegstaat, begint na twaalf maanden de leegstandsheffing te lopen. Elke maand uitstel verhoogt de belastingdruk.\n\nErfbelasting financieren: erfgenamen moeten de erfbelasting betalen vóór ze de erfenis kunnen afronden. Als er geen spaargeld is, kan een snelle verkoop het benodigde kapitaal vrijmaken om de erfbelasting te voldoen.\n\nOnroerende voorheffing: deze loopt maandelijks door, ook als de woning leegstaat en niemand er van geniet.",
+      },
+    ],
+    relatedArticles: ["leegstandsheffing-antwerpen-2026", "verhuren-of-verkopen-antwerpen", "energie-renovatieplicht-vlaanderen-2026"],
+    relatedSituations: ["huis-verkopen-bij-erfenis", "verkopen-zonder-makelaar"],
+    faqs: [
+      {
+        question: "Moet ik erfbelasting betalen als ik de woning meteen verkoop na de erfenis?",
+        answer:
+          "Ja. De erfbelasting is verschuldigd op het moment van overlijden, ongeacht wat u daarna doet met de woning. Verkopen nadien heeft geen invloed op de te betalen erfbelasting, maar de verkoopopbrengst kan u helpen om de erfbelasting te financieren als u niet genoeg spaargeld heeft.",
+      },
+      {
+        question: "Wat als de erfgenamen de erfbelasting niet kunnen betalen?",
+        answer:
+          "Vlabel biedt in bepaalde gevallen de mogelijkheid tot gespreide betaling of uitstel. U kunt ook een bankfinanciering aanvragen (overbruggingskrediet) om de erfbelasting te betalen in afwachting van de verkoop van het pand. Bespreek de opties met uw notaris of een financieel adviseur.",
+      },
+      {
+        question: "Betaalt u opnieuw registratierechten als u de geërfde woning verkoopt?",
+        answer:
+          "Neen, u heeft als verkoper geen registratierechten te betalen. De registratierechten zijn ten laste van de koper. Als koper van een woning betaalt men in Vlaanderen 2% (eigen woning, domicilie) of 12% (investering). Als verkoper ontvangt u gewoon de netto-opbrengst na notariskosten.",
+      },
+      {
+        question: "Kunnen erfgenamen onderling afspreken dat één iemand de woning overneemt?",
+        answer:
+          "Ja. Eén erfgenaam kan de woning overnemen van de anderen door hen uit te kopen. Daarvoor wordt de waarde van de woning bepaald en betaalt de overnemer aan elke mede-erfgenaam hun aandeel. Dit verloopt via een notariële akte en is onderworpen aan verdeelrecht (in Vlaanderen momenteel 2,5%).",
+      },
+      {
+        question: "Wat is het verschil tussen erfbelasting en schenkbelasting?",
+        answer:
+          "Erfbelasting betaalt u als u iets erft na het overlijden van iemand. Schenkbelasting betaalt u als iemand u bij leven iets schenkt. De schenkbelasting op onroerend goed in rechte lijn bedraagt 3% (kleine schenkingen) tot 27% — vergelijkbaar met de erfbelasting, maar geschonken vóór overlijden kan fiscaal voordeliger zijn als het ruim op voorhand gepland wordt.",
+      },
+      {
+        question: "Geldt de vrijstelling voor de gezinswoning ook als de ouder naar een rusthuis verhuist?",
+        answer:
+          "Dat hangt af van de situatie. Als de ouder vrijwillig naar een rusthuis verhuist en de woning leegstaat, vervalt de vrijstelling in principe. Er bestaat wel een uitzondering als de ouder door medische redenen gedwongen is het huis te verlaten: de vrijstelling kan dan toch van toepassing zijn. Uw notaris kan beoordelen of u hierop aanspraak kunt maken.",
+      },
+    ],
+  },
 ];
 
 export function getArticle(slug: string): Article | undefined {
