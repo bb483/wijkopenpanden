@@ -68,8 +68,8 @@ export default function Footer() {
               <a href="tel:0492277076" className="px-5 py-2.5 rounded-full text-sm text-white/50 hover:text-white transition-colors duration-150 border border-white/15">
                 0492 27 70 76
               </a>
-              <a href="mailto:info@wijkopenpanden.be" className="px-5 py-2.5 rounded-full text-sm text-white/50 hover:text-white transition-colors duration-150 border border-white/15">
-                info@wijkopenpanden.be
+              <a href="mailto:bb@berabrick.be" className="px-5 py-2.5 rounded-full text-sm text-white/50 hover:text-white transition-colors duration-150 border border-white/15">
+                bb@berabrick.be
               </a>
             </div>
           </div>

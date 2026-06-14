@@ -11,12 +11,12 @@ import StickyCtaButton from "@/components/StickyCtaButton";
 export const metadata: Metadata = {
   title: "Contact — wijkopenpanden.be",
   description:
-    "Neem contact op met wijkopenpanden.be. Bel 0492 77 94 75, mail info@wijkopenpanden.be of vul het formulier in. Reactie binnen 2 uur, ook in het weekend.",
+    "Neem contact op met wijkopenpanden.be. Bel 0492 77 94 75, mail bb@berabrick.be of vul het formulier in. Reactie binnen 2 uur, ook in het weekend.",
   alternates: { canonical: "https://wijkopenpanden.be/contact" },
   openGraph: {
     title: "Contact — wijkopenpanden.be",
     description:
-      "Neem contact op met wijkopenpanden.be. Bel 0492 77 94 75, mail info@wijkopenpanden.be of vul het formulier in. Reactie binnen 2 uur, ook in het weekend.",
+      "Neem contact op met wijkopenpanden.be. Bel 0492 77 94 75, mail bb@berabrick.be of vul het formulier in. Reactie binnen 2 uur, ook in het weekend.",
     url: "https://wijkopenpanden.be/contact",
     siteName: "wijkopenpanden.be",
     locale: "nl_BE",
@@ -83,10 +83,10 @@ export default function Page() {
               <div>
                 <p className="text-xs text-accent font-medium tracking-widest uppercase mb-4">E-mail</p>
                 <a
-                  href="mailto:info@wijkopenpanden.be"
+                  href="mailto:bb@berabrick.be"
                   className="font-serif text-2xl text-ink hover:text-accent transition-colors"
                 >
-                  info@wijkopenpanden.be
+                  bb@berabrick.be
                 </a>
                 <p className="text-sm text-muted mt-4 leading-relaxed">
                   Stuur ons het adres van het pand, het type woning en een korte beschrijving van de staat.
