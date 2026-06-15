@@ -1724,94 +1724,88 @@ export const articles: Article[] = [
     ],
   },
   {
-    slug: "kosten-woning-verkopen-belgie",
-    title: "Hoeveel kost het om een woning te verkopen in België? Volledig overzicht (2026)",
-    metaTitle: "Kosten woning verkopen België 2026: volledig overzicht | wijkopenpanden.be",
+    slug: "hoelang-tijd-erfbelasting-betalen",
+    title: "Hoelang heb ik de tijd om erfbelasting te betalen in Vlaanderen?",
+    metaTitle: "Hoelang erfbelasting betalen Vlaanderen? Termijnen & uitstel 2026 | wijkopenpanden.be",
     metaDescription:
-      "Makelaar, notaris, EPC, keuringen, dubbele woonlast: wat kost het écht om een woning te verkopen in België? Alle kosten op een rij voor Antwerpen 2026.",
+      "Wanneer moet u erfbelasting betalen na een overlijden? Aangifte binnen 4 maanden, betaling binnen 2 maanden na aanslagbiljet. Wat bij te laat betalen en hoe vraagt u uitstel?",
     publishedAt: "2026-06-15",
     updatedAt: "2026-06-15",
     intro:
-      "Veel eigenaars onderschatten de totale kostprijs van een klassieke woningverkoop. Ze zien de verkoopprijs als pure opbrengst — maar voor de handtekening bij de notaris passeert er een hele reeks kosten. Makelaarscommissie, verplichte keuringen, notariskosten, maanden dubbele woonlast: het loopt sneller op dan u denkt. In dit artikel zetten we alle kosten op een rij, met concrete bedragen voor Antwerpen en omgeving in 2026.",
+      "Na een overlijden staat u als erfgenaam voor een reeks verplichtingen — en erfbelasting is er één van. Maar wanneer precies moet u die aangifte indienen? Wanneer moet u betalen? En wat gebeurt er als u de termijn mist? In Vlaanderen zijn de regels duidelijk maar niet altijd bekend. Dit artikel legt alle termijnen stap voor stap uit, inclusief de mogelijkheden voor uitstel en gespreide betaling.",
     sections: [
       {
-        heading: "Overzicht: de kosten bij een klassieke woningverkoop",
-        body: "Als verkoper betaalt u in principe geen registratierechten of notariskosten op de akte zelf — die zijn ten laste van de koper. Maar dat wil niet zeggen dat u geen kosten heeft. De kosten voor de verkoper bestaan uit:\n\n• Makelaarscommissie (als u via een makelaar verkoopt)\n• Verplichte attesten en keuringen\n• Eventuele herstellingen of opknapwerken\n• Dubbele woonlast tijdens de verkoopperiode\n• Notariskosten voor de opmaak van het compromis (soms)\n• Onroerende voorheffing en verzekering tijdens de wachttijd\n\nHieronder bespreken we elke post in detail.",
+        heading: "Stap 1: de aangifte van nalatenschap — termijn voor indiening",
+        body: "Vóór u erfbelasting kunt betalen, moet u een aangifte van nalatenschap indienen bij de Vlaamse Belastingdienst (Vlabel). Dit is een officieel document dat een overzicht geeft van alle bezittingen en schulden van de overledene.\n\nDe wettelijke termijn voor indiening hangt af van waar het overlijden plaatsvond:\n\n• Overlijden in België: aangifte indienen binnen 4 maanden na de datum van overlijden\n• Overlijden in een ander Europees land: binnen 5 maanden\n• Overlijden buiten Europa: binnen 6 maanden\n\nDe aangifte wordt normaal opgemaakt door de notaris die de nalatenschap behandelt. U hoeft dit als erfgenaam niet zelf te doen, maar u tekent wel mee voor de juistheid van de opgegeven waarden.\n\nBelangrijk: de indieningstermijn begint te lopen op de dag van het overlijden, niet op de dag van de begrafenis of de dag waarop u op de hoogte werd gebracht.",
       },
       {
-        heading: "Makelaarscommissie: de grootste kostenpost",
-        body: "Als u via een makelaar verkoopt, betaalt u commissie op de verkoopprijs. De gangbare tarieven in België liggen tussen 2% en 4% van de verkoopprijs, exclusief btw (21%).\n\nVoorbeeldberekening voor een rijhuis van €280.000:\n• Commissie 3% excl. btw = €8.400\n• Btw 21% = €1.764\n• Totale makelaarscommissie: €10.164\n\nBovenop de commissie komen doorgaans nog:\n• Professionele fotografie: €150–€400\n• Publicatie op Immoweb, Zimmo en andere portalen: €200–€600\n• Opmaak van een verkoopsbrochure: soms inbegrepen, soms apart\n\nNiet inbegrepen en steeds ten laste van de verkoper: het EPC-attest, de elektriciteitskeuring en de asbestinventaris. Die komen altijd bovenop de commissie.",
+        heading: "Stap 2: uitstel van de aangiftetermijn aanvragen",
+        body: "Als de vier maanden te krap zijn — bijvoorbeeld omdat de nalatenschap complex is, er onroerend goed in het buitenland zit of de erfgenamen het niet eens zijn — kunt u uitstel aanvragen bij Vlabel.\n\nHoe vraagt u uitstel aan?\nU stuurt een gemotiveerd verzoek naar Vlabel vóór het verstrijken van de oorspronkelijke termijn. Een eenvoudige brief of e-mail met de reden voor het uitstel volstaat in de meeste gevallen. Vlabel kent doorgaans een bijkomende termijn toe van twee maanden, soms meer bij complexe dossiers.\n\nVelabel is soepel bij:\n• Complexe nalatenschappen met veel activa of schulden\n• Onroerend goed waarvan de waarde nog niet bepaald is\n• Meningsverschillen tussen erfgenamen\n• Buitenlands vastgoed of rekeningen\n• Overlijden op het einde van het jaar (wat de termijn doet samenvallen met de drukke periode)\n\nVraag uitstel altijd tijdig aan — na het verstrijken van de termijn zonder aanvraag kunnen er al automatisch boetes beginnen lopen.",
       },
       {
-        heading: "Verplichte keuringen en attesten: €500 tot €1.500",
-        body: "Wie een woning verkoopt in Vlaanderen is wettelijk verplicht een aantal attesten voor te leggen. De kosten zijn altijd voor de verkoper, ongeacht of u via een makelaar of rechtstreeks verkoopt.\n\nEnergieprestatieattest (EPC): tussen €150 en €350, afhankelijk van de oppervlakte en de energiedeskundige. Geldig voor tien jaar.\n\nElektrische keuring: tussen €150 en €350. Verplicht voor woningen waarvan de elektrische installatie dateert van vóór 1 oktober 1981 of die niet conform verklaard werden — in de praktijk de overgrote meerderheid van de Antwerpse woningen.\n\nAsbestinventaris: tussen €250 en €600, afhankelijk van de oppervlakte. Verplicht voor alle woningen en toegankelijke gebouwen gebouwd vóór 2001. In Antwerpen is dit van toepassing op vrijwel alle rijhuizen, appartementen en herenhuizen.\n\nBodemattest: aangevraagd door de notaris, kostprijs €50–€100.\n\nStookolietankkeuring of -attest: €200–€500 als de woning een stookolietank heeft.\n\nTotaalkost keuringen voor een gemiddeld Antwerps rijhuis: €700 tot €1.400.",
+        heading: "Stap 3: het aanslagbiljet van Vlabel",
+        body: "Nadat u de aangifte heeft ingediend, verwerkt Vlabel de informatie en berekent de verschuldigde erfbelasting. U ontvangt vervolgens een aanslagbiljet — een officieel document met het te betalen bedrag, opgesplitst per erfgenaam.\n\nHoelang duurt de verwerking?\nVlabel heeft wettelijk twee jaar de tijd om een aanslagbiljet te sturen na de indiening van de aangifte. In de praktijk ontvangt u het biljet doorgaans binnen enkele maanden na indiening, maar bij complexe nalatenschappen of als Vlabel vragen heeft over de opgegeven waarden kan het langer duren.\n\nAls Vlabel vindt dat de waarde van een woning of andere activa te laag werd opgegeven, kan de dienst een tegenvoorstel doen. U kunt dan akkoord gaan of een bezwaar indienen.",
       },
       {
-        heading: "Notariskosten voor de verkoper",
-        body: "De notariskosten bij de verkoopakte zijn in België principieel ten laste van de koper. Als verkoper betaalt u normaal gezien geen notariskosten op de eigenlijke akte.\n\nMaar er zijn uitzonderingen:\n\nHypotheekdoorhal: als u nog een hypotheek heeft op de woning, moet die worden doorgehaald bij de akte. De doorhalingskosten zijn ten laste van de verkoper. Afhankelijk van het resterende saldo en de notaris bedragen deze €300 tot €800.\n\nOpmaak compromis: als de notaris van de verkoper het compromis opmaakt (wat niet altijd het geval is — soms doet de makelaar dit), kan er een kleine kost worden aangerekend.\n\nActualisering kadastrale gegevens of stedenbouwkundige opzoekingen: €50–€200.\n\nVoor een gemiddelde verkoop zonder hypotheekdoorhal betaalt de verkoper nauwelijks notariskosten. Met een hypotheekdoorhal rekent u best op €400–€800 extra.",
+        heading: "Stap 4: betaaltermijn na het aanslagbiljet",
+        body: "Eens u het aanslagbiljet heeft ontvangen, heeft u twee maanden de tijd om de erfbelasting te betalen. De vervaldatum staat duidelijk vermeld op het biljet.\n\nBetalingswijzen:\n• Bankoverschrijving op het rekeningnummer van Vlabel (vermeld op het biljet)\n• Domiciliëring (voor wie meerdere termijnen heeft)\n\nBetaalt u niet op tijd? Dan begint Vlabel automatisch nalatigheidsintresten aan te rekenen. Het tarief bedraagt momenteel 4% per jaar, berekend op het openstaande bedrag vanaf de dag na de vervaldatum.",
       },
       {
-        heading: "Dubbele woonlast: de verborgen kostenpost",
-        body: "Dit is de kostenpost die eigenaars het vaakst onderschatten. Als u uw woning verkoopt terwijl u al elders woont — of als u al een nieuwe woning heeft gekocht vóór de verkoop is afgerond — betaalt u een periode lang dubbele woonlasten.\n\nIn Antwerpen duurt een klassieke verkoop via makelaar gemiddeld drie tot zes maanden. Elke maand dat u twee woningen aanhoudt, betaalt u:\n• Hypotheekafbetaling of huur op de nieuwe woning\n• Onroerende voorheffing op de te verkopen woning (pro rata)\n• Verzekering leegstand (duurder dan een bewoond pand: €30–€80/maand extra)\n• Eventuele syndicus- of mede-eigendomskosten (bij appartementen)\n\nBij een verkoop die zes maanden loopt en een dubbele maandlast van €800, is dat €4.800 puur aan wachttijdkosten — kosten die niets opleveren.",
+        heading: "Gespreide betaling: wanneer en hoe?",
+        body: "Als de erfbelasting te hoog is om in één keer te betalen, kunt u bij Vlabel een afbetalingsplan aanvragen. Dit is niet automatisch — u moet het actief aanvragen en onderbouwen.\n\nVoorwaarden voor gespreide betaling:\n• U kunt aantonen dat onmiddellijke betaling financieel onmogelijk of zeer belastend is\n• U vraagt het aan vóór of kort na de vervaldatum op het aanslagbiljet\n• Vlabel kan bijkomende garanties vragen (bv. een hypotheekinschrijving op het geërfde pand)\n\nBelangrijke nuance: gespreide betaling schort de nalatigheidsintresten niet op. U betaalt intresten op het openstaande saldo zolang u nog niet volledig hebt betaald. Het afbetalingsplan vermijdt dwanginvordering, maar kost u extra op de lange termijn.\n\nAlternatief: als de erfenis een woning bevat en u de middelen niet heeft om de erfbelasting te betalen, is verkopen van de woning vaak de snelste oplossing. De notaris houdt de verschuldigde erfbelasting in bij de akte en betaalt Vlabel rechtstreeks.",
       },
       {
-        heading: "Renovaties en herstellingen vóór de verkoop",
-        body: "Makelaars adviseren regelmatig om kleine of grote ingrepen te doen vóór de woning op de markt komt: een likje verf, nieuwe vloerbedekking, een opgeknapte badkamer, een bijgewerkte tuin. Het argument is dat dit de verkoopprijs verhoogt.\n\nIn de praktijk is de return on investment van pre-sale renovaties onzeker. Studies tonen aan dat eigenaars zelden de volledige renovatiekost terugverdienen via een hogere verkoopprijs. Bovendien vertraagt een renovatie de verkoop: u kunt pas op de markt komen als de werken klaar zijn.\n\nPraktische kosten bij een gemiddelde 'verkoopklaar maken':\n• Schilderwerk (binnenin): €1.500–€4.000\n• Kleine herstellingen (kranen, deuren, afwerking): €500–€1.500\n• Tuinaanleg of opruiming: €300–€1.000\n• Home staging (professionele inrichting voor foto's): €500–€2.000\n\nNiet elke eigenaar doet dit — maar wie het doet, telt hier gemakkelijk €3.000 tot €8.000 bij de verkoopkosten.",
+        heading: "Wat als u te laat betaalt of de aangifte niet indient?",
+        body: "Te late aangifte:\nDient u de aangifte niet in binnen de wettelijke termijn (en heeft u geen uitstel aangevraagd), dan riskeert u een boete van €25 tot €250, afhankelijk van de duur van de vertraging. Bij opzettelijke niet-aangifte zijn de sancties zwaarder.\n\nVlabel stuurt bij laattijdige aangifte eerst een aanmaning. Bij aanhoudende niet-naleving kan Vlabel een ambtshalve aanslag vestigen op basis van een geschatte waarde — wat bijna altijd hoger uitvalt dan de werkelijke waarde.\n\nTe late betaling:\nNalatigheidsintresten lopen automatisch vanaf de dag na de vervaldatum op het aanslagbiljet. Bij langdurige niet-betaling kan Vlabel overgaan tot dwanginvordering via een gerechtsdeurwaarder en — in extremis — de uitwinning van het geërfde onroerend goed.",
       },
       {
-        heading: "Totaaloverzicht kosten: klassieke verkoop vs. verkoop aan opkoper",
-        body: "Onderstaande tabel vergelijkt de kostenposten bij een klassieke verkoop via makelaar tegenover een rechtstreekse verkoop aan wijkopenpanden.be.",
+        heading: "Praktische tijdlijn na een overlijden",
+        body: "Ter verduidelijking: een schematisch overzicht van de stappen en termijnen.",
         table: {
-          headers: ["Kostenpost", "Via makelaar", "Via wijkopenpanden.be"],
+          headers: ["Stap", "Termijn", "Door wie"],
           rows: [
-            ["Makelaarscommissie (incl. btw)", "€8.000 – €15.000", "Geen"],
-            ["EPC-attest", "€150 – €350", "Geen — wij regelen dit"],
-            ["Elektriciteitskeuring", "€150 – €350", "Geen — wij regelen dit"],
-            ["Asbestinventaris", "€250 – €600", "Geen — wij regelen dit"],
-            ["Hypotheekdoorhal (indien van toepassing)", "€300 – €800", "Idem — notariskosten gelijk"],
-            ["Dubbele woonlast (3–6 maanden)", "€2.000 – €6.000", "Geen — akte op uw timing"],
-            ["Pre-sale renovaties (optioneel)", "€0 – €8.000", "Geen — pand as-is"],
-            ["Totaal bijkomende kosten (schatting)", "€10.000 – €30.000", "Geen"],
+            ["Overlijden vastgesteld", "Dag 0", "/"],
+            ["Aangifte nalatenschap indienen", "Binnen 4 maanden (BE)", "Notaris + erfgenamen"],
+            ["Uitstel aanvragen (indien nodig)", "Vóór dag 120", "Erfgenamen via Vlabel"],
+            ["Vlabel verwerkt aangifte en stuurt aanslagbiljet", "Enkele weken tot maanden", "Vlabel"],
+            ["Erfbelasting betalen", "Binnen 2 maanden na aanslagbiljet", "Erfgenamen"],
+            ["Afbetalingsplan aanvragen (indien nodig)", "Vóór of bij vervaldatum", "Erfgenamen via Vlabel"],
           ],
         },
       },
-      {
-        heading: "Wanneer is een lagere verkoopprijs toch voordeliger?",
-        body: "Een opkoper biedt doorgaans minder dan de theoretische marktprijs. Maar 'minder' is relatief als u de bijkomende kosten meeneemt.\n\nVoorbeeldberekening:\nMarktprijs woning: €250.000\nBod opkoper: €215.000 (14% onder marktprijs)\n\nBij verkoop via makelaar:\n• Marktprijs: €250.000\n• Min makelaarscommissie (3% + btw): –€9.075\n• Min keuringen: –€900\n• Min dubbele woonlast (4 maanden × €700): –€2.800\n• Min pre-sale schilderwerk: –€2.500\n• Netto-opbrengst: ±€234.725\n\nBij verkoop aan opkoper:\n• Bod opkoper: €215.000\n• Geen bijkomende kosten\n• Netto-opbrengst: €215.000\n\nHet nettoverschil bedraagt in dit voorbeeld €19.725 — niet €35.000. In ruil voor dat verschil heeft de eigenaar bij verkoop via makelaar maanden gewacht, zelf alles geregeld en het risico gedragen dat de verkoop misloopt.\n\nDit is een vereenvoudigd voorbeeld. De werkelijke cijfers hangen af van de woning, de makelaar en de marktomstandigheden. Maar het illustreert waarom het bruto verschil in bod misleidend is.",
-      },
     ],
-    relatedArticles: ["commissie-makelaar-belgie", "keuringen-bij-verkoop-woning", "hoelang-duurt-huis-verkopen-belgie"],
-    relatedSituations: ["verkopen-zonder-makelaar", "opknappand-verkopen"],
+    relatedArticles: ["erfbelasting-vlaanderen-2026", "huis-verkopen-bij-erfenis", "leegstandsheffing-antwerpen-2026"],
+    relatedSituations: ["huis-verkopen-bij-erfenis", "verkopen-zonder-makelaar"],
     faqs: [
       {
-        question: "Betaalt de verkoper notariskosten bij de verkoop van een woning in België?",
+        question: "Hoelang heb ik de tijd om erfbelasting te betalen na een overlijden in België?",
         answer:
-          "In principe zijn de notariskosten bij de verkoopakte ten laste van de koper. Als verkoper betaalt u enkel notariskosten als er een hypotheek moet worden doorgehaald (€300–€800) of als uw eigen notaris bijkomende opzoekingen doet. De grote notarisfactuur ontvangt de koper, niet u.",
+          "U heeft twee maanden de tijd om te betalen, te rekenen vanaf de datum op het aanslagbiljet van Vlabel. Vóór u dat biljet ontvangt, moet u eerst de aangifte van nalatenschap indienen — dat moet binnen vier maanden na het overlijden (als het overlijden in België plaatsvond).",
       },
       {
-        question: "Zijn de keuringskosten verplicht voor de verkoper?",
+        question: "Wat als ik de aangifte van nalatenschap te laat indien?",
         answer:
-          "Ja. Het EPC-attest, de elektriciteitskeuring en de asbestinventaris zijn wettelijk verplicht en steeds ten laste van de verkoper — ongeacht of u via een makelaar of rechtstreeks verkoopt. U moet deze attesten beschikbaar hebben vóór het ondertekenen van het compromis.",
+          "Vlabel stuurt eerst een aanmaning. Blijft de aangifte uit, dan kan Vlabel een ambtshalve aanslag vestigen op basis van een geschatte waarde — doorgaans hoger dan de werkelijke waarde. Boetes bedragen €25 tot €250 afhankelijk van de vertraging. Vraag tijdig uitstel aan als vier maanden te krap is.",
       },
       {
-        question: "Kan ik de makelaarscommissie vermijden door zelf te verkopen?",
+        question: "Kan ik uitstel krijgen voor de betaling van erfbelasting?",
         answer:
-          "Ja. U kunt uw woning zelf adverteren op Immoweb of Zimmo zonder makelaar. U bespaart de commissie maar neemt alle taken op u: bezichtigingen organiseren, onderhandelen, compromis opstellen, dossier opvolgen. Dat kost tijd en juridische kennis. Alternatief is verkopen aan een opkoper, waarbij u ook geen commissie betaalt en het hele traject uitbesteedt.",
+          "Ja. U kunt bij Vlabel een afbetalingsplan aanvragen als betaling in één keer financieel onmogelijk is. Vlabel kan bijkomende garanties vragen. Let op: nalatigheidsintresten (4% per jaar) blijven lopen op het openstaande saldo, ook bij een afbetalingsplan.",
       },
       {
-        question: "Hoeveel tijd kost een klassieke woningverkoop gemiddeld in Antwerpen?",
+        question: "Wat zijn de nalatigheidsintresten bij laattijdige betaling?",
         answer:
-          "Gemiddeld drie tot zes maanden van de eerste bezichtiging tot de notariële akte. In een actieve markt kan dat sneller gaan, maar bij panden in slechte staat, met EPC-problemen of bij complexe dossiers (erfenis, mede-eigendom) loopt het regelmatig langer. Elke extra maand betekent extra kosten.",
+          "Vlabel rekent momenteel 4% per jaar aan op het openstaande bedrag, berekend vanaf de dag na de vervaldatum op het aanslagbiljet. Bij een erfbelasting van €20.000 die één jaar te laat wordt betaald, loopt dat op tot €800 extra.",
       },
       {
-        question: "Wat als de verkoop via makelaar misloopt?",
+        question: "Kan de verkoop van de geërfde woning de erfbelasting betalen?",
         answer:
-          "Dan heeft u de keuringskosten, eventuele advertentiekosten en de maanden dubbele woonlast al betaald — zonder opbrengst. Bij een exclusiviteitscontract kan er ook een vergoeding worden gevraagd als u de overeenkomst voortijdig beëindigt. Lees het makelaarcontract goed na, met name de clausules over opzegging en annulatie.",
+          "Ja. Als u de woning verkoopt, houdt de notaris de verschuldigde erfbelasting in bij de akte en betaalt Vlabel rechtstreeks. Dit is een veel gebruikte oplossing als erfgenamen niet de liquide middelen hebben om de erfbelasting vooraf te betalen. Een snelle verkoop aan een vastgoedopkoper kan dit proces aanzienlijk versnellen.",
       },
       {
-        question: "Zijn er kosten als ik mijn woning verkoop aan een vastgoedopkoper?",
+        question: "Betalen alle erfgenamen erfbelasting apart of samen?",
         answer:
-          "Neen. Wij rekenen geen commissie, geen dossierkosten en geen keuringskosten aan. De enige kosten die u als verkoper altijd heeft, zijn de notariskosten voor een eventuele hypotheekdoorhal — maar die zijn gelijk bij elke verkoop, via makelaar of opkoper. Alle andere bijkomende kosten (EPC, keuringen, attesten) nemen wij op ons.",
+          "Elk erfgenaam ontvangt een afzonderlijk aanslagbiljet voor zijn of haar aandeel in de nalatenschap. De tarieven worden berekend op ieders individueel aandeel. Erfgenamen betalen dus apart — niet gezamenlijk op het totale nalatenschapsbedrag.",
       },
     ],
   },
