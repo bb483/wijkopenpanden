@@ -1809,6 +1809,81 @@ export const articles: Article[] = [
       },
     ],
   },
+  {
+    slug: "ontbrekend-busnummer-onvergund-appartement-antwerpen",
+    title: "Ontbrekend busnummer en onvergund appartement in Antwerpen: wat nu?",
+    metaTitle: "Ontbrekend busnummer appartement Antwerpen: EPC, verkoop & oplossing 2026",
+    metaDescription:
+      "Geen busnummer = geen EPC = geen verkoop. Ontdek waarom busnummers ontbreken in Antwerp, de tijdelijke oplossing via VEKA en wanneer verkopen toch mogelijk is zonder regularisatie.",
+    publishedAt: "2026-06-15",
+    updatedAt: "2026-06-15",
+    intro:
+      "Veel eigenaars van appartementen in Antwerpen lopen tegen een onverwacht probleem aan: hun woning heeft geen officieel busnummer in het adressenregister. Zonder busnummer kan er geen EPC-attest worden opgemaakt. Zonder EPC is verkopen, schenken of nieuw verhuren wettelijk onmogelijk. Hoe ontstaat dit probleem, wat zijn de gevolgen en welke oplossingen bestaan er in Antwerpen? In dit artikel leggen we alles uit — inclusief de specifieke regeling die Antwerpen toepast voor panden van vóór 1979.",
+    sections: [
+      {
+        heading: "Wat is een busnummer en waarom is het verplicht?",
+        body: "Een busnummer is de officiële aanduiding van een individuele wooneenheid binnen een gebouw met meerdere units. Op uw adres staat het dan als: 'Kerkstraat 12 bus 3'. In het Vlaamse adressenregister (CRAB/BASISREGISTERS) is elk vergund appartement gelinkt aan zo'n busnummer.\n\nDie koppeling is niet louter administratief. Het busnummer is de sleutel tot een reeks verplichte attesten:\n\n• Het EPC-attest: een energiedeskundige kan geen EPC opmaken voor een adres dat niet bestaat in het adressenregister. Zonder EPC mag u de woning niet te koop stellen, niet schenken en niet nieuw verhuren.\n• De elektriciteitskeuring: ook die is gekoppeld aan een geldig adres.\n• De asbestinventaris: idem.\n\nHet ontbreken van een busnummer blokkeert dus de volledige verkoopprocedure — nog vóór u met een makelaar of notaris contact heeft opgenomen.",
+      },
+      {
+        heading: "Waarom ontbreekt een busnummer in Antwerpen?",
+        body: "De meest voorkomende oorzaak is een ontbrekende of onvolledige stedenbouwkundige vergunning. Busnummers worden in het adressenregister opgenomen op basis van vergunde wooneenheden. Is een appartement nooit officieel vergund, dan bestaat het ook niet in het register — en heeft het dus geen busnummer.\n\nDit probleem is bijzonder wijdverspreid in Antwerpen. De stad telt duizenden rijhuizen en panden die in de loop van de twintigste eeuw — vaak zonder vergunning — werden opgesplitst in meerdere appartementen. In wijken als Borgerhout, Berchem, Deurne en de Antwerpse binnenstad zijn panden met 2 tot 4 appartementen waarvan slechts één of geen enkele officieel vergund is, geen uitzondering maar de regel.\n\nConcreet ziet de problematiek er zo uit:\n• Het pand heeft een bouwvergunning voor één woning, maar bestaat feitelijk uit drie appartementen\n• De appartementen zijn kadastraal opgesplitst en er bestaan notariële aktes per eenheid — maar er is nooit een omgevingsvergunning aangevraagd voor de opsplitsing\n• Resultaat: twee van de drie appartementen hebben geen busnummer en zijn administratief 'onzichtbaar'",
+      },
+      {
+        heading: "De koppeling tussen onvergunde panden en ontbrekende busnummers",
+        body: "Een onvergund pand en een ontbrekend busnummer zijn vaak twee kanten van dezelfde medaille. Wanneer er een discrepantie bestaat tussen het aantal vergunde wooneenheden en het werkelijk aantal appartementen in een gebouw, spreekt men van een bouwovertreding of stedenbouwkundige overtreding.\n\nDie overtreding heeft directe gevolgen voor het adressenregister:\n• Zonder geldige vergunning voor een wooneenheid kan de gemeente geen officieel busnummer toekennen\n• Zelfs als er een notariële akte bestaat voor het appartement — wat kadastrale registratie mogelijk maakt — geeft dat geen recht op een busnummer\n• De energiedeskundige die een EPC wil opmaken, stuit op een leeg veld in het adressenregister en kan niet verder\n\nSinds april 2024 is de verjaringstermijn voor stedenbouwkundige overtredingen in Vlaanderen verlengd van 5 naar 10 jaar. Dit betekent dat recente overtredingen minder snel verjaren. Verjaring geeft overigens geen recht op een busnummer — het schort enkel de handhaving op.",
+      },
+      {
+        heading: "De specifieke Antwerpse oplossing: tijdelijk busnummer via bevolkingsregister",
+        body: "Antwerpen heeft een pragmatische regeling ontwikkeld voor panden waarvan de appartementen aantoonbaar al bestonden vóór november 1979.\n\nHoe werkt dat?\nAls de eigenaar kan aantonen — via inschrijvingen in het historische bevolkingsregister — dat de wooneenheid al bestond vóór november 1979, kan de stad Antwerpen een tijdelijk busnummer toekennen. Dit tijdelijke busnummer laat toe om een EPC op te maken en de woning opnieuw verkoopbaar of verhuurbaar te maken.\n\nBelangrijke nuances:\n• Het tijdelijke busnummer lost de onderliggende stedenbouwkundige overtreding niet op. Het is een administratieve overbrugging, geen regularisatie.\n• De overtreding blijft bestaan en moet vermeld worden in het maatregelenregister (verplicht bij verkoop in Antwerpen sinds april 2026)\n• Heeft u geen historisch bewijs van vóór 1979, dan volstaat deze route niet en moet u regulariseren\n\nHoe vraagt u een tijdelijk busnummer aan in Antwerpen?\nU neemt contact op met de dienst Wonen of de dienst Huisnummering van de stad Antwerpen. Breng historisch bewijs mee: oude huurcontracten, bevolkingsregistratiebewijzen, foto's met datum of correspondentie die de bewoning vóór 1979 aantonen.",
+      },
+      {
+        heading: "De route via VEKA: wat als de energiedeskundige vastloopt?",
+        body: "Als een energiedeskundige vaststelt dat een busnummer ontbreekt, kan hij het EPC niet opmaken. De procedure is dan als volgt:\n\n1. De eigenaar meldt het ontbrekende busnummer aan het Vlaams Energie- en Klimaatagentschap (VEKA)\n2. VEKA contacteert de betrokken stad of gemeente om het adres na te laten kijken\n3. De gemeente onderzoekt of het busnummer administratief toegekend kan worden\n4. Als dat mogelijk is (bv. via de Antwerpse bevolkingsregisterroute), wordt het busnummer aangemaakt\n5. De energiedeskundige kan daarna alsnog het EPC opmaken\n\nDeze procedure duurt in de praktijk enkele weken tot enkele maanden, afhankelijk van de werkdruk bij de gemeente en de beschikbaarheid van historisch bewijsmateriaal. Het is dus geen snelle oplossing als u de woning snel wil verkopen.",
+      },
+      {
+        heading: "Regularisatie: de structurele oplossing",
+        body: "Als het tijdelijke busnummer via het bevolkingsregister niet mogelijk is — omdat de wooneenheid niet aantoonbaar dateert van vóór 1979 of omdat de gemeente niet akkoord gaat — dan is regularisatie de enige structurele oplossing.\n\nRegularisatie houdt in dat u alsnog een omgevingsvergunning aanvraagt voor de bestaande toestand. U laat een architect of stedenbouwkundige de plannen opmaken van de bestaande opsplitsing en dient een vergunningsaanvraag in bij de gemeente.\n\nNiet elke situatie is regulariseerbaar:\n• Als de opsplitsing strijdig is met het geldende bestemmingsplan (bv. zone voor eengezinswoningen)\n• Als de woning niet voldoet aan de minimumnormen voor bewoonbaarheid (oppervlakte, daglicht, ventilatie)\n• Als er bezwaren zijn van buren of de gemeente principieel weigert\n\nKosten van regularisatie:\n• Architect of stedenbouwkundige: €500–€2.000 afhankelijk van de complexiteit\n• Gemeentelijke dossiertaksen\n• Eventuele aanpassingswerken om aan normen te voldoen\n• Tijdsduur: 3 tot 12 maanden\n\nRegularisatie is niet altijd haalbaar en altijd tijdrovend. Voor eigenaars die snel willen verkopen is het zelden de meest praktische weg.",
+      },
+      {
+        heading: "Verkopen zonder regularisatie: kan dat?",
+        body: "Ja — maar enkel als het busnummer administratief beschikbaar is (tijdelijk of definitief) zodat het EPC kan worden opgemaakt. Zonder EPC is verkopen wettelijk niet mogelijk.\n\nAls het busnummer beschikbaar is maar de onderliggende overtreding niet geregulariseerd, gelden de regels van de stedenbouwkundige overtreding bij verkoop:\n\n• De overtreding moet worden vermeld in het maatregelenregister (verplicht in Antwerpen sinds april 2026)\n• De koper wordt bij de akte geïnformeerd over de overtreding\n• De koper neemt de overtreding en de eventuele handhavingsrisico's over\n\nVoor particuliere kopers die de woning zelf willen bewonen, is een onvergunde wooneenheid een risico. Voor professionele vastgoedopkopers die zelf regulariseren of voor eigen gebruik verbouwen, is het een courante situatie.\n\nWijkopenpanden.be koopt panden met busnummer-problematiek en stedenbouwkundige overtredingen aan in de Antwerpse regio. Wij nemen de administratieve situatie volledig op ons — u verkoopt as-is, zonder voorafgaande regularisatie of extra attesten.",
+      },
+    ],
+    relatedArticles: ["stedenbouwkundige-overtreding-woning-verkopen", "keuringen-bij-verkoop-woning", "leegstandsheffing-antwerpen-2026"],
+    relatedSituations: ["opknappand-verkopen", "verkopen-zonder-makelaar"],
+    faqs: [
+      {
+        question: "Kan ik mijn appartement verkopen als het geen busnummer heeft?",
+        answer:
+          "Niet direct. Zonder busnummer kan er geen EPC worden opgemaakt, en zonder EPC mag u de woning wettelijk niet te koop stellen. U moet eerst een busnummer laten toekennen — via de tijdelijke route (Antwerpen, bewoning aantoonbaar vóór 1979), via VEKA, of via regularisatie — alvorens de verkoop te starten.",
+      },
+      {
+        question: "Hoe vraag ik een busnummer aan in Antwerpen?",
+        answer:
+          "U neemt contact op met de dienst Wonen of de dienst Huisnummering van de stad Antwerpen. Als de wooneenheid aantoonbaar bestaat since november 1979 (via historisch bevolkingsregister), kan Antwerpen een tijdelijk busnummer toekennen. Voor recentere situaties of gevallen zonder historisch bewijs is regularisatie via een omgevingsvergunning nodig.",
+      },
+      {
+        question: "Wat is het verschil tussen een tijdelijk en een definitief busnummer?",
+        answer:
+          "Een tijdelijk busnummer laat toe dat er een EPC wordt opgemaakt en dat de woning verkocht of verhuurd kan worden. Maar het lost de onderliggende stedenbouwkundige overtreding niet op. Een definitief busnummer wordt toegekend na een goedgekeurde omgevingsvergunning (regularisatie). Enkel dan is de situatie volledig gelegaliseerd.",
+      },
+      {
+        question: "Moet ik de stedenbouwkundige overtreding vermelden bij de verkoop?",
+        answer:
+          "Ja. In Antwerpen is het maatregelenregister verplicht bij verkoop (sinds april 2026). Overtredingen moeten worden opgenomen en de koper wordt bij de akte geïnformeerd. Verzwijgen van een bekende overtreding kan leiden tot aansprakelijkheid achteraf.",
+      },
+      {
+        question: "Loopt de verjaringstermijn voor een onvergund appartement nog?",
+        answer:
+          "Sinds april 2024 bedraagt de verjaringstermijn voor stedenbouwkundige overtredingen in Vlaanderen 10 jaar (verlengd van 5 jaar). Een overtreding van vóór 2016 is dus mogelijk reeds verjaard. Maar verjaring geeft geen recht op een busnummer — daarvoor blijft regularisatie of de Antwerpse tijdelijke route nodig.",
+      },
+      {
+        question: "Koopt wijkopenpanden.be appartementen met ontbrekend busnummer?",
+        answer:
+          "Ja. Wij kopen panden aan in alle administratieve situaties, inclusief onvergunde wooneenheden en panden zonder officieel busnummer. Wij regelen de verdere administratieve afhandeling zelf na de aankoop. U verkoopt as-is, zonder dat u zelf moet regulariseren of attesten moet verzamelen.",
+      },
+    ],
+  },
 ];
 
 export function getArticle(slug: string): Article | undefined {
