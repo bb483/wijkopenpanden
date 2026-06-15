@@ -1723,6 +1723,98 @@ export const articles: Article[] = [
       },
     ],
   },
+  {
+    slug: "kosten-woning-verkopen-belgie",
+    title: "Hoeveel kost het om een woning te verkopen in België? Volledig overzicht (2026)",
+    metaTitle: "Kosten woning verkopen België 2026: volledig overzicht | wijkopenpanden.be",
+    metaDescription:
+      "Makelaar, notaris, EPC, keuringen, dubbele woonlast: wat kost het écht om een woning te verkopen in België? Alle kosten op een rij voor Antwerpen 2026.",
+    publishedAt: "2026-06-15",
+    updatedAt: "2026-06-15",
+    intro:
+      "Veel eigenaars onderschatten de totale kostprijs van een klassieke woningverkoop. Ze zien de verkoopprijs als pure opbrengst — maar voor de handtekening bij de notaris passeert er een hele reeks kosten. Makelaarscommissie, verplichte keuringen, notariskosten, maanden dubbele woonlast: het loopt sneller op dan u denkt. In dit artikel zetten we alle kosten op een rij, met concrete bedragen voor Antwerpen en omgeving in 2026.",
+    sections: [
+      {
+        heading: "Overzicht: de kosten bij een klassieke woningverkoop",
+        body: "Als verkoper betaalt u in principe geen registratierechten of notariskosten op de akte zelf — die zijn ten laste van de koper. Maar dat wil niet zeggen dat u geen kosten heeft. De kosten voor de verkoper bestaan uit:\n\n• Makelaarscommissie (als u via een makelaar verkoopt)\n• Verplichte attesten en keuringen\n• Eventuele herstellingen of opknapwerken\n• Dubbele woonlast tijdens de verkoopperiode\n• Notariskosten voor de opmaak van het compromis (soms)\n• Onroerende voorheffing en verzekering tijdens de wachttijd\n\nHieronder bespreken we elke post in detail.",
+      },
+      {
+        heading: "Makelaarscommissie: de grootste kostenpost",
+        body: "Als u via een makelaar verkoopt, betaalt u commissie op de verkoopprijs. De gangbare tarieven in België liggen tussen 2% en 4% van de verkoopprijs, exclusief btw (21%).\n\nVoorbeeldberekening voor een rijhuis van €280.000:\n• Commissie 3% excl. btw = €8.400\n• Btw 21% = €1.764\n• Totale makelaarscommissie: €10.164\n\nBovenop de commissie komen doorgaans nog:\n• Professionele fotografie: €150–€400\n• Publicatie op Immoweb, Zimmo en andere portalen: €200–€600\n• Opmaak van een verkoopsbrochure: soms inbegrepen, soms apart\n\nNiet inbegrepen en steeds ten laste van de verkoper: het EPC-attest, de elektriciteitskeuring en de asbestinventaris. Die komen altijd bovenop de commissie.",
+      },
+      {
+        heading: "Verplichte keuringen en attesten: €500 tot €1.500",
+        body: "Wie een woning verkoopt in Vlaanderen is wettelijk verplicht een aantal attesten voor te leggen. De kosten zijn altijd voor de verkoper, ongeacht of u via een makelaar of rechtstreeks verkoopt.\n\nEnergieprestatieattest (EPC): tussen €150 en €350, afhankelijk van de oppervlakte en de energiedeskundige. Geldig voor tien jaar.\n\nElektrische keuring: tussen €150 en €350. Verplicht voor woningen waarvan de elektrische installatie dateert van vóór 1 oktober 1981 of die niet conform verklaard werden — in de praktijk de overgrote meerderheid van de Antwerpse woningen.\n\nAsbestinventaris: tussen €250 en €600, afhankelijk van de oppervlakte. Verplicht voor alle woningen en toegankelijke gebouwen gebouwd vóór 2001. In Antwerpen is dit van toepassing op vrijwel alle rijhuizen, appartementen en herenhuizen.\n\nBodemattest: aangevraagd door de notaris, kostprijs €50–€100.\n\nStookolietankkeuring of -attest: €200–€500 als de woning een stookolietank heeft.\n\nTotaalkost keuringen voor een gemiddeld Antwerps rijhuis: €700 tot €1.400.",
+      },
+      {
+        heading: "Notariskosten voor de verkoper",
+        body: "De notariskosten bij de verkoopakte zijn in België principieel ten laste van de koper. Als verkoper betaalt u normaal gezien geen notariskosten op de eigenlijke akte.\n\nMaar er zijn uitzonderingen:\n\nHypotheekdoorhal: als u nog een hypotheek heeft op de woning, moet die worden doorgehaald bij de akte. De doorhalingskosten zijn ten laste van de verkoper. Afhankelijk van het resterende saldo en de notaris bedragen deze €300 tot €800.\n\nOpmaak compromis: als de notaris van de verkoper het compromis opmaakt (wat niet altijd het geval is — soms doet de makelaar dit), kan er een kleine kost worden aangerekend.\n\nActualisering kadastrale gegevens of stedenbouwkundige opzoekingen: €50–€200.\n\nVoor een gemiddelde verkoop zonder hypotheekdoorhal betaalt de verkoper nauwelijks notariskosten. Met een hypotheekdoorhal rekent u best op €400–€800 extra.",
+      },
+      {
+        heading: "Dubbele woonlast: de verborgen kostenpost",
+        body: "Dit is de kostenpost die eigenaars het vaakst onderschatten. Als u uw woning verkoopt terwijl u al elders woont — of als u al een nieuwe woning heeft gekocht vóór de verkoop is afgerond — betaalt u een periode lang dubbele woonlasten.\n\nIn Antwerpen duurt een klassieke verkoop via makelaar gemiddeld drie tot zes maanden. Elke maand dat u twee woningen aanhoudt, betaalt u:\n• Hypotheekafbetaling of huur op de nieuwe woning\n• Onroerende voorheffing op de te verkopen woning (pro rata)\n• Verzekering leegstand (duurder dan een bewoond pand: €30–€80/maand extra)\n• Eventuele syndicus- of mede-eigendomskosten (bij appartementen)\n\nBij een verkoop die zes maanden loopt en een dubbele maandlast van €800, is dat €4.800 puur aan wachttijdkosten — kosten die niets opleveren.",
+      },
+      {
+        heading: "Renovaties en herstellingen vóór de verkoop",
+        body: "Makelaars adviseren regelmatig om kleine of grote ingrepen te doen vóór de woning op de markt komt: een likje verf, nieuwe vloerbedekking, een opgeknapte badkamer, een bijgewerkte tuin. Het argument is dat dit de verkoopprijs verhoogt.\n\nIn de praktijk is de return on investment van pre-sale renovaties onzeker. Studies tonen aan dat eigenaars zelden de volledige renovatiekost terugverdienen via een hogere verkoopprijs. Bovendien vertraagt een renovatie de verkoop: u kunt pas op de markt komen als de werken klaar zijn.\n\nPraktische kosten bij een gemiddelde 'verkoopklaar maken':\n• Schilderwerk (binnenin): €1.500–€4.000\n• Kleine herstellingen (kranen, deuren, afwerking): €500–€1.500\n• Tuinaanleg of opruiming: €300–€1.000\n• Home staging (professionele inrichting voor foto's): €500–€2.000\n\nNiet elke eigenaar doet dit — maar wie het doet, telt hier gemakkelijk €3.000 tot €8.000 bij de verkoopkosten.",
+      },
+      {
+        heading: "Totaaloverzicht kosten: klassieke verkoop vs. verkoop aan opkoper",
+        body: "Onderstaande tabel vergelijkt de kostenposten bij een klassieke verkoop via makelaar tegenover een rechtstreekse verkoop aan wijkopenpanden.be.",
+        table: {
+          headers: ["Kostenpost", "Via makelaar", "Via wijkopenpanden.be"],
+          rows: [
+            ["Makelaarscommissie (incl. btw)", "€8.000 – €15.000", "Geen"],
+            ["EPC-attest", "€150 – €350", "Geen — wij regelen dit"],
+            ["Elektriciteitskeuring", "€150 – €350", "Geen — wij regelen dit"],
+            ["Asbestinventaris", "€250 – €600", "Geen — wij regelen dit"],
+            ["Hypotheekdoorhal (indien van toepassing)", "€300 – €800", "Idem — notariskosten gelijk"],
+            ["Dubbele woonlast (3–6 maanden)", "€2.000 – €6.000", "Geen — akte op uw timing"],
+            ["Pre-sale renovaties (optioneel)", "€0 – €8.000", "Geen — pand as-is"],
+            ["Totaal bijkomende kosten (schatting)", "€10.000 – €30.000", "Geen"],
+          ],
+        },
+      },
+      {
+        heading: "Wanneer is een lagere verkoopprijs toch voordeliger?",
+        body: "Een opkoper biedt doorgaans minder dan de theoretische marktprijs. Maar 'minder' is relatief als u de bijkomende kosten meeneemt.\n\nVoorbeeldberekening:\nMarktprijs woning: €250.000\nBod opkoper: €215.000 (14% onder marktprijs)\n\nBij verkoop via makelaar:\n• Marktprijs: €250.000\n• Min makelaarscommissie (3% + btw): –€9.075\n• Min keuringen: –€900\n• Min dubbele woonlast (4 maanden × €700): –€2.800\n• Min pre-sale schilderwerk: –€2.500\n• Netto-opbrengst: ±€234.725\n\nBij verkoop aan opkoper:\n• Bod opkoper: €215.000\n• Geen bijkomende kosten\n• Netto-opbrengst: €215.000\n\nHet nettoverschil bedraagt in dit voorbeeld €19.725 — niet €35.000. In ruil voor dat verschil heeft de eigenaar bij verkoop via makelaar maanden gewacht, zelf alles geregeld en het risico gedragen dat de verkoop misloopt.\n\nDit is een vereenvoudigd voorbeeld. De werkelijke cijfers hangen af van de woning, de makelaar en de marktomstandigheden. Maar het illustreert waarom het bruto verschil in bod misleidend is.",
+      },
+    ],
+    relatedArticles: ["commissie-makelaar-belgie", "keuringen-bij-verkoop-woning", "hoelang-duurt-huis-verkopen-belgie"],
+    relatedSituations: ["verkopen-zonder-makelaar", "opknappand-verkopen"],
+    faqs: [
+      {
+        question: "Betaalt de verkoper notariskosten bij de verkoop van een woning in België?",
+        answer:
+          "In principe zijn de notariskosten bij de verkoopakte ten laste van de koper. Als verkoper betaalt u enkel notariskosten als er een hypotheek moet worden doorgehaald (€300–€800) of als uw eigen notaris bijkomende opzoekingen doet. De grote notarisfactuur ontvangt de koper, niet u.",
+      },
+      {
+        question: "Zijn de keuringskosten verplicht voor de verkoper?",
+        answer:
+          "Ja. Het EPC-attest, de elektriciteitskeuring en de asbestinventaris zijn wettelijk verplicht en steeds ten laste van de verkoper — ongeacht of u via een makelaar of rechtstreeks verkoopt. U moet deze attesten beschikbaar hebben vóór het ondertekenen van het compromis.",
+      },
+      {
+        question: "Kan ik de makelaarscommissie vermijden door zelf te verkopen?",
+        answer:
+          "Ja. U kunt uw woning zelf adverteren op Immoweb of Zimmo zonder makelaar. U bespaart de commissie maar neemt alle taken op u: bezichtigingen organiseren, onderhandelen, compromis opstellen, dossier opvolgen. Dat kost tijd en juridische kennis. Alternatief is verkopen aan een opkoper, waarbij u ook geen commissie betaalt en het hele traject uitbesteedt.",
+      },
+      {
+        question: "Hoeveel tijd kost een klassieke woningverkoop gemiddeld in Antwerpen?",
+        answer:
+          "Gemiddeld drie tot zes maanden van de eerste bezichtiging tot de notariële akte. In een actieve markt kan dat sneller gaan, maar bij panden in slechte staat, met EPC-problemen of bij complexe dossiers (erfenis, mede-eigendom) loopt het regelmatig langer. Elke extra maand betekent extra kosten.",
+      },
+      {
+        question: "Wat als de verkoop via makelaar misloopt?",
+        answer:
+          "Dan heeft u de keuringskosten, eventuele advertentiekosten en de maanden dubbele woonlast al betaald — zonder opbrengst. Bij een exclusiviteitscontract kan er ook een vergoeding worden gevraagd als u de overeenkomst voortijdig beëindigt. Lees het makelaarcontract goed na, met name de clausules over opzegging en annulatie.",
+      },
+      {
+        question: "Zijn er kosten als ik mijn woning verkoop aan een vastgoedopkoper?",
+        answer:
+          "Neen. Wij rekenen geen commissie, geen dossierkosten en geen keuringskosten aan. De enige kosten die u als verkoper altijd heeft, zijn de notariskosten voor een eventuele hypotheekdoorhal — maar die zijn gelijk bij elke verkoop, via makelaar of opkoper. Alle andere bijkomende kosten (EPC, keuringen, attesten) nemen wij op ons.",
+      },
+    ],
+  },
 ];
 
 export function getArticle(slug: string): Article | undefined {
