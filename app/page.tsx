@@ -35,7 +35,7 @@ const localBusinessSchema = {
   name: "wijkopenpanden.be",
   url: "https://wijkopenpanden.be",
   telephone: "+32492779475",
-  email: "info@wijkopenpanden.be",
+  email: "bb@berabrick.be",
   description:
     "wijkopenpanden.be koopt woningen en panden rechtstreeks aan in Antwerpen en omstreken. Geen commissie, geen makelaar, keuringen en ontruiming volledig inbegrepen.",
   areaServed: {

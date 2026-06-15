@@ -51,7 +51,7 @@ const organizationSchema = {
   url: "https://wijkopenpanden.be",
   logo: "https://wijkopenpanden.be/opengraph-image",
   telephone: "+32492779475",
-  email: "info@wijkopenpanden.be",
+  email: "bb@berabrick.be",
   address: {
     "@type": "PostalAddress",
     addressLocality: "Antwerpen",
