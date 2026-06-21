@@ -1884,6 +1884,143 @@ export const articles: Article[] = [
       },
     ],
   },
+  {
+    slug: "huis-verkopen-met-hypotheek",
+    title: "Huis verkopen met een lopende hypotheek: wat u moet weten in België",
+    metaTitle: "Huis verkopen met hypotheek België 2026: hoe werkt het? | wijkopenpanden.be",
+    metaDescription:
+      "Kunt u uw woning verkopen als u nog een hypotheek heeft? Ja — maar er zijn stappen. Wedersamenstelling, boete vervroegde terugbetaling en wat bij te weinig opbrengst. Uitleg voor 2026.",
+    publishedAt: "2026-06-15",
+    updatedAt: "2026-06-15",
+    intro:
+      "Veel eigenaars denken dat een lopende hypotheek de verkoop van hun woning blokkeert. Dat klopt niet. U kunt uw woning gewoon verkopen, ook als u nog maandelijks afbetaalt bij de bank. Maar er zijn een aantal stappen en kosten waarmee u rekening moet houden. In dit artikel leggen we uit hoe de aflossing van uw hypotheek bij verkoop precies verloopt, wat een wedersamenstellingsvergoeding is en wat u kunt doen als de verkoopprijs lager ligt dan het openstaande saldo.",
+    sections: [
+      {
+        heading: "Kan ik mijn woning verkopen met een lopende hypotheek?",
+        body: "Ja, absoluut. Een lopende hypotheeklening is geen belemmering voor de verkoop van uw woning. Bij de notariële akte wordt de resterende schuld automatisch afgelost uit de verkoopopbrengst. U ontvangt dan het saldo na aftrek van de openstaande lening en de bijkomende kosten.\n\nDe procedure verloopt via de notaris:\n1. De notaris vraagt bij uw bank het openstaande saldo op\n2. Bij de akte wordt het verschuldigde bedrag rechtstreeks overgemaakt aan de bank\n3. De bank schrapt de hypotheekinschrijving (doorhaling)\n4. U ontvangt het resterende bedrag na aftrek van alle schulden en kosten\n\nU hoeft zelf niets te regelen met de bank vóór de verkoop. De notaris coördineert dit volledig.",
+      },
+      {
+        heading: "Wedersamenstellingsvergoeding: de kost van vervroegde terugbetaling",
+        body: "Als u uw hypotheeklening vervroegd terugbetaalt — wat het geval is bij verkoop — rekent de bank een wedersamenstellingsvergoeding (ook: wederbeleggingsvergoeding of heropnemingsvergoeding) aan. Dit is een compensatie voor de bank voor de renteinkomsten die ze misloopt.\n\nHoe hoog is de wedersamenstellingsvergoeding?\nIn België is deze vergoeding wettelijk begrensd op maximaal drie maanden interest op het openstaande saldo, berekend aan de contractuele rentevoet.\n\nVoorbeeldberekening:\n• Openstaand saldo: €120.000\n• Contractuele rentevoet: 2,5%\n• Drie maanden interest: €120.000 × 2,5% ÷ 12 × 3 = €750\n\nDe effectieve vergoeding kan nooit hoger zijn dan dat wettelijke maximum van drie maanden interest. Bij leningen afgesloten na 2014 (consumentenkrediet) gelden soms nog strengere begrenzingen.\n\nBelangrijke uitzondering: als u de woning verkoopt na een echtscheiding of overlijden, vervalt de wedersamenstellingsvergoeding in veel gevallen volledig. Controleer uw leningscontract of vraag dit na bij uw bank.",
+      },
+      {
+        heading: "Kosten van hypotheekdoorhal: wat betaalt u?",
+        body: "Naast de wedersamenstellingsvergoeding betaalt u als verkoper ook de kosten voor de hypotheekdoorhal — het officieel schrappen van de hypotheekinschrijving bij het hypotheekkantoor.\n\nDeze kosten bestaan uit:\n• Notariskosten voor de akte van doorhaling: €300–€600 afhankelijk van de notaris en het saldo\n• Registratierechten en hypotheekrechten op de doorhaling: circa 0,3% van het openstaand saldo bij de vestiging van de hypotheek (maar dit wordt bij doorhaling doorgaans beperkt tot een forfait)\n\nIn de praktijk rekent u voor een doorhaling bij een gemiddelde Belgische hypotheeklening op een totaalkost van €400–€800. Deze kosten worden ingehouden op de verkoopopbrengst bij de akte.",
+      },
+      {
+        heading: "Wat als de verkoopprijs lager is dan het openstaande saldo?",
+        body: "Dit noemt men een 'onderwaterhypotheek' of 'negatief eigen vermogen'. Het komt voor als:\n• De woning sterk in waarde is gedaald\n• U kort na aankoop al verkoopt (lening nog nauwelijks afbetaald)\n• U een woning heeft met zware structurele problemen waardoor de marktwaarde laag ligt\n\nWat gebeurt er dan?\nU kunt de woning nog steeds verkopen, maar u moet het tekort zelf bijpassen. De notaris betaalt de volledige verkoopopbrengst aan de bank, en het resterende saldo — het verschil tussen de opbrengst en de schuld — blijft u persoonlijk verschuldigd aan de bank.\n\nMogelijke oplossingen:\n• Onderhandelen met de bank: sommige banken aanvaarden een kwijtschelding van het resterende saldo in ruil voor een eenmalige betaling of een betalingsplan\n• Persoonlijk akkoord: de bank en u spreken af dat u het restbedrag gespreid aflost na de verkoop\n• Wachten: als de marktwaarde tijdelijk laag is, kunt u wachten op een betere markt\n\nEen verkoop onder de marktwaarde — bijvoorbeeld aan een vastgoedopkoper — kan in dit scenario toch zinvol zijn als u verwacht dat de waarde verder daalt of als de lopende lasten te zwaar wegen.",
+      },
+      {
+        heading: "Woning verkopen vóór einde looptijd: wanneer loont het?",
+        body: "Of vervroegde verkoop financieel verstandig is, hangt af van de verhouding tussen de wedersamenstellingsvergoeding en de maandelijkse lasten die u bespaart.\n\nVerkoop loont als:\n• Uw maandelijkse hypotheeklast plus onroerende voorheffing plus verzekering zwaarder wegen dan de eenmalige vergoeding bij verkoop\n• U de woning toch niet meer nodig heeft (verhuis, erfenis, scheiding)\n• De waarde van de woning momenteel hoog is en u een goed bod kunt realiseren\n• De rente die u betaalt hoger is dan het rendement dat u op de opbrengst kunt halen na belegging\n\nVerkoop loont minder als:\n• U een lage vaste rentevoet heeft die u na afloop kunt vervangen door een hogere variabele rente\n• De woning fors gestegen is in waarde maar u de meerwaarde nog niet wil realiseren\n• Het openstaande saldo nog zeer hoog is en de wedersamenstellingsvergoeding navenant",
+      },
+      {
+        heading: "Verkopen aan een opkoper met lopende hypotheek: kan dat?",
+        body: "Ja, en het verloopt identiek als bij een klassieke verkoop. De notaris lost de hypotheek af bij de akte en u ontvangt het nettobedrag na aftrek van de schuld en de kosten.\n\nEen bijkomend voordeel bij verkoop aan een vastgoedopkoper: de akte kan sneller worden gepland (doorgaans binnen twee tot drie maanden), waardoor u ook sneller verlost bent van de maandelijkse hypotheeklasten. Voor eigenaars die de lening als financiële last ervaren, is dat een concrete besparing.\n\nWijkopenpanden.be koopt woningen aan in alle situaties, ook als er een lopende hypotheek op rust. Wij coördineren met de notaris en zorgen voor een vlotte afhandeling.",
+      },
+    ],
+    relatedArticles: ["commissie-makelaar-belgie", "hoelang-duurt-huis-verkopen-belgie", "huis-verkopen-antwerpen-gids"],
+    relatedSituations: ["huis-verkopen-bij-scheiding", "verkopen-zonder-makelaar"],
+    faqs: [
+      {
+        question: "Kan ik mijn woning verkopen als ik nog een hypotheek heb?",
+        answer:
+          "Ja. Bij de notariële akte wordt het openstaande saldo automatisch afgelost uit de verkoopopbrengst. U ontvangt het restbedrag na aftrek. U hoeft dit niet zelf te regelen — de notaris coördineert de aflossing rechtstreeks met uw bank.",
+      },
+      {
+        question: "Hoeveel kost de wedersamenstellingsvergoeding?",
+        answer:
+          "De wedersamenstellingsvergoeding is wettelijk begrensd op drie maanden interest op het openstaande saldo aan uw contractuele rentevoet. Bij een saldo van €120.000 aan 2,5% bedraagt dat maximaal €750. Bij scheiding of overlijden vervalt de vergoeding in veel gevallen.",
+      },
+      {
+        question: "Wat zijn de kosten voor de doorhaling van de hypotheek?",
+        answer:
+          "De notariskosten voor de hypotheekdoorhal bedragen doorgaans €400–€800, afhankelijk van het openstaande saldo en de notaris. Deze kosten worden ingehouden op de verkoopopbrengst bij de akte.",
+      },
+      {
+        question: "Wat als de verkoopprijs lager is dan mijn resterende hypotheeklening?",
+        answer:
+          "Dan moet u het tekort zelf bijpassen. De volledige verkoopopbrengst gaat naar de bank en u blijft het resterende saldo schuldig. In overleg met uw bank zijn er soms oplossingen zoals een betalingsplan of gedeeltelijke kwijtschelding.",
+      },
+      {
+        question: "Hoe snel kan ik verkopen als ik een hypotheek heb?",
+        answer:
+          "Even snel als zonder hypotheek. De doorlooptijd wordt bepaald door de verkoop zelf, niet door de hypotheek. Bij verkoop aan een opkoper kan de akte binnen twee tot drie maanden worden gepland. De bank-afhandeling verloopt parallel via de notaris.",
+      },
+    ],
+  },
+  {
+    slug: "compromis-verkoop-woning-belgie",
+    title: "Het compromis bij de verkoop van uw woning: rechten, plichten en risico's",
+    metaTitle: "Compromis verkoop woning België 2026: alles wat u moet weten | wijkopenpanden.be",
+    metaDescription:
+      "Wat is een compromis bij de verkoop van een woning? Wat als de koper of verkoper afziet? Opschortende voorwaarden, bankwaarborg en risico's uitgelegd voor 2026.",
+    publishedAt: "2026-06-15",
+    updatedAt: "2026-06-15",
+    intro:
+      "Het compromis is het belangrijkste document in het verkoopproces van een woning — en tegelijk het minst begrepen. Veel verkopers weten niet precies wat ze tekenen, wat er gebeurt als de koper achteraf afziet en welke risico's ze zelf lopen. In dit artikel leggen we het compromis van A tot Z uit: wat het is, wat erin staat, wanneer u eraan gebonden bent en wat uw opties zijn als er iets misloopt.",
+    sections: [
+      {
+        heading: "Wat is een compromis?",
+        body: "Een compromis (officieel: de onderhandse verkoopovereenkomst of 'verkoopbelofte') is het document waarbij u als verkoper en de koper schriftelijk akkoord gaan over de verkoop van de woning. Het bevat de essentiële elementen van de transactie:\n\n• Het adres en de beschrijving van het pand\n• De overeengekomen verkoopprijs\n• De identiteit van de koper en de verkoper\n• De voorziene datum van de notariële akte\n• Eventuele opschortende voorwaarden (bv. het bekomen van een banklening)\n• De staat van het pand en de attesten\n\nHet compromis is een bindend contract. Zodra beide partijen hebben getekend, is de verkoop juridisch definitief — ook al is de notariële akte nog niet opgesteld. 'Verkoop is verkoop' zodra beide partijen het eens zijn over de prijs en het goed.",
+      },
+      {
+        heading: "Wanneer is het compromis bindend?",
+        body: "Het compromis is bindend vanaf het moment dat beide partijen — koper én verkoper — hebben ondertekend. Er is geen bedenktermijn voor de verkoper in het Belgische vastgoedrecht (in tegenstelling tot sommige andere landen).\n\nBelangrijke uitzondering voor de koper bij verkoop op plan:\nAls een particulier een woning op plan (VEFA) koopt van een professionele ontwikkelaar, geldt er een wettelijke bedenktermijn van 7 werkdagen. Bij de klassieke verkoop van een bestaande woning bestaat die bedenktermijn niet voor de koper.\n\nEén uitzondering: als het compromis werd ondertekend onder opschortende voorwaarden die nog niet vervuld zijn — zie volgende sectie — is de overeenkomst pas definitief wanneer aan die voorwaarden is voldaan.",
+      },
+      {
+        heading: "Opschortende voorwaarden: wat zijn ze en welk risico brengen ze mee?",
+        body: "Een opschortende voorwaarde is een clausule die bepaalt dat de verkoop enkel doorgaat als een bepaalde voorwaarde wordt vervuld. De meest voorkomende is de financieringsvoorwaarde (ook: 'voorwaarde van het bekomen van een lening').\n\nHoe werkt de financieringsvoorwaarde?\nAls de koper de woning wil kopen onder voorbehoud van het bekomen van een banklening, staat dat in het compromis. Krijgt de koper zijn lening niet binnen de afgesproken termijn (doorgaans 4 tot 8 weken), dan kan hij de overeenkomst annuleren zonder kosten of boete.\n\nRisico voor de verkoper:\nAls de financieringsvoorwaarde wordt ingeroepen, is de verkoop nietig en begint u van nul. U heeft tijd verloren, attesten laten opmaken en eventueel andere kandidaat-kopers afgehouden.\n\nHoe beschermt u zich als verkoper?\n• Beperk de termijn voor de financieringsvoorwaarde zo strak mogelijk (4 weken is redelijk)\n• Vraag een bewijs van pre-goedkeuring of financiële capaciteit vóór het tekenen\n• Onderhandel over een beperkt maximumbedrag waarvoor de lening moet worden aangevraagd\n• Overweeg een koper zonder financieringsvoorwaarde — zoals een vastgoedopkoper die cash koopt",
+      },
+      {
+        heading: "Bankwaarborg en handgeld: bescherming voor de verkoper",
+        body: "Bij het compromis wordt doorgaans een waarborg of handgeld afgesproken. Dit is een bedrag dat de koper betaalt als zekerheid voor zijn verbintenis.\n\nIn België bedraagt de standaardwaarborg 10% van de verkoopprijs, gestort op een geblokkeerde rekening van de notaris. Het geld blijft geblokkeerd tot de notariële akte en wordt dan verrekend met de totale koopprijs.\n\nWat als de koper afziet na het compromis (zonder geldige opschortende voorwaarde)?\nDan behoudt u als verkoper het recht op de waarborg van 10% als forfaitaire schadevergoeding — of u kunt de gedwongen uitvoering van de verkoop vorderen via de rechtbank (hoewel dat zelden praktisch is).\n\nWat als u als verkoper afziet na het compromis?\nDan moet u de koper het dubbele van de waarborg terugbetalen — dus 20% van de verkoopprijs — als forfaitaire schadevergoeding. Dit is de spiegelregel: de koper verliest zijn waarborg, de verkoper betaalt het dubbele.",
+      },
+      {
+        heading: "Wat staat er verplicht in een compromis?",
+        body: "Een geldig compromis moet wettelijk een aantal gegevens bevatten. Ontbreken die, dan kan de overeenkomst aanvechtbaar zijn:\n\nVerplichte vermeldingen:\n• Identiteitsgegevens en burgerlijke staat van beide partijen\n• Nauwkeurige omschrijving van het goed (adres, kadastrale gegevens)\n• Verkoopprijs en betalingsmodaliteiten\n• Datum van de akte (of een indicatieve termijn)\n• Informatie over de stedenbouwkundige situatie (vergunningen, overtredingen)\n• Bodemattest en overeenstemming met de resultaten\n• EPC-score\n• Asbestinventaris (voor gebouwen vóór 2001)\n• Elektriciteitskeuringsattest\n• Vermelding van het recht van voorkoop (indien van toepassing)\n• Informatie over erfdienstbaarheden en lasten\n\nWie stelt het compromis op?\nHet compromis kan worden opgemaakt door:\n• De makelaar (meest voorkomend bij klassieke verkopen)\n• De notaris van de koper of verkoper\n• De partijen zelf (onderhands, zonder begeleiding)\n\nEen compromis opgemaakt zonder notaris is even bindend, maar het risico op fouten of ontbrekende vermeldingen is groter. Bij twijfel laat u het best nakijken door uw notaris vóór u tekent.",
+      },
+      {
+        heading: "Compromis en vastgoedopkoper: hoe verschilt het?",
+        body: "Bij de verkoop aan een vastgoedopkoper zoals wijkopenpanden.be verloopt het compromis sneller en eenvoudiger dan bij een klassieke verkoop:\n\n• Geen financieringsvoorwaarde: wijkopenpanden.be koopt cash — u heeft geen risico dat de verkoop na weken wordt geannuleerd omdat de koper geen lening krijgt\n• Snellere timing: het compromis kan binnen enkele dagen na het bod worden getekend\n• Eenvoudigere clausules: er zijn geen complexe voorwaarden, geen makelaarsclausules en geen lange onderhandelingen\n• Zekerheid: zodra u het compromis tekent, is de verkoop definitief\n\nDit maakt de verkoop via opkoper bijzonder aantrekkelijk voor eigenaars die zekerheid willen over de timing en het definitieve karakter van de transactie.",
+      },
+    ],
+    relatedArticles: ["hoelang-duurt-huis-verkopen-belgie", "commissie-makelaar-belgie", "huis-verkopen-met-hypotheek"],
+    relatedSituations: ["huis-verkopen-bij-scheiding", "huis-verkopen-bij-erfenis", "verkopen-zonder-makelaar"],
+    faqs: [
+      {
+        question: "Is een compromis definitief of kan ik nog van de verkoop af?",
+        answer:
+          "Een compromis is definitief zodra beide partijen hebben getekend. Er is geen wettelijke bedenktermijn voor de verkoper bij klassieke woningverkoop. U kunt enkel nog af van de verkoop als er een geldige opschortende voorwaarde van toepassing is die niet wordt vervuld, of als de koper akkoord gaat met annulering.",
+      },
+      {
+        question: "Wat als de koper na het compromis afziet van de aankoop?",
+        answer:
+          "Als de koper afziet zonder geldige reden (bv. de opschortende voorwaarde is vervuld of er was geen), behoudt u als verkoper de waarborg van 10% als forfaitaire schadevergoeding. U kunt ook via de rechtbank de gedwongen uitvoering vorderen, maar dat is tijdrovend en zelden aangewezen.",
+      },
+      {
+        question: "Wat is een opschortende voorwaarde en moet ik die aanvaarden?",
+        answer:
+          "Een opschortende voorwaarde (bv. het bekomen van een lening) maakt de verkoop afhankelijk van een externe factor. Als die factor wegvalt, kan de koper de overeenkomst annuleren zonder kosten. U bent niet verplicht een opschortende voorwaarde te aanvaarden — maar in de praktijk doen de meeste kopers een aanvraag via de bank en zult u die voorwaarde bijna altijd tegenkomen bij particuliere kopers.",
+      },
+      {
+        question: "Hoeveel bedraagt de waarborg bij het compromis?",
+        answer:
+          "De standaardwaarborg in België bedraagt 10% van de verkoopprijs, gestort op een geblokkeerde notarisrekening. Dit bedrag wordt verrekend bij de notariële akte. Als de koper afziet, behoudt u die 10%. Als u als verkoper afziet, betaalt u het dubbele terug: 20% van de verkoopprijs.",
+      },
+      {
+        question: "Wie stelt het compromis op: makelaar of notaris?",
+        answer:
+          "Beide zijn mogelijk. Bij een klassieke verkoop via makelaar stelt de makelaar doorgaans het compromis op. Bij verkoop via notaris of rechtstreeks doet de notaris dat. Een compromis opgesteld door de makelaar is even juridisch bindend, maar controleer altijd of alle verplichte vermeldingen aanwezig zijn. Twijfelt u, laat het nakijken door uw eigen notaris vóór u tekent.",
+      },
+      {
+        question: "Hoe lang zit er tussen het compromis en de notariële akte?",
+        answer:
+          "Doorgaans twee tot vier maanden. Die periode dient om alle attesten te verzamelen, de financiering van de koper te regelen en de notaris het dossier te laten voorbereiden. Bij verkoop aan een vastgoedopkoper die cash koopt, kan die termijn worden ingekort tot vier tot acht weken.",
+      },
+    ],
+  },
 ];
 
 export function getArticle(slug: string): Article | undefined {
