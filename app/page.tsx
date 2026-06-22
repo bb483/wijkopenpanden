@@ -11,6 +11,7 @@ import BlijvenWonen from "@/components/home/BlijvenWonen";
 import EerlijkPrijs from "@/components/home/EerlijkPrijs";
 import RecenteAankopen from "@/components/home/RecenteAankopen";
 import FAQ from "@/components/home/FAQ";
+import KennisbankPreview from "@/components/home/KennisbankPreview";
 import Formulier from "@/components/home/Formulier";
 
 export const metadata: Metadata = {
@@ -136,6 +137,7 @@ export default function HomePage() {
         <EerlijkPrijs />
         <RecenteAankopen />
         <FAQ />
+        <KennisbankPreview />
         <Formulier />
       </main>
       <Footer />

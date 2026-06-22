@@ -44,7 +44,7 @@ export const articles: Article[] = [
         body: "Formeel wel, maar in de praktijk is de marge beperkt. De meeste makelaars hanteren een standaardtarief en wijken hier alleen van af bij uitzonderlijke omstandigheden (zeer waardevolle woning, exclusieve opdracht, meerdere dossiers tegelijk).\n\nVoorts is er een psychologisch element: een makelaar die zijn tarief snel verlaagt, geeft impliciet aan dat hij ook bij de onderhandeling met de koper snel toegeeft. Of dat zo is, kunt u moeilijk controleren.\n\nAlternatief zijn no-cure-no-pay-makelaars (alleen commissie bij verkoop, geen vaste kosten vooraf) en online platformen die een lager tarief rekenen maar minder diensten bieden. Bij beide opties blijft de eigenaar meer betrokken in het verkoopproces.",
       },
     ],
-    relatedArticles: [],
+    relatedArticles: ["notariskosten-woning-verkoop", "keuringen-bij-verkoop-woning", "hoelang-duurt-huis-verkopen-belgie", "compromis-verkoop-woning-belgie"],
     relatedSituations: ["verkopen-zonder-makelaar", "huis-verkopen-bij-erfenis"],
     faqs: [
       {

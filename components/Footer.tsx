@@ -37,6 +37,7 @@ const columns = [
     links: [
       { label: "Kennisbank", href: "/kennisbank" },
       { label: "Hoe wij werken", href: "/hoe-wij-werken" },
+      { label: "Tip een pand", href: "/tip-een-pand" },
       { label: "Blijven wonen", href: "/blijven-wonen" },
       { label: "Lijfrente", href: "/lijfrente-antwerpen" },
       { label: "Over ons", href: "/over" },
