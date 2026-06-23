@@ -29,9 +29,9 @@ const artikels = [
     samenvatting: "Gemiddelde doorlooptijden, klassieke verkoop vs. opkoper, en hoe u het kunt verkorten.",
   },
   {
-    slug: "erfbelasting-vlaanderen-2026",
-    titel: "Erfbelasting in Vlaanderen 2026: tarieven en vrijstellingen",
-    samenvatting: "Tarieven rechte lijn, partnervrijstelling €75.000 en praktisch rekenvoorbeeld.",
+    slug: "verborgen-gebreken-woning-verkoop-belgie",
+    titel: "Verborgen gebreken bij verkoop: bent u aansprakelijk?",
+    samenvatting: "Wanneer bent u als verkoper aansprakelijk, wat is een as-is-clausule en hoe beschermt u zichzelf?",
   },
 ];
 

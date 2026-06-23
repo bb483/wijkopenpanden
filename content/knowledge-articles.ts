@@ -2021,6 +2021,72 @@ export const articles: Article[] = [
       },
     ],
   },
+  {
+    slug: "verborgen-gebreken-woning-verkoop-belgie",
+    title: "Verborgen gebreken bij de verkoop van uw woning: aansprakelijkheid en bescherming",
+    metaTitle: "Verborgen gebreken woning verkoop België 2026: aansprakelijkheid uitgelegd | wijkopenpanden.be",
+    metaDescription:
+      "Als verkoper aansprakelijk voor verborgen gebreken? Wanneer geldt de vrijwaringsplicht, wat zijn de voorwaarden en hoe beschermt u zichzelf met een as-is-clausule. Uitleg voor 2026.",
+    publishedAt: "2026-06-23",
+    updatedAt: "2026-06-23",
+    intro:
+      "Veel verkopers vrezen dat ze na de notariële akte nog jaren kunnen worden aangesproken voor gebreken die de koper ontdekt. Die angst is begrijpelijk — maar de werkelijkheid is genuanceerder. De Belgische wet beschermt verkopers te goeder trouw, en er zijn concrete manieren om uw aansprakelijkheid te beperken. In dit artikel leggen we uit wanneer u als verkoper wél aansprakelijk bent, wanneer niet, en wat u kunt doen om risico's te vermijden.",
+    sections: [
+      {
+        heading: "Wat zijn verborgen gebreken?",
+        body: "De wettelijke vrijwaringsplicht voor verborgen gebreken is vastgelegd in de artikelen 1641–1649 van het Burgerlijk Wetboek. Een gebrek is 'verborgen' als het aan vier cumulatieve voorwaarden voldoet:\n\n1. **Het gebrek was niet zichtbaar** bij een gewone bezichtiging — een koper die normaal oplettend is, kon het niet ontdekken\n2. **Het gebrek bestond al vóór de verkoop** — een gebrek dat pas na de overdracht is ontstaan, valt er niet onder\n3. **Het gebrek is ernstig** — het tast het normale gebruik van de woning aanzienlijk aan of zou de koper hebben doen afzien van de aankoop, of een lagere prijs hebben laten betalen\n4. **De koper wist het niet** — een gebrek dat de koper kende of had moeten kennen bij normaal onderzoek, is niet 'verborgen'\n\nVoorbeelden van verborgen gebreken die rechters in België hebben erkend:\n• Structurele waterinfiltratie via de fundering, niet zichtbaar bij bezoek door droog weer\n• Instabiele draagmuur achter verse bepleistering\n• Verborgen asbestplaten in de spouwmuur die niet in de asbestinventaris stonden\n• Een illegale septische tank die niet conform de wetgeving was\n• Ernstige zwamvorming in de vloerbalken, volledig aan het zicht onttrokken\n\nNiet als verborgen gebreken beschouwd:\n• Zichtbare scheuren, losse tegels, verouderde installaties die een oplettende koper kon zien\n• Gebreken die vermeld staan in een keuring of attest\n• Gewone slijtage die evenredig is met de leeftijd van het pand\n• Gebreken waarop de koper uitdrukkelijk gewezen werd vóór de ondertekening",
+      },
+      {
+        heading: "Te goeder trouw vs. te kwader trouw: het cruciale onderscheid",
+        body: "De Belgische wet maakt een fundamenteel onderscheid tussen verkopers die het gebrek kenden en verkopers die het niet kenden.\n\n**Verkoper te goeder trouw** — u wist het gebrek niet\nAls u het verborgen gebrek zelf niet kende, bent u enkel gehouden tot de zogenaamde actio redhibitoria (ontbinding van de koop met terugbetaling van de prijs en kosten) of de actio quanti minoris (prijsvermindering in verhouding tot het gebrek). U betaalt geen verdere schadevergoeding.\n\n**Verkoper te kwader trouw** — u kende het gebrek en zweeg\nAls u wist van het gebrek en het bewust heeft verzwegen of verborgen gehouden, riskeert u naast de ontbinding of prijsvermindering ook de betaling van alle schade die de koper heeft geleden. De rechter kan bovendien oordelen dat de vrijwaringsclausule (zie volgende sectie) niet geldig is.\n\nDit onderscheid is in de praktijk van groot belang: een verkoper die te goeder trouw handelt en alles meldt wat hij weet, loopt aanzienlijk minder risico dan iemand die problemen bewust verzwijgt.",
+      },
+      {
+        heading: "Verjaringstermijn: hoe lang bent u aansprakelijk?",
+        body: "Sinds de hervorming van het verbintenissenrecht in 2021 (inwerkingtreding 1 januari 2023) gelden de volgende regels:\n\n• De koper moet de rechtsvordering instellen binnen **één jaar na de ontdekking** van het verborgen gebrek\n• De ontdekking moet plaatsvinden binnen een **redelijke termijn** na de eigendomsoverdracht\n• Er geldt een **absolute verjaringstermijn van 10 jaar** na de levering van het goed, waarna geen vordering meer mogelijk is\n\nVóór 2023 gold een verjaringstermijn van 5 jaar na de ontdekking — die is dus verlengd naar 10 jaar. Voor overeenkomsten gesloten vóór 1 januari 2023 geldt nog de oude regeling.\n\nIn de praktijk betekent dit: als een koper drie jaar na de aankoop een ernstig structureel probleem ontdekt, heeft hij nog één jaar om te dagvaarden — mits hij dit redelijk snel na ontdekking doet. U kunt als verkoper dus tot 10 jaar na de akte worden aangesproken.",
+      },
+      {
+        heading: "As-is-clausule: hoe beschermt u zichzelf als verkoper?",
+        body: "De meest gebruikte bescherming voor verkopers is de vrijwaringsclausule, in de volksmond ook wel de 'as-is-clausule' of 'verkoop in de staat waarin het zich bevindt'-clausule.\n\nHoe werkt ze?\nIn het compromis en de notariële akte wordt opgenomen dat de koper het pand aanvaardt 'in de staat waarin het zich bevindt', met uitsluiting van elke vrijwaring voor verborgen gebreken. De koper erkent dat hij het pand heeft bezichtigd en aanvaardt alle zichtbare en redelijkerwijs opspoorbare gebreken.\n\nBelangrijke beperking:\nEen as-is-clausule is **niet geldig als de verkoper te kwader trouw is** — als u wist van een gebrek en het bewust heeft verzwegen, kan de rechter de clausule terzijde schuiven. De clausule beschermt uitsluitend verkopers die zelf onwetend waren van het gebrek.\n\nTips om de clausule zo sterk mogelijk te maken:\n• Laat alle beschikbare keuringsrapporten, attesten en verslagen aan de koper overhandigen vóór het compromis\n• Noteer in het compromis welke specifieke gebreken de koper heeft gezien en aanvaard\n• Als u twijfelt over een element (bv. de toestand van het dak), vermeld dat dan expliciet als 'niet gegarandeerd' eerder dan te zwijgen\n• Laat de clausule opstellen door uw notaris — een vage algemene vrijwaring is minder afdwingbaar dan een concrete, gedetailleerde omschrijving",
+      },
+      {
+        heading: "Wat kunt u doen vóór de verkoop om risico te beperken?",
+        body: "De beste bescherming is volledige transparantie gecombineerd met professionele keuringen.\n\n**Laat een bouwkundige keuring uitvoeren**\nEen onafhankelijke bouwexpert stelt een gedetailleerd rapport op over de staat van het pand — fundering, dak, muren, installaties. Dat rapport overhandigt u aan de koper vóór het compromis. Gebreken die in het rapport staan zijn per definitie niet 'verborgen' — de koper is er immers van op de hoogte gesteld.\n\n**Lever alle verplichte attesten correct op**\nEPC, elektriciteitskeuring, asbestinventaris, bodemattest, overstromingskaart — als een gebrek al gedocumenteerd is in een attest (bv. een niet-conform elektriciteitsrapport), kan de koper dat later niet als verborgen gebrek inroepen.\n\n**Documenteer mondeling gegeven informatie**\nAls u de koper mondeling heeft verteld over een lekkend dak dat u heeft laten herstellen, leg dat dan schriftelijk vast in het compromis: 'de verkoper heeft de koper geïnformeerd over een voormalige daklekkage, hersteld op [datum], koper aanvaardt dit'.\n\n**Wees eerlijk over wat u niet weet**\nZeg liever 'ik weet de exacte toestand van de fundering niet' dan niets te zeggen. Te goeder trouw onwetend zijn is juridisch sterk — proberen iets te verbergen is dat niet.",
+      },
+      {
+        heading: "Verkopen aan een opkoper: nul aansprakelijkheidsrisico",
+        body: "Wie zijn woning verkoopt aan een professionele vastgoedopkoper zoals wijkopenpanden.be, verkrijgt in de praktijk de sterkst mogelijke bescherming tegen vorderingen wegens verborgen gebreken.\n\nWaarom?\n• Professionele opkopers kopen uitdrukkelijk 'as-is' — de as-is-clausule is een standaardbeding in het compromis\n• Als professionele partij wordt van een opkoper verwacht dat hij zelf een grondige inspectie uitvoert vóór het bod\n• Rechtbanken aanvaarden de vrijwaringsclausule makkelijker tussen een particulier en een professionele koper dan tussen twee particulieren\n• De opkoper koopt precies om te renoveren — hij is niet verrast door gebreken, hij verwacht ze\n\nVoor eigenaars met een oud pand, een woning met gekende structurele problemen of een erfenis waarbij men de exacte staat niet kent, is verkoop aan een opkoper de meest zekere manier om elk risico op een latere vordering te vermijden.",
+      },
+    ],
+    relatedArticles: ["keuringen-bij-verkoop-woning", "compromis-verkoop-woning-belgie", "huis-verkopen-met-hypotheek", "commissie-makelaar-belgie"],
+    relatedSituations: ["opknappand-verkopen", "huis-verkopen-bij-erfenis", "verkopen-zonder-makelaar"],
+    faqs: [
+      {
+        question: "Ben ik als verkoper aansprakelijk voor gebreken die ik zelf niet kende?",
+        answer:
+          "Als u te goeder trouw was — u kende het gebrek niet — bent u enkel gehouden tot ontbinding van de koop of een prijsvermindering. U betaalt geen verdere schadevergoeding. Dat risico beperkt u verder door een as-is-clausule in het compromis op te nemen en alle keuringen correct op te leveren.",
+      },
+      {
+        question: "Hoe lang kan een koper mij aanspreken voor verborgen gebreken?",
+        answer:
+          "Eén jaar vanaf de ontdekking van het gebrek, met een absolute grens van 10 jaar na de levering van de woning (voor overeenkomsten gesloten vanaf 1 januari 2023). Vóór die datum gold een verjaringstermijn van 5 jaar na ontdekking.",
+      },
+      {
+        question: "Wat is een as-is-clausule en werkt die altijd?",
+        answer:
+          "Een as-is-clausule sluit uw aansprakelijkheid voor verborgen gebreken uit. Ze is geldig zolang u te goeder trouw was — dus zolang u het gebrek zelf niet kende. Kende u het gebrek wél en zweeg u erover, dan kan de rechter de clausule terzijde schuiven.",
+      },
+      {
+        question: "Kan ik mezelf beschermen door een bouwkundige keuring te laten uitvoeren?",
+        answer:
+          "Ja, en dit is een van de effectiefste beschermingen. Gebreken die in een professioneel keuringsrapport staan dat u vóór het compromis aan de koper heeft overhandigd, zijn per definitie niet 'verborgen'. De koper werd immers geïnformeerd en kan ze later niet meer als verrassing inroepen.",
+      },
+      {
+        question: "Wat als ik een erfenis verkoop en de staat van de woning niet ken?",
+        answer:
+          "Dit is een klassieke situatie. U kunt te goeder trouw zijn over gebreken die u als erfgenaam niet kende. Bescherm uzelf door: (1) alle beschikbare attesten op te vragen, (2) een bouwkundige keuring te laten uitvoeren, (3) een sterke as-is-clausule in het compromis op te nemen, en (4) te overwegen de woning aan een professionele opkoper te verkopen die uitdrukkelijk as-is koopt.",
+      },
+    ],
+  },
 ];
 
 export function getArticle(slug: string): Article | undefined {
