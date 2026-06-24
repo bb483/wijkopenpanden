@@ -2087,6 +2087,81 @@ export const articles: Article[] = [
       },
     ],
   },
+  {
+    slug: "lijfrente-rechten-bescherming-verkoper",
+    title: "Lijfrente verkopen: uw rechten en bescherming als verkoper",
+    metaTitle: "Lijfrente verkopen België 2026: rechten en bescherming verkoper | wijkopenpanden.be",
+    metaDescription:
+      "Ontbindingsbeding, registratierechten, brandverzekering en wat bij overlijden koper. Alles over uw juridische bescherming als u uw woning op lijfrente verkoopt in 2026.",
+    publishedAt: "2026-06-24",
+    updatedAt: "2026-06-24",
+    intro:
+      "Een lijfrenteverkoop klinkt aantrekkelijk: maandelijks inkomen, in uw woning blijven, geen erfenisgedoe. Maar wat als de koper stopt met betalen? Wie betaalt de brandverzekering? En wat als de koper vóór u overlijdt? Dit zijn de vragen die ernstige kandidaat-verkopers stellen — en ze krijgen zelden een helder antwoord. In dit artikel zetten we de concrete juridische bescherming van de verkoper uiteen, gebaseerd op het Belgisch notarieel recht en de geldende fiscale regels voor 2026.",
+    sections: [
+      {
+        heading: "Het ontbindingsbeding: uw grootste bescherming als verkoper",
+        body: "Het ontbindingsbeding (of ontbindende voorwaarde bij wanbetaling) is de hoeksteen van de bescherming van de verkoper bij een lijfrenteovereenkomst. Het bepaalt wat er gebeurt als de koper zijn betalingsverplichtingen niet nakomt.\n\nHoe werkt het?\nAls de koper ophoudt met het betalen van de maandelijkse lijfrente, heeft u als verkoper het recht om de ontbinding van de overeenkomst in rechte te vorderen. Bij een correct geformuleerd ontbindingsbeding in de notariële akte kan dat zelfs automatisch plaatsvinden — de overeenkomst wordt ontbonden van rechtswege na een formele ingebrekestelling en een wachttermijn.\n\nWat zijn de gevolgen van de ontbinding?\n• De woning keert volledig terug naar u als verkoper\n• Alle tot dan toe ontvangen bedragen — het bouquet én de betaalde maandelijkse renten — behoudt u als schadevergoeding\n• De koper verliest zijn investering en heeft geen recht op terugbetaling\n\nDit maakt de positie van de verkoper bij een lijfrenteverkoop feitelijk sterker dan die van een verhuurder bij een huurder die niet betaalt. Een verhuurder moet via de vrederechter en een uithuiszettingsprocedure; bij lijfrente met correct ontbindingsbeding is de procedure rechtlijniger.\n\nBelangrijk: het ontbindingsbeding moet expliciet en correct worden opgesteld door de notaris. Een vage formulering kan de afdwingbaarheid beperken. Laat de clausule altijd nakijken door uw eigen notaris.",
+      },
+      {
+        heading: "Registratierechten bij lijfrente: wie betaalt wat?",
+        body: "Een veelgestelde vraag bij lijfrenteverkoop is wie de registratierechten betaalt en over welke grondslag ze worden berekend.\n\nDe regel in België:\n• De registratierechten worden betaald door de **koper**, net als bij een klassieke verkoop\n• Ze worden berekend op de **volledige marktwaarde van de woning**, niet enkel op het bouquet of de kapitaalwaarde van de toekomstige renten\n• In Vlaanderen bedraagt het verlaagde tarief voor de enige eigen woning 2% (vanaf 2024); het standaardtarief is 12%\n• De registratierechten worden in één keer betaald bij de notariële akte\n\nGevolg voor de verkoper:\nU ontvangt de registratierechten niet — die gaan rechtstreeks naar de overheid. Maar u betaalt ze ook niet. Als verkoper heeft u hier geen financieel nadeel van. Toch is het nuttig om dit te begrijpen, omdat kopers de registratierechten soms meenemen in de onderhandeling over het bouquet of de maandelijkse rente.\n\nVlaanderen specifiek:\nHet verlaagde tarief van 2% geldt voor de koper als het zijn enige eigen woning wordt en hij er effectief gaat wonen. Bij lijfrente met vruchtgebruik voor de verkoper woont de koper er initieel niet — controleer met uw notaris of het verlaagde tarief van toepassing is op uw concrete situatie.",
+      },
+      {
+        heading: "Brandverzekering en onderhoud: wie draagt welke kosten?",
+        body: "Bij een lijfrenteverkoop met vruchtgebruik voor de verkoper ontstaat een gedeelde eigendomssituatie die vergelijkbaar is met de relatie huurder–verhuurder. Die vergelijking helpt om te begrijpen wie welke verzekeringen en onderhoudskosten draagt.\n\nBrandverzekering:\n• De **koper** als blote eigenaar sluit een brandverzekering af voor het gebouw zelf\n• U als **verkoper-vruchtgebruiker** sluit een verzekering af voor uw burgerrechtelijke aansprakelijkheid als bewoner (vergelijkbaar met de huurdersaansprakelijkheid in een klassieke huurrelatie)\n• In de praktijk opteren sommige notarissen voor één gezamenlijke polis waarbij beide partijen zijn opgenomen — dat vermijdt discussies over welke schade onder welke polis valt\n\nOnderhoud en herstellingen:\n• **Kleine herstellingen en gewoon onderhoud**: ten laste van u als vruchtgebruiker (vergelijkbaar met huurder)\n• **Grote herstellingen en structurele werken** (dak, fundering, riolering): ten laste van de koper als blote eigenaar\n• De grens tussen 'klein onderhoud' en 'grote herstellingen' is in het Belgisch recht niet altijd scherp afgebakend — laat dit in de notariële akte zo concreet mogelijk omschrijven\n\nOnroerende voorheffing:\nAls vruchtgebruiker betaalt u de onroerende voorheffing. Dat is de standaardregel bij vruchtgebruik in België. Dit is een kostenpost die sommige verkopers vergeten te meenemen in hun berekening van het netto-inkomen uit de lijfrente.",
+      },
+      {
+        heading: "Lijfrente op twee levens: extra bescherming bij koppels",
+        body: "Als u als koppel uw gezinswoning op lijfrente wil verkopen, is er de optie van een lijfrente op twee levens. Dit heeft concrete gevolgen voor de bescherming van de langstlevende partner.\n\nHoe werkt het?\nDe maandelijkse rente loopt zolang minstens één van de twee verkopers in leven is. Pas bij het overlijden van de langstlevende partner stopt de betalingsverplichting van de koper.\n\nVoordeel voor de verkoper:\nDe langstlevende partner heeft inkomensbescherming: ook na het overlijden van de eersteoverleder blijft de volledige rente doorlopen. Er is geen automatische halvering van het inkomen.\n\nInvloed op de maandelijkse rente:\nAangezien de koper statistisch gezien langer moet betalen bij twee levens, is de maandelijkse rente lager dan bij een lijfrente op één leven. De notaris berekent dit op basis van de gecombineerde levensverwachting van beide verkopers via de officiële sterftetafels.\n\nPraktisch advies:\nVraag de notaris bij de berekening altijd een vergelijking te maken tussen lijfrente op één leven (met een verhoogde rente na eerste overlijden) en lijfrente op twee levens. De beste formule hangt af van het leeftijdsverschil tussen de partners en de gezondheidsituatie.",
+      },
+      {
+        heading: "Wat als de koper eerder overlijdt dan u?",
+        body: "Dit is een scenario dat verkopers zelden vooraf bedenken, maar het is juridisch relevant en kan uw inkomenssituatie ingrijpend beïnvloeden.\n\nWat gebeurt er?\nBij het overlijden van de koper gaan zowel de eigendom van het pand als de verplichting tot het betalen van de lijfrente over op zijn erfgenamen. De overeenkomst loopt gewoon door — de erfgenamen treden in de rechten en plichten van de overleden koper.\n\nMogelijke scenario's:\n\n**Erfgenamen aanvaarden de nalatenschap:**\nZij erven de woning én de verplichting om u maandelijks te blijven betalen. Uw rente-inkomsten lopen ononderbroken door. U hoeft niets te doen.\n\n**Erfgenamen verwerpen de nalatenschap:**\nAls de erfgenamen de nalatenschap verwerpen (omdat de schulden of verplichtingen te zwaar zijn), erven ze ook de woning niet. De woning valt dan terug naar u als verkoper — conform het ontbindingsbeding. U behoudt alle ontvangen bedragen als schadevergoeding.\n\nPraktische bescherming:\nVraag uw notaris om in de akte expliciet te voorzien wat er bij overlijden van de koper moet gebeuren, inclusief een termijn waarbinnen de erfgenamen zich moeten uitspreken. Zo vermijdt u een juridisch vacuüm waarbij niemand de rente betaalt en u niet weet wat u moet ondernemen.",
+      },
+      {
+        heading: "Indexatie: uw rente beschermen tegen inflatie",
+        body: "Een lijfrente afgesloten zonder indexatieclausule heeft over tien of twintig jaar aanzienlijk minder koopkracht dan op de dag van ondertekening. Gezien de inflatie van de voorbije jaren is dit geen theoretisch risico.\n\nHoe werkt indexatie bij lijfrente?\nDe meest gebruikte index in België is de gezondheidsindex (abex-index of consumptieindex). De rente wordt jaarlijks aangepast aan de stijging van die index. Als de index met 3% stijgt, stijgt uw maandelijkse rente dat jaar ook met 3%.\n\nEffect op het starttarief:\nEen geïndexeerde lijfrente start lager dan een niet-geïndexeerde lijfrente voor hetzelfde pand. De koper betaalt initieel minder maar compenseert dat over de jaren via de indexatie. Over een langere looptijd is een geïndexeerde lijfrente voor de verkoper doorgaans voordeliger.\n\nAdvies:\nVraag de notaris altijd de simulatie te maken voor beide opties — met en zonder indexatie — over een horizon van 10, 15 en 20 jaar. Zo kunt u zelf de keuze maken op basis van concrete cijfers in plaats van abstracte percentages.",
+      },
+      {
+        heading: "Lijfrente vs. klassieke verkoop: de beschermingsvergelijking",
+        body: "Wie kiest voor lijfrente in plaats van klassieke verkoop, ruilt zekerheid over de prijs in voor zekerheid over het inkomen. Hier is de vergelijking vanuit het perspectief van de verkoper:\n\n| Aspect | Klassieke verkoop | Lijfrente met vruchtgebruik |\n|--------|------------------|-----------------------------|\n| Ontvangst van de prijs | Eenmalig bij akte | Gespreid over uw leven |\n| Inkomenszekerheid | Geen (u beheert zelf het kapitaal) | Maandelijks gegarandeerd |\n| Woonzekerheid | U verhuist | U blijft wonen |\n| Erfenis | Kapitaal voor erfgenamen | Woning gaat naar koper |\n| Bescherming bij koper-wanbetaling | Niet van toepassing | Ontbindingsbeding |\n| Fiscale behandeling inkomsten | Kapitaal belegd: belasting op inkomsten | Rente zelf niet belast als inkomen |\n| Risico bij lang leven | Geen | Voordeel: rente loopt door |\n| Risico bij vroeg overlijden | Geen | Nadeel: erfgenamen ontvangen niets meer |\n\nDe lijfrente is een formule voor verkopers die nood hebben aan maandelijkse inkomenszekerheid en in hun woning willen blijven. Wie een maximale verkoopprijs wil en flexibel is over de timing, kiest beter voor een klassieke verkoop.",
+      },
+    ],
+    relatedArticles: ["lijfrente-woning-verkopen-belgie", "erfbelasting-vlaanderen-2026", "hoelang-tijd-erfbelasting-betalen", "compromis-verkoop-woning-belgie"],
+    relatedSituations: ["huis-verkopen-bij-erfenis", "verkopen-zonder-makelaar"],
+    faqs: [
+      {
+        question: "Wat als de koper stopt met het betalen van de lijfrente?",
+        answer:
+          "Als de koper zijn betalingen stopzet, kunt u via het ontbindingsbeding in de notariële akte de overeenkomst laten ontbinden. De woning keert terug naar u en u behoudt alle ontvangen bedragen — bouquet én betaalde renten — als schadevergoeding. De koper verliest zijn investering volledig.",
+      },
+      {
+        question: "Wie betaalt de registratierechten bij een lijfrenteverkoop?",
+        answer:
+          "De koper betaalt de registratierechten, berekend op de volledige marktwaarde van de woning — net als bij een klassieke verkoop. In Vlaanderen geldt het standaardtarief van 12% of het verlaagde tarief van 2% als aan de voorwaarden is voldaan. Als verkoper betaalt u geen registratierechten.",
+      },
+      {
+        question: "Wie betaalt de brandverzekering bij lijfrente met vruchtgebruik?",
+        answer:
+          "De koper verzekert het gebouw als eigenaar. U als verkoper-vruchtgebruiker sluit een aansprakelijkheidsverzekering af als bewoner, vergelijkbaar met een huurder. Sommige notarissen raden een gezamenlijke polis aan om discussies te vermijden.",
+      },
+      {
+        question: "Wat gebeurt er als de koper eerder overlijdt dan de verkoper?",
+        answer:
+          "De verplichting tot het betalen van de lijfrente gaat over op de erfgenamen van de koper. Zij erven zowel de woning als de betalingsverplichting. Verwerpen zij de nalatenschap, dan keert de woning terug naar u als verkoper conform het ontbindingsbeding.",
+      },
+      {
+        question: "Is de maandelijkse lijfrente belastbaar als inkomen?",
+        answer:
+          "Nee, de maandelijkse lijfrente-uitkering wordt in België niet beschouwd als belastbaar inkomen in de personenbelasting. Ze heeft ook geen invloed op sociale uitkeringen of pensioenen. Uitzondering: als de woning commercieel werd gebruikt of aan een vennootschap wordt verkocht, kunnen de regels afwijken.",
+      },
+      {
+        question: "Is een lijfrente op twee levens beter voor koppels?",
+        answer:
+          "Dat hangt af van de situatie. Bij lijfrente op twee levens loopt de rente door zolang één van de twee partners leeft — de langstlevende behoudt het volledige inkomen. De maandelijkse rente is wel lager dan bij een lijfrente op één leven. Vraag de notaris beide opties door te rekenen voor uw specifieke leeftijden.",
+      },
+    ],
+  },
 ];
 
 export function getArticle(slug: string): Article | undefined {
