@@ -66,7 +66,7 @@ export default function RegionTemplate({ data }: { data: Region }) {
             <p>{data.intro}</p>
           </Prose>
           <div className="flex flex-wrap gap-3">
-            <Button href="#formulier" variant="primary" className="px-8 py-4 text-base">Vraag uw bod aan</Button>
+            <Button href="/#formulier" variant="primary" className="px-8 py-4 text-base">Vraag uw bod aan</Button>
             <Button href="tel:0492779475" variant="secondary" className="px-8 py-4 text-base">0492 77 94 75</Button>
           </div>
         </Section>
