@@ -29,7 +29,8 @@
 *, *::before, *::after { box-sizing: border-box; }
 
 html {
-  scroll-behavior: auto;
+  scroll-behavior: smooth;
+  scroll-padding-top: 80px;
   background: #FAF7F2;
   font-size: 17px;
 }
