@@ -97,6 +97,14 @@ export default function Hero() {
               style={{ background: "#C0392B", fontSize: "1.0625rem" }}
               onMouseEnter={(e) => (e.currentTarget.style.background = "#a93226")}
               onMouseLeave={(e) => (e.currentTarget.style.background = "#C0392B")}
+              onClick={(e) => {
+                e.preventDefault();
+                const el = document.getElementById("formulier");
+                if (el) {
+                  const top = el.getBoundingClientRect().top + window.scrollY - 80;
+                  window.scrollTo({ top, behavior: "smooth" });
+                }
+              }}
             >
               Vraag uw gratis bod aan
               <svg width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true">

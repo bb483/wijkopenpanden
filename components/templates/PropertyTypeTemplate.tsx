@@ -5,6 +5,7 @@ import Container from "@/components/Container";
 import Heading from "@/components/Heading";
 import Prose from "@/components/Prose";
 import Button from "@/components/Button";
+import ScrollToFormulier from "@/components/ScrollToFormulier";
 import FAQAccordion from "@/components/FAQAccordion";
 import JsonLd from "@/components/JsonLd";
 import StickyCtaButton from "@/components/StickyCtaButton";
@@ -52,7 +53,7 @@ export default function PropertyTypeTemplate({ data }: { data: PropertyType }) {
             <p>{data.intro}</p>
           </Prose>
           <div className="flex flex-wrap gap-3">
-            <Button href="/#formulier" variant="primary" className="px-8 py-4 text-base">Vraag uw bod aan</Button>
+            <ScrollToFormulier className="inline-flex items-center justify-center px-8 py-4 rounded-full text-sm font-medium tracking-wide bg-ink text-bone border border-ink transition-colors duration-200 cursor-pointer">Vraag uw bod aan</ScrollToFormulier>
             <Button href="tel:0492779475" variant="secondary" className="px-8 py-4 text-base">0492 77 94 75</Button>
           </div>
         </Section>
