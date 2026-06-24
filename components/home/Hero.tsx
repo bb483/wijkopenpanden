@@ -3,6 +3,7 @@
 import { useRef, useEffect } from "react";
 import { gsap } from "gsap";
 import Container from "@/components/Container";
+import { scrollToFormulier } from "@/components/ScrollToFormulier";
 
 const trust = [
   "Reactie binnen 2 uur",
@@ -97,14 +98,7 @@ export default function Hero() {
               style={{ background: "#C0392B", fontSize: "1.0625rem" }}
               onMouseEnter={(e) => (e.currentTarget.style.background = "#a93226")}
               onMouseLeave={(e) => (e.currentTarget.style.background = "#C0392B")}
-              onClick={(e) => {
-                e.preventDefault();
-                const el = document.getElementById("formulier");
-                if (el) {
-                  const top = el.getBoundingClientRect().top + window.scrollY - 80;
-                  window.scrollTo({ top, behavior: "smooth" });
-                }
-              }}
+              onClick={(e) => { e.preventDefault(); scrollToFormulier(); }}
             >
               Vraag uw gratis bod aan
               <svg width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true">

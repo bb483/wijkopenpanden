@@ -2,6 +2,7 @@
 
 import { useState, useEffect, useRef } from "react";
 import Container from "./Container";
+import { scrollToFormulier } from "@/components/ScrollToFormulier";
 
 const menus = [
   {
@@ -145,8 +146,9 @@ export default function Nav() {
             Tip & verdien
           </a>
           <a
-            href="#formulier"
+            href="/#formulier"
             className="hidden md:inline-flex px-5 py-2 rounded-full text-sm font-medium text-white bg-[#C0392B] hover:bg-[#a93226] transition-colors duration-200 ease-out"
+            onClick={(e) => { e.preventDefault(); scrollToFormulier(); }}
           >
             Vraag bod aan
           </a>
@@ -219,9 +221,9 @@ export default function Nav() {
               Tip een pand — verdien tot €5.000
             </a>
             <a
-              href="#formulier"
+              href="/#formulier"
               className="block text-center px-6 py-4 rounded-full text-sm font-medium text-white bg-[#C0392B] active:bg-[#a93226] transition-colors duration-200"
-              onClick={() => setMobileOpen(false)}
+              onClick={(e) => { e.preventDefault(); setMobileOpen(false); scrollToFormulier(); }}
             >
               Vraag bod aan
             </a>

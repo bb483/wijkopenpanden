@@ -221,6 +221,17 @@ export default function Formulier() {
   const [loading, setLoading] = useState(false);
   const [sendError, setSendError] = useState(false);
 
+  useEffect(() => {
+    if (sessionStorage.getItem("scrollToFormulier") === "1") {
+      sessionStorage.removeItem("scrollToFormulier");
+      const el = document.getElementById("formulier");
+      if (el) {
+        const top = el.getBoundingClientRect().top + window.scrollY - 80;
+        window.scrollTo({ top, behavior: "smooth" });
+      }
+    }
+  }, []);
+
   const setText = (field: keyof FormData) =>
     (e: React.ChangeEvent<HTMLInputElement>) =>
       setForm((f) => ({ ...f, [field]: e.target.value }));
