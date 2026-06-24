@@ -2124,7 +2124,20 @@ export const articles: Article[] = [
       },
       {
         heading: "Lijfrente vs. klassieke verkoop: de beschermingsvergelijking",
-        body: "Wie kiest voor lijfrente in plaats van klassieke verkoop, ruilt zekerheid over de prijs in voor zekerheid over het inkomen. Hier is de vergelijking vanuit het perspectief van de verkoper:\n\n| Aspect | Klassieke verkoop | Lijfrente met vruchtgebruik |\n|--------|------------------|-----------------------------|\n| Ontvangst van de prijs | Eenmalig bij akte | Gespreid over uw leven |\n| Inkomenszekerheid | Geen (u beheert zelf het kapitaal) | Maandelijks gegarandeerd |\n| Woonzekerheid | U verhuist | U blijft wonen |\n| Erfenis | Kapitaal voor erfgenamen | Woning gaat naar koper |\n| Bescherming bij koper-wanbetaling | Niet van toepassing | Ontbindingsbeding |\n| Fiscale behandeling inkomsten | Kapitaal belegd: belasting op inkomsten | Rente zelf niet belast als inkomen |\n| Risico bij lang leven | Geen | Voordeel: rente loopt door |\n| Risico bij vroeg overlijden | Geen | Nadeel: erfgenamen ontvangen niets meer |\n\nDe lijfrente is een formule voor verkopers die nood hebben aan maandelijkse inkomenszekerheid en in hun woning willen blijven. Wie een maximale verkoopprijs wil en flexibel is over de timing, kiest beter voor een klassieke verkoop.",
+        body: "Wie kiest voor lijfrente in plaats van klassieke verkoop, ruilt zekerheid over de prijs in voor zekerheid over het inkomen. Hieronder de vergelijking vanuit het perspectief van de verkoper.\n\nDe lijfrente is een formule voor verkopers die nood hebben aan maandelijkse inkomenszekerheid en in hun woning willen blijven. Wie een maximale verkoopprijs wil en flexibel is over de timing, kiest beter voor een klassieke verkoop.",
+        table: {
+          headers: ["Aspect", "Klassieke verkoop", "Lijfrente met vruchtgebruik"],
+          rows: [
+            ["Ontvangst van de prijs", "Eenmalig bij akte", "Gespreid over uw leven"],
+            ["Inkomenszekerheid", "Geen — u beheert zelf het kapitaal", "Maandelijks gegarandeerd"],
+            ["Woonzekerheid", "U verhuist", "U blijft wonen"],
+            ["Erfenis", "Kapitaal voor erfgenamen", "Woning gaat naar koper"],
+            ["Bescherming bij wanbetaling", "Niet van toepassing", "Ontbindingsbeding"],
+            ["Fiscale behandeling", "Kapitaal belegd: belasting op inkomsten", "Rente zelf niet belast"],
+            ["Risico bij lang leven", "Geen", "Voordeel: rente loopt door"],
+            ["Risico bij vroeg overlijden", "Geen", "Nadeel: erfgenamen ontvangen niets meer"],
+          ],
+        },
       },
     ],
     relatedArticles: ["lijfrente-woning-verkopen-belgie", "erfbelasting-vlaanderen-2026", "hoelang-tijd-erfbelasting-betalen", "compromis-verkoop-woning-belgie"],
