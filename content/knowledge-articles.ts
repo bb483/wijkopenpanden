@@ -152,7 +152,7 @@ export const articles: Article[] = [
     sections: [
       {
         heading: "Kosten die u als verkoper draagt",
-        body: "Bij een klassieke verkoop via de markt zijn de volgende kosten voor rekening van de verkoper:\n\n• Makelaarscommissie (inclusief 21% btw)\n• EPC-attest (150–300 euro)\n• Elektriciteitskeuring (150–350 euro)\n• Asbestinventaris (250–600 euro)\n• Bodemattest (gratis via OVAM, maar eventuele sanering is kostbaar)\n• Eventuele herstellingen of schilderwerken vóór de verkoop\n• Dubbele notariskosten als u opnieuw aankoopt\n\nDe notariskosten voor de verkoopakte zelf zijn in België traditioneel ten laste van de koper. Maar als er een hypotheek op het pand rust, zijn de kosten voor de doorhaling van de hypotheek wel voor de verkoper.",
+        body: "Bij een klassieke verkoop via de markt zijn de volgende kosten voor rekening van de verkoper:\n\n• Makelaarscommissie (inclusief 21% btw)\n• EPC-attest (150–300 euro)\n• Elektriciteitskeuring (150–350 euro)\n• Asbestinventaris (250–600 euro)\n• Bodemattest (€67 via het Vastgoedinformatieplatform — eventuele sanering is extra kostbaar)\n• Eventuele herstellingen of schilderwerken vóór de verkoop\n• Dubbele notariskosten als u opnieuw aankoopt\n\nDe notariskosten voor de verkoopakte zelf zijn in België traditioneel ten laste van de koper. Maar als er een hypotheek op het pand rust, zijn de kosten voor de doorhaling van de hypotheek wel voor de verkoper.",
       },
       {
         heading: "Doorhaling van een hypotheek",
@@ -2172,6 +2172,336 @@ export const articles: Article[] = [
         question: "Is een lijfrente op twee levens beter voor koppels?",
         answer:
           "Dat hangt af van de situatie. Bij lijfrente op twee levens loopt de rente door zolang één van de twee partners leeft — de langstlevende behoudt het volledige inkomen. De maandelijkse rente is wel lager dan bij een lijfrente op één leven. Vraag de notaris beide opties door te rekenen voor uw specifieke leeftijden.",
+      },
+    ],
+  },
+  {
+    slug: "bodemattest-vlaanderen-verkoop",
+    title: "Bodemattest bij de verkoop van uw woning in Vlaanderen: procedure, kosten en types",
+    metaTitle: "Bodemattest Vlaanderen 2026: procedure, kosten & OVAM",
+    metaDescription:
+      "Welk bodemattest heeft u nodig bij de verkoop van uw woning in Vlaanderen? OVAM-procedure, kosten 2026, geldigheidsduur en wat u doet bij verontreiniging.",
+    publishedAt: "2026-06-27",
+    updatedAt: "2026-06-27",
+    intro:
+      "Bij de verkoop van een woning in Vlaanderen is het bodemattest een verplicht document. Zonder geldig bodemattest kan de notaris de akte niet verlijden. Toch weten veel eigenaars niet hoe ze het moeten aanvragen, hoe lang het duurt en wat de gevolgen zijn als het perceel als verontreinigd geregistreerd staat. In dit artikel leggen we de volledige procedure uit — inclusief de kosten, de verschillende types en wat u kunt doen als uw bodemattest problemen aantoont.",
+    sections: [
+      {
+        heading: "Wat is een bodemattest en waarom is het verplicht?",
+        body: "Een bodemattest is een officieel document dat de Openbare Vlaamse Afvalstoffenmaatschappij (OVAM) uitreikt. Het vermeldt of een perceel al dan niet geregistreerd staat als een risicogrond en wat de vastgestelde bodemtoestand is.\n\nDe verplichting is verankerd in het VLAREBO (Vlaams Reglement betreffende de Bodemsanering en de Bodembescherming). De wet bepaalt dat bij elke overdracht van een onroerend goed in Vlaanderen een geldig bodemattest beschikbaar moet zijn. De notaris is verplicht dit document op te vragen en de inhoud ervan mee te delen aan de koper vóór het verlijden van de akte.\n\nEen risicogrond is elk perceel waarop ooit een activiteit heeft plaatsgevonden die mogelijke bodemverontreiniging veroorzaakt. Klassieke voorbeelden:\n\n• Vroegere tankstations of stookolietanks\n• Voormalige chemische wasserijen of droogkuiserijen\n• Voormalig industrieel gebruik (metaalbewerking, verfproductie)\n• Opslag van gevaarlijke stoffen\n• Voormalige gasfabrieken of electriciteitsinstallaties\n\nVoor de meeste woonpercelen in Antwerpen is er geen risicoactiviteit bekend en levert het bodemattest een 'schone' verklaring op.",
+      },
+      {
+        heading: "Hoe vraagt u een bodemattest aan bij OVAM?",
+        body: "U vraagt het bodemattest aan via het officiële digitale loket voor vastgoedinformatie in Vlaanderen. Depuis 1 januari 2026 verloopt de aanvraag via het Vastgoedinformatieplatform (VIP) op vastgoedinformatieplatform.vlaanderen.be. De procedure verloopt in enkele stappen:\n\n1. Meld u aan met uw e-ID of itsme\n2. Zoek het perceel op via adres of perceelnummer\n3. Vraag het bodemattest aan en betaal de vergoeding digitaal\n4. Ontvang het bodemattest in uw digitale omgeving\n\nTermijnen: de wet voorziet twee verwerkingstermijnen afhankelijk van de beschikbare gegevens:\n• Als OVAM geen gegevens heeft over het perceel in het Grondinformatieregister: **14 kalenderdagen**\n• Als OVAM wel bestaande gegevens heeft over het perceel: **60 kalenderdagen**\n\nVoor de meeste gewone woonpercelen zonder industrieel verleden ontvangt u het attest binnen 14 kalenderdagen.\n\nBelangrijke regel: alleen de eigenaar van het perceel, of iemand met een aankoopbelofte (compromis), kan een bodemattest aanvragen. Als potentiële koper kunt u geen bodemattest aanvragen voor een woning die u nog niet heeft gekocht. Dat is de taak van de verkoper of de notaris.\n\nAls u niet in staat bent het bodemattest digitaal aan te vragen, kunt u een papieren aanvraag indienen via OVAM in Mechelen. De behandelingstermijn is in dat geval langer.",
+      },
+      {
+        heading: "Hoeveel kost een bodemattest in 2026?",
+        body: "OVAM rekent een vaste vergoeding aan per aangevraagd bodemattest. De tarieven worden periodiek aangepast via het besluit van de Vlaamse Regering.\n\nIn 2026 bedraagt de kost voor een standaard bodemattest voor een woonperceel **€67** (update juni 2025). Dit is een vergoeding voor de administratieve verwerking — niet voor een eventuele bodemonderzoek ter plaatse.\n\nBelangrijke nuance: als uw perceel als risicogrond geregistreerd staat, kan OVAM een aanvullend oriënterend bodemonderzoek vereisen vóór u kunt verkopen. De kosten van zo'n bodemonderzoek — uitgevoerd door een erkend bodemsaneringsdeskundige (BSD) — variëren van €1.500 tot €5.000 of meer, afhankelijk van de omvang van de site.\n\nAls het bodemonderzoek aantoont dat er verontreiniging is die sanering vereist, loopt de kostprijs aanzienlijk hoger op. Dit is echter een situatie die bij de overgrote meerderheid van woonpercelen niet speelt.",
+      },
+      {
+        heading: "Welke informatie staat in een bodemattest?",
+        body: "Een bodemattest vermeldt de volgende informatie:\n\n• Of het perceel al dan niet voorkomt in het grondeninformatieregister van OVAM\n• Of er een risicoactiviteit bekend is op het perceel\n• Of er een bodemonderzoek is uitgevoerd en wat de conclusie was\n• Of er bodemsaneringswerken zijn uitgevoerd of lopend zijn\n• Of er gebruiksbeperkingen gelden voor het perceel\n\nEen 'schoon' bodemattest — waarbij het perceel niet in het risicoregister staat en er geen verontreiniging is vastgesteld — bevat weinig meer dan een bevestiging dat er geen informatie is die op een probleem wijst. Dat is het geval voor de meeste woonpercelen.\n\nEen problematisch bodemattest kan vermelden dat er een oriënterend of beschrijvend bodemonderzoek werd uitgevoerd, dat er verontreiniging werd vastgesteld en welke stoffen werden gedetecteerd. In dat geval zijn er gevolgen voor de verkoop.",
+      },
+      {
+        heading: "Wat als het bodemattest een risico of verontreiniging aangeeft?",
+        body: "Als OVAM het perceel heeft geklasseerd als risicogrond of als er bij een eerder bodemonderzoek verontreiniging is vastgesteld, zijn er meerdere pistes:\n\n1. Oriënterend bodemonderzoek\nAls er nog geen bodemonderzoek is gebeurd, vereist de wet dat er een oriënterend onderzoek plaatsvindt vóór de overdracht. Een erkend bodemsaneringsdeskundige voert dit uit. Doel: nagaan of de verontreiniging al dan niet de drempelwaarden overschrijdt.\n\n2. Beschrijvend bodemonderzoek\nAls het oriënterend onderzoek uitwijst dat de verontreiniging significanter is, volgt een uitgebreid beschrijvend onderzoek. Dat brengt de omvang en de risico's in kaart.\n\n3. Bodemsaneringswerken\nAls sanering noodzakelijk is, moeten er bodemsaneringswerken worden uitgevoerd. Dit kan de verkoop vertragen en aanzienlijke kosten met zich meebrengen. De verplichte partij voor sanering is de eigenaar — niet de potentiële koper.\n\n4. Overdracht met 'overdrachtsattest'\nIn bepaalde gevallen kan een verontreinigd perceel toch overgedragen worden, mits de koper op de hoogte is en er een overdrachtsattest werd opgesteld door een erkende BSD. De OVAM geeft toestemming voor de overdracht via dit attest.\n\nVoor de verkoper is het cruciaal dit vroegtijdig te onderzoeken. Wacht u tot het compromis ondertekend is om het bodemattest op te vragen, dan riskeert u een vertraging van weken of maanden.",
+      },
+      {
+        heading: "Bodemattest en verkoop aan wijkopenpanden.be",
+        body: "Bij een verkoop aan wijkopenpanden.be bezorgen wij alle attesten, inclusief het bodemattest, op eigen kosten. U hoeft geen OVAM-aanvraag te doen — wij coördineren dit in samenwerking met de notaris.\n\nAls het bodemattest van uw perceel een risicogrond aangeeft, bespreken we dit transparant met u. We werken samen met erkende bodemsaneringsdeskundigen en kennen de procedure. In de meeste gevallen is het probleem kleiner dan gevreesd — en wij zijn bereid ook dergelijke panden over te nemen, mits de situatie duidelijk is.",
+      },
+    ],
+    relatedArticles: ["keuringen-bij-verkoop-woning", "verkoop-kosten-berekenen", "stedenbouwkundige-overtreding-woning-verkopen"],
+    relatedSituations: ["verkopen-zonder-makelaar", "huis-verkopen-bij-erfenis"],
+    faqs: [
+      {
+        question: "Is het bodemattest gratis bij OVAM?",
+        answer:
+          "Nee, het bodemattest is niet gratis. De officiële vergoeding bedraagt €67 per perceel (stand juni 2025). Eventuele bodemonderzoeken door erkende deskundigen kosten extra en zijn niet inbegrepen in dit bedrag.",
+      },
+      {
+        question: "Hoe lang is een bodemattest geldig?",
+        answer:
+          "Een bodemattest heeft geen formele vervaldatum, maar beschrijft de toestand op de datum van uitgifte. Voor een verkoop wordt doorgaans een recent attest gevraagd — bij voorkeur niet ouder dan één jaar. Als er intussen nieuwe informatie beschikbaar is gekomen bij OVAM, kan een nieuw attest een andere conclusie tonen.",
+      },
+      {
+        question: "Kan ik mijn woning verkopen als er bodemverontreiniging is?",
+        answer:
+          "Ja, maar de procedure is complexer. U moet als verkoper het bodemonderzoek laten uitvoeren door een erkend bodemsaneringsdeskundige. Afhankelijk van de ernst van de verontreiniging volgt eventueel sanering of wordt de overdracht via een speciaal overdrachtsattest goedgekeurd door OVAM.",
+      },
+      {
+        question: "Wie betaalt het bodemattest bij een klassieke verkoop via makelaar?",
+        answer:
+          "Het bodemattest is ten laste van de verkoper als onderdeel van de verplichte documentatie bij verkoop. De meeste makelaars wijzen de eigenaar hierop, maar de aanvraag moet u zelf doen via MyOVAM of via de notaris.",
+      },
+      {
+        question: "Hoe lang duurt het om een bodemattest te ontvangen?",
+        answer:
+          "OVAM heeft wettelijk 30 dagen om het bodemattest af te leveren. Bij eenvoudige aanvragen voor woonpercelen is de doorlooptijd in de praktijk vaak korter — soms enkele werkdagen. Dien de aanvraag tijdig in om geen vertraging in de verkoop te riskeren.",
+      },
+    ],
+  },
+  {
+    slug: "meerwaardebelasting-tweede-verblijf-belgie",
+    title: "Meerwaardebelasting bij verkoop van een tweede verblijf of beleggingspand in België",
+    metaTitle: "Meerwaardebelasting tweede verblijf België 2026 — tarieven",
+    metaDescription:
+      "Wanneer betaalt u belasting op de winst bij de verkoop van een tweede woning of beleggingspand in België? Tarieven 16,5% en 33%, berekening en uitzonderingen.",
+    publishedAt: "2026-06-27",
+    updatedAt: "2026-06-27",
+    intro:
+      "In België kennen particulieren geen algemene meerwaardebelasting op onroerend goed. Maar dat betekent niet dat u altijd vrij bent van belasting op de winst bij een verkoop. Wie een tweede verblijf, beleggingspand of grond bezit en dat verkoopt binnen een bepaalde termijn, kan geconfronteerd worden met een meerwaardebelasting van 16,5% of zelfs 33%. In dit artikel leggen we de regels stap voor stap uit — met een concreet rekenvoorbeeld.",
+    sections: [
+      {
+        heading: "De basisregel: uw eigen woning is vrijgesteld",
+        body: "De Belgische fiscale wet voorziet een vrijstelling van meerwaardebelasting voor de verkoop van de woning die u als hoofdverblijfplaats bewoont. Voorwaarden:\n\n• U heeft de woning effectief als hoofdverblijfplaats gebruikt\n• U was er ingeschreven in het bevolkingsregister\n• Er is geen speculatief opzet\n\nDeze vrijstelling geldt voor uw enige eigen woning, ongeacht de winst die u maakt. Een rijhuis in Antwerpen dat u 20 jaar heeft bewoond en nu verkoopt voor €100.000 meer dan u betaalde: geen meerwaardebelasting.\n\nVoor alle andere eigendommen — tweede verblijf, beleggingspand, garageboxen, gronden — gelden andere regels.",
+      },
+      {
+        heading: "Wanneer betaalt u belasting op de meerwaarde?",
+        body: "Er zijn twee specifieke situaties waarbij particulieren meerwaardebelasting verschuldigd zijn:\n\n**Gebouwde onroerende goederen verkocht binnen 5 jaar na aankoop:**\nAls u een woning, appartement of ander gebouw koopt en verkoopt binnen 5 jaar na de aankoopdatum (datum van de aankoopakte, niet het compromis), bent u belasting verschuldigd op de gerealiseerde meerwaarde. Het tarief bedraagt 16,5%, te vermeerderen met gemeentebelasting.\n\nDe 5-jaarsperiode wordt berekend van datum aankoopakte tot datum van de verkoopbelofte (compromis).\n\n**Gronden verkocht binnen 8 jaar na aankoop:**\nVoor onbebouwde percelen gelden strengere regels:\n• Verkoop binnen 5 jaar na aankoop: 33% op de meerwaarde\n• Verkoop tussen 5 en 8 jaar na aankoop: 16,5% op de meerwaarde\n• Na 8 jaar: geen meerwaardebelasting\n\n**Speculatief karakter:**\nBuiten de wettelijke termijnen kan de belastingdienst toch meerwaardebelasting heffen als de verkoop een 'normaal beheer van het privévermogen' overschrijdt. Dit speelt bij herhaalde aankopen en doorverkopen of bij aankoop met duidelijk speculatief opzet. In dat geval wordt de volledige meerwaarde belast als diverse inkomsten (divers inkomen) aan het progressieve tarief.",
+      },
+      {
+        heading: "Hoe wordt de belastbare meerwaarde berekend?",
+        body: "De belastbare meerwaarde is het verschil tussen de verkoopprijs en een gecorrigeerde aankoopprijs. De exacte berekeningswijze is complex en hangt af van de omstandigheden van uw dossier — laat de berekening altijd uitvoeren door de notaris of een fiscalist.\n\nIn grote lijnen worden bij de berekening de volgende elementen meegenomen:\n\n• De aankoopprijs wordt gecorrigeerd voor inflatie via een wettelijke indexatiecoëfficiënt (gepubliceerd door de FOD Financiën)\n• Bewezen kosten bij de aankoop (registratierechten, notariskosten) en de verkoop (notariskosten, makelaarscommissie) kunnen worden meegeteld\n• Bewezen verbouwingskosten (met facturen) kunnen de aankoopbasis verhogen\n• De belastbare meerwaarde kan ook worden verminderd naargelang het aantal volledige jaren eigendom\n\nDe notaris berekent het belastbare bedrag op basis van de fiscale dossiergegevens en de officiële jaarcoëfficiënten. Vraag dit vóór de compromis te laten simuleren als de termijn van 5 jaar nadert.",
+      },
+      {
+        heading: "Concreet: wat betaalt u bij een beleggingspand verkocht binnen 5 jaar?",
+        body: "Stel: u heeft een appartement als beleggingspand gekocht 3 jaar geleden en verkoopt het nu met een gerealiseerde winst van €30.000 na alle correcties.\n\nMeerwaardebelasting: €30.000 × 16,5% = €4.950\nGemeentebelasting (doorgaans 6–8% van de belasting): circa €300–€400 extra\n\nTotale belastingkost: circa €5.250–€5.350\n\nAls u dezelfde winst maakt na 5 jaar eigendom: €0 meerwaardebelasting.\n\nHet tarief van 16,5% geldt op de belastbare meerwaarde na correcties. De notaris berekent de exacte belastbare grondslag in uw dossier.",
+      },
+      {
+        heading: "Speciale gevallen: erfenis, schenking en nieuwbouw",
+        body: "**Geërfd vastgoed:**\nAls u een woning erft, start de 5-jaarstermijn voor de meerwaardebelasting op de datum van overlijden — niet op de datum waarop de overledene het goed kocht. Erft u een woning en verkoopt u die minder dan 5 jaar na het overlijden, dan kan er meerwaardebelasting verschuldigd zijn als er een meerwaarde is ten opzichte van de fiscale waarde bij het overlijden.\n\nIn de praktijk is de belastbare meerwaarde bij erfeniswoningen vaak beperkt als u snel verkoopt aan of rond de waarde die bij de erfbelasting werd opgegeven.\n\n**Geschonken vastgoed:**\nBij een schenking start de 5-jaarstermijn op de datum van de schenkingsakte. Als u een geschonken woning verkoopt binnen 5 jaar na de schenking, gelden dezelfde regels als bij een aankoop.\n\n**Nieuwbouw en btw:**\nAls u een nieuwbouwappartement binnen 2 jaar na eerste ingebruikname verkoopt, zijn er btw-implicaties (zie artikel over belastingen bij woningverkoop). Dit staat los van de meerwaardebelasting.",
+      },
+      {
+        heading: "Wanneer bent u definitief vrijgesteld van meerwaardebelasting?",
+        body: "Als particulier bent u vrijgesteld van meerwaardebelasting bij de verkoop van onroerend goed in de volgende gevallen:\n\n• Verkoop van uw eigen woning (hoofdverblijfplaats) — altijd vrijgesteld\n• Verkoop van een gebouw meer dan 5 jaar na de aankoopakte\n• Verkoop van een grond meer dan 8 jaar na de aankoopakte\n• Als de gerealiseerde meerwaarde nihil of negatief is (verlies)\n• Als de belastingdienst de transactie beschouwt als normaal beheer van uw privévermogen\n\nDe vrijstellingsduur begint te lopen op de dag van de aankoopakte — niet op de dag van het compromis of de betaling.",
+      },
+    ],
+    relatedArticles: ["belastingen-bij-woningverkoop", "notariskosten-woning-verkoop", "verhuren-of-verkopen-antwerpen"],
+    relatedSituations: ["huis-verkopen-bij-erfenis", "verkopen-zonder-makelaar"],
+    faqs: [
+      {
+        question: "Betaal ik meerwaardebelasting als ik mijn tweede woning verkoop na 5 jaar?",
+        answer:
+          "Nee. Als u een gebouweigendom meer dan 5 jaar bezit voor de verkoopbelofte (compromis) wordt ondertekend, is er geen meerwaardebelasting verschuldigd. De 5-jaarstermijn wordt berekend van de datum van de aankoopakte tot de datum van het compromis.",
+      },
+      {
+        question: "Hoe hoog is de meerwaardebelasting op een beleggingspand dat ik binnen 5 jaar verkoop?",
+        answer:
+          "Het tarief bedraagt 16,5% op de belastbare meerwaarde, te vermeerderen met de gemeentebelasting. De belastbare meerwaarde wordt berekend na indexering van de aankoopprijs en aftrek van kosten en een korting van 5% per volledig jaar bezit.",
+      },
+      {
+        question: "Is er een manier om de meerwaardebelasting te vermijden?",
+        answer:
+          "Legale opties zijn: wachten tot de 5-jaarstermijn (of 8 jaar voor grond) verstreken is, de woning als uw eigen hoofdverblijfplaats gebruiken voor de verkoop, of alle aftrekbare kosten en indexering maximaal toepassen om de belastbare grondslag te verlagen. Raadpleeg een notaris of fiscalist voor uw specifieke situatie.",
+      },
+      {
+        question: "Speelt de meerwaardebelasting ook bij een verkoop aan een opkoper?",
+        answer:
+          "Ja, de meerwaardebelasting wordt berekend op basis van de juridische eigendomsduur en de gerealiseerde meerwaarde — ongeacht wie de koper is. De belasting staat los van de verkoopformule. Als u binnen de 5-jaarstermijn verkoopt aan wijkopenpanden.be, is de meerwaardebelasting even van toepassing als bij een klassieke verkoop.",
+      },
+      {
+        question: "Hoe zit het met de meerwaardebelasting bij een echtscheiding?",
+        answer:
+          "Als de gezinswoning wordt verkocht bij een echtscheiding en het gaat om de enige eigen woning, is er doorgaans geen meerwaardebelasting. Bij een tweede woning of een pand dat niet als hoofdverblijfplaats gold, gelden de normale regels. Neem de situatie op met uw notaris bij de opstelling van de echtscheidingsakte.",
+      },
+    ],
+  },
+  {
+    slug: "schenking-woning-vlaanderen",
+    title: "Uw woning schenken aan uw kinderen in Vlaanderen: belasting, voordelen en valkuilen",
+    metaTitle: "Woning schenken Vlaanderen 2026: tarieven & voordelen",
+    metaDescription:
+      "Woning schenken aan uw kinderen in Vlaanderen: schenkbelasting 3%-18%, verschil met erfbelasting, schenking met vruchtgebruik en wanneer het fiscaal loont.",
+    publishedAt: "2026-06-27",
+    updatedAt: "2026-06-27",
+    intro:
+      "Veel eigenaars overwegen hun woning al bij leven over te dragen aan hun kinderen — om de erfbelasting te verlagen, familiale conflicten te vermijden of gewoon omdat ze weten dat ze er niet meer in zullen wonen. In Vlaanderen is dit fiscaal bijzonder interessant, omdat de schenkbelasting voor onroerend goed lager kan uitvallen dan de erfbelasting. In dit artikel leggen we de tarieven, de procedure en de strategische overwegingen uit.",
+    sections: [
+      {
+        heading: "Wat is een schenking van onroerend goed?",
+        body: "Een schenking van onroerend goed — een woning, appartement, bouwgrond of garage — is een rechtsgeldige overdracht van eigendom bij leven, zonder betaling van de verkoopprijs. De schenker (donateur) geeft het goed vrij aan de begiftigde (donataire).\n\nIn België is een notariële akte verplicht voor elke schenking van onroerend goed. U kunt een woning niet via een handgift of bankgift overdragen — er is altijd een notarisbezoek vereist. Dit heeft een belangrijke fiscale consequentie: alle schenkingen van onroerend goed worden geregistreerd en zijn onmiddellijk onderworpen aan de schenkbelasting.\n\nDe schenking hoeft niet altijd 'volledig' te zijn. U kunt:\n• De volle eigendom schenken (blote eigendom + vruchtgebruik)\n• Alleen de blote eigendom schenken en zelf het vruchtgebruik behouden\n• Een deel van de woning schenken (bv. de helft aan elk kind)",
+      },
+      {
+        heading: "Schenkbelasting in Vlaanderen: tarieven voor onroerend goed (2026)",
+        body: "De schenkbelasting is een Vlaamse belasting die u betaalt bij de registratie van de schenkingsakte. De tarieven hangen af van de relatie tussen schenker en begiftigde.\n\n**In rechte lijn (ouders aan kinderen, kleinkinderen; partners):**\n• 3% op de schijf tot €150.000\n• 9% op de schijf van €150.000 tot €250.000\n• 18% op de schijf van €250.000 tot €450.000\n• 27% op het bedrag boven €450.000\n\nBelangrijk: in 2028 is een tariefverlaging gepland naar 3%/6%/10%/14% — maar deze is nog niet van kracht. Controleer de actuele tarieven bij uw notaris.\n\nVergelijking met de erfbelasting in rechte lijn:\n• 3% op de schijf tot €50.000\n• 9% op de schijf van €50.000 tot €250.000\n• 27% op het bedrag boven €250.000\n\nHet toppercentage bij schenken (27% pas boven €450.000) is gunstiger gepositioneerd dan bij erven (27% al boven €250.000). De brede eerste schijf bij schenken (€150.000 vs €50.000 bij erven) levert voor middelgrote waarden een tastbaar belastingvoordeel op.\n\n**Andere personen (broers, zussen, neven, nichten, vrienden):**\n• 10% tot €150.000\n• 20% van €150.000 tot €250.000\n• 30% van €250.000 tot €450.000\n• 40% boven €450.000\n\nDe schenkbelasting wordt berekend per begiftigde. Als u uw woning schenkt aan twee kinderen, betaalt elk kind schenkbelasting op hun aandeel — niet op de totale waarde.",
+      },
+      {
+        heading: "Schenken met behoud van vruchtgebruik: de populairste formule",
+        body: "De meest gebruikte schenkingsstrategie voor onroerend goed in Vlaanderen is de schenking van de blote eigendom met behoud van het vruchtgebruik door de ouders.\n\nHoe werkt het?\n• U schenkt de blote eigendom van de woning aan uw kind(eren)\n• U behoudt het vruchtgebruik: u mag de woning blijven bewonen en verhuren\n• Bij uw overlijden dooft het vruchtgebruik automatisch uit — uw kinderen worden dan volle eigenaar, zonder erfbelasting op dat ogenblik\n\nFiscaal voordeel: de schenkbelasting wordt niet berekend op de volle eigendomswaarde, maar enkel op de waarde van de blote eigendom. Die waarde hangt af van uw leeftijd:\n• Hoe ouder u bent, hoe kleiner de blote eigendomswaarde (want de statistische resterende duur van het vruchtgebruik is korter)\n• Een 70-jarige die de blote eigendom schenkt, betaalt schenkbelasting op circa 50–55% van de marktwaarde\n• Een 60-jarige betaalt op circa 40–45% van de marktwaarde\n\nPraktisch voorbeeld: een woning met een marktwaarde van €400.000, schenker is 72 jaar oud.\n• Blote eigendomswaarde (ca. 50%): €200.000\n• Schenkbelasting rechte lijn: 3% × €150.000 + 9% × €50.000 = €4.500 + €4.500 = €9.000\n\nZonder schenking: bij overlijden zou de erfbelasting op dezelfde woning (volle eigendom) voor één kind oplopen tot:\n• 3% × €50.000 + 9% × €200.000 + 27% × €150.000 = €1.500 + €18.000 + €40.500 = €60.000\n\nHet fiscale voordeel kan dus enorm zijn.",
+      },
+      {
+        heading: "Wanneer is schenken fiscaal voordeliger dan erven?",
+        body: "Schenken van onroerend goed is in de volgende situaties doorgaans fiscaal voordeliger dan nalaten via erfenis:\n\n• **Grote waarden boven €250.000**: het toppercentage bij schenken (18%) is lager dan bij erven (27%). Het voordeel is het grootst bij hoge vastgoedwaarden.\n\n• **Schenken met vruchtgebruik op jonge(re) leeftijd**: de blote eigendomswaarde is kleiner als u jonger bent, waardoor de schenkbelasting lager uitvalt. Hoe vroeger u schenkt, hoe groter het belastingvoordeel.\n\n• **Vastgoed dat in waarde stijgt**: als u vandaag schenkt aan de huidige marktwaarde, stijgt de toekomstige meerwaarde bij de kinderen belastingvrij. Bij een erfenis wordt de hogere waarde bij overlijden belast.\n\n• **Meerdere kinderen**: elk kind betaalt apart schenkbelasting op zijn/haar aandeel. Het progressieve tarief wordt zo meerdere keren 'herstart' — wat voordeliger is dan één kind dat de hele woning erft.\n\nWanneer is schenken NIET voordeliger?\n• Bij kleinere waarden (onder €250.000) kan het fiscale voordeel beperkt zijn — de erfbelasting is dan gelijkaardig\n• Als u het vruchtgebruik niet kunt of wil behouden (u heeft de woningwaarde nodig voor levensonderhoud)\n• Als uw situatie complex is (echtscheiding, tweede huwelijk, bijzondere familiale omstandigheden)",
+      },
+      {
+        heading: "De procedure: hoe verloopt een schenking van onroerend goed?",
+        body: "Een schenking van onroerend goed verloopt via een notaris. De stappen:\n\n1. Overleg met uw notaris over de meest geschikte formule (volle eigendom of blote eigendom + vruchtgebruik)\n2. De notaris maakt de schenkingsakte op, met de juiste clausules voor vruchtgebruik, lasten en voorwaarden\n3. U en de begiftigde(n) ondertekenen de akte voor de notaris\n4. De notaris registreert de akte bij de belastingdienst en betaalt de schenkbelasting\n5. U ontvangt een ontvangstbewijs van de betaalde schenkbelasting\n\nAls u de woning aan meerdere kinderen schenkt, kunnen ze elk hun eigen notaris meebrengen — maar in de praktijk werkt men doorgaans samen met één notaris.\n\nVoor de schenker zijn er geen inkomsten- of meerwaardebelasting verschuldigd. De schenkbelasting wordt betaald door de begiftigde(n).",
+      },
+      {
+        heading: "Aandachtspunten en valkuilen bij een schenking van onroerend goed",
+        body: "Een schenking is onherroepelijk. Eens de akte getekend en geregistreerd, kunt u de schenking niet zomaar terugdraaien. Er zijn uitzonderingen (ondankbaarheid van de begiftigde, niet-nakoming van lasten), maar die zijn beperkt.\n\nSamentellingsregel:\nAls u aan dezelfde persoon meerdere schenkingen van onroerend goed doet binnen drie jaar, worden alle waarden samengeteld voor de progressieve berekening van de schenkbelasting. Een tweede schenking binnen drie jaar kan daardoor in een hogere schijf vallen. Spreid schenkingen over meer dan drie jaar als u van de laagste schijf wil blijven genieten.\n\nOpduweffect bij overlijden:\nAls u overlijdt binnen drie jaar na de schenking, wordt de waarde van het geschonken goed fictief opgeteld bij de nalatenschap voor de berekening van de erfbelasting op andere geërfde goederen. Het geschonken goed zelf wordt niet opnieuw belast — de schenkbelasting werd al betaald — maar de extra waarde kan de resterende goederen in een hogere erfbelastingschijf duwen. Bespreek dit risico met uw notaris als u een gezondheidssituatie heeft die dit relevant maakt.\n\nBelang van goede clausules:\n• Een terugkeerbeding zorgt ervoor dat het goed automatisch naar u terugkeert als de begiftigde vóór u overlijdt (zonder erfbelasting op die terugkeer)\n• Een verbod op vervreemding kan voorkomen dat de begiftigde het goed snel verkoopt\n• Lasten opleggen (bv. u financieel ondersteunen) is mogelijk maar moet juridisch correct worden opgesteld\n\nHypotheek op de geschonken woning:\nAls er een hypotheek rust op de woning die u schenkt, moet dat worden meegedeeld. De begiftigde kan de lening overnemen of u laat de lening aflossen voor de schenking. Een notaris zal u dit precies uitleggen.\n\nGelijkheid tussen kinderen (inbreng en inkorting):\nEen schenking telt als een voorschot op de erfenis, tenzij u uitdrukkelijk 'buiten erfdeel' schenkt. Dit heeft gevolgen voor de verdeling van de rest van uw nalatenschap. Laat u hierover adviseren door de notaris als u meerdere kinderen heeft.",
+      },
+    ],
+    relatedArticles: ["erfbelasting-vlaanderen-2026", "notariskosten-woning-verkoop", "belastingen-bij-woningverkoop"],
+    relatedSituations: ["huis-verkopen-bij-erfenis", "verkopen-zonder-makelaar"],
+    faqs: [
+      {
+        question: "Is schenken van een woning altijd goedkoper dan nalaten via erfenis?",
+        answer:
+          "Niet altijd. Bij waarden tot €250.000 is het belastingvoordeel beperkt. Bij hogere waarden en bij schenking met vruchtgebruik is schenken doorgaans fiscaal voordeliger. Laat een notaris beide scenario's doorrekenen voor uw specifieke situatie.",
+      },
+      {
+        question: "Moet ik schenkbelasting betalen als ik mijn woning schenk aan mijn kinderen?",
+        answer:
+          "Ja. De schenkbelasting voor onroerend goed in rechte lijn bedraagt in Vlaanderen 3% op de eerste €150.000, 9% van €150.000 tot €250.000 en 18% boven €250.000. De belasting wordt berekend op de waarde van wat u schenkt — bij schenking met vruchtgebruik enkel op de waarde van de blote eigendom.",
+      },
+      {
+        question: "Kan ik mijn woning schenken maar er toch blijven wonen?",
+        answer:
+          "Ja, via een schenking met behoud van vruchtgebruik. U schenkt de blote eigendom aan uw kinderen maar behoudt het recht om in de woning te wonen en eventueel te verhuren. Na uw overlijden worden uw kinderen automatisch volle eigenaar, zonder extra erfbelasting.",
+      },
+      {
+        question: "Heeft een schenking van onroerend goed een fiscaal gevolg als de schenker snel overlijdt?",
+        answer:
+          "Ja, er is een opduweffect. Als de schenker overlijdt binnen drie jaar na de schenking, wordt de waarde van het geschonken goed fictief opgeteld bij de resterende nalatenschap voor de berekening van de erfbelasting op die andere goederen. Het geschonken goed zelf wordt niet opnieuw belast — de schenkbelasting werd al betaald — maar de waarde ervan kan de overige geërfde goederen in een hogere belastingschijf duwen. Raadpleeg uw notaris als dit risico van toepassing kan zijn.",
+      },
+      {
+        question: "Wat als de geschonken woning later stijgt in waarde?",
+        answer:
+          "De meerwaarde na de schenking is voor rekening van de begiftigde. Als uw kind de woning later verkoopt voor meer dan de schenkingswaarde, zijn de normale regels voor meerwaardebelasting van toepassing — maar de meerwaarde die vóór de schenking werd opgebouwd, valt buiten de grondslag.",
+      },
+    ],
+  },
+  {
+    slug: "huurder-rechten-bij-verkoop-woning",
+    title: "Huurder in uw woning bij verkoop: rechten, recht van voorkoop en hoe u de verkoop organiseert",
+    metaTitle: "Huurder rechten bij verkoop woning Vlaanderen 2026",
+    metaDescription:
+      "Verkoopt u een verhuurde woning in Vlaanderen? Lees over het recht van voorkoop van de huurder, opzegtermijnen, hoe de koper het huurcontract overneemt en hoe de verkoop vlot verloopt.",
+    publishedAt: "2026-06-27",
+    updatedAt: "2026-06-27",
+    intro:
+      "U wilt uw verhuurde woning verkopen — maar u weet niet goed wat de rechten van de huurder zijn, wanneer u hem of haar moet informeren en of u het huurcontract kunt beëindigen. In Vlaanderen regelt het Woninghuurdecreet van 2018 de relatie tussen verhuurder, huurder en nieuwe eigenaar bij een verkoop. De regels zijn strikt en wie ze niet volgt, riskeert juridische complicaties. In dit artikel leggen we alles uit.",
+    sections: [
+      {
+        heading: "De basisregel: het huurcontract volgt de woning",
+        body: "Wanneer u een verhuurde woning verkoopt, neemt de nieuwe eigenaar het lopende huurcontract automatisch over. Dit is een fundamenteel principe van het Belgisch huurrecht: 'koop breekt geen huur'.\n\nDit betekent:\n• De huurder blijft in de woning wonen onder dezelfde voorwaarden\n• De huurprijs, de duur, de opzegtermijnen — alles blijft onveranderd\n• De nieuwe eigenaar kan de huurder niet zomaar uitzetten omdat hij het pand heeft gekocht\n\nAls nieuwe eigenaar bent u gebonden aan de lopende huurovereenkomst. Wilt u de woning daarna zelf bewonen of renoveren, dan moet u de normale opzegtermijnen van het huurrecht respecteren.\n\nDeze basisregel is absoluut: ook als de nieuwe eigenaar niet wist dat de woning verhuurd was, blijft het huurcontract van kracht.",
+      },
+      {
+        heading: "Het recht van voorkoop van de huurder in Vlaanderen",
+        body: "Onder het Vlaamse Woninghuurdecreet heeft de huurder een recht van voorkoop bij de verkoop van de woning. Dit is het recht om de woning te kopen onder dezelfde voorwaarden als de kandidaat-koper.\n\nVoorwaarden voor het recht van voorkoop:\n• Het gaat om een woning verhuurd als hoofdverblijfplaats\n• De huurder heeft een lopende overeenkomst (geen tijdelijk verblijf of studentenkamer)\n• De verkoop is niet aan een specifieke uitzondering onderworpen (zie hieronder)\n\nHoe werkt het?\n1. U vindt een koper en bereikt een akkoord over de prijs\n2. Vóór het ondertekenen van het compromis stelt u de huurder schriftelijk op de hoogte van de verkoopprijs, voorwaarden en identiteit van de kandidaat-koper\n3. De huurder heeft 1 maand de tijd om zijn recht van voorkoop uit te oefenen\n4. Kiest de huurder voor de aankoop, dan koopt hij de woning aan dezelfde prijs en voorwaarden\n5. Kiest de huurder niet, dan verloopt de verkoop aan de aangemelde koper\n\nUitzonderingen op het recht van voorkoop:\n• Verkoop aan een familielid tot en met de derde graad (ouders, kinderen, broers/zussen, neven/nichten)\n• Verkoop van meerdere eigendommen tegelijk als geheel (bv. een volledig appartementengebouw)\n\nBelangrijk: als u het recht van voorkoop niet respecteert, kan de huurder de verkoop aanvechten en bij voorkeur in de koop treden. De notaris is verplicht dit te controleren.",
+      },
+      {
+        heading: "Kan de verhuurder de huurder opzeggen voor de verkoop?",
+        body: "Als u de woning wil verkopen als leeg pand (zonder huurder), moet u het huurcontract beëindigen vóór de verkoop. Dat is alleen mogelijk onder de wettelijke opzeggingsgronden:\n\n**Eigen gebruik (art. 5 Woninghuurdecreet):**\nU kunt de huurder opzeggen als u of een naaste familielid de woning zelf wil bewonen. U moet de intentie tot eigen gebruik concreet kunnen aantonen. Opzegtermijn: 6 maanden.\n\n**Renovatie (art. 5 Woninghuurdecreet):**\nU kunt opzeggen als u grondige renovatiewerken plant die niet kunnen worden uitgevoerd terwijl de huurder er woont. U moet voorafgaand een omgevingsvergunning hebben. Opzegtermijn: 6 maanden.\n\n**Op het einde van een huurperiode (3/6/9):**\nBij een standaard 9-jarig huurcontract kunt u op het einde van de derde of zesde huurjaar opzeggen — mits u dit tijdig doet (6 maanden op voorhand).\n\n**Geen reden vereist:** Opzegging op het einde van de negende huurjaar (of bij een kortetermijnhuur op het einde van de termijn) vereist geen specifieke reden, mits de termijn van 6 maanden gerespecteerd wordt.\n\nOpzegging enkel voor de verkoop — zonder eigen gebruik of renovatieplan — is NIET toegestaan. U kunt niet opzeggen met als enige reden dat u de woning leeg wil verkopen.",
+      },
+      {
+        heading: "Hoe organiseert u bezichtigingen met een huurder in het pand?",
+        body: "Als u de woning wil verkopen terwijl de huurder er nog in woont, heeft u bepaalde rechten maar ook verplichtingen.\n\nWettelijk kader:\n• U heeft het recht om de woning te laten bezichtigen door potentiële kopers\n• De huurder is verplicht mee te werken, maar heeft recht op privacy en een redelijke aankondigingstermijn\n• Gangbaar is een afspraak van minimaal 24 tot 48 uur op voorhand\n• Bezichtigingen zijn in de regel beperkt tot een redelijk aantal per week en tot normale uren\n\nPraktisch advies:\n• Communiceer open met de huurder over de verkoopplannen. Een huurder die zich gerespecteerd voelt, werkt vlotter mee\n• Bied eventueel een kleine vergoeding aan voor het meewerken aan bezichtigingen — dit is wettelijk niet verplicht maar bevordert de sfeer\n• Onderneem geen acties die de huurder bewust hinderen in zijn gebruik van de woning\n\nAls de huurder de bezichtigingen actief belemmert (deuren niet opendoet, weigert redelijke afspraken), kunt u via de vrederechter een machtiging vragen om toch toegang te krijgen.",
+      },
+      {
+        heading: "Huurkorting bij verkoop met huurder: hoe wordt de prijs bepaald?",
+        body: "Een verhuurde woning is op de klassieke markt minder eenvoudig te verkopen dan een leeg pand. De meeste particuliere kopers willen zelf in de woning wonen of ze leeg kopen voor renovatie. Dit beperkt uw markt.\n\nAls de woning al verhuurd is, zijn de typische kopers:\n• Andere investeerders die een rendementspand zoeken — zij betalen op basis van het huurrendement, niet de marktwaarde als eigen woning\n• Professionele vastgoedopkopers die de situatie kennen\n• Kopers die bereid zijn te wachten tot het huurcontract afloopt\n\nIn de praktijk betekent dit dat een verhuurde woning doorgaans 5% tot 15% minder opbrengt dan een vergelijkbaar leeg pand, afhankelijk van de huurprijs, resterende huurtermijn en staat van het pand.\n\nAls u geen tijd heeft om te wachten op het einde van de huurovereenkomst — of als opzeggen niet mogelijk is — is een verkoop aan een vastgoedopkoper vaak de snelste en meest praktische weg.",
+      },
+      {
+        heading: "Verhuurde woning verkopen aan wijkopenpanden.be",
+        body: "Wij kopen verhuurde panden aan — met huurder, mét lopend huurcontract. U hoeft de huurder niet op te zeggen, niet te verhuizen en niet te wachten tot het huurcontract afloopt.\n\nWij nemen het huurcontract over als nieuwe verhuurder en regelen de relatie met de huurder professioneel. U ontvangt uw bod netto, de overdracht verloopt via de notaris en de huurder wordt tijdig en correct geïnformeerd — inclusief het recht van voorkoop.\n\nDe prijs houdt rekening met de huurinkomsten en de resterende huurperiode, maar u vermijdt de langdurige leegstand, de opzeggingsprocedure en de onzekerheid van een verkoop via de vrije markt.",
+      },
+    ],
+    relatedArticles: ["verhuren-of-verkopen-antwerpen", "mede-eigendom-verkopen", "verkoop-kosten-berekenen"],
+    relatedSituations: ["pand-met-huurders-verkopen", "huis-verkopen-bij-erfenis"],
+    faqs: [
+      {
+        question: "Kan ik mijn verhuurde woning verkopen zonder de huurder op te zeggen?",
+        answer:
+          "Ja. U kunt de woning verkopen terwijl de huurder er nog in woont. De nieuwe eigenaar neemt het huurcontract automatisch over. U moet wel het recht van voorkoop van de huurder respecteren en hem schriftelijk informeren vóór het sluiten van de koopovereenkomst.",
+      },
+      {
+        question: "Moet ik als verhuurder de huurder op de hoogte stellen van de verkoop?",
+        answer:
+          "Ja. Onder het Vlaamse Woninghuurdecreet moet u de huurder schriftelijk informeren over de voorgenomen verkoop, de vraagprijs en de voorwaarden. De huurder heeft dan 1 maand om zijn recht van voorkoop uit te oefenen, tenzij u verkoopt aan een familielid.",
+      },
+      {
+        question: "Hoe lang heeft een huurder om zijn recht van voorkoop te gebruiken?",
+        answer:
+          "De huurder heeft 1 maand na de schriftelijke kennisgeving van de verkoop om zijn recht van voorkoop uit te oefenen. Als hij niet reageert, mag u de verkoop doorzetten aan de aangemelde koper.",
+      },
+      {
+        question: "Kan ik de huurder uitkopen om de woning leeg te kunnen verkopen?",
+        answer:
+          "Ja, dat is wettelijk toegestaan maar vereist de akkoord van de huurder. U kunt een vrijwillige beëindiging van de huur overeenkomen, eventueel met een vergoeding (goodwill) voor de huurder. Zorg voor een schriftelijke overeenkomst die door beide partijen wordt ondertekend.",
+      },
+      {
+        question: "Welke invloed heeft een huurder op de verkoopprijs?",
+        answer:
+          "Een verhuurde woning brengt op de vrije markt doorgaans 5% tot 15% minder op dan een leeg vergelijkbaar pand, omdat particuliere kopers de woning doorgaans leeg willen hebben. Investeerders betalen op basis van het rendement. Een vastgoedopkoper kan een snelle, zekere transactie bieden zonder dat u de huurder moet opzeggen.",
+      },
+    ],
+  },
+  {
+    slug: "appartement-vme-syndicus-verkopen",
+    title: "Appartement in een VME verkopen: syndicus, reservekapitaal en verkoopproces",
+    metaTitle: "Appartement VME verkopen 2026: syndicus & attest uitgelegd",
+    metaDescription:
+      "Appartement in een VME verkopen in België? Lees wat de syndicus moet aanleveren, wat er met het reservekapitaal gebeurt, hoe de notaris de schulden verrekent en wat bij grote geplande werken.",
+    publishedAt: "2026-06-27",
+    updatedAt: "2026-06-27",
+    intro:
+      "Wie een appartement verkoopt in een flatgebouw, verkoopt niet alleen zijn eigen unit — maar ook zijn aandeel in de gemeenschappelijke delen en de rechten en plichten in de Vereniging van Mede-Eigenaars (VME). Dat maakt de procedure complexer dan de verkoop van een vrijstaande woning. De notaris heeft verplicht informatie nodig van de syndicus, er zijn openstaande schulden die verrekend worden, en het reservekapitaal gaat automatisch over op de koper. In dit artikel leggen we uit hoe dit alles werkt.",
+    sections: [
+      {
+        heading: "Wat is een VME en welke rol speelt ze bij de verkoop?",
+        body: "Een Vereniging van Mede-Eigenaars (VME) is de verplichte rechtspersoon die in elk gebouw met meerdere appartementen of commerciële units bestaat. De VME beheert de gemeenschappelijke delen: het dak, de gevel, de traphal, de lift, de gemeenschappelijke verwarmingsinstallatie, enzovoort.\n\nAls mede-eigenaar van een appartement bent u automatisch lid van de VME en heeft u bepaalde rechten en verplichtingen. Die overdragen mee bij de verkoop van uw appartement.\n\nBij de verkoop speelt de VME om twee redenen een centrale rol:\n\n1. De notaris is wettelijk verplicht bepaalde informatie van de syndicus op te vragen vóór de akte wordt verleden (Art. 577-11 §1 BW)\n2. Openstaande bijdragen en schulden van de verkopende eigenaar worden verrekend via de notaris — de koper wordt beschermd tegen onbekende schulden\n\nDe syndicus is de professionele (of vrijwillige) beheerder van de VME. Zij is de schakel tussen de notaris, de VME en de kopers en verkopers.",
+      },
+      {
+        heading: "Welke documenten moet de syndicus aanleveren bij de verkoop?",
+        body: "De wet (Appartementswet, art. 577-11 §1 BW) verplicht de syndicus om binnen 30 dagen na een officieel verzoek van de notaris een reeks documenten en verklaringen te bezorgen. De verplichte informatie omvat:\n\n**1. Notulen van de algemene vergadering:**\nDe notulen van de laatste drie algemene vergaderingen, zodat de koper op de hoogte is van de belangrijkste beslissingen (goedgekeurde werken, budgetten, conflicten).\n\n**2. Balans van het reservekapitaal:**\nHet saldo van het reservefonds op de datum van de informatieoverdracht. Dit fonds dient voor grote herstellingen aan de gemeenschappelijke delen.\n\n**3. Openstaande schulden van het te verkopen appartement:**\nDe syndicus geeft aan of de te verkopen eigenaar achterstallen heeft op zijn bijdragen (gewone kosten en bijdragen aan het reservekapitaal). Die schulden worden bij de akte automatisch verrekend.\n\n**4. Lopende procedures:**\nAls er rechtszaken lopen waarbij de VME partij is (bv. aannemersconflicten, schadeclaims), moet de koper dat weten. Rechtszaken kunnen gevolgen hebben voor de VME-financiën.\n\n**5. Goedgekeurde maar nog niet uitgevoerde werken:**\nAls de algemene vergadering grote werken heeft goedgekeurd (bv. dakrenovatie, liftrenovatie) waarvoor al extra bijdragen zijn of worden gevraagd, moet de koper dit weten.\n\n**6. Huidig budget en verdeling kosten:**\nHet actuele werkingsbudget van de VME en het aandeel van het te verkopen appartement.",
+      },
+      {
+        heading: "Wat gebeurt er met het reservekapitaal bij de verkoop?",
+        body: "Elk appartement in een VME heeft een aandeel in het reservekapitaal — het fonds dat wordt opgebouwd om toekomstige grote herstellingen te financieren (nieuw dak, renovatie gevel, liftrenovatie, etc.).\n\nWettelijke regel: het reservekapitaal hoort bij het appartement, niet bij de eigenaar. Het wordt niet terugbetaald aan de verkoper — het gaat automatisch over op de koper.\n\nDit heeft een concrete gevolg voor de prijsonderhandeling:\n• Als het reservefonds een hoog saldo heeft (bv. €15.000 voor uw aandeel), is dat een voordeel voor de koper — hij neemt een goed gevuld potje over\n• Als het fonds leeg of negatief is, is dat een signaal voor de koper dat er mogelijk snel extra bijdragen worden gevraagd\n\nDe notaris vermeldt het saldo van het reservekapitaal op de datum van de akte expliciet in het verkoopinstrument. Als de verkoper nog bijdragen verschuldigd was aan het reservekapitaal, worden die afgehouden van de verkoopprijs.\n\nVerkoper en koper kunnen eventueel onderhandelen over een verrekening van het reservekapitaal in de verkoopprijs, maar de wet geeft de notaris de bevoegdheid om alle schulden te verrekenen — dat is niet facultatief.",
+      },
+      {
+        heading: "Wat als de syndicus niet reageert binnen 30 dagen?",
+        body: "De wet voorziet een sanctie: als de syndicus nalaat om de gevraagde informatie binnen 30 dagen te bezorgen, kan de notaris de akte verlijden zonder die informatie. In dat geval is de VME niet gerechtigd om schulden die niet werden meegedeeld te verhalen op de koper — die schulden blijven ten laste van de verkoper.\n\nIn de praktijk is een traag of niet-reagerende syndicus een reëel probleem. Problemen met de syndicus verzoorzaken vertraging in de verkoopprocedure, wat bij tijdsgevoelige situaties (erfenis, scheiding) extra stress geeft.\n\nTips bij een traag syndicus:\n• Informeer de syndicus zo vroeg mogelijk dat u wil verkopen\n• Vraag de notaris om tijdig een formele aanvraag te sturen met vermelding van de wettelijke 30-dagentermijn\n• Als de syndicus structureel tekortschiet, kan de algemene vergadering beslissen om een nieuwe syndicus aan te stellen — maar dat is een langdurig traject",
+      },
+      {
+        heading: "Grote werken gepland: wat betekent dat voor de verkoop?",
+        body: "Als de algemene vergadering grote werken heeft goedgekeurd (maar nog niet uitgevoerd), heeft dat gevolgen voor de verkoop:\n\n**Reeds goedgekeurde werken:**\nAls de VME al een leverancier heeft gecontracteerd of een bijdrage heeft gevraagd van de mede-eigenaars, is dit een gekende last. De notaris vermeldt dit in de akte. Afhankelijk van de afspraken draagt de verkoper of de koper de bijdragen voor die werken.\n\n**Geplande maar nog niet goedgekeurde werken:**\nAls er geruchten zijn van grote werken (bv. het dak moet dringend vernieuwd worden) maar er nog geen formele beslissing is gevallen, staat dit niet in het syndicus-attest. De koper draagt dan het risico.\n\n**Praktisch advies voor de koper:**\nVraag de notulen van de laatste drie algemene vergaderingen grondig door te nemen. Kijk niet alleen naar wat formeel is goedgekeurd, maar ook naar wat er is 'besproken' of 'ter studie gelegd' — dat geeft een beeld van aankomende bijdragen.\n\n**Voor de verkoper:**\nBent u op de hoogte van structurele gebreken aan de gemeenschappelijke delen die u niet proactief meedeelt? Dat kan na de verkoop tot aansprakelijkheidsclaims leiden op basis van verborgen gebreken. Wees transparant — ook als het uw prijs drukt.",
+      },
+      {
+        heading: "Appartement in VME verkopen: praktische tijdlijn",
+        body: "De meerderheid van de vertraging bij appartementsverkopen is te herleiden tot de syndicus. Houd rekening met de volgende tijdlijn:\n\n• Week 1: notaris stelt formeel informatieverzoek aan de syndicus (art. 577-11)\n• Week 1 tot 4: syndicus bereidt het dossier voor (30 dagen wettelijke termijn)\n• Week 4 tot 6: notaris verwerkt de informatie, maakt compromis op\n• Week 6 tot 16: gebruikelijke termijn tussen compromis en akte (doorgaans 4 maanden)\n• Akte: notaris verrekent alle schulden en maakt de overdracht definitief\n\nVerkoop via een professionele opkoper zoals wijkopenpanden.be kan de proceduretijden aanzienlijk verkorten. Wij coördineren rechtstreeks met de syndicus, kennen de procedure en zorgen dat alle documenten tijdig beschikbaar zijn voor de notaris.",
+      },
+    ],
+    relatedArticles: ["notariskosten-woning-verkoop", "mede-eigendom-verkopen", "verborgen-gebreken-woning-verkoop-belgie"],
+    relatedSituations: ["pand-met-huurders-verkopen", "huis-verkopen-bij-erfenis"],
+    faqs: [
+      {
+        question: "Wat is een VME en moet ik er iets mee doen bij de verkoop van mijn appartement?",
+        answer:
+          "Een VME (Vereniging van Mede-Eigenaars) beheert de gemeenschappelijke delen van een appartementsgebouw. Bij de verkoop van uw appartement is de notaris verplicht bepaalde documenten op te vragen bij de syndicus — u hoeft dit niet zelf te regelen, maar het is nuttig de syndicus al vroeg te informeren om de procedure te versnellen.",
+      },
+      {
+        question: "Krijg ik het reservekapitaal van de VME terugbetaald bij de verkoop?",
+        answer:
+          "Nee. Het reservekapitaal (groot onderhoudsfonds) is eigendom van het appartement en gaat automatisch over op de koper. U krijgt het niet terugbetaald. Het saldo kan echter wel een rol spelen in de prijsonderhandeling.",
+      },
+      {
+        question: "Wat als ik achterstand heb in het betalen van mijn VME-bijdragen?",
+        answer:
+          "De syndicus meldt de openstaande schulden aan de notaris. De notaris houdt die bedragen in bij het verlijden van de akte en betaalt ze rechtstreeks uit aan de VME. U ontvangt als verkoper de verkoopprijs minus de openstaande VME-schulden.",
+      },
+      {
+        question: "Hoe lang duurt het om de syndicus-documenten te ontvangen?",
+        answer:
+          "De wet geeft de syndicus 30 dagen om te reageren op een formeel verzoek van de notaris. In de praktijk kan dit sneller gaan bij professionele syndici of trager bij vrijwilligers-syndici in kleine gebouwen. Informeer de syndicus zo vroeg mogelijk om vertraging te vermijden.",
+      },
+      {
+        question: "Kan ik mijn appartement verkopen als er grote werken gepland zijn in de VME?",
+        answer:
+          "Ja. Goedgekeurde werken worden vermeld in het syndicus-attest en zijn een gekende last voor de koper. De verdeling van de bijdragen voor die werken tussen verkoper en koper wordt overeengekomen in het compromis. Dit vereist wel transparantie en een duidelijke formulering in de verkoopovereenkomst.",
       },
     ],
   },
