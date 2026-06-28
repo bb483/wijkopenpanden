@@ -1014,7 +1014,7 @@ export const articles: Article[] = [
         },
       },
     ],
-    relatedArticles: ["commissie-makelaar-belgie", "keuringen-bij-verkoop-woning", "notariskosten-woning-verkoop", "verkoop-kosten-berekenen", "belastingen-bij-woningverkoop", "hoelang-duurt-huis-verkopen-belgie"],
+    relatedArticles: ["commissie-makelaar-belgie", "keuringen-bij-verkoop-woning", "notariskosten-woning-verkoop", "verkoop-kosten-berekenen", "belastingen-bij-woningverkoop", "huis-verkopen-bij-betalingsproblemen-schulden"],
     relatedSituations: ["verkopen-zonder-makelaar", "opknappand-verkopen", "huis-verkopen-bij-erfenis"],
     faqs: [
       {
@@ -1920,7 +1920,7 @@ export const articles: Article[] = [
         body: "Ja, en het verloopt identiek als bij een klassieke verkoop. De notaris lost de hypotheek af bij de akte en u ontvangt het nettobedrag na aftrek van de schuld en de kosten.\n\nEen bijkomend voordeel bij verkoop aan een vastgoedopkoper: de akte kan sneller worden gepland (doorgaans binnen twee tot drie maanden), waardoor u ook sneller verlost bent van de maandelijkse hypotheeklasten. Voor eigenaars die de lening als financiële last ervaren, is dat een concrete besparing.\n\nWijkopenpanden.be koopt woningen aan in alle situaties, ook als er een lopende hypotheek op rust. Wij coördineren met de notaris en zorgen voor een vlotte afhandeling.",
       },
     ],
-    relatedArticles: ["commissie-makelaar-belgie", "hoelang-duurt-huis-verkopen-belgie", "huis-verkopen-antwerpen-gids"],
+    relatedArticles: ["commissie-makelaar-belgie", "hoelang-duurt-huis-verkopen-belgie", "huis-verkopen-antwerpen-gids", "huis-verkopen-bij-betalingsproblemen-schulden"],
     relatedSituations: ["huis-verkopen-bij-scheiding", "verkopen-zonder-makelaar"],
     faqs: [
       {
@@ -2502,6 +2502,413 @@ export const articles: Article[] = [
         question: "Kan ik mijn appartement verkopen als er grote werken gepland zijn in de VME?",
         answer:
           "Ja. Goedgekeurde werken worden vermeld in het syndicus-attest en zijn een gekende last voor de koper. De verdeling van de bijdragen voor die werken tussen verkoper en koper wordt overeengekomen in het compromis. Dit vereist wel transparantie en een duidelijke formulering in de verkoopovereenkomst.",
+      },
+    ],
+  },
+  {
+    slug: "woning-staat-al-maanden-te-koop",
+    title: "Uw woning staat al maanden te koop zonder resultaat: oorzaken en oplossingen",
+    metaTitle: "Woning verkoopt niet / staat al maanden te koop? Oorzaken + oplossingen 2026 | wijkopenpanden.be",
+    metaDescription:
+      "Uw huis staat al maanden te koop zonder bod? Ontdek de echte oorzaken — prijs, presentatie, staat en dossier — wat het u intussen kost, en hoe u de verkoop alsnog deblokkeert.",
+    publishedAt: "2026-06-28",
+    updatedAt: "2026-06-28",
+    intro:
+      "Weinig is zo ontmoedigend als een woning die maand na maand te koop staat zonder een serieus bod. De bezichtigingen drogen op, de advertentie zakt weg op de portalen en elke maand kosten de woning u geld. In dit artikel leest u waarom woningen blijven hangen, wat een stilstaande verkoop u concreet kost en welke stappen de verkoop weer in beweging brengen — van een prijscorrectie tot een rechtstreekse verkoop zonder makelaar.",
+    sections: [
+      {
+        heading: "Hoelang is te lang? Wanneer u zich zorgen mag maken",
+        body: "Niet elke woning verkoopt in een paar weken, en dat hoeft ook niet. Maar er is een verschil tussen een normale doorlooptijd en een dossier dat vastzit.\n\nEen courante woning in een gewilde buurt krijgt doorgaans binnen de eerste weken de meeste bezichtigingen en biedingen. Loopt de teller op tot meerdere maanden zonder concreet bod, dan is dat zelden toeval — er is meestal één duidelijke oorzaak, of een combinatie ervan.\n\nEen praktische vuistregel: blijven na de eerste vier tot zes weken de bezichtigingen uit, of komen er wel kijkers maar geen biedingen, dan zit er iets fout in de prijs, de presentatie, de staat of het dossier. Hoe langer u wacht met bijsturen, hoe meer de woning 'verbrandt' op de markt.",
+      },
+      {
+        heading: "Reden 1: de vraagprijs staat te hoog",
+        body: "Dit is veruit de meest voorkomende reden. Een te hoge vraagprijs filtert net de kopers weg die uw woning anders zouden bezoeken — zij zien de woning niet eens omdat ze buiten hun zoekfilter valt.\n\nKenmerkende signalen van een te hoge prijs:\n• Veel online weergaven, maar nauwelijks aanvragen voor een bezichtiging\n• Wel bezichtigingen, maar geen enkel bod\n• Kopers vergelijken uw woning hardop met goedkopere, vergelijkbare panden\n\nEen woning is exact zoveel waard als wat een koper er vandaag voor wil betalen — niet wat een vergelijkbare woning twee jaar geleden opbracht. Wat de woning werkelijk waard is, bepaalt u best op basis van recente, vergelijkbare transacties in dezelfde buurt en de actuele staat van het pand.",
+      },
+      {
+        heading: "Reden 2: presentatie en zichtbaarheid schieten tekort",
+        body: "Kopers beslissen in enkele seconden op basis van de eerste foto's of ze verder klikken. Zwakke of donkere foto's, een rommelig interieur of een onvolledige beschrijving kosten u bezichtigingen die u nooit ziet gebeuren.\n\nVeelvoorkomende presentatieproblemen:\n• Te weinig, te donkere of te kleine foto's\n• Een advertentie zonder plattegrond of zonder duidelijke vermelding van oppervlakte en EPC\n• Een woning die volgestouwd of slecht onderhouden oogt op beeld\n• Een advertentie die al maanden ongewijzigd online staat en daardoor 'oud' aanvoelt\n\nEen woning die te lang ongewijzigd online staat, krijgt bovendien het stempel 'er is iets mis mee' — ook als de prijs intussen redelijk is. Dat fenomeen heet marktmoeheid.",
+      },
+      {
+        heading: "Reden 3: de staat van de woning schrikt af",
+        body: "Veel kopers op de klassieke markt zoeken een woning waar ze meteen in kunnen. Zien zij een verouderde keuken, een te vernieuwen elektriciteitsinstallatie, vochtproblemen of een laag EPC-label, dan haken ze af of bieden ze fors lager dan u verwacht.\n\nHet gevolg is een patstelling: u wilt niet investeren in een woning die u toch verkoopt, maar zonder die investering blijven de biedingen uit of liggen ze laag. Sinds de invoering van de renovatieverplichting voor woningen met een zwak energielabel weegt dit nog zwaarder door — kopers calculeren de verplichte renovatiekost meteen in hun bod in.\n\nWie niet wil of kan renoveren vóór de verkoop, heeft baat bij een koper die het pand in de huidige staat (as-is) overneemt en de renovatie zelf op zich neemt.",
+      },
+      {
+        heading: "Reden 4: een juridisch of technisch probleem in het dossier",
+        body: "Soms ligt de blokkade niet bij de woning zelf, maar bij het dossier. Kopers — en hun bank — schrikken terug voor onzekerheid.\n\nDossierproblemen die een verkoop doen vastlopen:\n• Een stedenbouwkundige overtreding of een niet-vergunde verbouwing\n• Een ontbrekend of onduidelijk busnummer bij een opgesplitst pand\n• Onvolledige of verlopen attesten (EPC, asbestinventaris, elektrische keuring)\n• Een onverdeeldheid waarbij niet alle eigenaars het eens zijn (erfenis, scheiding)\n• Een lopende hypotheek, beslag of andere lasten op het pand\n\nDeze knelpunten zijn vaak oplosbaar, maar ze vragen tijd en kennis. Een koper die gewend is om panden in alle situaties aan te kopen, schrikt hier niet van terug waar een particuliere koper afhaakt.",
+      },
+      {
+        heading: "Reden 5: het verkeerde kanaal voor uw situatie",
+        body: "Niet elke verkoop hoort thuis op een publiek vastgoedportaal. Wie discreet wil verkopen, snel zekerheid nodig heeft of een pand bezit dat de doorsnee gezinskoper niet zoekt — een opbrengsteigendom, een opknappand, een verhuurd pand — bereikt via de klassieke etalage net niet de juiste koper.\n\nIn die gevallen kan maandenlang adverteren op een portaal weinig opleveren, niet omdat de woning onverkoopbaar is, maar omdat het publiek niet matcht. Een rechtstreekse verkoop aan een professionele opkoper sluit dan beter aan bij de werkelijke vraag.",
+      },
+      {
+        heading: "Wat een stilstaande verkoop u elke maand kost",
+        body: "Een woning die blijft hangen is niet kosteloos. De rekening loopt stil maar gestaag op, en weegt op tegen de meeropbrengst waar u op hoopt.",
+        table: {
+          headers: ["Kostenpost", "Wat het inhoudt", "Impact"],
+          rows: [
+            ["Dubbele woonlast", "Hypotheek of huur voor uw nieuwe woning bovenop de lasten van het onverkochte pand", "Loopt maandelijks op"],
+            ["Onroerende voorheffing", "Jaarlijkse belasting blijft volledig ten laste van de eigenaar", "Een extra jaar bij vertraging"],
+            ["Leegstandsheffing", "Heffing op langdurig leegstaande panden in veel Antwerpse gemeenten", "Stijgt per jaar leegstand"],
+            ["Verzekering en onderhoud", "Een leegstaand pand is duurder te verzekeren en blijft onderhoud vragen", "Doorlopend"],
+            ["Prijsverlagingen", "Hoe langer de woning te koop staat, hoe meer u uiteindelijk moet zakken", "Vaak meer dan een vroege correctie"],
+          ],
+        },
+      },
+      {
+        heading: "Wat u kunt doen: de verkoop opnieuw in beweging brengen",
+        body: "Een vastgelopen verkoop deblokkeren begint bij eerlijk vaststellen wáár het misloopt. Werk de oorzaken één voor één af:\n1. Herbekijk de vraagprijs op basis van recente, vergelijkbare verkopen in de buurt — niet op basis van de oorspronkelijke verwachting\n2. Vernieuw de advertentie: nieuwe, lichte foto's, een volledige beschrijving en een frisse publicatiedatum\n3. Los oplosbare dossierproblemen op of zet ze transparant in de advertentie\n4. Overweeg een ander kanaal of een andere makelaar als er na maanden niets beweegt\n5. Vergelijk de hoogste haalbare prijs op de klassieke markt met de zekerheid van een rechtstreeks bod, inclusief alle wachtkosten\n\nDe kernvraag is niet alleen 'wat is de hoogst mogelijke prijs', maar 'wat houd ik netto over na alle kosten en wachttijd, en hoeveel zekerheid wil ik'.",
+      },
+      {
+        heading: "Wanneer een rechtstreekse verkoop de knoop doorhakt",
+        body: "Als uw woning al maanden te koop staat en u de wachttijd, de onzekerheid of de oplopende kosten beu bent, is een rechtstreekse verkoop aan wijkopenpanden.be een uitweg.\n\nWij kopen uw woning rechtstreeks aan, zonder makelaar en zonder commissie. U hoeft geen nieuwe foto's te laten maken, geen bezichtigingen meer te organiseren en geen te-koop-bord te plaatsen. Wij brengen na een bezoek een concreet, schriftelijk bod uit en u kiest zelf de datum van de akte.\n\nVoor een woning die niet verkocht raakt op de klassieke markt — door staat, dossier of het verkeerde publiek — biedt dit zekerheid in plaats van opnieuw maanden afwachten. U weegt zelf af of de zekerheid en de bespaarde kosten opwegen tegen het verschil met een onzekere verkoopprijs op termijn.",
+      },
+    ],
+    relatedArticles: ["wat-is-mijn-woning-waard-antwerpen", "hoelang-duurt-huis-verkopen-belgie", "commissie-makelaar-belgie", "pand-in-slechte-staat-verkopen", "huis-verkopen-bij-betalingsproblemen-schulden", "wanneer-beste-moment-woning-verkopen"],
+    relatedSituations: ["verkopen-zonder-makelaar", "opknappand-verkopen"],
+    faqs: [
+      {
+        question: "Hoelang mag een woning normaal te koop staan?",
+        answer:
+          "Een courante woning in een gewilde buurt krijgt doorgaans de meeste bezichtigingen en biedingen in de eerste weken na publicatie. Loopt het op tot meerdere maanden zonder concreet bod, dan is er meestal een aanwijsbare oorzaak in de prijs, de presentatie, de staat of het dossier.",
+      },
+      {
+        question: "Waarom krijg ik wel bezichtigingen maar geen biedingen?",
+        answer:
+          "Dat wijst meestal op een verschil tussen de vraagprijs en wat kopers de woning waard vinden in de huidige staat. Kopers komen kijken op basis van de foto's, maar haken af op de prijs, op zichtbare gebreken of op een renovatiekost die ze niet hadden ingecalculeerd.",
+      },
+      {
+        question: "Schaadt het mijn verkoop als de woning al lang online staat?",
+        answer:
+          "Ja. Een advertentie die maandenlang ongewijzigd online staat, wekt bij kopers de indruk dat er iets mis is met de woning — ook als de prijs intussen redelijk is. Dit heet marktmoeheid. Een vernieuwde advertentie met nieuwe foto's en een correcte prijs werkt dit tegen.",
+      },
+      {
+        question: "Moet ik mijn woning renoveren om ze verkocht te krijgen?",
+        answer:
+          "Niet noodzakelijk. Renoveren vóór de verkoop kost geld en tijd en de meeropbrengst is onzeker. Een alternatief is verkopen in de huidige staat aan een koper die het pand as-is overneemt en de renovatie zelf op zich neemt, zoals een vastgoedopkoper.",
+      },
+      {
+        question: "Wat kost het mij om de woning langer te koop te laten staan?",
+        answer:
+          "Naast eventuele dubbele woonlasten betaalt u onroerende voorheffing, mogelijk leegstandsheffing, doorlopende verzekering en onderhoud. Bovendien moet u na verloop van tijd vaak alsnog in prijs zakken — soms meer dan een vroege, correcte prijscorrectie had gekost.",
+      },
+      {
+        question: "Kan ik een woning die al maanden te koop staat rechtstreeks verkopen?",
+        answer:
+          "Ja. wijkopenpanden.be koopt woningen rechtstreeks aan, ook panden die op de klassieke markt blijven hangen. U vraagt een vrijblijvend bod aan, wij bezoeken het pand en brengen een schriftelijk bod uit. U hoeft geen nieuwe bezichtigingen of foto's te regelen.",
+      },
+    ],
+  },
+  {
+    slug: "huis-verkopen-bij-betalingsproblemen-schulden",
+    title: "Huis verkopen bij betalingsproblemen of schulden in België",
+    metaTitle: "Huis verkopen bij schulden of betalingsproblemen — kan dat? (2026) | wijkopenpanden.be",
+    metaDescription:
+      "Betalingsproblemen, achterstallige hypotheek of beslag op uw woning? U kunt vaak nog zelf verkopen — en dat brengt meer op dan een gedwongen verkoop. Zo werkt het in België.",
+    publishedAt: "2026-06-28",
+    updatedAt: "2026-06-28",
+    intro:
+      "Wie de hypotheek niet meer rond krijgt of onder een schuldenberg dreigt te bezwijken, denkt soms dat de woning sowieso verloren is. Dat is meestal onterecht. In de meeste situaties kunt u uw woning nog zélf verkopen — en een vrijwillige verkoop brengt vrijwel altijd meer op dan een gedwongen openbare verkoop. In dit artikel leest u wat er gebeurt als u de hypotheek niet meer betaalt, het verschil tussen vrijwillig en gedwongen verkopen, hoe een verkoop verloopt na beslag of in een collectieve schuldenregeling, en wat er gebeurt met een eventuele restschuld.",
+    sections: [
+      {
+        heading: "Kan ik mijn woning verkopen als ik betalingsproblemen heb?",
+        body: "Ja. Zolang er nog geen openbare verkoop is bevolen, blijft u eigenaar en mag u uw woning zelf verkopen. Sterker nog: zelf en op tijd verkopen is bijna altijd de financieel verstandigste keuze.\n\nDe reden is eenvoudig: hoe vroeger u handelt, hoe meer controle u houdt over de prijs, de timing en de koper. Wacht u tot de bank of een schuldeiser de uitwinning in gang zet, dan verliest u die controle en komt de woning in een procedure terecht die doorgaans minder opbrengt.\n\nSnel handelen beperkt bovendien de oplopende achterstandsintresten, kosten en gerechtsdeurwaarderskosten die elke maand bij uw schuld komen.",
+      },
+      {
+        heading: "Wat gebeurt er als u de hypotheek niet meer betaalt?",
+        body: "Een gemiste aflossing leidt niet meteen tot verlies van uw woning, maar zet wel een keten in gang. Het verloop is in grote lijnen:\n1. **Herinnering en ingebrekestelling.** De bank stuurt eerst herinneringen en daarna een formele ingebrekestelling om de achterstand recht te zetten.\n2. **Registratie bij de Centrale voor Kredieten aan Particulieren.** De Nationale Bank houdt een register bij van betalingsachterstanden. Een achterstand wordt geregistreerd zodra een verschuldigd bedrag een bepaalde periode na de vervaldag onbetaald blijft, of zodra het krediet wordt opgezegd. Die registratie bemoeilijkt het afsluiten van nieuwe kredieten.\n3. **Opzegging van het krediet.** Blijft de achterstand aanhouden, dan kan de bank het krediet opzeggen en het volledige openstaande saldo in één keer opeisen (vervroegde opeisbaarheid).\n4. **Uitwinning.** Als de schuld niet wordt aangezuiverd, kan de bank als hypothecaire schuldeiser overgaan tot uitwinning van de hypotheek via een gedwongen verkoop.\n\nDe exacte termijnen en voorwaarden hangen af van uw kredietcontract en de toepasselijke regels voor hypothecair krediet. Tussen de eerste gemiste betaling en een effectieve gedwongen verkoop zit doorgaans een ruime periode — net die tijd kunt u gebruiken om zelf een betere oplossing te organiseren.",
+      },
+      {
+        heading: "Vrijwillig verkopen versus een gedwongen openbare verkoop",
+        body: "Het grote verschil tussen zelf verkopen en een gedwongen verkoop zit in de opbrengst en de regie. Bij een vrijwillige onderhandse verkoop bepaalt u mee de prijs en de koper. Bij een gedwongen openbare verkoop wordt het pand publiek geveild onder tijdsdruk, vaak met een lagere opbrengst en bijkomende gerechtskosten tot gevolg.",
+        table: {
+          headers: ["", "Vrijwillige verkoop", "Gedwongen openbare verkoop"],
+          rows: [
+            ["Wie beslist", "U, als eigenaar", "De rechtbank en de schuldeiser"],
+            ["Prijs", "Marktconform of een onderhandeld bod", "Vaak lager — verkoop onder tijdsdruk"],
+            ["Tijdsdruk", "U kiest mee de timing", "Opgelegd door de procedure"],
+            ["Bijkomende kosten", "Beperkt", "Gerechts- en deurwaarderskosten komen bij de schuld"],
+            ["Discretie", "Privé", "Openbaar bekendgemaakt"],
+          ],
+        },
+      },
+      {
+        heading: "Verkopen nadat er beslag op de woning ligt",
+        body: "Ook als een schuldeiser al uitvoerend beslag op uw woning heeft gelegd, is zelf verkopen niet per definitie uitgesloten.\n\nEen uitvoerend beslag op onroerend goed verloopt via een bevel tot betaling door een gerechtsdeurwaarder, gevolgd door een beslagexploot. Daarna kan de woning openbaar verkocht worden via een notaris, onder toezicht van de beslagrechter.\n\nHet Gerechtelijk Wetboek voorziet echter dat de beslagrechter een onderhandse verkoop kan toestaan in plaats van een openbare verkoop. Een onderhandse verkoop brengt doorgaans meer op, wat in het belang is van zowel u als de schuldeisers. U heeft daarvoor de machtiging van de beslagrechter nodig, meestal op basis van een concreet bod.\n\nLaat u in deze fase altijd bijstaan door uw notaris of een advocaat. Een tijdig, concreet bod kan net het verschil maken tussen een onderhandse verkoop tegen een redelijke prijs en een publieke veiling.",
+      },
+      {
+        heading: "Verkopen tijdens een collectieve schuldenregeling",
+        body: "Zit u in een collectieve schuldenregeling, dan beheert een schuldbemiddelaar uw inkomsten en vermogen om uw schuldeisers af te betalen. U kunt uw woning in die situatie niet zomaar op eigen houtje verkopen.\n\nDe verkoop van een woning tijdens een collectieve schuldenregeling kan in de regel enkel met de tussenkomst van de schuldbemiddelaar en een machtiging van de arbeidsrechtbank. De verkoop verloopt dan via een door de rechtbank aangestelde notaris en de opbrengst gaat naar de afbetaling van de schulden volgens de regeling.\n\nIn de praktijk wordt een woning binnen een collectieve schuldenregeling vaak net verkocht om de schuldenlast te verlichten. Een vlotte, zekere verkoop met een concreet bod kan de bemiddelaar en de rechter daarbij over de streep trekken. Bespreek elk verkoopvoornemen eerst met uw schuldbemiddelaar.",
+      },
+      {
+        heading: "Wat als de opbrengst de schuld niet dekt?",
+        body: "Als de verkoopprijs lager ligt dan het openstaande saldo van uw hypotheek, blijft het verschil — de restschuld — in principe persoonlijk verschuldigd aan de bank. De verkoop wist de schuld dus niet automatisch volledig uit.\n\nU staat daar echter niet machteloos:\n• Sommige banken aanvaarden een kwijtschelding van het restbedrag in ruil voor een eenmalige betaling of een haalbaar afbetalingsplan\n• U kunt een gespreide aflossing van de restschuld afspreken\n• Binnen een collectieve schuldenregeling kan een deel van de restschuld via de aanzuiveringsregeling worden kwijtgescholden\n\nDe mechaniek van een verkoop met een lopende lening — inclusief de afrekening bij de notaris en de situatie waarin de opbrengst tekortschiet — leggen we uitgebreider uit in ons artikel over een huis verkopen met een lopende hypotheek.",
+      },
+      {
+        heading: "Hoe de notaris uw schuldeisers uitbetaalt bij de verkoop",
+        body: "Bij de verkoop hoeft u de schuldeisers niet zelf te betalen — de notaris regelt dit uit de verkoopopbrengst. Het verloop:\n1. De notaris vraagt het exacte openstaande saldo op bij de bank en bij eventuele andere schuldeisers met een inschrijving op het pand\n2. Bij de akte betaalt de notaris de schuldeisers uit volgens hun wettelijke rang — de hypothecaire schuldeiser heeft voorrang\n3. De hypotheekinschrijving wordt geschrapt (doorhaling)\n4. Wat overblijft na aftrek van de schulden en de kosten, ontvangt u als verkoper\n\nZo weet u vooraf welk nettobedrag u overhoudt, of — bij een tekort — hoeveel restschuld er overblijft om met de bank te regelen.",
+      },
+      {
+        heading: "Snel en discreet verkopen via wijkopenpanden.be",
+        body: "Bij betalingsproblemen telt vooral snelheid en zekerheid. wijkopenpanden.be koopt uw woning rechtstreeks aan, zonder makelaar en zonder commissie, en brengt na een bezoek een concreet, schriftelijk bod uit.\n\nVoor wie onder druk staat, biedt dat drie voordelen: u krijgt snel duidelijkheid over wat de woning oplevert, u vermijdt maandenlange onzekerheid en bijkomende kosten, en de verkoop verloopt discreet, zonder publieke advertentie of veiling. Dringende dossiers behandelen wij met voorrang.\n\nWij kopen aan in alle situaties — met een lopende hypotheek, bij beslag of binnen een schuldenregeling — en coördineren met uw notaris voor een vlotte afhandeling. Een vrijblijvend bod aanvragen verplicht u tot niets en geeft u een concreet vergelijkingspunt om uw situatie te beoordelen.",
+      },
+    ],
+    relatedArticles: ["huis-verkopen-met-hypotheek", "snel-geld-vrijmaken-woning", "mede-eigendom-verkopen", "woning-staat-al-maanden-te-koop", "hoelang-duurt-huis-verkopen-belgie", "verkoop-kosten-berekenen"],
+    relatedSituations: ["verkopen-zonder-makelaar", "huis-verkopen-bij-scheiding"],
+    faqs: [
+      {
+        question: "Kan ik mijn huis verkopen als ik mijn hypotheek niet meer kan betalen?",
+        answer:
+          "Ja. Zolang er geen openbare verkoop is bevolen, blijft u eigenaar en mag u zelf verkopen. Zelf en op tijd verkopen is doorgaans de verstandigste keuze, omdat u zo de prijs en de timing mee bepaalt en oplopende kosten en intresten beperkt.",
+      },
+      {
+        question: "Brengt een vrijwillige verkoop meer op dan een gedwongen verkoop?",
+        answer:
+          "In de regel wel. Bij een vrijwillige onderhandse verkoop bepaalt u mee de prijs en de koper, terwijl een gedwongen openbare verkoop onder tijdsdruk gebeurt en vaak een lagere opbrengst geeft. Daarbovenop komen bij een gedwongen verkoop gerechts- en deurwaarderskosten bij uw schuld.",
+      },
+      {
+        question: "Kan ik mijn woning nog verkopen als er al beslag op ligt?",
+        answer:
+          "Dat kan, maar niet meer volledig vrij. De beslagrechter kan een onderhandse verkoop toestaan in plaats van een openbare verkoop, doorgaans op basis van een concreet bod, omdat een onderhandse verkoop meestal meer opbrengt. Laat u in deze fase bijstaan door uw notaris of een advocaat.",
+      },
+      {
+        question: "Mag ik mijn woning verkopen in een collectieve schuldenregeling?",
+        answer:
+          "Niet op eigen houtje. De verkoop kan in de regel enkel met de tussenkomst van de schuldbemiddelaar en een machtiging van de arbeidsrechtbank. De opbrengst gaat naar de afbetaling van de schulden. Bespreek elk verkoopvoornemen eerst met uw schuldbemiddelaar.",
+      },
+      {
+        question: "Wat gebeurt er met mijn schuld als de verkoopprijs te laag is?",
+        answer:
+          "Het verschil tussen de verkoopprijs en het openstaande saldo — de restschuld — blijft in principe persoonlijk verschuldigd aan de bank. Vaak is een kwijtschelding, een eenmalige betaling of een gespreid afbetalingsplan bespreekbaar. Binnen een collectieve schuldenregeling kan een deel kwijtgescholden worden.",
+      },
+      {
+        question: "Wie betaalt mijn schuldeisers bij de verkoop?",
+        answer:
+          "De notaris. Die vraagt het openstaande saldo op, betaalt de schuldeisers uit de verkoopopbrengst volgens hun wettelijke rang — de hypothecaire schuldeiser eerst — en schrapt de hypotheekinschrijving. Het saldo na aftrek van schulden en kosten ontvangt u als verkoper.",
+      },
+      {
+        question: "Behandelt wijkopenpanden.be dringende dossiers sneller?",
+        answer:
+          "Ja. Dringende dossiers behandelen wij met voorrang. Wij reageren binnen 2 uur op uw aanvraag, bezoeken het pand snel en brengen een schriftelijk bod uit. Wij kopen aan met een lopende hypotheek, bij beslag of binnen een schuldenregeling en coördineren met uw notaris.",
+      },
+    ],
+  },
+  {
+    slug: "betrouwbaar-verkopen-aan-opkoper",
+    title: "Is verkopen aan een opkoper betrouwbaar? Het addertje, de prijs en waar u op moet letten",
+    metaTitle: "Is verkopen aan een opkoper betrouwbaar? Het addertje eerlijk uitgelegd (2026) | wijkopenpanden.be",
+    metaDescription:
+      "Snelle opkopers hebben een reputatie. Wat is het addertje onder het gras, krijgt u een eerlijke prijs of betaalt u te veel onder de marktwaarde, en waaraan herkent u een betrouwbare partij? Eerlijk uitgelegd.",
+    publishedAt: "2026-06-29",
+    updatedAt: "2026-06-29",
+    intro:
+      "Snel verkopen aan een opkoper klinkt voor veel mensen te mooi om waar te zijn — en dat wekt terecht wantrouwen. De sector heeft een gemengde reputatie: naast correcte partijen bestaan er ook bedrijven die met een mooi bod lokken en bij de akte plots zakken. In dit artikel geven wij het eerlijke antwoord op de drie vragen die elke verkoper zich stelt: is dit betrouwbaar, wat is het addertje onder het gras, en krijg ik een eerlijke prijs of betaal ik te veel onder de marktwaarde? Plus een checklist om een betrouwbare opkoper te herkennen.",
+    sections: [
+      {
+        heading: "Is snel verkopen aan een opkoper betrouwbaar?",
+        body: "Op zich wel — mits u met een serieuze partij werkt en het proces via een notaris verloopt. De verkoop van vastgoed in België passeert verplicht langs een notaris, en die beschermt zowel de koper als de verkoper. De notaris controleert de identiteit en kredietwaardigheid van de koper, beheert de gelden en zorgt dat u pas tekent als alles juridisch in orde is.\n\nDat betekent niet dat élke opkoper betrouwbaar is. Het verschil zit in de werkwijze:\n• Een betrouwbare opkoper geeft een **schriftelijk, gemotiveerd bod** en houdt zich daaraan tot de akte\n• Een onbetrouwbare partij geeft een mondeling 'richtbod' dat later, vlak voor de akte, plots zakt\n\nDe achterdocht is dus terecht, maar ze hoort gericht te zijn op de werkwijze van de specifieke partij — niet op het principe van rechtstreeks verkopen.",
+      },
+      {
+        heading: "Wat is het addertje onder het gras bij directe verkoop?",
+        body: "Het eerlijke antwoord: er is geen verborgen addertje, maar er is wél een afweging die u moet kennen.\n\nEen opkoper biedt doorgaans onder de **maximale** marktwaarde die u in theorie via een makelaar zou kunnen halen. Dat is geen truc — het is de logica van het model. In ruil voor een lagere brutoprijs krijgt u zekerheid, snelheid en het wegvallen van alle kosten en rompslomp.\n\nHet échte addertje zit elders: bij partijen die níét transparant zijn over dat verschil. Let op voor:\n• Een aantrekkelijk bod dat vlak voor de akte plots wordt verlaagd met een vaag excuus\n• 'Gratis' beloftes die later toch kosten of commissies blijken te bevatten\n• Druk om snel te tekenen zonder bedenktijd\n• Een bedrijf zonder controleerbare gegevens (ondernemingsnummer, adres, telefoonnummer)\n\nBij een correcte partij is het 'addertje' dus gewoon een eerlijke ruil die op voorhand duidelijk op tafel ligt: minder brutoprijs, in ruil voor meer zekerheid en minder gedoe.",
+      },
+      {
+        heading: "Krijg ik een eerlijke prijs of betaal ik te veel onder de marktwaarde?",
+        body: "Om dit eerlijk te beoordelen, moet u het verschil kennen tussen de **brutoprijs** en wat u **netto** overhoudt.\n\nBij een verkoop via makelaar lijkt de verkoopprijs hoger, maar daar gaan nog posten vanaf:\n• Makelaarscommissie plus btw\n• Keuringen, EPC, asbestinventaris, bodemattest\n• Fotografie en publicatie op vastgoedportalen\n• Eventuele opfris- of herstelkosten vóór de verkoop\n• Dubbele woonlast, onroerende voorheffing en verzekering tijdens de wachttijd\n\nBij een rechtstreekse verkoop vallen al die posten weg. Het nettoverschil tussen beide is daardoor kleiner dan de brutoprijzen doen vermoeden.\n\nEen eerlijk bod herkent u niet aan het feit dat het de hoogste brutoprijs is, maar aan een **navolgbare berekening**: een opkoper die uitlegt hoe hij tot zijn bod komt — op basis van recente, vergelijkbare transacties in de buurt, de staat van de woning en de actuele markt — en die geen extra kortingen vraagt bij de akte. Vraag altijd om die motivering.",
+      },
+      {
+        heading: "Waarom biedt een opkoper onder de maximale marktwaarde?",
+        body: "Een opkoper neemt risico's en kosten over die anders bij u zouden liggen, en dat verrekent hij in het bod. Concreet:\n• De opkoper koopt het pand in de huidige staat (as-is) en draagt zelf de renovatiekost en het risico\n• De opkoper betaalt de woning meteen, zonder afhankelijk te zijn van een koper die nog een lening moet rondkrijgen\n• De opkoper draagt de leegstand, verzekering en lasten tot het pand opnieuw verkocht of verhuurd is\n\nDie zekerheid heeft een prijs. Voor wie snelheid en zekerheid belangrijker vindt dan de allerlaatste euro, is dat een logische ruil. Voor wie alle tijd heeft en een woning in topstaat verkoopt op een hete markt, levert een klassieke verkoop mogelijk netto meer op. Beide kunnen juist zijn — het hangt af van uw situatie.",
+      },
+      {
+        heading: "Hoe herkent u een betrouwbare opkoper? Een checklist",
+        body: "Voor u met een partij in zee gaat, loopt u best deze punten af:\n1. Is het bedrijf controleerbaar? Een ondernemingsnummer, een vast adres en bereikbare telefoonnummers\n2. Krijgt u een schriftelijk, gemotiveerd bod in plaats van een mondeling richtbod?\n3. Wordt er duidelijk gezegd dat er geen extra kortingen volgen bij de akte?\n4. Is het bod een redelijke periode geldig, zodat u tijd heeft om te vergelijken?\n5. Wordt er geen exclusiviteit of onmiddellijke handtekening geëist?\n6. Verloopt de verkoop via een notaris naar uw keuze?\n7. Mag u uw eigen adviseur of notaris raadplegen vóór u tekent?\n\nKan een partij op al deze punten gerust gesteld worden, dan is de kans op een vervelende verrassing klein.",
+      },
+      {
+        heading: "Hoe wijkopenpanden.be dit aanpakt",
+        body: "Wij zijn een Belgisch bedrijf met controleerbare gegevens en kopen panden rechtstreeks aan, zonder als makelaar op te treden.\n\nOnze werkwijze is opgebouwd rond net die punten waar verkopers terecht achterdochtig over zijn:\n• U krijgt na een bezoek een **schriftelijk, gemotiveerd bod**, doorgaans 7 dagen geldig\n• Wat in het bod staat, is wat u ontvangt — wij vragen geen extra kortingen bij de akte\n• Het bod is vrijblijvend en gratis; u bent tot niets verplicht\n• Wij eisen geen exclusiviteit, zodat u vrij kunt vergelijken\n• De verkoop verloopt via een notaris; u kiest uw eigen notaris of werkt met de onze\n\nZo wordt de afweging tussen brutoprijs en zekerheid een eerlijke, transparante keuze — geen verrassing achteraf.",
+      },
+    ],
+    relatedArticles: ["wat-is-een-vastgoedopkoper", "commissie-makelaar-belgie", "wat-is-mijn-woning-waard-antwerpen", "bod-aanvragen-vrijblijvend-bindend", "opkoper-of-makelaar-verschil", "verkoop-kosten-berekenen"],
+    relatedSituations: ["verkopen-zonder-makelaar"],
+    faqs: [
+      {
+        question: "Is verkopen aan een opkoper veilig?",
+        answer:
+          "Ja, mits u met een serieuze partij werkt en de verkoop via een notaris verloopt. De notaris beschermt zowel koper als verkoper, controleert de koper en beheert de gelden. Het risico zit niet in het principe van rechtstreeks verkopen, maar in de werkwijze van de specifieke partij.",
+      },
+      {
+        question: "Wat is het addertje onder het gras bij een directe verkoop?",
+        answer:
+          "Bij een correcte partij is er geen verborgen addertje, maar wel een eerlijke ruil: u krijgt doorgaans een lagere brutoprijs dan de maximale marktwaarde, in ruil voor zekerheid, snelheid en het wegvallen van kosten. Het echte gevaar zijn partijen die het bod plots verlagen bij de akte of onduidelijk zijn over kosten.",
+      },
+      {
+        question: "Betaal ik veel onder de marktwaarde bij een opkoper?",
+        answer:
+          "Een opkoper biedt onder de maximale marktwaarde, maar het nettoverschil met een klassieke verkoop is kleiner dan het lijkt. Bij een verkoop via makelaar gaan commissie, keuringen, publicatie en wachtkosten van de brutoprijs af. Vraag altijd een navolgbare berekening van het bod.",
+      },
+      {
+        question: "Waaraan herken ik een betrouwbare opkoper?",
+        answer:
+          "Aan een controleerbaar bedrijf (ondernemingsnummer, adres, telefoon), een schriftelijk en gemotiveerd bod, de garantie dat er geen extra kortingen volgen bij de akte, een redelijke geldigheidsduur, geen verplichte exclusiviteit, en een verkoop via een notaris naar uw keuze.",
+      },
+      {
+        question: "Wat als de opkoper het bod verlaagt vlak voor de akte?",
+        answer:
+          "Dat is een rode vlag. Een betrouwbare opkoper houdt zich aan het schriftelijke bod tot de akte. Werk daarom enkel met een partij die expliciet bevestigt dat er geen extra kortingen volgen, en laat dit opnemen in de afspraken. wijkopenpanden.be vraagt geen extra kortingen bij de akte.",
+      },
+    ],
+  },
+  {
+    slug: "bod-aanvragen-vrijblijvend-bindend",
+    title: "Een bod aanvragen: gratis, vrijblijvend en hoe bindend is het echt?",
+    metaTitle: "Is een bod aanvragen vrijblijvend en gratis? Hoe bindend is het? (2026) | wijkopenpanden.be",
+    metaDescription:
+      "Zit u ergens aan vast als u een bod aanvraagt? Is het gratis, wat als u het bod niet aanvaardt, en vanaf wanneer is een verkoop juridisch bindend in België? Helder uitgelegd.",
+    publishedAt: "2026-06-29",
+    updatedAt: "2026-06-29",
+    intro:
+      "Een bod aanvragen voelt voor veel mensen als een verbintenis: zit ik er dan aan vast? Moet ik verkopen? Wat als het bod tegenvalt? De korte antwoorden zijn geruststellend — een bod aanvragen is gratis en vrijblijvend, en u zit nergens aan vast tot u zélf tekent. In dit artikel leggen we precies uit wanneer u vrij bent, wanneer een verkoop juridisch bindend wordt, en hoe u zeker weet dat een bod echt en hard is.",
+    sections: [
+      {
+        heading: "Is een bod aanvragen gratis?",
+        body: "Ja. Het aanvragen van een bod, het bezoek aan het pand en het uitbrengen van het schriftelijke bod horen kosteloos te zijn. U betaalt niets om te weten wat uw woning rechtstreeks opbrengt.\n\nAnders dan bij een makelaar zijn er bij een rechtstreekse verkoop geen voorschotten voor fotografie, publicatie of keuringen. Wie u kosten aanrekent louter om een bod uit te brengen, is geen partij om mee verder te gaan.\n\nEen vrijblijvend bod aanvragen is dus risicoloos: het geeft u een concreet vergelijkingspunt zonder enige verplichting of kost.",
+      },
+      {
+        heading: "Zit ik ergens aan vast als ik een bod aanvraag?",
+        body: "Nee. Een aanvraag is geen verkoop en geen contract. U vraagt enkel informatie op — wat uw woning waard is bij een directe verkoop.\n\nConcreet betekent dat:\n• U bent na de aanvraag tot niets verplicht\n• U bent na het bezoek aan het pand tot niets verplicht\n• U bent na ontvangst van het schriftelijke bod tot niets verplicht\n\nU zit pas vast wanneer u zelf een koopovereenkomst (koopbelofte of compromis) ondertekent. Tot dat moment beslist u volledig vrij of u verder gaat, vergelijkt of afhaakt.",
+      },
+      {
+        heading: "Wat als ik het bod niet wil aanvaarden?",
+        body: "Dan gebeurt er niets. U laat het bod gewoon verlopen.\n\nEen schriftelijk bod is doorgaans een beperkte periode geldig — bijvoorbeeld 7 kalenderdagen. Aanvaardt u het niet binnen die termijn, dan vervalt het automatisch. U hoeft geen reden op te geven en er volgt geen kost of boete.\n\nEen serieuze partij vraagt in die periode ook geen exclusiviteit. U mag het bod dus vrij vergelijken met een schatting van een makelaar of met een ander bod, en op basis daarvan beslissen.",
+      },
+      {
+        heading: "Hoe weet ik dat het bod echt en bindend is?",
+        body: "Het verschil tussen een serieuze partij en een onbetrouwbare zit in de hardheid van het bod. Let op deze kenmerken:\n• Het bod staat **op papier** (of in een duidelijke schriftelijke bevestiging), niet enkel mondeling\n• Het bod is **gemotiveerd**: u ziet waarop het gebaseerd is\n• Er wordt expliciet bevestigd dat er **geen extra kortingen** volgen bij de akte\n• Het bod heeft een duidelijke **geldigheidsduur**\n\nEen mondeling 'richtbod' dat later kan zakken, biedt geen zekerheid. Een schriftelijk bod met de belofte dat de prijs niet meer verandert, wel. Vraag dat laatste altijd uitdrukkelijk.",
+      },
+      {
+        heading: "Vanaf wanneer is de verkoop juridisch bindend?",
+        body: "In België komt een verkoop juridisch tot stand zodra koper en verkoper het eens zijn over de zaak en de prijs, en dat akkoord wordt vastgelegd in een ondertekende overeenkomst. Dat moment — niet de notariële akte — is het kantelpunt.\n\nDe stappen op een rij:\n1. **Aanvraag en bod** — vrijblijvend, u zit nergens aan vast\n2. **Koopbelofte of compromis** — zodra u dit tekent, is de verkoop in principe bindend\n3. **Notariële akte** — de officiële bevestiging en de eigendomsoverdracht, doorgaans binnen enkele maanden na het compromis\n\nHet is dus de **handtekening onder de koopbelofte of het compromis** die u verbindt, niet de aanvraag of het bod. Neem voor die handtekening de tijd en raadpleeg gerust uw notaris of een adviseur.",
+      },
+      {
+        heading: "Kan ik me nog bedenken na het tekenen?",
+        body: "Voor de verkoop van een woning tussen particulieren bestaat er in België **geen wettelijke bedenktijd of herroepingsrecht** zoals bij sommige aankopen op afstand. Eens u de koopbelofte of het compromis hebt getekend, is de verkoop bindend.\n\nDat maakt het des te belangrijker om de afweging vóór de handtekening te maken, niet erna. Concreet:\n• Lees het bod en de overeenkomst rustig na\n• Vergelijk gerust met een tweede inschatting\n• Raadpleeg uw notaris of een adviseur als u twijfelt\n\nSommige overeenkomsten bevatten wel **opschortende voorwaarden** (bijvoorbeeld in verband met een attest of een vergunning). Die werken anders dan een bedenktijd: ze maken de verkoop afhankelijk van een welbepaalde voorwaarde. Laat u hierover adviseren als dit voor uw situatie speelt.",
+      },
+      {
+        heading: "Zo werkt het bij wijkopenpanden.be",
+        body: "Wij houden de aanvraag bewust vrijblijvend en helder.\n\n• U vraagt een bod aan via het formulier of telefonisch — gratis en zonder verplichting\n• Wij bezoeken het pand; ook dat bezoek is vrijblijvend\n• U ontvangt een schriftelijk, gemotiveerd bod, doorgaans 7 dagen geldig\n• Wij vragen geen exclusiviteit, zodat u vrij kunt vergelijken\n• Wat in het bod staat, is wat u ontvangt — geen extra kortingen bij de akte\n• U zit pas vast wanneer u zélf de koopovereenkomst ondertekent\n\nZo kunt u zonder risico uitzoeken wat uw woning rechtstreeks opbrengt, en pas beslissen wanneer u alle informatie heeft.",
+      },
+    ],
+    relatedArticles: ["wat-is-een-vastgoedopkoper", "verkoopbelofte-compromis-akte", "compromis-verkoop-woning-belgie", "betrouwbaar-verkopen-aan-opkoper", "opkoper-of-makelaar-verschil", "notariskosten-woning-verkoop"],
+    relatedSituations: ["verkopen-zonder-makelaar"],
+    faqs: [
+      {
+        question: "Is een bod aanvragen gratis?",
+        answer:
+          "Ja. De aanvraag, het bezoek aan het pand en het schriftelijke bod horen kosteloos te zijn. Bij een rechtstreekse verkoop zijn er geen voorschotten voor fotografie, publicatie of keuringen. U betaalt niets om te weten wat uw woning rechtstreeks opbrengt.",
+      },
+      {
+        question: "Zit ik ergens aan vast als ik een bod aanvraag?",
+        answer:
+          "Nee. Een aanvraag is geen verkoop en geen contract. U bent na de aanvraag, na het bezoek en na ontvangst van het bod tot niets verplicht. U zit pas vast wanneer u zelf een koopbelofte of compromis ondertekent.",
+      },
+      {
+        question: "Wat gebeurt er als ik het bod niet aanvaard?",
+        answer:
+          "Dan vervalt het bod na de geldigheidsduur, bijvoorbeeld 7 dagen. Er volgt geen kost, geen boete en u hoeft geen reden op te geven. Een serieuze partij vraagt geen exclusiviteit, zodat u het bod vrij kunt vergelijken.",
+      },
+      {
+        question: "Vanaf wanneer is de verkoop bindend?",
+        answer:
+          "In België is een verkoop juridisch rond zodra koper en verkoper het eens zijn over zaak en prijs en dat wordt vastgelegd in een ondertekende koopbelofte of compromis. Niet de aanvraag of het bod verbindt u, maar uw handtekening onder die overeenkomst.",
+      },
+      {
+        question: "Kan ik me bedenken nadat ik getekend heb?",
+        answer:
+          "Voor de verkoop van een woning tussen particulieren bestaat er in België geen wettelijke bedenktijd of herroepingsrecht. Eens u de koopbelofte of het compromis tekent, is de verkoop bindend. Neem de afweging dus vóór de handtekening en raadpleeg desgewenst uw notaris.",
+      },
+      {
+        question: "Hoe weet ik dat een bod echt en hard is?",
+        answer:
+          "Aan een schriftelijk, gemotiveerd bod met een duidelijke geldigheidsduur en de expliciete bevestiging dat er geen extra kortingen volgen bij de akte. Een mondeling richtbod dat later kan zakken, biedt geen zekerheid.",
+      },
+    ],
+  },
+  {
+    slug: "opkoper-of-makelaar-verschil",
+    title: "Opkoper of makelaar? Het volledige verschil in kosten, snelheid en gedoe",
+    metaTitle: "Opkoper of makelaar? Het volledige verschil (kosten, snelheid, gedoe) 2026 | wijkopenpanden.be",
+    metaDescription:
+      "Vragen jullie commissie? Wat is het verschil met een makelaar, en moet ik nog foto's, bezichtigingen of een te-koop-bord regelen? Een eerlijke vergelijking tussen een opkoper en een makelaar.",
+    publishedAt: "2026-06-29",
+    updatedAt: "2026-06-29",
+    intro:
+      "Een makelaar en een opkoper lijken op elkaar — beide helpen u verkopen — maar ze doen fundamenteel iets anders. Een makelaar zoekt een koper voor u en rekent daarvoor commissie aan. Een opkoper is zélf de koper en rekent geen commissie. Dat verschil bepaalt wat u betaalt, hoe snel u verkoopt en hoeveel u zelf moet regelen. In dit artikel zetten we beide naast elkaar: kosten, snelheid, zekerheid en de praktische rompslomp van foto's, bezichtigingen en een te-koop-bord.",
+    sections: [
+      {
+        heading: "Wat is het verschil tussen een opkoper en een makelaar?",
+        body: "Het kernverschil is hun rol in de verkoop.\n\nEen **makelaar** is een bemiddelaar. Hij brengt uw woning op de markt, zoekt een koper en begeleidt de onderhandeling. Hij koopt zelf niet — hij verbindt u met een derde partij en rekent voor die dienst commissie aan. De verkoopprijs en de timing hangen af van wanneer er een geschikte koper opdaagt.\n\nEen **opkoper** is zelf de koper. wijkopenpanden.be koopt uw woning rechtstreeks aan, zonder als makelaar op te treden. Er komt geen derde koper aan te pas, dus ook geen commissie. U weet na het bod meteen wie koopt, tegen welke prijs en op welke termijn.\n\nKort: een makelaar verkoopt uw woning vóór u, een opkoper koopt ze ván u.",
+      },
+      {
+        heading: "Vragen jullie kosten of commissie?",
+        body: "Nee. Een opkoper koopt rechtstreeks aan en rekent geen makelaarscommissie aan. Dit is het meest concrete verschil met een makelaar.\n\nBij een verkoop via makelaar betaalt u een commissie als percentage van de verkoopprijs, te vermeerderen met 21% btw. Daarbovenop komen vaak nog kosten voor keuringen, EPC, fotografie en publicatie, die de verkoper voorschiet of die van de prijs worden afgetrokken.\n\nBij een rechtstreekse verkoop aan wijkopenpanden.be:\n• Geen commissie\n• Geen btw op een commissie\n• Geen kosten voor keuringen, EPC of asbestinventaris — wij regelen dat\n• Geen kosten voor fotografie of publicatie\n\nU ontvangt netto de overeengekomen verkoopprijs. De geijkte kosten die een verkoper bij een notariële verkoop draagt (zoals de doorhaling van een eventuele hypotheek) blijven uiteraard bestaan, ongeacht via wie u verkoopt.",
+      },
+      {
+        heading: "Moet ik nog foto's, bezichtigingen of een te-koop-bord regelen?",
+        body: "Nee. Dit is het verschil dat in het dagelijkse leven het meeste scheelt.\n\nBij een klassieke verkoop hoort een hele machine: professionele foto's, een aantrekkelijke advertentie, een te-koop-bord, en vooral een doorlopende reeks bezichtigingen met wildvreemden in uw woning — vaak 's avonds en in het weekend, soms wekenlang.\n\nBij een rechtstreekse verkoop valt dat allemaal weg:\n• Geen foto's of verkoopbrochure nodig\n• Geen advertentie op vastgoedportalen\n• Geen te-koop-bord aan de gevel\n• Geen reeks bezichtigingen — enkel één bezoek van ons om het pand te taxeren\n\nVoor wie discreet wil verkopen, weinig tijd heeft of een bewoond pand verkoopt, is dat een groot praktisch voordeel.",
+      },
+      {
+        heading: "Verschil in snelheid en zekerheid",
+        body: "Bij een makelaar is de uitkomst onzeker tot er een koper tekent. U weet niet op voorhand wat de woning opbrengt, noch wanneer ze verkocht raakt. De doorlooptijd hangt af van de markt, de prijs en het aantal geïnteresseerden, en kan oplopen tot vele maanden.\n\nBij een opkoper krijgt u na het bezoek een concreet, schriftelijk bod. U weet meteen wat u ontvangt en u kiest mee de datum van de akte. Dat ruilt u in tegen een brutoprijs die doorgaans onder de maximale marktwaarde ligt — de prijs van die zekerheid en snelheid.\n\nDe juiste keuze hangt af van wat u zwaarder laat wegen: de hoogst mogelijke brutoprijs, of zekerheid, snelheid en het wegvallen van kosten en rompslomp.",
+      },
+      {
+        heading: "Opkoper versus makelaar: de vergelijking",
+        body: "Onderstaande tabel zet de belangrijkste verschillen naast elkaar.",
+        table: {
+          headers: ["", "Via makelaar", "Via wijkopenpanden.be"],
+          rows: [
+            ["Rol", "Bemiddelaar — zoekt een koper", "Zelf de koper — koopt rechtstreeks"],
+            ["Commissie", "Percentage + 21% btw", "Geen"],
+            ["Keuringen, EPC, asbest", "Ten laste van verkoper", "Geregeld door wijkopenpanden.be"],
+            ["Foto's, advertentie, te-koop-bord", "Nodig", "Niet nodig"],
+            ["Bezichtigingen", "Reeks bezichtigingen", "Eén taxatiebezoek"],
+            ["Zekerheid over prijs", "Pas bij ondertekend compromis", "Schriftelijk bod na bezoek"],
+            ["Timing", "Afhankelijk van de markt", "U kiest mee de datum van de akte"],
+            ["Brutoprijs", "Mogelijk hoger", "Onder maximale marktwaarde"],
+          ],
+        },
+      },
+      {
+        heading: "Wanneer kiest u voor wie?",
+        body: "Geen van beide is altijd beter — het hangt af van uw situatie.\n\nEen **makelaar** is interessant als:\n• Uw woning in goede staat is en vlot verkoopt op de markt\n• U geen haast heeft en de hoogst mogelijke brutoprijs wilt nastreven\n• U geen bezwaar heeft tegen bezichtigingen en wachttijd\n\nEen **opkoper** is interessant als:\n• U snel of op een gekozen datum zekerheid wilt\n• U niet wilt of kunt renoveren vóór de verkoop\n• U discreet wilt verkopen, zonder bezichtigingen of advertentie\n• U een pand verkoopt dat de doorsnee koper niet zoekt (opknappand, opbrengsteigendom, verhuurd pand)\n• U gedoe en bijkomende kosten wilt vermijden\n\nTwijfelt u? Een vrijblijvend bod aanvragen kost niets en geeft u een concreet vergelijkingspunt naast een schatting van een makelaar.",
+      },
+    ],
+    relatedArticles: ["commissie-makelaar-belgie", "wat-is-een-vastgoedopkoper", "hoelang-duurt-huis-verkopen-belgie", "betrouwbaar-verkopen-aan-opkoper", "bod-aanvragen-vrijblijvend-bindend", "verkoop-kosten-berekenen"],
+    relatedSituations: ["verkopen-zonder-makelaar", "opknappand-verkopen"],
+    faqs: [
+      {
+        question: "Vraagt wijkopenpanden.be commissie of kosten?",
+        answer:
+          "Nee. Een opkoper koopt rechtstreeks aan en rekent geen makelaarscommissie aan. Er is ook geen btw op een commissie en geen kost voor keuringen, EPC, asbestinventaris, fotografie of publicatie. U ontvangt netto de overeengekomen verkoopprijs.",
+      },
+      {
+        question: "Wat is het verschil tussen een opkoper en een makelaar?",
+        answer:
+          "Een makelaar is een bemiddelaar die een koper voor u zoekt en daarvoor commissie aanrekent. Een opkoper is zelf de koper en rekent geen commissie aan. Bij een opkoper weet u na het bod meteen wie koopt, tegen welke prijs en op welke termijn.",
+      },
+      {
+        question: "Moet ik foto's, bezichtigingen of een te-koop-bord regelen?",
+        answer:
+          "Nee. Bij een rechtstreekse verkoop zijn er geen foto's, advertentie of te-koop-bord nodig en is er geen reeks bezichtigingen. Er is enkel één taxatiebezoek om het pand te beoordelen. Dat is een groot voordeel als u discreet wilt verkopen of weinig tijd heeft.",
+      },
+      {
+        question: "Levert een makelaar meer op dan een opkoper?",
+        answer:
+          "De brutoprijs via een makelaar ligt mogelijk hoger, maar daar gaan commissie, btw, keuringen, publicatie en wachtkosten van af. Bij een opkoper ligt de brutoprijs onder de maximale marktwaarde, maar vallen die kosten weg. Het nettoverschil is kleiner dan de brutoprijzen doen vermoeden.",
+      },
+      {
+        question: "Wanneer kies ik beter voor een opkoper dan voor een makelaar?",
+        answer:
+          "Een opkoper is interessant als u snel of op een gekozen datum zekerheid wilt, niet wilt renoveren vóór de verkoop, discreet wilt verkopen, of een pand heeft dat de doorsnee koper niet zoekt. Een makelaar past beter bij een woning in goede staat als u geen haast heeft en de hoogste brutoprijs nastreeft.",
       },
     ],
   },
