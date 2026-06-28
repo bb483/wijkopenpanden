@@ -7,8 +7,8 @@ export const articles: Article[] = [
     metaTitle: "Makelaarsloon in België 2026 — wat betaalt u echt? | wijkopenpanden.be",
     metaDescription:
       "Wat kost een makelaar in België? De commissie plus verborgen kosten lopen hoger op dan velen denken. Lees de volledige analyse en vergelijk met verkopen aan een opkoper.",
-    publishedAt: "2024-09-01",
-    updatedAt: "2025-01-15",
+    publishedAt: "2026-01-10",
+    updatedAt: "2026-01-15",
     intro:
       "Wanneer u uw woning via een makelaar verkoopt, betaalt u commissie op de verkoopprijs. De gangbare afspraak in België is een percentage van de verkoopprijs exclusief btw, maar de werkelijke kostprijs ligt vaak hoger. In dit artikel zetten wij de volledige kostprijsstructuur uiteen — inclusief de posten die makelaars niet altijd proactief vermelden.",
     sections: [
@@ -80,8 +80,8 @@ export const articles: Article[] = [
     metaTitle: "Verplichte keuringen bij woningverkoop in België 2026 | wijkopenpanden.be",
     metaDescription:
       "EPC, elektriciteitskeuring, asbestinventaris, stookolietank — welke keuringen zijn wettelijk verplicht bij de verkoop van uw woning? Overzicht van kosten en termijnen.",
-    publishedAt: "2025-02-01",
-    updatedAt: "2025-03-10",
+    publishedAt: "2026-02-01",
+    updatedAt: "2026-03-10",
     intro:
       "Wie een woning verkoopt in België, moet een reeks attesten en keuringen voorleggen aan de koper. Sommige zijn wettelijk verplicht vóór de ondertekening van het compromis, andere worden opgevraagd door de notaris bij de akte. Een ontbrekend attest kan de verkoop vertragen of juridische gevolgen hebben. Dit artikel geeft een volledig overzicht.",
     sections: [
@@ -145,8 +145,8 @@ export const articles: Article[] = [
     metaTitle: "Verkoopkosten woning berekenen in België 2026 | wijkopenpanden.be",
     metaDescription:
       "Wat zijn de werkelijke kosten bij de verkoop van uw woning? Notariskosten, keuringen, commissie, fiscaliteit — bereken uw netto-opbrengst voor u beslist.",
-    publishedAt: "2025-02-15",
-    updatedAt: "2025-03-10",
+    publishedAt: "2026-02-15",
+    updatedAt: "2026-03-10",
     intro:
       "De verkoopprijs van uw woning is niet wat u netto ontvangt. Tussen de vraagprijs en het bedrag op uw rekening staan meerdere kostenposten die samen snel enkele procenten van de verkoopprijs kunnen uitmaken. Dit artikel brengt alle kosten in kaart en geeft een realistisch beeld van uw netto-opbrengst.",
     sections: [
@@ -208,8 +208,8 @@ export const articles: Article[] = [
     metaTitle: "EPC-attest aanvragen in Antwerpen 2026 — kosten en procedure | wijkopenpanden.be",
     metaDescription:
       "Wat is een EPC-attest, hoe vraagt u het aan in Antwerpen, hoeveel kost het en wat zijn de gevolgen van een lage energiescore voor uw verkoopprijs?",
-    publishedAt: "2025-03-01",
-    updatedAt: "2025-03-15",
+    publishedAt: "2026-03-01",
+    updatedAt: "2026-03-15",
     intro:
       "Het energieprestatiecertificaat (EPC) is een verplicht document bij de verkoop of verhuur van een woning in Vlaanderen. Het geeft de energiezuinigheid van het gebouw weer op een schaal van A+ (zeer zuinig) tot F (zeer onzuinig). Bij een verkoop moet het EPC beschikbaar zijn vóór de publicatie van het pand.",
     sections: [
@@ -265,8 +265,8 @@ export const articles: Article[] = [
     metaTitle: "Erfenis woning verkopen in België — stappenplan 2026 | wijkopenpanden.be",
     metaDescription:
       "Wat zijn de stappen bij de verkoop van een geërfde woning? Successierechten, onverdeeldheid, bodemattest en tijdsdruk — lees het volledige stappenplan.",
-    publishedAt: "2025-03-01",
-    updatedAt: "2025-03-20",
+    publishedAt: "2026-03-01",
+    updatedAt: "2026-03-20",
     intro:
       "De erfenis van een woning brengt veel vragen met zich mee. Wie neemt de beslissingen? Wanneer moeten de successierechten worden betaald? Wat als de erfgenamen het niet eens zijn? Dit stappenplan begeleidt u door het volledige proces, van overlijden tot akte.",
     sections: [
@@ -326,8 +326,8 @@ export const articles: Article[] = [
     metaTitle: "Compromis, verkoopbelofte en akte bij woningverkoop uitgelegd | wijkopenpanden.be",
     metaDescription:
       "Wat is het verschil tussen een verkoopbelofte, een compromis en een notariële akte? Wanneer is de verkoop definitief? Alles uitgelegd voor verkopers.",
-    publishedAt: "2025-03-10",
-    updatedAt: "2025-03-20",
+    publishedAt: "2026-03-10",
+    updatedAt: "2026-03-20",
     intro:
       "Bij de verkoop van een woning doorloopt u meerdere juridische stappen. Verkopers spreken soms door elkaar over 'het compromis', 'de verkoopbelofte' en 'de akte'. Deze termen zijn echter niet synoniem: elk document heeft een andere juridische waarde en gevolgen. Dit artikel legt het verschil uit.",
     sections: [
@@ -374,8 +374,8 @@ export const articles: Article[] = [
     metaTitle: "Notariskosten bij woningverkoop in België 2026 | wijkopenpanden.be",
     metaDescription:
       "Hoeveel kost een notaris bij de verkoop van uw woning? Registratierechten, ereloon, doorhaling hypotheek — volledig overzicht van de notariskosten in België.",
-    publishedAt: "2025-03-15",
-    updatedAt: "2025-03-25",
+    publishedAt: "2026-03-15",
+    updatedAt: "2026-03-25",
     intro:
       "Notariskosten zijn een van de grootste posten bij de aankoop van een woning in België. Ze worden doorgaans betaald door de koper, maar als verkoper krijgt u er ook mee te maken — zeker als er een hypotheek op het pand rust. Dit artikel geeft een volledig overzicht.",
     sections: [
@@ -426,8 +426,8 @@ export const articles: Article[] = [
     metaTitle: "Lijfrente woning verkopen uitgelegd 2026 | wijkopenpanden.be",
     metaDescription:
       "Lijfrente bij vastgoed: wat is het, hoe wordt de prijs berekend, wat zijn de fiscale voordelen en voor wie is een lijfrenteverkoop interessant?",
-    publishedAt: "2025-03-20",
-    updatedAt: "2025-04-01",
+    publishedAt: "2026-03-20",
+    updatedAt: "2026-04-01",
     intro:
       "Lijfrente is een bijzondere verkoopvorm waarbij de verkoper zijn eigendom overdraagt in ruil voor een maandelijkse of jaarlijkse uitkering, in plaats van een eenmalige verkoopsom. In België wint deze formule aan populariteit bij senioren die hun woning willen verzilveren terwijl ze er blijven wonen. Maar hoe werkt het precies, en is het voor u interessant?",
     sections: [
@@ -478,8 +478,8 @@ export const articles: Article[] = [
     metaTitle: "Blijven wonen na verkoop woning — huurovereenkomst of vruchtgebruik | wijkopenpanden.be",
     metaDescription:
       "Hoe kunt u in uw woning blijven wonen na de verkoop? Terughuurovereenkomst, vruchtgebruik of recht van bewoning — uitleg, voor- en nadelen.",
-    publishedAt: "2025-03-25",
-    updatedAt: "2025-04-01",
+    publishedAt: "2026-03-25",
+    updatedAt: "2026-04-01",
     intro:
       "Soms wilt u uw woning verkopen maar er toch in blijven wonen — tijdelijk of voor de rest van uw leven. Dat kan, via verschillende juridische formules. Dit artikel bespreekt de meest gangbare opties: terughuurovereenkomst, vruchtgebruik en recht van gebruik en bewoning.",
     sections: [
@@ -538,8 +538,8 @@ export const articles: Article[] = [
     metaTitle: "Pand in slechte staat verkopen in Antwerpen 2026 | wijkopenpanden.be",
     metaDescription:
       "Hoe verkoopt u een woning die gerenoveerd moet worden? Wat kunt u verwachten qua prijs, en wat zijn de voor- en nadelen van renoveren voor verkoop vs. as-is verkopen?",
-    publishedAt: "2025-04-01",
-    updatedAt: "2025-04-10",
+    publishedAt: "2026-04-01",
+    updatedAt: "2026-04-10",
     intro:
       "Niet elke woning die te koop staat is instapklaar. Vochtschade, verouderde elektriciteit, een slecht dak, een verouderde keuken of zelfs een ongezonde staat — het zijn allemaal factoren die de marktwaarde drukken en het verkoopproces compliceren. In dit artikel bespreken we uw opties en wanneer het zinvol is om te renoveren voor verkoop.",
     sections: [
@@ -595,8 +595,8 @@ export const articles: Article[] = [
     metaTitle: "Belastingen bij woningverkoop in België 2026 | wijkopenpanden.be",
     metaDescription:
       "Welke belastingen betaalt u bij de verkoop van uw woning in België? Meerwaardebelasting, registratierechten, onroerende voorheffing — alles uitgelegd met praktische voorbeelden.",
-    publishedAt: "2025-05-01",
-    updatedAt: "2025-05-28",
+    publishedAt: "2026-05-01",
+    updatedAt: "2026-05-28",
     intro:
       "Veel eigenaars zijn verrast door de belastingen die komen kijken bij de verkoop van een woning. Sommige belastingen zijn de verantwoordelijkheid van de koper, andere van de verkoper — en de regels verschillen naargelang de situatie. In dit artikel zetten we de belangrijkste fiscale aspecten op een rij, zodat u weet wat u kunt verwachten.",
     sections: [
@@ -671,8 +671,8 @@ export const articles: Article[] = [
     metaTitle: "Mede-eigendom verkopen in België 2026 — erfenis, scheiding | wijkopenpanden.be",
     metaDescription:
       "Wat als een mede-eigenaar niet wil verkopen? Hoe verkoopt u een woning in onverdeeldheid na erfenis of scheiding? Alles over mede-eigendom en gedwongen verdeling in België.",
-    publishedAt: "2025-05-10",
-    updatedAt: "2025-05-28",
+    publishedAt: "2026-05-10",
+    updatedAt: "2026-05-28",
     intro:
       "Wanneer meerdere mensen samen eigenaar zijn van een woning, kan de verkoop vastlopen. Eén mede-eigenaar wil verkopen, een andere niet. Dit speelt het vaakst bij erfenissen en echtscheidingen. In dit artikel leggen we uit wat mede-eigendom inhoudt, welke opties u heeft en hoe u een geblokkeerde situatie kunt doorbreken.",
     sections: [
@@ -733,8 +733,8 @@ export const articles: Article[] = [
     metaTitle: "Snel geld vrijmaken uit uw woning in België 2026 | wijkopenpanden.be",
     metaDescription:
       "Wilt u snel geld vrijmaken uit uw woning zonder te verhuizen of met snelle verkoop? Vergelijking van alle opties: verkoop aan opkoper, herfinanciering, lijfrente, sale-and-leaseback.",
-    publishedAt: "2025-05-20",
-    updatedAt: "2025-05-28",
+    publishedAt: "2026-05-20",
+    updatedAt: "2026-05-28",
     intro:
       "Uw woning is waarschijnlijk uw grootste vermogen. Maar vermogen dat in stenen zit, is niet direct beschikbaar. Er zijn verschillende manieren om kapitaal vrij te maken uit uw woning — elk met andere voor- en nadelen. Dit artikel vergelijkt alle opties eerlijk, zodat u de juiste keuze kunt maken voor uw situatie.",
     sections: [
