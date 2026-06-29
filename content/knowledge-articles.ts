@@ -2510,12 +2510,16 @@ export const articles: Article[] = [
     title: "Uw woning staat al maanden te koop zonder resultaat: oorzaken en oplossingen",
     metaTitle: "Woning verkoopt niet / staat al maanden te koop? Oorzaken + oplossingen 2026 | wijkopenpanden.be",
     metaDescription:
-      "Uw huis staat al maanden te koop zonder bod? Ontdek de echte oorzaken — prijs, presentatie, staat en dossier — wat het u intussen kost, en hoe u de verkoop alsnog deblokkeert.",
+      "Uw woning raakt niet verkocht of staat al maanden te koop? De echte oorzaken, wat het u kost en wat u kunt doen om de verkoop alsnog te deblokkeren.",
     publishedAt: "2026-06-28",
-    updatedAt: "2026-06-28",
+    updatedAt: "2026-06-29",
     intro:
-      "Weinig is zo ontmoedigend als een woning die maand na maand te koop staat zonder een serieus bod. De bezichtigingen drogen op, de advertentie zakt weg op de portalen en elke maand kosten de woning u geld. In dit artikel leest u waarom woningen blijven hangen, wat een stilstaande verkoop u concreet kost en welke stappen de verkoop weer in beweging brengen — van een prijscorrectie tot een rechtstreekse verkoop zonder makelaar.",
+      "Weinig is zo ontmoedigend als een woning die maand na maand te koop staat zonder een serieus bod. De bezichtigingen drogen op, de advertentie zakt weg op de portalen en elke maand kost de woning u geld. Wat kunt u doen als uw woning niet verkocht geraakt? In dit artikel leest u waarom woningen blijven hangen, wat een stilstaande verkoop u concreet kost en welke stappen de verkoop weer in beweging brengen — van een prijscorrectie tot een rechtstreekse verkoop zonder makelaar.",
     sections: [
+      {
+        heading: "Wat als uw woning niet verkocht geraakt? Het korte antwoord",
+        body: "Raakt uw woning maar niet verkocht, dan ligt dat vrijwel nooit aan pech — er is bijna altijd een aanwijsbare oorzaak die u kunt bijsturen.\n\nIn de regel komt het op één van deze vijf punten neer: de vraagprijs staat te hoog, de presentatie schiet tekort, de staat van de woning schrikt kopers af, er zit een probleem in het dossier, of u bereikt via het gekozen kanaal niet de juiste koper.\n\nWat u kunt doen, in volgorde:\n1. Stel de oorzaak vast — prijs, presentatie, staat, dossier of kanaal\n2. Stuur dat ene punt gericht bij; meestal is dat de prijs of de presentatie\n3. Lukt verkopen via de markt niet, weeg dan een rechtstreekse verkoop af tegen verder afwachten\n\nHieronder werken we elke oorzaak en elke oplossing concreet uit, samen met wat een stilstaande verkoop u intussen kost.",
+      },
       {
         heading: "Hoelang is te lang? Wanneer u zich zorgen mag maken",
         body: "Niet elke woning verkoopt in een paar weken, en dat hoeft ook niet. Maar er is een verschil tussen een normale doorlooptijd en een dossier dat vastzit.\n\nEen courante woning in een gewilde buurt krijgt doorgaans binnen de eerste weken de meeste bezichtigingen en biedingen. Loopt de teller op tot meerdere maanden zonder concreet bod, dan is dat zelden toeval — er is meestal één duidelijke oorzaak, of een combinatie ervan.\n\nEen praktische vuistregel: blijven na de eerste vier tot zes weken de bezichtigingen uit, of komen er wel kijkers maar geen biedingen, dan zit er iets fout in de prijs, de presentatie, de staat of het dossier. Hoe langer u wacht met bijsturen, hoe meer de woning 'verbrandt' op de markt.",
@@ -2566,6 +2570,21 @@ export const articles: Article[] = [
     relatedArticles: ["wat-is-mijn-woning-waard-antwerpen", "hoelang-duurt-huis-verkopen-belgie", "commissie-makelaar-belgie", "pand-in-slechte-staat-verkopen", "huis-verkopen-bij-betalingsproblemen-schulden", "wanneer-beste-moment-woning-verkopen"],
     relatedSituations: ["verkopen-zonder-makelaar", "opknappand-verkopen"],
     faqs: [
+      {
+        question: "Wat als mijn woning niet verkocht geraakt?",
+        answer:
+          "Dan is er bijna altijd een aanwijsbare oorzaak die u kunt bijsturen: een te hoge vraagprijs, zwakke presentatie, de staat van de woning, een dossierprobleem of het verkeerde verkoopkanaal. Stel de oorzaak vast, stuur dat punt gericht bij, en weeg — als verkopen via de markt niet lukt — een rechtstreekse verkoop af tegen verder afwachten.",
+      },
+      {
+        question: "Wat moet ik doen als mijn huis maar niet verkoopt?",
+        answer:
+          "Begin bij de vraagprijs: vergelijk ze met recente, vergelijkbare verkopen in de buurt. Vernieuw daarna de advertentie met nieuwe foto's en een frisse publicatiedatum, los oplosbare dossierproblemen op en overweeg een ander kanaal of een andere makelaar. Levert dat niets op, dan biedt een rechtstreekse verkoop aan een opkoper zekerheid.",
+      },
+      {
+        question: "Kan ik mijn woning uit de verkoop halen en later opnieuw proberen?",
+        answer:
+          "Ja. U kunt de woning van de markt halen en later opnieuw te koop zetten. Houd er wel rekening mee dat een advertentie die lang online stond marktmoeheid oproept; een echte pauze en een nieuwe, correcte prijs werken dan beter dan dezelfde advertentie opnieuw publiceren. Intussen blijven de vaste lasten doorlopen.",
+      },
       {
         question: "Hoelang mag een woning normaal te koop staan?",
         answer:
