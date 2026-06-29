@@ -2912,6 +2912,158 @@ export const articles: Article[] = [
       },
     ],
   },
+  {
+    slug: "keuringen-attesten-bij-directe-verkoop",
+    title: "Asbestattest, EPC en elektrische keuring bij een directe verkoop: wat regelt u nog zelf?",
+    metaTitle: "EPC, asbestattest en keuring bij directe verkoop — wat regelt u zelf? (2026) | wijkopenpanden.be",
+    metaDescription:
+      "Heeft u bij een directe verkoop nog een EPC, asbestattest of keuring nodig? Welke attesten verplicht blijven en wat de opkoper voor u regelt.",
+    publishedAt: "2026-06-29",
+    updatedAt: "2026-06-29",
+    intro:
+      "Bij de verkoop van een woning in Vlaanderen horen verplichte attesten en keuringen: een EPC, een asbestattest, een elektrische keuring, een bodemattest en stedenbouwkundige informatie. Veel verkopers vrezen het opzoekwerk, de kosten en de wachttijd die daarbij komen kijken. De goede nieuws bij een directe verkoop: de wettelijke verplichtingen blijven, maar u hoeft ze niet zelf te regelen. In dit artikel leest u welke attesten verplicht zijn, of die verplichting ook geldt bij een directe verkoop, en wat wijkopenpanden.be in uw plaats opneemt.",
+    sections: [
+      {
+        heading: "Welke attesten en keuringen zijn verplicht bij een woningverkoop?",
+        body: "Voor de verkoop van een woning in Vlaanderen is een aantal documenten wettelijk verplicht. De verkoper moet ze (laten) aanleveren vóór of bij de verkoop.",
+        table: {
+          headers: ["Document", "Waarvoor", "Wanneer verplicht"],
+          rows: [
+            ["EPC", "Energieprestatie van de woning", "Bij elke verkoop van een woning"],
+            ["Asbestattest", "Aanwezigheid van asbest", "Bij verkoop van gebouwen van vóór 2001"],
+            ["Elektrische keuring", "Conformiteit van de elektrische installatie", "Bij verkoop van een residentiële eenheid"],
+            ["Bodemattest", "Historiek van bodemverontreiniging", "Bij elke overdracht van een grond"],
+            ["Stedenbouwkundige info", "Vergunningen en bestemming", "Bij elke verkoop, opgevraagd via de notaris"],
+            ["Postinterventiedossier", "Uitgevoerde werken sinds 2001", "Als er na 1 mei 2001 werken zijn uitgevoerd"],
+          ],
+        },
+      },
+      {
+        heading: "Blijven die attesten verplicht als ik direct verkoop?",
+        body: "Ja. De wettelijke verplichtingen hangen vast aan de **verkoop zelf**, niet aan het type koper. Of u nu verkoopt aan een particulier via een makelaar of rechtstreeks aan een opkoper: dezelfde attesten zijn nodig om de verkoop notarieel te kunnen afronden.\n\nHet verschil zit dus niet in wát er nodig is, maar in **wie het regelt en betaalt**. Bij een klassieke verkoop schiet u als verkoper de keuringen en attesten voor. Bij een directe verkoop aan wijkopenpanden.be nemen wij dat opzoekwerk en die kosten over.\n\nU hoeft met andere woorden geen keurder te zoeken, geen offertes te vergelijken en geen weken te wachten op een asbestdeskundige. De woning wordt in de huidige staat aangekocht en wij coördineren de nodige documenten met de notaris.",
+      },
+      {
+        heading: "Wat wijkopenpanden.be voor u regelt",
+        body: "Bij een directe verkoop nemen wij de praktische rompslomp van de keuringen en attesten op ons. Concreet betekent dat:\n• U hoeft zelf geen EPC-deskundige, elektrokeurder of asbestexpert aan te stellen\n• U schiet de kosten van die keuringen niet voor\n• U verzamelt het dossier niet zelf — wij coördineren met de notaris\n• De woning wordt aangekocht in de huidige staat, ook als de elektriciteit niet conform is of er asbest aanwezig is\n\nDat laatste is een wezenlijk verschil. Op de klassieke markt schrikken een niet-conforme elektrische installatie of de aanwezigheid van asbest kopers af of drukken ze het bod. Bij een directe verkoop zijn die elementen mee verrekend in een transparant bod, zonder dat u eerst moet laten herstellen of saneren.",
+      },
+      {
+        heading: "EPC, asbestattest en elektrische keuring: wat houdt elk in?",
+        body: "Een korte toelichting bij de drie attesten waar verkopers de meeste vragen over hebben:\n\n**EPC (energieprestatiecertificaat).** Toont het energielabel van de woning en is doorgaans tien jaar geldig. Sinds de invoering van de renovatieverplichting voor woningen met een zwak label weegt het EPC zwaarder door in de aankoopbeslissing van klassieke kopers.\n\n**Asbestattest.** Verplicht bij de verkoop van gebouwen die vóór 2001 zijn gebouwd. Een gecertificeerd deskundige inventariseert het asbest in de woning. Het attest is informatief — u hoeft het asbest niet te verwijderen vóór de verkoop.\n\n**Elektrische keuring.** Controleert of de elektrische installatie voldoet aan het Algemeen Reglement op de Elektrische Installaties. Is de installatie niet conform, dan moet de koper ze na de aankoop binnen een wettelijke termijn in orde laten brengen. Bij een directe verkoop is dat geen obstakel.\n\nVoor een diepgaande uitleg per attest verwijzen we naar onze aparte artikels over de verplichte keuringen, het EPC en het bodemattest.",
+      },
+      {
+        heading: "Bodemattest en stedenbouwkundige informatie",
+        body: "Naast de keuringen die de staat van de woning betreffen, zijn er twee administratieve documenten:\n\n**Bodemattest.** Bij elke overdracht van een grond is een bodemattest van de bevoegde instantie vereist. Het geeft de gekende historiek van eventuele bodemverontreiniging weer. De notaris vraagt dit doorgaans aan.\n\n**Stedenbouwkundige inlichtingen.** De notaris vraagt bij de gemeente de informatie op over vergunningen, de bestemming van het pand en eventuele overtredingen. Dit gebeurt bij elke verkoop.\n\nOok deze documenten coördineren wij bij een directe verkoop mee met de notaris, zodat u er zelf niet achteraan hoeft te gaan.",
+      },
+      {
+        heading: "Het verschil met een verkoop via makelaar",
+        body: "Bij een klassieke verkoop blijven de attesten ten laste van de verkoper. U laat ze opmaken vóór de publicatie — onder meer omdat het EPC al in de advertentie moet staan — en betaalt de keurders zelf. Een makelaar regelt dit soms tegen vergoeding, maar de kosten blijven uw rekening.\n\nVerkoopt u liever via een makelaar, dan kan dat uiteraard — bijvoorbeeld via een vastgoedkantoor zoals Berabrick, dat het volledige verkooptraject en de attesten in uw plaats opvolgt. De afweging blijft dezelfde als altijd: een mogelijk hogere brutoprijs tegenover de kosten, de wachttijd en de rompslomp.\n\nBij een directe verkoop aan wijkopenpanden.be vallen die keuringskosten en dat opzoekwerk weg. U levert de woning aan zoals ze is; wij doen de rest.",
+      },
+    ],
+    relatedArticles: ["keuringen-bij-verkoop-woning", "epc-attest-antwerpen", "bodemattest-vlaanderen-verkoop", "opkoper-of-makelaar-verschil", "pand-in-slechte-staat-verkopen", "hoe-snel-verkopen-en-geld-ontvangen"],
+    relatedSituations: ["verkopen-zonder-makelaar", "opknappand-verkopen"],
+    faqs: [
+      {
+        question: "Heb ik bij een directe verkoop nog een EPC nodig?",
+        answer:
+          "Het EPC blijft wettelijk verplicht, want die verplichting hangt aan de verkoop, niet aan het type koper. Het verschil is dat u het bij een directe verkoop aan wijkopenpanden.be niet zelf hoeft te laten opmaken of voor te schieten — wij regelen de nodige documenten met de notaris.",
+      },
+      {
+        question: "Moet ik asbest verwijderen of de elektriciteit herstellen vóór ik verkoop?",
+        answer:
+          "Nee. Bij een directe verkoop koopt wijkopenpanden.be de woning in de huidige staat aan. Een niet-conforme elektrische installatie of de aanwezigheid van asbest is geen obstakel; die elementen zijn mee verrekend in een transparant bod, zonder dat u eerst moet herstellen of saneren.",
+      },
+      {
+        question: "Wie betaalt de keuringen bij een directe verkoop?",
+        answer:
+          "Bij een directe verkoop aan wijkopenpanden.be neemt de opkoper het opzoekwerk en de kosten van de keuringen over. Bij een klassieke verkoop via makelaar schiet de verkoper die kosten zelf voor.",
+      },
+      {
+        question: "Is een asbestattest altijd verplicht?",
+        answer:
+          "Een asbestattest is verplicht bij de verkoop van gebouwen die vóór 2001 zijn gebouwd. Het is een informatief document op basis van een inventarisatie door een gecertificeerd deskundige; u hoeft het asbest niet te verwijderen vóór de verkoop.",
+      },
+      {
+        question: "Regelt wijkopenpanden.be ook het bodemattest en de stedenbouwkundige info?",
+        answer:
+          "Ja. Het bodemattest en de stedenbouwkundige inlichtingen worden via de notaris opgevraagd. Bij een directe verkoop coördineren wij die documenten mee, zodat u er zelf niet achteraan hoeft te gaan.",
+      },
+    ],
+  },
+  {
+    slug: "hoe-snel-verkopen-en-geld-ontvangen",
+    title: "Hoe snel kunt u verkopen en wanneer staat het geld op uw rekening?",
+    metaTitle: "Hoe snel verkopen en wanneer staat het geld op mijn rekening? (2026) | wijkopenpanden.be",
+    metaDescription:
+      "Hoe snel verkoopt u aan een opkoper en wanneer staat het geld op uw rekening? De volledige tijdlijn van aanvraag tot uitbetaling — en wat het tempo bepaalt.",
+    publishedAt: "2026-06-29",
+    updatedAt: "2026-06-29",
+    intro:
+      "Wie snel wil verkopen, heeft eigenlijk twee vragen: hoe snel is de verkoop rond, en wanneer staat het geld effectief op mijn rekening? Die twee vallen niet samen — een akkoord is sneller bereikt dan de uitbetaling, want daar zit nog de notariële akte tussen. In dit artikel leest u de volledige tijdlijn van een directe verkoop, van de eerste aanvraag tot het moment dat de opbrengst op uw rekening staat, en wat dat tempo kan versnellen of vertragen.",
+    sections: [
+      {
+        heading: "Hoe snel kunt u verkopen aan een opkoper?",
+        body: "Bij een directe verkoop ligt de zekerheid over de verkoop er snel. Het akkoord — het moment waarop u weet dat u verkoopt en tegen welke prijs — kan al binnen enkele dagen rond zijn.\n\nEen typisch verloop bij wijkopenpanden.be:\n• Reactie op uw aanvraag binnen 2 uur, ook in het weekend\n• Bezoek aan het pand doorgaans binnen 48 uur\n• Een schriftelijk, gemotiveerd bod kort na het bezoek\n\nDat staat in scherp contrast met een klassieke verkoop, waar het wachten is op een geschikte koper. De doorlooptijd op de open markt kan oplopen tot vele maanden, en is pas zeker zodra een koper het compromis tekent.",
+      },
+      {
+        heading: "Waarom een directe verkoop sneller verloopt",
+        body: "De snelheid van een directe verkoop komt voort uit het wegvallen van de stappen die een klassieke verkoop traag maken:\n• Geen wachttijd tot er een geïnteresseerde koper opdaagt\n• Geen reeks bezichtigingen die zich over weken uitspreidt\n• Geen onderhandelingsrondes met meerdere kandidaat-kopers\n• Geen koper die nog een hypothecaire lening moet rondkrijgen\n\nDe opkoper is zelf de koper en betaalt uit eigen middelen. Daardoor hangt de verkoop niet af van een externe financiering en kan de planning van de akte sneller en met meer zekerheid verlopen.",
+      },
+      {
+        heading: "De volledige tijdlijn: van aanvraag tot geld op de rekening",
+        body: "De verkoop verloopt in twee fasen: eerst het akkoord, daarna de notariële afhandeling tot de uitbetaling.\n1. **Aanvraag** — u vraagt een vrijblijvend bod aan via het formulier of telefonisch\n2. **Bezoek** — wij bezoeken het pand, doorgaans binnen 48 uur\n3. **Schriftelijk bod** — kort na het bezoek, met een duidelijke geldigheidsduur\n4. **Akkoord** — u aanvaardt het bod en ondertekent de koopovereenkomst\n5. **Notarisdossier** — de notaris stelt het dossier samen en vraagt de nodige documenten op\n6. **Notariële akte** — de officiële ondertekening en de eigendomsoverdracht, doorgaans binnen 2 tot 3 maanden na het akkoord\n7. **Uitbetaling** — de opbrengst wordt via de notaris aan u uitbetaald\n\nDe periode tussen het akkoord en de akte wordt grotendeels bepaald door wettelijke en administratieve termijnen — niet door de koper. U kiest binnen die marge mee de datum van de akte.",
+      },
+      {
+        heading: "Wanneer staat het geld op mijn rekening?",
+        body: "De uitbetaling gebeurt via de notaris, rond het moment van de notariële akte — niet rechtstreeks van koper naar verkoper.\n\nHet verloop:\n• De koopprijs staat doorgaans **vóór of op het moment van de akte** op de derdenrekening van de notaris\n• Bij de akte verrekent de notaris eerst de lasten op het pand (bijvoorbeeld de aflossing van een lopende hypotheek) en eventuele schulden\n• Het **nettosaldo** wordt daarna aan u overgemaakt\n\nIn de praktijk staat dat saldo doorgaans binnen enkele werkdagen na de akte op uw rekening. De akte zelf is dus het kantelpunt: vanaf dat moment is de woning niet langer van u en is de uitbetaling een kwestie van dagen, niet van weken.",
+      },
+      {
+        heading: "Wat de uitbetaling kan vertragen",
+        body: "Enkele situaties kunnen de afhandeling tussen akkoord en uitbetaling verlengen. Goed om vooraf te kennen:\n• **Een lopende hypotheek** — de notaris lost die af uit de opbrengst en zorgt voor de doorhaling; dit verloopt vlot maar vraagt coördinatie met de bank\n• **Beslag of schulden op het pand** — de notaris moet de schuldeisers correct uitbetalen volgens hun rang vóór u het saldo ontvangt\n• **Ontbrekende of laattijdige documenten** — bijvoorbeeld attesten of informatie van een syndicus bij een appartement\n• **Een onverdeeldheid** — bij een erfenis of scheiding moeten alle eigenaars meetekenen\n\nDeze elementen verhinderen de verkoop niet, maar bepalen mee het tempo. Hoe vroeger ze gekend zijn, hoe vlotter de planning.",
+      },
+      {
+        heading: "Kan het sneller bij hoogdringendheid?",
+        body: "In dringende situaties — denk aan betalingsproblemen, een dreigende gedwongen verkoop of een scheiding waarbij snel duidelijkheid nodig is — kan het tempo omhoog.\n\nDringende dossiers behandelen wij met voorrang: een snel bezoek, een snel bod en, in overleg met de notaris, een zo vroeg mogelijke datum van de akte. De wettelijke en administratieve termijnen blijven gelden, maar binnen die marge wordt alles op snelheid georganiseerd.\n\nWeegt elke week voor u door, dan is het zinvol om dit meteen bij de aanvraag te melden, zodat het dossier van bij de start met voorrang loopt.",
+      },
+      {
+        heading: "Snel én zeker verkopen via wijkopenpanden.be",
+        body: "Snelheid is maar waardevol als ze samengaat met zekerheid. Daarom combineren wij beide:\n• Een reactie binnen 2 uur en een bezoek binnen 48 uur\n• Een schriftelijk bod dat niet meer zakt bij de akte\n• U kiest mee de datum van de akte\n• Een uitbetaling via de notaris, doorgaans binnen enkele werkdagen na de akte\n\nZo weet u niet alleen snel of u verkoopt en tegen welke prijs, maar ook met redelijke precisie wanneer de opbrengst op uw rekening staat. Een vrijblijvend bod aanvragen verplicht u tot niets en geeft u meteen een concreet beeld van de timing.",
+      },
+    ],
+    relatedArticles: ["hoelang-duurt-huis-verkopen-belgie", "notariskosten-woning-verkoop", "huis-verkopen-met-hypotheek", "bod-aanvragen-vrijblijvend-bindend", "opkoper-of-makelaar-verschil", "keuringen-attesten-bij-directe-verkoop"],
+    relatedSituations: ["verkopen-zonder-makelaar", "huis-verkopen-bij-scheiding"],
+    faqs: [
+      {
+        question: "Hoe snel kan ik mijn woning verkopen aan een opkoper?",
+        answer:
+          "Het akkoord kan binnen enkele dagen rond zijn: bij wijkopenpanden.be reageren wij binnen 2 uur op uw aanvraag, bezoeken het pand doorgaans binnen 48 uur en brengen kort daarna een schriftelijk bod uit. De notariële akte volgt doorgaans 2 tot 3 maanden na het akkoord.",
+      },
+      {
+        question: "Wanneer staat het geld op mijn rekening na de verkoop?",
+        answer:
+          "De uitbetaling gebeurt via de notaris rond het moment van de notariële akte. De koopprijs staat doorgaans vóór of bij de akte op de derdenrekening van de notaris; na verrekening van eventuele lasten ontvangt u het nettosaldo, gewoonlijk binnen enkele werkdagen na de akte.",
+      },
+      {
+        question: "Waarom duurt het na het akkoord nog enkele maanden tot de akte?",
+        answer:
+          "Tussen het akkoord en de notariële akte zitten wettelijke en administratieve termijnen: het samenstellen van het notarisdossier en het opvragen van de nodige documenten en attesten. Die periode wordt bepaald door de procedure, niet door de koper. U kiest binnen die marge mee de datum van de akte.",
+      },
+      {
+        question: "Krijg ik mijn geld rechtstreeks van de koper?",
+        answer:
+          "Nee. De betaling verloopt via de notaris. De koopprijs staat op de derdenrekening van de notaris, die eerst de lasten op het pand verrekent en daarna het nettosaldo aan u overmaakt. Dat beschermt zowel koper als verkoper.",
+      },
+      {
+        question: "Wat kan de uitbetaling vertragen?",
+        answer:
+          "Een lopende hypotheek, beslag of schulden op het pand, ontbrekende documenten of een onverdeeldheid bij erfenis of scheiding kunnen de afhandeling verlengen. Ze verhinderen de verkoop niet, maar bepalen mee het tempo. Hoe vroeger ze gekend zijn, hoe vlotter de planning.",
+      },
+      {
+        question: "Kan een dringende verkoop sneller afgehandeld worden?",
+        answer:
+          "Ja. Dringende dossiers behandelen wij met voorrang: een snel bezoek, een snel bod en in overleg met de notaris een zo vroeg mogelijke datum van de akte. Meld de hoogdringendheid best meteen bij de aanvraag, zodat het dossier van bij de start met voorrang loopt.",
+      },
+    ],
+  },
 ];
 
 export function getArticle(slug: string): Article | undefined {
