@@ -3083,6 +3083,938 @@ export const articles: Article[] = [
       },
     ],
   },
+  {
+    slug: "vruchtgebruik-woning-verkopen",
+    title: "Woning verkopen met vruchtgebruik: hoe werkt het en wie krijgt wat?",
+    metaTitle: "Woning verkopen met vruchtgebruik: zo werkt het (2026) | wijkopenpanden.be",
+    metaDescription:
+      "Woning verkopen met vruchtgebruik? Ontdek wie akkoord moet gaan, hoe de prijs verdeeld wordt via de omzettingstabellen en welke fouten u best vermijdt.",
+    publishedAt: "2026-07-02",
+    updatedAt: "2026-07-02",
+    intro:
+      "Een woning verkopen met vruchtgebruik is juridisch perfect mogelijk, maar ligt vaak gevoelig: de vruchtgebruiker (dikwijls de langstlevende ouder) en de blote eigenaars (meestal de kinderen) moeten sámen beslissen én de verkoopprijs correct verdelen. Wie dat verkeerd aanpakt, riskeert een fiscale herkwalificatie als schenking of een familiaal conflict dat de verkoop jaren blokkeert. In dit artikel leest u wanneer vruchtgebruik ontstaat, waarom niemand alleen kan verkopen, hoe de wettelijke omzettingstabellen van 1 juli 2025 de waarde van het vruchtgebruik bepalen (met concrete percentages per leeftijd), welk alternatief zaakvervanging biedt en welke fouten families in de praktijk het vaakst maken. Zo weet u vooraf precies wie wat krijgt.",
+    sections: [
+      {
+        heading: "Wat is vruchtgebruik en hoe ontstaat het?",
+        body: "Vruchtgebruik is het recht om een goed van iemand anders te gebruiken en er de vruchten van te innen: er zelf wonen, of het verhuren en de huur opstrijken. De **blote eigenaar** bezit de woning op papier, maar kan er niet van genieten zolang het vruchtgebruik loopt. Sinds 1 september 2021 regelt Boek 3 van het nieuwe Burgerlijk Wetboek (wet van 4 februari 2020) het vruchtgebruik, met onder meer een maximale duur van 99 jaar (art. 3.141 BW) en een wettelijke verdeling van de kosten: de vruchtgebruiker staat in voor onderhoud en verzekering, de blote eigenaar voor grove herstellingen.\n\nIn de praktijk ontstaat vruchtgebruik op een woning meestal op drie manieren:\n\n• **Erfenis**: de langstlevende echtgenoot erft het vruchtgebruik van de hele nalatenschap, de kinderen erven de blote eigendom. Een wettelijk samenwonende partner erft het vruchtgebruik van de gezinswoning en de inboedel.\n• **Schenking met voorbehoud van vruchtgebruik**: ouders schenken de woning aan de kinderen, maar blijven er levenslang wonen of verhuren ze.\n• **Gesplitste aankoop**: ouders kopen het vruchtgebruik, kinderen kopen tegelijk de blote eigendom, vaak als vorm van successieplanning.\n\nHoe het vruchtgebruik ontstond, bepaalt mee welke fiscale regels bij een latere verkoop spelen — daarover verder meer.",
+      },
+      {
+        heading: "Verkopen kan alleen als iedereen tekent",
+        body: "De belangrijkste regel: **de volle eigendom verkopen kan alleen met het akkoord van de vruchtgebruiker én alle blote eigenaars**. De vruchtgebruiker kan de woning niet alleen verkopen, want hij bezit ze niet. De blote eigenaars kunnen strikt genomen wel hun blote eigendom afzonderlijk verkopen, maar het vruchtgebruik blijft dan op de woning rusten. Weinig kandidaat-kopers willen een woning waar iemand anders levenslang mag blijven wonen, dus die formule brengt in de praktijk nauwelijks iets op.\n\nWeigert één partij, dan zit de verkoop vast. Er bestaat wel een uitweg via het erfrecht: zowel de langstlevende als de kinderen kunnen de **omzetting van het vruchtgebruik** vragen (art. 4.63 e.v. BW), waarbij het wordt omgezet in volle eigendom, een geldsom of een rente. Eén belangrijke uitzondering: voor de **gezinswoning en de inboedel heeft de langstlevende echtgenoot een vetorecht**. Een rechter kan de omzetting daarvan nooit opleggen zonder zijn of haar instemming. De kinderen kunnen een ouder of stiefouder dus niet dwingen om het ouderlijk huis te verlaten of te verkopen.",
+      },
+      {
+        heading: "Wie krijgt wat? De omzettingstabellen van Justitie",
+        body: "Bij verkoop van de volle eigendom wordt de prijs gesplitst: een deel voor de vruchtgebruiker, de rest voor de blote eigenaars. De verdeelsleutel volgt in de regel uit de **wettelijke omzettingstabellen** die de minister van Justitie elk jaar op 1 juli in het Belgisch Staatsblad publiceert (art. 4.64, §§ 3 en 5 BW). Die tabellen — één voor mannen, één voor vrouwen — vertrekken van de levensverwachting van de vruchtgebruiker en de gemiddelde rentevoet van lineaire obligaties over de laatste twee jaar, met een minimum van 1%. Hoe ouder de vruchtgebruiker, hoe lager de waarde van het vruchtgebruik.\n\nEen rekenvoorbeeld met de tabel van 1 juli 2025: verkoopt u een woning voor €350.000 en is de vruchtgebruikster een vrouw van 75, dan is haar vruchtgebruik 28,11% waard, ofwel €98.385. De blote eigenaars verdelen de resterende €251.615.\n\nGoed om te weten: de forfaitaire percentages uit de Vlaamse Codex Fiscaliteit (gebruikt voor de erfbelasting) liggen een stuk lager dan de omzettingswaarde. Verwar beide niet: bij een verkoop telt de burgerlijke waardering, niet het fiscale forfait. Partijen mogen in onderling akkoord ook een andere, economisch onderbouwde waardering afspreken; bij betwisting valt de rechter terug op de wettelijke tabellen.",
+        table: {
+          headers: ["Leeftijd vruchtgebruiker", "Man (omzettingstabel BW, 1/7/2025)", "Vrouw (omzettingstabel BW, 1/7/2025)", "Forfait erfbelasting (VCF)"],
+          rows: [
+            ["60 jaar", "46,35%", "50,06%", "38%"],
+            ["65 jaar", "39,25%", "43,59%", "32%"],
+            ["70 jaar", "31,64%", "36,12%", "24%"],
+            ["75 jaar", "23,89%", "28,11%", "16%"],
+            ["80 jaar", "16,63%", "20,05%", "8%"],
+            ["85 jaar", "10,82%", "13,05%", "8%"],
+          ],
+        },
+      },
+      {
+        heading: "Alternatief: het vruchtgebruik voortzetten op de verkoopprijs",
+        body: "De prijs meteen verdelen is niet verplicht. Dankzij de **zakelijke subrogatie of zaakvervanging** (art. 3.10 BW) kan het vruchtgebruik na de verkoop gewoon verder lopen op de verkoopprijs. De vruchtgebruiker int dan de intresten of huurt er bijvoorbeeld een assistentiewoning mee, terwijl het kapitaal voor de blote eigenaars bewaard blijft.\n\nHet nieuwe goederenrecht koppelt daar duidelijke spelregels aan: de som moet op een **afzonderlijke rekening** op naam van de vruchtgebruiker staan, gescheiden van zijn persoonlijk vermogen, en beleggen kan enkel **met instemming van de blote eigenaars**. Bij het overlijden van de vruchtgebruiker dooft het vruchtgebruik uit en komt het saldo automatisch volledig toe aan de blote eigenaars.\n\nDeze formule is vooral interessant wanneer de langstlevende inkomsten nodig heeft maar de familie het kapitaal wil samenhouden, of wanneer een onmiddellijke verdeling tot discussie over de percentages zou leiden. Laat de afspraken wel altijd schriftelijk vastleggen bij de notaris.",
+      },
+      {
+        heading: "Veelgemaakte fouten en fiscale valkuilen",
+        body: "Bij een verkoop met vruchtgebruik lopen families vooral op deze punten vast:\n\n• **De volledige prijs naar één partij laten vloeien.** Stort de koper alles aan de vruchtgebruiker zonder regeling van zaakvervanging, of staan de kinderen hun deel informeel af, dan kan de fiscus dat als een onrechtstreekse schenking beschouwen — met mogelijk schenk- of erfbelasting tot gevolg. Verdeel de prijs volgens een verdedigbare waardering of leg de voortzetting op de prijs notarieel vast.\n• **Het VCF-forfait gebruiken in plaats van de omzettingstabellen.** Een 75-jarige vruchtgebruikster heeft fiscaal een forfait van 16%, maar burgerlijk 28,11%. Wie het forfait hanteert, benadeelt de vruchtgebruiker met tienduizenden euro's.\n• **De gesplitste aankoop uit het oog verliezen.** Werd de woning destijds gesplitst aangekocht, dan geldt de fictiebepaling van art. 2.7.1.0.7 VCF: de blote eigendom wordt bij overlijden geacht uit de nalatenschap te komen, tenzij de kinderen kunnen bewijzen dat ze hun deel met eigen middelen betaalden. Houd betaalbewijzen dus zorgvuldig bij, ook na de verkoop.\n• **Conflicten in nieuw samengestelde gezinnen onderschatten.** Vragen stiefkinderen de omzetting, dan wordt de langstlevende voor de waardering geacht minstens 20 jaar ouder te zijn dan het oudste stiefkind — wat de waarde van het vruchtgebruik fors drukt. Net in die gezinnen loont een onderhandelde verkoop met duidelijke verdeelsleutel.",
+      },
+      {
+        heading: "Stappenplan: zo verloopt de verkoop concreet",
+        body: "1. **Breng de eigendomsstructuur in kaart.** De notaris of de eigendomstitel toont wie vruchtgebruiker is en wie blote eigenaar, en hoe het vruchtgebruik ontstond (erfenis, schenking of gesplitste aankoop).\n2. **Laat de woning waarderen.** Eén realistische marktwaarde vermijdt latere discussies over ieders aandeel.\n3. **Spreek de verdeelsleutel af.** Reken het aandeel van de vruchtgebruiker uit met de meest recente omzettingstabel, of kies voor voortzetting van het vruchtgebruik op de prijs.\n4. **Onderteken samen het compromis.** Zowel de vruchtgebruiker als álle blote eigenaars ondertekenen de verkoopbelofte of het compromis; één ontbrekende handtekening maakt de verkoop onmogelijk.\n5. **Verleden van de notariële akte.** De notaris vermeldt de verdeling of de zaakvervanging uitdrukkelijk in de akte en betaalt ieders aandeel rechtstreeks uit.\n\nReken voor het volledige traject op enkele maanden, op voorwaarde dat alle partijen op dezelfde lijn zitten. Net daar knelt het vaak: hoe meer partijen, hoe trager de klassieke verkoop.",
+      },
+      {
+        heading: "Eén duidelijk bod voor vruchtgebruiker én blote eigenaars",
+        body: "Een woning met vruchtgebruik verkopen vraagt vooral één ding: een voorstel waar álle partijen tegelijk ja op kunnen zeggen. Lange bezichtigingsrondes, afspringende kopers met een financieringsvoorbehoud of maandenlange onzekerheid maken het moeilijk om een ouder en meerdere kinderen op één lijn te houden.\n\nDaarom kiezen families in deze situatie geregeld voor een directe verkoop aan wijkopenpanden.be. U ontvangt een **gratis en vrijblijvend bod**, met reactie binnen 2 uur — ook in het weekend — en doorgaans een plaatsbezoek binnen 48 uur. Het bod is schriftelijk gemotiveerd, zodat vruchtgebruiker en blote eigenaars op basis van dezelfde cijfers kunnen beslissen en de verdeling via de omzettingstabellen transparant kunnen doorrekenen. Wij kopen in de huidige staat, betalen uit eigen middelen zonder financieringsvoorbehoud en rekenen geen makelaarscommissie aan. Na akkoord coördineren wij de attesten met de notaris en volgt de akte doorgaans binnen 2 à 3 maanden. Zo krijgt elke partij snel duidelijkheid over wie wat krijgt — zonder dat de familieband onder de verkoop lijdt.",
+      },
+    ],
+    relatedArticles: ["erfenis-woning-stappenplan", "schenking-woning-vlaanderen", "erfbelasting-vlaanderen-2026", "mede-eigendom-verkopen", "blijven-wonen-na-verkoop", "notariskosten-woning-verkoop"],
+    relatedSituations: ["huis-verkopen-bij-erfenis"],
+    faqs: [
+      {
+        question: "Kan ik mijn woning verkopen als iemand anders het vruchtgebruik heeft?",
+        answer:
+          "Niet alleen. De volle eigendom verkopen vereist het akkoord van de vruchtgebruiker én alle blote eigenaars; iedereen ondertekent het compromis en de akte. U kunt in theorie enkel uw blote eigendom verkopen, maar omdat het vruchtgebruik dan op de woning blijft rusten, vindt u daar in de praktijk nauwelijks kopers voor — en al zeker niet tegen een correcte prijs.",
+      },
+      {
+        question: "Hoeveel is het vruchtgebruik op mijn woning waard?",
+        answer:
+          "Dat hangt af van leeftijd en geslacht van de vruchtgebruiker. Volgens de omzettingstabellen van 1 juli 2025 is het vruchtgebruik van een 65-jarige vrouw 43,59% van de woningwaarde, van een 75-jarige vrouw 28,11% en van een 85-jarige vrouw 13,05%. Voor mannen liggen de percentages iets lager. De tabellen worden elk jaar op 1 juli geactualiseerd in het Belgisch Staatsblad.",
+      },
+      {
+        question: "Kan de vruchtgebruiker verplicht worden om mee te verkopen?",
+        answer:
+          "Nee. Zonder handtekening van de vruchtgebruiker komt er geen verkoop van de volle eigendom. Blote eigenaars kunnen wel de omzetting van het vruchtgebruik vragen aan de rechter, maar voor de gezinswoning en de inboedel heeft de langstlevende echtgenoot een vetorecht: de rechter kan die omzetting nooit opleggen zonder zijn of haar instemming.",
+      },
+      {
+        question: "Wat gebeurt er met het geld als het vruchtgebruik op de verkoopprijs verder loopt?",
+        answer:
+          "Via zaakvervanging (art. 3.10 BW) verschuift het vruchtgebruik naar de verkoopprijs. Die som komt op een afzonderlijke rekening op naam van de vruchtgebruiker, gescheiden van zijn eigen vermogen. De vruchtgebruiker int de opbrengsten, maar beleggen kan alleen met instemming van de blote eigenaars. Bij zijn of haar overlijden gaat het saldo automatisch en zonder extra formaliteiten naar de blote eigenaars.",
+      },
+      {
+        question: "Betalen de kinderen erfbelasting als het vruchtgebruik uitdooft?",
+        answer:
+          "Bij een vruchtgebruik uit een erfenis of een schenking met voorbehoud van vruchtgebruik dooft het recht bij overlijden gewoon uit: de blote eigenaars worden volle eigenaar zonder nieuwe erfbelasting. Bij een gesplitste aankoop geldt wel de fictiebepaling van art. 2.7.1.0.7 VCF: de kinderen moeten kunnen bewijzen dat ze de blote eigendom destijds met eigen middelen betaalden, anders volgt alsnog erfbelasting.",
+      },
+      {
+        question: "Zijn de omzettingstabellen verplicht bij de prijsverdeling?",
+        answer:
+          "Niet absoluut. Vruchtgebruiker en blote eigenaars mogen in onderling akkoord een andere, economisch onderbouwde waardering afspreken. Maar bij betwisting of bij een gerechtelijke omzetting past de rechter de wettelijke omzettingstabellen van de minister van Justitie toe. Een verdeling die sterk afwijkt zonder motivering, riskeert bovendien door de fiscus als een onrechtstreekse schenking te worden gelezen. De tabellen volgen is dus de veiligste route.",
+      },
+    ],
+  },
+  {
+    slug: "stookolietank-woning-verkopen",
+    title: "Huis verkopen met een stookolietank (mazouttank): keuring, sanering en uw plichten",
+    metaTitle: "Huis verkopen met stookolietank (2026) | wijkopenpanden.be",
+    metaDescription:
+      "Huis verkopen met een stookolietank in Vlaanderen? Keuringsplicht, dopkleuren, buitengebruikstelling, het Promaz-fonds en kostenordes — uw plichten in 2026 op een rij.",
+    publishedAt: "2026-07-02",
+    updatedAt: "2026-07-02",
+    intro:
+      "Heel wat woningen in de regio Antwerpen worden nog met stookolie verwarmd, of hebben in de kelder of tuin een oude mazouttank die al jaren niet meer gebruikt wordt. Bij een verkoop roept dat vragen op: moet de tank gekeurd worden, mag u verkopen met een niet-conforme tank, en wie betaalt de sanering als de tank ooit gelekt heeft? De Vlaamse regels zijn recent strenger geworden — sinds 1 januari 2026 moet een ongebruikte tank binnen de twee jaar definitief buiten gebruik gesteld worden — en het Promaz-fonds werkt sinds maart 2025 volgens een nieuw systeem. In dit artikel zetten we uw plichten als verkoper op een rij, met concrete termijnen en kostenordes.",
+    sections: [
+      {
+        heading: "De keuringsplicht in Vlaanderen: ondergronds versus bovengronds",
+        body: "Elke stookolietank in Vlaanderen moet gekeurd worden door een erkend stookolietechnicus vóór hij in gebruik wordt genomen. Wat daarna volgt, hangt af van het type tank. Voor particuliere tanks met een inhoud van minder dan 5.000 kg (ongeveer 6.000 liter) gelden deze regels:\n\n• **Ondergrondse tank**: verplichte periodieke controle om de **5 jaar** door een erkend technicus\n• **Bovengrondse tank** (ook een keldertank telt als bovengronds): sinds 1 maart 2009 geen periodieke keuringsplicht meer — enkel de controle bij plaatsing blijft verplicht\n\nVoor grotere tanks vanaf 5.000 kg zijn de regels strenger: een ondergrondse tank krijgt dan een beperkt onderzoek om de 2 jaar (jaarlijks in waterwingebied) en een algemeen onderzoek om de 15 jaar; een bovengrondse grote tank een beperkt onderzoek om de 3 jaar. Bij een gewone woning speelt dit zelden — de meeste particuliere tanks vallen onder de eerste categorie.\n\nDe keuring zelf is beperkt in kost: reken doorgaans op €100 tot €300, waarbij een ondergrondse tank duurder uitvalt dan een bovengrondse.",
+      },
+      {
+        heading: "Groene, oranje of rode dop: wat betekent de kleur?",
+        body: "Na elke controle brengt de erkende technicus een merkplaatje of dop aan op de vulleiding, en levert hij een attest (conformiteitsattest) af. De kleur bepaalt of de tank nog gebruikt en bijgevuld mag worden — en is dus cruciale informatie voor een koper.\n\nStaat uw tank op oranje, dan moet u hem binnen de zes maanden opnieuw conform laten maken. Staat hij op rood, dan is bijvullen verboden en moet de technicus de toestand binnen de 14 dagen melden. Een leverancier mag een tank met rode dop niet vullen.",
+        table: {
+          headers: ["Kleur", "Betekenis", "Gevolg"],
+          rows: [
+            ["Groen", "Tank voldoet aan de wettelijke bepalingen", "Normaal gebruik en bijvullen toegelaten"],
+            ["Oranje", "Tank niet conform, maar geen directe verontreiniging buiten de tank", "Nog maximaal 6 maanden bijvullen; intussen in orde laten stellen"],
+            ["Rood", "Tank niet conform", "Bijvullen verboden; technicus meldt dit binnen 14 dagen"],
+          ],
+        },
+      },
+      {
+        heading: "Wat moet u bij verkoop meedelen en aanleveren?",
+        body: "Een veelgehoord misverstand: er bestaat géén wettelijke verplichting om de stookolietank opnieuw te laten keuren bij de verkoop van uw woning. De eigendomsoverdracht is niet gekoppeld aan een herkeuring. Wat wél geldt:\n\n1. **Informatieplicht**: u moet de koper correct informeren over de aanwezigheid en de toestand van de tank — ook over een oude, ongebruikte tank in de tuin of kelder.\n2. **Attesten voorleggen**: u moet de attesten van de laatste controles (en het attest van buitengebruikstelling, als de tank buiten dienst is) kunnen bezorgen aan de koper. Een tank die nog in gebruik is, hoort een groene dop of merkplaat te hebben.\n3. **Vermelding in het compromis**: de aanwezigheid van de tank en de beschikbare attesten worden best expliciet opgenomen in de verkoopbelofte of het compromis. Zo vermijdt u discussies achteraf.\n\nIn de praktijk vragen de meeste notarissen een geldig keuringsattest vóór het verlijden van de akte. Ontbreekt dat, dan is de woning nog steeds verkoopbaar, maar moet dit duidelijk aan de koper gemeld worden — en zal die het vaak als drukkingsmiddel gebruiken om de prijs te verlagen. Meer over de volledige documentenlijst leest u in ons artikel over keuringen bij de verkoop van een woning.",
+      },
+      {
+        heading: "Tank niet meer in gebruik? Leegmaken, reinigen en verwijderen of opvullen",
+        body: "Schakelde u ooit over op aardgas of een warmtepomp, dan mag de oude mazouttank niet gewoon blijven liggen. Bij een definitieve buitengebruikstelling moet de tank door een erkend technicus **geledigd en gereinigd** worden. Daarna geldt:\n\n• Een **ondergrondse tank** moet in principe **verwijderd** worden. Enkel als dat technisch niet haalbaar is — bijvoorbeeld omdat de stabiliteit van de woning in gevaar komt — mag hij na reiniging opgevuld worden met een inert materiaal zoals zand of schuim. Sinds 2025 moet de technicus schriftelijk motiveren waarom verwijdering niet mogelijk is.\n• Een **bovengrondse particuliere tank** van minder dan 6.000 liter moet niet verwijderd worden, maar wel professioneel geledigd en gereinigd.\n\nDe technicus levert een **attest van buitengebruikstelling** af, met zijn naam en erkenningsnummer. Dat attest is uw bewijs naar de koper en de notaris toe dat alles reglementair gebeurde. Bewaar het zorgvuldig.\n\nBelangrijk voor wie nu verkoopt: sinds **1 januari 2026** is de termijn om een ongebruikte tank definitief buiten gebruik te stellen verkort van vijf naar **twee jaar**. Een lekkende tank moet u onmiddellijk laten leegmaken en reinigen. Een tank die al jaren ongebruikt en zonder attest ligt te wachten, is dus niet langer een detail — het is een niet-nageleefde wettelijke verplichting die bij de verkoop op tafel komt.",
+      },
+      {
+        heading: "Lek gehad? Zo werkt het Promaz-fonds vandaag",
+        body: "Een lekkende stookolietank kan de bodem ernstig verontreinigen, en een bodemsanering loopt al snel op tot €20.000 à €50.000 — in zware gevallen zelfs honderdduizenden euro's. Voor die situaties bestaat het Promaz-fonds, gefinancierd door de mazoutsector.\n\nDe belangrijkste aanvraagperiode is intussen afgesloten: voor bodemverontreinigingen die **vóór 28 februari 2025** gekend waren, kon u tot die datum een aanvraag indienen. Ongeveer 5.700 particulieren en bedrijven deden dat; die dossiers worden nog steeds behandeld. Voor oude, al gekende verontreinigingen kan géén nieuwe aanvraag meer worden gedaan.\n\nMaar Promaz is niet verdwenen. Voor **nieuwe incidenten** — een lek dat wordt vastgesteld ná 28 februari 2025, bijvoorbeeld bij een keuring of buitengebruikstelling in aanloop naar uw verkoop — kunt u zich sinds 1 maart 2025 nog steeds aanmelden. Promaz neemt dan de sanering operationeel over. De tussenkomst bedraagt maximaal **€100.000 (incl. btw) per terrein** voor een gebouw met woonfunctie. Uw eigen bijdrage blijft beperkt: maximaal €525 (excl. btw) als u nog met mazout verwarmt; verwarmt u sinds 8 mei 2019 niet meer met mazout, dan komt daar een franchise van €1.000 bij. Hebt u een brandverzekering die bodemverontreiniging dekt, dan moet u die eerst aanspreken; Promaz vult aan. Let op: de kosten voor het verwijderen van de tank zelf worden niet vergoed, tenzij dat noodzakelijk is voor de sanering.",
+      },
+      {
+        heading: "Kostenordes — en waarom de tank verzwijgen de duurste optie is",
+        body: "Voor een verkoper zijn dit de gebruikelijke kostenordes (richtprijzen, afhankelijk van volume en bereikbaarheid):\n\n• Keuring van de tank: **€100 – €300**\n• Bovengrondse tank laten verwijderen: **€700 – €1.500**\n• Ondergrondse tank laten verwijderen: **€1.200 – €2.500**\n• Tank laten opvullen met inert materiaal: **€400 – €1.000**\n• Bodemsanering na een lek: **€20.000 – €50.000 of meer** (grotendeels gedekt via Promaz als de verontreiniging pas nu wordt vastgesteld)\n\nDe verleiding is soms groot om een oude tank simpelweg niet te vermelden — hij ligt toch onder de grond. Dat is juridisch de slechtste keuze die u kunt maken. Blijkt na de verkoop dat er een verzwegen of lekkende tank aanwezig is, dan kan de koper zich beroepen op de regels rond verborgen gebreken. Verzweeg u de tank bewust, dan bent u te kwader trouw: het exoneratiebeding in de akte ('verkocht in de staat waarin het zich bevindt') beschermt u dan niet meer, en de koper kan naast een prijsvermindering of ontbinding ook een volledige schadevergoeding vorderen — inclusief saneringskosten. Lees hierover meer in ons artikel over verborgen gebreken bij de verkoop. Transparantie is dus niet alleen correct, ze is ook financieel de veiligste weg.",
+      },
+      {
+        heading: "Verkopen met een oude of niet-conforme mazouttank: het kan ook zonder rompslomp",
+        body: "Wie klassiek verkoopt, moet de tanksituatie vooraf regulariseren of aanvaarden dat kopers afhaken of stevig onderhandelen: een keuring inplannen, eventueel de tank laten verwijderen of opvullen, attesten verzamelen en alles correct in het compromis laten opnemen. Haalbaar, maar het kost tijd en geld — zeker bij een geërfde woning waar niemand nog weet welke attesten ooit zijn opgemaakt.\n\nEr bestaat een alternatief. Bij een directe verkoop aan wijkopenpanden.be kopen wij uw woning in de huidige staat — óók met een oude, ongekeurde of niet-conforme stookolietank. De kosten voor buitengebruikstelling of verwijdering verrekenen we transparant in ons schriftelijk gemotiveerd bod, zodat u exact ziet hoe we tot ons cijfer komen. U hoeft zelf geen technicus of aannemer aan te sturen: wij coördineren de nodige attesten met de notaris.\n\nHet bod is gratis en vrijblijvend: u ontvangt binnen 2 uur een reactie, ook in het weekend, en een bezoek volgt doorgaans binnen 48 uur. Wij betalen uit eigen middelen, u betaalt geen makelaarscommissie, en de akte wordt doorgaans 2 à 3 maanden na akkoord verleden. Zo wordt een mazouttank een verrekenpost in plaats van een struikelblok.",
+      },
+    ],
+    relatedArticles: ["keuringen-bij-verkoop-woning", "bodemattest-vlaanderen-verkoop", "verborgen-gebreken-woning-verkoop-belgie", "keuringen-attesten-bij-directe-verkoop", "pand-in-slechte-staat-verkopen", "verkoopbelofte-compromis-akte"],
+    relatedSituations: ["huis-verkopen-bij-erfenis", "opknappand-verkopen"],
+    faqs: [
+      {
+        question: "Moet ik mijn stookolietank laten keuren als ik mijn huis verkoop?",
+        answer:
+          "Nee, een herkeuring bij verkoop is wettelijk niet verplicht: de eigendomsoverdracht is niet gekoppeld aan een keuring. U moet wel de attesten van de laatste controles kunnen voorleggen en de koper correct informeren. In de praktijk vragen de meeste notarissen een geldig keuringsattest vóór het verlijden van de akte, dus een recente keuring (doorgaans €100 à €300) vermijdt discussies en vertraging.",
+      },
+      {
+        question: "Wat betekent een rode dop of merkplaat op mijn mazouttank?",
+        answer:
+          "Een rode dop of merkplaat betekent dat de tank niet voldoet aan de wettelijke bepalingen: bijvullen is verboden en de technicus moet de toestand binnen de 14 dagen melden. Een oranje markering betekent niet-conform zonder direct verontreinigingsgevaar: u mag nog maximaal 6 maanden bijvullen en moet de tank intussen in orde laten stellen. Enkel een groene markering staat voor een conforme tank.",
+      },
+      {
+        question: "Moet een oude ondergrondse mazouttank verwijderd worden vóór de verkoop?",
+        answer:
+          "Een ondergrondse tank die definitief buiten gebruik is, moet in principe geledigd, gereinigd én verwijderd worden door een erkend technicus. Enkel als verwijdering technisch niet haalbaar is, mag de tank opgevuld worden met inert materiaal zoals zand of schuim. Sinds 1 januari 2026 moet dit binnen de twee jaar na het stopzetten van het gebruik gebeuren. De technicus levert een attest van buitengebruikstelling af dat u aan de koper bezorgt.",
+      },
+      {
+        question: "Kan ik nog een tussenkomst aanvragen bij het Promaz-fonds?",
+        answer:
+          "Dat hangt af van wanneer de verontreiniging werd vastgesteld. Voor verontreinigingen die al vóór 28 februari 2025 gekend waren, is de aanvraagtermijn verstreken. Wordt een lek pas nu vastgesteld — bijvoorbeeld bij een keuring of verwijdering in aanloop naar uw verkoop — dan kunt u zich nog steeds aanmelden. Promaz neemt de sanering dan over, met een plafond van €100.000 per terrein voor gebouwen met woonfunctie en een beperkte eigen bijdrage.",
+      },
+      {
+        question: "Wat kost het om een mazouttank te laten verwijderen of opvullen?",
+        answer:
+          "Reken voor het verwijderen van een bovengrondse tank doorgaans op €700 à €1.500 en voor een ondergrondse tank op €1.200 à €2.500, afhankelijk van het volume en de bereikbaarheid. Het opvullen met inert materiaal, als verwijderen niet mogelijk is, kost gemiddeld €400 à €1.000. Bij een verkoop aan wijkopenpanden.be hoeft u dit niet vooraf te regelen: wij verrekenen deze kosten transparant in ons bod.",
+      },
+      {
+        question: "Wat riskeer ik als ik de mazouttank verzwijg bij de verkoop?",
+        answer:
+          "Veel. Ontdekt de koper na de verkoop een verzwegen of lekkende tank, dan kan hij zich beroepen op de regels rond verborgen gebreken. Bij bewust verzwijgen bent u te kwader trouw en beschermt de exoneratieclausule in de akte u niet: de koper kan prijsvermindering of ontbinding vorderen, plus volledige schadevergoeding — inclusief saneringskosten die tot tienduizenden euro's oplopen. Meld de tank dus altijd en neem de attesten op in het compromis.",
+      },
+    ],
+  },
+  {
+    slug: "woning-verkopen-via-biddit",
+    title: "Uw woning verkopen via Biddit: kosten, verloop en voor wie het loont",
+    metaTitle: "Woning verkopen via Biddit: kosten & verloop (2026) | wijkopenpanden.be",
+    metaDescription:
+      "Uw woning verkopen via Biddit? Zo werkt de online openbare verkoop: instelprijs, biedweek, bindende biedingen zonder financieringsvoorbehoud en kosten.",
+    publishedAt: "2026-07-02",
+    updatedAt: "2026-07-02",
+    intro:
+      "Biddit is het online veilingplatform van de Belgische notarissen, gelanceerd in het najaar van 2018. Wie zijn woning via Biddit verkoopt, kiest voor een openbare verkoop in digitale vorm: kandidaat-kopers bieden gedurende acht dagen tegen elkaar op, en het hoogste bod is bindend — zonder opschortende voorwaarde voor een lening. Dat klinkt aantrekkelijk voor wie zekerheid zoekt, maar het traject heeft ook een eigen kostenplaatje, een vaste doorlooptijd en een onzekere eindprijs. In dit artikel leest u hoe een Biddit-verkoop stap voor stap verloopt, wat het u als verkoper kost, wanneer een openbare verkoop verplicht of aangewezen is, en hoe het platform zich verhoudt tot een klassieke onderhandse verkoop of een directe verkoop aan een opkoper.",
+    sections: [
+      {
+        heading: "Hoe verloopt een verkoop via Biddit stap voor stap?",
+        body: "Een Biddit-verkoop loopt volledig via de notaris. U kunt niet zelf een zoekertje plaatsen: de notaris stelt het dossier samen, organiseert de publiciteit en volgt de biedingen op. Het traject ziet er doorgaans zo uit:\n\n1. **Dossiervoorbereiding.** De notaris verzamelt vooraf alle attesten en doet de wettelijke opzoekingen (EPC, bodemattest, stedenbouwkundige inlichtingen, hypothecaire staat). Bij Biddit gebeurt dit vóór de biedingen, niet erna — kandidaat-kopers weten dus exact wat ze kopen.\n2. **Instelprijs en minimumprijs.** Samen met de notaris bepaalt u een startprijs die het bieden op gang moet trekken, én een minimumbedrag waaronder u niet wil verkopen. Die ondergrens blijft vertrouwelijk.\n3. **Publiciteit en bezoekdagen.** Het pand staat doorgaans minstens vier weken zichtbaar op biddit.be, met vastgelegde kijkmomenten.\n4. **De biedweek.** Kandidaten die zich registreren met eID of itsme bieden gedurende **acht kalenderdagen**. Komt er in de laatste vijf minuten een hoger bod binnen, dan verlengt de termijn telkens met vijf minuten — last-minute snipen is dus uitgesloten.\n5. **Toewijzing.** De hoogste bieder ondertekent binnen tien werkdagen het proces-verbaal van toewijzing bij de notaris. De koper betaalt de aktekosten kort na de toewijzing en de volledige prijs binnen zes weken.",
+      },
+      {
+        heading: "Rode of blauwe Biddit: openbare verkoop of online onderhandse verkoop",
+        body: "Minder bekend: op Biddit bestaan twee formules, in de praktijk vaak de \"rode\" en de \"blauwe\" Biddit genoemd.\n\n• **De rode Biddit (online openbare verkoop).** Dit is de echte veiling: na afloop van de biedweek is het hoogste bod automatisch bindend, tenzij het onder uw minimumprijs blijft. De koper kan zich niet beroepen op een opschortende voorwaarde voor zijn lening en moet de prijs binnen zes weken betalen.\n• **De blauwe Biddit (online verkoop uit de hand).** Hier gebruikt de notaris het biedplatform, maar blijft de verkoop juridisch onderhands. U beslist zelf of u het hoogste bod aanvaardt, opschortende voorwaarden zijn mogelijk en de koper heeft tot vier maanden tussen overeenkomst en akte om zijn financiering te regelen.\n\nVoor u als verkoper is dat verschil wezenlijk. De rode formule geeft maximale zekerheid en snelheid ná de toewijzing, maar schrikt kopers af die een woonkrediet nodig hebben en dat niet vooraf rond krijgen. De blauwe formule houdt een groter kopubliek aan boord, maar dan verkoopt u opnieuw met de klassieke onzekerheden van een onderhandse verkoop.",
+      },
+      {
+        heading: "Bindende biedingen zonder financieringsvoorbehoud: zekerheid met een prijs",
+        body: "Het grootste verschil met een onderhandse verkoop zit in het bindende karakter van de biedingen. Wie op een openbare Biddit-verkoop biedt, verbindt zich definitief: er is **geen opschortende voorwaarde voor het verkrijgen van een krediet**, tenzij de verkoopvoorwaarden dat uitzonderlijk uitdrukkelijk voorzien. Weigert de hoogste bieder te tekenen of te betalen, dan stelt hij zich bloot aan een schadevergoeding.\n\nVoor u als verkoper betekent dat: geen koper die drie weken na het compromis afhaakt omdat de bank weigert, geen heronderhandeling na de bouwkeuring. De notaris kan bovendien al tijdens het bieden de identiteit en solvabiliteit van bieders nagaan.\n\nDe keerzijde is dat u vist in een kleinere vijver. Kandidaten moeten hun financiering volledig rond hebben vóór ze bieden en de volledige prijs binnen zes weken kunnen storten. Jonge gezinnen die krap lenen, haken daardoor vaak af. Uw publiek bestaat dan vooral uit kopers met eigen middelen, investeerders en professionelen — kapitaalkrachtig, maar doorgaans ook prijsbewuster dan een verliefde particulier op de onderhandse markt. Volgens cijfers van Fednot trok een Biddit-verkoop in de eerste vijf jaar gemiddeld zes bieders en 45 biedingen per pand, wat aantoont dat het opbod wel degelijk kan spelen — als het pand voldoende interesse wekt.",
+      },
+      {
+        heading: "Wat kost verkopen via Biddit?",
+        body: "Bij een openbare verkoop betaalt de koper de aktekosten grotendeels via een geforfaitiseerd bedrag dat bovenop de prijs komt: registratiebelasting, notarieel ereloon en administratieve kosten. Dat betekent echter niet dat de verkoop voor u gratis is.\n\n• **Tekoopstellingskosten.** U vergoedt de kosten van publiciteit, bezoekdagen, het Biddit-platform en de voorafgaande opzoekingen. Die zijn variabel, maar lopen doorgaans op tot **enkele duizenden euro's** — vaak 3.000 à 5.000 euro, en meer als u extra publiciteit of bezoekdagen wil. Vraag uw notariskantoor vooraf een raming.\n• **Verschil met het forfait.** Ligt het werkelijke kostenplaatje hoger dan het forfait dat de koper betaalt, dan is dat verschil voor uw rekening.\n• **Kosten bij mislukking.** Haalt geen enkel bod uw minimumprijs en beslist u niet te verkopen, dan bent u de gemaakte publiciteits- en dossierkosten doorgaans toch kwijt.\n\nTer vergelijking: een vastgoedmakelaar rekent in Vlaanderen doorgaans zo'n 3% commissie plus 21% btw, maar enkel bij effectieve verkoop. Bij een woning van 250.000 euro komen makelaarskosten en Biddit-kosten dus in dezelfde orde van grootte uit — het verschil zit vooral in wanneer u betaalt en of u betaalt zonder resultaat.",
+      },
+      {
+        heading: "Biddit, onderhandse verkoop of directe verkoop: de vergelijking",
+        body: "Elke verkoopvorm heeft een eigen evenwicht tussen snelheid, zekerheid, kosten en bereik. De tabel hieronder zet de drie routes naast elkaar. Reken voor een volledig Biddit-traject op ruwweg twee tot drie maanden: dossiervoorbereiding, minstens vier weken publiciteit, acht dagen biedweek en zes weken betaaltermijn. Dat is sneller dan een moeizame onderhandse verkoop, maar niet sneller dan een vlotte — en over de looptijd van een klassieke verkoop leest u meer in ons artikel over hoelang een huisverkoop in België duurt.",
+        table: {
+          headers: ["", "Biddit (openbare verkoop)", "Onderhands via makelaar", "Directe verkoop aan opkoper"],
+          rows: [
+            ["Snelheid", "Ca. 2 à 3 maanden: publiciteit, biedweek van 8 dagen, betaling binnen 6 weken", "Sterk variabel: van enkele weken tot vele maanden, plus 3-4 maanden tot de akte", "Bod binnen dagen; akte doorgaans 2 à 3 maanden na akkoord"],
+            ["Zekerheid", "Hoog na toewijzing: bindend bod, geen financieringsvoorbehoud; wél onzekere eindprijs", "Compromis vaak met opschortende voorwaarde krediet; kans dat de koper afhaakt", "Hoog: schriftelijk bod, betaling uit eigen middelen, geen financieringsvoorbehoud"],
+            ["Kosten verkoper", "Tekoopstellingskosten, doorgaans enkele duizenden euro's, ook zonder verkoop", "Commissie doorgaans ca. 3% + btw, enkel bij verkoop", "Geen commissie; het bod is een nettobedrag"],
+            ["Publiek en prijs", "Iedereen kan meebieden, maar enkel kopers met rondgemaakte financiering; prijs bepaald door opbod", "Breedste publiek, ook kopers met krediet; onderhandelde marktprijs", "Eén professionele koper; gemotiveerd bod, doorgaans onder de topprijs van de markt in ruil voor zekerheid"],
+          ],
+        },
+      },
+      {
+        heading: "Wanneer is een openbare verkoop verplicht of aangewezen — en wat zijn de risico's?",
+        body: "In een aantal situaties is de openbare verkoop niet zomaar een keuze, maar de wettelijke standaard. Het Gerechtelijk Wetboek schrijft in principe een openbare verkoop voor bij vastgoed van **minderjarigen en beschermde personen onder bewind** (art. 1186-1187 Ger.W.), al kan de vrederechter een onderhandse verkoop toestaan als die in het belang van de beschermde persoon is. Ook bij een **gerechtelijke vereffening-verdeling** — wanneer erfgenamen of ex-partners niet tot een akkoord komen over een woning in onverdeeldheid — kan de rechtbank de openbare verkoop bevelen. Bij een **faillissement** kiest de curator, met machtiging, tussen openbare of onderhandse verkoop.\n\nBuiten die gevallen loont Biddit vooral voor courante, correct geprijsde panden in gegeerde buurten, waar meerdere bieders elkaar kunnen opjagen, en voor verkopers die een objectieve, transparante prijsvorming willen — bijvoorbeeld erfgenamen die elke discussie over de prijs willen vermijden.\n\nHet grootste risico blijft de uitkomst: haalt geen bod uw minimumprijs, dan hoeft u niet te verkopen, maar bent u wel de tekoopstellingskosten kwijt en staat uw pand publiek te boek als \"niet toegewezen\". En anders dan soms gedacht garandeert een veiling geen topprijs: bij beperkte interesse blijft het opbod uit en eindigt u mogelijk onder wat een onderhandse verkoop had opgebracht.",
+      },
+      {
+        heading: "De derde weg: dezelfde zekerheid, zonder veiling",
+        body: "Wat verkopers in Biddit aantrekt, is de zekerheid: een bindend bod van een koper die niet afhangt van een bank. Maar die zekerheid bestaat ook zonder openbare verkoop, zonder vier weken publiciteit, zonder bezoekdagen en zonder tekoopstellingskosten die u ook bij een mislukte veiling betaalt.\n\nBij wijkopenpanden.be verkoopt u rechtstreeks aan een lokale opkoper in de regio Antwerpen:\n\n• U vraagt een **gratis en vrijblijvend bod** aan en krijgt binnen 2 uur reactie, ook in het weekend.\n• Een plaatsbezoek volgt doorgaans binnen 48 uur, waarna u een **schriftelijk, gemotiveerd bod** ontvangt.\n• Wij kopen in de huidige staat en betalen **uit eigen middelen** — net als bij Biddit is er geen financieringsvoorbehoud, dus geen koper die achteraf afhaakt.\n• Er is geen makelaarscommissie en geen publiciteitskost; de akte volgt doorgaans 2 à 3 maanden na akkoord.\n\nTwijfelt u tussen de veiling, de makelaar en de directe verkoop? Vraag dan eerst een vrijblijvend bod aan. Zo weet u binnen enkele dagen welk nettobedrag de directe weg oplevert, en kunt u dat met kennis van zaken afwegen tegen een Biddit-traject van meerdere maanden met onzekere uitkomst.",
+      },
+    ],
+    relatedArticles: ["commissie-makelaar-belgie", "notariskosten-woning-verkoop", "verkoop-kosten-berekenen", "hoelang-duurt-huis-verkopen-belgie", "opkoper-of-makelaar-verschil", "wat-is-mijn-woning-waard-antwerpen"],
+    relatedSituations: ["huis-verkopen-bij-erfenis", "verkopen-zonder-makelaar"],
+    faqs: [
+      {
+        question: "Is een bod op Biddit altijd bindend?",
+        answer:
+          "Bij de online openbare verkoop (de \"rode\" Biddit) wel: elk bod is definitief en het hoogste bod bindt de koper zodra de biedweek sluit. Er geldt geen opschortende voorwaarde voor een lening, tenzij de verkoopvoorwaarden dat uitzonderlijk voorzien. Bij de \"blauwe\" Biddit — een onderhandse verkoop via het platform — beslist u als verkoper zelf of u een bod aanvaardt en zijn opschortende voorwaarden wel mogelijk.",
+      },
+      {
+        question: "Wat gebeurt er als het hoogste bod onder mijn minimumprijs blijft?",
+        answer:
+          "U bent niet verplicht te verkopen. Vooraf spreekt u met de notaris een vertrouwelijke minimumprijs af; blijft het hoogste bod daaronder, dan kunt u weigeren of eventueel het tweede bod laten bekijken. Houd er wel rekening mee dat de gemaakte publiciteits- en dossierkosten doorgaans voor uw rekening blijven, ook als het pand uiteindelijk niet wordt toegewezen.",
+      },
+      {
+        question: "Hoeveel kost een woning verkopen via Biddit?",
+        answer:
+          "De koper betaalt bovenop de prijs een geforfaitiseerd bedrag voor aktekosten en registratiebelasting. Als verkoper draagt u de tekoopstellingskosten: publiciteit, bezoekdagen, platformkosten en voorafgaande opzoekingen. Reken doorgaans op enkele duizenden euro's, vaak 3.000 à 5.000 euro, afhankelijk van hoeveel publiciteit u wenst. Vraag uw notariskantoor vooraf een concrete raming, want de bedragen verschillen per dossier.",
+      },
+      {
+        question: "Hoe lang duurt een volledig Biddit-traject?",
+        answer:
+          "Reken op ruwweg twee tot drie maanden. De notaris bereidt eerst het dossier met alle attesten voor, daarna staat het pand doorgaans minstens vier weken op biddit.be met bezoekdagen. De biedweek zelf duurt acht kalenderdagen, met automatische verlenging bij late biedingen. Na de toewijzing tekent de koper binnen tien werkdagen het proces-verbaal en betaalt hij de prijs binnen zes weken.",
+      },
+      {
+        question: "Brengt een openbare verkoop meer op dan een onderhandse verkoop?",
+        answer:
+          "Dat is niet gegarandeerd. Bij voldoende interesse kan het opbod de prijs boven de verwachting tillen — gemiddeld telde een Biddit-verkoop in de eerste vijf jaar zes bieders en 45 biedingen. Maar omdat enkel kandidaten met rondgemaakte financiering kunnen bieden, is het publiek kleiner dan op de onderhandse markt. Bij beperkte belangstelling blijft het opbod uit en kan de eindprijs lager uitvallen.",
+      },
+      {
+        question: "Wanneer is een openbare verkoop verplicht?",
+        answer:
+          "In principe bij de verkoop van vastgoed van minderjarigen en beschermde personen onder bewind (art. 1186-1187 Ger.W.), al kan de vrederechter een onderhandse verkoop machtigen. Ook bij een gerechtelijke vereffening-verdeling — bijvoorbeeld erfgenamen die niet uit onverdeeldheid raken — kan de rechtbank de openbare verkoop bevelen. Bij faillissement kiest de curator, met de nodige machtiging, tussen openbaar en onderhands.",
+      },
+    ],
+  },
+  {
+    slug: "woning-verkopen-verhuis-woonzorgcentrum",
+    title: "De woning verkopen bij een verhuis naar het woonzorgcentrum: kosten, zorgbudget en timing",
+    metaTitle: "Woning verkopen bij verhuis naar woonzorgcentrum (2026) | wijkopenpanden.be",
+    metaDescription:
+      "Een woonzorgcentrum kost gemiddeld 2.294 euro per maand. Wat betekent de verkoop van de woning voor zorgbudget, OCMW en kinderen? Regels en timing.",
+    publishedAt: "2026-07-02",
+    updatedAt: "2026-07-02",
+    intro:
+      "Een verhuis naar het woonzorgcentrum is zelden een louter financiële beslissing, maar de cijfers dwingen wel tot keuzes. Een kamer kost in Vlaanderen gemiddeld 74,52 euro per dag, ruim 2.200 euro per maand zonder supplementen, terwijl het gemiddelde netto pensioen rond 1.700 euro ligt. De gezinswoning is dan vaak het grootste spaarpotje, maar de verkoop ervan heeft gevolgen: voor het zorgbudget voor ouderen, voor een eventuele OCMW-tussenkomst en voor wat de kinderen later erven. In dit artikel zetten we op een rij wat een woonzorgcentrum vandaag echt kost, hoe de verkoop van de woning meetelt in de inkomenstoets, wat de alternatieven zijn en waarom jarenlange leegstand meestal de duurste keuze is.",
+    sections: [
+      {
+        heading: "Wat kost een woonzorgcentrum vandaag echt?",
+        body: "Volgens de meest recente dagprijsmeting van het Departement Zorg (mei 2025, 816 woonzorgcentra) kost een woongelegenheid in een Vlaams woonzorgcentrum gemiddeld **74,52 euro per dag**. Openbare voorzieningen zijn gemiddeld het goedkoopst (70,45 euro), commerciële het duurst (80,66 euro). Het goedkoopste woonzorgcentrum rekent 40,72 euro per dag, het duurste bijna 159 euro.\n\nOp maandbasis komt dat volgens de OKRA-barometer 2025 neer op gemiddeld **2.294 euro zonder supplementen**. Daarbovenop komen nog variabele kosten: medicatie, dokter, was, kapper, telefonie. Voor die extra's bestaat geen wettelijk maximum, al moeten ze wel gedetailleerd op de factuur staan.\n\nZet daar het gemiddelde netto pensioen tegenover — 1.701 euro per maand, voor wie een zuivere werknemersloopbaan had zelfs maar 1.523 euro — en het tekort loopt al snel op tot **600 à 770 euro per maand**. Wie in het woonzorgcentrum verblijft, ontvangt doorgaans wel het zorgbudget voor zwaar zorgbehoevenden (140 euro per maand), maar dat dicht de kloof niet. Het verschil moet uit spaargeld, uit de kinderen of uit de woning komen.",
+      },
+      {
+        heading: "Het zorgbudget voor ouderen: wat verandert er als u de woning verkoopt?",
+        body: "Naast het zorgbudget voor zwaar zorgbehoevenden bestaat het **zorgbudget voor ouderen met een zorgnood** (het vroegere THAB): 110 tot 739 euro per maand vanaf 66 jaar, afhankelijk van de zorgzwaarte én van een strenge inkomens- en vermogenstoets. Niet alleen pensioen telt mee, maar ook spaargeld, beleggingen, eigendommen en de opbrengst van een verkochte of geschonken woning.\n\nZolang u de woning gewoon bezit, weegt ze verrassend licht: er wordt gerekend met het **niet-geïndexeerde kadastraal inkomen**, waarvan de eerste schijf (743,68 euro) is vrijgesteld. Voor veel bescheiden gezinswoningen betekent dat: nauwelijks of geen impact.\n\nVerkoopt u, dan verandert dat fundamenteel. De zorgkas rekent dan een **fictief inkomen van 6% op de verkoopwaarde** aan — niet op wat er van het geld overblijft. Er gelden wel correcties: bij de verkoop van de enige woning wordt een vrijstelling van circa 37.200 euro toegepast, en per verstreken jaar sinds de verkoop komt daar een abattement van 1.500 euro bij. In de praktijk leidt een verkoop volgens het Departement Zorg meestal tot een **vermindering of stopzetting** van het zorgbudget.\n\nTwee zaken zijn cruciaal:\n\n• U bent verplicht de verkoop of schenking **binnen drie maanden** te melden aan uw zorgkas; anders worden onterecht betaalde bedragen teruggevorderd.\n\n• Laat vóór de verkoop door de zorgkas, het ziekenfonds of de dienst maatschappelijk werk **doorrekenen** wat de impact is. Vaak weegt het weggevallen zorgbudget niet op tegen de verkoopopbrengst, maar u beslist beter met cijfers dan met veronderstellingen.",
+      },
+      {
+        heading: "Wat als het geld op is? OCMW-steun en de onderhoudsplicht van kinderen",
+        body: "Volstaan pensioen, spaargeld en zorgbudgetten niet, dan kan de bewoner aankloppen bij het **OCMW van de gemeente waar hij was ingeschreven**. Het OCMW past dan het verschil tussen de factuur en de eigen middelen bij.\n\nWie nog een woning bezit, moet er rekening mee houden dat het OCMW verwacht dat dit vermogen eerst wordt aangesproken. Het OCMW kan zijn tussenkomst bovendien veiligstellen via een **wettelijke hypotheek op de woning**: de steun wordt dan later gerecupereerd uit de verkoop of de nalatenschap. Gratis is de OCMW-tussenkomst voor eigenaars dus zelden.\n\nDaarnaast bestaat de **onderhoudsplicht van kinderen**. Het OCMW mag zijn kosten terugvorderen bij de kinderen volgens een wettelijke schaal (KB van 9 mei 1984): pas vanaf een netto belastbaar jaarinkomen van 29.043,35 euro (plus 4.066,07 euro per persoon ten laste) kan een bijdrage worden gevraagd, verdeeld per kind. Wie bijdraagt, kan 80% daarvan fiscaal inbrengen.\n\nElk OCMW beslist zelf of het die terugvordering toepast. Bij een telling van VRT NWS in 2023 deden 272 van de 300 Vlaamse gemeenten dat nog, terwijl 28 gemeenten de onderhoudsplicht hadden afgeschaft — en de politieke druk om ze overal af te schaffen groeit. Informeer dus altijd bij het concrete OCMW; de verschillen tussen gemeenten zijn groot.",
+      },
+      {
+        heading: "Verkopen, verhuren of laten leegstaan: de nuchtere vergelijking",
+        body: "Voor de gezinswoning zijn er na de verhuis drie scenario's. Verhuren lijkt aantrekkelijk — de woning blijft in de familie en er komt maandelijks geld binnen — maar de huur van een doorsnee gezinswoning dekt zelden de volledige maandfactuur van het woonzorgcentrum, en u wordt op uw tachtigste of negentigste (of via de kinderen) wél verhuurder, met alle verplichtingen van dien: conformiteit, herstellingen, EPC-eisen, risico op wanbetaling. Een uitgebreide afweging leest u in ons artikel over verhuren of verkopen in Antwerpen.\n\nLaten leegstaan is bijna altijd de slechtste optie, zoals we hieronder toelichten. Verkopen geeft als enige scenario volledige zekerheid: de zorgkosten zijn voor jaren gedekt en er blijft niets 'hangen' dat beheerd moet worden.",
+        table: {
+          headers: ["", "Verkopen", "Verhuren", "Laten leegstaan"],
+          rows: [
+            ["Maandelijkse opbrengst", "Eenmalig kapitaal dat jaren dagprijs dekt", "Huur, dekt zelden de volledige factuur", "Geen — alleen kosten"],
+            ["Impact zorgbudget ouderen", "6% van verkoopwaarde telt als fictief inkomen; vaak vermindering of verlies", "Niet-geïndexeerd KI telt mee (eerste 743,68 euro vrijgesteld)", "Idem: KI telt mee"],
+            ["Beheer en risico", "Geen, na de akte", "Onderhoud, huurdersrisico, conformiteitseisen", "Verval, inbraak, verzekeringsdiscussies"],
+            ["Extra heffingen", "Geen", "Onroerende voorheffing loopt door", "Onroerende voorheffing + mogelijke leegstandsheffing"],
+            ["Geschikt als", "Zorgkosten structureel gedekt moeten zijn", "Woning in goede staat, familie wil beheren", "Eigenlijk nooit als bewuste strategie"],
+          ],
+        },
+      },
+      {
+        heading: "De klassieke fout: de woning jaren laten leegstaan 'voor later'",
+        body: "In de praktijk gebeurt vaak dit: de woning blijft 'nog even' staan zoals ze was, met de inboedel erin, voor als vader of moeder terugkeert of tot de familie eruit is wat ermee moet gebeuren. Uit die tijdelijke situatie groeien jaren van leegstand — en die kosten stevig:\n\n• **Vaste kosten lopen door**: onroerende voorheffing, verzekering, verwarming op waakstand, nutsvoorzieningen, tuinonderhoud.\n\n• **Gemeenten belasten leegstand**: wie op de leegstandsregister belandt, riskeert een jaarlijkse heffing die snel oploopt (zie ons artikel over de leegstandsheffing in Antwerpen).\n\n• **De woning veroudert dubbel**: vocht en sluipende gebreken bij gebrek aan bewoning, terwijl de energie- en renovatie-eisen voor kopers strenger worden. Elke winter leegstand knabbelt aan de verkoopprijs.\n\n• **Verzekeraars stellen voorwaarden** bij langdurige leegstand; bij schade dreigen discussies over de dekking.\n\nFiscaal is er intussen weinig reden om te wachten: op de verkoop van de eigen gezinswoning betaalt u **geen meerwaardebelasting**, en ook wie al langer dan vijf jaar eigenaar is, blijft buiten de meerwaardebelasting van 16,5% op andere woningen. Wachten levert fiscaal dus niets op, terwijl de kosten en het waardeverlies wél doorlopen.",
+      },
+      {
+        heading: "Timing en volmacht: praktische aandachtspunten bij de verkoop",
+        body: "De timing verdient meer aandacht dan ze meestal krijgt. Vanaf de verhuisdag lopen twee kosten parallel: de dagprijs van het woonzorgcentrum én alle kosten van de woning. Elke maand dat de verkoop aansleept, kost het gezin al snel 2.500 tot 3.000 euro aan gecombineerde lasten. Een klassiek verkooptraject met makelaar duurt van eerste bezoek tot akte gemakkelijk zes tot twaalf maanden; hou daar in de financiële planning rekening mee.\n\nBelangrijk is ook **wie mag tekenen**. Zolang de eigenaar wilsbekwaam is, tekent hij of zij zelf, eventueel met een notariële volmacht voor praktische stappen. Is dat niet meer het geval, dan is een vooraf geregistreerde **zorgvolmacht** goud waard; zonder zorgvolmacht moet de vrederechter een bewindvoerder aanstellen en de verkoop machtigen, wat maanden extra kan duren. Bespreek dit tijdig met de notaris — het liefst vóór de verhuis, niet erna.\n\nMeld de verkoop tot slot binnen de drie maanden aan de zorgkas en, als de bewoner een inkomensgarantie voor ouderen (IGO) ontvangt, ook aan de pensioendienst.",
+      },
+      {
+        heading: "Snel zekerheid nodig? Zo helpt een directe verkoop",
+        body: "Bij een verhuis naar het woonzorgcentrum telt niet de allerlaatste euro, maar **tempo en zekerheid**: de zorgfactuur komt elke maand, en niemand in de familie zit te wachten op een jaar bezichtigingen in het huis van mama of papa.\n\nEen directe verkoop aan wijkopenpanden.be geeft die duidelijkheid snel. U vraagt een **gratis en vrijblijvend bod** aan en krijgt binnen 2 uur reactie, ook in het weekend. Doorgaans komen we binnen 48 uur langs en ontvangt u een **schriftelijk, gemotiveerd bod**. We kopen de woning **in de huidige staat** — ook met verouderde afwerking of een volle inboedel — zodat er niet eerst opgeruimd of opgefrist hoeft te worden. Er is geen makelaarscommissie, we betalen uit eigen middelen, en de akte volgt doorgaans twee tot drie maanden na het akkoord. U kiest bovendien mee de datum van de akte, zodat die aansluit op de verhuis en de financiële planning van het gezin.\n\nZo weet iedereen binnen enkele dagen waar het gezin aan toe is — en kan de aandacht terug naar wat echt telt: een goede start in het woonzorgcentrum.",
+      },
+    ],
+    relatedArticles: ["verhuren-of-verkopen-antwerpen", "leegstandsheffing-antwerpen-2026", "verkoop-kosten-berekenen", "belastingen-bij-woningverkoop", "hoelang-duurt-huis-verkopen-belgie", "blijven-wonen-na-verkoop"],
+    relatedSituations: ["huis-verkopen-bij-erfenis", "opknappand-verkopen"],
+    faqs: [
+      {
+        question: "Moeten we het huis verkopen om het woonzorgcentrum te betalen?",
+        answer:
+          "Niet altijd, maar de rekening is vaak snel gemaakt: een kamer kost gemiddeld 2.294 euro per maand zonder supplementen, terwijl het gemiddelde netto pensioen rond 1.701 euro ligt. Volstaat het spaargeld niet om dat tekort jarenlang bij te passen, dan is de woning meestal de enige reserve. Bekijk eerst zorgbudgetten en spaargeld, en laat de impact van een verkoop vooraf doorrekenen.",
+      },
+      {
+        question: "Verliest mijn ouder het zorgbudget als de woning verkocht wordt?",
+        answer:
+          "Vaak wel, geheel of gedeeltelijk. Na de verkoop rekent de zorgkas een fictief inkomen van 6% op de verkoopwaarde aan, met een vrijstelling van circa 37.200 euro voor de enige woning en 1.500 euro abattement per verstreken jaar. Volgens het Departement Zorg leidt een verkoop meestal tot vermindering of stopzetting van het zorgbudget. De verkoop moet binnen drie maanden gemeld worden aan de zorgkas.",
+      },
+      {
+        question: "Kunnen de kinderen verplicht worden om het rusthuis mee te betalen?",
+        answer:
+          "Alleen als het OCMW tussenkomt én dat OCMW de onderhoudsplicht toepast. De terugvordering volgt een wettelijke schaal: pas vanaf een netto belastbaar jaarinkomen van 29.043,35 euro (plus 4.066,07 euro per persoon ten laste) wordt een bijdrage gevraagd, verdeeld over de kinderen. In 2023 pasten 272 van de 300 Vlaamse gemeenten dit toe; 28 gemeenten schaften het af. Informeer dus bij uw OCMW.",
+      },
+      {
+        question: "Is verhuren geen beter idee dan verkopen?",
+        answer:
+          "Soms, maar reken realistisch: de huur van een doorsnee gezinswoning dekt zelden de volledige maandfactuur van het woonzorgcentrum, en er komt verhuurdersverantwoordelijkheid bij — onderhoud, conformiteit, huurdersrisico. Voordeel is wel dat een verhuurde woning voor het zorgbudget enkel via het kadastraal inkomen meetelt, terwijl na een verkoop 6% van de verkoopwaarde wordt aangerekend. Laat beide scenario's cijfermatig vergelijken.",
+      },
+      {
+        question: "Betalen we belasting op de verkoop van de gezinswoning?",
+        answer:
+          "Nee. De verkoop van de eigen gezinswoning die als hoofdverblijfplaats werd bewoond, is vrijgesteld van meerwaardebelasting, ongeacht de winst. Stond de woning al langere tijd leeg, dan geldt doorgaans alsnog de vrijstelling voor wie meer dan vijf jaar eigenaar is. Hou wel rekening met de meldingsplicht aan de zorgkas en eventueel de pensioendienst, want daar kan de opbrengst wél gevolgen hebben.",
+      },
+      {
+        question: "Hoe snel kan de woning verkocht zijn na de verhuis?",
+        answer:
+          "Via een klassiek traject met makelaar duurt het van te-koop-zetting tot akte vaak zes tot twaalf maanden, terwijl dagprijs en woningkosten doorlopen. Bij een directe verkoop aan wijkopenpanden.be krijgt u binnen 2 uur reactie, doorgaans binnen 48 uur een bezoek en een schriftelijk gemotiveerd bod; de akte volgt meestal twee tot drie maanden na het akkoord, op een datum die u mee kiest.",
+      },
+    ],
+  },
+  {
+    slug: "woning-verkopen-onder-bewind",
+    title: "Woning verkopen onder bewind: machtiging van de vrederechter stap voor stap",
+    metaTitle: "Woning verkopen onder bewind: machtiging vrederechter (2026) | wijkopenpanden.be",
+    metaDescription:
+      "Woning verkopen onder bewind? Zo vraagt de bewindvoerder de machtiging van de vrederechter aan: verzoekschrift, schatting en de fouten die u vermijdt.",
+    publishedAt: "2026-07-02",
+    updatedAt: "2026-07-02",
+    intro:
+      "Uw moeder heeft dementie en verblijft sinds kort in een woonzorgcentrum. Haar huis staat leeg, de facturen lopen op en iedereen in de familie is het erover eens: verkopen is de verstandigste keuze. Toch kunt u niet zomaar naar de notaris stappen. Zodra iemand wilsonbekwaam is, kan die persoon zelf geen geldige verkoop meer ondertekenen — en ook een bewindvoerder mag de woning niet verkopen zonder een bijzondere machtiging van de vrederechter. Die procedure is goed te doorlopen, op voorwaarde dat u de stappen in de juiste volgorde zet. In dit artikel leest u hoe de machtiging werkt, welke stukken u nodig hebt, hoelang het duurt, wat er met de opbrengst gebeurt en welke fouten een dossier maandenlang kunnen blokkeren.",
+    sections: [
+      {
+        heading: "Waarom u niet zomaar mag verkopen bij dementie of wilsonbekwaamheid",
+        body: "Een verkoop is een contract, en een contract vereist een geldige toestemming. Wie door dementie, een beroerte of een andere aandoening de gevolgen van zijn beslissingen niet meer kan inschatten, is juridisch **wilsonbekwaam** en kan die toestemming niet meer geven. De notaris die twijfelt aan de wilsbekwaamheid van de verkoper, zal weigeren de akte te verlijden — terecht, want een akte getekend door een wilsonbekwame eigenaar staat juridisch op losse schroeven.\n\nOok een volmacht die vroeger werd getekend, biedt geen uitweg: een gewone volmacht vervalt zodra de volmachtgever wilsonbekwaam wordt. En de kinderen die onderling 'regelen' dat het huis van moeder verkocht wordt? Zij zijn geen eigenaar en kunnen dus niets rechtsgeldig ondertekenen.\n\nDe wettelijke oplossing is het **bewind**, ingevoerd door de wet van 17 maart 2013. De vrederechter stelt een bewindvoerder aan — vaak een familielid, soms een advocaat — die de goederen van de beschermde persoon beheert. Maar let op: beheren is niet hetzelfde als verkopen. Voor het **vervreemden van onroerend goed** heeft de bewindvoerder altijd een bijzondere machtiging van de vrederechter nodig (art. 499/7 van het toepasselijke Burgerlijk Wetboek). Die machtiging wordt enkel verleend als de verkoop in het belang van de beschermde persoon is.",
+      },
+      {
+        heading: "Zorgvolmacht of bewind: het verschil in één oogopslag",
+        body: "Wie tijdig vooruitdenkt, kan een bewind vaak vermijden met een **zorgvolmacht**: een notariële lastgeving waarin u zelf aanduidt wie uw vermogen mag beheren — en desgewenst uw woning mag verkopen — als u het zelf niet meer kunt. Cruciaal: een zorgvolmacht kan alleen worden opgesteld zolang de persoon nog wilsbekwaam is, en ze moet geregistreerd zijn in het Centraal Register voor Lastgevingen (CRL) om te blijven werken na de wilsonbekwaamheid. Bij beginnende dementie is snel handelen dus essentieel.\n\nIs er geen (geldige) zorgvolmacht en is de eigenaar al wilsonbekwaam, dan is het bewind de enige weg. Een zorgvolmacht achteraf opstellen kan niet meer.",
+        table: {
+          headers: ["", "Zorgvolmacht", "Bewind"],
+          rows: [
+            ["Wanneer regelen", "Vooraf, zolang de persoon wilsbekwaam is", "Nadien, via verzoekschrift bij de vrederechter"],
+            ["Wie beslist", "De lasthebber die u zelf koos", "De door de rechter aangestelde bewindvoerder"],
+            ["Woning verkopen", "Kan zonder machtiging, als de volmacht dit voorziet", "Enkel met bijzondere machtiging van de vrederechter"],
+            ["Controle", "Beperkt; de vrederechter kan ingrijpen bij misbruik", "Structureel: machtigingen en periodieke verslagen"],
+            ["Doorlooptijd verkoop", "Vergelijkbaar met een gewone verkoop", "Extra weken tot maanden voor de machtiging"],
+          ],
+        },
+      },
+      {
+        heading: "Stap voor stap: zo verloopt de machtigingsprocedure",
+        body: "De verkoop van een woning onder bewind volgt een vaste volgorde. Wie ze respecteert, houdt het dossier op tempo.\n\n1. **Laat de woning schatten door een onafhankelijk expert.** De vrederechter beslist niet op basis van een buikgevoel of een vraagprijs, maar op basis van een recent schattingsverslag van een onafhankelijk deskundige (landmeter-expert of notaris). Dit verslag bepaalt de ondergrens van de verkoop.\n\n2. **Verzamel een concreet en aanvaardbaar bod.** Bij een onderhandse verkoop vraagt u de machtiging doorgaans pas aan wanneer er een kandidaat-koper is. Een schriftelijk, gemotiveerd bod dat de geschatte waarde haalt, maakt het dossier sterk.\n\n3. **Dien het verzoekschrift in bij het vredegerecht** van de plaats waar het bewind loopt. Modelformulieren zijn beschikbaar via rechtbanken-tribunaux.be. Voeg toe: het schattingsverslag, het bod of de ontwerpverkoopovereenkomst (vaak ook een ontwerp van notariële akte), en een grondige motivering waarom de verkoop het belang van de beschermde persoon dient — bijvoorbeeld omdat de woning leegstaat, kosten genereert en de opbrengst nodig is voor de zorg.\n\n4. **De vrederechter beoordeelt en machtigt.** Hij toetst de prijs aan de schatting, kan bijkomende voorwaarden opleggen en duidt de notaris aan die de akte zal verlijden.\n\n5. **Pas ná de machtiging wordt de verkoopovereenkomst getekend** en volgt de notariële akte.",
+      },
+      {
+        heading: "Onderhandse of openbare verkoop onder bewind?",
+        body: "De wet vertrekt van het principe van de **openbare verkoop**, maar het Gerechtelijk Wetboek (art. 1193bis Ger.W.) laat uitdrukkelijk toe dat de vrederechter een **onderhandse verkoop** machtigt. In de praktijk is dat vandaag de meest gangbare weg: een openbare verkoop brengt extra kosten mee en houdt het risico in dat het pand niet of onder de verwachte prijs verkocht raakt.\n\nWie onderhands wil verkopen, moet in het verzoekschrift wel aantonen dat deze verkoopwijze **voordeliger is voor de beschermde persoon** dan een openbare verkoop. Concreet betekent dit: een schattingsverslag, een bod dat minstens de geschatte waarde benadert of haalt, en een duidelijke kostenvergelijking. Vrederechters koppelen aan hun machtiging doorgaans voorwaarden: de verkoop mag niet onder de geschatte waarde gebeuren, en de opbrengst moet integraal toekomen aan de beschermde persoon.\n\nVoor bewindvoerders is dit meteen het praktische verschil met een gewone verkoop: niet de hoogste bieder op een drukbezochte bezichtiging telt, maar een **onderbouwd, schriftelijk bod** dat de toets van de rechter doorstaat. Een koper zonder financieringsvoorbehoud weegt daarbij zwaarder, omdat de machtiging anders dreigt te slaan op een verkoop die alsnog afspringt.",
+      },
+      {
+        heading: "Timing, de rol van de notaris en wat er met de opbrengst gebeurt",
+        body: "Reken voor de behandeling van het verzoekschrift op **enkele weken tot anderhalve maand**; in de praktijk worden termijnen van twee tot zes weken genoemd, afhankelijk van het vredegerecht en de volledigheid van uw dossier. Tel daarbij de tijd voor de schatting, de verplichte attesten (EPC, elektrische keuring, bodemattest) en na de machtiging de gebruikelijke doorlooptijd tot de akte.\n\nDe **notaris** speelt een dubbele rol: vóór de machtiging helpt hij vaak bij de ontwerpakte of ontwerpovereenkomst die bij het verzoekschrift wordt gevoegd; na de machtiging verlijdt de door de vrederechter aangeduide notaris de akte en waakt hij erover dat alle voorwaarden uit de beschikking worden nageleefd. Wijkt de uiteindelijke verkoop af van wat gemachtigd werd (andere koper, lagere prijs), dan is een nieuwe machtiging nodig.\n\nDe verkoopprijs blijft eigendom van de beschermde persoon. De netto-opbrengst gaat naar een rekening op diens naam binnen het bewind — in de praktijk vaak een **geblokkeerde of gecontroleerde rekening** — en mag uitsluitend in het belang van de beschermde persoon worden gebruikt: het woonzorgcentrum, medische kosten, levensonderhoud. De bewindvoerder verantwoordt de besteding in zijn **periodieke verslag** aan de vrederechter. Voor de familie is dat een geruststelling, maar het betekent ook: geen voorschotten aan erfgenamen zolang de beschermde persoon leeft. Een bewinddossier is geen erfeniskwestie.",
+      },
+      {
+        heading: "De drie fouten die een bewinddossier doen stranden",
+        body: "**1. Het compromis tekenen vóór de machtiging.** De verleiding is groot om een koper vast te leggen 'onder opschortende voorwaarde van machtiging door de vrederechter'. Uit de rechtspraak blijkt dat dit geen geldige constructie is: de controlefunctie van de vrederechter moet éérst worden uitgeoefend, pas daarna mag verkocht worden. Een compromis dat vooruitloopt op de machtiging is aantastbaar en kan de hele verkoop onderuithalen. De juiste volgorde: bod verzamelen, machtiging vragen, dan pas tekenen.\n\n**2. Verkopen onder de geschatte waarde.** De schatting is geen formaliteit maar de lat waaraan de rechter het bod toetst. Een bod ruim onder de schatting wordt geweigerd, tenzij u zeer sterk motiveert waarom het toch het belang van de beschermde persoon dient (bv. een geactualiseerde schatting na vaststelling van gebreken).\n\n**3. Onderling 'regelen' zonder statuut.** Familie die de woning van een wilsonbekwame ouder te koop zet zonder bewind of geregistreerde zorgvolmacht, komt bij de notaris muurvast te zitten: de akte kan eenvoudigweg niet verleden worden. Elke maand die zo verloren gaat, komt bovenop de latere machtigingsprocedure. Start het bewind of activeer de zorgvolmacht vóór u de verkoop opstart, niet erna.",
+      },
+      {
+        heading: "Een directe verkoop binnen een bewindtraject: praktisch en dossiervast",
+        body: "Een bewinddossier vraagt precies wat een klassieke verkoop met bezoekdagen en onzekere kandidaten moeilijk kan garanderen: een schriftelijk bod, een zekere koper en een voorspelbare timing. Een directe verkoop aan wijkopenpanden.be sluit daar goed op aan.\n\nU ontvangt een **gratis en vrijblijvend bod**: reactie binnen 2 uur, ook in het weekend, en een plaatsbezoek doorgaans binnen 48 uur. Het bod is **schriftelijk en gemotiveerd** — een stuk dat u samen met het schattingsverslag bij het verzoekschrift kunt voegen, zodat de vrederechter concreet kan toetsen. Er is **geen financieringsvoorbehoud**: de aankoop gebeurt uit eigen middelen, waardoor de gemachtigde verkoop niet alsnog kan afspringen op een geweigerd krediet. De woning wordt in haar **huidige staat** gekocht — ook als ze jaren bewoond werd door iemand die er niet meer in kon investeren — en er is geen makelaarscommissie. Na akkoord en machtiging volgt de akte doorgaans binnen 2 à 3 maanden.\n\nBent u bewindvoerder of bereidt u als familielid een bewinddossier voor? Vraag vrijblijvend een bod aan; u beslist daarna in alle rust, en uiteindelijk beslist de vrederechter mee. Zo hoort het ook.",
+      },
+    ],
+    relatedArticles: ["erfenis-woning-stappenplan", "compromis-verkoop-woning-belgie", "notariskosten-woning-verkoop", "mede-eigendom-verkopen", "wat-is-een-vastgoedopkoper", "hoelang-duurt-huis-verkopen-belgie"],
+    relatedSituations: ["huis-verkopen-bij-erfenis", "verkopen-zonder-makelaar"],
+    faqs: [
+      {
+        question: "Mag een bewindvoerder een huis verkopen zonder toestemming van de vrederechter?",
+        answer:
+          "Nee. Het beheer van de goederen omvat niet het recht om onroerend goed te vervreemden. Voor de verkoop van een woning heeft de bewindvoerder altijd een bijzondere machtiging van de vrederechter nodig (art. 499/7 BW). De rechter verleent die enkel als de verkoop aantoonbaar in het belang van de beschermde persoon is, op basis van een schattingsverslag en een gemotiveerd verzoekschrift.",
+      },
+      {
+        question: "Hoelang duurt een machtiging van de vrederechter voor de verkoop van een woning?",
+        answer:
+          "Reken op enkele weken tot ongeveer anderhalve maand voor de behandeling van het verzoekschrift; in de praktijk worden termijnen van twee tot zes weken genoemd, afhankelijk van het vredegerecht en de agenda. Een volledig dossier — recent schattingsverslag, concreet bod, duidelijke motivering — versnelt de zaak aanzienlijk. Daarna volgt nog de gebruikelijke doorlooptijd tot de notariële akte.",
+      },
+      {
+        question: "Kan ik het huis van mijn ouder met dementie verkopen zonder bewind?",
+        answer:
+          "Alleen als er tijdig een zorgvolmacht werd opgesteld en geregistreerd in het Centraal Register voor Lastgevingen, toen uw ouder nog wilsbekwaam was. Dan kan de lasthebber verkopen zonder machtiging, als de volmacht dat voorziet. Is er geen zorgvolmacht en is uw ouder al wilsonbekwaam, dan kan de akte niet verleden worden en is een bewind met machtiging de enige rechtsgeldige weg.",
+      },
+      {
+        question: "Mag ik al een compromis tekenen terwijl de machtiging nog loopt?",
+        answer:
+          "Nee. Een verkoopovereenkomst 'onder opschortende voorwaarde van machtiging door de vrederechter' is volgens de rechtspraak geen geldige constructie: de rechter moet zijn controle vooraf uitoefenen. Verzamel dus eerst een schriftelijk bod, vraag daarmee de machtiging aan en teken pas na de beschikking. Een te vroeg getekend compromis brengt de hele verkoop in gevaar.",
+      },
+      {
+        question: "Mag de woning onder de geschatte waarde verkocht worden?",
+        answer:
+          "In principe niet. De vrederechter toetst het bod aan het schattingsverslag van de onafhankelijke expert en koppelt de machtiging doorgaans aan de voorwaarde dat minstens de geschatte waarde wordt gehaald. Een lager bod maakt enkel kans met een zeer sterke motivering, bijvoorbeeld een geactualiseerde schatting na vaststelling van ernstige gebreken of langdurige onverkoopbaarheid.",
+      },
+      {
+        question: "Wat gebeurt er met de verkoopopbrengst bij een verkoop onder bewind?",
+        answer:
+          "De netto-opbrengst wordt gestort op een rekening op naam van de beschermde persoon, in de praktijk vaak geblokkeerd of gecontroleerd binnen het bewind. Het geld mag uitsluitend voor de beschermde persoon worden gebruikt, zoals de kosten van het woonzorgcentrum of medische zorg. De bewindvoerder verantwoordt de besteding in zijn periodieke verslag aan de vrederechter; voorschotten aan erfgenamen zijn uitgesloten.",
+      },
+    ],
+  },
+  {
+    slug: "overstromingsgevoelige-woning-verkopen",
+    title: "Overstromingsgevoelige woning verkopen: P-score, G-score en wat u verplicht moet melden",
+    metaTitle: "Overstromingsgevoelige woning verkopen: P- en G-score (2026) | wijkopenpanden.be",
+    metaDescription:
+      "Overstromingsgevoelige woning verkopen? Sinds 2023 moet u de P- en G-score vermelden. Wat de klassen A-D betekenen voor prijs, verzekering en verkoop.",
+    publishedAt: "2026-07-02",
+    updatedAt: "2026-07-02",
+    intro:
+      "Wie in Vlaanderen een woning verkoopt, moet sinds 1 januari 2023 verplicht communiceren over de overstromingsgevoeligheid ervan. Elk gebouw en elk perceel kreeg daarvoor een score van A tot D: de G-score voor het gebouw, de P-score voor het perceel. Die scores horen thuis in uw zoekertje, in het compromis én in de notariële akte. Voor woningen langs de Schijn, het Groot Schijn, de Schelde of in lager gelegen Antwerpse wijken is dat geen detail: een score C of D roept bij kandidaat-kopers vragen op over verzekering, financiering en herverkoopwaarde. In dit artikel leest u wat elke score betekent, wat u exact moet melden, wat de gevolgen zijn voor uw prijs en hoe u een overstromingsgevoelig pand toch vlot verkocht krijgt.",
+    sections: [
+      {
+        heading: "Wat u sinds 1 januari 2023 verplicht moet melden",
+        body: "De informatieplicht over overstromingsgevoeligheid bestaat al sinds 2013, maar werd op 1 januari 2023 grondig verfijnd. Vlaanderen stapte af van de grove indeling in 'mogelijk' en 'effectief overstromingsgevoelig gebied' en voerde twee scores op maat van uw eigendom in: de **P-score** voor het perceel en de **G-score** voor elk gebouw groter dan 25 m².\n\nDe verplichting geldt in drie stappen:\n\n1. **In de publiciteit** (immosite, zoekertje, affiche): sinds 1 januari 2023 vermeldt u de P-score en de G-score. Valt een score in klasse D, dan toont u ook het officiële overstromingssymbool.\n2. **In het compromis**: sinds 1 april 2023 bevat elke onderhandse overeenkomst een waterparagraaf met beide scores en de vermelding of het goed in een afgebakend overstromingsgebied of oeverzone ligt.\n3. **In de authentieke akte**: de notaris herneemt dezelfde informatie.\n\nDe plicht geldt ook bij verhuur voor meer dan negen jaar, bij overdracht van vruchtgebruik, erfpacht of opstalrecht en bij inbreng in een vennootschap. Verkoopt u zonder makelaar, dan draagt u die verantwoordelijkheid volledig zelf — niemand controleert uw zoekertje vooraf, maar de gevolgen achteraf zijn wel voor u.",
+      },
+      {
+        heading: "P-score en G-score: de klassen A tot D uitgelegd",
+        body: "Elk perceel en elk gebouw in Vlaanderen kreeg een score op een schaal van A tot D, gebaseerd op drie overstromingsbronnen: de zee, waterlopen en intense neerslag. De **meest kritieke bron bepaalt de eindscore**. Een woning die droog blijft bij hoogtij van de Schelde maar bij hevige regenval water in de kelder krijgt, scoort dus op basis van dat regenrisico.\n\nHet onderscheid tussen P- en G-score is belangrijker dan het lijkt. Een perceel met score C of D terwijl het gebouw score A heeft, komt vaak voor: de tuin kan onder water lopen, maar de woning staat hoog genoeg. Dat is voor een koper een wezenlijk ander verhaal dan een gebouw dat zelf in klasse D zit — en dat verschil mag u in uw communicatie uitspelen, zolang u beide scores correct vermeldt.\n\nU zoekt de scores gratis op via **waterinfo.be/informatieplicht**, waar u ook het overstromingsrapport genereert dat uw notaris nodig heeft voor de waterparagraaf. Werk altijd met een recent rapport: de scores volgen de officiële watertoetskaarten en kunnen wijzigen wanneer die geactualiseerd worden.",
+        table: {
+          headers: ["Klasse", "Betekenis", "Wat het praktisch inhoudt"],
+          rows: [
+            ["A", "Geen overstroming gemodelleerd", "Geen gekend risico volgens de huidige kaarten; gunstigste score"],
+            ["B", "Kleine kans op overstroming bij klimaatverandering", "Vandaag geen gemodelleerd risico, wel in het klimaatscenario 2050"],
+            ["C", "Kleine kans op overstroming onder het huidige klimaat", "Reëel maar beperkt risico; kopers en verzekeraars kijken al kritischer"],
+            ["D", "Middelgrote kans op overstroming onder het huidige klimaat", "Hoogste score; overstromingssymbool verplicht in de publiciteit"],
+          ],
+        },
+      },
+      {
+        heading: "Score te streng? Laat ze bijstellen met een overstromingsattest",
+        body: "De modellen achter de scores kennen uw woning niet vanbinnen. Wie waterwerende maatregelen nam — verhoogde drempels, waterdichte kelderdichting, terugslagkleppen op de riolering, een opgehoogde vloerpas — kan een **erkend deskundige overstromingsattest** aanstellen. Die deskundige, erkend door de Vlaamse Milieumaatschappij, kan na een plaatsbezoek de P- of G-score via een overstromingsattest verbeteren als het werkelijke risico lager ligt dan gemodelleerd.\n\nBij een geplande verkoop van een pand met score C of D kan dat attest het verschil maken tussen een afgeschrikte en een gerustgestelde koper. Maar verwacht geen mirakel: de deskundige kan de score enkel bijstellen binnen wat technisch verdedigbaar is, niet voor een woning die effectief al eens onder water stond.",
+      },
+      {
+        heading: "Wat een hoge waterscore doet met prijs en verzekerbaarheid",
+        body: "De cijfers zijn genuanceerder dan u misschien vreest. Onderzoek van Zimmo en StadimData (2025) toont dat woningen in overstromingsgevoelig gebied in Vlaanderen gemiddeld zelfs **duurder** verkopen dan vergelijkbare woningen daarbuiten — het verschil liep op tot zo'n 36.000 euro, omdat waterrijke ligging vaak samenvalt met gegeerde locaties. In Wallonië, getekend door de overstromingen van juli 2021, is het beeld omgekeerd: daar noteren woningen in risicogebied gemiddeld tienduizenden euro's ónder vergelijkbare panden.\n\nDat gemiddelde verbergt grote verschillen. Voor een concrete woning met **G-score D** zonder compenserende ligging werkt de score wél prijsdrukkend:\n\n• Kandidaat-kopers verrekenen verzekeringskost en schaderisico in hun bod, of haken af.\n• Banken bekijken het pand kritischer als waarborg voor de hypotheek.\n• Het verplichte overstromingssymbool filtert kopers weg nog vóór het eerste bezoek, waardoor uw pand langer online blijft staan — wat op zich al argwaan wekt.\n\nDe verzekering zelf is een dubbel verhaal. De dekking tegen natuurrampen, waaronder overstroming, zit **verplicht in elke Belgische brandverzekering**. Maar ligt de woning in een bij koninklijk besluit afgebakende risicozone, dan mag de verzekeraar een fors hogere premie of vrijstelling aanrekenen. Weigert hij of overdrijft hij, dan is er het **Tariferingsbureau Natuurrampen** als vangnet met gereglementeerde maximumvoorwaarden. Eén uitzondering: voor gebouwen opgericht in een risicozone méér dan 18 maanden na de aanwijzing ervan mag de dekking volledig geweigerd worden, zonder beroep op het Tariferingsbureau. Anticipeer op die vraag vóór ze u aan de onderhandeltafel overvalt.",
+      },
+      {
+        heading: "Signaalgebieden en WORG: als ook de bouwmogelijkheden sneuvelen",
+        body: "Naast de scores bestaat er een tweede, minder bekende laag: de **watergevoelige openruimtegebieden** (WORG). Dat zijn voormalige signaalgebieden — onbebouwde gronden met een harde bestemming zoals woon- of industriegebied, maar met een hoog overstromingsrisico — die de Vlaamse Regering definitief bouwvrij houdt. Op 19 juli 2024 keurde ze de aanduiding van 139 watergevoelige openruimtegebieden goed, samen ruim 710 hectare.\n\nDe impact is ingrijpend: binnen een WORG kan de oude bestemming **niet langer gerealiseerd** worden. Een perceel dat op het gewestplan woongebied is, verliest de facto zijn bouwmogelijkheden; nieuwe omgevingsvergunningen voor woningen of bedrijven zijn er niet meer mogelijk. Enkel waterbeheer, natuur, bosbouw, landbouw en kleinschalige recreatie blijven toegelaten.\n\nVerkoopt u een woning mét aanpalende grond of een groot perceel in zo'n gebied, reken u dan niet rijk aan 'bouwgrond' die er juridisch geen meer is. En ook de ligging in een WORG valt onder de informatieplicht: wie een perceel als bouwgrond aanprijst terwijl het watergevoelig openruimtegebied is, zet de deur wagenwijd open voor een vordering van de koper.",
+      },
+      {
+        heading: "Veelgemaakte fouten — en wat u riskeert",
+        body: "In de praktijk loopt het op drie punten geregeld mis:\n\n• **De scores ontbreken in het zoekertje.** Wie zelf verkoopt, vergeet vaak dat de informatieplicht al bij de publiciteit begint — niet pas bij de notaris.\n• **Er circuleert een verouderde score.** De herindeling van 1 januari 2023 heeft de kaarten hertekend: een pand dat vroeger niet als overstromingsgevoelig stond aangeduid, kan nu score C of D hebben, en omgekeerd. Wie een oud rapport of de oude terminologie blijft gebruiken, informeert de koper fout.\n• **Het overstromingssymbool bij klasse D wordt weggelaten** omdat het 'afschrikt'. Precies daar kijkt een ontevreden koper achteraf als eerste naar.\n\nHet decreet integraal waterbeleid koppelt aan de informatieplicht geen automatische nietigheid, maar dat maakt de schending niet vrijblijvend. Een koper die kan aantonen dat hij verkeerd of niet werd geïnformeerd, kan via het gemeen recht **dwaling of bedrog** inroepen en de vernietiging van de koop of een schadevergoeding — in de praktijk vaak een prijsvermindering — vorderen. Ook uw notaris laat een dossier zonder correct overstromingsrapport niet zomaar passeren, wat het traject tussen compromis en akte vertraagt. Correct en volledig melden is dus niet alleen verplicht, het is ook uw beste bescherming tegen discussies achteraf.",
+      },
+      {
+        heading: "Overstromingsgevoelig pand verkopen zonder maandenlange onzekerheid",
+        body: "Op de klassieke markt is een score C of D een handicap die u niet wegmoffelt: het symbool staat in uw zoekertje, verzekeraars rekenen en banken stellen vragen. Het gevolg is voorspelbaar — minder bezoekers, voorzichtige biedingen en een verkoop die aansleept.\n\nEr bestaat een alternatief. wijkopenpanden.be kent de waterscores van de Antwerpse wijken en koopt ook overstromingsgevoelige panden aan, **in de huidige staat**. U vraagt een gratis en vrijblijvend bod aan en krijgt binnen 2 uur reactie, ook in het weekend. Een bezoek volgt doorgaans binnen 48 uur, waarna u een schriftelijk gemotiveerd bod ontvangt: u ziet zwart op wit hoe de P- en G-score in de prijs is verrekend, in plaats van te gissen wat kopers er stilzwijgend voor aftrekken. De aankoop gebeurt met eigen middelen — geen financieringsvoorwaarde die afspringt omdat een bank het waterrisico te hoog vindt — en zonder makelaarscommissie. De akte volgt doorgaans 2 à 3 maanden na akkoord.\n\nVergelijken kost niets: vraag het bod aan, leg het naast een schatting voor de klassieke markt en beslis met volledige kennis van zaken. Ook met een score D hoeft uw verkoop geen jaar te duren.",
+      },
+    ],
+    relatedArticles: ["verborgen-gebreken-woning-verkoop-belgie", "bodemattest-vlaanderen-verkoop", "stedenbouwkundige-overtreding-woning-verkopen", "compromis-verkoop-woning-belgie", "woning-staat-al-maanden-te-koop", "keuringen-bij-verkoop-woning"],
+    relatedSituations: ["verkopen-zonder-makelaar", "opknappand-verkopen"],
+    faqs: [
+      {
+        question: "Moet ik de P- en G-score ook vermelden als beide klasse A zijn?",
+        answer:
+          "Ja. Sinds 1 januari 2023 vermeldt u de P-score en de G-score in de publiciteit, ongeacht de klasse. Een dubbele A is bovendien een verkoopargument: het stelt kopers meteen gerust over verzekering en risico. Het overstromingssymbool is enkel verplicht wanneer een score in klasse D valt. In het compromis en de akte komt de informatie sowieso altijd terug via de waterparagraaf.",
+      },
+      {
+        question: "Waar vind ik de overstromingsscore van mijn woning?",
+        answer:
+          "Op waterinfo.be/informatieplicht zoekt u gratis de P-score van uw perceel en de G-score van elk gebouw groter dan 25 m² op. U kunt er ook een volledig overstromingsrapport genereren met alle detailinformatie — dat document heeft uw notaris nodig voor de waterparagraaf in compromis en akte. Gebruik altijd een recent rapport, want de scores volgen de actuele watertoetskaarten.",
+      },
+      {
+        question: "Kan ik een slechte G-score of P-score laten verbeteren?",
+        answer:
+          "Soms wel. Een door de Vlaamse Milieumaatschappij erkend deskundige kan na een plaatsbezoek een overstromingsattest opstellen dat de score bijstelt, bijvoorbeeld omdat u waterwerende maatregelen nam zoals terugslagkleppen, verhoogde drempels of een waterdichte kelder. Het attest kan de score alleen verbeteren als het werkelijke risico aantoonbaar lager ligt dan de modellen aangeven. Bij een geplande verkoop kan dat een zinvolle investering zijn.",
+      },
+      {
+        question: "Kan de koper van mijn overstromingsgevoelige woning zich nog verzekeren?",
+        answer:
+          "Ja, de dekking tegen natuurrampen — inclusief overstroming — zit verplicht in elke Belgische brandverzekering. In een officiële risicozone mag de verzekeraar wel een hogere premie of vrijstelling aanrekenen; het Tariferingsbureau Natuurrampen dient dan als vangnet met maximumvoorwaarden. Enkel voor gebouwen die meer dan 18 maanden na de aanwijzing van de risicozone werden opgericht, mag de dekking geweigerd worden.",
+      },
+      {
+        question: "Wat riskeer ik als ik de overstromingsscore niet vermeld?",
+        answer:
+          "Het decreet voorziet geen automatische nietigheid, maar een koper die verkeerd of niet geïnformeerd werd, kan dwaling of bedrog inroepen en de vernietiging van de koop of een schadevergoeding vorderen — in de praktijk vaak een prijsvermindering. Daarnaast blokkeert of vertraagt een onvolledig dossier het verlijden van de akte. Correct melden in zoekertje, compromis en akte is dus ook uw eigen bescherming.",
+      },
+      {
+        question: "Koopt wijkopenpanden.be ook woningen met een score D?",
+        answer:
+          "Ja. Een hoge P- of G-score is voor ons geen reden om af te haken: wij kopen panden in de huidige staat, ook in overstromingsgevoelig gebied. U ontvangt een schriftelijk gemotiveerd bod waarin de waterscore transparant verrekend zit, betaald uit eigen middelen en zonder makelaarscommissie. Reactie volgt binnen 2 uur, een bezoek doorgaans binnen 48 uur, en de akte meestal 2 à 3 maanden na akkoord.",
+      },
+    ],
+  },
+  {
+    slug: "huis-verkopen-met-zonnepanelen",
+    title: "Huis verkopen met zonnepanelen: wat gaat mee, wat mag u vragen en welke documenten heeft de koper nodig?",
+    metaTitle: "Huis verkopen met zonnepanelen: regels, waarde en documenten (2026) | wijkopenpanden.be",
+    metaDescription:
+      "Huis verkopen met zonnepanelen? De panelen horen juridisch bij de woning en de certificaten gaan mee. Documenten, meerwaarde en overdracht bij Fluvius.",
+    publishedAt: "2026-07-02",
+    updatedAt: "2026-07-02",
+    intro:
+      "Wie vandaag een woning met zonnepanelen verkoopt, verkoopt meer dan alleen stenen: op het dak ligt een installatie die de energiefactuur drukt, het EPC-label verbetert en voor kopers een concreet verkoopargument is. Toch zorgt net die installatie geregeld voor discussie. Horen de panelen automatisch bij de verkoop? Mag u er een meerprijs voor vragen, en hoeveel dan? Wat gebeurt er met groenestroomcertificaten van een oudere installatie, en moet u een premie terugbetalen? En welke documenten verwacht de koper — of diens notaris — op tafel? In dit artikel zetten we de juridische regels, de geverifieerde cijfers over meerwaarde en de praktische overdracht bij Fluvius op een rij, zodat u zonder losse eindjes verkoopt.",
+    sections: [
+      {
+        heading: "Zonnepanelen horen juridisch bij de woning — tenzij u iets anders afspreekt",
+        body: "Zonnepanelen die op of in het dak gemonteerd zijn, zijn **onroerend door incorporatie**: ze zijn duurzaam met het gebouw verbonden en kunnen niet zonder schade verwijderd worden. Juridisch gevolg: verkoopt u uw woning, dan verkoopt u de panelen mee, ook als het compromis er met geen woord over rept. De koper mag er dus van uitgaan dat de installatie in de prijs zit, tenzij uitdrukkelijk anders overeengekomen.\n\nWilt u de panelen tóch meenemen of apart verkopen? Dat kan alleen als het zwart op wit in de verkoopovereenkomst staat, en de notaris neemt die afspraak dan op in de akte. Weet wel dat een verhuis van de installatie zelden loont: u betaalt demontage, transport, heropbouw en een nieuwe keuring, en u moet de volledige installatie (panelen, omvormer én productiemeter) meenemen.\n\nEén uitzondering verdient extra aandacht: panelen die u **huurt, least of via derdepartijfinanciering** liet plaatsen, zijn vaak geen volle eigendom. Meld dat altijd vooraf aan de koper en regel de overname of afkoop van het contract vóór het compromis — verzwijgen leidt tot discussies of zelfs aansprakelijkheid achteraf.",
+      },
+      {
+        heading: "Wat zijn uw zonnepanelen waard bij verkoop? De cijfers achter de meerwaarde",
+        body: "Zonnepanelen verkopen niet als een los toestel maar via hun effect op het **EPC-label**. Een correct geregistreerde PV-installatie verlaagt de EPC-score doorgaans met 50 tot 200 kWh/m² per jaar, afhankelijk van het woningtype, de dakoriëntatie en het vermogen. Dat kan het verschil betekenen tussen label C en label B — en dat verschil is meetbaar in euro's.\n\nOnderzoek van de KU Leuven naar het effect van het EPC op verkoopprijzen in Vlaanderen toont dat woningen met de beste energiescores tot bijna 11% duurder verkocht worden dan vergelijkbare woningen met een slechte score. Onderzoekers van de Nationale Bank, KU Leuven en UAntwerpen berekenden zelfs dat woningen met label A gemiddeld 22,6% meer waard zijn dan vergelijkbare woningen met label D. Bovendien verkopen energiezuinige woningen sneller.\n\nRealistisch blijven is wel de boodschap: een koper betaalt geen euro-per-euro vergoeding voor uw investering van tien jaar geleden. De panelen tellen mee via het label, de lagere energiefactuur en de resterende levensduur van panelen (25 à 30 jaar) en omvormer (10 à 15 jaar). Laat uw EPC dus opmaken ná registratie van de installatie, anders verkoopt u uw sterkste troef onder de prijs.",
+      },
+      {
+        heading: "Terugdraaiende teller is verleden tijd: wat mag u nog beloven?",
+        body: "Jarenlang was \"gratis stroom dankzij de terugdraaiende teller\" hét verkoopargument bij zonnepanelen. Dat argument is uitgedoofd. Sinds 2025 zijn eigenaars van zonnepanelen verplicht een **digitale meter** te laten plaatsen, en Fluvius rondde die ombouw bij prosumenten eind 2025 af. Een digitale meter draait niet terug: wat u injecteert, wordt apart geteld en vergoed via een (bescheiden) terugleververgoeding van uw energieleverancier.\n\nVoor de verkoop betekent dat concreet:\n\n• Beloof een koper **nooit** dat de teller terugdraait — de nieuwe eigenaar start sowieso met een digitale meter en een eigen energiecontract.\n\n• Het echte financiële voordeel zit vandaag in **zelfverbruik**: stroom rechtstreeks gebruiken wanneer de zon schijnt, eventueel aangevuld met een thuisbatterij of slimme sturing. Dát is het verhaal dat u eerlijk kunt vertellen.\n\n• De retroactieve investeringspremie (tot 3.750 euro) die eigenaars van oudere installaties compenseerde voor het verlies van de terugdraaiende teller, moest uiterlijk eind 2025 aangevraagd worden en speelt bij een verkoop in 2026 geen rol meer.\n\nEen correcte voorstelling van zaken beschermt u ook juridisch: overdreven beloftes over opbrengst kunnen achteraf tegen u gebruikt worden.",
+      },
+      {
+        heading: "Groenestroomcertificaten: onlosmakelijk verbonden met de installatie",
+        body: "Heeft u een oudere installatie (in dienst genomen vóór 2013), dan ontvangt u mogelijk nog **groenestroomcertificaten** (GSC) per 1.000 kWh geproduceerde stroom. Goed om weten: die certificaten zijn volgens Fluvius \"onlosmakelijk verbonden met de installatie\", niet met u als persoon.\n\nBij verkoop van de woning gaan het recht op certificaten en de resterende looptijd dus automatisch over op de nieuwe eigenaar. De toekenning loopt gewoon door; alleen de begunstigde verandert. Wat u praktisch moet doen:\n\n1. Meld de eigendomsoverdracht via **Mijn Fluvius** (rubriek groene stroom), met de gegevens van de nieuwe eigenaar.\n\n2. Geef de **meterstand van de productiemeter** door op de dag van de overdracht — meestal de aktedatum. Certificaten voor productie tot die stand zijn nog voor u; alles erna is voor de koper.\n\n3. De nieuwe eigenaar krijgt daarna zijn eigen toegang en ontvangt de volgende uitbetalingen op zijn rekeningnummer.\n\nVerkoopt u een woning met zo'n oudere installatie, vermeld de resterende certificatenwaarde dan expliciet in uw prijszetting: voor kopers is een gegarandeerde jaarlijkse vergoeding een becijferbaar voordeel.",
+      },
+      {
+        heading: "Welke documenten verwacht de koper? De checklist",
+        body: "Een koper (en zijn bank of notaris) wil kunnen nagaan of de installatie veilig, aangemeld en rendabel is. Verzamel deze documenten vóór het compromis — het voorkomt vertraging tussen compromis en akte.\n\nBelangrijkste aandachtspunt is het **AREI-keuringsattest**. Zonnepanelen zijn een uitbreiding van de elektrische installatie en moesten bij plaatsing verplicht gekeurd worden door een erkend keuringsorganisme. Een positief attest blijft 25 jaar geldig zolang de installatie niet ingrijpend wijzigt. Kunt u het niet meer terugvinden, vraag dan een duplicaat op bij het keuringsorganisme of laat een herkeuring uitvoeren (reken op zo'n 135 à 175 euro). Daarnaast controleert de koper best of de installatie effectief bij Fluvius is aangemeld — een verrassend vaak vergeten stap bij doe-het-zelf-installaties.",
+        table: {
+          headers: ["Document", "Waarom nodig", "Waar te vinden"],
+          rows: [
+            ["AREI-keuringsattest zonnepanelen", "Bewijst dat de installatie veilig gekeurd werd; 25 jaar geldig", "Erkend keuringsorganisme (duplicaat mogelijk) of dossier installateur"],
+            ["Bewijs van aanmelding bij Fluvius", "Zonder aanmelding geen correcte registratie en geen certificaten", "Mijn Fluvius of bevestigingsmail installateur"],
+            ["EPC met geregistreerde PV-installatie", "Zonnepanelen verbeteren het label en dus de vraagprijs", "Energiedeskundige; controleer op energiesparen.be"],
+            ["Factuur en garantiebewijzen panelen en omvormer", "Fabrieksgarantie (vaak 10-25 jaar) is overdraagbaar en waardevol", "Installateur of eigen administratie"],
+            ["Handleiding en documentatie omvormer", "Nieuwe eigenaar moet opbrengst kunnen monitoren en storingen melden", "Installateur of website fabrikant"],
+            ["Meterstand productiemeter op aktedatum", "Nodig voor overdracht groenestroomcertificaten (oudere installaties)", "Productiemeter zelf; doorgeven via Mijn Fluvius"],
+            ["Leasing- of huurkoopcontract (indien van toepassing)", "Panelen in derdepartijfinanciering zijn geen volle eigendom", "Contractpartij (energiebedrijf of financier)"],
+          ],
+        },
+      },
+      {
+        heading: "Premies: moet u iets terugbetalen bij verkoop?",
+        body: "Het korte antwoord: **bij een gewone verkoop meestal niet**. De Vlaamse zonnepanelenpremie via Fluvius gold voor installaties die tussen 1 januari 2021 en 31 december 2023 werden gekeurd (in 2021-2022 tot 1.500 euro, in 2023 tot 750 euro). De kernvoorwaarde is dat de installatie de eerste vijftien jaar na de indienstneming **niet verplaatst wordt naar een ander perceel**. Verkoopt u de woning mét de panelen op het dak, dan blijft de installatie op hetzelfde perceel en is er niets aan de hand: u betaalt niets terug.\n\nAnders wordt het als u de panelen zou demonteren en meenemen binnen die vijftienjarige periode: wie niet meer aan de voorwaarden voldoet, moet de premie terugbetalen. Ook dat is dus een argument om de installatie gewoon mee te verkopen.\n\nNog twee nuances. Zonnepanelen vallen níet onder Mijn VerbouwPremie — die dekt wel isolatie, ramen, warmtepompen en zonneboilers, met eigen voorwaarden per maatregel. En de premies die u ooit ontving, hoeft u niet te verrekenen met de koper: ze verlagen hoogstens de investeringswaarde die u redelijkerwijs in uw vraagprijs kunt doorrekenen.",
+      },
+      {
+        heading: "Veelgemaakte fouten — en hoe u zonder losse eindjes verkoopt",
+        body: "De klassieke valkuilen bij een verkoop met zonnepanelen zijn vermijdbaar:\n\n• **Installatie nooit aangemeld bij Fluvius**: geen registratie betekent problemen bij de overdracht en mogelijk discussie over de conformiteit. Regulariseer vóór de verkoop.\n\n• **EPC opgemaakt zonder de panelen**: uw label is dan slechter dan de realiteit en u onderhandelt vanuit een te lage waardering.\n\n• **Geleasede panelen verzwijgen**: de koper ontdekt na de akte dat een derde partij eigenaar is — een recept voor conflicten.\n\n• **Certificaten en eigendomsoverdracht vergeten**: zonder melding en meterstand blijven uitbetalingen naar de verkeerde persoon lopen.\n\n• **Verouderde beloftes doen** over terugdraaiende tellers of rendementen die niet meer gelden.\n\nVerkoopt u liever zonder dat hele administratieve traject zelf te trekken? Bij wijkopenpanden.be wordt uw installatie gewoon mee verrekend in een **schriftelijk gemotiveerd bod**: u ziet zwart op wit hoe de zonnepanelen en het EPC-label meetellen in de totaalwaardering. U ontvangt binnen 2 uur reactie — ook in het weekend — en doorgaans binnen 48 uur een bezoek. Wij kopen in huidige staat, betalen uit eigen middelen, rekenen geen makelaarscommissie en coördineren de attesten met de notaris; de akte volgt doorgaans 2 à 3 maanden na akkoord. Zo verkoopt u met panelen op het dak, maar zonder losse eindjes met certificaten of overdrachten. Een bod aanvragen is gratis en vrijblijvend.",
+      },
+    ],
+    relatedArticles: ["epc-attest-antwerpen", "keuringen-bij-verkoop-woning", "energie-renovatieplicht-vlaanderen-2026", "compromis-verkoop-woning-belgie", "wat-is-mijn-woning-waard-antwerpen", "verkoop-kosten-berekenen"],
+    relatedSituations: ["verkopen-zonder-makelaar", "huis-verkopen-bij-erfenis"],
+    faqs: [
+      {
+        question: "Horen zonnepanelen automatisch bij de verkoop van mijn huis?",
+        answer:
+          "Ja. Panelen die vast op het dak gemonteerd zijn, zijn onroerend door incorporatie en horen bij de woning. Zegt het compromis er niets over, dan mag de koper ervan uitgaan dat ze in de prijs zitten. Wilt u ze meenemen of apart verkopen, dan moet dat uitdrukkelijk in de verkoopovereenkomst staan en neemt de notaris het op in de akte.",
+      },
+      {
+        question: "Hoeveel meerwaarde geven zonnepanelen bij de verkoop van een woning?",
+        answer:
+          "Zonnepanelen verlagen de EPC-score doorgaans met 50 tot 200 punten, wat vaak een labelverschil oplevert. Onderzoek van de KU Leuven toont dat woningen met de beste energiescores tot bijna 11% duurder verkopen; volgens onderzoek van de Nationale Bank, KU Leuven en UAntwerpen is een woning met label A gemiddeld 22,6% meer waard dan een vergelijkbare woning met label D. Reken dus op meerwaarde via het label, niet op een euro-per-euro terugverdieneffect.",
+      },
+      {
+        question: "Gaan mijn groenestroomcertificaten over op de nieuwe eigenaar?",
+        answer:
+          "Ja. Groenestroomcertificaten zijn onlosmakelijk verbonden met de installatie, niet met de persoon. Bij verkoop van de woning loopt de toekenning gewoon door en gaat het recht op certificaten over op de koper. U meldt de eigendomsoverdracht via Mijn Fluvius en geeft de meterstand van de productiemeter door op de dag van de overdracht; vanaf dan ontvangt de nieuwe eigenaar de certificaten.",
+      },
+      {
+        question: "Moet ik mijn zonnepanelenpremie terugbetalen als ik verkoop?",
+        answer:
+          "Bij een gewone verkoop niet. De voorwaarde van de Fluvius-premie (voor installaties gekeurd tussen 2021 en 2023) is dat de installatie de eerste vijftien jaar niet naar een ander perceel verhuist. Verkoopt u de woning mét de panelen, dan blijft alles op hetzelfde perceel en betaalt u niets terug. Demonteert u de panelen en neemt u ze mee, dan kan terugvordering wél aan de orde zijn.",
+      },
+      {
+        question: "Welk keuringsattest heeft de koper nodig voor de zonnepanelen?",
+        answer:
+          "Het AREI-keuringsattest van de installatie. Zonnepanelen zijn een uitbreiding van de elektrische installatie en moesten bij plaatsing gekeurd worden door een erkend organisme. Een positief attest blijft 25 jaar geldig zolang er geen grote wijzigingen gebeuren. Bent u het kwijt, vraag dan een duplicaat bij het keuringsorganisme of laat een herkeuring uitvoeren, doorgaans voor 135 à 175 euro.",
+      },
+      {
+        question: "Krijgt de koper nog een terugdraaiende teller?",
+        answer:
+          "Nee. Sinds 2025 is een digitale meter verplicht voor eigenaars van zonnepanelen en de ombouw bij prosumenten is afgerond. Een digitale meter draait niet terug: geïnjecteerde stroom wordt apart geteld en vergoed via een terugleververgoeding van de energieleverancier. Het financiële voordeel voor de koper zit vooral in zelfverbruik, een lagere energiefactuur en het betere EPC-label — beloof dus geen gratis stroom.",
+      },
+    ],
+  },
+  {
+    slug: "huis-verkopen-binnen-5-jaar",
+    title: "Huis verkopen binnen 5 jaar na aankoop: dit betaalt u aan belastingen en kosten",
+    metaTitle: "Huis verkopen binnen 5 jaar: belastingen en kosten (2026) | wijkopenpanden.be",
+    metaDescription:
+      "Huis verkopen binnen 5 jaar na aankoop? Wanneer 16,5% meerwaardebelasting speelt, hoe u 3/5 van het verkooprecht terugvraagt en wat uw hypotheek kost.",
+    publishedAt: "2026-07-02",
+    updatedAt: "2026-07-02",
+    intro:
+      "Een huis verkopen binnen 5 jaar na aankoop: het overkomt meer mensen dan u denkt. Een scheiding, jobverlies, een verhuis voor het werk of een aankoop die achteraf tegenvalt — plots moet de woning weer de markt op, terwijl de aankoopkosten amper verteerd zijn. De vraag is dan niet alleen wat de woning opbrengt, maar vooral wat er netto overblijft. Vier posten bepalen die rekening: de meerwaardebelasting van 16,5% (met een belangrijke vrijstelling voor de eigen woning), de mogelijke teruggave van een deel van het verkooprecht bij verkoop binnen 2 jaar, de kosten om uw hypotheek vervroegd af te lossen, en de klassieke transactiekosten. In dit artikel rekenen we elke post concreet uit, met een stap-voor-stap voorbeeld.",
+    sections: [
+      {
+        heading: "De vier kostenposten bij een snelle wederverkoop",
+        body: "Wie kort na aankoop weer verkoopt, betaalt in het slechtste geval vier keer: aan de fiscus, aan de bank, aan de notaris en aan de tussenpersoon. Zet ze op een rij voor u een beslissing neemt:\n\n• **Meerwaardebelasting**: 16,5% (plus gemeentebelasting) op de belastbare meerwaarde als u een gebouw met winst verkoopt binnen 5 jaar na aankoop — maar de eigen gezinswoning is vrijgesteld.\n• **Verkooprecht dat u kunt terugvragen**: verkoopt u binnen 2 jaar na aankoop, dan kunt u in Vlaanderen 3/5 van het betaalde verkooprecht recupereren — een meevaller in plaats van een kost, al gelden er voorwaarden.\n• **Hypotheekkosten**: wederbeleggingsvergoeding (maximaal 3 maanden intrest) plus de handlichting van de hypothecaire inschrijving.\n• **Transactiekosten**: makelaarscommissie, verplichte keuringen en attesten, publiciteit. Een overzicht van alle attesten vindt u in ons artikel over keuringen bij verkoop.\n\nDe eerste twee posten hangen volledig af van het type pand en de timing. Daar beginnen we.",
+      },
+      {
+        heading: "Meerwaardebelasting: 16,5%, maar niet op uw eigen woning",
+        body: "Verkoopt u een **gebouw** met winst binnen 5 jaar na de aankoopakte, dan belast de fiscus die meerwaarde als divers inkomen aan **16,5%**, te verhogen met de aanvullende gemeentebelasting van uw gemeente (vaak 6 à 9% op de belasting, waardoor u effectief richting 17,5 à 18% gaat). Na 5 jaar is de meerwaarde op een gebouw volledig belastingvrij.\n\nDe belangrijkste uitzondering meteen: **uw eigen gezinswoning is vrijgesteld**, ook als u ze al na één of twee jaar weer verkoopt. Voorwaarde is dat de woning gedurende een **ononderbroken periode van minstens 12 maanden** vóór de verkoop uw eigen woning was. Tussen die bewoningsperiode en de maand van verkoop mag bovendien nog maximaal 6 maanden zitten — in de praktijk komt het er dus op neer dat de woning 12 maanden lang uw eigen woning was binnen de 18 maanden vóór de verkoop. Wie zijn gezinswoning verkoopt na een scheiding of verhuis, hoeft dus meestal **geen** meerwaardebelasting te vrezen.\n\nDe keerzijde van die vrijstelling: verkoopt u uw eigen woning binnen 5 jaar **met verlies** — bijvoorbeeld omdat u destijds op de piek kocht — dan is dat verlies fiscaal niet aftrekbaar. De vrijstelling werkt in twee richtingen: geen belasting op winst, geen aftrek van verlies.\n\nVoor **bouwgrond** gelden strengere regels: 33% (plus gemeentebelasting) bij verkoop binnen 5 jaar, en nog 16,5% bij verkoop tussen 5 en 8 jaar na aankoop.",
+      },
+      {
+        heading: "Rekenvoorbeeld: tweede verblijf verkocht na 3 jaar",
+        body: "De fiscus belast niet zomaar het verschil tussen aankoop- en verkoopprijs. Twee forfaits verzachten de rekening aanzienlijk. Stel: u kocht drie jaar geleden een appartement als tweede verblijf voor **200.000 euro** en verkoopt het nu voor **320.000 euro**, met 10.000 euro verkoopkosten (commissie, publiciteit).\n\n1. **Verkoopprijs corrigeren**: 320.000 euro min de verkoopkosten van 10.000 euro = 310.000 euro.\n2. **Aankoopprijs verhogen met het kostenforfait**: 200.000 euro + 25% forfait (50.000 euro) = 250.000 euro. Waren uw werkelijke aankoopkosten (registratiebelasting, notaris) hoger dan 25%, dan mag u die bewijzen.\n3. **Verhoging per jaar bezit**: 5% van de verhoogde aankoopprijs per volledig jaar tussen aankoop en verkoop. Hier: 3 × 12.500 euro = 37.500 euro. Totaal: 287.500 euro.\n4. **Renovatiefacturen toevoegen**: werken uitgevoerd door een geregistreerde aannemer mag u hier nog bij optellen. In dit voorbeeld: geen.\n5. **Belastbare meerwaarde**: 310.000 − 287.500 = **22.500 euro**.\n6. **Belasting**: 16,5% van 22.500 euro = **3.712,50 euro**, plus gemeentebelasting.\n\nOpvallend: hoewel de brutowinst 120.000 euro bedraagt, blijft er door de forfaits maar 22.500 euro belastbaar over. Bij kleinere winsten valt de belastbare meerwaarde vaak zelfs op nul. Reken dus altijd eerst, voor u zich blindstaart op '16,5% op de winst'. Meer achtergrond leest u in ons artikel over de meerwaardebelasting op een tweede verblijf.",
+      },
+      {
+        heading: "Overzicht: wat betaalt u bij verkoop binnen 5 jaar?",
+        body: "Onderstaande tabel vat samen wanneer de meerwaardebelasting speelt, per type pand en per termijn. De termijn loopt telkens van authentieke aankoopakte tot authentieke verkoopakte.",
+        table: {
+          headers: ["Situatie", "Verkoop binnen 5 jaar", "Verkoop na 5 jaar", "Aandachtspunt"],
+          rows: [
+            ["Eigen gezinswoning", "Geen meerwaardebelasting (mits 12 maanden bewoning)", "Geen meerwaardebelasting", "Verlies is niet aftrekbaar"],
+            ["Tweede verblijf of opbrengstpand", "16,5% + gemeentebelasting op de belastbare meerwaarde", "Geen meerwaardebelasting", "Forfaits (25% + 5%/jaar) verlagen de rekening fors"],
+            ["Bouwgrond", "33% + gemeentebelasting", "16,5% tussen jaar 5 en 8, daarna 0%", "Termijn loopt hier tot 8 jaar"],
+            ["Geërfde woning", "Geen 16,5%-heffing (verkrijging om niet)", "Geen meerwaardebelasting", "Verkoop binnen 2 jaar boven de aangegeven waarde kan tot bijkomende erfbelasting leiden"],
+            ["Geschonken woning", "16,5% als u verkoopt binnen 3 jaar na de schenking én binnen 5 jaar na de aankoop door de schenker", "Geen meerwaardebelasting", "De aankoopdatum van de schenker telt mee"],
+          ],
+        },
+      },
+      {
+        heading: "Verkoop binnen 2 jaar: vraag 3/5 van het verkooprecht terug",
+        body: "Hier zit het goede nieuws. Wie in Vlaanderen een woning koopt, betaalt sinds 1 januari 2025 **2% verkooprecht** voor de enige eigen woning en **12%** voor elk ander vastgoed (de meeneembaarheid van vroeger betaalde rechten is intussen afgeschaft; vanaf 2026 zijn de voorwaarden voor het 2%-tarief bovendien verstrengd, met onder meer een jaar ononderbroken domicilie).\n\nVerkoopt u datzelfde pand opnieuw **binnen 2 jaar** — gerekend van authentieke akte tot authentieke akte, de compromisdatum telt niet — dan kunt u **3/5 van het betaalde verkooprecht terugvorderen**. Betaalde u bij aankoop 12% op 250.000 euro (30.000 euro), dan recupereert u 18.000 euro. Let wel: verkoopt u aan een lagere prijs dan u kocht, dan wordt de teruggave op die lagere prijs berekend.\n\nTwee belangrijke nuances:\n\n• De teruggave geldt enkel voor aankopen aan het **standaardtarief van 12%**. Kocht u aan het verlaagd tarief van 2% (of vroeger 3%), dan is teruggave technisch mogelijk maar zinloos: u moet eerst aanvullende rechten tot 12% bijbetalen en krijgt daarna 7,2% terug — netto verliest u daaraan.\n• De teruggave gebeurt **niet automatisch**. U vraagt ze aan via een gemotiveerd verzoek; in de praktijk neemt de notaris dat gewoon op in de verkoopakte.\n\nVooral wie een tweede verblijf of investeringspand snel weer moet verkopen, haalt hier dus een flink stuk van de aankoopkosten terug.",
+      },
+      {
+        heading: "Uw hypotheek vervroegd aflossen: wederbeleggingsvergoeding en handlichting",
+        body: "Loopt er nog een woonkrediet op het pand, dan wil de bank bij verkoop het openstaande kapitaal terug — plus een vergoeding. Die **wederbeleggingsvergoeding** is wettelijk begrensd op **3 maanden intrest** op het vervroegd terugbetaalde kapitaal. Concreet: bij een openstaand saldo van 150.000 euro aan 3% betaalt u maximaal zo'n 1.125 euro (150.000 × 3% ÷ 4).\n\nDaarnaast moet de hypothecaire inschrijving geschrapt worden via een **handlichting** (doorhaling). Dat gebeurt bij notariële akte en kost doorgaans **700 à 1.000 euro**, afhankelijk van het ingeschreven bedrag. Die kosten zijn voor de verkoper: de koper wil uiteraard een pand vrij van inschrijvingen. Hoe dat hele traject verloopt, leest u in ons artikel over een huis verkopen met hypotheek.\n\nTel daarbij de gewone verkoopkosten — EPC, elektrische keuring, bodemattest, eventueel makelaarscommissie van 3% of meer — en de rekening van een snelle wederverkoop wordt duidelijk. Twee veelgemaakte denkfouten tot slot:\n\n• **Onnodige paniek**: veel eigenaars denken dat de 5-jaarsregel ook voor hun eigen gezinswoning geldt en stellen een noodzakelijke verkoop uit. Onterecht: de vrijstelling dekt vrijwel elke normale gezinssituatie.\n• **De heffing vergeten bij een tweede pand**: wie een geschonken woning of een opbrengstpand snel verkoopt, wordt soms verrast door de 16,5%-heffing. Bij een **erfenis** speelt die heffing dan weer niet — u verkreeg het pand om niet — maar een verkoop binnen 2 jaar boven de waarde uit de aangifte van nalatenschap kan wel bijkomende erfbelasting uitlokken.",
+      },
+      {
+        heading: "Snel weer verkopen? Hou de rekening voorspelbaar",
+        body: "Wie binnen 5 jaar na aankoop moet verkopen, doet dat zelden uit luxe. Bij een scheiding, jobverlies of onverwachte verhuis draait alles om één vraag: **wat blijft er netto over, en wanneer?** De belastingregels hierboven liggen vast — daar valt weinig aan te optimaliseren behalve de timing. Wat u wél in de hand hebt, zijn de transactiekosten en de doorlooptijd.\n\nEen directe verkoop aan wijkopenpanden.be maakt die rekensom een stuk voorspelbaarder. Er is **geen makelaarscommissie**, u ontvangt een **schriftelijk gemotiveerd bod** en kent dus meteen het exacte nettobedrag — handig om naast uw openstaand kredietsaldo en de eventuele belasting te leggen. We reageren binnen 2 uur, ook in het weekend, komen doorgaans binnen 48 uur langs en kopen het pand in de huidige staat, met betaling uit eigen middelen. De akte volgt doorgaans 2 tot 3 maanden na akkoord — wat bij een verkoop binnen de 2 jaar ook telt om de teruggavetermijn van het verkooprecht te halen.\n\nHet bod is gratis en vrijblijvend. Vergelijken met een klassiek verkooptraject kan dus altijd — u beslist pas als alle cijfers op tafel liggen.",
+      },
+    ],
+    relatedArticles: ["meerwaardebelasting-tweede-verblijf-belgie", "belastingen-bij-woningverkoop", "huis-verkopen-met-hypotheek", "verkoop-kosten-berekenen", "notariskosten-woning-verkoop", "keuringen-bij-verkoop-woning"],
+    relatedSituations: ["huis-verkopen-bij-scheiding", "huis-verkopen-bij-erfenis"],
+    faqs: [
+      {
+        question: "Moet ik meerwaardebelasting betalen als ik mijn eigen huis binnen 5 jaar verkoop?",
+        answer:
+          "Nee, in de meeste gevallen niet. De eigen gezinswoning is vrijgesteld van de 16,5%-meerwaardebelasting, op voorwaarde dat ze gedurende een ononderbroken periode van minstens 12 maanden vóór de verkoop uw eigen woning was (met maximaal 6 maanden speling tot de verkoopmaand). De 5-jaarsregel treft vooral tweede verblijven, opbrengstpanden en bouwgrond — niet de woning waarin u zelf woont.",
+      },
+      {
+        question: "Hoeveel registratiebelasting krijg ik terug als ik binnen 2 jaar verkoop?",
+        answer:
+          "In Vlaanderen kunt u 3/5 van het betaalde verkooprecht terugvorderen als de verkoopakte binnen 2 jaar na de aankoopakte wordt verleden. Betaalde u 12% op 250.000 euro, dan recupereert u 18.000 euro. De teruggave geldt enkel bij het standaardtarief van 12%, gebeurt niet automatisch en wordt meestal door de notaris in de verkoopakte aangevraagd.",
+      },
+      {
+        question: "Ik verkoop mijn woning binnen 5 jaar met verlies. Kan ik dat verlies aftrekken?",
+        answer:
+          "Nee. De vrijstelling voor de eigen woning werkt in twee richtingen: winst wordt niet belast, maar een verlies is fiscaal ook niet aftrekbaar. Ook bij een tweede verblijf kunt u een minderwaarde niet verrekenen met andere inkomsten. Verkoopt u met verlies binnen 2 jaar, dan verzacht de teruggave van 3/5 van het verkooprecht de pijn wel gedeeltelijk.",
+      },
+      {
+        question: "Geldt de 5-jaarsregel ook voor een geërfde of geschonken woning?",
+        answer:
+          "Bij een erfenis niet: u verkreeg het pand om niet, dus de 16,5%-regeling speelt niet. Let wel op als u binnen 2 jaar verkoopt boven de waarde uit de aangifte van nalatenschap — dat kan bijkomende erfbelasting kosten. Bij een schenking geldt een bijzondere regel: verkoopt u binnen 3 jaar na de schenking én binnen 5 jaar nadat de schenker kocht, dan is de meerwaarde wél belastbaar aan 16,5%.",
+      },
+      {
+        question: "Wat kost het om mijn hypotheek stop te zetten bij een snelle verkoop?",
+        answer:
+          "U betaalt de bank een wederbeleggingsvergoeding van maximaal 3 maanden intrest op het openstaande kapitaal — bij 150.000 euro aan 3% is dat zo'n 1.125 euro. Daarnaast kost de handlichting (schrapping van de hypothecaire inschrijving) via de notaris doorgaans 700 à 1.000 euro. Beide kosten zijn voor de verkoper en komen bovenop het terug te betalen kredietsaldo.",
+      },
+      {
+        question: "Hoe berekent de fiscus de meerwaarde op een tweede verblijf?",
+        answer:
+          "Niet op de brutowinst. De verkoopprijs wordt eerst verminderd met de verkoopkosten. De aankoopprijs wordt verhoogd met een forfait van 25% (of de hogere werkelijke kosten), plus 5% per volledig jaar bezit, plus facturen van een geregistreerde aannemer. Alleen het verschil dat dan overblijft, wordt belast aan 16,5% plus gemeentebelasting. Bij beperkte winst valt de belastbare basis daardoor vaak op nul.",
+      },
+    ],
+  },
+  {
+    slug: "woning-verkopen-vanuit-buitenland",
+    title: "Uw Belgische woning verkopen vanuit het buitenland: volmacht, digitale akte en fiscale aandachtspunten",
+    metaTitle: "Woning verkopen vanuit het buitenland (2026) | wijkopenpanden.be",
+    metaDescription:
+      "Woning in België verkopen terwijl u in het buitenland woont? Zo regelt u volmacht, digitale akte via videoconferentie, apostille en de fiscale afhandeling als niet-inwoner.",
+    publishedAt: "2026-07-02",
+    updatedAt: "2026-07-02",
+    intro:
+      "Wie in het buitenland woont en een woning in België wil verkopen, botst al snel op een praktisch probleem: voor de notariële akte moet u in principe verschijnen bij de notaris. Toch hoeft u vandaag niet meer telkens het vliegtuig te nemen. Sinds 2020 bestaat de digitale volmacht via videoconferentie, en sinds 8 april 2024 kunnen de meeste notariële akten zelfs volledig digitaal ondertekend worden met eID of itsme. Wie geen Belgische eID heeft, kan terugvallen op een volmacht via een lokale notaris met apostille of legalisatie. Daarnaast gelden voor niet-rijksinwoners specifieke fiscale regels, met in bepaalde gevallen een inhouding door de notaris. Dit artikel zet de routes, de valkuilen en de fiscale aandachtspunten op een rij.",
+    sections: [
+      {
+        heading: "Wat kan op afstand — en waar knelt het?",
+        body: "Een woningverkoop in België verloopt in twee juridische stappen: de onderhandse verkoopovereenkomst (het compromis) en de notariële akte. Voor het compromis is fysieke aanwezigheid nooit vereist: het is een onderhands document dat u geldig elektronisch kunt ondertekenen, bijvoorbeeld via een beveiligd platform dat uw identiteit verifieert.\n\nDe notariële verkoopakte ligt anders. Die is een authentieke akte: u moet verschijnen voor de notaris, fysiek of — sinds de digitalisering van het notariaat — digitaal. Wie niet kan verschijnen, laat zich vertegenwoordigen door een volmachtdrager. En daar zit de belangrijkste valkuil voor verkopers in het buitenland: **een onderhandse volmacht (een gewoon ondertekend briefje) volstaat niet voor een notariële verkoopakte**. U hebt een authentieke volmacht nodig, dus een volmacht die zelf voor een notaris werd verleden. Wie dat te laat ontdekt, verliest weken.\n\nHou ook de timing in het oog: de akte moet binnen de vier maanden na het compromis verleden worden. Uw volmacht moet dus ruim vóór die deadline in orde zijn.",
+      },
+      {
+        heading: "Drie routes naar een geldige volmacht vanuit het buitenland",
+        body: "Er zijn in de praktijk drie manieren om vanuit het buitenland aan een authentieke volmacht te geraken.\n\n1. **De digitale volmacht via videoconferentie** bij een Belgische notaris. U verschijnt online, de notaris licht de volmacht én het ontwerp van de akte toe, en u ondertekent elektronisch. Dit is veruit de snelste route — maar ze vereist een Belgische eID met pincode of een actieve itsme-account.\n\n2. **Een volmacht bij een lokale notaris in uw woonland**, die daarna een apostille of legalisatie krijgt en zo nodig beëdigd vertaald wordt naar het Nederlands, Frans of Duits. Dit werkt overal, maar telt meerdere stappen en administraties.\n\n3. **Ondertekening op een Belgische ambassade of consulaat**, of bij een Belgische notaris tijdens een bezoek aan België. Consulaire posten hebben een notariële bevoegdheid, maar die is beperkt: binnen de EU verwijzen ze u doorgaans naar een lokale notaris, en buiten de EU verloopt alles via een ontwerp dat uw Belgische notaris eerst naar de FOD Buitenlandse Zaken stuurt. Reken op afspraaktermijnen en verplaatsing.",
+        table: {
+          headers: ["Route", "Voor wie", "Voordelen", "Nadelen", "Doorlooptijd (indicatief)"],
+          rows: [
+            ["Digitale volmacht via videoconferentie", "Wie een Belgische eID (met pincode) of itsme heeft", "Snelst, geen verplaatsing, notaris licht meteen de ontwerpakte toe", "Niet mogelijk zonder Belgische eID of itsme; stabiele internetverbinding en webcam nodig", "Enkele dagen tot 2 weken"],
+            ["Lokale notaris + apostille/legalisatie", "Iedereen, ook zonder Belgische eID", "Werkt wereldwijd, ook voor buitenlandse mede-eigenaars", "Apostille of legalisatieketen, vaak beëdigde vertaling; afstemming tussen twee notarissen", "2 tot 6 weken, soms langer"],
+            ["Belgisch consulaat of bezoek aan België", "Belgen buiten de EU, of wie toch naar België komt", "Belgische akte, geen apostille of vertaling nodig", "Beperkte consulaire dienstverlening, afspraak- en verzendtermijnen, verplaatsing", "Afhankelijk van agenda: weken tot maanden"],
+          ],
+        },
+      },
+      {
+        heading: "De digitale volmacht via videoconferentie: zo werkt het",
+        body: "De digitale volmacht bestaat sinds 2020 en is intussen een vaste waarde in het Belgische notariaat, via het beveiligde platform van de notarissen (Fednot). Het verloop is eenvoudig:\n\n1. Uw notaris bereidt de volmacht en het ontwerp van de verkoopakte voor.\n2. U krijgt een uitnodiging voor een videoconferentie. Tijdens dat gesprek identificeert u zich en licht de notaris zowel de volmacht als de ontwerpakte toe — u weet dus exact wat er in uw naam ondertekend zal worden.\n3. U ondertekent de authentieke volmacht elektronisch, met uw Belgische eID en pincode of via itsme.\n4. Op de dag van de akte tekent de volmachtdrager — meestal een medewerker van het notariskantoor of een vertrouwenspersoon — in uw plaats. U hoeft daar niet bij te zijn.\n\nSinds 8 april 2024 gaat de digitalisering nog verder: de meeste notariële akten, waaronder verkoopaktes, kunnen digitaal ondertekend worden met eID of itsme, ook wanneer partijen elk bij hun eigen notaris zitten en via videoconferentie verbonden zijn. Enkel testamenten en gelijkaardige uiterste wilsbeschikkingen blijven een handgeschreven handtekening vereisen.\n\n**De belangrijke beperking**: dit alles staat of valt met Belgische digitale identificatie. Een vervallen eID, een vergeten pincode of een nooit geactiveerde itsme-account betekent dat de digitale route afvalt. Controleer dit maanden vooraf — een nieuwe eID of pincode aanvragen vanuit het buitenland loopt via het consulaat en duurt.",
+      },
+      {
+        heading: "Apostille, legalisatie en beëdigde vertaling: het buitenlandse papierwerk",
+        body: "Kiest u voor een volmacht bij een notaris in uw woonland, dan is die volmacht pas bruikbaar in België na een extra stap. Woont u in een land dat partij is bij het Apostilleverdrag van Den Haag van 5 oktober 1961 — ruim 120 landen, waaronder de hele EU, het VK, de VS, Canada en Australië — dan volstaat één apostillestempel van de bevoegde autoriteit in dat land. Woont u in een land buiten het verdrag, dan geldt de zwaardere legalisatieketen via lokale autoriteiten en de Belgische ambassade.\n\nIs de volmacht niet opgesteld in het Nederlands, Frans of Duits, dan vraagt de Belgische notaris doorgaans ook een **beëdigde vertaling**. De juiste volgorde is: document laten opmaken in het woonland, daar laten apostilleren of legaliseren, en pas daarna laten vertalen.\n\nDenk verder aan de bewijsstukken die de notaris sowieso nodig heeft en die vanuit het buitenland trager binnenkomen: een leesbare identiteitskaart of paspoort, een recent attest van burgerlijke staat of woonst, en bij gehuwden het huwelijkscontract of huwelijksstelsel — dat stelsel bepaalt mee wie moet tekenen. Bent u mede-eigenaar met familieleden verspreid over meerdere landen, dan heeft élke verkoper een eigen geldige volmacht nodig.",
+      },
+      {
+        heading: "Fiscale aandachtspunten voor niet-inwoners",
+        body: "Wie fiscaal geen rijksinwoner meer is, valt bij de verkoop van Belgisch vastgoed onder de belasting niet-inwoners (BNI). De meerwaarderegels zijn dezelfde als voor inwoners, maar de inning verloopt anders.\n\n• **Verkoop binnen de speculatietermijn**: verkoopt u een gebouw binnen de 5 jaar na aankoop, dan is de meerwaarde belastbaar tegen 16,5%; voor gronden geldt 33% bij verkoop binnen de 8 jaar. Voor niet-inwoners wordt deze belasting als **bedrijfsvoorheffing ingehouden via de notaris** bij het verlijden van de akte. Ze werkt bevrijdend: u hoeft er geen BNI-aangifte meer voor in te dienen.\n\n• **Buiten de termijn en binnen het normale beheer van privévermogen**: dan is er, net zoals voor inwoners, geen meerwaardebelasting op deze grondslag verschuldigd.\n\n• **Speculatieve verrichtingen buiten het normale beheer**: daarvoor geldt een inhouding van 30,28% op het brutobedrag, eveneens als eindbelasting.\n\nDaarbovenop speelt uw woonland. Vrijwel alle dubbelbelastingverdragen wijzen de heffingsbevoegdheid over vastgoed toe aan het land waar het vastgoed ligt — België dus — maar uw woonland kan de verkoopopbrengst of meerwaarde in eigen regels betrekken (denk aan een vermogensbelasting of eigen meerwaardetaks). Laat dat lokaal aftoetsen.\n\nPraktisch nog dit: de notaris kan de netto verkoopprijs overschrijven naar een buitenlandse rekening op uw naam, maar voert daarbij strengere controles uit in het kader van de antiwitwaswetgeving. Geef uw rekeninggegevens (IBAN/BIC) vroeg door en verwacht bij niet-Europese rekeningen extra verificatie en mogelijk enkele dagen vertraging.",
+      },
+      {
+        heading: "Veelgemaakte fouten bij verkoop vanuit het buitenland",
+        body: "Dezelfde struikelblokken keren telkens terug:\n\n• **Een onderhandse volmacht opsturen** en ervan uitgaan dat de notaris die aanvaardt voor de akte. Voor de authentieke verkoopakte is een authentieke volmacht de regel — de notaris zal een gewoon ondertekend document weigeren.\n\n• **De apostille of legalisatie vergeten**, of de stappen in de verkeerde volgorde zetten (eerst vertalen, dan pas apostilleren — dat moet omgekeerd).\n\n• **De eID-pincode niet meer kennen** of een vervallen eID hebben, waardoor de digitale volmacht op het laatste moment afvalt en u alsnog via het lokale circuit moet.\n\n• **De timing onderschatten**: tussen compromis en akte liggen maximaal vier maanden. Wie pas na het compromis aan de volmacht begint en op een consulaire afspraak of legalisatie moet wachten, komt in tijdsnood.\n\n• **Het huwelijksstelsel negeren**: bent u in het buitenland gehuwd, dan kan uw partner mee moeten tekenen, ook als het pand alleen op uw naam staat.\n\n• **Niemand ter plaatse hebben** voor bezichtigingen, sleutels, keuringen en meteropnames. Op afstand een klassiek verkooptraject coördineren is voor veel eigenaars in het buitenland de echte bottleneck, meer nog dan het notariële luik.",
+      },
+      {
+        heading: "Verkopen vanuit het buitenland zonder eindeloos heen-en-weer",
+        body: "Het notariële luik is vandaag goed op afstand te regelen; het commerciële luik veel minder. Een klassieke verkoop betekent maandenlang bezichtigingen laten begeleiden en telkens iemand ter plaatse regelen — terwijl u in een andere tijdzone zit.\n\nEen directe verkoop beperkt het aantal bewegende delen. Bij wijkopenpanden.be verloopt dat zo: u vraagt een gratis en vrijblijvend bod aan en krijgt reactie binnen 2 uur, ook in het weekend. Wij plannen doorgaans binnen 48 uur één bezoek aan het pand — daarvoor volstaat één sleutelmoment via een buur of familielid. U ontvangt een schriftelijk, gemotiveerd bod, wij kopen in de huidige staat aan en betalen uit eigen middelen, zonder makelaarscommissie. De attesten coördineren wij samen met de notaris, en de volledige notariële afhandeling kan per volmacht verlopen — digitaal als u een Belgische eID of itsme hebt, anders via een gelegaliseerde volmacht uit uw woonland. De akte volgt doorgaans 2 tot 3 maanden na akkoord, ruim binnen de wettelijke termijn. Zo herleidt u een internationale verkoop tot een handvol duidelijke stappen, zonder één overbodige vlucht.",
+      },
+    ],
+    relatedArticles: ["verkoopbelofte-compromis-akte", "notariskosten-woning-verkoop", "belastingen-bij-woningverkoop", "meerwaardebelasting-tweede-verblijf-belgie", "erfenis-woning-stappenplan", "hoelang-duurt-huis-verkopen-belgie"],
+    relatedSituations: ["huis-verkopen-bij-erfenis", "verkopen-zonder-makelaar"],
+    faqs: [
+      {
+        question: "Kan ik mijn huis in België verkopen zonder zelf naar België te komen?",
+        answer:
+          "Ja. Het compromis kunt u elektronisch of per post ondertekenen, en voor de notariële akte geeft u een authentieke volmacht. Die volmacht regelt u via videoconferentie met een Belgische notaris (met eID of itsme), via een lokale notaris in uw woonland met apostille of legalisatie, of via een Belgisch consulaat buiten de EU. Op de aktedag tekent de volmachtdrager in uw plaats.",
+      },
+      {
+        question: "Volstaat een gewone geschreven volmacht voor de verkoopakte?",
+        answer:
+          "Nee. Voor een authentieke verkoopakte eist de notaris in de regel een authentieke volmacht, dus een volmacht die zelf voor een notaris werd verleden. Een onderhandse volmacht — een gewoon ondertekend document — wordt voor de akte geweigerd. Voor het onderhandse compromis kan een eenvoudige volmacht of elektronische handtekening wel volstaan.",
+      },
+      {
+        question: "Hoe werkt de digitale volmacht via videoconferentie precies?",
+        answer:
+          "De notaris nodigt u uit op het beveiligde videoplatform van het notariaat. Tijdens het gesprek identificeert u zich, licht de notaris de volmacht en de ontwerpakte toe, en ondertekent u elektronisch met uw Belgische eID en pincode of via itsme. Daarna tekent een volmachtdrager, vaak een notarismedewerker, de akte in uw plaats. Zonder Belgische eID of itsme is deze route niet mogelijk.",
+      },
+      {
+        question: "Wat is een apostille en wanneer heb ik die nodig?",
+        answer:
+          "Een apostille is een internationale echtheidsstempel op basis van het Apostilleverdrag van Den Haag (1961). Laat u uw volmacht opmaken bij een notaris in uw woonland, dan moet die volmacht geapostilleerd worden (of gelegaliseerd als uw land geen verdragsland is) vóór de Belgische notaris ze aanvaardt. Is de volmacht niet in het Nederlands, Frans of Duits opgesteld, dan komt daar meestal een beëdigde vertaling bij.",
+      },
+      {
+        question: "Betaal ik als niet-inwoner belasting op de verkoop van mijn Belgische woning?",
+        answer:
+          "Dezelfde meerwaarderegels gelden als voor inwoners: 16,5% bij verkoop van een gebouw binnen 5 jaar na aankoop, 33% voor grond binnen 8 jaar. Bij niet-inwoners houdt de notaris deze belasting als bedrijfsvoorheffing in bij de akte; ze werkt meestal bevrijdend, zodat u geen BNI-aangifte meer hoeft te doen. Buiten die termijnen is er bij normaal beheer van privévermogen geen Belgische meerwaardebelasting. Check ook de regels van uw woonland.",
+      },
+      {
+        question: "Kan de notaris de verkoopprijs op mijn buitenlandse rekening storten?",
+        answer:
+          "Ja, de notaris kan het saldo overschrijven naar een buitenlandse rekening op uw naam. Verwacht wel extra controles in het kader van de antiwitwaswetgeving, zeker bij rekeningen buiten Europa, en mogelijk enkele dagen extra doorlooptijd. Geef uw IBAN- en BIC-gegevens vroeg in het dossier door en zorg dat de rekening op naam staat van de verkoper(s) zelf.",
+      },
+    ],
+  },
+  {
+    slug: "ongeschikt-onbewoonbaar-verklaarde-woning-verkopen",
+    title: "Ongeschikt of onbewoonbaar verklaarde woning verkopen: inventaris, heffing en uw uitwegen",
+    metaTitle: "Ongeschikt verklaarde woning verkopen (2026) | wijkopenpanden.be",
+    metaDescription:
+      "Woning ongeschikt of onbewoonbaar verklaard? Zo werken inventaris en heffing, en zo verkoopt u het pand toch rechtsgeldig — uw opties op een rij.",
+    publishedAt: "2026-07-02",
+    updatedAt: "2026-07-02",
+    intro:
+      "Een besluit van de burgemeester dat uw woning ongeschikt of onbewoonbaar verklaart, voelt als een stempel die alles blokkeert. Toch is het geen verkoopverbod. Wel start er een strak juridisch traject: opname in de Vlaamse inventaris (VIVOO), een jaarlijkse heffing die progressief stijgt, een herstelplicht en — bij verhuur — zelfs strafrechtelijke risico's. Wie het besluit naast zich neerlegt, ziet de kosten elk jaar oplopen. Wie doordacht handelt, heeft drie uitwegen: renoveren tot een conformiteitsattest, verkopen met correcte vermelding van het statuut, of in uitzonderlijke gevallen slopen of herbestemmen. In dit artikel leest u hoe de procedure en de heffing precies werken, wat u wettelijk moet melden bij een verkoop, en waarom de tijd hier letterlijk geld kost.",
+    sections: [
+      {
+        heading: "Hoe een woning ongeschikt of onbewoonbaar wordt verklaard",
+        body: "Het traject start meestal met een klacht van een huurder of een controle door de gemeente. Een woningcontroleur voert dan een **conformiteitsonderzoek** uit en stelt een technisch verslag op. Sinds de hervorming van de woningkwaliteitsbewaking werkt Vlaanderen met drie gebrekencategorieën:\n\n• **Categorie I**: lichte gebreken (bv. beperkte vochtschade, kleine beschadigingen). Let op: zeven of meer categorie I-gebreken tellen samen als één gebrek van categorie II.\n• **Categorie II**: ernstige gebreken zonder acuut risico — de woning is dan **ongeschikt**.\n• **Categorie III**: gebreken met een acuut veiligheids- of gezondheidsrisico — de woning is **onbewoonbaar** en mag niet langer bewoond worden.\n\nOp basis van het verslag en het advies van Wonen in Vlaanderen neemt de **burgemeester een besluit**, nadat u als eigenaar gehoord bent. Tegen dat besluit kunt u binnen 30 dagen na de betekening beroep aantekenen bij de Vlaamse minister van Wonen. Doe dat alleen met stevige argumenten: een beroep schort de problemen niet op en de gebreken blijven gedocumenteerd.",
+      },
+      {
+        heading: "De VIVOO-inventaris en de heffing die elk jaar zwaarder weegt",
+        body: "Na het besluit wordt uw woning opgenomen in de **Vlaamse inventaris van ongeschikte en onbewoonbare woningen (VIVOO)**. Staat het pand daar **12 opeenvolgende maanden** op, dan wordt de jaarlijkse heffing — in de volksmond de krotbelasting — verschuldigd, en dat elk jaar opnieuw tot de schrapping.\n\nDe Vlaamse heffing wordt berekend als **geïndexeerd kadastraal inkomen × (P + 1)**. Daarbij is P het aantal periodes van 12 maanden dat de woning ononderbroken op de inventaris staat, met een maximum van 4. Ligt het geïndexeerde KI onder 990 euro, dan rekent de Vlaamse Belastingdienst met 990 euro als minimum. Concreet: de heffing verdubbelt tot vervijfvoudigt naarmate u langer wacht — zelfs voor een bescheiden rijwoning loopt dat na enkele jaren op tot duizenden euro's per jaar.\n\nBelangrijk voor de regio Antwerpen: gemeenten mogen een **eigen heffing** op ongeschikte en onbewoonbare panden invoeren, die dan doorgaans in de plaats komt van de Vlaamse. Stad Antwerpen heeft zo'n eigen belasting, met bedragen die eveneens oplopen per jaar op de inventaris. De precieze tarieven verschillen per gemeente en per aanslagjaar; het mechanisme — hoe langer op de inventaris, hoe duurder — is overal hetzelfde.",
+      },
+      {
+        heading: "Meer dan een belasting: verhuurverbod, herstelplicht en sociaal beheersrecht",
+        body: "De heffing is niet het enige gevolg. Een ongeschikt- of onbewoonbaarverklaring activeert een reeks verplichtingen:\n\n• **Verhuren is strafbaar.** Een woning die ongeschikt of onbewoonbaar is verklaard verder verhuren of te huur stellen, is een misdrijf. De Vlaamse Wooninspectie kan een proces-verbaal opstellen en er dreigen GAS-boetes of strafvervolging. Bij onbewoonbaarheid moet de bewoning stoppen; de gemeente kan bewoners herhuisvesten en die kosten op u verhalen.\n• **U heeft een herstelplicht.** Het besluit verplicht u de gebreken weg te werken. Schrapping uit de inventaris kan pas via een **conformiteitsattest** na herstel, een opheffingsbesluit na sloop of herbestemming, of een hercontrole waaruit blijkt dat er geen categorie II- of III-gebreken meer zijn.\n• **Sociaal beheersrecht.** Staat het pand minstens twee jaar op de inventaris, dan kan de gemeente in bepaalde gevallen het beheer overnemen, renoveren en het pand sociaal verhuren.\n\nVerwar dit statuut niet met **leegstand**: een leegstaande woning kan perfect in orde zijn, maar wordt geviseerd omdat ze niet gebruikt wordt. Ongeschiktheid en onbewoonbaarheid gaan over de kwaliteit van de woning zelf. Beide inventarissen en heffingen bestaan naast elkaar — over de leegstandsheffing leest u meer in ons artikel over de leegstandsheffing in Antwerpen.",
+      },
+      {
+        heading: "Mag u een ongeschikt of onbewoonbaar verklaarde woning verkopen? Ja — met meldingsplicht",
+        body: "Een veelgehoord misverstand: dat een geïnventariseerd pand niet verkocht mag worden. Dat klopt niet. **Verkopen mag**, maar de wet legt strikte spelregels op:\n\n1. **Meldingsplicht aan de koper.** U moet de opname in de inventaris en het besluit van de burgemeester vermelden in de publiciteit, in de onderhandse verkoopovereenkomst (compromis) én in de notariële akte, inclusief de juridische gevolgen ervan.\n2. **De notaris meldt de overdracht.** Binnen 30 dagen na het verlijden van de akte wordt de eigendomsoverdracht gemeld aan de inventarisbeheerder. Verzwijgen is dus zinloos en gevaarlijk: het opent de deur naar nietigverklaring of schadeclaims wegens verborgen gebreken.\n3. **De koper neemt de herstelplicht over.** Het statuut verhuist mee met het pand. De nieuwe eigenaar kan wel een **opschorting van de heffing van twee jaar** aanvragen vanaf de notariële akte, op voorwaarde dat hij het pand in die periode niet doorverkoopt en het tijdig laat schrappen uit de inventaris (of een andere vrijstelling bekomt).\n\nDie opschortingstermijn is meteen de reden waarom zulke panden vooral interessant zijn voor kopers die snel en professioneel kunnen renoveren: zij krijgen twee jaar ademruimte om het pand conform te maken zonder heffing.",
+      },
+      {
+        heading: "Uw drie uitwegen naast elkaar",
+        body: "Als eigenaar van een ongeschikt of onbewoonbaar verklaard pand heeft u in essentie drie opties. De juiste keuze hangt af van uw budget, uw tijd en uw zin om zelf een renovatietraject met keuringen en hercontroles te doorlopen.\n\nZelf renoveren loont vooral als de gebreken beperkt zijn (enkele categorie II-punten, bv. elektriciteit en vocht) en u de werken snel kunt financieren. Bij structurele problemen — stabiliteit, volledige technieken, dak én vocht — loopt de kostprijs vaak hoger op dan de meerwaarde na herstel. Niets doen is de duurste optie: de heffing stijgt progressief, het pand verliest verder waarde en na twee jaar komt zelfs het sociaal beheersrecht in beeld.",
+        table: {
+          headers: ["", "Renoveren tot conformiteitsattest", "Verkopen in huidige staat", "Niets doen"],
+          rows: [
+            ["Kostprijs", "Vaak tienduizenden euro's, vooraf te financieren", "Geen investering; verkoopprijs weerspiegelt de staat", "Heffing stijgt elk jaar (factor P loopt op tot 4)"],
+            ["Doorlooptijd", "Maanden tot jaren, plus hercontrole en attest", "Akkoord op enkele dagen mogelijk; akte doorgaans 2-3 maanden later", "Onbeperkt — de teller blijft lopen"],
+            ["Heffing", "Stopt pas na schrapping uit de inventaris", "Koper kan 2 jaar opschorting krijgen; uw teller stopt bij de akte", "Verschuldigd na 12 maanden, daarna jaarlijks en progressief"],
+            ["Risico", "Budgetoverschrijding, aannemersplanning, herkeuring", "Correcte meldingsplicht is essentieel", "Verhuurverbod, sociaal beheersrecht, verder waardeverlies"],
+            ["Voor wie", "Eigenaars met budget, tijd en renovatie-ervaring", "Wie zekerheid wil en de last wil doorgeven", "Eigenlijk niemand"],
+          ],
+        },
+      },
+      {
+        heading: "Veelgemaakte fouten die u geld kosten",
+        body: "In de praktijk zien we bij eigenaars van geïnventariseerde panden steeds dezelfde valkuilen:\n\n• **Blijven verhuren na het besluit.** Sommige eigenaars laten de huurder zitten \"tot er een oplossing is\". Dat is geen grijze zone maar een misdrijf, met de Wooninspectie en mogelijke strafvervolging als gevolg. Bovendien kan de huurder huurvermindering of terugbetaling eisen.\n• **Verkopen zonder het statuut te vermelden.** Wie de inventarisatie verzwijgt in advertentie, compromis of akte, riskeert de vernietiging van de verkoop of een vordering wegens verborgen gebreken — en de notaris zal het statuut sowieso ontdekken bij zijn opzoekingen.\n• **Jarenlang wachten.** Elke periode van 12 maanden op de inventaris verhoogt de factor P en dus de heffing. Wie vier jaar wacht, betaalt tot vijf keer het geïndexeerde KI per jaar, terwijl het pand verder aftakelt en de renovatieplicht bij verkoop van energieverslindende woningen er nog bovenop komt.\n• **Halfslachtig renoveren.** Enkel de zichtbare gebreken aanpakken zonder hercontrole levert geen schrapping op. Zolang er geen conformiteitsattest of opheffingsbesluit is, blijft de woning op de inventaris staan — en blijft u betalen.\n• **Het beroep als uitstel gebruiken.** Beroep aantekenen zonder dossier wint zelden en verandert niets aan de vastgestelde gebreken. De energie gaat beter naar herstellen of verkopen.",
+      },
+      {
+        heading: "Verkopen aan een professionele opkoper: de teller stopt bij de akte",
+        body: "Op de klassieke markt is een ongeschikt of onbewoonbaar verklaard pand een moeilijk verhaal. Particuliere kopers schrikken van het besluit op de gevel, banken financieren aarzelend, en elke bezichtiging eindigt in dezelfde vragen over de inventaris en de heffing. Ondertussen loopt uw teller door.\n\nVoor een professionele opkoper ligt dat anders. **wijkopenpanden.be** koopt woningen in de regio Antwerpen aan **in de huidige staat**, ook met een ongeschikt- of onbewoonbaarverklaring. Wij kennen de Antwerpse procedures, nemen als koper de herstelplicht over en renoveren het pand tot het opnieuw conform is — precies het scenario waarvoor de tweejarige opschorting voor nieuwe eigenaars bedoeld is. Voor u stopt de heffingsteller bij het verlijden van de akte, en de meldingsplicht wordt correct afgehandeld in samenspraak met de notaris.\n\nPraktisch: u vraagt een **gratis en vrijblijvend bod** aan en krijgt reactie binnen 2 uur, ook in het weekend. Een plaatsbezoek volgt doorgaans binnen 48 uur, waarna u een **schriftelijk gemotiveerd bod** ontvangt. Wij betalen uit eigen middelen — dus geen opschortende voorwaarde van financiering — en u betaalt geen makelaarscommissie. De akte volgt doorgaans 2 tot 3 maanden na akkoord. Zo weet u snel waar u aan toe bent, zonder verdere jaren op de inventaris.",
+      },
+    ],
+    relatedArticles: ["pand-in-slechte-staat-verkopen", "leegstandsheffing-antwerpen-2026", "wat-is-een-vastgoedopkoper", "verkoopbelofte-compromis-akte", "energie-renovatieplicht-vlaanderen-2026", "verborgen-gebreken-woning-verkoop-belgie"],
+    relatedSituations: ["opknappand-verkopen", "pand-met-huurders-verkopen"],
+    faqs: [
+      {
+        question: "Mag ik een ongeschikt of onbewoonbaar verklaarde woning verkopen?",
+        answer:
+          "Ja, verkopen mag altijd. U moet het besluit en de opname in de Vlaamse inventaris (VIVOO) wel uitdrukkelijk vermelden in de publiciteit, het compromis en de notariële akte. De notaris meldt de overdracht binnen 30 dagen aan de inventarisbeheerder. De koper neemt de herstelplicht over en kan een opschorting van de heffing van twee jaar aanvragen.",
+      },
+      {
+        question: "Wat is het verschil tussen ongeschikt en onbewoonbaar?",
+        answer:
+          "Ongeschikt betekent dat de woning ernstige gebreken van categorie II vertoont maar geen acuut gevaar oplevert; bewoning is af te raden maar niet verboden. Onbewoonbaar betekent dat er categorie III-gebreken zijn met een acuut veiligheids- of gezondheidsrisico: de woning mag niet langer bewoond worden en de bewoners moeten vertrekken. Beide statuten leiden tot opname in de inventaris.",
+      },
+      {
+        question: "Hoeveel bedraagt de heffing op een ongeschikte of onbewoonbare woning?",
+        answer:
+          "De Vlaamse heffing wordt verschuldigd zodra de woning 12 opeenvolgende maanden op de inventaris staat en bedraagt het geïndexeerde kadastraal inkomen vermenigvuldigd met (P + 1), waarbij P het aantal volledige jaren op de inventaris is (maximaal 4). Voor de berekening geldt een minimum-KI van 990 euro. Gemeenten zoals Antwerpen kunnen een eigen, eveneens oplopende heffing toepassen.",
+      },
+      {
+        question: "Mag ik mijn ongeschikt verklaarde woning nog verhuren?",
+        answer:
+          "Nee. Een woning die ongeschikt of onbewoonbaar is verklaard verder verhuren of te huur stellen, is strafbaar. De Vlaamse Wooninspectie kan een proces-verbaal opstellen en er dreigen boetes of strafvervolging. Bij onbewoonbaarheid moet de bewoning onmiddellijk stoppen en kan de gemeente de herhuisvestingskosten van de bewoners op u verhalen.",
+      },
+      {
+        question: "Hoe raakt een woning weer van de inventaris?",
+        answer:
+          "Er zijn drie wegen: een conformiteitsattest aanvragen nadat alle gebreken hersteld zijn, een opheffingsbesluit na sloop of herbestemming van het pand, of een hercontrole waaruit blijkt dat er geen gebreken van categorie II of III meer zijn. Zolang geen van die drie gebeurt, blijft de woning geïnventariseerd en blijft de jaarlijkse heffing lopen.",
+      },
+      {
+        question: "Stopt de heffing als ik mijn geïnventariseerd pand verkoop?",
+        answer:
+          "Voor u als verkoper stopt de opbouw bij de eigendomsoverdracht: na de notariële akte bent u geen houder van het zakelijk recht meer. De woning blijft wel op de inventaris staan. De nieuwe eigenaar kan een opschorting van twee jaar aanvragen, op voorwaarde dat hij niet doorverkoopt en het pand binnen die termijn laat schrappen — een scenario dat een professionele koper met renovatieplannen goed kent.",
+      },
+    ],
+  },
+  {
+    slug: "eerst-kopen-dan-verkopen-overbruggingskrediet",
+    title: "Eerst kopen, dan verkopen: overbruggingskrediet, dubbele kosten en hoe u de timing beheerst",
+    metaTitle: "Overbruggingskrediet bij huis verkopen: zo werkt het (2026) | wijkopenpanden.be",
+    metaDescription:
+      "Eerst kopen, dan verkopen? Zo werkt een overbruggingskrediet: looptijd, rente, kosten en risico's. En hoe een vaste verkoopprijs de overbrugging verkort.",
+    publishedAt: "2026-07-02",
+    updatedAt: "2026-07-02",
+    intro:
+      "Uw droomwoning staat te koop, maar uw huidige huis is nog niet verkocht. Duizenden Vlaamse gezinnen zitten elk jaar in precies die situatie. De klassieke oplossing is een overbruggingskrediet: de bank schiet de verwachte verkoopopbrengst voor, zodat u de nieuwe woning al kunt betalen. Dat werkt, maar het is geen gratis comfort. U betaalt maandelijks intresten, draagt tijdelijk de lasten van twee woningen en neemt een risico op de verkoopprijs en de verkooptermijn. Wie de mechaniek kent, kan de kosten beperken en de valkuilen vermijden. In dit artikel leest u hoe een overbruggingskrediet werkt bij de Belgische banken, wat het echt kost, waar het misloopt en welke alternatieven er zijn — inclusief de route waarbij u eerst zekerheid over uw verkoopprijs krijgt en pas daarna koopt.",
+    sections: [
+      {
+        heading: "Hoe werkt een overbruggingskrediet precies?",
+        body: "Een overbruggingskrediet is een kortlopend krediet waarmee de bank de verwachte opbrengst van uw huidige woning voorschiet. U gebruikt dat bedrag om uw nieuwe woning te betalen, en zodra uw oude woning verkocht is, lost u het volledige kapitaal **in één keer** af met de verkoopopbrengst.\n\nDe structuur verschilt van een gewone woonlening:\n\n• **Geen kapitaalaflossing tijdens de looptijd.** U betaalt doorgaans enkel maandelijks intresten; bij Belfius bijvoorbeeld betaalt u maandelijks alleen de interesten en wordt het kapitaal terugbetaald op de eindvervaldag of bij de verkoop.\n• **Het bedrag hangt af van uw huidige woning**, niet van uw inkomen alleen. Banken lenen doorgaans 70 tot 100% van de verwachte verkoopprijs, min het openstaande saldo van uw lopende hypotheek. Argenta gaat bijvoorbeeld tot 95% van de marktwaarde als de woning nog niet verkocht is, en tot 100% van de verkoopprijs als er al een compromis getekend is.\n• **De rentevoet ligt vast** voor de volledige looptijd.\n\nBanken rekenen bewust met een voorzichtige schatting: liever te laag dan te hoog, want het krediet moet volledig terugbetaald kunnen worden uit de verkoop.",
+      },
+      {
+        heading: "Looptijd en rente: wat bieden de banken in 2026?",
+        body: "De looptijd verschilt sterk per bank, en dat is belangrijker dan het lijkt:\n\n• **KBC**: maximaal 12 maanden, eenmalig verlengbaar met 12 maanden als de woning nog niet verkocht is. Verkoopt u sneller, dan betaalt u geen herbeleggingsvergoeding bij vervroegde terugbetaling.\n• **Belfius**: maximale looptijd van 2 jaar, minimumbedrag 12.500 euro.\n• **Argenta**: tot 24 maanden voor een bestaande woning en tot 36 maanden bij nieuwbouw, maar enkel in combinatie met een Argenta-hypotheek. Verwacht u meer dan 12 maanden nodig te hebben, dan moet u aantonen dat u de dubbele woonlast zo lang kunt dragen.\n\nDe rentevoet van een overbruggingskrediet ligt doorgaans **hoger dan die van een klassieke woonlening**, omdat de looptijd kort is en het risico voor de bank groter. Medio 2026 situeren de tarieven zich grosso modo tussen 4 en 6% op jaarbasis, afhankelijk van bank, bedrag en dossier. Op een overbrugging van 200.000 euro betekent elk procentpunt 2.000 euro intrest per jaar — vergelijken loont dus, zeker omdat sommige banken de overbrugging koppelen aan de nieuwe hypotheek.",
+      },
+      {
+        heading: "Wat kost een overbrugging echt? Een simulatie",
+        body: "Naast de intresten komen er eenmalige kosten bij. De **dossierkosten** bedragen bij de meeste banken circa 300 euro voor een losstaand overbruggingskrediet (tot 500 euro in combinatie met een hypothecaire lening; enkele spelers rekenen niets aan).\n\nDe grootste variabele is de **waarborg**. Drie formules komen voor:\n\n1. **Volledige hypothecaire inschrijving**: de duurste optie — voor een gemiddeld krediet al snel meer dan 6.000 euro aan registratierechten, hypotheekkosten en notariskosten.\n2. **Hypothecair mandaat**: u geeft de bank een volmacht om later een hypotheek te nemen. Voor een overbrugging van 150.000 euro kost dat ongeveer 1.100 euro.\n3. **Onherroepelijke opdracht aan de notaris**: de notaris verbindt zich ertoe het krediet rechtstreeks terug te betalen bij het verlijden van de verkoopakte. Deze formule is gratis, maar niet elke bank aanvaardt ze als enige waarborg.\n\nOnderstaande simulatie toont de totale kostprijs van een overbrugging van 200.000 euro gedurende 12 maanden tegen 4,5%, met hypothecair mandaat. Wilt u het volledige kostenplaatje van uw verkoop kennen, bekijk dan ook ons artikel over verkoopkosten berekenen.",
+        table: {
+          headers: ["Kostenpost", "Bedrag (indicatief)", "Toelichting"],
+          rows: [
+            ["Intresten (4,5% op € 200.000)", "€ 9.000 (± € 750/maand)", "Enkel intresten, geen kapitaalaflossing"],
+            ["Dossierkosten bank", "± € 300", "Tot € 500 bij combinatie met hypotheek"],
+            ["Hypothecair mandaat", "± € 1.100 à € 1.500", "Volledige inschrijving kost ruim € 6.000"],
+            ["Dubbele vaste lasten (verzekering, onroerende voorheffing, energie, onderhoud)", "± € 3.000 à € 4.500", "Sterk afhankelijk van de woning"],
+            ["Totaal over 12 maanden", "± € 13.500 à € 15.000", "Elke extra maand kost ± € 1.000 à € 1.200"],
+          ],
+        },
+      },
+      {
+        heading: "Het grootste risico: uw woning verkoopt trager of voor minder",
+        body: "Een overbruggingskrediet is gebouwd op één aanname: dat uw woning binnen de looptijd verkoopt tegen (minstens) de geschatte prijs. Gaat die aanname niet op, dan stapelen de problemen zich op:\n\n• **De looptijd verstrijkt.** Verlengen kan soms — bij KBC eenmalig met 12 maanden — maar het is geen recht. Bij een verlenging kan de bank bovendien een hogere rentevoet aanrekenen.\n• **De opbrengst valt tegen.** Verkoopt u uiteindelijk voor minder dan geschat, dan volstaat de opbrengst mogelijk niet om het krediet volledig af te lossen. Het verschil moet u uit eigen zak bijpassen, bovenop alle betaalde intresten.\n• **Verkopen onder tijdsdruk.** Hoe dichter de eindvervaldag nadert, hoe zwakker uw onderhandelingspositie. Kandidaat-kopers voelen dat, en in het slechtste geval dreigt een gedwongen verkoop tegen een lagere prijs.\n\nDe veelgemaakte fouten liggen in het verlengde daarvan: het krediet dimensioneren op een **te optimistische vraagprijs**, een overbrugging afsluiten **zonder exitplan** (wat als de woning na 18 maanden nog te koop staat?), en het compromis voor de nieuwe woning tekenen **zonder opschortende voorwaarde** van financiering.",
+      },
+      {
+        heading: "Dubbele lasten en de valkuil van de leegstaande woning",
+        body: "Zolang beide woningen op uw naam staan, betaalt u alles dubbel: **twee brandverzekeringen, twee keer onroerende voorheffing, twee energiecontracten** en het onderhoud van twee panden. Reken al snel op enkele honderden euro's per maand bovenop de intresten van de overbrugging.\n\nVerhuist u naar de nieuwe woning terwijl de oude te koop staat, dan komt daar een onderschat probleem bij: **leegstand**. Drie effecten spelen tegelijk:\n\n• **Uw verzekering.** Meld leegstand altijd aan uw verzekeraar. Doet u dat niet, dan kan de dekking bij schade verminderd of zelfs geweigerd worden. Veel verzekeraars beperken na circa drie maanden leegstand de waarborgen voor inbraak en diefstal.\n• **Uw verkoopprijs.** Een leeggehaalde, onverwarmde woning oogt minder aantrekkelijk op bezoeken en foto's, en kopers ruiken onderhandelingsruimte bij een eigenaar die al verhuisd is.\n• **Het pand zelf.** Vocht, vorst en inbraak treffen leegstaande woningen vaker; kleine gebreken blijven onopgemerkt.\n\nStaat uw woning al een tijd te koop terwijl de teller loopt? Lees dan zeker ons artikel over een woning die al maanden te koop staat.",
+      },
+      {
+        heading: "De fiscale klok: het 2%-tarief en de tweejaarstermijn",
+        body: "Wie eerst koopt en daarna verkoopt, moet ook naar de registratiebelasting kijken. In Vlaanderen betaalt u voor de aankoop van uw **enige eigen woning** slechts 2% verkooprecht in plaats van het standaardtarief van 12%. Voorwaarde is onder meer dat u op de datum van de notariële akte geen volle eigenaar bent van een andere woning of bouwgrond.\n\nBezit u op dat moment nog uw huidige woning (zogenaamd *verhinderend bezit*), dan is het 2%-tarief niet verloren, maar er loopt een klok: u moet die woning **binnen de twee jaar na de aankoopakte verkopen**, en er moet een causaal verband bestaan tussen die verkoop en de nieuwe aankoop. In de praktijk betaalt u bij de aankoop eerst 12% en vraagt u na de verkoop de teruggave van het verschil (10 procentpunten) aan de Vlaamse Belastingdienst. Op een aankoop van 350.000 euro gaat dat om **35.000 euro** — geen detail dus.\n\nSinds 1 januari 2026 zijn de voorwaarden bovendien verstrengd: u moet binnen de drie jaar uw domicilie op het nieuwe adres nemen én er minstens één jaar ononderbroken ingeschreven blijven. Raakt uw oude woning niet tijdig verkocht, dan is het voordeel definitief verloren. De verkooptermijn bepaalt dus niet alleen uw kredietkosten, maar ook uw belastingfactuur.",
+      },
+      {
+        heading: "Alternatieven: timing kopen in plaats van tijd huren",
+        body: "Een overbruggingskrediet koopt tijd, maar tegen een reële prijs en met een open einde. Bekijk daarom altijd de alternatieven:\n\n• **Verkopen met een langere aktetermijn.** U verkoopt eerst en spreekt met de koper een ruimere periode tussen compromis en akte af, zodat u tijd heeft om te kopen en te verhuizen.\n• **Tijdelijk huren.** U verkoopt eerst, huurt kort tussenin en koopt daarna zonder tijdsdruk. Dubbele verhuis, maar geen krediet- of prijsrisico.\n• **Eerst zekerheid, dan kopen.** U laat een professionele koper een bindend bod op uw woning uitbrengen vóór u de nieuwe aankoop tekent. Dan weet u exact met welk budget u kunt kopen.\n\nDie laatste route is precies wat een directe verkoop aan wijkopenpanden.be mogelijk maakt. De grootste onzekerheid bij eerst kopen is immers niet de rentevoet, maar de **verkooptermijn** van uw huidige woning. Een vast, schriftelijk gemotiveerd bod neemt die onzekerheid weg: u kent de prijs, wij kopen in de huidige staat en betalen uit eigen middelen, zonder financieringsvoorbehoud en zonder makelaarscommissie. De akte volgt doorgaans 2 tot 3 maanden na akkoord en **u kiest de aktedatum mee** — zodat die aansluit op uw nieuwe aankoop. Een overbruggingskrediet wordt zo veel korter, of zelfs overbodig.\n\nEen bod aanvragen is gratis en vrijblijvend: u krijgt een reactie binnen 2 uur, ook in het weekend, en een bezoek volgt doorgaans binnen 48 uur. Zo rekent u niet op een schatting, maar op een cijfer dat vaststaat — en beheerst u zelf de timing tussen kopen en verkopen.",
+      },
+    ],
+    relatedArticles: ["huis-verkopen-met-hypotheek", "hoelang-duurt-huis-verkopen-belgie", "verkoop-kosten-berekenen", "bod-aanvragen-vrijblijvend-bindend", "compromis-verkoop-woning-belgie", "wanneer-beste-moment-woning-verkopen"],
+    relatedSituations: ["verkopen-zonder-makelaar", "opknappand-verkopen"],
+    faqs: [
+      {
+        question: "Hoeveel kan ik lenen met een overbruggingskrediet?",
+        answer:
+          "Banken lenen doorgaans 70 tot 100% van de verwachte verkoopprijs van uw huidige woning, verminderd met het openstaande saldo van uw lopende hypotheek. Is uw woning al verkocht (compromis getekend), dan kan het percentage hoger liggen dan wanneer ze nog te koop staat. Banken schatten bewust voorzichtig, zodat het krediet zeker volledig terugbetaald kan worden uit de verkoopopbrengst.",
+      },
+      {
+        question: "Hoe lang loopt een overbruggingskrediet?",
+        answer:
+          "Dat verschilt per bank: bij KBC maximaal 12 maanden (eenmalig verlengbaar met 12 maanden), bij Belfius maximaal 2 jaar, bij Argenta tot 24 maanden voor een bestaande woning en 36 maanden bij nieuwbouw. Verkoopt u sneller, dan betaalt u vervroegd terug — bij KBC bijvoorbeeld zonder herbeleggingsvergoeding. Een verlenging is nooit gegarandeerd en kan gepaard gaan met een hogere rentevoet.",
+      },
+      {
+        question: "Betaal ik maandelijks af op een overbruggingskrediet?",
+        answer:
+          "U lost tijdens de looptijd geen kapitaal af. Doorgaans betaalt u maandelijks enkel de intresten; het volledige kapitaal betaalt u in één keer terug bij de verkoop van uw woning of op de eindvervaldag. Sommige formules stellen ook de intresten uit tot het einde, maar dan leent de bank meestal een kleiner percentage van de verwachte verkoopprijs.",
+      },
+      {
+        question: "Wat als mijn woning niet verkocht is wanneer het krediet afloopt?",
+        answer:
+          "Dan moet u het krediet verlengen — wat de bank kan weigeren of duurder maken — of het kapitaal op een andere manier terugbetalen. Verkoopt de woning uiteindelijk voor minder dan geschat, dan past u het verschil zelf bij. Daarom is het cruciaal het krediet te baseren op een realistische waardering en vooraf een exitplan te hebben, in plaats van op een optimistische vraagprijs.",
+      },
+      {
+        question: "Verlies ik het 2%-registratietarief als ik eerst koop en daarna verkoop?",
+        answer:
+          "Niet definitief. Bezit u op de aktedatum van uw nieuwe woning nog uw oude woning, dan betaalt u eerst 12%, maar verkoopt u die oude woning binnen de twee jaar (met causaal verband tussen beide transacties), dan kunt u het verschil terugvragen bij de Vlaamse Belastingdienst. Mist u die termijn, dan bent u het voordeel — 10 procentpunten — definitief kwijt.",
+      },
+      {
+        question: "Kan een overbruggingskrediet vermeden worden?",
+        answer:
+          "Ja, als u de verkoop van uw huidige woning vastlegt vóór of gelijktijdig met uw aankoop. Dat kan via een verkoop met langere aktetermijn, tijdelijk huren, of een bindend bod van een professionele koper zoals wijkopenpanden.be. In dat laatste geval kent u de prijs vooraf en kiest u de aktedatum mee, waardoor de overbrugging heel kort wordt of volledig wegvalt.",
+      },
+    ],
+  },
 ];
 
 export function getArticle(slug: string): Article | undefined {
