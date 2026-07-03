@@ -1,6 +1,5 @@
 import { ImageResponse } from "next/og";
 
-export const runtime = "edge";
 export const alt = "wijkopenpanden.be — Direct een eerlijk bod op uw pand";
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
@@ -101,19 +100,22 @@ export default function OGImage() {
         {/* Headline */}
         <div
           style={{
+            display: "flex",
+            flexDirection: "column",
+            alignItems: "center",
             fontFamily: "Georgia, serif",
             fontSize: "64px",
             fontWeight: 700,
             color: "#1C1610",
             letterSpacing: "-2px",
-            lineHeight: 1.08,
+            lineHeight: 1.15,
             textAlign: "center",
             maxWidth: "900px",
             marginBottom: "24px",
           }}
         >
-          Direct een eerlijk bod{" "}
-          <span style={{ color: "#C4A35A" }}>op uw pand.</span>
+          <div style={{ display: "flex" }}>Direct een eerlijk bod</div>
+          <div style={{ display: "flex", color: "#C4A35A" }}>op uw pand.</div>
         </div>
 
         {/* Subtitle */}
@@ -160,12 +162,18 @@ export default function OGImage() {
                     display: "flex",
                     alignItems: "center",
                     justifyContent: "center",
-                    fontSize: "11px",
-                    color: "white",
-                    fontWeight: 700,
                   }}
                 >
-                  ✓
+                  <svg width="10" height="10" viewBox="0 0 10 10">
+                    <path
+                      d="M1.5 5.2 4 7.5 8.5 2.5"
+                      stroke="white"
+                      strokeWidth="1.6"
+                      fill="none"
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                    />
+                  </svg>
                 </div>
                 <span
                   style={{

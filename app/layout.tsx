@@ -6,7 +6,7 @@ import SmoothScrollProvider from "@/components/SmoothScrollProvider";
 const playfair = Playfair_Display({
   variable: "--font-fraunces",
   subsets: ["latin"],
-  weight: ["400", "600", "700", "800", "900"],
+  weight: ["400", "600", "700", "800"],
 });
 
 const jakarta = Plus_Jakarta_Sans({
@@ -30,7 +30,6 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    site: "@wijkopenpanden",
   },
   robots: {
     index: true,
@@ -49,7 +48,7 @@ const organizationSchema = {
   "@type": "Organization",
   name: "wijkopenpanden.be",
   url: "https://wijkopenpanden.be",
-  logo: "https://wijkopenpanden.be/opengraph-image",
+  logo: "https://wijkopenpanden.be/logo.svg",
   telephone: "+32492779475",
   email: "bb@berabrick.be",
   address: {
@@ -58,7 +57,6 @@ const organizationSchema = {
     addressCountry: "BE",
   },
   areaServed: "Antwerpen",
-  sameAs: ["https://wijkopenpanden.be"],
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

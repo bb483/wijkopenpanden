@@ -11,6 +11,7 @@ export default function SmoothScrollProvider({ children }: { children: React.Rea
   useEffect(() => {
     // Skip Lenis on mobile — native scroll is smoother and faster
     if (window.innerWidth < 768) return;
+    if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
 
     const lenis = new Lenis({
       duration: 1.2,

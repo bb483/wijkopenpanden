@@ -1,7 +1,7 @@
+import Link from "next/link";
 import Nav from "@/components/Nav";
 import Footer from "@/components/Footer";
 import Section from "@/components/Section";
-import Container from "@/components/Container";
 import Heading from "@/components/Heading";
 import Prose from "@/components/Prose";
 import Button from "@/components/Button";
@@ -44,7 +44,7 @@ export default function PropertyTypeTemplate({ data }: { data: PropertyType }) {
         {/* Hero */}
         <Section hero>
           <nav className="text-xs text-muted mb-6">
-            <a href="/" className="hover:text-ink transition-colors">Home</a>
+            <Link href="/" className="hover:text-ink transition-colors">Home</Link>
             <span className="mx-2">/</span>
             <span>{data.label}</span>
           </nav>
@@ -92,14 +92,14 @@ export default function PropertyTypeTemplate({ data }: { data: PropertyType }) {
           <Heading level={2} className="mb-8">Meer informatie</Heading>
           <div className="flex flex-wrap gap-4">
             {data.relatedRegions.map((slug) => (
-              <a key={slug} href={`/regios/${slug}`} className="text-sm text-ink border border-ink/15 px-4 py-2 hover:border-ink/40 transition-colors">
+              <Link key={slug} href={`/regios/${slug}`} className="text-sm text-ink border border-ink/15 px-4 py-2 hover:border-ink/40 transition-colors">
                 Verkopen in {slug.charAt(0).toUpperCase() + slug.slice(1)}
-              </a>
+              </Link>
             ))}
             {data.relatedSituations.map((slug) => (
-              <a key={slug} href={`/${slug}`} className="text-sm text-ink border border-ink/15 px-4 py-2 hover:border-ink/40 transition-colors">
+              <Link key={slug} href={`/${slug}`} className="text-sm text-ink border border-ink/15 px-4 py-2 hover:border-ink/40 transition-colors">
                 {slug.replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase())}
-              </a>
+              </Link>
             ))}
           </div>
         </Section>
@@ -119,7 +119,7 @@ export default function PropertyTypeTemplate({ data }: { data: PropertyType }) {
               <Heading level={2} className="mb-8">Lees ook</Heading>
               <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
                 {linked.map((article) => (
-                  <a
+                  <Link
                     key={article.slug}
                     href={`/kennisbank/${article.slug}`}
                     className="group border border-ink/10 p-5 hover:border-ink/30 transition-colors"
@@ -130,7 +130,7 @@ export default function PropertyTypeTemplate({ data }: { data: PropertyType }) {
                     <h3 className="font-serif text-base text-ink group-hover:text-accent transition-colors leading-snug">
                       {article.title}
                     </h3>
-                  </a>
+                  </Link>
                 ))}
               </div>
             </Section>

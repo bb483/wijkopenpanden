@@ -47,13 +47,33 @@ const inputBase: React.CSSProperties = {
   transition: "border-color 150ms, box-shadow 150ms",
 };
 
-function Field({ label, error, children, hint }: { label: string; error?: string; children: React.ReactNode; hint?: string }) {
+function Field({
+  label,
+  error,
+  children,
+  hint,
+  htmlFor,
+  errorId,
+}: {
+  label: string;
+  error?: string;
+  children: React.ReactNode;
+  hint?: string;
+  htmlFor?: string;
+  errorId?: string;
+}) {
   return (
     <div className="flex flex-col gap-2">
-      <p className="text-sm font-semibold" style={{ color: "#1C1610" }}>{label}</p>
+      {htmlFor ? (
+        <label htmlFor={htmlFor} className="text-sm font-semibold" style={{ color: "#1C1610" }}>{label}</label>
+      ) : (
+        <p className="text-sm font-semibold" style={{ color: "#1C1610" }}>{label}</p>
+      )}
       {hint && <p className="text-xs" style={{ color: "#7A6B5C" }}>{hint}</p>}
       {children}
-      {error && <p className="text-sm font-medium" style={{ color: "#C0392B" }}>{error}</p>}
+      {error && (
+        <p id={errorId} role="alert" className="text-sm font-medium" style={{ color: "#C0392B" }}>{error}</p>
+      )}
     </div>
   );
 }
@@ -62,8 +82,10 @@ function OptionButton({ label, selected, onClick }: { label: string; selected: b
   return (
     <button
       type="button"
+      role="radio"
+      aria-checked={selected}
       onClick={onClick}
-      className="px-4 py-3 rounded-xl text-sm font-medium text-left transition-all duration-150"
+      className="px-4 py-3 rounded-xl text-sm font-medium text-left transition-all duration-150 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#C4A35A] focus-visible:ring-offset-2"
       style={{
         background: selected ? "rgba(196,163,90,0.10)" : "#FAF7F2",
         border: selected ? "2px solid #C4A35A" : "1.5px solid rgba(28,22,16,0.12)",
@@ -76,7 +98,21 @@ function OptionButton({ label, selected, onClick }: { label: string; selected: b
   );
 }
 
-function AdresAutocomplete({ value, onChange, error }: { value: string; onChange: (val: string) => void; error?: string }) {
+function AdresAutocomplete({
+  id,
+  name,
+  value,
+  onChange,
+  error,
+  errorId,
+}: {
+  id: string;
+  name: string;
+  value: string;
+  onChange: (val: string) => void;
+  error?: string;
+  errorId?: string;
+}) {
   const [suggestions, setSuggestions] = useState<string[]>([]);
   const [open, setOpen] = useState(false);
   const [focused, setFocused] = useState(false);
@@ -117,12 +153,20 @@ function AdresAutocomplete({ value, onChange, error }: { value: string; onChange
     <div ref={wrapperRef} className="relative">
       <input
         type="text"
+        id={id}
+        name={name}
         placeholder="Straat en nummer, gemeente"
         value={value}
         onChange={handleChange}
         onFocus={() => { setFocused(true); if (suggestions.length > 0) setOpen(true); }}
         onBlur={() => setFocused(false)}
         autoComplete="off"
+        role="combobox"
+        aria-autocomplete="list"
+        aria-expanded={open}
+        aria-controls={`${id}-listbox`}
+        aria-invalid={error ? true : undefined}
+        aria-describedby={error ? errorId : undefined}
         style={{
           ...inputBase,
           borderColor: focused ? "#C4A35A" : error ? "#C0392B" : "rgba(28,22,16,0.12)",
@@ -133,6 +177,8 @@ function AdresAutocomplete({ value, onChange, error }: { value: string; onChange
       <AnimatePresence>
         {open && (
           <motion.ul
+            id={`${id}-listbox`}
+            role="listbox"
             initial={{ opacity: 0, y: -4 }}
             animate={{ opacity: 1, y: 0 }}
             exit={{ opacity: 0, y: -4 }}
@@ -141,9 +187,11 @@ function AdresAutocomplete({ value, onChange, error }: { value: string; onChange
             style={{ background: "#FFFFFF", border: "1.5px solid rgba(28,22,16,0.10)", boxShadow: "0 8px 24px rgba(28,22,16,0.10)" }}
           >
             {suggestions.map((s, i) => (
-              <li key={i}>
+              <li key={i} role="presentation">
                 <button
                   type="button"
+                  role="option"
+                  aria-selected={false}
                   onMouseDown={() => { onChange(s); setSuggestions([]); setOpen(false); }}
                   className="w-full text-left px-4 py-3 text-sm transition-colors duration-100"
                   style={{ color: "#1C1610", borderBottom: i < suggestions.length - 1 ? "1px solid rgba(28,22,16,0.06)" : "none" }}
@@ -183,6 +231,7 @@ export default function TipFormulier() {
   const [submitted, setSubmitted] = useState(false);
   const [loading, setLoading] = useState(false);
   const [sendError, setSendError] = useState(false);
+  const [botcheck, setBotcheck] = useState(false);
 
   const handleFocus = (e: React.FocusEvent<HTMLInputElement | HTMLTextAreaElement>) => {
     e.target.style.borderColor = "#C4A35A";
@@ -212,6 +261,7 @@ export default function TipFormulier() {
           subject: `Nieuwe pand-tip — ${form.adres}`,
           from_name: form.naam,
           replyto: form.email,
+          botcheck,
           tipgever_naam: form.naam,
           tipgever_telefoon: form.telefoon,
           tipgever_email: form.email,
@@ -284,16 +334,37 @@ export default function TipFormulier() {
             ) : (
               <form onSubmit={handleSubmit} noValidate className="flex flex-col gap-7">
 
-                <Field label="Adres van het pand" error={errors.adres}>
+                {/* Honeypot (spamfilter web3forms) */}
+                <input
+                  type="checkbox"
+                  name="botcheck"
+                  className="hidden"
+                  style={{ display: "none" }}
+                  tabIndex={-1}
+                  aria-hidden="true"
+                  checked={botcheck}
+                  onChange={(e) => setBotcheck(e.target.checked)}
+                />
+
+                <Field label="Adres van het pand" htmlFor="tip-adres" error={errors.adres} errorId="tip-adres-error">
                   <AdresAutocomplete
+                    id="tip-adres"
+                    name="adres"
                     value={form.adres}
                     onChange={(val) => setForm((f) => ({ ...f, adres: val }))}
                     error={errors.adres}
+                    errorId="tip-adres-error"
                   />
                 </Field>
 
-                <Field label="Type vastgoed" error={errors.typeWoning}>
-                  <div className="grid grid-cols-2 sm:grid-cols-3 gap-2">
+                <Field label="Type vastgoed" error={errors.typeWoning} errorId="tip-typeWoning-error">
+                  <div
+                    className="grid grid-cols-2 sm:grid-cols-3 gap-2"
+                    role="radiogroup"
+                    aria-label="Type vastgoed"
+                    aria-invalid={errors.typeWoning ? true : undefined}
+                    aria-describedby={errors.typeWoning ? "tip-typeWoning-error" : undefined}
+                  >
                     {types.map((t) => (
                       <OptionButton
                         key={t}
@@ -308,8 +379,11 @@ export default function TipFormulier() {
                 <Field
                   label="Waarom denkt u dat de eigenaar wil verkopen?"
                   hint="Optioneel — bijv. leegstand, erfenis, verhuis…"
+                  htmlFor="tip-opmerking"
                 >
                   <textarea
+                    id="tip-opmerking"
+                    name="opmerking"
                     placeholder="Eventuele context of achtergrond (optioneel)"
                     value={form.opmerking}
                     onChange={(e) => setForm((f) => ({ ...f, opmerking: e.target.value }))}
@@ -328,39 +402,51 @@ export default function TipFormulier() {
                 <div className="border-t pt-6" style={{ borderColor: "rgba(28,22,16,0.08)" }}>
                   <p className="text-sm font-semibold mb-5" style={{ color: "#1C1610" }}>Uw contactgegevens</p>
                   <div className="flex flex-col gap-5">
-                    <Field label="Uw naam" error={errors.naam}>
+                    <Field label="Uw naam" htmlFor="tip-naam" error={errors.naam} errorId="tip-naam-error">
                       <input
                         type="text"
+                        id="tip-naam"
+                        name="naam"
                         placeholder="Voornaam en achternaam"
                         value={form.naam}
                         onChange={(e) => setForm((f) => ({ ...f, naam: e.target.value }))}
                         onFocus={handleFocus}
                         onBlur={handleBlur}
+                        aria-invalid={errors.naam ? true : undefined}
+                        aria-describedby={errors.naam ? "tip-naam-error" : undefined}
                         style={inputBase}
                         className="placeholder:text-[#1C1610]/30"
                       />
                     </Field>
                     <div className="grid grid-cols-1 sm:grid-cols-2 gap-5">
-                      <Field label="Telefoonnummer" error={errors.telefoon}>
+                      <Field label="Telefoonnummer" htmlFor="tip-telefoon" error={errors.telefoon} errorId="tip-telefoon-error">
                         <input
                           type="tel"
+                          id="tip-telefoon"
+                          name="telefoon"
                           placeholder="0492 77 94 75"
                           value={form.telefoon}
                           onChange={(e) => setForm((f) => ({ ...f, telefoon: e.target.value }))}
                           onFocus={handleFocus}
                           onBlur={handleBlur}
+                          aria-invalid={errors.telefoon ? true : undefined}
+                          aria-describedby={errors.telefoon ? "tip-telefoon-error" : undefined}
                           style={inputBase}
                           className="placeholder:text-[#1C1610]/30"
                         />
                       </Field>
-                      <Field label="E-mailadres" error={errors.email}>
+                      <Field label="E-mailadres" htmlFor="tip-email" error={errors.email} errorId="tip-email-error">
                         <input
                           type="email"
+                          id="tip-email"
+                          name="email"
                           placeholder="naam@email.be"
                           value={form.email}
                           onChange={(e) => setForm((f) => ({ ...f, email: e.target.value }))}
                           onFocus={handleFocus}
                           onBlur={handleBlur}
+                          aria-invalid={errors.email ? true : undefined}
+                          aria-describedby={errors.email ? "tip-email-error" : undefined}
                           style={inputBase}
                           className="placeholder:text-[#1C1610]/30"
                         />
@@ -372,10 +458,10 @@ export default function TipFormulier() {
                 <button
                   type="submit"
                   disabled={loading}
-                  className="w-full rounded-full py-4 text-base font-semibold text-white transition-colors duration-200 disabled:opacity-60"
-                  style={{ background: "#C4A35A", fontSize: "1.0625rem" }}
-                  onMouseEnter={(e) => { if (!loading) e.currentTarget.style.background = "#b08d47"; }}
-                  onMouseLeave={(e) => { if (!loading) e.currentTarget.style.background = "#C4A35A"; }}
+                  className="w-full rounded-full py-4 text-base font-semibold text-white transition-colors duration-200 disabled:opacity-60 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#C4A35A] focus-visible:ring-offset-2"
+                  style={{ background: "#7a5c1e", fontSize: "1.0625rem" }}
+                  onMouseEnter={(e) => { if (!loading) e.currentTarget.style.background = "#8a6a26"; }}
+                  onMouseLeave={(e) => { if (!loading) e.currentTarget.style.background = "#7a5c1e"; }}
                 >
                   {loading ? "Verzenden…" : "Verstuur mijn tip"}
                 </button>

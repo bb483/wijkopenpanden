@@ -1,3 +1,4 @@
+import Link from "next/link";
 import Nav from "@/components/Nav";
 import Footer from "@/components/Footer";
 import Section from "@/components/Section";
@@ -56,9 +57,9 @@ export default function RegionTemplate({ data }: { data: Region }) {
         {/* Hero */}
         <Section hero>
           <nav className="text-xs text-muted mb-6">
-            <a href="/" className="hover:text-ink transition-colors">Home</a>
+            <Link href="/" className="hover:text-ink transition-colors">Home</Link>
             <span className="mx-2">/</span>
-            <a href="/regios" className="hover:text-ink transition-colors">Regio&apos;s</a>
+            <Link href="/regios" className="hover:text-ink transition-colors">Regio&apos;s</Link>
             <span className="mx-2">/</span>
             <span>{data.name}</span>
           </nav>
@@ -138,11 +139,11 @@ export default function RegionTemplate({ data }: { data: Region }) {
           <Heading level={2} className="mb-6">Verwante pagina&apos;s</Heading>
           <div className="flex flex-wrap gap-4">
             {data.relatedPropertyTypes.map((slug) => (
-              <a key={slug} href={`/${slug}`} className="text-sm text-ink border border-ink/15 px-4 py-2 hover:border-ink/40 transition-colors">
+              <Link key={slug} href={`/${slug}`} className="text-sm text-ink border border-ink/15 px-4 py-2 hover:border-ink/40 transition-colors">
                 {slug.replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase())}
-              </a>
+              </Link>
             ))}
-            <a href="/regios" className="text-sm text-ink border border-ink/15 px-4 py-2 hover:border-ink/40 transition-colors">Alle regio&apos;s</a>
+            <Link href="/regios" className="text-sm text-ink border border-ink/15 px-4 py-2 hover:border-ink/40 transition-colors">Alle regio&apos;s</Link>
           </div>
         </Section>
 

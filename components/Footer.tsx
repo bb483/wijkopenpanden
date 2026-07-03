@@ -1,3 +1,4 @@
+import Link from "next/link";
 import Container from "./Container";
 
 const columns = [
@@ -53,11 +54,11 @@ export default function Footer() {
         <Container>
           <div className="flex flex-col md:flex-row md:items-end justify-between gap-6">
             <div>
-              <a href="/" className="font-serif font-bold text-2xl text-white tracking-tight">
+              <Link href="/" className="font-serif font-bold text-2xl text-white tracking-tight">
                 wijkopenpanden
                 <span style={{ color: "#C4A35A" }}>.</span>
                 be
-              </a>
+              </Link>
               <p className="mt-2 text-sm max-w-xs leading-relaxed" style={{ color: "rgba(255,255,255,0.4)" }}>
                 Direct een eerlijk bod op uw woning — zonder makelaar, volledig ontzorgd.
               </p>
@@ -89,9 +90,9 @@ export default function Footer() {
                 <ul className="flex flex-col gap-2.5">
                   {col.links.map((link) => (
                     <li key={link.href}>
-                      <a href={link.href} className="text-sm sm:text-base text-white/50 hover:text-white transition-colors duration-150">
+                      <Link href={link.href} className="text-sm sm:text-base text-white/50 hover:text-white transition-colors duration-150">
                         {link.label}
-                      </a>
+                      </Link>
                     </li>
                   ))}
                 </ul>
@@ -107,12 +108,12 @@ export default function Footer() {
           &copy; {new Date().getFullYear()} wijkopenpanden.be — KBO: BE 0797.335.149 — Antwerpen, België
         </span>
         <div className="flex gap-4">
-          <a href="/privacy" className="hover:text-white transition-colors duration-150">
+          <Link href="/privacy" className="hover:text-white transition-colors duration-150">
             Privacybeleid
-          </a>
-          <a href="/contact" className="hover:text-white transition-colors duration-150">
+          </Link>
+          <Link href="/contact" className="hover:text-white transition-colors duration-150">
             Contact
-          </a>
+          </Link>
         </div>
       </Container>
     </footer>

@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useEffect, useRef } from "react";
+import Link from "next/link";
 import Container from "./Container";
 import { scrollToFormulier } from "@/components/ScrollToFormulier";
 
@@ -81,11 +82,11 @@ export default function Nav() {
     >
       <Container className="flex items-center justify-between py-4">
         {/* Logo */}
-        <a href="/" className="flex-shrink-0 font-serif font-bold text-xl text-[#1C1610] tracking-tight">
+        <Link href="/" className="flex-shrink-0 font-serif font-bold text-xl text-[#1C1610] tracking-tight">
           wijkopenpanden
           <span style={{ color: "#C4A35A" }}>.</span>
           be
-        </a>
+        </Link>
 
         {/* Desktop nav */}
         <nav className="hidden md:flex items-center gap-1">
@@ -96,7 +97,13 @@ export default function Nav() {
               onMouseEnter={() => handleMouseEnter(menu.label)}
               onMouseLeave={handleMouseLeave}
             >
-              <button className="px-3 py-2 text-sm text-[#5C4D3C] hover:text-[#1C1610] transition-colors duration-150">
+              <button
+                className="px-3 py-2 text-sm text-[#5C4D3C] hover:text-[#1C1610] transition-colors duration-150 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#C4A35A] rounded-md"
+                aria-haspopup="true"
+                aria-expanded={open === menu.label}
+                onClick={() => setOpen(open === menu.label ? null : menu.label)}
+                onFocus={() => handleMouseEnter(menu.label)}
+              >
                 {menu.label}
               </button>
               {open === menu.label && (
@@ -109,13 +116,13 @@ export default function Nav() {
                   }}
                 >
                   {menu.items.map((item) => (
-                    <a
+                    <Link
                       key={item.href}
                       href={item.href}
                       className="block px-4 py-2.5 text-sm text-[#5C4D3C] hover:text-[#1C1610] hover:bg-[#FAF7F2] transition-colors duration-150"
                     >
                       {item.label}
-                    </a>
+                    </Link>
                   ))}
                 </div>
               )}
@@ -131,32 +138,33 @@ export default function Nav() {
           >
             0492 77 94 75
           </a>
-          <a
+          <Link
             href="/tip-een-pand"
             className="hidden lg:inline-flex px-5 py-2 rounded-full text-sm font-medium transition-colors duration-200 ease-out"
             style={{ background: "rgba(196,163,90,0.12)", color: "#C4A35A", border: "1px solid rgba(196,163,90,0.30)" }}
           >
             Tip & verdien €5.000
-          </a>
-          <a
+          </Link>
+          <Link
             href="/tip-een-pand"
             className="md:hidden inline-flex items-center px-2.5 py-1 rounded-full text-[11px] font-medium ml-auto"
             style={{ background: "rgba(196,163,90,0.12)", color: "#C4A35A", border: "1px solid rgba(196,163,90,0.30)" }}
           >
             Tip & verdien
-          </a>
-          <a
+          </Link>
+          <Link
             href="/#formulier"
             className="hidden md:inline-flex px-5 py-2 rounded-full text-sm font-medium text-white bg-[#C0392B] hover:bg-[#a93226] transition-colors duration-200 ease-out"
             onClick={(e) => { e.preventDefault(); scrollToFormulier(); }}
           >
             Vraag bod aan
-          </a>
+          </Link>
           {/* Hamburger */}
           <button
             className="md:hidden flex items-center justify-center w-11 h-11 text-[#5C4D3C] hover:text-[#1C1610] transition-colors"
             onClick={() => setMobileOpen(!mobileOpen)}
             aria-label="Menu"
+            aria-expanded={mobileOpen}
           >
             <svg width="22" height="22" viewBox="0 0 22 22" fill="none">
               {mobileOpen ? (
@@ -194,14 +202,14 @@ export default function Nav() {
                 {menu.label}
               </p>
               {menu.items.map((item) => (
-                <a
+                <Link
                   key={item.href}
                   href={item.href}
                   className="block px-6 py-4 text-sm text-[#5C4D3C] active:text-[#1C1610] transition-colors duration-150"
                   onClick={() => setMobileOpen(false)}
                 >
                   {item.label}
-                </a>
+                </Link>
               ))}
             </div>
           ))}
@@ -212,21 +220,21 @@ export default function Nav() {
             >
               0492 77 94 75
             </a>
-            <a
+            <Link
               href="/tip-een-pand"
               className="block text-center px-6 py-4 rounded-full text-sm font-medium transition-colors duration-200"
               style={{ background: "rgba(196,163,90,0.12)", color: "#C4A35A", border: "1px solid rgba(196,163,90,0.30)" }}
               onClick={() => setMobileOpen(false)}
             >
               Tip een pand — verdien tot €5.000
-            </a>
-            <a
+            </Link>
+            <Link
               href="/#formulier"
               className="block text-center px-6 py-4 rounded-full text-sm font-medium text-white bg-[#C0392B] active:bg-[#a93226] transition-colors duration-200"
               onClick={(e) => { e.preventDefault(); setMobileOpen(false); scrollToFormulier(); }}
             >
               Vraag bod aan
-            </a>
+            </Link>
           </div>
         </div>
       )}

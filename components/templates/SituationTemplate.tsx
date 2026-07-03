@@ -1,3 +1,4 @@
+import Link from "next/link";
 import Nav from "@/components/Nav";
 import Footer from "@/components/Footer";
 import Section from "@/components/Section";
@@ -41,7 +42,7 @@ export default function SituationTemplate({ data }: { data: Situation }) {
         {/* Hero */}
         <Section hero>
           <nav className="text-xs text-muted mb-6">
-            <a href="/" className="hover:text-ink transition-colors">Home</a>
+            <Link href="/" className="hover:text-ink transition-colors">Home</Link>
             <span className="mx-2">/</span>
             <span>{data.title}</span>
           </nav>
@@ -116,14 +117,14 @@ export default function SituationTemplate({ data }: { data: Situation }) {
             <Heading level={2} className="mb-6">Verwante informatie</Heading>
             <div className="flex flex-wrap gap-4">
               {data.relatedPropertyTypes.map((slug) => (
-                <a key={slug} href={`/${slug}`} className="text-sm text-ink border border-ink/15 px-4 py-2 hover:border-ink/40 transition-colors">
+                <Link key={slug} href={`/${slug}`} className="text-sm text-ink border border-ink/15 px-4 py-2 hover:border-ink/40 transition-colors">
                   {slug.replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase())}
-                </a>
+                </Link>
               ))}
               {data.relatedArticles.map((slug) => (
-                <a key={slug} href={`/kennisbank/${slug}`} className="text-sm text-ink border border-ink/15 px-4 py-2 hover:border-ink/40 transition-colors">
+                <Link key={slug} href={`/kennisbank/${slug}`} className="text-sm text-ink border border-ink/15 px-4 py-2 hover:border-ink/40 transition-colors">
                   Kennisbank: {slug.replace(/-/g, " ")}
-                </a>
+                </Link>
               ))}
             </div>
           </Section>

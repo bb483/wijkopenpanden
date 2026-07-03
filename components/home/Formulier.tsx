@@ -47,12 +47,30 @@ const inputBase: React.CSSProperties = {
   transition: "border-color 150ms, box-shadow 150ms",
 };
 
-function Field({ label, error, children }: { label: string; error?: string; children: React.ReactNode }) {
+function Field({
+  label,
+  error,
+  htmlFor,
+  errorId,
+  children,
+}: {
+  label: string;
+  error?: string;
+  htmlFor?: string;
+  errorId?: string;
+  children: React.ReactNode;
+}) {
   return (
     <div className="flex flex-col gap-2">
-      <p className="text-sm font-semibold" style={{ color: "#1C1610" }}>{label}</p>
+      {htmlFor ? (
+        <label htmlFor={htmlFor} className="text-sm font-semibold" style={{ color: "#1C1610" }}>{label}</label>
+      ) : (
+        <p className="text-sm font-semibold" style={{ color: "#1C1610" }}>{label}</p>
+      )}
       {children}
-      {error && <p className="text-sm font-medium" style={{ color: "#C0392B" }}>{error}</p>}
+      {error && (
+        <p id={errorId} role="alert" className="text-sm font-medium" style={{ color: "#C0392B" }}>{error}</p>
+      )}
     </div>
   );
 }
@@ -69,8 +87,10 @@ function OptionButton({
   return (
     <button
       type="button"
+      role="radio"
+      aria-checked={selected}
       onClick={onClick}
-      className="px-4 py-3 rounded-xl text-sm font-medium text-left transition-all duration-150 break-words"
+      className="px-4 py-3 rounded-xl text-sm font-medium text-left transition-all duration-150 break-words focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#C4A35A] focus-visible:ring-offset-2"
       style={{
         background: selected ? "rgba(196,163,90,0.10)" : "#FAF7F2",
         border: selected ? "2px solid #C4A35A" : "1.5px solid rgba(28,22,16,0.12)",
@@ -84,13 +104,19 @@ function OptionButton({
 }
 
 function AdresAutocomplete({
+  id,
+  name,
   value,
   onChange,
   error,
+  errorId,
 }: {
+  id: string;
+  name: string;
   value: string;
   onChange: (val: string) => void;
   error?: string;
+  errorId?: string;
 }) {
   const [suggestions, setSuggestions] = useState<string[]>([]);
   const [open, setOpen] = useState(false);
@@ -140,12 +166,20 @@ function AdresAutocomplete({
     <div ref={wrapperRef} className="relative">
       <input
         type="text"
+        id={id}
+        name={name}
         placeholder="Straat en nummer, gemeente"
         value={value}
         onChange={handleChange}
         onFocus={() => { setFocused(true); if (suggestions.length > 0) setOpen(true); }}
         onBlur={() => setFocused(false)}
         autoComplete="off"
+        role="combobox"
+        aria-autocomplete="list"
+        aria-expanded={open}
+        aria-controls={`${id}-listbox`}
+        aria-invalid={error ? true : undefined}
+        aria-describedby={error ? errorId : undefined}
         style={{
           ...inputBase,
           borderColor: focused ? "#C4A35A" : error ? "#C0392B" : "rgba(28,22,16,0.12)",
@@ -156,6 +190,8 @@ function AdresAutocomplete({
       <AnimatePresence>
         {open && (
           <motion.ul
+            id={`${id}-listbox`}
+            role="listbox"
             initial={{ opacity: 0, y: -4 }}
             animate={{ opacity: 1, y: 0 }}
             exit={{ opacity: 0, y: -4 }}
@@ -164,9 +200,11 @@ function AdresAutocomplete({
             style={{ background: "#FFFFFF", border: "1.5px solid rgba(28,22,16,0.10)", boxShadow: "0 8px 24px rgba(28,22,16,0.10)" }}
           >
             {suggestions.map((s, i) => (
-              <li key={i}>
+              <li key={i} role="presentation">
                 <button
                   type="button"
+                  role="option"
+                  aria-selected={false}
                   onMouseDown={() => handleSelect(s)}
                   className="w-full text-left px-4 py-3 text-sm transition-colors duration-100"
                   style={{ color: "#1C1610", borderBottom: i < suggestions.length - 1 ? "1px solid rgba(28,22,16,0.06)" : "none" }}
@@ -220,6 +258,7 @@ export default function Formulier() {
   const [submitted, setSubmitted] = useState(false);
   const [loading, setLoading] = useState(false);
   const [sendError, setSendError] = useState(false);
+  const [botcheck, setBotcheck] = useState(false);
 
   useEffect(() => {
     if (sessionStorage.getItem("scrollToFormulier") === "1") {
@@ -266,7 +305,7 @@ export default function Formulier() {
           access_key: "db7cb328-aaf2-4d20-becc-849f2aa440de",
           subject: `Nieuw bod aangevraagd — ${form.adres}`,
           from_name: form.naam,
-          replyto: form.telefoon,
+          botcheck,
           ...form,
         }),
       });
@@ -334,18 +373,39 @@ export default function Formulier() {
             ) : (
               <form onSubmit={handleSubmit} noValidate className="flex flex-col gap-7">
 
+                {/* Honeypot (spamfilter web3forms) */}
+                <input
+                  type="checkbox"
+                  name="botcheck"
+                  className="hidden"
+                  style={{ display: "none" }}
+                  tabIndex={-1}
+                  aria-hidden="true"
+                  checked={botcheck}
+                  onChange={(e) => setBotcheck(e.target.checked)}
+                />
+
                 {/* Adres */}
-                <Field label="Adres van het pand" error={errors.adres}>
+                <Field label="Adres van het pand" htmlFor="formulier-adres" error={errors.adres} errorId="formulier-adres-error">
                   <AdresAutocomplete
+                    id="formulier-adres"
+                    name="adres"
                     value={form.adres}
                     onChange={(val) => setForm((f) => ({ ...f, adres: val }))}
                     error={errors.adres}
+                    errorId="formulier-adres-error"
                   />
                 </Field>
 
                 {/* Type */}
-                <Field label="Type vastgoed" error={errors.typeWoning}>
-                  <div className="grid grid-cols-2 sm:grid-cols-3 gap-2">
+                <Field label="Type vastgoed" error={errors.typeWoning} errorId="formulier-typeWoning-error">
+                  <div
+                    className="grid grid-cols-2 sm:grid-cols-3 gap-2"
+                    role="radiogroup"
+                    aria-label="Type vastgoed"
+                    aria-invalid={errors.typeWoning ? true : undefined}
+                    aria-describedby={errors.typeWoning ? "formulier-typeWoning-error" : undefined}
+                  >
                     {types.map((t) => (
                       <OptionButton
                         key={t}
@@ -358,8 +418,14 @@ export default function Formulier() {
                 </Field>
 
                 {/* Staat */}
-                <Field label="Staat van het pand" error={errors.staat}>
-                  <div className="grid grid-cols-2 gap-2">
+                <Field label="Staat van het pand" error={errors.staat} errorId="formulier-staat-error">
+                  <div
+                    className="grid grid-cols-2 gap-2"
+                    role="radiogroup"
+                    aria-label="Staat van het pand"
+                    aria-invalid={errors.staat ? true : undefined}
+                    aria-describedby={errors.staat ? "formulier-staat-error" : undefined}
+                  >
                     {staten.map((s) => (
                       <OptionButton
                         key={s}
@@ -372,8 +438,14 @@ export default function Formulier() {
                 </Field>
 
                 {/* Intentie */}
-                <Field label="Wat zoekt u?" error={errors.intentie}>
-                  <div className="grid grid-cols-1 sm:grid-cols-2 gap-2">
+                <Field label="Wat zoekt u?" error={errors.intentie} errorId="formulier-intentie-error">
+                  <div
+                    className="grid grid-cols-1 sm:grid-cols-2 gap-2"
+                    role="radiogroup"
+                    aria-label="Wat zoekt u?"
+                    aria-invalid={errors.intentie ? true : undefined}
+                    aria-describedby={errors.intentie ? "formulier-intentie-error" : undefined}
+                  >
                     {intenties.map((item) => (
                       <OptionButton
                         key={item}
@@ -387,26 +459,34 @@ export default function Formulier() {
 
                 {/* Naam + Telefoon */}
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-5">
-                  <Field label="Uw naam" error={errors.naam}>
+                  <Field label="Uw naam" htmlFor="formulier-naam" error={errors.naam} errorId="formulier-naam-error">
                     <input
                       type="text"
+                      id="formulier-naam"
+                      name="naam"
                       placeholder="Voornaam en achternaam"
                       value={form.naam}
                       onChange={setText("naam")}
                       onFocus={handleFocus}
                       onBlur={handleBlur}
+                      aria-invalid={errors.naam ? true : undefined}
+                      aria-describedby={errors.naam ? "formulier-naam-error" : undefined}
                       style={inputBase}
                       className="placeholder:text-[#1C1610]/30"
                     />
                   </Field>
-                  <Field label="Telefoonnummer" error={errors.telefoon}>
+                  <Field label="Telefoonnummer" htmlFor="formulier-telefoon" error={errors.telefoon} errorId="formulier-telefoon-error">
                     <input
                       type="tel"
+                      id="formulier-telefoon"
+                      name="telefoon"
                       placeholder="0492 77 94 75"
                       value={form.telefoon}
                       onChange={setText("telefoon")}
                       onFocus={handleFocus}
                       onBlur={handleBlur}
+                      aria-invalid={errors.telefoon ? true : undefined}
+                      aria-describedby={errors.telefoon ? "formulier-telefoon-error" : undefined}
                       style={inputBase}
                       className="placeholder:text-[#1C1610]/30"
                     />
@@ -416,7 +496,7 @@ export default function Formulier() {
                 <button
                   type="submit"
                   disabled={loading}
-                  className="w-full rounded-full py-4 text-base font-semibold text-white transition-colors duration-200 disabled:opacity-60"
+                  className="w-full rounded-full py-4 text-base font-semibold text-white transition-colors duration-200 disabled:opacity-60 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#C4A35A] focus-visible:ring-offset-2"
                   style={{ background: "#C0392B", fontSize: "1.0625rem" }}
                   onMouseEnter={(e) => { if (!loading) e.currentTarget.style.background = "#a93226"; }}
                   onMouseLeave={(e) => { if (!loading) e.currentTarget.style.background = "#C0392B"; }}

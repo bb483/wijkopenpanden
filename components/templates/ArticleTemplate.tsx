@@ -1,3 +1,4 @@
+import Link from "next/link";
 import Nav from "@/components/Nav";
 import Footer from "@/components/Footer";
 import Section from "@/components/Section";
@@ -155,9 +156,9 @@ export default function ArticleTemplate({ data }: { data: Article }) {
         {/* Hero */}
         <Section hero>
           <nav className="text-xs text-muted mb-6">
-            <a href="/" className="hover:text-ink transition-colors">Home</a>
+            <Link href="/" className="hover:text-ink transition-colors">Home</Link>
             <span className="mx-2">/</span>
-            <a href="/kennisbank" className="hover:text-ink transition-colors">Kennisbank</a>
+            <Link href="/kennisbank" className="hover:text-ink transition-colors">Kennisbank</Link>
             <span className="mx-2">/</span>
             <span>{data.title}</span>
           </nav>
@@ -273,13 +274,13 @@ export default function ArticleTemplate({ data }: { data: Article }) {
                 </p>
               </div>
               <div className="flex flex-col sm:flex-row gap-3 flex-shrink-0">
-                <a
+                <Link
                   href="/#formulier"
                   className="px-7 py-3.5 rounded-full font-semibold text-white text-center whitespace-nowrap text-sm"
                   style={{ background: "#C0392B" }}
                 >
                   Vraag een bod aan
-                </a>
+                </Link>
                 <a
                   href="tel:0492779475"
                   className="px-7 py-3.5 rounded-full font-medium text-center whitespace-nowrap text-sm"
@@ -319,7 +320,7 @@ export default function ArticleTemplate({ data }: { data: Article }) {
                 </p>
                 <div className="flex flex-wrap gap-3">
                   {data.relatedSituations.map((slug) => (
-                    <a
+                    <Link
                       key={slug}
                       href={`/${slug}`}
                       className="text-sm px-4 py-2 rounded-full transition-colors duration-150"
@@ -329,10 +330,10 @@ export default function ArticleTemplate({ data }: { data: Article }) {
                       }}
                     >
                       {slug.replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase())}
-                    </a>
+                    </Link>
                   ))}
                   {data.relatedArticles.map((slug) => (
-                    <a
+                    <Link
                       key={slug}
                       href={`/kennisbank/${slug}`}
                       className="text-sm px-4 py-2 rounded-full transition-colors duration-150"
@@ -342,7 +343,7 @@ export default function ArticleTemplate({ data }: { data: Article }) {
                       }}
                     >
                       {slug.replace(/-/g, " ")}
-                    </a>
+                    </Link>
                   ))}
                 </div>
               </div>

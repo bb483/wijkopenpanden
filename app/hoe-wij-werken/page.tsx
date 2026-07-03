@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 import Nav from "@/components/Nav";
 import Footer from "@/components/Footer";
 import Section from "@/components/Section";
@@ -8,14 +9,15 @@ import Button from "@/components/Button";
 import FAQAccordion from "@/components/FAQAccordion";
 import FadeIn from "@/components/FadeIn";
 import StickyCtaButton from "@/components/StickyCtaButton";
+import JsonLd from "@/components/JsonLd";
 
 export const metadata: Metadata = {
-  title: "Hoe wij werken — wijkopenpanden.be",
+  title: "Hoe wij werken",
   description:
     "Ontdek hoe wijkopenpanden.be uw woning rechtstreeks aankoopt in 4 stappen: aanvraag, bezoek, contact binnen 2 uur, notariële akte. Geen makelaar, geen commissie.",
   alternates: { canonical: "https://wijkopenpanden.be/hoe-wij-werken" },
   openGraph: {
-    title: "Hoe wij werken — wijkopenpanden.be",
+    title: "Hoe wij werken | wijkopenpanden.be",
     description:
       "Ontdek hoe wijkopenpanden.be uw woning rechtstreeks aankoopt in 4 stappen: aanvraag, bezoek, contact binnen 2 uur, notariële akte. Geen makelaar, geen commissie.",
     url: "https://wijkopenpanden.be/hoe-wij-werken",
@@ -77,15 +79,26 @@ const faqs = [
   },
 ];
 
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  mainEntity: faqs.map((f) => ({
+    "@type": "Question",
+    name: f.question,
+    acceptedAnswer: { "@type": "Answer", text: f.answer },
+  })),
+};
+
 export default function Page() {
   return (
     <>
+      <JsonLd data={faqSchema} />
       <Nav />
       <main className="flex-1">
         {/* Hero */}
         <Section hero>
           <nav className="text-xs text-muted mb-6">
-            <a href="/" className="hover:text-ink transition-colors">Home</a>
+            <Link href="/" className="hover:text-ink transition-colors">Home</Link>
             <span className="mx-2">/</span>
             <span>Hoe wij werken</span>
           </nav>

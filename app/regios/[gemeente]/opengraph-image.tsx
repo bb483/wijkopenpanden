@@ -1,7 +1,6 @@
 import { ImageResponse } from "next/og";
 import { getRegion } from "@/content/regions";
 
-export const runtime = "edge";
 export const alt = "wijkopenpanden.be — vastgoed opkoper";
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
@@ -182,12 +181,18 @@ export default async function OGImage({
                   display: "flex",
                   alignItems: "center",
                   justifyContent: "center",
-                  fontSize: "10px",
-                  color: "white",
-                  fontWeight: 700,
                 }}
               >
-                ✓
+                <svg width="9" height="9" viewBox="0 0 10 10">
+                  <path
+                    d="M1.5 5.2 4 7.5 8.5 2.5"
+                    stroke="white"
+                    strokeWidth="1.6"
+                    fill="none"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                  />
+                </svg>
               </div>
               <span
                 style={{

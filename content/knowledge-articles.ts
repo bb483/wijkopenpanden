@@ -4,9 +4,9 @@ export const articles: Article[] = [
   {
     slug: "commissie-makelaar-belgie",
     title: "Makelaarsloon in België: wat betaalt u echt?",
-    metaTitle: "Makelaarsloon in België 2026 — wat betaalt u echt? | wijkopenpanden.be",
+    metaTitle: "Makelaarsloon in België 2026 — wat betaalt u echt?",
     metaDescription:
-      "Wat kost een makelaar in België? De commissie plus verborgen kosten lopen hoger op dan velen denken. Lees de volledige analyse en vergelijk met verkopen aan een opkoper.",
+      "Wat kost een makelaar in België? Commissie en verborgen kosten lopen hoog op. Vergelijk de volledige rekening met verkopen aan een opkoper zonder commissie.",
     publishedAt: "2026-01-10",
     updatedAt: "2026-01-15",
     intro:
@@ -77,9 +77,9 @@ export const articles: Article[] = [
   {
     slug: "keuringen-bij-verkoop-woning",
     title: "Welke keuringen zijn verplicht bij de verkoop van een woning in België?",
-    metaTitle: "Verplichte keuringen bij woningverkoop in België 2026 | wijkopenpanden.be",
+    metaTitle: "Verplichte keuringen bij woningverkoop in België 2026",
     metaDescription:
-      "EPC, elektriciteitskeuring, asbestinventaris, stookolietank — welke keuringen zijn wettelijk verplicht bij de verkoop van uw woning? Overzicht van kosten en termijnen.",
+      "EPC, elektriciteitskeuring, asbestinventaris: welke keuringen zijn wettelijk verplicht bij de verkoop van uw woning? Overzicht van kosten en termijnen.",
     publishedAt: "2026-02-01",
     updatedAt: "2026-03-10",
     intro:
@@ -142,7 +142,7 @@ export const articles: Article[] = [
   {
     slug: "verkoop-kosten-berekenen",
     title: "Alle verkoopkosten berekend: wat blijft er netto over?",
-    metaTitle: "Verkoopkosten woning berekenen in België 2026 | wijkopenpanden.be",
+    metaTitle: "Verkoopkosten woning berekenen in België 2026",
     metaDescription:
       "Wat zijn de werkelijke kosten bij de verkoop van uw woning? Notariskosten, keuringen, commissie, fiscaliteit — bereken uw netto-opbrengst voor u beslist.",
     publishedAt: "2026-02-15",
@@ -205,7 +205,7 @@ export const articles: Article[] = [
   {
     slug: "epc-attest-antwerpen",
     title: "EPC-attest in Antwerpen: alles wat u moet weten",
-    metaTitle: "EPC-attest aanvragen in Antwerpen 2026 — kosten en procedure | wijkopenpanden.be",
+    metaTitle: "EPC-attest aanvragen in Antwerpen 2026 — kosten en procedure",
     metaDescription:
       "Wat is een EPC-attest, hoe vraagt u het aan in Antwerpen, hoeveel kost het en wat zijn de gevolgen van een lage energiescore voor uw verkoopprijs?",
     publishedAt: "2026-03-01",
@@ -262,7 +262,7 @@ export const articles: Article[] = [
   {
     slug: "erfenis-woning-stappenplan",
     title: "Erfenis woning verkopen: stap voor stap",
-    metaTitle: "Erfenis woning verkopen in België — stappenplan 2026 | wijkopenpanden.be",
+    metaTitle: "Erfenis woning verkopen in België — stappenplan 2026",
     metaDescription:
       "Wat zijn de stappen bij de verkoop van een geërfde woning? Successierechten, onverdeeldheid, bodemattest en tijdsdruk — lees het volledige stappenplan.",
     publishedAt: "2026-03-01",
@@ -323,7 +323,7 @@ export const articles: Article[] = [
   {
     slug: "verkoopbelofte-compromis-akte",
     title: "Verkoopbelofte, compromis en akte: wat is het verschil?",
-    metaTitle: "Compromis, verkoopbelofte en akte bij woningverkoop uitgelegd | wijkopenpanden.be",
+    metaTitle: "Compromis, verkoopbelofte en akte bij woningverkoop uitgelegd",
     metaDescription:
       "Wat is het verschil tussen een verkoopbelofte, een compromis en een notariële akte? Wanneer is de verkoop definitief? Alles uitgelegd voor verkopers.",
     publishedAt: "2026-03-10",
@@ -371,7 +371,7 @@ export const articles: Article[] = [
   {
     slug: "notariskosten-woning-verkoop",
     title: "Notariskosten bij de verkoop van uw woning: wat betaalt u echt?",
-    metaTitle: "Notariskosten bij woningverkoop in België 2026 | wijkopenpanden.be",
+    metaTitle: "Notariskosten bij woningverkoop in België 2026",
     metaDescription:
       "Hoeveel kost een notaris bij de verkoop van uw woning? Registratierechten, ereloon, doorhaling hypotheek — volledig overzicht van de notariskosten in België.",
     publishedAt: "2026-03-15",
@@ -423,7 +423,7 @@ export const articles: Article[] = [
   {
     slug: "lijfrente-uitgelegd",
     title: "Lijfrente bij vastgoed: hoe werkt het en voor wie is het geschikt?",
-    metaTitle: "Lijfrente woning verkopen uitgelegd 2026 | wijkopenpanden.be",
+    metaTitle: "Lijfrente woning verkopen uitgelegd 2026",
     metaDescription:
       "Lijfrente bij vastgoed: wat is het, hoe wordt de prijs berekend, wat zijn de fiscale voordelen en voor wie is een lijfrenteverkoop interessant?",
     publishedAt: "2026-03-20",
@@ -475,7 +475,7 @@ export const articles: Article[] = [
   {
     slug: "blijven-wonen-na-verkoop",
     title: "Blijven wonen na de verkoop van uw woning: hoe werkt dat?",
-    metaTitle: "Blijven wonen na verkoop woning — huurovereenkomst of vruchtgebruik | wijkopenpanden.be",
+    metaTitle: "Blijven wonen na verkoop woning — huur of vruchtgebruik",
     metaDescription:
       "Hoe kunt u in uw woning blijven wonen na de verkoop? Terughuurovereenkomst, vruchtgebruik of recht van bewoning — uitleg, voor- en nadelen.",
     publishedAt: "2026-03-25",
@@ -535,9 +535,9 @@ export const articles: Article[] = [
   {
     slug: "pand-in-slechte-staat-verkopen",
     title: "Een pand in slechte staat verkopen: wat zijn uw opties?",
-    metaTitle: "Pand in slechte staat verkopen in Antwerpen 2026 | wijkopenpanden.be",
+    metaTitle: "Pand in slechte staat verkopen in Antwerpen 2026",
     metaDescription:
-      "Hoe verkoopt u een woning die gerenoveerd moet worden? Wat kunt u verwachten qua prijs, en wat zijn de voor- en nadelen van renoveren voor verkoop vs. as-is verkopen?",
+      "Woning in slechte staat verkopen? Wat mag u verwachten qua prijs en wat loont het meest: renoveren voor de verkoop of as-is verkopen aan een opkoper?",
     publishedAt: "2026-04-01",
     updatedAt: "2026-04-10",
     intro:
@@ -592,9 +592,9 @@ export const articles: Article[] = [
   {
     slug: "belastingen-bij-woningverkoop",
     title: "Belastingen bij woningverkoop in België: wat betaalt u echt?",
-    metaTitle: "Belastingen bij woningverkoop in België 2026 | wijkopenpanden.be",
+    metaTitle: "Belastingen bij woningverkoop in België 2026",
     metaDescription:
-      "Welke belastingen betaalt u bij de verkoop van uw woning in België? Meerwaardebelasting, registratierechten, onroerende voorheffing — alles uitgelegd met praktische voorbeelden.",
+      "Welke belastingen betaalt u bij de verkoop van uw woning in België? Meerwaardebelasting, registratierechten en onroerende voorheffing helder uitgelegd.",
     publishedAt: "2026-05-01",
     updatedAt: "2026-05-28",
     intro:
@@ -668,9 +668,9 @@ export const articles: Article[] = [
   {
     slug: "mede-eigendom-verkopen",
     title: "Mede-eigendom verkopen in België: erfenis, scheiding en geblokkeerde situaties",
-    metaTitle: "Mede-eigendom verkopen in België 2026 — erfenis, scheiding | wijkopenpanden.be",
+    metaTitle: "Mede-eigendom verkopen in België 2026 — erfenis, scheiding",
     metaDescription:
-      "Wat als een mede-eigenaar niet wil verkopen? Hoe verkoopt u een woning in onverdeeldheid na erfenis of scheiding? Alles over mede-eigendom en gedwongen verdeling in België.",
+      "Wat als een mede-eigenaar niet wil verkopen? Alles over een woning in onverdeeldheid verkopen na erfenis of scheiding en gedwongen verdeling in België.",
     publishedAt: "2026-05-10",
     updatedAt: "2026-05-28",
     intro:
@@ -730,9 +730,9 @@ export const articles: Article[] = [
   {
     slug: "snel-geld-vrijmaken-woning",
     title: "Snel geld vrijmaken uit uw woning: alle opties naast elkaar",
-    metaTitle: "Snel geld vrijmaken uit uw woning in België 2026 | wijkopenpanden.be",
+    metaTitle: "Snel geld vrijmaken uit uw woning in België 2026",
     metaDescription:
-      "Wilt u snel geld vrijmaken uit uw woning zonder te verhuizen of met snelle verkoop? Vergelijking van alle opties: verkoop aan opkoper, herfinanciering, lijfrente, sale-and-leaseback.",
+      "Snel geld vrijmaken uit uw woning? Vergelijk alle opties: verkoop aan een opkoper, herfinanciering, lijfrente en sale-and-leaseback. Helder overzicht.",
     publishedAt: "2026-05-20",
     updatedAt: "2026-05-28",
     intro:
@@ -806,9 +806,9 @@ export const articles: Article[] = [
   {
     slug: "energie-renovatieplicht-vlaanderen-2026",
     title: "Energie-renovatieplicht Vlaanderen 2026: wat betekent het voor uw woning?",
-    metaTitle: "Energie-renovatieplicht Vlaanderen 2026 — gevolgen voor verkopers | wijkopenpanden.be",
+    metaTitle: "Energie-renovatieplicht Vlaanderen 2026 — gevolgen voor verkopers",
     metaDescription:
-      "Heeft uw woning EPC-label E of F? De Vlaamse renovatieplicht verplicht kopers tot renovatie binnen 6 jaar. Wat betekent dit voor uw verkoopprijs — en wat zijn uw opties?",
+      "EPC-label E of F? De Vlaamse renovatieplicht verplicht kopers tot renoveren binnen 6 jaar. Wat betekent dit voor uw verkoopprijs en wat zijn uw opties?",
     publishedAt: "2026-05-28",
     updatedAt: "2026-05-28",
     intro:
@@ -898,7 +898,7 @@ export const articles: Article[] = [
   {
     slug: "stedenbouwkundige-overtreding-woning-verkopen",
     title: "Stedenbouwkundige overtreding: uw woning verkopen zonder te regulariseren",
-    metaTitle: "Stedenbouwkundige overtreding woning verkopen Antwerpen 2026 | wijkopenpanden.be",
+    metaTitle: "Stedenbouwkundige overtreding woning verkopen Antwerpen 2026",
     metaDescription:
       "Heeft uw woning een niet-vergunde aanbouw, veranda of verbouwing? U kunt verkopen zonder te regulariseren — maar er zijn regels. Alles wat u moet weten in 2026.",
     publishedAt: "2026-06-04",
@@ -969,7 +969,7 @@ export const articles: Article[] = [
   {
     slug: "huis-verkopen-antwerpen-gids",
     title: "Huis verkopen in Antwerpen: de complete gids (2026)",
-    metaTitle: "Huis verkopen in Antwerpen — complete gids 2026 | wijkopenpanden.be",
+    metaTitle: "Huis verkopen in Antwerpen — complete gids 2026",
     metaDescription:
       "Hoe verkoop je een woning in Antwerpen? Stap-voor-stap: attesten, tijdlijn, kosten en keuze tussen makelaar of opkoper. Alles wat u nodig hebt in 2026.",
     publishedAt: "2026-06-04",
@@ -1047,7 +1047,7 @@ export const articles: Article[] = [
   {
     slug: "hoelang-duurt-huis-verkopen-belgie",
     title: "Hoelang duurt een huis verkopen in België? Realistische tijdlijnen (2026)",
-    metaTitle: "Hoelang duurt een huis verkopen in België? Tijdlijnen 2026 | wijkopenpanden.be",
+    metaTitle: "Hoelang duurt een huis verkopen in België? Tijdlijnen 2026",
     metaDescription:
       "Hoelang duurt het om een woning te verkopen in België? Van 6 weken tot meer dan een jaar — afhankelijk van uw keuze. Vergelijking per verkoopoptie voor 2026.",
     publishedAt: "2026-06-04",
@@ -1205,7 +1205,7 @@ export const articles: Article[] = [
   {
     slug: "verhuren-of-verkopen-antwerpen",
     title: "Verhuren of verkopen in Antwerpen? De eerlijke vergelijking (2026)",
-    metaTitle: "Verhuren of verkopen in Antwerpen? Eerlijke vergelijking 2026 | wijkopenpanden.be",
+    metaTitle: "Verhuren of verkopen in Antwerpen? Eerlijke vergelijking 2026",
     metaDescription:
       "Moet u uw woning verhuren of verkopen in Antwerpen? Rendement, risico's, EPC-verplichtingen en de nieuwe huurindexeringsregels — alles vergeleken voor 2026.",
     publishedAt: "2026-06-04",
@@ -1414,9 +1414,9 @@ export const articles: Article[] = [
   {
     slug: "pand-tippen-en-beloning-verdienen",
     title: "Pand tippen en tot €5.000 verdienen: zo werkt het beloningsprogramma",
-    metaTitle: "Pand tippen en beloning verdienen tot €5.000 | wijkopenpanden.be",
+    metaTitle: "Pand tippen en beloning verdienen tot €5.000",
     metaDescription:
-      "Kent u een buur, kennis of familielid dat wil verkopen? Geef een tip aan wijkopenpanden.be en ontvang tot €5.000 beloning bij een succesvolle aankoop. Snel, discreet en gratis.",
+      "Kent u iemand die zijn pand wil verkopen? Geef een tip aan wijkopenpanden.be en ontvang tot €5.000 bij een succesvolle aankoop. Snel, discreet en gratis.",
     publishedAt: "2026-06-09",
     updatedAt: "2026-06-09",
     intro:
@@ -1489,9 +1489,9 @@ export const articles: Article[] = [
   {
     slug: "lijfrente-woning-verkopen-belgie",
     title: "Lijfrente: uw woning verkopen met maandelijkse uitkering — berekening, fiscus en nadelen",
-    metaTitle: "Lijfrente woning verkopen 2026: berekening, fiscus & nadelen | wijkopenpanden.be",
+    metaTitle: "Lijfrente woning verkopen 2026: berekening, fiscus & nadelen",
     metaDescription:
-      "Hoe werkt lijfrente bij vastgoed in België? Bouquet, berekening via sterftetafels, fiscale behandeling en vergelijking met gewone verkoop — volledig uitgelegd voor 2026.",
+      "Hoe werkt lijfrente bij vastgoed in België? Bouquet, berekening via sterftetafels en de fiscale behandeling — volledig uitgelegd voor 2026.",
     publishedAt: "2026-06-09",
     updatedAt: "2026-06-09",
     intro:
@@ -1581,7 +1581,7 @@ export const articles: Article[] = [
   {
     slug: "leegstandsheffing-antwerpen-2026",
     title: "Leegstandsheffing in de Antwerpse regio 2026: wat u betaalt en wat u kunt doen",
-    metaTitle: "Leegstandsheffing Antwerpen 2026: bedragen, regels en oplossingen | wijkopenpanden.be",
+    metaTitle: "Leegstandsheffing Antwerpen 2026: bedragen, regels en oplossingen",
     metaDescription:
       "Staat uw woning leeg in de Antwerpse regio? Ontdek hoe de leegstandsheffing werkt in 2026, hoeveel u betaalt en welke opties u heeft om de heffing te vermijden.",
     publishedAt: "2026-06-12",
@@ -1618,7 +1618,7 @@ export const articles: Article[] = [
         body: "Erfgenamen die een leegstaande woning erven, worden mede-eigenaar van het pand en zijn samen verantwoordelijk voor de leegstandsheffing. Dat leidt in de praktijk tot twee problemen:\n\nFinancieel: de heffing loopt maandelijks door, ook terwijl de erfgenamen onderling overleggen over wat er met het pand moet gebeuren. Iedere maand uitstel kost geld.\n\nJuridisch: bij mede-eigendom moeten álle erfgenamen akkoord gaan met een beslissing (verhuren, renoveren, verkopen). Bij meningsverschillen kan dit een traject van maanden of jaren worden — terwijl de heffing doorloopt.\n\nVoor erfgenamen in de Antwerpse regio biedt een snelle verkoop aan een opkoper een praktische uitweg: één notariële akte, de opbrengst verdeeld onder de erfgenamen, en de heffing eindigt definitief. Geen verdere discussies, geen maandelijkse kosten.",
       },
     ],
-    relatedArticles: ["verhuren-of-verkopen-antwerpen", "energie-renovatieplicht-vlaanderen-2026", "huis-verkopen-bij-erfenis"],
+    relatedArticles: ["verhuren-of-verkopen-antwerpen", "energie-renovatieplicht-vlaanderen-2026"],
     relatedSituations: ["huis-verkopen-bij-erfenis", "opknappand-verkopen", "pand-met-huurders-verkopen"],
     faqs: [
       {
@@ -1651,9 +1651,9 @@ export const articles: Article[] = [
   {
     slug: "erfbelasting-vlaanderen-2026",
     title: "Erfbelasting op een woning in Vlaanderen: tarieven, berekening en vrijstellingen (2026)",
-    metaTitle: "Erfbelasting woning Vlaanderen 2026: tarieven & berekening | wijkopenpanden.be",
+    metaTitle: "Erfbelasting woning Vlaanderen 2026: tarieven & berekening",
     metaDescription:
-      "Hoeveel erfbelasting betaalt u op een woning in Vlaanderen? Nieuwe tarieven 2026, vrijstelling gezinswoning, berekening in rechte lijn en wanneer verkopen financieel slim is.",
+      "Hoeveel erfbelasting betaalt u op een woning in Vlaanderen? Tarieven 2026, vrijstelling gezinswoning en wanneer verkopen financieel slim is.",
     publishedAt: "2026-06-14",
     updatedAt: "2026-06-14",
     intro:
@@ -1726,9 +1726,9 @@ export const articles: Article[] = [
   {
     slug: "hoelang-tijd-erfbelasting-betalen",
     title: "Hoelang heb ik de tijd om erfbelasting te betalen in Vlaanderen?",
-    metaTitle: "Hoelang erfbelasting betalen Vlaanderen? Termijnen & uitstel 2026 | wijkopenpanden.be",
+    metaTitle: "Hoelang erfbelasting betalen Vlaanderen? Termijnen & uitstel 2026",
     metaDescription:
-      "Wanneer moet u erfbelasting betalen na een overlijden? Aangifte binnen 4 maanden, betaling binnen 2 maanden na aanslagbiljet. Wat bij te laat betalen en hoe vraagt u uitstel?",
+      "Wanneer moet u erfbelasting betalen na een overlijden? Aangifte binnen 4 maanden, betaling na het aanslagbiljet. Wat bij te laat betalen en uitstel?",
     publishedAt: "2026-06-15",
     updatedAt: "2026-06-15",
     intro:
@@ -1774,7 +1774,7 @@ export const articles: Article[] = [
         },
       },
     ],
-    relatedArticles: ["erfbelasting-vlaanderen-2026", "huis-verkopen-bij-erfenis", "leegstandsheffing-antwerpen-2026"],
+    relatedArticles: ["erfbelasting-vlaanderen-2026", "leegstandsheffing-antwerpen-2026"],
     relatedSituations: ["huis-verkopen-bij-erfenis", "verkopen-zonder-makelaar"],
     faqs: [
       {
@@ -1812,9 +1812,9 @@ export const articles: Article[] = [
   {
     slug: "ontbrekend-busnummer-onvergund-appartement-antwerpen",
     title: "Ontbrekend busnummer en onvergund appartement in Antwerpen: wat nu?",
-    metaTitle: "Ontbrekend busnummer appartement Antwerpen: EPC, verkoop & oplossing 2026",
+    metaTitle: "Ontbrekend busnummer appartement Antwerpen: oplossing 2026",
     metaDescription:
-      "Geen busnummer = geen EPC = geen verkoop. Ontdek waarom busnummers ontbreken in Antwerp, de tijdelijke oplossing via VEKA en wanneer verkopen toch mogelijk is zonder regularisatie.",
+      "Geen busnummer, geen EPC, geen verkoop? Waarom busnummers ontbreken in Antwerpen, de tijdelijke oplossing via VEKA en wanneer verkopen toch kan.",
     publishedAt: "2026-06-15",
     updatedAt: "2026-06-15",
     intro:
@@ -1887,9 +1887,9 @@ export const articles: Article[] = [
   {
     slug: "huis-verkopen-met-hypotheek",
     title: "Huis verkopen met een lopende hypotheek: wat u moet weten in België",
-    metaTitle: "Huis verkopen met hypotheek België 2026: hoe werkt het? | wijkopenpanden.be",
+    metaTitle: "Huis verkopen met hypotheek België 2026: hoe werkt het?",
     metaDescription:
-      "Kunt u uw woning verkopen als u nog een hypotheek heeft? Ja — maar er zijn stappen. Wedersamenstelling, boete vervroegde terugbetaling en wat bij te weinig opbrengst. Uitleg voor 2026.",
+      "Kunt u uw woning verkopen met een lopende hypotheek? Ja. Alles over de boete voor vervroegde terugbetaling en wat bij te weinig opbrengst. Uitleg 2026.",
     publishedAt: "2026-06-15",
     updatedAt: "2026-06-15",
     intro:
@@ -1953,7 +1953,7 @@ export const articles: Article[] = [
   {
     slug: "compromis-verkoop-woning-belgie",
     title: "Het compromis bij de verkoop van uw woning: rechten, plichten en risico's",
-    metaTitle: "Compromis verkoop woning België 2026: alles wat u moet weten | wijkopenpanden.be",
+    metaTitle: "Compromis verkoop woning België 2026: alles wat u moet weten",
     metaDescription:
       "Wat is een compromis bij de verkoop van een woning? Wat als de koper of verkoper afziet? Opschortende voorwaarden, bankwaarborg en risico's uitgelegd voor 2026.",
     publishedAt: "2026-06-15",
@@ -2024,9 +2024,9 @@ export const articles: Article[] = [
   {
     slug: "verborgen-gebreken-woning-verkoop-belgie",
     title: "Verborgen gebreken bij de verkoop van uw woning: aansprakelijkheid en bescherming",
-    metaTitle: "Verborgen gebreken woning verkoop België 2026: aansprakelijkheid uitgelegd | wijkopenpanden.be",
+    metaTitle: "Verborgen gebreken bij woningverkoop België 2026",
     metaDescription:
-      "Als verkoper aansprakelijk voor verborgen gebreken? Wanneer geldt de vrijwaringsplicht, wat zijn de voorwaarden en hoe beschermt u zichzelf met een as-is-clausule. Uitleg voor 2026.",
+      "Aansprakelijk als verkoper voor verborgen gebreken? Wanneer geldt de vrijwaringsplicht en hoe beschermt een as-is-clausule u? Uitleg voor 2026.",
     publishedAt: "2026-06-23",
     updatedAt: "2026-06-23",
     intro:
@@ -2090,9 +2090,9 @@ export const articles: Article[] = [
   {
     slug: "lijfrente-rechten-bescherming-verkoper",
     title: "Lijfrente verkopen: uw rechten en bescherming als verkoper",
-    metaTitle: "Lijfrente verkopen België 2026: rechten en bescherming verkoper | wijkopenpanden.be",
+    metaTitle: "Lijfrente verkopen België 2026: rechten en bescherming verkoper",
     metaDescription:
-      "Ontbindingsbeding, registratierechten, brandverzekering en wat bij overlijden koper. Alles over uw juridische bescherming als u uw woning op lijfrente verkoopt in 2026.",
+      "Ontbindingsbeding, brandverzekering en wat bij overlijden van de koper: uw juridische bescherming als u uw woning op lijfrente verkoopt in 2026.",
     publishedAt: "2026-06-24",
     updatedAt: "2026-06-24",
     intro:
@@ -2378,7 +2378,7 @@ export const articles: Article[] = [
     title: "Huurder in uw woning bij verkoop: rechten, recht van voorkoop en hoe u de verkoop organiseert",
     metaTitle: "Huurder rechten bij verkoop woning Vlaanderen 2026",
     metaDescription:
-      "Verkoopt u een verhuurde woning in Vlaanderen? Lees over het recht van voorkoop van de huurder, opzegtermijnen, hoe de koper het huurcontract overneemt en hoe de verkoop vlot verloopt.",
+      "Verhuurde woning verkopen in Vlaanderen? Alles over het recht van voorkoop van de huurder, opzegtermijnen en hoe de koper het huurcontract overneemt.",
     publishedAt: "2026-06-27",
     updatedAt: "2026-06-27",
     intro:
@@ -2444,7 +2444,7 @@ export const articles: Article[] = [
     title: "Appartement in een VME verkopen: syndicus, reservekapitaal en verkoopproces",
     metaTitle: "Appartement VME verkopen 2026: syndicus & attest uitgelegd",
     metaDescription:
-      "Appartement in een VME verkopen in België? Lees wat de syndicus moet aanleveren, wat er met het reservekapitaal gebeurt, hoe de notaris de schulden verrekent en wat bij grote geplande werken.",
+      "Appartement in een VME verkopen? Wat de syndicus moet aanleveren, wat er met het reservekapitaal gebeurt en wat bij grote geplande werken. Uitgelegd.",
     publishedAt: "2026-06-27",
     updatedAt: "2026-06-27",
     intro:
@@ -2508,7 +2508,7 @@ export const articles: Article[] = [
   {
     slug: "woning-staat-al-maanden-te-koop",
     title: "Uw woning staat al maanden te koop zonder resultaat: oorzaken en oplossingen",
-    metaTitle: "Woning verkoopt niet / staat al maanden te koop? Oorzaken + oplossingen 2026 | wijkopenpanden.be",
+    metaTitle: "Woning verkoopt niet? Oorzaken en oplossingen 2026",
     metaDescription:
       "Uw woning raakt niet verkocht of staat al maanden te koop? De echte oorzaken, wat het u kost en wat u kunt doen om de verkoop alsnog te deblokkeren.",
     publishedAt: "2026-06-28",
@@ -2620,9 +2620,9 @@ export const articles: Article[] = [
   {
     slug: "huis-verkopen-bij-betalingsproblemen-schulden",
     title: "Huis verkopen bij betalingsproblemen of schulden in België",
-    metaTitle: "Huis verkopen bij schulden of betalingsproblemen — kan dat? (2026) | wijkopenpanden.be",
+    metaTitle: "Huis verkopen bij schulden of betalingsproblemen? (2026)",
     metaDescription:
-      "Betalingsproblemen, achterstallige hypotheek of beslag op uw woning? U kunt vaak nog zelf verkopen — en dat brengt meer op dan een gedwongen verkoop. Zo werkt het in België.",
+      "Achterstallige hypotheek of beslag op uw woning? Zelf verkopen kan vaak nog en brengt meer op dan een gedwongen verkoop. Zo werkt het in België.",
     publishedAt: "2026-06-28",
     updatedAt: "2026-06-28",
     intro:
@@ -2714,9 +2714,9 @@ export const articles: Article[] = [
   {
     slug: "betrouwbaar-verkopen-aan-opkoper",
     title: "Is verkopen aan een opkoper betrouwbaar? Het addertje, de prijs en waar u op moet letten",
-    metaTitle: "Is verkopen aan een opkoper betrouwbaar? Het addertje eerlijk uitgelegd (2026) | wijkopenpanden.be",
+    metaTitle: "Is verkopen aan een opkoper betrouwbaar? Checklist 2026",
     metaDescription:
-      "Snelle opkopers hebben een reputatie. Wat is het addertje onder het gras, krijgt u een eerlijke prijs of betaalt u te veel onder de marktwaarde, en waaraan herkent u een betrouwbare partij? Eerlijk uitgelegd.",
+      "Is verkopen aan een opkoper betrouwbaar? Wat is het addertje, krijgt u een eerlijke prijs en waaraan herkent u een serieuze partij? Eerlijk uitgelegd.",
     publishedAt: "2026-06-29",
     updatedAt: "2026-06-29",
     intro:
@@ -2780,9 +2780,9 @@ export const articles: Article[] = [
   {
     slug: "bod-aanvragen-vrijblijvend-bindend",
     title: "Een bod aanvragen: gratis, vrijblijvend en hoe bindend is het echt?",
-    metaTitle: "Is een bod aanvragen vrijblijvend en gratis? Hoe bindend is het? (2026) | wijkopenpanden.be",
+    metaTitle: "Is een bod aanvragen vrijblijvend en gratis? (2026)",
     metaDescription:
-      "Zit u ergens aan vast als u een bod aanvraagt? Is het gratis, wat als u het bod niet aanvaardt, en vanaf wanneer is een verkoop juridisch bindend in België? Helder uitgelegd.",
+      "Zit u ergens aan vast als u een bod aanvraagt? Is het gratis, wat als u niet aanvaardt en wanneer is een verkoop juridisch bindend? Helder uitgelegd.",
     publishedAt: "2026-06-29",
     updatedAt: "2026-06-29",
     intro:
@@ -2855,9 +2855,9 @@ export const articles: Article[] = [
   {
     slug: "opkoper-of-makelaar-verschil",
     title: "Opkoper of makelaar? Het volledige verschil in kosten, snelheid en gedoe",
-    metaTitle: "Opkoper of makelaar? Het volledige verschil (kosten, snelheid, gedoe) 2026 | wijkopenpanden.be",
+    metaTitle: "Opkoper of makelaar? Verschil in kosten en snelheid 2026",
     metaDescription:
-      "Vragen jullie commissie? Wat is het verschil met een makelaar, en moet ik nog foto's, bezichtigingen of een te-koop-bord regelen? Een eerlijke vergelijking tussen een opkoper en een makelaar.",
+      "Opkoper of makelaar? Een eerlijke vergelijking: commissie, snelheid, foto's, bezichtigingen en wat u bij elke formule zelf nog moet regelen.",
     publishedAt: "2026-06-29",
     updatedAt: "2026-06-29",
     intro:
@@ -2934,7 +2934,7 @@ export const articles: Article[] = [
   {
     slug: "keuringen-attesten-bij-directe-verkoop",
     title: "Asbestattest, EPC en elektrische keuring bij een directe verkoop: wat regelt u nog zelf?",
-    metaTitle: "EPC, asbestattest en keuring bij directe verkoop — wat regelt u zelf? (2026) | wijkopenpanden.be",
+    metaTitle: "EPC, asbestattest en keuring bij directe verkoop (2026)",
     metaDescription:
       "Heeft u bij een directe verkoop nog een EPC, asbestattest of keuring nodig? Welke attesten verplicht blijven en wat de opkoper voor u regelt.",
     publishedAt: "2026-06-29",
@@ -3011,7 +3011,7 @@ export const articles: Article[] = [
   {
     slug: "hoe-snel-verkopen-en-geld-ontvangen",
     title: "Hoe snel kunt u verkopen en wanneer staat het geld op uw rekening?",
-    metaTitle: "Hoe snel verkopen en wanneer staat het geld op mijn rekening? (2026) | wijkopenpanden.be",
+    metaTitle: "Hoe snel verkopen en wanneer krijgt u het geld? (2026)",
     metaDescription:
       "Hoe snel verkoopt u aan een opkoper en wanneer staat het geld op uw rekening? De volledige tijdlijn van aanvraag tot uitbetaling — en wat het tempo bepaalt.",
     publishedAt: "2026-06-29",
@@ -3086,7 +3086,7 @@ export const articles: Article[] = [
   {
     slug: "vruchtgebruik-woning-verkopen",
     title: "Woning verkopen met vruchtgebruik: hoe werkt het en wie krijgt wat?",
-    metaTitle: "Woning verkopen met vruchtgebruik: zo werkt het (2026) | wijkopenpanden.be",
+    metaTitle: "Woning verkopen met vruchtgebruik: zo werkt het (2026)",
     metaDescription:
       "Woning verkopen met vruchtgebruik? Ontdek wie akkoord moet gaan, hoe de prijs verdeeld wordt via de omzettingstabellen en welke fouten u best vermijdt.",
     publishedAt: "2026-07-02",
@@ -3172,9 +3172,9 @@ export const articles: Article[] = [
   {
     slug: "stookolietank-woning-verkopen",
     title: "Huis verkopen met een stookolietank (mazouttank): keuring, sanering en uw plichten",
-    metaTitle: "Huis verkopen met stookolietank (2026) | wijkopenpanden.be",
+    metaTitle: "Huis verkopen met stookolietank (2026)",
     metaDescription:
-      "Huis verkopen met een stookolietank in Vlaanderen? Keuringsplicht, dopkleuren, buitengebruikstelling, het Promaz-fonds en kostenordes — uw plichten in 2026 op een rij.",
+      "Huis verkopen met een stookolietank in Vlaanderen? Keuringsplicht, dopkleuren, buitengebruikstelling en het Promaz-fonds: uw plichten in 2026.",
     publishedAt: "2026-07-02",
     updatedAt: "2026-07-02",
     intro:
@@ -3255,7 +3255,7 @@ export const articles: Article[] = [
   {
     slug: "woning-verkopen-via-biddit",
     title: "Uw woning verkopen via Biddit: kosten, verloop en voor wie het loont",
-    metaTitle: "Woning verkopen via Biddit: kosten & verloop (2026) | wijkopenpanden.be",
+    metaTitle: "Woning verkopen via Biddit: kosten & verloop (2026)",
     metaDescription:
       "Uw woning verkopen via Biddit? Zo werkt de online openbare verkoop: instelprijs, biedweek, bindende biedingen zonder financieringsvoorbehoud en kosten.",
     publishedAt: "2026-07-02",
@@ -3339,7 +3339,7 @@ export const articles: Article[] = [
   {
     slug: "woning-verkopen-verhuis-woonzorgcentrum",
     title: "De woning verkopen bij een verhuis naar het woonzorgcentrum: kosten, zorgbudget en timing",
-    metaTitle: "Woning verkopen bij verhuis naar woonzorgcentrum (2026) | wijkopenpanden.be",
+    metaTitle: "Woning verkopen bij verhuis naar woonzorgcentrum (2026)",
     metaDescription:
       "Een woonzorgcentrum kost gemiddeld 2.294 euro per maand. Wat betekent de verkoop van de woning voor zorgbudget, OCMW en kinderen? Regels en timing.",
     publishedAt: "2026-07-02",
@@ -3424,7 +3424,7 @@ export const articles: Article[] = [
   {
     slug: "woning-verkopen-onder-bewind",
     title: "Woning verkopen onder bewind: machtiging van de vrederechter stap voor stap",
-    metaTitle: "Woning verkopen onder bewind: machtiging vrederechter (2026) | wijkopenpanden.be",
+    metaTitle: "Woning verkopen onder bewind: machtiging vrederechter (2026)",
     metaDescription:
       "Woning verkopen onder bewind? Zo vraagt de bewindvoerder de machtiging van de vrederechter aan: verzoekschrift, schatting en de fouten die u vermijdt.",
     publishedAt: "2026-07-02",
@@ -3509,7 +3509,7 @@ export const articles: Article[] = [
   {
     slug: "overstromingsgevoelige-woning-verkopen",
     title: "Overstromingsgevoelige woning verkopen: P-score, G-score en wat u verplicht moet melden",
-    metaTitle: "Overstromingsgevoelige woning verkopen: P- en G-score (2026) | wijkopenpanden.be",
+    metaTitle: "Overstromingsgevoelige woning verkopen: P- en G-score (2026)",
     metaDescription:
       "Overstromingsgevoelige woning verkopen? Sinds 2023 moet u de P- en G-score vermelden. Wat de klassen A-D betekenen voor prijs, verzekering en verkoop.",
     publishedAt: "2026-07-02",
@@ -3593,7 +3593,7 @@ export const articles: Article[] = [
   {
     slug: "huis-verkopen-met-zonnepanelen",
     title: "Huis verkopen met zonnepanelen: wat gaat mee, wat mag u vragen en welke documenten heeft de koper nodig?",
-    metaTitle: "Huis verkopen met zonnepanelen: regels, waarde en documenten (2026) | wijkopenpanden.be",
+    metaTitle: "Huis verkopen met zonnepanelen: regels en waarde (2026)",
     metaDescription:
       "Huis verkopen met zonnepanelen? De panelen horen juridisch bij de woning en de certificaten gaan mee. Documenten, meerwaarde en overdracht bij Fluvius.",
     publishedAt: "2026-07-02",
@@ -3680,7 +3680,7 @@ export const articles: Article[] = [
   {
     slug: "huis-verkopen-binnen-5-jaar",
     title: "Huis verkopen binnen 5 jaar na aankoop: dit betaalt u aan belastingen en kosten",
-    metaTitle: "Huis verkopen binnen 5 jaar: belastingen en kosten (2026) | wijkopenpanden.be",
+    metaTitle: "Huis verkopen binnen 5 jaar: belastingen en kosten (2026)",
     metaDescription:
       "Huis verkopen binnen 5 jaar na aankoop? Wanneer 16,5% meerwaardebelasting speelt, hoe u 3/5 van het verkooprecht terugvraagt en wat uw hypotheek kost.",
     publishedAt: "2026-07-02",
@@ -3765,9 +3765,9 @@ export const articles: Article[] = [
   {
     slug: "woning-verkopen-vanuit-buitenland",
     title: "Uw Belgische woning verkopen vanuit het buitenland: volmacht, digitale akte en fiscale aandachtspunten",
-    metaTitle: "Woning verkopen vanuit het buitenland (2026) | wijkopenpanden.be",
+    metaTitle: "Woning verkopen vanuit het buitenland (2026)",
     metaDescription:
-      "Woning in België verkopen terwijl u in het buitenland woont? Zo regelt u volmacht, digitale akte via videoconferentie, apostille en de fiscale afhandeling als niet-inwoner.",
+      "Woning in België verkopen vanuit het buitenland? Zo regelt u volmacht, digitale akte via videoconferentie, apostille en de fiscale afhandeling.",
     publishedAt: "2026-07-02",
     updatedAt: "2026-07-02",
     intro:
@@ -3848,7 +3848,7 @@ export const articles: Article[] = [
   {
     slug: "ongeschikt-onbewoonbaar-verklaarde-woning-verkopen",
     title: "Ongeschikt of onbewoonbaar verklaarde woning verkopen: inventaris, heffing en uw uitwegen",
-    metaTitle: "Ongeschikt verklaarde woning verkopen (2026) | wijkopenpanden.be",
+    metaTitle: "Ongeschikt verklaarde woning verkopen (2026)",
     metaDescription:
       "Woning ongeschikt of onbewoonbaar verklaard? Zo werken inventaris en heffing, en zo verkoopt u het pand toch rechtsgeldig — uw opties op een rij.",
     publishedAt: "2026-07-02",
@@ -3933,7 +3933,7 @@ export const articles: Article[] = [
   {
     slug: "eerst-kopen-dan-verkopen-overbruggingskrediet",
     title: "Eerst kopen, dan verkopen: overbruggingskrediet, dubbele kosten en hoe u de timing beheerst",
-    metaTitle: "Overbruggingskrediet bij huis verkopen: zo werkt het (2026) | wijkopenpanden.be",
+    metaTitle: "Overbruggingskrediet bij huis verkopen: zo werkt het (2026)",
     metaDescription:
       "Eerst kopen, dan verkopen? Zo werkt een overbruggingskrediet: looptijd, rente, kosten en risico's. En hoe een vaste verkoopprijs de overbrugging verkort.",
     publishedAt: "2026-07-02",

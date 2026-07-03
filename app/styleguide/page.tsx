@@ -1,3 +1,4 @@
+import type { Metadata } from "next";
 import Container from "@/components/Container";
 import Section from "@/components/Section";
 import Button from "@/components/Button";
@@ -5,6 +6,11 @@ import Heading from "@/components/Heading";
 import Prose from "@/components/Prose";
 import Nav from "@/components/Nav";
 import Footer from "@/components/Footer";
+
+export const metadata: Metadata = {
+  title: "Styleguide",
+  robots: { index: false, follow: false },
+};
 
 export default function StyleguidePage() {
   return (

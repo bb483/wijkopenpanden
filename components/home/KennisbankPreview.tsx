@@ -1,5 +1,6 @@
 "use client";
 
+import Link from "next/link";
 import Container from "@/components/Container";
 
 const artikels = [
@@ -58,19 +59,19 @@ export default function KennisbankPreview() {
             >
               Alles wat u moet weten voor de verkoop
             </h2>
-            <a
+            <Link
               href="/kennisbank"
               className="flex-shrink-0 text-sm font-medium transition-colors duration-150 underline underline-offset-4"
               style={{ color: "#5C4D3C" }}
             >
               Alle artikels bekijken →
-            </a>
+            </Link>
           </div>
         </div>
 
         <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
           {artikels.map((a) => (
-            <a
+            <Link
               key={a.slug}
               href={`/kennisbank/${a.slug}`}
               className="group block p-7 rounded-2xl transition-all duration-200"
@@ -102,7 +103,7 @@ export default function KennisbankPreview() {
               >
                 Lees artikel →
               </p>
-            </a>
+            </Link>
           ))}
         </div>
       </Container>

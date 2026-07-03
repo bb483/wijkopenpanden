@@ -1,6 +1,7 @@
 "use client";
 
 import type { ReactNode } from "react";
+import Link from "next/link";
 
 export function scrollToFormulier() {
   const el = document.getElementById("formulier");
@@ -21,7 +22,7 @@ export default function ScrollToFormulier({
   className?: string;
 }) {
   return (
-    <a
+    <Link
       href="/#formulier"
       className={className}
       onClick={(e) => {
@@ -30,6 +31,6 @@ export default function ScrollToFormulier({
       }}
     >
       {children}
-    </a>
+    </Link>
   );
 }

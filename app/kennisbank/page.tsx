@@ -6,9 +6,18 @@ import Heading from "@/components/Heading";
 import { articles } from "@/content/knowledge-articles";
 
 export const metadata: Metadata = {
-  title: "Kennisbank vastgoed Antwerpen | wijkopenpanden.be",
+  title: "Kennisbank vastgoed Antwerpen",
   description: "Praktische gidsen over vastgoed verkopen in Antwerpen: makelaarskosten, erfenis, scheiding en meer. Geschreven door wijkopenpanden.be.",
   alternates: { canonical: "https://wijkopenpanden.be/kennisbank" },
+  openGraph: {
+    title: "Kennisbank vastgoed Antwerpen | wijkopenpanden.be",
+    description:
+      "Praktische gidsen over vastgoed verkopen in Antwerpen: makelaarskosten, erfenis, scheiding en meer. Geschreven door wijkopenpanden.be.",
+    url: "https://wijkopenpanden.be/kennisbank",
+    siteName: "wijkopenpanden.be",
+    locale: "nl_BE",
+    type: "website",
+  },
   twitter: { card: "summary_large_image" },
 };
 

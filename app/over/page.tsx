@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 import Nav from "@/components/Nav";
 import Footer from "@/components/Footer";
 import Section from "@/components/Section";
@@ -9,12 +10,12 @@ import FadeIn from "@/components/FadeIn";
 import StickyCtaButton from "@/components/StickyCtaButton";
 
 export const metadata: Metadata = {
-  title: "Over ons — wijkopenpanden.be",
+  title: "Over ons",
   description:
     "wijkopenpanden.be is een lokale Antwerpse vastgoedkoper met jarenlange ervaring. Familie-onderneming, geen aandeelhouders, geen bank. Transparant, eerlijk en snel.",
   alternates: { canonical: "https://wijkopenpanden.be/over" },
   openGraph: {
-    title: "Over ons — wijkopenpanden.be",
+    title: "Over ons | wijkopenpanden.be",
     description:
       "wijkopenpanden.be is een lokale Antwerpse vastgoedkoper met jarenlange ervaring. Familie-onderneming, geen aandeelhouders, geen bank. Transparant, eerlijk en snel.",
     url: "https://wijkopenpanden.be/over",
@@ -48,7 +49,7 @@ export default function Page() {
         {/* Hero */}
         <Section hero>
           <nav className="text-xs text-muted mb-6">
-            <a href="/" className="hover:text-ink transition-colors">Home</a>
+            <Link href="/" className="hover:text-ink transition-colors">Home</Link>
             <span className="mx-2">/</span>
             <span>Over ons</span>
           </nav>

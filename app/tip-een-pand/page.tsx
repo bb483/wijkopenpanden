@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 import Nav from "@/components/Nav";
 import Footer from "@/components/Footer";
 import Section from "@/components/Section";
@@ -10,12 +11,12 @@ import JsonLd from "@/components/JsonLd";
 import TipFormulier from "@/components/TipFormulier";
 
 export const metadata: Metadata = {
-  title: "Tip een pand & verdien tot €5.000 — wijkopenpanden.be",
+  title: "Tip een pand & verdien tot €5.000",
   description:
     "Kent u een woning of pand in de Antwerpse regio waarvan de eigenaar mogelijk wil verkopen? Geef uw tip door en ontvang tot €5.000 bij een succesvolle aankoop.",
   alternates: { canonical: "https://wijkopenpanden.be/tip-een-pand" },
   openGraph: {
-    title: "Tip een pand & verdien tot €5.000 — wijkopenpanden.be",
+    title: "Tip een pand & verdien tot €5.000 | wijkopenpanden.be",
     description:
       "Geef een tip over een potentieel pand en ontvang tot €5.000 beloning bij een succesvolle deal. Discreet, vrijblijvend en snel uitbetaald.",
     url: "https://wijkopenpanden.be/tip-een-pand",
@@ -107,7 +108,7 @@ export default function Page() {
         {/* Hero */}
         <Section hero>
           <nav className="text-xs text-muted mb-6">
-            <a href="/" className="hover:text-ink transition-colors">Home</a>
+            <Link href="/" className="hover:text-ink transition-colors">Home</Link>
             <span className="mx-2">/</span>
             <span>Tip een pand</span>
           </nav>
@@ -212,12 +213,12 @@ export default function Page() {
                 Wij reageren binnen 2 uur — ook in het weekend.
               </p>
             </Prose>
-            <a
+            <Link
               href="/#formulier"
               className="inline-flex px-8 py-4 rounded-full text-base font-semibond text-white transition-colors duration-200 bg-[#C0392B] hover:bg-[#a93226]"
             >
               Vraag uw bod aan
-            </a>
+            </Link>
           </div>
         </Section>
 

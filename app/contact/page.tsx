@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 import Nav from "@/components/Nav";
 import Footer from "@/components/Footer";
 import Section from "@/components/Section";
@@ -9,12 +10,12 @@ import FadeIn from "@/components/FadeIn";
 import StickyCtaButton from "@/components/StickyCtaButton";
 
 export const metadata: Metadata = {
-  title: "Contact — wijkopenpanden.be",
+  title: "Contact",
   description:
     "Neem contact op met wijkopenpanden.be. Bel 0492 77 94 75, mail bb@berabrick.be of vul het formulier in. Reactie binnen 2 uur, ook in het weekend.",
   alternates: { canonical: "https://wijkopenpanden.be/contact" },
   openGraph: {
-    title: "Contact — wijkopenpanden.be",
+    title: "Contact | wijkopenpanden.be",
     description:
       "Neem contact op met wijkopenpanden.be. Bel 0492 77 94 75, mail bb@berabrick.be of vul het formulier in. Reactie binnen 2 uur, ook in het weekend.",
     url: "https://wijkopenpanden.be/contact",
@@ -33,7 +34,7 @@ export default function Page() {
         {/* Hero */}
         <Section hero>
           <nav className="text-xs text-muted mb-6">
-            <a href="/" className="hover:text-ink transition-colors">Home</a>
+            <Link href="/" className="hover:text-ink transition-colors">Home</Link>
             <span className="mx-2">/</span>
             <span>Contact</span>
           </nav>

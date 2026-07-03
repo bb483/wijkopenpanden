@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import Link from "next/link";
 import { scrollToFormulier } from "@/components/ScrollToFormulier";
 
 export default function StickyCtaButton() {
@@ -15,7 +16,7 @@ export default function StickyCtaButton() {
   if (!visible) return null;
 
   return (
-    <a
+    <Link
       href="/#formulier"
       className="fixed bottom-5 right-5 z-50 flex items-center gap-2.5 px-6 py-3.5 rounded-full font-semibold text-white shadow-lg transition-all duration-200"
       style={{ background: "#C0392B", fontSize: "0.9375rem" }}
@@ -27,6 +28,6 @@ export default function StickyCtaButton() {
         <path d="M8 1v14M1 8h14" stroke="white" strokeWidth="2" strokeLinecap="round" />
       </svg>
       Vraag gratis bod aan
-    </a>
+    </Link>
   );
 }

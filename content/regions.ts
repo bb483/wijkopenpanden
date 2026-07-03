@@ -4,7 +4,7 @@ export const regions: Region[] = [
   {
     slug: "borgerhout",
     name: "Borgerhout",
-    metaTitle: "Huis verkopen in Borgerhout — direct bod | wijkopenpanden.be",
+    metaTitle: "Huis verkopen in Borgerhout — direct bod",
     metaDescription:
       "Woning verkopen in Borgerhout? wijkopenpanden.be koopt rechtstreeks aan. Eerlijk contact binnen 2 uur, geen makelaar, geen commissie. Wij kennen Borgerhout.",
     h1: "Woning verkopen in Borgerhout",
@@ -74,7 +74,7 @@ export const regions: Region[] = [
   {
     slug: "antwerpen",
     name: "Antwerpen",
-    metaTitle: "Woning verkopen in Antwerpen — direct bod | wijkopenpanden.be",
+    metaTitle: "Woning verkopen in Antwerpen — direct bod",
     metaDescription: "Woning verkopen in Antwerpen? wijkopenpanden.be koopt rechtstreeks aan. Contact binnen 2 uur, geen makelaarskosten.",
     h1: "Woning verkopen in Antwerpen",
     intro: "Antwerpen is onze thuismarkt. Wij kopen in alle districten en wijken.",
@@ -90,7 +90,7 @@ export const regions: Region[] = [
   {
     slug: "deurne",
     name: "Deurne",
-    metaTitle: "Woning verkopen in Deurne — direct bod | wijkopenpanden.be",
+    metaTitle: "Woning verkopen in Deurne — direct bod",
     metaDescription:
       "Woning verkopen in Deurne? wijkopenpanden.be koopt rechtstreeks aan in alle subwijken. Eerlijk contact binnen 2 uur, geen makelaar, geen commissie.",
     h1: "Woning verkopen in Deurne",
@@ -160,7 +160,7 @@ export const regions: Region[] = [
   {
     slug: "berchem",
     name: "Berchem",
-    metaTitle: "Woning verkopen in Berchem — direct bod | wijkopenpanden.be",
+    metaTitle: "Woning verkopen in Berchem — direct bod",
     metaDescription:
       "Woning verkopen in Berchem? wijkopenpanden.be koopt rijhuizen en appartementen rechtstreeks aan. Eerlijk contact binnen 2 uur, geen makelaarscommissie.",
     h1: "Woning verkopen in Berchem",
@@ -230,8 +230,8 @@ export const regions: Region[] = [
   {
     slug: "mortsel",
     name: "Mortsel",
-    metaTitle: "Woning verkopen in Mortsel — direct bod | wijkopenpanden.be",
-    metaDescription: "Woning verkopen in Mortsel? wijkopenpanden.be koopt rechtstreeks aan. Contact binnen 2 uur, geen makelaar.",
+    metaTitle: "Woning verkopen in Mortsel — direct bod",
+    metaDescription: "Woning verkopen in Mortsel? wijkopenpanden.be koopt rechtstreeks aan. Reactie binnen 2 uur, vrijblijvend schriftelijk bod, geen makelaar of commissie.",
     h1: "Woning verkopen in Mortsel",
     intro: "Mortsel grenst aan Antwerpen en heeft een eigen vastgoedmarkt met veel gezinswoningen.",
     marketOverview: "Rustige residentiële gemeente met stabiele prijzen.",
@@ -246,8 +246,8 @@ export const regions: Region[] = [
   {
     slug: "edegem",
     name: "Edegem",
-    metaTitle: "Woning verkopen in Edegem — direct bod | wijkopenpanden.be",
-    metaDescription: "Woning verkopen in Edegem? wijkopenpanden.be koopt aan. Contact binnen 2 uur, geen commissie.",
+    metaTitle: "Woning verkopen in Edegem — direct bod",
+    metaDescription: "Woning verkopen in Edegem? wijkopenpanden.be koopt rechtstreeks aan. Reactie binnen 2 uur, vrijblijvend schriftelijk bod en geen commissie.",
     h1: "Woning verkopen in Edegem",
     intro: "Edegem is een groene gemeente ten zuiden van Antwerpen met voornamelijk open en halfopen bebouwing.",
     marketOverview: "Residentiële gemeente met hogere gemiddelde woningprijzen.",
@@ -262,8 +262,8 @@ export const regions: Region[] = [
   {
     slug: "wilrijk",
     name: "Wilrijk",
-    metaTitle: "Woning verkopen in Wilrijk — direct bod | wijkopenpanden.be",
-    metaDescription: "Woning verkopen in Wilrijk? wijkopenpanden.be koopt rechtstreeks aan. Eerlijk contact binnen 2 uur.",
+    metaTitle: "Woning verkopen in Wilrijk — direct bod",
+    metaDescription: "Woning verkopen in Wilrijk? wijkopenpanden.be koopt rechtstreeks aan. Eerlijke reactie binnen 2 uur, vrijblijvend schriftelijk bod, keuringen inbegrepen.",
     h1: "Woning verkopen in Wilrijk",
     intro: "Wilrijk is een district van Antwerpen met een gevarieerd aanbod van rijhuizen tot villa's.",
     marketOverview: "Sterke markt met goede bereikbaarheid en ruime percelen.",
@@ -278,8 +278,8 @@ export const regions: Region[] = [
   {
     slug: "ekeren",
     name: "Ekeren",
-    metaTitle: "Woning verkopen in Ekeren — direct bod | wijkopenpanden.be",
-    metaDescription: "Woning verkopen in Ekeren? wijkopenpanden.be koopt aan zonder makelaar. Contact binnen 2 uur.",
+    metaTitle: "Woning verkopen in Ekeren — direct bod",
+    metaDescription: "Woning verkopen in Ekeren? wijkopenpanden.be koopt aan zonder makelaar. Reactie binnen 2 uur, vrijblijvend schriftelijk bod en geen commissie.",
     h1: "Woning verkopen in Ekeren",
     intro: "Ekeren, in het noorden van Antwerpen, heeft een rustig karakter met veel open bebouwing.",
     marketOverview: "Ruime percelen, lagere dichtheid dan het centrum.",
@@ -294,8 +294,8 @@ export const regions: Region[] = [
   {
     slug: "kontich",
     name: "Kontich",
-    metaTitle: "Woning verkopen in Kontich — direct bod | wijkopenpanden.be",
-    metaDescription: "Woning verkopen in Kontich? wijkopenpanden.be koopt aan. Eerlijk contact binnen 2 uur, geen commissie.",
+    metaTitle: "Woning verkopen in Kontich — direct bod",
+    metaDescription: "Woning verkopen in Kontich? wijkopenpanden.be koopt rechtstreeks aan. Eerlijke reactie binnen 2 uur, vrijblijvend schriftelijk bod, geen commissie.",
     h1: "Woning verkopen in Kontich",
     intro: "Kontich is een gemeente ten zuiden van Antwerpen met een rustig woonkarakter.",
     marketOverview: "Stabiele markt, populair bij gezinnen.",
@@ -310,8 +310,8 @@ export const regions: Region[] = [
   {
     slug: "schilde",
     name: "Schilde",
-    metaTitle: "Woning verkopen in Schilde — direct bod | wijkopenpanden.be",
-    metaDescription: "Woning verkopen in Schilde? wijkopenpanden.be koopt villa's en woningen aan. Contact binnen 2 uur.",
+    metaTitle: "Woning verkopen in Schilde — direct bod",
+    metaDescription: "Woning verkopen in Schilde? wijkopenpanden.be koopt villa's en woningen rechtstreeks aan. Reactie binnen 2 uur en een vrijblijvend schriftelijk bod.",
     h1: "Woning verkopen in Schilde",
     intro: "Schilde is een groene gemeente in de Antwerpse Kempen, bekend om zijn villa-bebouwing en rustige leefomgeving.",
     marketOverview: "Hogere gemiddelde woningprijzen, veel open bebouwing en villa's.",
@@ -326,7 +326,7 @@ export const regions: Region[] = [
   {
     slug: "brasschaat",
     name: "Brasschaat",
-    metaTitle: "Woning verkopen in Brasschaat — direct bod | wijkopenpanden.be",
+    metaTitle: "Woning verkopen in Brasschaat — direct bod",
     metaDescription: "Woning verkopen in Brasschaat? wijkopenpanden.be koopt aan. Eerlijk contact binnen 2 uur, geen makelaarskosten.",
     h1: "Woning verkopen in Brasschaat",
     intro: "Brasschaat is een van de welvarendste gemeenten in de Antwerpse regio, met een sterk aanbod van ruime villa's en halfopen woningen.",
@@ -342,7 +342,7 @@ export const regions: Region[] = [
   {
     slug: "antwerpen-noord",
     name: "Antwerpen Noord",
-    metaTitle: "Woning verkopen in Antwerpen Noord — direct bod | wijkopenpanden.be",
+    metaTitle: "Woning verkopen in Antwerpen Noord — direct bod",
     metaDescription: "Woning verkopen in Antwerpen Noord? wijkopenpanden.be koopt rechtstreeks aan in Seefhoek, Dam en omgeving. Eerlijk contact binnen 2 uur, geen makelaar.",
     h1: "Woning verkopen in Antwerpen Noord",
     intro: "Antwerpen Noord — de zone ten noorden van het stadscentrum, met wijken als Seefhoek, Dam en de Havenbuurt — heeft de voorbije jaren een sterke transformatie doorgemaakt. Oude arbeiderswijken met rijhuizen uit het begin van de 20e eeuw staan er naast nieuwe stadsontwikkelingen. wijkopenpanden.be koopt in alle straten van Antwerpen Noord aan, ook panden in grondige renovatiestand.",
@@ -380,7 +380,7 @@ export const regions: Region[] = [
   {
     slug: "antwerpen-centrum",
     name: "Antwerpen Centrum",
-    metaTitle: "Woning verkopen in Antwerpen Centrum — direct bod | wijkopenpanden.be",
+    metaTitle: "Woning verkopen in Antwerpen Centrum — direct bod",
     metaDescription: "Woning verkopen in Antwerpen centrum? wijkopenpanden.be koopt appartementen en herenhuizen rechtstreeks aan. Contact binnen 2 uur, geen makelaar.",
     h1: "Woning verkopen in Antwerpen Centrum",
     intro: "Het stadscentrum van Antwerpen — van de Grote Markt en Groenplaats over de Meir tot het Eilandje — is de meest gevraagde en meest uiteenlopende vastgoedzone van de stad. Appartementen in historische panden, herenhuizen aan statige lanen, lofts in gerenoveerde pakhuizen op het Eilandje: elke transactie vraagt om een specifieke aanpak. wijkopenpanden.be kent het centrum van binnen en koopt rechtstreeks aan, ongeacht het type of de staat.",
@@ -418,7 +418,7 @@ export const regions: Region[] = [
   {
     slug: "antwerpen-zuid",
     name: "Antwerpen Zuid",
-    metaTitle: "Woning verkopen in Antwerpen Zuid — direct bod | wijkopenpanden.be",
+    metaTitle: "Woning verkopen in Antwerpen Zuid — direct bod",
     metaDescription: "Woning verkopen in Antwerpen Zuid? wijkopenpanden.be koopt herenhuizen en appartementen aan. Contact binnen 2 uur, geen commissie.",
     h1: "Woning verkopen in Antwerpen Zuid",
     intro: "Antwerpen Zuid — de zone tussen het stadscentrum en de gemeentegrens met Berchem, met iconische wijken als Zurenborg, het Quartier Latin en de Statiebuurt — behoort tot de meest gewaardeerde woonzones van de stad. De monumentale herenhuizen langs de Cogels-Osylei, de bruisende horecabuurt rond het museum voor Schone Kunsten en de rustigere straten van het Quartier Latin: elk deel van Antwerpen Zuid heeft zijn eigen karakter. wijkopenpanden.be koopt in de gehele zone aan.",
@@ -456,7 +456,7 @@ export const regions: Region[] = [
   {
     slug: "hoboken",
     name: "Hoboken",
-    metaTitle: "Woning verkopen in Hoboken — direct bod | wijkopenpanden.be",
+    metaTitle: "Woning verkopen in Hoboken — direct bod",
     metaDescription: "Woning verkopen in Hoboken? wijkopenpanden.be koopt rechtstreeks aan. Eerlijk contact binnen 2 uur, geen makelaar, geen commissie.",
     h1: "Woning verkopen in Hoboken",
     intro: "Hoboken is een district van Antwerpen aan de linkeroever van de Schelde, ten zuiden van het centrum. De wijk combineert een industrieel verleden — de voormalige Cockerillwerven en de Union Minière — met een residentieel karakter dat de voorbije decennia sterk is gegroeid. Rijhuizen, halfopen woningen en appartementen vormen het grootste deel van het aanbod. wijkopenpanden.be is actief in alle deelwijken van Hoboken.",
@@ -490,7 +490,7 @@ export const regions: Region[] = [
   {
     slug: "merksem",
     name: "Merksem",
-    metaTitle: "Woning verkopen in Merksem — direct bod | wijkopenpanden.be",
+    metaTitle: "Woning verkopen in Merksem — direct bod",
     metaDescription: "Woning verkopen in Merksem? wijkopenpanden.be koopt rechtstreeks aan. Eerlijk contact binnen 2 uur, geen makelaar.",
     h1: "Woning verkopen in Merksem",
     intro: "Merksem is een district van Antwerpen in het noorden van de stad, grenzend aan Ekeren, Deurne en het havengebied. De wijk heeft een sterk residentieel karakter met een overwicht aan rijhuizen en halfopen woningen uit de tweede helft van de 20e eeuw. De kanaalzone en de nabijheid van de haven geven Merksem een eigen industrieel reliëf dat contrasteert met de rustige woonstraten. wijkopenpanden.be koopt in alle deelwijken van Merksem aan.",
@@ -524,7 +524,7 @@ export const regions: Region[] = [
   {
     slug: "linkeroever",
     name: "Linkeroever",
-    metaTitle: "Woning verkopen in Linkeroever Antwerpen — direct bod | wijkopenpanden.be",
+    metaTitle: "Woning verkopen in Linkeroever Antwerpen — direct bod",
     metaDescription: "Woning verkopen op de Linkeroever in Antwerpen? wijkopenpanden.be koopt rechtstreeks aan. Contact binnen 2 uur, geen makelaar.",
     h1: "Woning verkopen op de Linkeroever",
     intro: "De Linkeroever — officieel het Antwerpse deel van de gemeente Beveren, maar door Antwerpenaren kortweg zo genoemd — is de woonzone aan de westoever van de Schelde, verbonden met de stad via de Kennedytunnel en de Waaslandtunnel. De wijk heeft een heel eigen karakter: ruime appartementsblokken uit de jaren 1960-1980, open bebouwing en veel groen. Door de betere prijs-ruimteverhouding ten opzichte van rechteroever trekt de Linkeroever gezinnen en starters aan die zoeken naar meer leefruimte.",
@@ -558,7 +558,7 @@ export const regions: Region[] = [
   {
     slug: "wommelgem",
     name: "Wommelgem",
-    metaTitle: "Woning verkopen in Wommelgem — direct bod | wijkopenpanden.be",
+    metaTitle: "Woning verkopen in Wommelgem — direct bod",
     metaDescription: "Woning verkopen in Wommelgem? wijkopenpanden.be koopt rechtstreeks aan. Eerlijk contact binnen 2 uur, geen makelaarscommissie.",
     h1: "Woning verkopen in Wommelgem",
     intro: "Wommelgem is een compacte gemeente ten oosten van Antwerpen, grenzend aan Deurne en Ranst. De gemeente heeft een residentieel karakter met een mix van halfopen en open bebouwing en een bescheiden aanbod rijhuizen. De nabijheid van de ring en de snelweg richting Brussel en Luik maakt Wommelgem aantrekkelijk voor pendelaars. wijkopenpanden.be koopt woningen aan in alle deelwijken van Wommelgem.",
@@ -583,7 +583,7 @@ export const regions: Region[] = [
   {
     slug: "borsbeek",
     name: "Borsbeek",
-    metaTitle: "Woning verkopen in Borsbeek — direct bod | wijkopenpanden.be",
+    metaTitle: "Woning verkopen in Borsbeek — direct bod",
     metaDescription: "Woning verkopen in Borsbeek? wijkopenpanden.be koopt rechtstreeks aan. Contact binnen 2 uur, geen commissie, geen makelaar.",
     h1: "Woning verkopen in Borsbeek",
     intro: "Borsbeek is een van de kleinste gemeenten van de provincie Antwerpen, maar heeft een eigen vastgoedmarkt met een divers aanbod van rijhuizen, halfopen en open bebouwing. De gemeente grenst aan Berchem, Deurne en Mortsel en is daarmee goed ingebed in de Antwerpse agglomeratie. De korte afstand tot de ring en tot Station Berchem maakt Borsbeek aantrekkelijk voor pendelaars en gezinnen die stadscomfort en rustig wonen willen combineren.",

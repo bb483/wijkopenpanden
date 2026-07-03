@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 import Nav from "@/components/Nav";
 import Footer from "@/components/Footer";
 import Section from "@/components/Section";
@@ -8,14 +9,15 @@ import Button from "@/components/Button";
 import FAQAccordion from "@/components/FAQAccordion";
 import FadeIn from "@/components/FadeIn";
 import StickyCtaButton from "@/components/StickyCtaButton";
+import JsonLd from "@/components/JsonLd";
 
 export const metadata: Metadata = {
-  title: "Lijfrente Antwerpen — uw woning verkopen met levenslange uitkering | wijkopenpanden.be",
+  title: "Lijfrente Antwerpen — verkopen met levenslange uitkering",
   description:
     "Uw woning verkopen via lijfrente in Antwerpen. Ontvang een maandelijkse uitkering voor de rest van uw leven en behoud het recht van gebruik. Meer info bij wijkopenpanden.be.",
   alternates: { canonical: "https://wijkopenpanden.be/lijfrente-antwerpen" },
   openGraph: {
-    title: "Lijfrente Antwerpen — uw woning verkopen met levenslange uitkering | wijkopenpanden.be",
+    title: "Lijfrente Antwerpen — verkopen met levenslange uitkering | wijkopenpanden.be",
     description:
       "Uw woning verkopen via lijfrente in Antwerpen. Ontvang een maandelijkse uitkering voor de rest van uw leven en behoud het recht van gebruik. Meer info bij wijkopenpanden.be.",
     url: "https://wijkopenpanden.be/lijfrente-antwerpen",
@@ -68,15 +70,26 @@ const faqs = [
   },
 ];
 
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  mainEntity: faqs.map((f) => ({
+    "@type": "Question",
+    name: f.question,
+    acceptedAnswer: { "@type": "Answer", text: f.answer },
+  })),
+};
+
 export default function Page() {
   return (
     <>
+      <JsonLd data={faqSchema} />
       <Nav />
       <main className="flex-1">
         {/* Hero */}
         <Section hero>
           <nav className="text-xs text-muted mb-6">
-            <a href="/" className="hover:text-ink transition-colors">Home</a>
+            <Link href="/" className="hover:text-ink transition-colors">Home</Link>
             <span className="mx-2">/</span>
             <span>Lijfrente Antwerpen</span>
           </nav>

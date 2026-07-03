@@ -15,7 +15,7 @@ import KennisbankPreview from "@/components/home/KennisbankPreview";
 import Formulier from "@/components/home/Formulier";
 
 export const metadata: Metadata = {
-  title: "Vastgoed opkoper Antwerpen — Direct eerlijk bod | wijkopenpanden.be",
+  title: { absolute: "Vastgoed opkoper Antwerpen — Direct eerlijk bod | wijkopenpanden.be" },
   description:
     "Woning of pand verkopen in Antwerpen? wijkopenpanden.be koopt rechtstreeks aan — geen commissie, geen makelaar, keuringen & ontruiming inbegrepen. Reactie binnen 2 uur.",
   alternates: { canonical: "https://wijkopenpanden.be" },
@@ -57,7 +57,6 @@ const localBusinessSchema = {
     width: 1200,
     height: 630,
   },
-  sameAs: ["https://wijkopenpanden.be"],
 };
 
 const faqSchema = {

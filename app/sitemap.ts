@@ -19,6 +19,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${BASE}/over`, lastModified: now, priority: 0.5, changeFrequency: "yearly" as const },
     { url: `${BASE}/contact`, lastModified: now, priority: 0.6, changeFrequency: "yearly" as const },
     { url: `${BASE}/tip-een-pand`, lastModified: now, priority: 0.8, changeFrequency: "monthly" as const },
+    { url: `${BASE}/privacy`, lastModified: now, priority: 0.3, changeFrequency: "yearly" as const },
   ];
 
   const propertyPages = propertyTypes.map((p) => ({

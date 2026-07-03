@@ -4,9 +4,9 @@ export const situations: Situation[] = [
   {
     slug: "huis-verkopen-bij-erfenis",
     title: "Huis verkopen bij erfenis",
-    metaTitle: "Huis verkopen bij erfenis in Antwerpen | wijkopenpanden.be",
+    metaTitle: "Huis verkopen bij erfenis in Antwerpen",
     metaDescription:
-      "Geërfd huis verkopen in Antwerpen? wijkopenpanden.be koopt snel en discreet aan. Geen makelaar, geen commissie. Contact binnen 2 uur. Wij begeleiden het volledige proces.",
+      "Geërfd huis verkopen in Antwerpen? wijkopenpanden.be koopt snel en discreet aan, zonder makelaar of commissie. Reactie binnen 2 uur, wij begeleiden alles.",
     h1: "Huis verkopen bij erfenis",
     intro:
       "Een geërfde woning verkoopt u zelden op het meest geschikte moment. Er is rouw, er zijn meerdere erfgenamen, er liggen juridische stappen te wachten en de woning staat intussen leeg. Wij kopen geërfde woningen rechtstreeks aan en ontzorgen u van de eerste contactname tot de ondertekening van de akte.",
@@ -70,7 +70,7 @@ export const situations: Situation[] = [
   {
     slug: "huis-verkopen-bij-scheiding",
     title: "Huis verkopen bij scheiding",
-    metaTitle: "Huis verkopen bij scheiding in Antwerpen | wijkopenpanden.be",
+    metaTitle: "Huis verkopen bij scheiding in Antwerpen",
     metaDescription:
       "Woning verkopen bij scheiding in Antwerpen? wijkopenpanden.be koopt snel en discreet aan, ook zonder akkoord over de prijs. Contact binnen 2 uur, geen makelaar.",
     h1: "Woning verkopen bij scheiding",
@@ -137,7 +137,7 @@ export const situations: Situation[] = [
   {
     slug: "opknappand-verkopen",
     title: "Opknapper verkopen",
-    metaTitle: "Opknapper verkopen in Antwerpen zonder renoveren | wijkopenpanden.be",
+    metaTitle: "Opknapper verkopen in Antwerpen zonder renoveren",
     metaDescription:
       "Renovatiepand verkopen in Antwerpen? wijkopenpanden.be koopt in elke staat aan — geen herstellingen, geen keuringen nodig. Eerlijk contact binnen 2 uur.",
     h1: "Opknapper verkopen zonder te renoveren",
@@ -170,7 +170,7 @@ export const situations: Situation[] = [
       },
     ],
     relatedPropertyTypes: ["rijhuis-verkopen-antwerpen", "herenhuis-verkopen-antwerpen", "villa-verkopen-antwerpen"],
-    relatedArticles: ["commissie-makelaar-belgie", "pand-in-slechte-staat-verkopen-opties"],
+    relatedArticles: ["commissie-makelaar-belgie", "pand-in-slechte-staat-verkopen"],
     faqs: [
       {
         question: "Moet ik het pand leegmaken voor de verkoop aan wijkopenpanden.be?",
@@ -202,7 +202,7 @@ export const situations: Situation[] = [
   {
     slug: "pand-met-huurders-verkopen",
     title: "Pand met huurders verkopen",
-    metaTitle: "Pand met huurders verkopen in Antwerpen | wijkopenpanden.be",
+    metaTitle: "Pand met huurders verkopen in Antwerpen",
     metaDescription:
       "Verhuurd pand verkopen in Antwerpen? wijkopenpanden.be koopt aan met actieve huurders. Geen bezichtigingen nodig, geen recht van voorkoop-problemen. Direct bod.",
     h1: "Verhuurd pand verkopen in Antwerpen",
@@ -267,7 +267,7 @@ export const situations: Situation[] = [
   {
     slug: "verkopen-zonder-makelaar",
     title: "Verkopen zonder makelaar",
-    metaTitle: "Huis verkopen zonder makelaar in Antwerpen | wijkopenpanden.be",
+    metaTitle: "Huis verkopen zonder makelaar in Antwerpen",
     metaDescription:
       "Woning verkopen zonder makelaar in Antwerpen? wijkopenpanden.be koopt rechtstreeks aan. Geen commissie, geen keuringen, geen wachttijd. Contact binnen 2 uur.",
     h1: "Woning verkopen zonder makelaar in Antwerpen",
