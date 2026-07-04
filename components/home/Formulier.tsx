@@ -3,6 +3,7 @@
 import { useState, FormEvent, useRef, useEffect, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import Container from "@/components/Container";
+import { scrollToFormulier } from "@/components/ScrollToFormulier";
 
 interface FormData {
   adres: string;
@@ -263,11 +264,7 @@ export default function Formulier() {
   useEffect(() => {
     if (sessionStorage.getItem("scrollToFormulier") === "1") {
       sessionStorage.removeItem("scrollToFormulier");
-      const el = document.getElementById("formulier");
-      if (el) {
-        const top = el.getBoundingClientRect().top + window.scrollY - 80;
-        window.scrollTo({ top, behavior: "smooth" });
-      }
+      scrollToFormulier();
     }
   }, []);
 
