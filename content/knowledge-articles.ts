@@ -564,7 +564,7 @@ export const articles: Article[] = [
         body: "Ons bod houdt rekening met:\n\n• Geschatte renovatiekost (structurele gebreken wegen zwaarder dan cosmetische)\n• Staat van de elektriciteit, dakbedekking, riolering en verwarmingsinstallatie\n• Aanwezigheid van asbest\n• EPC-label en geschatte energetische investeringen\n• Marktwaarde van vergelijkbare panden in de buurt na renovatie\n\nWij zijn transparant over onze berekening en leggen u uit hoe we tot ons bod zijn gekomen.",
       },
     ],
-    relatedArticles: ["keuringen-bij-verkoop-woning", "epc-attest-antwerpen", "verkoop-kosten-berekenen"],
+    relatedArticles: ["keuringen-bij-verkoop-woning", "epc-attest-antwerpen", "verkoop-kosten-berekenen", "huis-verkopen-na-brand-of-schade"],
     relatedSituations: ["opknappand-verkopen", "huis-verkopen-bij-erfenis"],
     faqs: [
       {
@@ -3895,7 +3895,7 @@ export const articles: Article[] = [
         body: "Op de klassieke markt is een ongeschikt of onbewoonbaar verklaard pand een moeilijk verhaal. Particuliere kopers schrikken van het besluit op de gevel, banken financieren aarzelend, en elke bezichtiging eindigt in dezelfde vragen over de inventaris en de heffing. Ondertussen loopt uw teller door.\n\nVoor een professionele opkoper ligt dat anders. **wijkopenpanden.be** koopt woningen in de regio Antwerpen aan **in de huidige staat**, ook met een ongeschikt- of onbewoonbaarverklaring. Wij kennen de Antwerpse procedures, nemen als koper de herstelplicht over en renoveren het pand tot het opnieuw conform is — precies het scenario waarvoor de tweejarige opschorting voor nieuwe eigenaars bedoeld is. Voor u stopt de heffingsteller bij het verlijden van de akte, en de meldingsplicht wordt correct afgehandeld in samenspraak met de notaris.\n\nPraktisch: u vraagt een **gratis en vrijblijvend bod** aan en krijgt reactie binnen 2 uur, ook in het weekend. Een plaatsbezoek volgt doorgaans binnen 48 uur, waarna u een **schriftelijk gemotiveerd bod** ontvangt. Wij betalen uit eigen middelen — dus geen opschortende voorwaarde van financiering — en u betaalt geen makelaarscommissie. De akte volgt doorgaans 2 tot 3 maanden na akkoord. Zo weet u snel waar u aan toe bent, zonder verdere jaren op de inventaris.",
       },
     ],
-    relatedArticles: ["pand-in-slechte-staat-verkopen", "leegstandsheffing-antwerpen-2026", "wat-is-een-vastgoedopkoper", "verkoopbelofte-compromis-akte", "energie-renovatieplicht-vlaanderen-2026", "verborgen-gebreken-woning-verkoop-belgie"],
+    relatedArticles: ["pand-in-slechte-staat-verkopen", "leegstandsheffing-antwerpen-2026", "huis-verkopen-na-brand-of-schade", "verkoopbelofte-compromis-akte", "energie-renovatieplicht-vlaanderen-2026", "verborgen-gebreken-woning-verkoop-belgie"],
     relatedSituations: ["opknappand-verkopen", "pand-met-huurders-verkopen"],
     faqs: [
       {
@@ -4012,6 +4012,91 @@ export const articles: Article[] = [
         question: "Kan een overbruggingskrediet vermeden worden?",
         answer:
           "Ja, als u de verkoop van uw huidige woning vastlegt vóór of gelijktijdig met uw aankoop. Dat kan via een verkoop met langere aktetermijn, tijdelijk huren, of een bindend bod van een professionele koper zoals wijkopenpanden.be. In dat laatste geval kent u de prijs vooraf en kiest u de aktedatum mee, waardoor de overbrugging heel kort wordt of volledig wegvalt.",
+      },
+    ],
+  },
+  {
+    slug: "huis-verkopen-na-brand-of-schade",
+    title: "Huis verkopen na brand of zware schade in Vlaanderen: verzekering, attesten en de keuze tussen herstellen en verkopen",
+    metaTitle: "Huis verkopen na brand of zware schade: gids 2026",
+    metaDescription:
+      "Woning verkopen na brand of zware schade? Lees hoe de schaderegeling verloopt, wat de wederopbouwclausule betekent en welke attesten u nodig hebt.",
+    publishedAt: "2026-07-05",
+    updatedAt: "2026-07-05",
+    intro:
+      "Een brand of zware waterschade zet uw leven op zijn kop. Naast de emotionele klap komt er meteen een reeks praktische en juridische vragen op u af: hoe verloopt de schaderegeling met de verzekeraar, wat moet er meteen gebeuren om verdere schade te voorkomen, en krijgt u de volledige vergoeding als u beslist om niet herop te bouwen maar te verkopen? Veel eigenaars weten niet dat de uitbetaling van de brandverzekering vaak gekoppeld is aan de heropbouw, en dat verkopen in beschadigde staat andere gevolgen heeft voor de vergoeding. Daarnaast blijven de gewone verkoopverplichtingen gelden: ook voor een zwaar beschadigde woning hebt u in principe een EPC, een asbestattest en andere documenten nodig. Dit artikel zet op een rij wat wettelijk vastligt, wat van uw polis afhangt en welke opties u hebt: herstellen, heropbouwen of verkopen in de huidige staat.",
+    sections: [
+      {
+        heading: "De eerste dagen na de brand: aangifte, schadebeperking en eventuele verzegeling",
+        body: "Doe zo snel mogelijk **aangifte bij uw brandverzekeraar**, meestal binnen de termijn die uw polis voorschrijft. Verzamel bewijsmateriaal: foto's, video's, aankoopfacturen en een eerste lijst van beschadigde goederen. Gooi niets weg voordat de expert van de verzekeraar is langsgekomen, tenzij het om veiligheidsredenen niet anders kan.\n\nAls verzekerde hebt u een **schadebeperkingsplicht**: u moet redelijke maatregelen nemen om verdere schade te voorkomen. Denk aan het laten afdekken van het dak, het dichtmaken van ramen en deuren tegen inbraak en weer, en waar nodig het **stutten van instabiele delen**. Bespreek deze dringende kosten vooraf met de verzekeraar; dringende beveiligingswerken worden doorgaans mee in de schaderegeling opgenomen.\n\nBij een brand met onduidelijke oorzaak of een vermoeden van kwaad opzet kan het **parket een branddeskundige aanstellen** en de woning tijdelijk laten verzegelen. Zolang die verzegeling loopt, hebt u geen vrije toegang tot het pand en ligt ook de schaderegeling deels stil. Dat is vervelend, maar het onderzoek dient ook uw belang: het rapport over de brandoorzaak speelt mee in het verzekeringsdossier.\n\n**Opruimings- en afbraakkosten** zijn in veel woningpolissen gedekt, maar de omvang van die dekking verschilt per contract. Vraag uw verzekeraar of makelaar schriftelijk te bevestigen wat precies gedekt is voordat u een aannemer opdracht geeft.",
+      },
+      {
+        heading: "Hoe de schaderegeling verloopt: expertise, tegenexpertise en derde expert",
+        body: "Na uw aangifte stuurt de verzekeraar een **expert** die de schade begroot. Diens raming vormt de basis van het vergoedingsvoorstel. U bent niet verplicht dat voorstel zomaar te aanvaarden.\n\nBent u het niet eens met de begroting, dan kunt u een **tegenexpert** aanstellen: een deskundige die uitsluitend uw belangen verdedigt. Bij grote schade, zoals na een brand, is dat een gangbare stap. De kosten van de tegenexpert worden in veel polissen geheel of gedeeltelijk terugbetaald volgens een barema, vaak via de brandpolis zelf of via uw rechtsbijstandsverzekering. Kijk dit na in uw contract voordat u iemand aanstelt.\n\nRaken de expert van de verzekeraar en uw tegenexpert het niet eens, dan wordt doorgaans een **derde expert** aangesteld die de knoop doorhakt. De kosten daarvan worden in de regel verdeeld volgens wat de polis bepaalt.\n\nSinds 1 juli 2025 gelden er bovendien **nieuwe wettelijke regels over expertises in de brandverzekering** (aanpassingen aan de wet van 4 april 2014 betreffende de verzekeringen), die de positie van de verzekerde in de expertiseprocedure verduidelijken.\n\nEen praktische tip: onderteken geen definitieve afrekening zolang u overweegt te verkopen in plaats van te herstellen. De keuze tussen heropbouwen en verkopen beïnvloedt namelijk hoeveel er wordt uitbetaald, zoals hieronder uitgelegd.",
+      },
+      {
+        heading: "De wederopbouwclausule: krijgt u de volledige vergoeding als u verkoopt in plaats van heropbouwt?",
+        body: "Dit is voor twijfelende eigenaars het belangrijkste punt. De meeste Belgische woningpolissen verzekeren het gebouw tegen **nieuwwaarde**: de kostprijs om het opnieuw op te bouwen. Maar die volledige nieuwwaarde wordt doorgaans alleen uitbetaald **als u effectief heropbouwt of herstelt**.\n\nDe vergoedingsregels zijn vastgelegd in de verzekeringswetgeving (wet van 4 april 2014 en het koninklijk besluit van 24 december 1992 over de brandverzekering):\n\n• Bij heropbouw wordt de vergoeding vaak **in schijven** uitbetaald, naarmate de werken vorderen. U krijgt eerst een deel en de rest volgt op basis van facturen of de voortgang van de werf.\n• Bouwt u **niet** herop en is uw gebouw verzekerd tegen nieuwwaarde, dan wordt de vergoeding doorgaans beperkt tot **80% van de nieuwwaarde**, rekening houdend met de slijtage van het gebouw. De exacte berekening hangt af van uw polis.\n• Sommige polissen bevatten strengere bedingen die de vergoeding zonder heropbouw verder beperken; wat precies geldt, hangt af van uw contract.\n\nConcreet: wie verkoopt in plaats van heropbouwt, ontvangt doorgaans een **lagere vergoeding** dan wie heropbouwt. Dat is geen sanctie, maar een gevolg van hoe de nieuwwaardeverzekering werkt. Vraag uw verzekeraar of tegenexpert om beide scenario's cijfermatig naast elkaar te zetten voordat u beslist. Pas dan kunt u eerlijk vergelijken: vergoeding bij heropbouw plus herstelde woning, tegenover lagere vergoeding plus verkoopprijs in de huidige staat.",
+      },
+      {
+        heading: "Verkopen vóór de schaderegeling is afgerond: mag dat, en wat met de vergoeding?",
+        body: "U mag een beschadigd of zelfs uitgebrand pand **verkopen voordat het verzekeringsdossier is afgesloten**. Er bestaat geen wettelijk verbod om te verkopen tijdens een lopende schaderegeling, al moet u de koper uiteraard correct informeren over de schade en het lopende dossier.\n\nDe **schadevergoeding** voor een schadegeval dat plaatsvond toen u eigenaar was, komt in principe aan u als verzekerde toe, ook als de uitbetaling pas na de verkoop volgt. In de praktijk zijn er twee gangbare formules:\n\n• U verkoopt het pand in beschadigde staat en **houdt de vordering op de verzekeraar zelf**. De verkoopprijs weerspiegelt dan de beschadigde toestand.\n• U draagt de rechten op de schadevergoeding **over aan de koper**, wat in het compromis en de notariële akte wordt vastgelegd. De prijs houdt daar dan rekening mee.\n\nLaat u hierbij begeleiden door uw **notaris**: de formulering in de akte bepaalt wie welke aanspraak heeft, en de verzekeraar moet correct worden ingelicht.\n\nGoed om te weten: bij verkoop eindigt uw brandpolis niet meteen. De wet bepaalt dat de verzekering van rechtswege pas **drie maanden na het verlijden van de authentieke akte** eindigt. Tot dan geniet ook de nieuwe eigenaar dekking, tenzij die al een eigen polis heeft afgesloten.",
+      },
+      {
+        heading: "Welke attesten hebt u nodig om een zwaar beschadigd pand te verkopen?",
+        body: "Ook voor een beschadigde woning gelden in Vlaanderen de **gewone verkoopverplichtingen**. Er bestaat geen algemene vrijstelling voor panden die er slecht aan toe zijn; enkel voor bepaalde niet-residentiële gebouwen met een sloopvergunning is er een EPC-uitzondering. Voor een woning hebt u de attesten dus in principe nodig, ook als de koper vermoedelijk zal slopen.\n\nBijzonder aandachtspunt na brand: **asbest**. In woningen van vóór 2001 kan een brand asbesthoudende materialen (zoals leien of golfplaten) beschadigen, waardoor vezels vrijkomen. De opruiming daarvan is gespecialiseerd werk, en de asbestdeskundige zal de situatie in het asbestattest documenteren. Bespreek met uw verzekeraar in hoeverre asbestverwijdering in de schaderegeling zit.\n\nEen beschadigde woning laten keuren is soms praktisch lastig, bijvoorbeeld als delen onveilig zijn. Bespreek dit vooraf met de EPC-deskundige en de keurder; zij bepalen wat veilig opgemeten kan worden.",
+        table: {
+          headers: ["Attest of keuring", "Verplicht bij verkoop?", "Aandachtspunt na brand of zware schade"],
+          rows: [
+            ["EPC (energieprestatiecertificaat)", "Ja, al vanaf de eerste advertentie", "Geen algemene uitzondering voor beschadigde woningen, ook niet bij geplande sloop"],
+            ["Asbestattest", "Ja, voor gebouwen met bouwjaar vóór 2001", "Brand kan asbest beschadigen en vezels verspreiden; opruiming is gespecialiseerd werk"],
+            ["Elektriciteitskeuring", "Ja", "Na brandschade is de installatie vaak afgekeurd; verkoop kan wel, de koper erft de herstelplicht"],
+            ["Bodemattest (OVAM)", "Ja, bij elke verkoop", "Aan te vragen via de notaris of rechtstreeks bij OVAM"],
+            ["Keuringsattest stookolietank", "Ja, indien er een stookolietank aanwezig is", "Controleer of de tank bij de brand beschadigd raakte"],
+          ],
+        },
+      },
+      {
+        heading: "Onbewoonbaarverklaring, onroerende voorheffing en renovatieplicht: de bredere gevolgen",
+        body: "Na een zware brand kan de **burgemeester** de woning ongeschikt of onbewoonbaar verklaren op basis van de Vlaamse Codex Wonen, zeker wanneer de veiligheid in het gedrang komt. De woning komt dan op een inventaris terecht. Blijft ze daar langer dan een jaar op staan zonder herstel, dan kan een **jaarlijkse heffing** volgen, Vlaams of gemeentelijk afhankelijk van uw gemeente. Verkopen mag ook met zo'n besluit, maar u moet de koper erover informeren en de status drukt op de prijs.\n\nEr is ook een fiscale tegemoetkoming mogelijk. Wordt uw gebouw geheel of gedeeltelijk vernield (minstens een kwart van het kadastraal inkomen) door een ramp zoals brand, of staat het buiten uw wil minstens negentig dagen leeg en improductief, dan kunt u bij de Vlaamse Belastingdienst een **proportionele vermindering van de onroerende voorheffing** vragen. Dat gebeurt via een bezwaarschrift; let op de bezwaartermijn.\n\nHou ten slotte rekening met de regels die de waarde voor kopers bepalen. Wie een woning met **EPC-label E of F** koopt, moet die volgens de regels van 2026 binnen zes jaar naar minstens **label D** renoveren; die renovatieplicht geldt onverkort voor beschadigde panden. Kiest een koper voor **sloop en heropbouw**, dan geldt onder voorwaarden (enige eigen woning, maximaal 200 m² bewoonbare oppervlakte, werken via een aannemer) het verlaagde btw-tarief van 6%. Die elementen bepalen mee wat professionele en particuliere kopers voor uw pand kunnen bieden.",
+      },
+      {
+        heading: "Verkopen in de huidige staat aan een professionele koper",
+        body: "Wie niet wil of kan heropbouwen, hoeft de woning niet eerst op te knappen om te verkopen. Er zijn twee gangbare wegen: de klassieke verkoop via een makelaar of notaris, en de rechtstreekse verkoop aan een **professionele vastgoedkoper** die panden in de huidige staat aankoopt.\n\nDe klassieke markt voor zwaar beschadigde panden is beperkt: veel particuliere kopers krijgen de aankoop moeilijk gefinancierd omdat banken terughoudend zijn bij panden met brandschade, en kijkers haken af op de staat van het pand. Daardoor kan de verkoop lang aanslepen, terwijl kosten zoals beveiliging, verzekering en eventuele heffingen doorlopen.\n\nEen rechtstreekse verkoop aan een opkoper gaat sneller, doorgaans tegen een prijs onder de waarde na herstel; de koper neemt immers de herstel- of sloopkosten en het risico over. Voor sommige eigenaars weegt de zekerheid en snelheid zwaarder dan het prijsverschil, zeker wanneer de verzekeringsvergoeding zonder heropbouw toch lager uitvalt.\n\n**Wijkopenpanden.be** koopt panden in de regio Antwerpen aan in de huidige staat, ook met brand- of waterschade. U ontvangt binnen 2 uur een reactie op uw aanvraag en na een plaatsbezoek een schriftelijk bod. De verplichte keuringen en de ontruiming zijn inbegrepen, u betaalt geen commissie, en de akte volgt doorgaans binnen 2 tot 3 maanden. Vergelijk zo'n bod altijd met de raming van uw tegenexpert en met de twee scenario's uit de schaderegeling, zodat u met volledige informatie beslist.",
+      },
+    ],
+    relatedArticles: ["pand-in-slechte-staat-verkopen", "ongeschikt-onbewoonbaar-verklaarde-woning-verkopen", "keuringen-bij-verkoop-woning", "verborgen-gebreken-woning-verkoop-belgie", "energie-renovatieplicht-vlaanderen-2026", "hoe-snel-verkopen-en-geld-ontvangen"],
+    relatedSituations: ["opknappand-verkopen", "verkopen-zonder-makelaar"],
+    faqs: [
+      {
+        question: "Krijg ik de volledige verzekeringsvergoeding als ik niet heropbouw maar verkoop?",
+        answer:
+          "Doorgaans niet volledig. Bij een verzekering tegen nieuwwaarde wordt de vergoeding zonder heropbouw doorgaans beperkt tot 80% van de nieuwwaarde, rekening houdend met de slijtage van het gebouw; de exacte berekening hangt af van uw polis. Bouwt u wel herop, dan wordt de volledige vergoeding uitbetaald, vaak in schijven naarmate de werken vorderen. Vraag uw verzekeraar om beide scenario's cijfermatig uit te werken voordat u beslist tussen herstellen en verkopen.",
+      },
+      {
+        question: "Mag ik mijn huis verkopen voordat de schaderegeling met de verzekeraar is afgerond?",
+        answer:
+          "Ja, er bestaat geen wettelijk verbod om te verkopen tijdens een lopend verzekeringsdossier. De schadevergoeding voor een schadegeval van vóór de verkoop komt in principe aan u toe als verzekerde. U kunt de vordering op de verzekeraar zelf houden of ze contractueel overdragen aan de koper; dat wordt vastgelegd in het compromis en de notariële akte. Informeer de koper correct over de schade en laat u begeleiden door uw notaris.",
+      },
+      {
+        question: "Wie betaalt de tegenexpert na een brand?",
+        answer:
+          "In veel Belgische woningpolissen worden de kosten van een tegenexpert geheel of gedeeltelijk terugbetaald volgens een barema dat in de polisvoorwaarden staat, soms via de brandpolis zelf en soms via de rechtsbijstandsverzekering. Bij onenigheid tussen de expert van de verzekeraar en uw tegenexpert kan een derde expert worden aangesteld, waarvan de kosten volgens de polis worden verdeeld. Controleer uw contract voordat u een tegenexpert aanstelt.",
+      },
+      {
+        question: "Wat gebeurt er als mijn woning na de brand onbewoonbaar wordt verklaard?",
+        answer:
+          "De burgemeester kan een woning na brand ongeschikt of onbewoonbaar verklaren op basis van de Vlaamse Codex Wonen. De woning komt dan op een inventaris; blijft ze daar langer dan een jaar op staan, dan kan een jaarlijkse Vlaamse of gemeentelijke heffing volgen. Verkopen blijft mogelijk, maar u moet de koper over het besluit informeren. Herstel gevolgd door een conformiteitsonderzoek, of verkoop aan een koper die renoveert of sloopt, beëindigt de situatie.",
+      },
+      {
+        question: "Moet ik nog onroerende voorheffing betalen op een afgebrande woning?",
+        answer:
+          "U kunt een proportionele vermindering van de onroerende voorheffing aanvragen bij de Vlaamse Belastingdienst. Dat kan wanneer het gebouw geheel of gedeeltelijk vernield is (minstens een kwart van het kadastraal inkomen) door een ramp zoals brand, of wanneer het buiten uw wil minstens negentig dagen leegstaat en geen inkomsten oplevert. De aanvraag verloopt via een bezwaarschrift na ontvangst van het aanslagbiljet; respecteer de bezwaartermijn.",
+      },
+      {
+        question: "Heb ik een EPC en asbestattest nodig om een uitgebrande woning te verkopen?",
+        answer:
+          "In principe wel. Voor woningen bestaat er geen algemene vrijstelling van het EPC bij verkoop, ook niet wanneer de koper vermoedelijk zal slopen; enkel bepaalde niet-residentiële gebouwen met sloopvergunning zijn uitgezonderd. Het asbestattest is verplicht voor gebouwen met bouwjaar vóór 2001, en is na brand extra relevant omdat beschadigd asbest vezels kan verspreiden. Daarnaast zijn een elektriciteitskeuring, een bodemattest en, indien van toepassing, een keuringsattest van de stookolietank vereist.",
       },
     ],
   },
