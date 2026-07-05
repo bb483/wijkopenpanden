@@ -5,31 +5,59 @@ import Link from "next/link";
 
 // window.scrollTo({ behavior: "smooth" }) is in Chrome niet door de gebruiker
 // te onderbreken (scrollbalk/touch/wiel): de lopende animatie trekt de pagina
-// telkens terug naar het doel. Daarom een eigen rAF-animatie die stopt zodra
-// de scrollpositie afwijkt van wat de animatie zelf heeft gezet.
-function animateScrollTo(targetY: number) {
-  const maxY = document.documentElement.scrollHeight - window.innerHeight;
-  const endY = Math.max(0, Math.min(targetY, maxY));
-  const startY = window.scrollY;
-  const distance = endY - startY;
-  if (Math.abs(distance) < 1) return;
+// telkens terug naar het doel. Daarom een eigen rAF-animatie. Onderbreking
+// detecteren we via echte inputevents (wiel/touch/toetsen) — niet via een
+// scrollpositie-vergelijking, want op mobiel wijkt window.scrollY tijdens het
+// scrollen af (inklappende adresbalk, subpixel-afronding) en brak de animatie
+// dan vroegtijdig af. Het doel wordt per frame herberekend zodat lazy geladen
+// content die de layout verschuift de landing niet verpest.
+function animateScrollTo(getTargetY: () => number) {
+  const clamp = (y: number) =>
+    Math.max(0, Math.min(y, document.documentElement.scrollHeight - window.innerHeight));
 
   if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
-    window.scrollTo({ top: endY, behavior: "instant" });
+    window.scrollTo({ top: clamp(getTargetY()), behavior: "instant" });
     return;
   }
 
+  const startY = window.scrollY;
+  const distance = clamp(getTargetY()) - startY;
+  if (Math.abs(distance) < 1) return;
+
+  let cancelled = false;
+  const cancel = () => {
+    cancelled = true;
+    cleanup();
+  };
+  const scrollKeys = ["ArrowUp", "ArrowDown", "PageUp", "PageDown", "Home", "End", " "];
+  const onKeyDown = (e: KeyboardEvent) => {
+    if (scrollKeys.includes(e.key)) cancel();
+  };
+  const cleanup = () => {
+    window.removeEventListener("wheel", cancel);
+    window.removeEventListener("touchstart", cancel);
+    window.removeEventListener("mousedown", cancel);
+    window.removeEventListener("keydown", onKeyDown);
+  };
+  window.addEventListener("wheel", cancel, { passive: true });
+  window.addEventListener("touchstart", cancel, { passive: true });
+  window.addEventListener("mousedown", cancel, { passive: true });
+  window.addEventListener("keydown", onKeyDown);
+
   const duration = Math.min(900, 350 + Math.abs(distance) * 0.05);
   const startTime = performance.now();
-  let expectedY = startY;
   const easeOut = (t: number) => 1 - Math.pow(1 - t, 3);
 
   const step = (now: number) => {
-    if (Math.abs(window.scrollY - expectedY) > 2) return; // gebruiker scrolt zelf
+    if (cancelled) return;
     const t = Math.min(1, (now - startTime) / duration);
-    expectedY = Math.round(startY + distance * easeOut(t));
-    window.scrollTo({ top: expectedY, behavior: "instant" });
-    if (t < 1) requestAnimationFrame(step);
+    const endY = clamp(getTargetY());
+    window.scrollTo({ top: startY + (endY - startY) * easeOut(t), behavior: "instant" });
+    if (t < 1) {
+      requestAnimationFrame(step);
+    } else {
+      cleanup();
+    }
   };
   requestAnimationFrame(step);
 }
@@ -37,7 +65,7 @@ function animateScrollTo(targetY: number) {
 export function scrollToFormulier() {
   const el = document.getElementById("formulier");
   if (el) {
-    animateScrollTo(el.getBoundingClientRect().top + window.scrollY - 80);
+    animateScrollTo(() => el.getBoundingClientRect().top + window.scrollY - 80);
   } else {
     sessionStorage.setItem("scrollToFormulier", "1");
     window.location.href = "/";
