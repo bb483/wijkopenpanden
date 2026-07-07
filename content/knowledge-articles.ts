@@ -564,7 +564,7 @@ export const articles: Article[] = [
         body: "Ons bod houdt rekening met:\n\n• Geschatte renovatiekost (structurele gebreken wegen zwaarder dan cosmetische)\n• Staat van de elektriciteit, dakbedekking, riolering en verwarmingsinstallatie\n• Aanwezigheid van asbest\n• EPC-label en geschatte energetische investeringen\n• Marktwaarde van vergelijkbare panden in de buurt na renovatie\n\nWij zijn transparant over onze berekening en leggen u uit hoe we tot ons bod zijn gekomen.",
       },
     ],
-    relatedArticles: ["keuringen-bij-verkoop-woning", "epc-attest-antwerpen", "verkoop-kosten-berekenen", "huis-verkopen-na-brand-of-schade"],
+    relatedArticles: ["keuringen-bij-verkoop-woning", "epc-attest-antwerpen", "verkoop-kosten-berekenen", "huis-verkopen-na-brand-of-schade", "woning-verkopen-met-krakers-of-domiciliefraude"],
     relatedSituations: ["opknappand-verkopen", "huis-verkopen-bij-erfenis"],
     faqs: [
       {
@@ -682,7 +682,7 @@ export const articles: Article[] = [
       },
       {
         heading: "Verkopen bij erfenis: alle erfgenamen moeten akkoord gaan",
-        body: "Na een overlijden komen de erfgenamen samen in onverdeeldheid. Voor de verkoop van de woning is in principe unanimiteit vereist: alle erfgenamen moeten instemmen met de verkoopprijs en de koper.\n\nAls één erfgenaam weigert mee te werken aan de verkoop, heeft u twee opties:\n\n1. Minnelijke schikking: probeer via overleg of via een notaris tot een akkoord te komen. Soms helpt een neutrale schatting om discussies over de prijs te beslechten.\n\n2. Gerechtelijke verdeling: als overleg mislukt, kan elke mede-eigenaar aan de vrederechter vragen om de onverdeeldheid te beëindigen. De rechter kan de verkoop opleggen via een openbare verkoping.\n\nDe gerechtelijke procedure duurt gemiddeld 1 tot 3 jaar en brengt kosten met zich mee (advocaat, gerechtskosten). De opbrengst van de gedwongen verkoop ligt doorgaans lager dan bij een minnelijke verkoop.",
+        body: "Na een overlijden komen de erfgenamen samen in onverdeeldheid. Voor de verkoop van de woning is in principe unanimiteit vereist: alle erfgenamen moeten instemmen met de verkoopprijs en de koper.\n\nAls één erfgenaam weigert mee te werken aan de verkoop, heeft u twee opties:\n\n1. Minnelijke schikking: probeer via overleg of via een notaris tot een akkoord te komen. Soms helpt een neutrale schatting om discussies over de prijs te beslechten.\n\n2. Gerechtelijke verdeling: als overleg mislukt, kan elke mede-eigenaar bij de familierechtbank de vereffening-verdeling van de onverdeeldheid vorderen (art. 572bis Ger.W.). De rechtbank stelt een notaris-vereffenaar aan en kan, als de woning niet gevoeglijk verdeelbaar is, een openbare verkoop bevelen.\n\nDe gerechtelijke procedure duurt gemiddeld 1 tot 3 jaar en brengt kosten met zich mee (advocaat, gerechtskosten). De opbrengst van de gedwongen verkoop ligt doorgaans lager dan bij een minnelijke verkoop.",
       },
       {
         heading: "Mede-eigendom bij scheiding",
@@ -690,7 +690,7 @@ export const articles: Article[] = [
       },
       {
         heading: "Eén mede-eigenaar wil niet verkopen: wat nu?",
-        body: "Als één mede-eigenaar weigert mee te werken, heeft u de volgende opties:\n\n1. Uw aandeel verkopen: u kunt uw eigen onverdeeld aandeel verkopen aan een derde partij. Dit is echter moeilijk in de praktijk — kopers voor een onverdeeld aandeel zijn schaars en de prijs ligt laag.\n\n2. Uitkoopbod: u biedt de blokkerende mede-eigenaar aan om zijn/haar aandeel over te nemen. Dit vereist financieringsmiddelen.\n\n3. Aanvraag gerechtelijke verdeling: via de vrederechter kunt u de beëindiging van de onverdeeldheid vorderen. De rechter kan een openbare verkoping bevelen als geen van de partijen het geheel kan overnemen.\n\n4. Bemiddeling: een notaris of erkend bemiddelaar kan het conflict helpen oplossen zonder rechtbank. Vaak goedkoper en sneller dan een procedure.\n\nEen professionele opkoper als wijkopenpanden.be kan in sommige gevallen rechtstreeks onderhandelen met alle mede-eigenaars samen, de verdeling coördineren en de overdracht vlot laten verlopen.",
+        body: "Als één mede-eigenaar weigert mee te werken, heeft u de volgende opties:\n\n1. Uw aandeel verkopen: u kunt uw eigen onverdeeld aandeel verkopen aan een derde partij. Dit is echter moeilijk in de praktijk — kopers voor een onverdeeld aandeel zijn schaars en de prijs ligt laag.\n\n2. Uitkoopbod: u biedt de blokkerende mede-eigenaar aan om zijn/haar aandeel over te nemen. Dit vereist financieringsmiddelen.\n\n3. Aanvraag gerechtelijke verdeling: via de familierechtbank kunt u de vereffening-verdeling van de onverdeeldheid vorderen. De rechtbank stelt een notaris-vereffenaar aan en kan een openbare verkoop bevelen als geen van de partijen het geheel kan overnemen.\n\n4. Bemiddeling: een notaris of erkend bemiddelaar kan het conflict helpen oplossen zonder rechtbank. Vaak goedkoper en sneller dan een procedure.\n\nEen professionele opkoper als wijkopenpanden.be kan in sommige gevallen rechtstreeks onderhandelen met alle mede-eigenaars samen, de verdeling coördineren en de overdracht vlot laten verlopen.",
       },
       {
         heading: "Praktisch: de rol van de notaris bij mede-eigendom",
@@ -703,7 +703,7 @@ export const articles: Article[] = [
       {
         question: "Kan ik mijn woning verkopen als één mede-eigenaar weigert?",
         answer:
-          "Niet zonder instemming van alle mede-eigenaars. Als overleg mislukt, kunt u via de vrederechter een gerechtelijke verdeling vorderen. Dit kan leiden tot een gedwongen openbare verkoop.",
+          "Niet zonder instemming van alle mede-eigenaars. Als overleg mislukt, kunt u via de familierechtbank een gerechtelijke vereffening-verdeling vorderen. Dit kan leiden tot een gedwongen openbare verkoop.",
       },
       {
         question: "Hoe lang duurt een gerechtelijke verdeling in België?",
@@ -865,7 +865,7 @@ export const articles: Article[] = [
         body: "Wij kopen woningen met EPC-label E, F en ook D rechtstreeks aan — ook als ze renovatieplichtig zijn na onze aankoop. De renovatieverplichting gaat over op ons als koper. Wij rekenen de renovatiekost intern in en trekken die niet ongefundeerd van uw prijs af: wij baseren ons op werkelijke renovatieramingen, niet op overdreven angstcijfers.\n\nVoordelen voor u als eigenaar:\n• Geen voorafgaande renovatie nodig\n• Geen keuringskosten (EPC, elektriciteit, asbest) — die zijn voor ons\n• Geen makelaar, geen commissie\n• Schriftelijk bod na één bezoek\n• Akte binnen 2 tot 3 maanden\n\nWij leggen u bij het bezoek transparant uit hoe wij het EPC-label meewegen in ons bod. U beslist vrijblijvend.",
       },
     ],
-    relatedArticles: ["epc-attest-antwerpen", "keuringen-bij-verkoop-woning", "pand-in-slechte-staat-verkopen"],
+    relatedArticles: ["epc-attest-antwerpen", "keuringen-bij-verkoop-woning", "pand-in-slechte-staat-verkopen", "verhuurd-pand-verkopen-conformiteitsattest-woningkwaliteit"],
     relatedSituations: ["opknappand-verkopen", "verkopen-zonder-makelaar"],
     faqs: [
       {
@@ -1618,7 +1618,7 @@ export const articles: Article[] = [
         body: "Erfgenamen die een leegstaande woning erven, worden mede-eigenaar van het pand en zijn samen verantwoordelijk voor de leegstandsheffing. Dat leidt in de praktijk tot twee problemen:\n\nFinancieel: de heffing loopt maandelijks door, ook terwijl de erfgenamen onderling overleggen over wat er met het pand moet gebeuren. Iedere maand uitstel kost geld.\n\nJuridisch: bij mede-eigendom moeten álle erfgenamen akkoord gaan met een beslissing (verhuren, renoveren, verkopen). Bij meningsverschillen kan dit een traject van maanden of jaren worden — terwijl de heffing doorloopt.\n\nVoor erfgenamen in de Antwerpse regio biedt een snelle verkoop aan een opkoper een praktische uitweg: één notariële akte, de opbrengst verdeeld onder de erfgenamen, en de heffing eindigt definitief. Geen verdere discussies, geen maandelijkse kosten.",
       },
     ],
-    relatedArticles: ["verhuren-of-verkopen-antwerpen", "energie-renovatieplicht-vlaanderen-2026"],
+    relatedArticles: ["verhuren-of-verkopen-antwerpen", "energie-renovatieplicht-vlaanderen-2026", "woning-verkopen-met-krakers-of-domiciliefraude"],
     relatedSituations: ["huis-verkopen-bij-erfenis", "opknappand-verkopen", "pand-met-huurders-verkopen"],
     faqs: [
       {
@@ -2409,7 +2409,7 @@ export const articles: Article[] = [
         body: "Wij kopen verhuurde panden aan — met huurder, mét lopend huurcontract. U hoeft de huurder niet op te zeggen, niet te verhuizen en niet te wachten tot het huurcontract afloopt.\n\nWij nemen het huurcontract over als nieuwe verhuurder en regelen de relatie met de huurder professioneel. U ontvangt uw bod netto, de overdracht verloopt via de notaris en de huurder wordt tijdig en correct geïnformeerd — inclusief het recht van voorkoop.\n\nDe prijs houdt rekening met de huurinkomsten en de resterende huurperiode, maar u vermijdt de langdurige leegstand, de opzeggingsprocedure en de onzekerheid van een verkoop via de vrije markt.",
       },
     ],
-    relatedArticles: ["verhuren-of-verkopen-antwerpen", "mede-eigendom-verkopen", "verkoop-kosten-berekenen"],
+    relatedArticles: ["verhuren-of-verkopen-antwerpen", "mede-eigendom-verkopen", "verkoop-kosten-berekenen", "verhuurd-pand-verkopen-conformiteitsattest-woningkwaliteit", "woning-verkopen-met-krakers-of-domiciliefraude"],
     relatedSituations: ["pand-met-huurders-verkopen", "huis-verkopen-bij-erfenis"],
     faqs: [
       {
@@ -3895,7 +3895,7 @@ export const articles: Article[] = [
         body: "Op de klassieke markt is een ongeschikt of onbewoonbaar verklaard pand een moeilijk verhaal. Particuliere kopers schrikken van het besluit op de gevel, banken financieren aarzelend, en elke bezichtiging eindigt in dezelfde vragen over de inventaris en de heffing. Ondertussen loopt uw teller door.\n\nVoor een professionele opkoper ligt dat anders. **wijkopenpanden.be** koopt woningen in de regio Antwerpen aan **in de huidige staat**, ook met een ongeschikt- of onbewoonbaarverklaring. Wij kennen de Antwerpse procedures, nemen als koper de herstelplicht over en renoveren het pand tot het opnieuw conform is — precies het scenario waarvoor de tweejarige opschorting voor nieuwe eigenaars bedoeld is. Voor u stopt de heffingsteller bij het verlijden van de akte, en de meldingsplicht wordt correct afgehandeld in samenspraak met de notaris.\n\nPraktisch: u vraagt een **gratis en vrijblijvend bod** aan en krijgt reactie binnen 2 uur, ook in het weekend. Een plaatsbezoek volgt doorgaans binnen 48 uur, waarna u een **schriftelijk gemotiveerd bod** ontvangt. Wij betalen uit eigen middelen — dus geen opschortende voorwaarde van financiering — en u betaalt geen makelaarscommissie. De akte volgt doorgaans 2 tot 3 maanden na akkoord. Zo weet u snel waar u aan toe bent, zonder verdere jaren op de inventaris.",
       },
     ],
-    relatedArticles: ["pand-in-slechte-staat-verkopen", "leegstandsheffing-antwerpen-2026", "huis-verkopen-na-brand-of-schade", "verkoopbelofte-compromis-akte", "energie-renovatieplicht-vlaanderen-2026", "verborgen-gebreken-woning-verkoop-belgie"],
+    relatedArticles: ["pand-in-slechte-staat-verkopen", "leegstandsheffing-antwerpen-2026", "huis-verkopen-na-brand-of-schade", "verhuurd-pand-verkopen-conformiteitsattest-woningkwaliteit", "energie-renovatieplicht-vlaanderen-2026", "verborgen-gebreken-woning-verkoop-belgie"],
     relatedSituations: ["opknappand-verkopen", "pand-met-huurders-verkopen"],
     faqs: [
       {
@@ -4097,6 +4097,165 @@ export const articles: Article[] = [
         question: "Heb ik een EPC en asbestattest nodig om een uitgebrande woning te verkopen?",
         answer:
           "In principe wel. Voor woningen bestaat er geen algemene vrijstelling van het EPC bij verkoop, ook niet wanneer de koper vermoedelijk zal slopen; enkel bepaalde niet-residentiële gebouwen met sloopvergunning zijn uitgezonderd. Het asbestattest is verplicht voor gebouwen met bouwjaar vóór 2001, en is na brand extra relevant omdat beschadigd asbest vezels kan verspreiden. Daarnaast zijn een elektriciteitskeuring, een bodemattest en, indien van toepassing, een keuringsattest van de stookolietank vereist.",
+      },
+    ],
+  },
+  {
+    slug: "woning-verkopen-met-krakers-of-domiciliefraude",
+    title: "Woning verkopen met krakers of domiciliefraude: uw rechten, de ontruiming en de verkoop",
+    metaTitle: "Woning verkopen met krakers of domiciliefraude",
+    metaDescription:
+      "Woning verkopen met krakers of een spookbewoner die er gedomicilieerd staat? Zo pakt u ontruiming en ambtshalve schrapping aan en verkoopt u toch.",
+    publishedAt: "2026-07-07",
+    updatedAt: "2026-07-07",
+    intro:
+      "Ja, u kunt een woning verkopen waar krakers in zitten of waar iemand ten onrechte gedomicilieerd staat: een bezetting of een foutieve inschrijving maakt de verkoop op zich niet ongeldig. Toch loont het om het probleem eerst juridisch en administratief aan te pakken, want het drukt op de prijs en schrikt gewone kopers en hun bank af. Kraken is sinds de wet van 18 oktober 2017 strafbaar, en u kunt via de vrederechter een uithuiszetting vorderen; een spookbewoner die niet meer op het adres woont, laat u ambtshalve schrappen door de gemeente. In dit artikel leest u het verschil tussen krakers, een achterblijvende bewoner en zuivere domiciliefraude, welke procedure bij elk hoort, en hoe u de verkoop toch tot een goed einde brengt.",
+    sections: [
+      {
+        heading: "Krakers, achterblijvende bewoner of domiciliefraude: benoem eerst het juiste probleem",
+        body: "Voor de aanpak maakt het een groot verschil met welke situatie u precies te maken hebt. Drie gevallen worden vaak door elkaar gehaald, maar volgen elk een andere weg:\n\n• **Krakers.** Iemand die zonder enig recht of titel een leegstaand pand betrekt. Zij hebben nooit een huurcontract of toestemming gehad. Sinds de wet van 18 oktober 2017 is dit strafbaar.\n• **Achterblijvende bewoner.** Iemand die ooit wél een titel had — een vroegere huurder, een familielid dat er mocht wonen, een ex-partner — en na het einde daarvan blijft zitten. Dit is juridisch géén kraken; het is een huur- of bezettingsgeschil dat via een andere procedure loopt.\n• **Domiciliefraude / spookbewoner.** Iemand staat administratief op uw adres ingeschreven in het bevolkingsregister, maar woont er (niet meer) fysiek. Dit is in de eerste plaats een administratief probleem van inschrijving, los van de vraag wie er fysiek in de woning zit.\n\nDeze drie kunnen samenvallen — een kraker die zich ook laat inschrijven, of een vertrokken huurder die gedomicilieerd blijft — maar u lost ze op met verschillende instrumenten. Hieronder overlopen we ze één voor één.",
+        table: {
+          headers: ["Situatie", "Had ooit een titel?", "Aanpak", "Bevoegde instantie"],
+          rows: [
+            ["Krakers", "Nee", "Uithuiszetting of strafklacht", "Vrederechter of parket"],
+            ["Achterblijvende (ex-)huurder of bewoner", "Ja", "Uithuiszetting via huur-/bezettingsgeschil", "Vrederechter"],
+            ["Domiciliefraude / spookbewoner", "Niet relevant", "Ambtshalve schrapping aanvragen", "Gemeente (bevolkingsdienst)"],
+          ],
+        },
+      },
+      {
+        heading: "Krakers uitzetten: de anti-kraakwet van 2017",
+        body: "Vóór 2017 was het louter bezetten van een leegstaand pand geen misdrijf, wat eigenaars in een moeilijke positie bracht. De **wet van 18 oktober 2017** (in werking sinds 16 november 2017) maakte het wederrechtelijk binnendringen in of bezetten van andermans niet-bewoonde pand strafbaar. Op kraken staan sindsdien een gevangenisstraf en een geldboete; de exacte strafmaat hangt af van de omstandigheden.\n\nAls eigenaar hebt u in de kern twee wegen, die u ook naast elkaar kunt bewandelen:\n\n• **De burgerlijke weg via de vrederechter.** U vordert een uithuiszettingsbevel. De vrederechter kan de krakers bevelen het pand binnen een korte termijn te verlaten. De procedure is bewust versneld opgezet, met kortere termijnen dan een gewoon geschil, zodat u niet maandenlang moet wachten.\n• **De strafrechtelijke weg via het parket.** U dient klacht in bij de politie of de procureur des Konings wegens het strafbaar kraken.\n\nEén nuance is belangrijk: het **Grondwettelijk Hof vernietigde in maart 2020** de mogelijkheid waarbij de procureur des Konings zélf een snel uithuiszettingsbevel kon uitvaardigen. Die specifieke snelroute verdween, maar de procedure vóór de vrederechter bleef volledig overeind. In de praktijk is de gang naar de vrederechter vandaag de meest gebruikte weg om krakers uit uw pand te laten zetten.\n\nOnderneem hierbij nooit eigenrichting: krakers zelf buitenzetten, sloten vervangen of nutsvoorzieningen afsluiten terwijl zij binnen zijn, kan zich juridisch tegen u keren. Laat u begeleiden door een advocaat en werk met een gerechtsdeurwaarder voor de betekening en uitvoering.",
+      },
+      {
+        heading: "Domiciliefraude en de spookbewoner: ambtshalve schrapping",
+        body: "Een aparte kwestie is de **inschrijving in het bevolkingsregister**. Soms staat er nog iemand op uw adres gedomicilieerd die er in werkelijkheid niet (meer) woont: een vertrokken huurder, een ex-partner, een vorige eigenaar of een onbekende die het adres misbruikt. Dat heet in de volksmond een spookbewoner, en het misbruik van een adres is een vorm van domiciliefraude.\n\nAls eigenaar of bewoner van het pand kunt u bij de **gemeente (dienst bevolking/burgerzaken)** de **ambtshalve schrapping** van die persoon aanvragen. De gemeente start dan een onderzoek: doorgaans gaat de wijkagent meermaals langs om na te gaan of de betrokkene er nog werkelijk zijn hoofdverblijf heeft. Blijkt van niet en is er geen nieuw adres bekend, dan wordt de persoon ambtshalve geschrapt. Vanaf dat moment heeft die persoon administratief geen officieel adres meer.\n\nHoud er rekening mee dat een schrapping een **onderzoekstermijn** vraagt en niet van vandaag op morgen rond is. Start de procedure daarom zo vroeg mogelijk als u een verkoop overweegt. Belangrijk ook: een ambtshalve schrapping regelt enkel de **administratieve inschrijving**. Zit er iemand fysiek in de woning die weigert te vertrekken, dan hebt u daarnaast nog altijd een uithuiszetting nodig via de gepaste procedure hierboven.",
+      },
+      {
+        heading: "Een vroegere huurder of bewoner die niet vertrekt is geen kraker",
+        body: "Een veelgemaakte vergissing: wie ooit een titel had, valt niet onder de anti-kraakwet. Een huurder van wie het contract afliep of correct werd opgezegd maar die blijft zitten, een familielid dat u kosteloos liet wonen, of een ex-partner na een relatiebreuk — zij zijn juridisch géén krakers.\n\nVoor die gevallen loopt de weg via een **huur- of bezettingsgeschil bij de vrederechter**, die een uithuiszetting kan bevelen met de wettelijke waarborgen die daarbij horen (onder meer een minimale termijn en, bij huur, de bescherming van het Vlaams Woninghuurdecreet). Die procedure verschilt van de kraakprocedure en kan langer duren, zeker als de bewoner verweer voert of om uitstel vraagt om sociale redenen.\n\nGaat het om een huurder in een pand dat u wil verkopen, dan speelt bovendien mee dat het lopende huurcontract in principe **mee overgaat op de koper**. Meer daarover leest u in ons artikel over de rechten van de huurder bij verkoop en over een pand met huurders verkopen.",
+      },
+      {
+        heading: "Wat betekent een bezet of frauduleus ingeschreven pand voor de verkoop?",
+        body: "Verkopen kan, maar de bezetting werkt op drie manieren door in het dossier:\n\n• **Informatieplicht.** U moet de koper correct en volledig inlichten over de bezetting, de lopende procedures en de administratieve toestand. Verzwijgt u dit, dan riskeert u aansprakelijkheid voor verborgen gebreken of zelfs vernietiging van de verkoop. Uw notaris legt de gekende toestand vast in het compromis en de akte.\n• **Prijs en financierbaarheid.** Een pand dat niet vrij van bewoning wordt geleverd, is voor de meeste particuliere kopers onaantrekkelijk. Banken zijn terughoudend om een woning te financieren die de koper niet vrij kan betrekken. Daardoor haakt een deel van de gewone kopers af en drukt de bezetting de prijs.\n• **Vrij van gebruik of niet.** Een kernpunt in het compromis is of u het pand **vrij van bewoning** verkoopt (u regelt de ontruiming vóór de akte) dan wel **in bezette staat** (de koper neemt het pand en het bezettingsrisico over tegen een lagere prijs). Beide kan, maar het moet glashelder afgesproken zijn, want het bepaalt wie na de akte met de krakers of de procedure zit.\n\nDe verkoop en de ontruiming lopen dus deels parallel. Sommige eigenaars kiezen ervoor eerst de uithuiszetting en schrapping af te ronden en pas daarna te verkopen; anderen willen net snel van het dossier af en verkopen in de huidige, bezette staat aan een koper die daarmee vertrouwd is.",
+      },
+      {
+        heading: "Verkopen in de huidige staat aan een professionele koper",
+        body: "Wie niet zelf de procedures wil voeren of niet wil wachten tot alles is opgelost, kan het pand rechtstreeks verkopen aan een **professionele vastgoedkoper** die vertrouwd is met bezette panden. De koper neemt dan het bezettingsrisico en de verdere afhandeling over, tegen een prijs die met dat risico rekening houdt.\n\nDe klassieke markt voor een gekraakt of frauduleus ingeschreven pand is beperkt: particuliere kopers krijgen de aankoop moeilijk gefinancierd en willen geen procedure erven, waardoor de verkoop lang kan aanslepen terwijl de bezetting voortduurt. Een directe verkoop gaat sneller, maar doorgaans tegen een prijs onder de vrije marktwaarde, omdat de koper de kosten, de tijd en het risico van de ontruiming overneemt.\n\n**Wijkopenpanden.be** koopt panden in de regio Antwerpen aan in de huidige staat, ook wanneer er een bezetting of een betwiste inschrijving speelt. U ontvangt binnen 2 uur een reactie op uw aanvraag en na een plaatsbezoek een schriftelijk bod. Wij coördineren met uw notaris, u betaalt geen commissie, en samen bekijken we of u vrij van bewoning dan wel in bezette staat verkoopt. Zo weegt u de zekerheid en snelheid af tegen het bedrag dat een gewone verkoop na een afgeronde ontruiming zou opleveren.",
+      },
+    ],
+    relatedArticles: ["huurder-rechten-bij-verkoop-woning", "pand-in-slechte-staat-verkopen", "leegstandsheffing-antwerpen-2026", "verborgen-gebreken-woning-verkoop-belgie", "ongeschikt-onbewoonbaar-verklaarde-woning-verkopen", "hoe-snel-verkopen-en-geld-ontvangen"],
+    relatedSituations: ["pand-met-huurders-verkopen", "verkopen-zonder-makelaar"],
+    faqs: [
+      {
+        question: "Kan ik mijn woning verkopen terwijl er krakers in zitten?",
+        answer:
+          "Ja. Een bezetting maakt de verkoop op zich niet ongeldig. U moet de koper wel correct informeren over de bezetting en de lopende procedures, en u spreekt in het compromis duidelijk af of u vrij van bewoning verkoopt of in bezette staat. Omdat banken een niet vrij te betrekken woning moeilijk financieren, haken veel particuliere kopers af en drukt de bezetting de prijs. Een professionele koper die vertrouwd is met bezette panden vormt dan een alternatief.",
+      },
+      {
+        question: "Hoe krijg ik krakers uit mijn pand?",
+        answer:
+          "Sinds de wet van 18 oktober 2017 is kraken strafbaar. U kunt via de vrederechter een uithuiszettingsbevel vorderen, en/of strafklacht indienen bij de politie of de procureur des Konings. Het Grondwettelijk Hof vernietigde in 2020 wel de snelroute waarbij de procureur zelf een uithuiszettingsbevel kon uitvaardigen; de procedure via de vrederechter bleef intact en is vandaag de gebruikelijke weg. Zet krakers nooit zelf buiten en werk met een advocaat en gerechtsdeurwaarder.",
+      },
+      {
+        question: "Wat is het verschil tussen krakers en een huurder die niet vertrekt?",
+        answer:
+          "Krakers hadden nooit een recht of titel op het pand en vallen onder de strafbare kraakwet. Een vroegere huurder, een familielid dat er mocht wonen of een ex-partner had ooit wél een titel; die persoon is juridisch geen kraker. De uitzetting verloopt dan via een huur- of bezettingsgeschil bij de vrederechter, met de bijhorende wettelijke waarborgen, en niet via de kraakprocedure.",
+      },
+      {
+        question: "Iemand staat op mijn adres ingeschreven maar woont er niet meer. Wat kan ik doen?",
+        answer:
+          "U kunt bij de gemeente (dienst bevolking) de ambtshalve schrapping van die persoon aanvragen. De gemeente laat de wijkagent onderzoeken of de betrokkene er nog werkelijk woont; is dat niet zo en is er geen nieuw adres, dan volgt schrapping. Dat regelt enkel de administratieve inschrijving. Zit er ook fysiek iemand in de woning die weigert te vertrekken, dan hebt u daarnaast nog een uithuiszetting nodig via de gepaste procedure.",
+      },
+      {
+        question: "Mag ik zelf de sloten vervangen of de krakers buitenzetten?",
+        answer:
+          "Nee, eigenrichting wordt afgeraden en kan zich tegen u keren. Zelf de sloten vervangen, spullen buitenzetten of nutsvoorzieningen afsluiten terwijl er mensen in het pand verblijven, kan tot aansprakelijkheid of zelfs een strafklacht tegen u leiden. Volg de wettelijke weg via de vrederechter of het parket en laat de uitvoering over aan een gerechtsdeurwaarder.",
+      },
+      {
+        question: "Koopt wijkopenpanden.be ook een bezet of frauduleus ingeschreven pand?",
+        answer:
+          "Ja. Wij kopen panden in de regio Antwerpen aan in de huidige staat, ook wanneer er krakers in zitten of iemand ten onrechte gedomicilieerd staat. U krijgt binnen 2 uur een reactie en na een plaatsbezoek een schriftelijk bod. Samen bekijken we of u vrij van bewoning of in bezette staat verkoopt, en wij coördineren met uw notaris. De prijs houdt rekening met het risico en de kosten van de ontruiming.",
+      },
+    ],
+  },
+  {
+    slug: "verhuurd-pand-verkopen-conformiteitsattest-woningkwaliteit",
+    title: "Verhuurd pand verkopen dat niet conform is: conformiteitsattest, woningkwaliteit en ongeschiktheid",
+    metaTitle: "Verhuurd pand verkopen dat niet conform is",
+    metaDescription:
+      "Verhuurde woning verkopen zonder conformiteitsattest of na ongeschiktverklaring? Lees wat de woningkwaliteitsnormen betekenen en welke opties u hebt.",
+    publishedAt: "2026-07-07",
+    updatedAt: "2026-07-07",
+    intro:
+      "Ja, u mag een verhuurde woning verkopen die nog geen conformiteitsattest heeft of die ongeschikt is verklaard: er bestaat geen algemeen verbod om een niet-conforme huurwoning te verkopen. U bent wél verplicht de koper eerlijk over de gebreken en de toestand te informeren, het lopende huurcontract gaat automatisch mee over op de koper, en de tekortkomingen drukken op de prijs. Sinds 2025 rolt Vlaanderen bovendien een verplicht conformiteitsattest voor huurwoningen gefaseerd uit, wat de druk op verhuurders met een verouderd pand opvoert. Dit artikel legt uit wat de woningkwaliteitsnormen en het conformiteitsattest inhouden, wat een ongeschiktverklaring betekent voor uw verhuring en verkoop, en hoe u kiest tussen renoveren of verkopen in de huidige staat.",
+    sections: [
+      {
+        heading: "Het conformiteitsattest en de gefaseerde verplichting",
+        body: "Het **conformiteitsattest** is een officieel document dat de gemeente aflevert en dat bevestigt dat een huurwoning voldoet aan de Vlaamse woningkwaliteitsnormen. Het is geen keuring die u bij een privéfirma koopt: u vraagt het aan bij uw **gemeente**, waarna een woningcontroleur een **conformiteitsonderzoek** uitvoert en een technisch verslag opmaakt. De **burgemeester** beslist vervolgens, in principe binnen 60 dagen na uw aanvraag.\n\nEen afgeleverd attest is doorgaans **tien jaar geldig**. Bevat het technisch verslag echter vijf of meer gebreken van de zwaarste categorie, dan wordt de geldigheid beperkt tot vijf jaar. Belangrijk voor een verkoop: het attest is verbonden aan de woning en blijft in principe geldig, ook als het pand van eigenaar verandert.\n\nVlaanderen voert een **verplicht conformiteitsattest voor huurwoningen gefaseerd in**, waarbij de oudste woningen als eerste aan de beurt komen en de uitrol volgens de huidige plannen doorloopt tot rond 2035. De exacte datum voor uw pand hangt af van het bouwjaar en van uw gemeente — heel wat steden en gemeenten legden het attest lokaal al eerder op. Raadpleeg daarom uw gemeente of Wonen in Vlaanderen voor de termijn die op uw woning van toepassing is. Wie een verouderd huurpand bezit, ziet met deze uitrol de vraag scherper worden: investeren om conform te worden, of verkopen.",
+      },
+      {
+        heading: "De Vlaamse woningkwaliteitsnormen: waaraan moet een huurwoning voldoen?",
+        body: "De woningkwaliteitsnormen staan in de Vlaamse Codex Wonen en worden bij een controle afgetoetst via een technisch verslag. Vastgestelde gebreken worden ingedeeld in categorieën naargelang hun ernst; lichte tekortkomingen zijn iets anders dan gebreken die de veiligheid of gezondheid in het gedrang brengen. Enkele vaste ijkpunten:\n\n• **Rookmelders** zijn sinds 1 januari 2020 in élke woning in Vlaanderen verplicht, op elke bewoonde verdieping. Een woning zonder de vereiste rookmelders krijgt geen conformiteitsattest, en verhuren zonder rookmelders is bovendien strafbaar.\n• **Dubbel glas** is een minimumnorm: enkel glas volstaat niet meer, ook niet in oudere panden. Er wordt geen maximale isolatiewaarde opgelegd, dus ook origineel dubbel glas voldoet aan deze minimumeis.\n• **Dakisolatie** met een minimale Rd-waarde is vereist voor bestaande woningen.\n• Daarnaast toetst de controleur onder meer **vocht, stabiliteit, de elektrische installatie, verwarmings- en verluchtingsmogelijkheid, sanitair en toegankelijkheid**.\n\nWorden ernstige gebreken vastgesteld, dan leidt dat niet automatisch tot een boete, maar het pand krijgt geen attest en kan bij een zwaarder gebrekenpakket ongeschikt of onbewoonbaar worden verklaard (zie hieronder).",
+        table: {
+          headers: ["Norm", "Sinds", "Aandachtspunt bij een ouder huurpand"],
+          rows: [
+            ["Rookmelders op elke bewoonde verdieping", "1 januari 2020", "Ontbreken blokkeert het attest en is strafbaar bij verhuur"],
+            ["Minstens dubbel glas", "Woningkwaliteitsnorm", "Enkel glas moet vervangen worden; origineel dubbel glas volstaat"],
+            ["Dakisolatie (minimale Rd-waarde)", "Woningkwaliteitsnorm", "Ongeïsoleerde daken vergen investering"],
+            ["Vocht, stabiliteit, elektriciteit, sanitair", "Vaste toetsing", "Ernstige gebreken kunnen tot ongeschiktverklaring leiden"],
+          ],
+        },
+      },
+      {
+        heading: "Ongeschikt of onbewoonbaar verklaard: gevolgen voor verhuur en verkoop",
+        body: "Stelt de controle zware gebreken vast, dan kan de burgemeester de woning **ongeschikt** (ernstige gebreken) of **onbewoonbaar** (veiligheids- of gezondheidsrisico) verklaren. De woning komt dan op de Vlaamse inventaris terecht en er geldt in de regel een **verhuurverbod**. Blijft de situatie aanslepen, dan kan bovendien een jaarlijkse heffing volgen.\n\nVerkopen blijft ook dan mogelijk, maar met twee aandachtspunten. Ten eerste moet u de koper **informeren** over het besluit; de status hoort thuis in het compromis en de akte en drukt op de prijs. Ten tweede blijven de gevolgen aan het pand kleven tot de gebreken zijn hersteld en een nieuw conformiteitsonderzoek de woning opnieuw conform verklaart, of tot een koper renoveert of sloopt.\n\nDe volledige aanpak van een ongeschikt- of onbewoonbaarverklaring — inclusief de heffing en de stappen om van de inventaris te raken — behandelen we in ons aparte artikel over een ongeschikt of onbewoonbaar verklaarde woning verkopen.",
+      },
+      {
+        heading: "Verkopen met een lopende huurder: het contract gaat mee over",
+        body: "Verkoopt u terwijl er een huurder in het pand woont, dan gaat de **lopende huurovereenkomst automatisch mee over op de koper**. De koper wordt de nieuwe verhuurder en neemt de rechten en plichten uit het contract over. De verkoop zelf is géén geldige reden om de huur te beëindigen: de huurder is beschermd door het Vlaams Woninghuurdecreet en hoeft niet te vertrekken.\n\nWil de koper de woning zelf betrekken, dan kan hij opzeggen voor **eigen gebruik**, maar met een **opzegtermijn van zes maanden** die pas begint te lopen zodra hij effectief eigenaar is. Is het huurcontract nog geen drie jaar oud, dan gelden bijkomende beperkingen op het moment waarop kan worden opgezegd. Een geregistreerd huurcontract wordt volledig aan de koper tegengeworpen.\n\nVoor de koper betekent dit dat hij een pand mét huurder en mét de bestaande (huur)voorwaarden overneemt. Dat en de niet-conforme staat bepalen samen wat een koper kan bieden. De rechten van de huurder bij een verkoop en de praktische kant van een pand met huurders verkopen werken we uit in aparte artikels.",
+      },
+      {
+        heading: "Renoveren of verkopen in de huidige staat?",
+        body: "De kernvraag voor veel verhuurders is of ze nog investeren of net afstappen van het pand. Weeg beide scenario's cijfermatig af:\n\n• **Renoveren om conform te verhuren.** U brengt de woning in orde (rookmelders, glas, dakisolatie, vocht, elektriciteit), vraagt een conformiteitsattest aan en verhuurt verder. Reken naast de werken ook op de tijd, de coördinatie en mogelijke leegstand tijdens de werken.\n• **Verkopen in de huidige staat.** U verkoopt zonder eerst te renoveren, aan een koper die de werken en het risico overneemt. De prijs ligt lager dan die van een gerenoveerd, conform pand, maar u vermijdt de investering en de rompslomp.\n\nHoud bij die afweging ook de **energienormen** in het achterhoofd: wie een woning met EPC-label E of F koopt, moet die volgens de regels van 2026 binnen zes jaar renoveren tot minstens label D. Die renovatieplicht en de kosten die ermee gepaard gaan, wegen mee in wat een koper voor uw pand kan bieden. Meer daarover in ons artikel over de energie- en renovatieplicht in Vlaanderen.",
+      },
+      {
+        heading: "Verkopen aan een professionele koper zonder eerst te renoveren",
+        body: "Wie niet wil of kan investeren, hoeft het pand niet eerst conform te maken om te verkopen. Naast de klassieke verkoop via een makelaar bestaat de rechtstreekse verkoop aan een **professionele vastgoedkoper** die panden in de huidige staat aankoopt, ook verhuurd en niet-conform.\n\nDe klassieke markt voor een niet-conform of ongeschikt verklaard huurpand is beperkt: veel particuliere kopers zoeken een instapklare of zelfbewoonbare woning en krijgen een pand met gebreken en een zittende huurder moeilijk gefinancierd. Daardoor kan de verkoop aanslepen terwijl kosten zoals de eventuele heffing, verzekering en beheer doorlopen.\n\n**Wijkopenpanden.be** koopt panden in de regio Antwerpen aan in de huidige staat, ook wanneer ze verhuurd zijn, geen conformiteitsattest hebben of ongeschikt zijn verklaard. U ontvangt binnen 2 uur een reactie op uw aanvraag en na een plaatsbezoek een schriftelijk bod. U betaalt geen commissie, de verplichte attesten en de coördinatie met de notaris zijn inbegrepen, en de akte volgt doorgaans binnen 2 tot 3 maanden. Vergelijk dat bod met de kostprijs van een volledige renovatie plus de huurwaarde nadien, zodat u met volledige informatie kiest tussen renoveren en verkopen.",
+      },
+    ],
+    relatedArticles: ["ongeschikt-onbewoonbaar-verklaarde-woning-verkopen", "huurder-rechten-bij-verkoop-woning", "energie-renovatieplicht-vlaanderen-2026", "pand-in-slechte-staat-verkopen", "keuringen-bij-verkoop-woning", "hoe-snel-verkopen-en-geld-ontvangen"],
+    relatedSituations: ["pand-met-huurders-verkopen", "opknappand-verkopen"],
+    faqs: [
+      {
+        question: "Mag ik een verhuurde woning verkopen zonder conformiteitsattest?",
+        answer:
+          "Ja. Er bestaat geen algemeen verbod om een huurwoning zonder conformiteitsattest te verkopen. Het attest is een verhuurgerelateerde verplichting die Vlaanderen gefaseerd invoert, geen verkoopvoorwaarde zoals het EPC. U moet de koper wel eerlijk informeren over de staat van de woning en over eventuele gebreken. De koper neemt het pand en het lopende huurcontract over en houdt bij zijn bod rekening met de werken die nodig zijn om conform te verhuren.",
+      },
+      {
+        question: "Hoe lang is een conformiteitsattest geldig en blijft het gelden na verkoop?",
+        answer:
+          "Een conformiteitsattest is doorgaans tien jaar geldig. Bevat het technisch verslag vijf of meer gebreken van de zwaarste categorie, dan is het beperkt tot vijf jaar. Het attest is verbonden aan de woning en blijft in principe geldig wanneer het pand van eigenaar verandert. De nieuwe eigenaar erft dus een geldig attest, maar bij nieuwe of verergerde gebreken kan een nieuw conformiteitsonderzoek nodig zijn.",
+      },
+      {
+        question: "Wat gebeurt er als mijn huurwoning ongeschikt of onbewoonbaar wordt verklaard?",
+        answer:
+          "De woning komt op de Vlaamse inventaris en er geldt in de regel een verhuurverbod; blijft de situatie aanslepen, dan kan een jaarlijkse heffing volgen. Verkopen blijft mogelijk, maar u moet de koper over het besluit informeren en de status drukt op de prijs. De gevolgen blijven aan het pand kleven tot de gebreken hersteld zijn en een nieuw onderzoek de woning conform verklaart, of tot een koper renoveert of sloopt.",
+      },
+      {
+        question: "Moet mijn huurder vertrekken als ik de woning verkoop?",
+        answer:
+          "Nee. De verkoop is geen geldige reden om de huur te beëindigen; het lopende huurcontract gaat automatisch mee over op de koper, die de nieuwe verhuurder wordt. Wil de koper de woning zelf bewonen, dan kan hij opzeggen voor eigen gebruik met een opzegtermijn van zes maanden, die pas begint zodra hij eigenaar is. Bij een huurcontract van minder dan drie jaar gelden bijkomende beperkingen op het opzegmoment.",
+      },
+      {
+        question: "Is renoveren of verkopen in de huidige staat voordeliger?",
+        answer:
+          "Dat hangt af van de kostprijs van de werken tegenover de meerwaarde en de huurwaarde nadien. Renoveren om conform te verhuren vergt investering, tijd en mogelijk leegstand tijdens de werken. Verkopen in de huidige staat levert minder op dan een gerenoveerd pand, maar vermijdt die investering en het risico. Zet beide scenario's cijfermatig naast elkaar, en houd rekening met de energie- en renovatieplicht die op de koper rust.",
+      },
+      {
+        question: "Koopt wijkopenpanden.be een verhuurd of niet-conform pand?",
+        answer:
+          "Ja. Wij kopen panden in de regio Antwerpen aan in de huidige staat, ook wanneer ze verhuurd zijn, geen conformiteitsattest hebben of ongeschikt zijn verklaard. U krijgt binnen 2 uur een reactie en na een plaatsbezoek een schriftelijk bod, zonder commissie en met de attesten en notariscoördinatie inbegrepen. Vergelijk dat bod met de kostprijs van een volledige renovatie plus de huurwaarde nadien om een onderbouwde keuze te maken.",
       },
     ],
   },
