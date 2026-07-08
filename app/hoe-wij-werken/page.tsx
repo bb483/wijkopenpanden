@@ -116,7 +116,7 @@ export default function Page() {
           </FadeIn>
           <FadeIn delay={0.2}>
             <div className="flex flex-wrap gap-3">
-              <Button href="#formulier" variant="primary" className="px-8 py-4 text-base">Vraag uw bod aan</Button>
+              <Button href="/#formulier" variant="primary" className="px-8 py-4 text-base">Vraag uw bod aan</Button>
               <Button href="tel:0492779475" variant="secondary" className="px-8 py-4 text-base">0492 77 94 75</Button>
             </div>
           </FadeIn>

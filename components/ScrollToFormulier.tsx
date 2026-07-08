@@ -2,6 +2,7 @@
 
 import type { ReactNode } from "react";
 import Link from "next/link";
+import { getLenisInstance } from "@/components/lenisInstance";
 
 // window.scrollTo({ behavior: "smooth" }) is in Chrome niet door de gebruiker
 // te onderbreken (scrollbalk/touch/wiel): de lopende animatie trekt de pagina
@@ -64,12 +65,24 @@ function animateScrollTo(getTargetY: () => number) {
 
 export function scrollToFormulier() {
   const el = document.getElementById("formulier");
-  if (el) {
-    animateScrollTo(() => el.getBoundingClientRect().top + window.scrollY - 80);
-  } else {
+  if (!el) {
     sessionStorage.setItem("scrollToFormulier", "1");
     window.location.href = "/";
+    return;
   }
+
+  // Op desktop is Lenis actief. Scroll dan via Lenis zelf zodat de interne
+  // scrollpositie meebeweegt; anders blijft die op 0 staan en trekt Lenis de
+  // pagina terug naar boven bij de eerstvolgende wiel-/touch-scroll van de
+  // gebruiker. Lenis houdt rekening met scroll-padding-top (80px) uit de CSS.
+  const lenis = getLenisInstance();
+  if (lenis) {
+    lenis.scrollTo(el);
+    return;
+  }
+
+  // Fallback (mobiel / reduced-motion / geen Lenis): eigen rAF-animatie.
+  animateScrollTo(() => el.getBoundingClientRect().top + window.scrollY - 80);
 }
 
 export default function ScrollToFormulier({

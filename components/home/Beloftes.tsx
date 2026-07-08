@@ -3,6 +3,7 @@
 import { useRef } from "react";
 import { motion, useInView } from "framer-motion";
 import Container from "@/components/Container";
+import { scrollToFormulier } from "@/components/ScrollToFormulier";
 
 const stats = [
   { value: "2 uur", label: "Contact na uw aanvraag" },
@@ -110,6 +111,7 @@ export default function Beloftes() {
             style={{ background: "#C0392B", fontSize: "1.0625rem" }}
             onMouseEnter={(e) => (e.currentTarget.style.background = "#a93226")}
             onMouseLeave={(e) => (e.currentTarget.style.background = "#C0392B")}
+            onClick={(e) => { e.preventDefault(); scrollToFormulier(); }}
           >
             Vraag nu gratis een bod aan
             <svg width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true">

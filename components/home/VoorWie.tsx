@@ -2,6 +2,7 @@
 
 import { motion } from "framer-motion";
 import Container from "@/components/Container";
+import { scrollToFormulier } from "@/components/ScrollToFormulier";
 
 const situaties = [
   {
@@ -187,6 +188,7 @@ export default function VoorWie() {
             href="#formulier"
             className="px-8 py-4 rounded-full font-semibold text-white transition-colors duration-200 text-center"
             style={{ background: "#C0392B", fontSize: "1.0625rem" }}
+            onClick={(e) => { e.preventDefault(); scrollToFormulier(); }}
           >
             Vraag gratis een bod aan
           </a>

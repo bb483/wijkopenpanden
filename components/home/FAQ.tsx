@@ -3,6 +3,7 @@
 import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import Container from "@/components/Container";
+import { scrollToFormulier } from "@/components/ScrollToFormulier";
 
 const vragen = [
   {
@@ -161,6 +162,7 @@ export default function FAQ() {
               href="#formulier"
               className="px-7 py-3.5 rounded-full font-semibold text-white transition-colors duration-200 text-center whitespace-nowrap"
               style={{ background: "#C0392B", fontSize: "1rem" }}
+              onClick={(e) => { e.preventDefault(); scrollToFormulier(); }}
             >
               Vraag een bod aan
             </a>

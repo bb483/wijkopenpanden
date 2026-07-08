@@ -9,6 +9,7 @@ import ScrollToFormulier from "@/components/ScrollToFormulier";
 import FAQAccordion from "@/components/FAQAccordion";
 import JsonLd from "@/components/JsonLd";
 import StickyCtaButton from "@/components/StickyCtaButton";
+import Formulier from "@/components/home/Formulier";
 import type { Situation } from "@/content/types";
 
 const BASE_URL = "https://wijkopenpanden.be";
@@ -130,14 +131,8 @@ export default function SituationTemplate({ data }: { data: Situation }) {
           </Section>
         )}
 
-        {/* CTA */}
-        <Section variant="bone" id="formulier">
-          <div className="max-w-xl">
-            <Heading level={2} className="mb-4">Woning verkopen in uw situatie?</Heading>
-            <p className="text-muted text-sm mb-6">Vrijblijvend. Reactie binnen 2 uur — ook in het weekend.</p>
-            <Button href="/#formulier" variant="primary" className="px-8 py-4 text-base">Ga naar het contactformulier</Button>
-          </div>
-        </Section>
+        {/* Offerteformulier */}
+        <Formulier />
       </main>
       <Footer />
       <StickyCtaButton />

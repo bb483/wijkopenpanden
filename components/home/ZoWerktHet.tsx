@@ -5,6 +5,7 @@ import { gsap } from "gsap";
 import { useGSAP } from "@gsap/react";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import Container from "@/components/Container";
+import { scrollToFormulier } from "@/components/ScrollToFormulier";
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -167,6 +168,7 @@ export default function ZoWerktHet() {
               e.currentTarget.style.borderColor = "rgba(28,22,16,0.15)";
               e.currentTarget.style.color = "#5C4D3C";
             }}
+            onClick={(e) => { e.preventDefault(); scrollToFormulier(); }}
           >
             Vraag nu uw gratis bod aan
           </a>
