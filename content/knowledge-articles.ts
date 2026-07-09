@@ -114,7 +114,7 @@ export const articles: Article[] = [
         body: "Bij een verkoop aan wijkopenpanden.be regelen wij alle verplichte keuringen en attesten zelf, op onze kosten. U hoeft geen EPC, elektriciteitskeuring, asbestinventaris of bodemattesten zelf aan te vragen of te betalen. Dit is een van de concrete voordelen van een rechtstreekse verkoop aan een professionele opkoper.",
       },
     ],
-    relatedArticles: ["commissie-makelaar-belgie", "notariskosten-woning-verkoop"],
+    relatedArticles: ["commissie-makelaar-belgie", "notariskosten-woning-verkoop", "asbestattest-bij-verkoop-woning", "bodemattest-vlaanderen-verkoop"],
     relatedSituations: ["verkopen-zonder-makelaar", "opknappand-verkopen"],
     faqs: [
       {
@@ -697,7 +697,7 @@ export const articles: Article[] = [
         body: "Bij elke verkoop van mede-eigendom is een notaris verplicht. De notaris:\n• Stelt de verkoopovereenkomst en akte op\n• Verdeelt de opbrengst tussen de mede-eigenaars naar rato van hun aandeel\n• Vereffent de openstaande hypotheek (als die er is)\n• Zorgt voor de fiscale aangifte\n\nAls de mede-eigenaars verschillende notarissen willen, is dat mogelijk. De kopers- en verkopers-notaris werken dan samen.\n\nBij verkoop aan wijkopenpanden.be regelen wij de volledige coördinatie met de notaris(sen). U hoeft zich niet te bekommeren om de administratie.",
       },
     ],
-    relatedArticles: ["erfenis-woning-stappenplan", "belastingen-bij-woningverkoop", "verkoop-kosten-berekenen"],
+    relatedArticles: ["erfenis-woning-stappenplan", "belastingen-bij-woningverkoop", "verkoop-kosten-berekenen", "mede-eigenaar-wil-niet-verkopen-uit-onverdeeldheid"],
     relatedSituations: ["huis-verkopen-bij-erfenis", "huis-verkopen-bij-scheiding"],
     faqs: [
       {
@@ -2211,7 +2211,7 @@ export const articles: Article[] = [
         body: "Bij een verkoop aan wijkopenpanden.be bezorgen wij alle attesten, inclusief het bodemattest, op eigen kosten. U hoeft geen OVAM-aanvraag te doen — wij coördineren dit in samenwerking met de notaris.\n\nAls het bodemattest van uw perceel een risicogrond aangeeft, bespreken we dit transparant met u. We werken samen met erkende bodemsaneringsdeskundigen en kennen de procedure. In de meeste gevallen is het probleem kleiner dan gevreesd — en wij zijn bereid ook dergelijke panden over te nemen, mits de situatie duidelijk is.",
       },
     ],
-    relatedArticles: ["keuringen-bij-verkoop-woning", "verkoop-kosten-berekenen", "stedenbouwkundige-overtreding-woning-verkopen"],
+    relatedArticles: ["keuringen-bij-verkoop-woning", "verkoop-kosten-berekenen", "stedenbouwkundige-overtreding-woning-verkopen", "asbestattest-bij-verkoop-woning"],
     relatedSituations: ["verkopen-zonder-makelaar", "huis-verkopen-bij-erfenis"],
     faqs: [
       {
@@ -2475,7 +2475,7 @@ export const articles: Article[] = [
         body: "De meerderheid van de vertraging bij appartementsverkopen is te herleiden tot de syndicus. Houd rekening met de volgende tijdlijn:\n\n• Week 1: notaris stelt formeel informatieverzoek aan de syndicus (art. 577-11)\n• Week 1 tot 4: syndicus bereidt het dossier voor (30 dagen wettelijke termijn)\n• Week 4 tot 6: notaris verwerkt de informatie, maakt compromis op\n• Week 6 tot 16: gebruikelijke termijn tussen compromis en akte (doorgaans 4 maanden)\n• Akte: notaris verrekent alle schulden en maakt de overdracht definitief\n\nVerkoop via een professionele opkoper zoals wijkopenpanden.be kan de proceduretijden aanzienlijk verkorten. Wij coördineren rechtstreeks met de syndicus, kennen de procedure en zorgen dat alle documenten tijdig beschikbaar zijn voor de notaris.",
       },
     ],
-    relatedArticles: ["notariskosten-woning-verkoop", "mede-eigendom-verkopen", "verborgen-gebreken-woning-verkoop-belgie"],
+    relatedArticles: ["notariskosten-woning-verkoop", "mede-eigendom-verkopen", "verborgen-gebreken-woning-verkoop-belgie", "asbestattest-bij-verkoop-woning"],
     relatedSituations: ["pand-met-huurders-verkopen", "huis-verkopen-bij-erfenis"],
     faqs: [
       {
@@ -4256,6 +4256,164 @@ export const articles: Article[] = [
         question: "Koopt wijkopenpanden.be een verhuurd of niet-conform pand?",
         answer:
           "Ja. Wij kopen panden in de regio Antwerpen aan in de huidige staat, ook wanneer ze verhuurd zijn, geen conformiteitsattest hebben of ongeschikt zijn verklaard. U krijgt binnen 2 uur een reactie en na een plaatsbezoek een schriftelijk bod, zonder commissie en met de attesten en notariscoördinatie inbegrepen. Vergelijk dat bod met de kostprijs van een volledige renovatie plus de huurwaarde nadien om een onderbouwde keuze te maken.",
+      },
+    ],
+  },
+  {
+    slug: "asbestattest-bij-verkoop-woning",
+    title: "Asbestattest bij verkoop: wanneer verplicht, wat staat erin en een woning met asbest verkopen",
+    metaTitle: "Asbestattest bij verkoop van een woning",
+    metaDescription:
+      "Asbestattest verplicht bij verkoop? Sinds 23 november 2022 heeft u er een nodig voor panden van vóór 2001. Zo pakt u het aan en verkoopt u met asbest.",
+    publishedAt: "2026-07-09",
+    updatedAt: "2026-07-09",
+    intro:
+      "Ja, u mag een woning met asbest verkopen — asbest in huis is op zich geen verkoopverbod. Sinds 23 november 2022 heeft u bij de verkoop van een gebouw met bouwjaar vóór 2001 in Vlaanderen wél een geldig asbestattest nodig, dat u laat opstellen door een gecertificeerd asbestdeskundige en waarvan u de inhoud vóór het sluiten van de overeenkomst aan de koper meedeelt. Ontbreekt het attest, dan kan de koper tot aan de notariële akte de nietigheid van de verkoop vorderen. In dit artikel leest u wanneer u een attest nodig hebt, wat erin staat, hoe lang het geldig is, wat er speelt bij een appartement, en hoe u een woning met veel asbest tóch vlot verkoopt.",
+    sections: [
+      {
+        heading: "Wanneer heb ik een asbestattest nodig bij verkoop?",
+        body: "Sinds **23 november 2022** is een asbestattest verplicht bij de verkoop van een woning of gebouw in Vlaanderen. De verplichting geldt niet voor élk pand, maar wel voor **constructies met een risicobouwjaar**, dat wil zeggen gebouwd **vóór 2001**. In dat jaar verdwenen de laatste asbesthoudende materialen van de Belgische markt; wat ouder is, kan asbest bevatten.\n\nEnkele voorwaarden bepalen of uw pand eronder valt:\n\n• **Bouwjaar vóór 2001.** Woningen en gebouwen die daarna zijn gebouwd, hebben geen asbestattest nodig bij verkoop.\n• **Toegankelijke constructie van minstens 20 m².** Het gaat om een gebouw(deel) waar een mens normaal in kan staan en dat minstens uit een dak op dragende elementen bestaat, met een oppervlakte van 20 m² of meer.\n• **Overdracht onder levenden.** De verplichting geldt bij verkoop en andere overdrachten onder levenden. Bij een erfenis (overdracht door overlijden) is er op dat moment geen attestplicht, al is een attest ook dan vaak nuttig voor de verdere afhandeling.\n\nLos van een verkoop komt er nog een bredere verplichting aan: **tegen 2032 moet elke eigenaar** van een gebouw met bouwjaar vóór 2001 over een asbestattest beschikken, ook zonder dat er verkocht wordt. Wie nu verkoopt, loopt dus enkel vooruit op iets wat sowieso op elke oudere eigenaar afkomt.",
+      },
+      {
+        heading: "Wat is een asbestattest en wat staat erin?",
+        body: "Een asbestattest is een officieel document dat de OVAM aflevert op basis van een **asbestinventaris** van uw gebouw. U laat die inventaris opmaken door een **gecertificeerd asbestdeskundige inventarisatie (ADI)**. Die komt ter plaatse, brengt alle asbestverdachte materialen in kaart, neemt waar nodig stalen en registreert alles in de centrale databank van de OVAM, die vervolgens per gebouw een uniek attest genereert.\n\nHet onderzoek is in de regel **niet-destructief**: de deskundige breekt niets af en beperkt zich tot wat zichtbaar en redelijk toegankelijk is (soms is een kleine beschadiging nodig om een staal te nemen). Materiaal dat verborgen zit achter muren of onder vloeren valt buiten het attest; het gaat om de asbest die bij normaal gebruik van het gebouw een rol speelt.\n\nHet attest vermeldt onder meer:\n\n• **Welke asbesthoudende materialen** aanwezig zijn en waar ze zich bevinden.\n• De **staat** ervan en of ze een blootstellingsrisico vormen.\n• Een advies over hoe u ermee omgaat: laten zitten, veilig beheren of (laten) verwijderen.\n• Of het gebouw als geheel **asbestveilig** is.\n\nBelangrijk: het attest verplicht u niet om de asbest te verwijderen vóór de verkoop. Het informeert de koper over wat er is; wat daarmee gebeurt, is een zaak tussen u en de koper.",
+      },
+      {
+        heading: "Hoe lang is een asbestattest geldig?",
+        body: "De geldigheidsduur hangt af van wat de deskundige aantreft. Er zijn drie regimes:\n\n• **Standaard tien jaar.** Een gewoon asbestattest is in principe tien jaar geldig.\n• **Beperkt tot vijf jaar** wanneer er asbestmateriaal met een verhoogd blootstellingsrisico aanwezig is. De kortere termijn zet aan om die situatie sneller aan te pakken.\n• **Onbeperkt geldig** wanneer het attest besluit dat er **geen asbesthoudende materialen** zijn. Sinds 8 april 2024 krijgt zo'n \"asbestvrij\" attest geen vervaldatum meer.\n\nEen geldig attest van de vorige eigenaar kan bij een verkoop hergebruikt worden zolang het niet vervallen is en de toestand van het gebouw niet ingrijpend is gewijzigd. Zijn er sinds het attest werken of afbraak gebeurd, of is er nieuwe informatie, dan kan een nieuw of geactualiseerd attest nodig zijn.",
+        table: {
+          headers: ["Conclusie van het attest", "Geldigheidsduur", "Sinds"],
+          rows: [
+            ["Asbest aanwezig, zonder verhoogd risico", "10 jaar", "23 november 2022"],
+            ["Asbest met verhoogd blootstellingsrisico", "5 jaar", "23 november 2022"],
+            ["Geen asbesthoudende materialen", "Onbeperkt (geen vervaldatum)", "8 april 2024"],
+          ],
+        },
+      },
+      {
+        heading: "Appartement of mede-eigendom: ook een attest voor de gemene delen",
+        body: "Verkoopt u een **appartement**, dan speelt niet alleen de private kavel maar ook de **gemeenschappelijke delen** van het gebouw. Sinds **1 mei 2025** moet bij de overdracht van een appartement ook een asbestattest voor die gemeenschappelijk gebruikte delen beschikbaar zijn.\n\nDat attest wordt niet per eigenaar, maar voor het hele gebouw opgemaakt en beheerd door de **vereniging van mede-eigenaars (VME)**, doorgaans via de syndicus. Alle VME's moeten uiterlijk **tegen 1 januari 2027** over zo'n attest voor de gemene delen beschikken — een datum die vervroegd werd ten opzichte van de algemene 2032-deadline.\n\nAls verkoper van een appartement vraagt u het attest voor de gemene delen dus best tijdig op bij uw syndicus, naast het attest voor uw eigen kavel. Verkoopt u meerdere wooneenheden tegelijk, dan maakt de deskundige in principe **per wooneenheid een apart attest** op. Meer over de rol van de syndicus en de VME bij een verkoop leest u in ons artikel over een appartement met VME en syndicus verkopen.",
+      },
+      {
+        heading: "Wat als het attest ontbreekt — of net veel asbest aantreft?",
+        body: "Het geldige asbestattest moet er zijn **ten laatste bij het sluiten van de verkoopovereenkomst**, en de inhoud ervan moet aan de koper worden meegedeeld. Ontbreekt het attest of is het ongeldig, dan **kan de koper in de periode tot de authentieke akte de nietigheid van de verkoop vorderen**. De notaris ziet er bovendien op toe dat er een geldig attest is vóór hij de akte verlijdt. Het attest tijdig laten opmaken is dus geen formaliteit die u tot het laatste moment kunt uitstellen.\n\nEen tweede vraag is wat een attest dat **veel asbest** aantreft, doet met uw verkoop. Juridisch belet het u niet te verkopen: u moet de asbest niet eerst verwijderen. Praktisch weegt het wel op de deal. Een koper die op papier ziet dat er bijvoorbeeld asbestleien, oude buizen of vinyl met asbest aanwezig zijn, houdt rekening met de **kosten en de rompslomp van een gespecialiseerde verwijdering** en zal dat in zijn bod verrekenen. Voor een pand dat sowieso gerenoveerd of gesloopt moet worden, is dat vaak minder bezwaarlijk dan voor een instapklare woning.\n\nWees hierbij correct en volledig: verzwijgt u gekende asbestproblemen die buiten het attest vallen, dan riskeert u aansprakelijkheid voor verborgen gebreken. Speel liever open kaart en laat de cijfers het werk doen.",
+      },
+      {
+        heading: "Een woning met veel asbest verkopen in de huidige staat",
+        body: "Wie een ouder pand met veel asbest bezit en niet eerst wil investeren in een dure verwijdering, hoeft dat niet te doen om te kunnen verkopen. Naast de klassieke verkoop via een makelaar bestaat de rechtstreekse verkoop aan een **professionele vastgoedkoper** die panden in de huidige staat aankoopt, asbest inbegrepen.\n\nDe klassieke markt voor een woning met veel asbest is beperkt: veel particuliere kopers zoeken een instapklare woning en schrikken terug voor de kosten en het gedoe van een sanering. Daardoor kan de verkoop aanslepen. Een koper die met asbest en renovatie vertrouwd is, kijkt daar anders tegenaan en neemt de verwijdering zelf voor zijn rekening.\n\n**Wijkopenpanden.be** koopt panden in de regio Antwerpen aan in de huidige staat, ook wanneer er asbest aanwezig is of het pand grondig gesaneerd moet worden. U ontvangt binnen 2 uur een reactie op uw aanvraag en na een plaatsbezoek een schriftelijk bod. U betaalt geen commissie, de verplichte attesten en de coördinatie met de notaris zijn inbegrepen, en de akte volgt doorgaans binnen 2 tot 3 maanden. Zo vergelijkt u het bod met wat een verkoop na een volledige asbestverwijdering zou opleveren, en kiest u met volledige informatie.",
+      },
+    ],
+    relatedArticles: ["keuringen-bij-verkoop-woning", "keuringen-attesten-bij-directe-verkoop", "bodemattest-vlaanderen-verkoop", "pand-in-slechte-staat-verkopen", "appartement-vme-syndicus-verkopen", "hoe-snel-verkopen-en-geld-ontvangen"],
+    relatedSituations: ["opknappand-verkopen", "verkopen-zonder-makelaar"],
+    faqs: [
+      {
+        question: "Is een asbestattest verplicht bij de verkoop van mijn woning?",
+        answer:
+          "Ja, als uw woning of gebouw gebouwd is vóór 2001 en het om een toegankelijke constructie van minstens 20 m² gaat. Sinds 23 november 2022 is een geldig asbestattest verplicht bij verkoop in Vlaanderen. Panden gebouwd vanaf 2001 hebben geen attest nodig. Los van een verkoop moet elke eigenaar van een gebouw met bouwjaar vóór 2001 tegen 2032 sowieso over een asbestattest beschikken.",
+      },
+      {
+        question: "Wie mag een asbestattest opmaken en hoe verloopt dat?",
+        answer:
+          "Een gecertificeerd asbestdeskundige inventarisatie (ADI) komt ter plaatse, brengt de asbestverdachte materialen in kaart, neemt waar nodig stalen en registreert alles in de databank van de OVAM. De OVAM levert vervolgens het attest af. Het onderzoek is in de regel niet-destructief: de deskundige breekt niets af en beperkt zich tot wat zichtbaar en toegankelijk is. Het totale ereloon varieert; de OVAM rekent daarnaast een retributie van 59 euro per attest aan.",
+      },
+      {
+        question: "Hoe lang is een asbestattest geldig?",
+        answer:
+          "Een gewoon asbestattest is in principe tien jaar geldig. Bevat de woning asbest met een verhoogd blootstellingsrisico, dan is het beperkt tot vijf jaar. Besluit het attest dat er geen asbesthoudende materialen zijn, dan is het sinds 8 april 2024 onbeperkt geldig. Een geldig attest kan bij een latere verkoop hergebruikt worden zolang het niet vervallen is en het gebouw niet ingrijpend is gewijzigd.",
+      },
+      {
+        question: "Moet ik de asbest verwijderen voordat ik verkoop?",
+        answer:
+          "Nee. Het asbestattest verplicht u niet om de asbest eerst te verwijderen; het informeert de koper enkel over wat er aanwezig is. U mag een woning met asbest gewoon verkopen. Wel houdt een koper rekening met de kosten van een eventuele sanering en verrekent hij die in zijn bod. Voor een pand dat toch gerenoveerd of gesloopt wordt, weegt dat doorgaans minder zwaar.",
+      },
+      {
+        question: "Wat gebeurt er als het asbestattest ontbreekt bij de verkoop?",
+        answer:
+          "Het geldige attest moet beschikbaar zijn bij het sluiten van de verkoopovereenkomst en de inhoud moet aan de koper worden meegedeeld. Ontbreekt of is het ongeldig, dan kan de koper tot aan de authentieke akte de nietigheid van de verkoop vorderen. De notaris controleert bovendien of er een geldig attest is voordat hij de akte verlijdt. Laat het attest daarom tijdig opmaken.",
+      },
+      {
+        question: "Koopt wijkopenpanden.be ook een woning met veel asbest?",
+        answer:
+          "Ja. Wij kopen panden in de regio Antwerpen aan in de huidige staat, ook wanneer er asbest aanwezig is of het pand grondig gesaneerd moet worden. U krijgt binnen 2 uur een reactie en na een plaatsbezoek een schriftelijk bod, zonder commissie en met de verplichte attesten en notariscoördinatie inbegrepen. Zo vergelijkt u ons bod met wat een verkoop na een volledige asbestverwijdering zou opleveren.",
+      },
+    ],
+  },
+  {
+    slug: "mede-eigenaar-wil-niet-verkopen-uit-onverdeeldheid",
+    title: "Mede-eigenaar wil niet verkopen: zo treedt u uit onverdeeldheid en dwingt u de verkoop af",
+    metaTitle: "Mede-eigenaar wil niet verkopen: uit onverdeeldheid treden",
+    metaDescription:
+      "Mede-eigenaar wil niet verkopen? Niemand kan gedwongen in onverdeeldheid blijven. Zo vordert u de verdeling bij de familierechtbank en dwingt u verkoop af.",
+    publishedAt: "2026-07-09",
+    updatedAt: "2026-07-09",
+    intro:
+      "Ja, u kunt uit een gedeelde woning stappen ook als uw mede-eigenaar niet wil verkopen: niemand kan gedwongen worden in onverdeeldheid te blijven. Dat beginsel staat vandaag in artikel 3.75 van het Burgerlijk Wetboek (voor een nalatenschap in artikel 4.66 BW; voorheen het bekende artikel 815 oud BW). Raakt u het onderling niet eens, dan vordert u de gerechtelijke vereffening-verdeling bij de familierechtbank, die een notaris-vereffenaar aanstelt. Kan het huis niet in natura worden verdeeld, dan volgt een openbare verkoop en wordt de opbrengst naar ieders aandeel verdeeld. In dit artikel leest u welke stappen u kunt zetten, welke rechtbank bevoegd is, wat het verschil is tussen een erfenis en een gezamenlijke aankoop, en hoe u sneller tot een oplossing komt.",
+    sections: [
+      {
+        heading: "\"Niemand kan gedwongen worden in onverdeeldheid te blijven\"",
+        body: "Het uitgangspunt van het Belgische recht is duidelijk: geen enkele mede-eigenaar hoeft eeuwig mede-eigenaar te blijven. Elke deelgenoot kan **te allen tijde de verdeling vorderen**, zelfs als de anderen tegenstribbelen. Sinds de hervorming van het goederenrecht (in werking op 1 september 2021) staat dat beginsel in de wet:\n\n• Voor een gewone, **toevallige onverdeeldheid** — bijvoorbeeld twee mensen die samen een woning kochten — geldt **artikel 3.75 van het Burgerlijk Wetboek**.\n• Voor een **nalatenschap** — mede-erfgenamen die samen een woning erven — geldt **artikel 4.66 BW**.\n• Beide zijn de opvolgers van het vroegere en veelgeciteerde **artikel 815 oud BW**.\n\nMede-eigenaars kunnen wel afspreken de verdeling een tijd uit te stellen. Voor een toevallige onverdeeldheid kan zo'n **overeenkomst tot behoud van onverdeeldheid** in principe voor **ten hoogste vijf jaar** worden gesloten, en ze is hernieuwbaar. Buiten zo'n uitdrukkelijke, geldige afspraak blijft het recht om de verdeling te vorderen echter overeind. Kortom: één weigerachtige mede-eigenaar kan de zaak vertragen, maar niet definitief blokkeren.",
+      },
+      {
+        heading: "Erfenis of samen gekocht: welk soort onverdeeldheid heeft u?",
+        body: "Voor de aanpak maakt het uit hoe de onverdeeldheid is ontstaan. De meeste geblokkeerde situaties vallen onder de **toevallige onverdeeldheid**: die ontstaat buiten de wil van de partijen om, of zonder dat zij bewust voor een blijvende gemeenschap kozen. Zowel mede-erfgenamen als ex-partners die samen een woning kochten, zitten doorgaans in dit regime — en dan is de verdeling steeds afdwingbaar.\n\nEnkel bij een echte **vrijwillige (conventionele) onverdeeldheid**, waarbij partijen bewust en contractueel voor een blijvende gemeenschap kozen, ligt het genuanceerder: daar geldt geen onvoorwaardelijk \"te allen tijde\", maar wel een wettelijk opzegrecht (artikel 3.77 BW). In de praktijk komt dat veel minder voor.",
+        table: {
+          headers: ["Situatie", "Type onverdeeldheid", "Verdeling afdwingbaar?"],
+          rows: [
+            ["Mede-erfgenamen erven samen een woning", "Toevallig (nalatenschap)", "Ja — art. 4.66 BW"],
+            ["Ex-partners kochten samen een woning", "Toevallig", "Ja — art. 3.75 BW"],
+            ["Bewust gekozen, contractuele gemeenschap", "Vrijwillig / conventioneel", "Opzegrecht — art. 3.77 BW"],
+          ],
+        },
+      },
+      {
+        heading: "Eerst het minnelijke spoor: uitkopen of samen verkopen",
+        body: "Een gerechtelijke procedure is het sluitstuk, niet de eerste stap. Vaak is er een snellere en goedkopere uitweg:\n\n• **Eén partij koopt de andere uit.** Wie het huis wil houden, neemt het aandeel van de andere over tegen een opleg. Fiscaal is dat in Vlaanderen aantrekkelijk: op de verdeling van een onroerend goed tussen mede-eigenaars geldt in de regel het **verdeelrecht van 2,5 %** in plaats van 12 % verkooprecht.\n• **Samen verkopen aan een derde.** De mede-eigenaars verkopen het pand gezamenlijk en verdelen de opbrengst naar ieders aandeel. Een neutrale schatting helpt vaak om discussies over de prijs te beslechten.\n\nHoud er wel rekening mee dat niemand een **afdwingbaar overnamerecht** heeft: u kunt uw mede-eigenaar niet verplichten zijn deel aan u te verkopen, en hij u evenmin. Raakt u het over uitkopen of samen verkopen niet eens, dan blijft de gerechtelijke verdeling de uitweg. Lukt het minnelijk wél, dan bespaart u tijd, kosten en een hoop spanning. Meer over de bredere aanpak leest u in ons artikel over mede-eigendom verkopen in België.",
+      },
+      {
+        heading: "De gerechtelijke vereffening-verdeling: familierechtbank en notaris-vereffenaar",
+        body: "Komt u er samen niet uit, dan vordert de meest gerede partij de **gerechtelijke vereffening-verdeling**. Bevoegd is de **familierechtbank** — een afdeling van de rechtbank van eerste aanleg — die geschillen tussen (ex-)partners en mede-eigenaars over de verdeling behandelt (artikel 1207 en volgende van het Gerechtelijk Wetboek).\n\nDe rechtbank stelt een **notaris-vereffenaar** aan die de procedure in goede banen leidt: hij maakt de staat van de onverdeeldheid op, berekent ieders aandeel en probeert de partijen te verzoenen. De notaris beslist niet zelf over de betwistingen; blijven partijen het oneens, dan keert de zaak terug naar de rechtbank, die knopen doorhakt.\n\nWees realistisch over de doorlooptijd en de kosten. Een gerechtelijke verdeling duurt al gauw **één tot drie jaar** en brengt erelonen en gerechtskosten met zich mee. De opbrengst van een gedwongen verkoop ligt bovendien vaak lager dan die van een vlotte, minnelijke verkoop. Precies daarom loont het om het minnelijke spoor eerst grondig te bewandelen.",
+      },
+      {
+        heading: "Als het huis niet deelbaar is: openbare verkoop via Biddit",
+        body: "Een woning laat zich zelden netjes in stukken verdelen. De wet stelt dat **verdeling in natura de regel is en verkoop de uitzondering**: pas wanneer een verdeling in natura redelijkerwijs onmogelijk is — wat bij één ondeelbaar huis meestal het geval is — kan de rechter een **openbare verkoop** bevelen.\n\nZo'n gedwongen openbare verkoop verloopt vandaag doorgaans via het online biedplatform **Biddit** van de notarissen. De netto-opbrengst wordt daarna verdeeld **naar rato van ieders aandeel** in de onverdeeldheid. Belangrijk: ook een mede-eigenaar mag bij die openbare verkoop **meebieden**. Wie het huis eigenlijk wilde houden maar er minnelijk niet uitraakte, kan zo alsnog proberen het geheel te verwerven — al gebeurt dat dan tegen de prijs die de veiling oplevert.\n\nDe keerzijde van deze route is dat u de prijs niet in de hand hebt en dat een gedwongen verkoop vaak minder opbrengt dan een goed voorbereide verkoop op de vrije markt. Hoe een openbare verkoop via Biddit precies werkt, leest u in ons aparte artikel daarover.",
+      },
+      {
+        heading: "Uw eigen aandeel verkopen — en waarom een gezamenlijke verkoop meestal beter is",
+        body: "In principe mag u **vrij over uw eigen onverdeeld aandeel beschikken**: u kunt uw aandeel verkopen aan een derde zonder toestemming van de andere mede-eigenaars. Beslissingen over het **geheel** van de woning vragen daarentegen wél ieders medewerking.\n\nToch is een los aandeel in de praktijk **moeilijk verkoopbaar**. Een koper verwerft dan geen woning, maar een onverdeelde positie mét een onwillige mede-eigenaar en een onzekere afloop — want zo'n verkoop houdt maar stand als het goed bij de uiteindelijke verdeling in de kavel van de verkoper terechtkomt. Weinig particuliere kopers zitten daarop te wachten, en de prijs voor een geïsoleerd aandeel ligt navenant laag.\n\nMeestal levert het meer op om, zodra alle mede-eigenaars akkoord zijn om samen te verkopen (of nadat de rechtbank de verkoop heeft bevolen), het **hele pand** in één keer te verkopen. Wilt u dan zekerheid en snelheid, dan kan een directe verkoop aan een professionele koper een alternatief zijn voor de onzekere opbrengst van een openbare veiling.\n\n**Wijkopenpanden.be** koopt panden in de regio Antwerpen aan in de huidige staat. Zodra de mede-eigenaars het eens zijn om te verkopen, ontvangt u binnen 2 uur een reactie op uw aanvraag en na een plaatsbezoek een schriftelijk bod op het geheel. U betaalt geen commissie en wij coördineren met uw notaris. Zo krijgen alle partijen een concreet, vergelijkbaar bedrag op tafel — handig om af te wegen tegen wat een openbare verkoop zou opbrengen, en vaak een manier om een slepend geschil sneller af te sluiten.",
+      },
+    ],
+    relatedArticles: ["mede-eigendom-verkopen", "erfenis-woning-stappenplan", "woning-verkopen-via-biddit", "belastingen-bij-woningverkoop", "hoe-snel-verkopen-en-geld-ontvangen"],
+    relatedSituations: ["huis-verkopen-bij-scheiding", "huis-verkopen-bij-erfenis"],
+    faqs: [
+      {
+        question: "Kan mijn mede-eigenaar de verkoop van onze woning blokkeren?",
+        answer:
+          "Niet definitief. Het Belgische recht bepaalt dat niemand gedwongen kan worden in onverdeeldheid te blijven (artikel 3.75 BW, voor een erfenis artikel 4.66 BW, voorheen artikel 815 oud BW). Elke mede-eigenaar kan te allen tijde de verdeling vorderen. Een weigerachtige mede-eigenaar kan de zaak vertragen, maar u kunt de vereffening-verdeling uiteindelijk via de familierechtbank afdwingen.",
+      },
+      {
+        question: "Bij welke rechtbank vraag ik de verdeling aan?",
+        answer:
+          "Bij de familierechtbank, een afdeling van de rechtbank van eerste aanleg (artikel 1207 en volgende van het Gerechtelijk Wetboek). De rechtbank stelt een notaris-vereffenaar aan die de verdeling voorbereidt, ieders aandeel berekent en de partijen probeert te verzoenen. Blijven er betwistingen, dan beslist de rechtbank. Reken op een doorlooptijd van één tot drie jaar en op erelonen en gerechtskosten.",
+      },
+      {
+        question: "Wat gebeurt er als het huis niet verdeeld kan worden?",
+        answer:
+          "Verdeling in natura is de regel, verkoop de uitzondering. Omdat één woning zich zelden netjes laat verdelen, kan de rechter een openbare verkoop bevelen, vandaag meestal via het platform Biddit. De netto-opbrengst wordt verdeeld naar rato van ieders aandeel. Een mede-eigenaar mag bij die openbare verkoop zelf meebieden en zo eventueel toch het geheel verwerven.",
+      },
+      {
+        question: "Geldt dit ook voor ex-partners die samen een huis kochten?",
+        answer:
+          "Ja. Ex-partners die samen een woning kochten zonder gemeenschappelijk vermogen zitten doorgaans in een toevallige onverdeeldheid (artikel 3.75 BW), waarbij de verdeling steeds afdwingbaar is. Voor gehuwden onder het wettelijk stelsel verloopt de verdeling via de vereffening van het huwelijksvermogen. In alle gevallen is de familierechtbank bevoegd. Enkel bij een bewust gekozen, contractuele onverdeeldheid gelden bijzondere regels.",
+      },
+      {
+        question: "Kan ik mijn mede-eigenaar verplichten zijn deel aan mij te verkopen?",
+        answer:
+          "Nee. Er bestaat geen algemeen afdwingbaar overnamerecht: u kunt uw mede-eigenaar niet dwingen zijn aandeel aan u te verkopen, en hij u evenmin. Een uitkoop vergt een akkoord. Fiscaal is die uitkoop in Vlaanderen wel gunstig, want op de verdeling geldt in de regel het verdeelrecht van 2,5 % in plaats van 12 % verkooprecht. Zonder akkoord blijft de gerechtelijke verdeling met eventuele openbare verkoop de uitweg.",
+      },
+      {
+        question: "Kan ik gewoon mijn eigen aandeel verkopen?",
+        answer:
+          "In principe wel: u mag vrij over uw eigen onverdeeld aandeel beschikken zonder toestemming van de anderen. In de praktijk is zo'n los aandeel echter moeilijk verkoopbaar, want de koper verwerft een onzekere, onverdeelde positie met een onwillige mede-eigenaar. Meestal levert het meer op om het hele pand samen te verkopen zodra alle partijen akkoord zijn, of nadat de rechtbank de verkoop heeft bevolen.",
       },
     ],
   },
