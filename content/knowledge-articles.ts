@@ -4426,7 +4426,7 @@ export const articles: Article[] = [
     publishedAt: "2026-07-12",
     updatedAt: "2026-07-12",
     intro:
-      "Ja, een woning waarop beslag ligt kan nog verkocht worden, maar niet meer volledig op eigen houtje: u hebt het akkoord van de betrokken schuldeisers nodig, en bij een uitvoerend beslag doorgaans ook een **machtiging van de beslagrechter**. Het beslag is namelijk niet zomaar een dreigement op papier. Het wordt overgeschreven bij de bevoegde dienst van de **Algemene Administratie van de Patrimoniumdocumentatie** (het vroegere hypotheekkantoor, nu het kantoor Rechtszekerheid) en maakt uw woning in de praktijk onbeschikbaar. In dit artikel leest u het verschil tussen **bewarend** en **uitvoerend beslag**, hoe een **verkoop uit de hand** met machtiging van de beslagrechter verloopt, waarom die vaak meer opbrengt dan een gedwongen openbare verkoop, en wat er met de opbrengst gebeurt als er meerdere schuldeisers zijn.",
+      "Ja, een woning waarop beslag ligt kan nog verkocht worden, maar niet meer volledig op eigen houtje: u hebt het akkoord van de betrokken schuldeisers nodig, en bij een uitvoerend beslag doorgaans ook een machtiging van de beslagrechter. Het beslag is namelijk niet zomaar een dreigement op papier. Het wordt overgeschreven bij de bevoegde dienst van de Algemene Administratie van de Patrimoniumdocumentatie (het vroegere hypotheekkantoor, nu het kantoor Rechtszekerheid) en maakt uw woning in de praktijk onbeschikbaar. In dit artikel leest u het verschil tussen bewarend en uitvoerend beslag, hoe een verkoop uit de hand met machtiging van de beslagrechter verloopt, waarom die vaak meer opbrengt dan een gedwongen openbare verkoop, en wat er met de opbrengst gebeurt als er meerdere schuldeisers zijn.",
     sections: [
       {
         heading: "Bewarend of uitvoerend beslag: wat ligt er precies op uw woning?",
@@ -4538,7 +4538,7 @@ export const articles: Article[] = [
     publishedAt: "2026-07-12",
     updatedAt: "2026-07-12",
     intro:
-      "Ja, u kunt een beschermd monument of een erfgoedwoning gewoon verkopen. Een erfgoedstatuut is geen verkoopverbod: het beperkt niet uw recht om te verkopen, maar wel wat de koper nadien met het pand mag doen. Precies daarom loont het om te weten welk statuut uw pand exact heeft. Een **beschermd monument** valt onder een zwaar regime met toelatingsplicht en onderhoudsplicht. Een pand dat enkel is opgenomen in de **vastgestelde inventaris van het bouwkundig erfgoed** valt onder een veel lichter regime. In dit artikel leest u het verschil tussen de statuten, welke informatieplicht u als verkoper heeft, welke premies en fiscale regelingen bestaan, en hoe het statuut de prijs en de kopersmarkt beïnvloedt.",
+      "Ja, u kunt een beschermd monument of een erfgoedwoning gewoon verkopen. Een erfgoedstatuut is geen verkoopverbod: het beperkt niet uw recht om te verkopen, maar wel wat de koper nadien met het pand mag doen. Precies daarom loont het om te weten welk statuut uw pand exact heeft. Een beschermd monument valt onder een zwaar regime met toelatingsplicht en onderhoudsplicht. Een pand dat enkel is opgenomen in de vastgestelde inventaris van het bouwkundig erfgoed valt onder een veel lichter regime. In dit artikel leest u het verschil tussen de statuten, welke informatieplicht u als verkoper heeft, welke premies en fiscale regelingen bestaan, en hoe het statuut de prijs en de kopersmarkt beïnvloedt.",
     sections: [
       {
         heading: "Beschermd monument, beschermd stads- of dorpsgezicht of vastgestelde inventaris: drie verschillende regimes",
@@ -4636,7 +4636,7 @@ export const articles: Article[] = [
     publishedAt: "2026-07-12",
     updatedAt: "2026-07-12",
     intro:
-      "Ja, u kunt een handelspand of een gemengd pand met een lopende handelshuur verkopen. U hebt daarvoor geen toestemming van uw huurder nodig, en de huur loopt in de regel gewoon door bij de nieuwe eigenaar. Dat laatste is precies wat veel eigenaars onderschat: **handelshuur is federale wetgeving** (de Handelshuurwet van 30 april 1951) en beschermt de huurder veel sterker dan het Vlaamse woninghuurrecht. Een handelshuurder heeft een basisduur van negen jaar en kan die tot drie keer laten hernieuwen. In dit artikel leest u hoe dat hernieuwingsrecht werkt, wanneer u een **uitzettingsvergoeding** verschuldigd bent, wat een koper wel en niet kan opzeggen, en welk huurregime geldt in een gemengd pand met een winkel beneden en een woning erboven.",
+      "Ja, u kunt een handelspand of een gemengd pand met een lopende handelshuur verkopen. U hebt daarvoor geen toestemming van uw huurder nodig, en de huur loopt in de regel gewoon door bij de nieuwe eigenaar. Dat laatste is precies wat veel eigenaars onderschat: handelshuur is federale wetgeving (de Handelshuurwet van 30 april 1951) en beschermt de huurder veel sterker dan het Vlaamse woninghuurrecht. Een handelshuurder heeft een basisduur van negen jaar en kan die tot drie keer laten hernieuwen. In dit artikel leest u hoe dat hernieuwingsrecht werkt, wanneer u een uitzettingsvergoeding verschuldigd bent, wat een koper wel en niet kan opzeggen, en welk huurregime geldt in een gemengd pand met een winkel beneden en een woning erboven.",
     sections: [
       {
         heading: "Handelshuur is iets heel anders dan woninghuur",
@@ -4745,7 +4745,7 @@ export const articles: Article[] = [
     publishedAt: "2026-07-12",
     updatedAt: "2026-07-12",
     intro:
-      "Ja, u kunt een woning met een erfdienstbaarheid gewoon verkopen. Een erfdienstbaarheid is een **zakelijk recht**: het kleeft aan het perceel, niet aan de persoon. Bij verkoop gaat het dus mee over op de koper, of hij er nu blij mee is of niet. De echte valkuil ligt elders: u moet als verkoper alle **gekende erfdienstbaarheden meedelen** en ze laten opnemen in het compromis en de notariële akte. Doet u dat niet, dan riskeert u achteraf een discussie over vrijwaring, een prijsvermindering of zelfs de ontbinding van de verkoop. In dit artikel leest u wat een erfdienstbaarheid juist is, hoe ze ontstaat en eindigt, wat u precies moet melden, en welke impact ze heeft op uw prijs en verkoopbaarheid.",
+      "Ja, u kunt een woning met een erfdienstbaarheid gewoon verkopen. Een erfdienstbaarheid is een zakelijk recht: het kleeft aan het perceel, niet aan de persoon. Bij verkoop gaat het dus mee over op de koper, of hij er nu blij mee is of niet. De echte valkuil ligt elders: u moet als verkoper alle gekende erfdienstbaarheden meedelen en ze laten opnemen in het compromis en de notariële akte. Doet u dat niet, dan riskeert u achteraf een discussie over vrijwaring, een prijsvermindering of zelfs de ontbinding van de verkoop. In dit artikel leest u wat een erfdienstbaarheid juist is, hoe ze ontstaat en eindigt, wat u precies moet melden, en welke impact ze heeft op uw prijs en verkoopbaarheid.",
     sections: [
       {
         heading: "Wat is een erfdienstbaarheid precies?",
@@ -4835,7 +4835,7 @@ export const articles: Article[] = [
     publishedAt: "2026-07-12",
     updatedAt: "2026-07-12",
     intro:
-      "Ja, u kunt uw woning verkopen terwijl u nog belastingschulden hebt. Openstaande onroerende voorheffing, personenbelasting, btw of sociale bijdragen blokkeren de verkoop niet: de notaris moet die schulden wel opsporen, en hij houdt het openstaande bedrag in op de verkoopprijs vooraleer hij u het saldo uitbetaalt.\n\nDat verloopt via de **notariële notificatie**: nog vóór de akte verwittigt de notaris de FOD Financiën (en waar nodig de RSZ) van de geplande verkoop. Die diensten krijgen een korte termijn om te melden hoeveel u nog verschuldigd bent. In dit artikel leest u hoe die notificatie werkt, welke termijnen gelden, wat er gebeurt als uw schuld hoger is dan de opbrengst, wie de onroerende voorheffing van het lopende jaar draagt, en hoe de notaris uw hypotheek aflost.",
+      "Ja, u kunt uw woning verkopen terwijl u nog belastingschulden hebt. Openstaande onroerende voorheffing, personenbelasting, btw of sociale bijdragen blokkeren de verkoop niet: de notaris moet die schulden wel opsporen, en hij houdt het openstaande bedrag in op de verkoopprijs vooraleer hij u het saldo uitbetaalt.\n\nDat verloopt via de notariële notificatie: nog vóór de akte verwittigt de notaris de FOD Financiën (en waar nodig de RSZ) van de geplande verkoop. Die diensten krijgen een korte termijn om te melden hoeveel u nog verschuldigd bent. In dit artikel leest u hoe die notificatie werkt, welke termijnen gelden, wat er gebeurt als uw schuld hoger is dan de opbrengst, wie de onroerende voorheffing van het lopende jaar draagt, en hoe de notaris uw hypotheek aflost.",
     sections: [
       {
         heading: "Wat is de notariële notificatie precies?",
@@ -4924,7 +4924,7 @@ export const articles: Article[] = [
     publishedAt: "2026-07-12",
     updatedAt: "2026-07-12",
     intro:
-      "Ja, u kunt een woning verkopen waarvan een minderjarig kind (mede-)eigenaar is, maar niet op eigen houtje: u hebt daarvoor een **machtiging van de vrederechter** nodig. Ouders beheren wel het vermogen van hun minderjarige kind, maar de verkoop van een onroerend goed is een **daad van beschikking** en die valt buiten dat gewone beheer. De rechter toetst één ding: het **belang van het kind**. Die situatie duikt vooral op na een overlijden, wanneer de kinderen mee erven en de langstlevende ouder het huis wil verkopen. In dit artikel leest u wie moet machtigen, wat de vrederechter beoordeelt, of een onderhandse verkoop volstaat, wat er met het geld van het kind gebeurt en wat dit betekent voor uw doorlooptijd.",
+      "Ja, u kunt een woning verkopen waarvan een minderjarig kind (mede-)eigenaar is, maar niet op eigen houtje: u hebt daarvoor een machtiging van de vrederechter nodig. Ouders beheren wel het vermogen van hun minderjarige kind, maar de verkoop van een onroerend goed is een daad van beschikking en die valt buiten dat gewone beheer. De rechter toetst één ding: het belang van het kind. Die situatie duikt vooral op na een overlijden, wanneer de kinderen mee erven en de langstlevende ouder het huis wil verkopen. In dit artikel leest u wie moet machtigen, wat de vrederechter beoordeelt, of een onderhandse verkoop volstaat, wat er met het geld van het kind gebeurt en wat dit betekent voor uw doorlooptijd.",
     sections: [
       {
         heading: "Waarom een minderjarige mede-eigenaar de verkoop verandert",
@@ -5025,7 +5025,7 @@ export const articles: Article[] = [
     publishedAt: "2026-07-12",
     updatedAt: "2026-07-12",
     intro:
-      "Bij een faillissement verkoopt niet de eigenaar de woning, maar de **curator**. Vanaf het faillissementsvonnis verliest de gefailleerde van rechtswege het beheer over zijn vermogen — de zogenaamde **buitenbezitstelling** — en neemt de curator dat beheer over, onder toezicht van de **rechter-commissaris** en de **ondernemingsrechtbank**. Wie failliet is verklaard, kan zijn huis dus niet meer op eigen houtje te koop zetten of een compromis tekenen. In dit artikel leest u wie precies beslist, hoe de curator een onroerend goed te gelde maakt (openbaar of onderhands), wat er gebeurt met de **gezinswoning** van een zelfstandige, wat de positie is van een niet-gefailleerde mede-eigenaar, en waarom een verkoop vlak vóór een faillissement achteraf kan worden aangevochten.",
+      "Bij een faillissement verkoopt niet de eigenaar de woning, maar de curator. Vanaf het faillissementsvonnis verliest de gefailleerde van rechtswege het beheer over zijn vermogen — de zogenaamde buitenbezitstelling — en neemt de curator dat beheer over, onder toezicht van de rechter-commissaris en de ondernemingsrechtbank. Wie failliet is verklaard, kan zijn huis dus niet meer op eigen houtje te koop zetten of een compromis tekenen. In dit artikel leest u wie precies beslist, hoe de curator een onroerend goed te gelde maakt (openbaar of onderhands), wat er gebeurt met de gezinswoning van een zelfstandige, wat de positie is van een niet-gefailleerde mede-eigenaar, en waarom een verkoop vlak vóór een faillissement achteraf kan worden aangevochten.",
     sections: [
       {
         heading: "Wat verandert er zodra het faillissement is uitgesproken?",
@@ -5125,7 +5125,7 @@ export const articles: Article[] = [
     publishedAt: "2026-07-12",
     updatedAt: "2026-07-12",
     intro:
-      "Ja, u mag uw woning aan uw kind, broer of zus verkopen, en u bepaalt in principe zelf de prijs. Maar die vrijheid geldt tegenover uw familielid, niet tegenover de fiscus. De **registratiebelasting** wordt in Vlaanderen niet berekend op de prijs die u afspreekt, maar op de **verkoopwaarde** van het pand. Verkoopt u duidelijk te goedkoop, dan kan de Vlaamse Belastingdienst (**VLABEL**) bijheffen wegens **tekortschatting**, en kan het prijsverschil (deels) als een **vermomde schenking** worden gezien. Daarbovenop kunnen uw andere kinderen dat voordeel na uw overlijden aanvechten. In dit artikel leest u wat wel en niet kan, welke tarieven spelen, en hoe u zich met een correcte schatting en een notariële afspraak indekt.",
+      "Ja, u mag uw woning aan uw kind, broer of zus verkopen, en u bepaalt in principe zelf de prijs. Maar die vrijheid geldt tegenover uw familielid, niet tegenover de fiscus. De registratiebelasting wordt in Vlaanderen niet berekend op de prijs die u afspreekt, maar op de verkoopwaarde van het pand. Verkoopt u duidelijk te goedkoop, dan kan de Vlaamse Belastingdienst (VLABEL) bijheffen wegens tekortschatting, en kan het prijsverschil (deels) als een vermomde schenking worden gezien. Daarbovenop kunnen uw andere kinderen dat voordeel na uw overlijden aanvechten. In dit artikel leest u wat wel en niet kan, welke tarieven spelen, en hoe u zich met een correcte schatting en een notariële afspraak indekt.",
     sections: [
       {
         heading: "Mag u vrij aan een familielid verkopen en zelf de prijs bepalen?",
@@ -5216,7 +5216,7 @@ export const articles: Article[] = [
     publishedAt: "2026-07-12",
     updatedAt: "2026-07-12",
     intro:
-      "Ja, u kunt een stuk van uw tuin of een deel van uw perceel apart verkopen, maar of dat vlot lukt hangt af van twee vragen: heeft de grond een woonbestemming, en wordt het lot verkocht met het oog op woningbouw? Wilt u een lot afsplitsen om het als **bouwgrond** te verkopen, dan hebt u in de regel een **omgevingsvergunning voor het verkavelen van gronden** nodig — de vergunning die vroeger de verkavelingsvergunning heette. Verkoopt u enkel een stuk tuin dat tuin blijft, dan volstaat doorgaans een **notariële splitsing**, waarbij uw notaris het splitsingsplan aan de gemeente bezorgt. In dit artikel leest u wanneer welk spoor geldt, wat de bestemming op het gewestplan of RUP betekent, hoe de procedure verloopt, wat het fiscaal kan kosten en waarom uw restwoning in waarde kan dalen.",
+      "Ja, u kunt een stuk van uw tuin of een deel van uw perceel apart verkopen, maar of dat vlot lukt hangt af van twee vragen: heeft de grond een woonbestemming, en wordt het lot verkocht met het oog op woningbouw? Wilt u een lot afsplitsen om het als bouwgrond te verkopen, dan hebt u in de regel een omgevingsvergunning voor het verkavelen van gronden nodig — de vergunning die vroeger de verkavelingsvergunning heette. Verkoopt u enkel een stuk tuin dat tuin blijft, dan volstaat doorgaans een notariële splitsing, waarbij uw notaris het splitsingsplan aan de gemeente bezorgt. In dit artikel leest u wanneer welk spoor geldt, wat de bestemming op het gewestplan of RUP betekent, hoe de procedure verloopt, wat het fiscaal kan kosten en waarom uw restwoning in waarde kan dalen.",
     sections: [
       {
         heading: "Wanneer hebt u een omgevingsvergunning voor het verkavelen van gronden nodig?",
