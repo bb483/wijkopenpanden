@@ -400,7 +400,7 @@ export const articles: Article[] = [
         body: "Koper en verkoper mogen elk hun eigen notaris kiezen. Ze delen dan het ereloon. Dit kost u als verkoper niets extra maar biedt u een vertrouwenspersoon die uw belangen bewaakt bij de opmaak van de akte. Bij complexe situaties (erfenis, echtscheiding, meerdere eigenaars) is een eigen notaris aan te raden.",
       },
     ],
-    relatedArticles: ["verkoopbelofte-compromis-akte", "verkoop-kosten-berekenen"],
+    relatedArticles: ["verkoopbelofte-compromis-akte", "verkoop-kosten-berekenen", "belastingschulden-bij-verkoop-notariele-notificatie"],
     relatedSituations: ["huis-verkopen-bij-erfenis", "huis-verkopen-bij-scheiding"],
     faqs: [
       {
@@ -564,7 +564,7 @@ export const articles: Article[] = [
         body: "Ons bod houdt rekening met:\n\n• Geschatte renovatiekost (structurele gebreken wegen zwaarder dan cosmetische)\n• Staat van de elektriciteit, dakbedekking, riolering en verwarmingsinstallatie\n• Aanwezigheid van asbest\n• EPC-label en geschatte energetische investeringen\n• Marktwaarde van vergelijkbare panden in de buurt na renovatie\n\nWij zijn transparant over onze berekening en leggen u uit hoe we tot ons bod zijn gekomen.",
       },
     ],
-    relatedArticles: ["keuringen-bij-verkoop-woning", "epc-attest-antwerpen", "verkoop-kosten-berekenen", "huis-verkopen-na-brand-of-schade", "woning-verkopen-met-krakers-of-domiciliefraude"],
+    relatedArticles: ["keuringen-bij-verkoop-woning", "epc-attest-antwerpen", "verkoop-kosten-berekenen", "huis-verkopen-na-brand-of-schade", "woning-verkopen-met-krakers-of-domiciliefraude", "beschermd-monument-erfgoedwoning-verkopen"],
     relatedSituations: ["opknappand-verkopen", "huis-verkopen-bij-erfenis"],
     faqs: [
       {
@@ -697,7 +697,7 @@ export const articles: Article[] = [
         body: "Bij elke verkoop van mede-eigendom is een notaris verplicht. De notaris:\n• Stelt de verkoopovereenkomst en akte op\n• Verdeelt de opbrengst tussen de mede-eigenaars naar rato van hun aandeel\n• Vereffent de openstaande hypotheek (als die er is)\n• Zorgt voor de fiscale aangifte\n\nAls de mede-eigenaars verschillende notarissen willen, is dat mogelijk. De kopers- en verkopers-notaris werken dan samen.\n\nBij verkoop aan wijkopenpanden.be regelen wij de volledige coördinatie met de notaris(sen). U hoeft zich niet te bekommeren om de administratie.",
       },
     ],
-    relatedArticles: ["erfenis-woning-stappenplan", "belastingen-bij-woningverkoop", "verkoop-kosten-berekenen", "mede-eigenaar-wil-niet-verkopen-uit-onverdeeldheid"],
+    relatedArticles: ["erfenis-woning-stappenplan", "belastingen-bij-woningverkoop", "verkoop-kosten-berekenen", "mede-eigenaar-wil-niet-verkopen-uit-onverdeeldheid", "woning-verkopen-met-minderjarige-eigenaar"],
     relatedSituations: ["huis-verkopen-bij-erfenis", "huis-verkopen-bij-scheiding"],
     faqs: [
       {
@@ -865,7 +865,7 @@ export const articles: Article[] = [
         body: "Wij kopen woningen met EPC-label E, F en ook D rechtstreeks aan — ook als ze renovatieplichtig zijn na onze aankoop. De renovatieverplichting gaat over op ons als koper. Wij rekenen de renovatiekost intern in en trekken die niet ongefundeerd van uw prijs af: wij baseren ons op werkelijke renovatieramingen, niet op overdreven angstcijfers.\n\nVoordelen voor u als eigenaar:\n• Geen voorafgaande renovatie nodig\n• Geen keuringskosten (EPC, elektriciteit, asbest) — die zijn voor ons\n• Geen makelaar, geen commissie\n• Schriftelijk bod na één bezoek\n• Akte binnen 2 tot 3 maanden\n\nWij leggen u bij het bezoek transparant uit hoe wij het EPC-label meewegen in ons bod. U beslist vrijblijvend.",
       },
     ],
-    relatedArticles: ["epc-attest-antwerpen", "keuringen-bij-verkoop-woning", "pand-in-slechte-staat-verkopen", "verhuurd-pand-verkopen-conformiteitsattest-woningkwaliteit"],
+    relatedArticles: ["epc-attest-antwerpen", "keuringen-bij-verkoop-woning", "pand-in-slechte-staat-verkopen", "verhuurd-pand-verkopen-conformiteitsattest-woningkwaliteit", "beschermd-monument-erfgoedwoning-verkopen"],
     relatedSituations: ["opknappand-verkopen", "verkopen-zonder-makelaar"],
     faqs: [
       {
@@ -931,7 +931,7 @@ export const articles: Article[] = [
         body: "Wilt u uw woning niet regulariseren voor de verkoop? Dan is verkopen as-is de meest directe optie — op voorwaarde dat u transparant bent over de toestand.\n\nWijkopenpanden.be koopt woningen aan met stedenbouwkundige overtredingen. Wij:\n\n• Raadplegen zelf het stedenbouwkundig uittreksel en het maatregelenregister\n• Beoordelen de regulariseerbaarheid intern\n• Verrekenen de regularisatiekost eerlijk in ons bod — geen zwarte doos\n• Nemen de stedenbouwkundige last volledig over bij de akte\n• Regelen de regularisatie na de aankoop zelf, op ons tempo en budget\n\nVoor u als verkoper betekent dit: geen wachttijd, geen architect, geen gemeentelijke procedure voor de verkoop. U ontvangt een schriftelijk bod na één bezoek en beslist vrijblijvend.",
       },
     ],
-    relatedArticles: ["keuringen-bij-verkoop-woning", "pand-in-slechte-staat-verkopen", "verkoop-kosten-berekenen"],
+    relatedArticles: ["keuringen-bij-verkoop-woning", "pand-in-slechte-staat-verkopen", "verkoop-kosten-berekenen", "tuin-of-bouwgrond-apart-verkopen-perceel-splitsen"],
     relatedSituations: ["opknappand-verkopen", "huis-verkopen-bij-erfenis"],
     faqs: [
       {
@@ -2057,7 +2057,7 @@ export const articles: Article[] = [
         body: "Wie zijn woning verkoopt aan een professionele vastgoedopkoper zoals wijkopenpanden.be, verkrijgt in de praktijk de sterkst mogelijke bescherming tegen vorderingen wegens verborgen gebreken.\n\nWaarom?\n• Professionele opkopers kopen uitdrukkelijk 'as-is' — de as-is-clausule is een standaardbeding in het compromis\n• Als professionele partij wordt van een opkoper verwacht dat hij zelf een grondige inspectie uitvoert vóór het bod\n• Rechtbanken aanvaarden de vrijwaringsclausule makkelijker tussen een particulier en een professionele koper dan tussen twee particulieren\n• De opkoper koopt precies om te renoveren — hij is niet verrast door gebreken, hij verwacht ze\n\nVoor eigenaars met een oud pand, een woning met gekende structurele problemen of een erfenis waarbij men de exacte staat niet kent, is verkoop aan een opkoper de meest zekere manier om elk risico op een latere vordering te vermijden.",
       },
     ],
-    relatedArticles: ["keuringen-bij-verkoop-woning", "compromis-verkoop-woning-belgie", "huis-verkopen-met-hypotheek", "commissie-makelaar-belgie"],
+    relatedArticles: ["keuringen-bij-verkoop-woning", "compromis-verkoop-woning-belgie", "huis-verkopen-met-hypotheek", "commissie-makelaar-belgie", "erfdienstbaarheid-recht-van-doorgang-woning-verkopen"],
     relatedSituations: ["opknappand-verkopen", "huis-verkopen-bij-erfenis", "verkopen-zonder-makelaar"],
     faqs: [
       {
@@ -2343,7 +2343,7 @@ export const articles: Article[] = [
         body: "Een schenking is onherroepelijk. Eens de akte getekend en geregistreerd, kunt u de schenking niet zomaar terugdraaien. Er zijn uitzonderingen (ondankbaarheid van de begiftigde, niet-nakoming van lasten), maar die zijn beperkt.\n\nSamentellingsregel:\nAls u aan dezelfde persoon meerdere schenkingen van onroerend goed doet binnen drie jaar, worden alle waarden samengeteld voor de progressieve berekening van de schenkbelasting. Een tweede schenking binnen drie jaar kan daardoor in een hogere schijf vallen. Spreid schenkingen over meer dan drie jaar als u van de laagste schijf wil blijven genieten.\n\nOpduweffect bij overlijden:\nAls u overlijdt binnen drie jaar na de schenking, wordt de waarde van het geschonken goed fictief opgeteld bij de nalatenschap voor de berekening van de erfbelasting op andere geërfde goederen. Het geschonken goed zelf wordt niet opnieuw belast — de schenkbelasting werd al betaald — maar de extra waarde kan de resterende goederen in een hogere erfbelastingschijf duwen. Bespreek dit risico met uw notaris als u een gezondheidssituatie heeft die dit relevant maakt.\n\nBelang van goede clausules:\n• Een terugkeerbeding zorgt ervoor dat het goed automatisch naar u terugkeert als de begiftigde vóór u overlijdt (zonder erfbelasting op die terugkeer)\n• Een verbod op vervreemding kan voorkomen dat de begiftigde het goed snel verkoopt\n• Lasten opleggen (bv. u financieel ondersteunen) is mogelijk maar moet juridisch correct worden opgesteld\n\nHypotheek op de geschonken woning:\nAls er een hypotheek rust op de woning die u schenkt, moet dat worden meegedeeld. De begiftigde kan de lening overnemen of u laat de lening aflossen voor de schenking. Een notaris zal u dit precies uitleggen.\n\nGelijkheid tussen kinderen (inbreng en inkorting):\nEen schenking telt als een voorschot op de erfenis, tenzij u uitdrukkelijk 'buiten erfdeel' schenkt. Dit heeft gevolgen voor de verdeling van de rest van uw nalatenschap. Laat u hierover adviseren door de notaris als u meerdere kinderen heeft.",
       },
     ],
-    relatedArticles: ["erfbelasting-vlaanderen-2026", "notariskosten-woning-verkoop", "belastingen-bij-woningverkoop"],
+    relatedArticles: ["erfbelasting-vlaanderen-2026", "notariskosten-woning-verkoop", "belastingen-bij-woningverkoop", "woning-verkopen-aan-familielid"],
     relatedSituations: ["huis-verkopen-bij-erfenis", "verkopen-zonder-makelaar"],
     faqs: [
       {
@@ -2409,7 +2409,7 @@ export const articles: Article[] = [
         body: "Wij kopen verhuurde panden aan — met huurder, mét lopend huurcontract. U hoeft de huurder niet op te zeggen, niet te verhuizen en niet te wachten tot het huurcontract afloopt.\n\nWij nemen het huurcontract over als nieuwe verhuurder en regelen de relatie met de huurder professioneel. U ontvangt uw bod netto, de overdracht verloopt via de notaris en de huurder wordt tijdig en correct geïnformeerd — inclusief het recht van voorkoop.\n\nDe prijs houdt rekening met de huurinkomsten en de resterende huurperiode, maar u vermijdt de langdurige leegstand, de opzeggingsprocedure en de onzekerheid van een verkoop via de vrije markt.",
       },
     ],
-    relatedArticles: ["verhuren-of-verkopen-antwerpen", "mede-eigendom-verkopen", "verkoop-kosten-berekenen", "verhuurd-pand-verkopen-conformiteitsattest-woningkwaliteit", "woning-verkopen-met-krakers-of-domiciliefraude"],
+    relatedArticles: ["verhuren-of-verkopen-antwerpen", "mede-eigendom-verkopen", "verkoop-kosten-berekenen", "verhuurd-pand-verkopen-conformiteitsattest-woningkwaliteit", "woning-verkopen-met-krakers-of-domiciliefraude", "handelspand-gemengd-pand-verkopen-handelshuur"],
     relatedSituations: ["pand-met-huurders-verkopen", "huis-verkopen-bij-erfenis"],
     faqs: [
       {
@@ -2671,7 +2671,7 @@ export const articles: Article[] = [
         body: "Bij betalingsproblemen telt vooral snelheid en zekerheid. wijkopenpanden.be koopt uw woning rechtstreeks aan, zonder makelaar en zonder commissie, en brengt na een bezoek een concreet, schriftelijk bod uit.\n\nVoor wie onder druk staat, biedt dat drie voordelen: u krijgt snel duidelijkheid over wat de woning oplevert, u vermijdt maandenlange onzekerheid en bijkomende kosten, en de verkoop verloopt discreet, zonder publieke advertentie of veiling. Dringende dossiers behandelen wij met voorrang.\n\nWij kopen aan in alle situaties — met een lopende hypotheek, bij beslag of binnen een schuldenregeling — en coördineren met uw notaris voor een vlotte afhandeling. Een vrijblijvend bod aanvragen verplicht u tot niets en geeft u een concreet vergelijkingspunt om uw situatie te beoordelen.",
       },
     ],
-    relatedArticles: ["huis-verkopen-met-hypotheek", "snel-geld-vrijmaken-woning", "mede-eigendom-verkopen", "woning-staat-al-maanden-te-koop", "hoelang-duurt-huis-verkopen-belgie", "verkoop-kosten-berekenen"],
+    relatedArticles: ["huis-verkopen-met-hypotheek", "snel-geld-vrijmaken-woning", "mede-eigendom-verkopen", "woning-staat-al-maanden-te-koop", "hoelang-duurt-huis-verkopen-belgie", "verkoop-kosten-berekenen", "woning-verkopen-met-beslag", "belastingschulden-bij-verkoop-notariele-notificatie", "woning-verkopen-bij-faillissement-curator"],
     relatedSituations: ["verkopen-zonder-makelaar", "huis-verkopen-bij-scheiding"],
     faqs: [
       {
@@ -3301,7 +3301,7 @@ export const articles: Article[] = [
         body: "Wat verkopers in Biddit aantrekt, is de zekerheid: een bindend bod van een koper die niet afhangt van een bank. Maar die zekerheid bestaat ook zonder openbare verkoop, zonder vier weken publiciteit, zonder bezoekdagen en zonder tekoopstellingskosten die u ook bij een mislukte veiling betaalt.\n\nBij wijkopenpanden.be verkoopt u rechtstreeks aan een lokale opkoper in de regio Antwerpen:\n\n• U vraagt een **gratis en vrijblijvend bod** aan en krijgt binnen 2 uur reactie, ook in het weekend.\n• Een plaatsbezoek volgt doorgaans binnen 48 uur, waarna u een **schriftelijk, gemotiveerd bod** ontvangt.\n• Wij kopen in de huidige staat en betalen **uit eigen middelen** — net als bij Biddit is er geen financieringsvoorbehoud, dus geen koper die achteraf afhaakt.\n• Er is geen makelaarscommissie en geen publiciteitskost; de akte volgt doorgaans 2 à 3 maanden na akkoord.\n\nTwijfelt u tussen de veiling, de makelaar en de directe verkoop? Vraag dan eerst een vrijblijvend bod aan. Zo weet u binnen enkele dagen welk nettobedrag de directe weg oplevert, en kunt u dat met kennis van zaken afwegen tegen een Biddit-traject van meerdere maanden met onzekere uitkomst.",
       },
     ],
-    relatedArticles: ["commissie-makelaar-belgie", "notariskosten-woning-verkoop", "verkoop-kosten-berekenen", "hoelang-duurt-huis-verkopen-belgie", "opkoper-of-makelaar-verschil", "wat-is-mijn-woning-waard-antwerpen"],
+    relatedArticles: ["commissie-makelaar-belgie", "notariskosten-woning-verkoop", "verkoop-kosten-berekenen", "hoelang-duurt-huis-verkopen-belgie", "opkoper-of-makelaar-verschil", "wat-is-mijn-woning-waard-antwerpen", "woning-verkopen-met-beslag"],
     relatedSituations: ["huis-verkopen-bij-erfenis", "verkopen-zonder-makelaar"],
     faqs: [
       {
@@ -3471,7 +3471,7 @@ export const articles: Article[] = [
         body: "Een bewinddossier vraagt precies wat een klassieke verkoop met bezoekdagen en onzekere kandidaten moeilijk kan garanderen: een schriftelijk bod, een zekere koper en een voorspelbare timing. Een directe verkoop aan wijkopenpanden.be sluit daar goed op aan.\n\nU ontvangt een **gratis en vrijblijvend bod**: reactie binnen 2 uur, ook in het weekend, en een plaatsbezoek doorgaans binnen 48 uur. Het bod is **schriftelijk en gemotiveerd** — een stuk dat u samen met het schattingsverslag bij het verzoekschrift kunt voegen, zodat de vrederechter concreet kan toetsen. Er is **geen financieringsvoorbehoud**: de aankoop gebeurt uit eigen middelen, waardoor de gemachtigde verkoop niet alsnog kan afspringen op een geweigerd krediet. De woning wordt in haar **huidige staat** gekocht — ook als ze jaren bewoond werd door iemand die er niet meer in kon investeren — en er is geen makelaarscommissie. Na akkoord en machtiging volgt de akte doorgaans binnen 2 à 3 maanden.\n\nBent u bewindvoerder of bereidt u als familielid een bewinddossier voor? Vraag vrijblijvend een bod aan; u beslist daarna in alle rust, en uiteindelijk beslist de vrederechter mee. Zo hoort het ook.",
       },
     ],
-    relatedArticles: ["erfenis-woning-stappenplan", "compromis-verkoop-woning-belgie", "notariskosten-woning-verkoop", "mede-eigendom-verkopen", "wat-is-een-vastgoedopkoper", "hoelang-duurt-huis-verkopen-belgie"],
+    relatedArticles: ["erfenis-woning-stappenplan", "compromis-verkoop-woning-belgie", "notariskosten-woning-verkoop", "mede-eigendom-verkopen", "wat-is-een-vastgoedopkoper", "hoelang-duurt-huis-verkopen-belgie", "woning-verkopen-met-minderjarige-eigenaar"],
     relatedSituations: ["huis-verkopen-bij-erfenis", "verkopen-zonder-makelaar"],
     faqs: [
       {
@@ -4414,6 +4414,911 @@ export const articles: Article[] = [
         question: "Kan ik gewoon mijn eigen aandeel verkopen?",
         answer:
           "In principe wel: u mag vrij over uw eigen onverdeeld aandeel beschikken zonder toestemming van de anderen. In de praktijk is zo'n los aandeel echter moeilijk verkoopbaar, want de koper verwerft een onzekere, onverdeelde positie met een onwillige mede-eigenaar. Meestal levert het meer op om het hele pand samen te verkopen zodra alle partijen akkoord zijn, of nadat de rechtbank de verkoop heeft bevolen.",
+      },
+    ],
+  },
+  {
+    slug: "woning-verkopen-met-beslag",
+    title: "Woning verkopen waarop beslag ligt: bewarend of uitvoerend beslag, verkoop uit de hand en verdeling van de opbrengst",
+    metaTitle: "Woning verkopen met beslag: kan dat nog?",
+    metaDescription:
+      "Ja, verkopen kan ook met beslag op uw woning. Bewarend vs uitvoerend beslag, verkoop uit de hand via de beslagrechter en verdeling van de opbrengst.",
+    publishedAt: "2026-07-12",
+    updatedAt: "2026-07-12",
+    intro:
+      "Ja, een woning waarop beslag ligt kan nog verkocht worden, maar niet meer volledig op eigen houtje: u hebt het akkoord van de betrokken schuldeisers nodig, en bij een uitvoerend beslag doorgaans ook een **machtiging van de beslagrechter**. Het beslag is namelijk niet zomaar een dreigement op papier. Het wordt overgeschreven bij de bevoegde dienst van de **Algemene Administratie van de Patrimoniumdocumentatie** (het vroegere hypotheekkantoor, nu het kantoor Rechtszekerheid) en maakt uw woning in de praktijk onbeschikbaar. In dit artikel leest u het verschil tussen **bewarend** en **uitvoerend beslag**, hoe een **verkoop uit de hand** met machtiging van de beslagrechter verloopt, waarom die vaak meer opbrengt dan een gedwongen openbare verkoop, en wat er met de opbrengst gebeurt als er meerdere schuldeisers zijn.",
+    sections: [
+      {
+        heading: "Bewarend of uitvoerend beslag: wat ligt er precies op uw woning?",
+        body: "De eerste vraag is welk soort beslag er op uw pand rust. Dat bepaalt hoeveel bewegingsruimte u nog hebt.\n\nEen **bewarend beslag** legt een schuldeiser die nog geen uitvoerbare titel heeft, bijvoorbeeld omdat de zaak nog voor de rechtbank loopt. Hij heeft daarvoor toelating nodig van de **beslagrechter**. Het doel is bewaren, niet verkopen: de woning wordt \"vastgezet\" zodat u ze niet zou wegmaken voor de zaak beslecht is. U blijft er wonen en u blijft eigenaar, maar u kunt niet meer vrij verkopen of schenken zonder rekening te houden met die schuldeiser. Het bewarend beslag op onroerend goed geldt in de regel **drie jaar vanaf de overschrijving**, en kan met gegronde redenen hernieuwd worden.\n\nEen **uitvoerend beslag** volgt wanneer de schuldeiser wél een uitvoerbare titel heeft: een vonnis, een arrest of een notariële akte (bijvoorbeeld uw hypotheekakte). De gerechtsdeurwaarder betekent dan eerst een **bevel tot betalen**. Pas daarna, in de regel ten vroegste vijftien dagen later en zolang het bevel geldig is (doorgaans zes maanden), kan hij het eigenlijke beslag leggen. Het beslagexploot wordt overgeschreven bij het bevoegde kantoor, en vanaf dat ogenblik is uw woning **onbeschikbaar**: een verkoop die u zelf nog zou sluiten, kan niet tegen de beslagleggende schuldeisers worden ingeroepen. De doorhaling wordt zichtbaar op de hypothecaire staat, waardoor elke notaris het beslag ziet zodra hij het pand nakijkt.\n\nBij een uitvoerend beslag geldt bovendien: als het goed niet binnen de wettelijke termijn (in de regel drie jaar na de overschrijving, behoudens hernieuwing) verkocht is, verliest de overschrijving haar uitwerking. Laat u dus altijd nakijken **wanneer** het beslag werd overgeschreven, want dat bepaalt uw tijdsvenster.",
+        table: {
+          headers: ["", "Bewarend beslag", "Uitvoerend beslag"],
+          rows: [
+            ["Wanneer", "Schuldeiser heeft nog geen uitvoerbare titel", "Schuldeiser heeft vonnis of notariële akte"],
+            ["Toelating nodig", "Machtiging van de beslagrechter", "Uitvoerbare titel + bevel tot betalen"],
+            ["Doel", "Woning vastzetten, niet verkopen", "Woning te gelde maken"],
+            ["Kunt u nog verkopen?", "Enkel met akkoord van de schuldeiser(s)", "Enkel met machtiging van de beslagrechter"],
+            ["Geldigheid inschrijving", "In de regel 3 jaar, hernieuwbaar", "In de regel 3 jaar, hernieuwbaar"],
+          ],
+        },
+      },
+      {
+        heading: "Kunt u met beslag nog zelf een koper zoeken?",
+        body: "In theorie blijft u eigenaar en mag u een compromis tekenen. In de praktijk loopt dat vast bij de notaris: die controleert vóór de akte de hypothecaire toestand van het pand en ziet het beslag staan. Hij zal de akte niet verlijden zolang niet vaststaat dat de schuldeisers betaald worden en dat het beslag bij de akte wordt opgeheven.\n\nDat betekent niet dat u machteloos bent. Er zijn twee realistische wegen.\n\n• **Verkoop met akkoord van de schuldeisers (handlichting).** Ligt er enkel een bewarend beslag, of is het uitvoerend beslag nog niet ver gevorderd, dan kan de notaris de beslagleggende en de ingeschreven schuldeisers aanschrijven met uw verkoopprijs. Gaan zij akkoord omdat de opbrengst hun schuld dekt, dan geven zij **handlichting**: het beslag en de hypotheek worden doorgehaald en de koper krijgt een onbezwaard pand. De notaris houdt de nodige bedragen in van de verkoopprijs en betaalt de schuldeisers rechtstreeks uit. U ontvangt enkel het saldo.\n\n• **Verkoop uit de hand met machtiging van de beslagrechter.** Weigert een schuldeiser, of loopt de procedure van uitvoerend beslag al, dan kan de beslagrechter de **verkoop uit de hand** toestaan in plaats van de openbare verkoop. Daarover meer in de volgende sectie.\n\nEén ding is doorgaans niet mogelijk: het pand stil verkopen en met het geld doen wat u wil. De opbrengst gaat via de notaris naar de schuldeisers, in de volgorde die de wet bepaalt. Wie zijn woning wil verkopen om schulden af te lossen vóór het tot beslag komt, leest best ons artikel over **huis verkopen bij betalingsproblemen en schulden**: hoe vroeger u ingrijpt, hoe meer keuze u hebt.",
+      },
+      {
+        heading: "Verkoop uit de hand met machtiging van de beslagrechter (art. 1580bis Ger.W.)",
+        body: "Dit is het belangrijkste punt van dit artikel. Een woning waarop uitvoerend beslag ligt, hoeft **niet automatisch openbaar verkocht** te worden. Het Gerechtelijk Wetboek voorziet uitdrukkelijk in de mogelijkheid van een **verkoop uit de hand** (een onderhandse verkoop) van het in beslag genomen onroerend goed.\n\nDe kern van **artikel 1580bis Ger.W.**: indien het belang van de partijen dat vereist, kan de beslagrechter de verkoop uit de hand bevelen. Hij doet dat pas nadat de betrokkenen zijn gehoord of behoorlijk zijn opgeroepen bij gerechtsbrief: de ingeschreven hypothecaire en bevoorrechte schuldeisers, wie het bevel of het beslag liet overschrijven, en uzelf als beslagene. De beschikking moet **motiveren** waarom de verkoop uit de hand (en desgevallend de voorgestelde koper) het belang van de schuldeisers én van de schuldenaar dient. De verkoop gebeurt door het ambt van de **notaris die in de beschikking wordt benoemd**, binnen de termijn die de rechter vastlegt, en de voorwaarden bepalen dat de prijs wordt overgewezen aan de ingeschreven schuldeisers.\n\n**Artikel 1580ter Ger.W.** regelt de situatie waarin de beslagleggende schuldeiser zelf machtiging vraagt om uit de hand te verkopen: hij legt dan een **door een notaris opgesteld ontwerp van verkoopakte** voor aan de beslagrechter. In de praktijk komt het erop neer dat er een concreet bod met een concrete prijs op tafel moet liggen. Een vaag voornemen om \"ooit onderhands te verkopen\" volstaat niet.\n\nDat is precies waarom een **schriftelijk, concreet bod** in dit dossier zoveel waarde heeft: het geeft de notaris en uw raadsman iets om aan de beslagrechter voor te leggen. Kunt u aantonen dat de onderhandse prijs hoger ligt dan wat een gedwongen openbare verkoop realistisch zal opbrengen, dan is dat het sterkste argument om de machtiging te krijgen: het dient het belang van de schuldeisers én het uwe.\n\nOver de exacte termijnen zijn wij voorzichtig. Hoe snel een beslagrechter zitting houdt en beslist, verschilt van arrondissement tot arrondissement en van dossier tot dossier. Reken niet op dagen; reken op weken tot maanden. Laat u hierin altijd bijstaan door een advocaat of notaris.",
+        table: {
+          headers: ["Stap", "Wie", "Wat gebeurt er"],
+          rows: [
+            ["1. Bod verzamelen", "Verkoper", "Een concreet, schriftelijk bod op de woning"],
+            ["2. Ontwerpakte", "Notaris", "Ontwerp van verkoopakte met prijs en voorwaarden"],
+            ["3. Verzoek", "Notaris of advocaat", "Verzoek tot machtiging aan de beslagrechter"],
+            ["4. Oproeping", "Rechtbank", "Schuldeisers en beslagene worden gehoord of opgeroepen"],
+            ["5. Beschikking", "Beslagrechter", "Machtiging tot verkoop uit de hand, notaris benoemd"],
+            ["6. Akte en verdeling", "Notaris", "Akte, doorhaling van het beslag, prijs naar de schuldeisers"],
+          ],
+        },
+      },
+      {
+        heading: "De openbare verkoop: waarom die doorgaans minder opbrengt",
+        body: "Komt er geen akkoord en geen machtiging tot onderhandse verkoop, dan volgt de klassieke weg: de beslagrechter benoemt een **notaris** die het pand **openbaar verkoopt**, tegenwoordig vrijwel altijd via het online biedplatform **Biddit** van de notarissen. Dezelfde notaris staat daarna in voor de verdeling van de opbrengst.\n\nEen gedwongen openbare verkoop heeft een aantal structurele nadelen voor u als eigenaar:\n\n• **Prijsdruk.** Kandidaat-kopers weten dat het om een gedwongen verkoop gaat. Bronnen uit de sector spreken over openbare verkopen die gemiddeld merkbaar lager uitkomen dan onderhandse verkopen; hoeveel precies verschilt sterk per pand, per ligging en per moment. Zeker bij panden die opknapwerk vragen, is het verschil vaak groot.\n\n• **Geen controle.** U kiest de koper niet, u kiest het moment niet en u onderhandelt niet mee.\n\n• **Kosten.** De kosten van de procedure (deurwaarder, notaris, publiciteit, rangregeling) worden in de regel uit de opbrengst betaald, vóór u iets ziet. Wat de openbare verkoop kost, gaat af van wat er overblijft om uw schuld af te bouwen.\n\n• **Tijd.** De procedure loopt niet snel. De publiciteit, de biedperiode en de daaropvolgende rangregeling nemen tijd in beslag.\n\nHoe een openbare verkoop concreet verloopt en wat een bod op Biddit juridisch betekent, leest u in ons artikel over **woning verkopen via Biddit**. Het is nuttig om dat te lezen vóór u beslist of u de openbare verkoop laat komen of actief een onderhandse oplossing zoekt: het verschil in opbrengst is precies het geld waarmee u uw restschuld had kunnen afbouwen.",
+        table: {
+          headers: ["", "Gedwongen openbare verkoop", "Verkoop uit de hand met machtiging"],
+          rows: [
+            ["Wie kiest de koper", "De hoogste bieder", "U stelt de koper voor, rechter bekrachtigt"],
+            ["Prijszetting", "Onder tijds- en biedingsdruk", "Onderhandelde prijs"],
+            ["Doorgaans opbrengst", "Vaak lager", "Vaak hoger"],
+            ["Uw inspraak", "Beperkt", "U neemt zelf het initiatief"],
+            ["Extra stap", "Geen", "Machtiging van de beslagrechter nodig"],
+          ],
+        },
+      },
+      {
+        heading: "Wat gebeurt er met de opbrengst? Rangregeling, hypotheek en restschuld",
+        body: "De verkoopprijs komt niet bij u terecht: hij komt bij de **notaris** terecht, die hem verdeelt onder de schuldeisers volgens de wettelijke rangorde. Zijn er meerdere schuldeisers, dan stelt hij een **proces-verbaal van rangregeling** op.\n\nDe volgorde is in grote lijnen:\n\n• **Kosten van de procedure en de verkoop** worden eerst afgehouden.\n\n• De **hypothecaire schuldeiser** — meestal uw bank — wordt bij voorrang uit de opbrengst van dát pand betaald. Wie het eerst is ingeschreven, komt in de regel eerst aan bod. Ligt er nog een lopend woonkrediet op de woning, dan leest u best ook ons artikel over **huis verkopen met hypotheek**: het openstaand saldo wordt bij de akte afgelost en de hypothecaire inschrijving doorgehaald.\n\n• Daarna volgen de **bevoorrechte schuldeisers** (bijvoorbeeld bepaalde fiscale of sociale schulden, afhankelijk van hun voorrecht).\n\n• Ten slotte de **gewone (chirografaire) schuldeisers**, zoals een leverancier of een particuliere schuldeiser. Zij delen in wat overblijft, in verhouding tot hun vordering. Blijft er niets over, dan krijgen zij niets.\n\n• Is er ná alle schuldeisers nog een **saldo**, dan komt dat toe aan u.\n\nEn als de opbrengst de schuld niet dekt? Dan verdwijnt het verschil niet. De **restschuld blijft in de regel verschuldigd**: de verkoop van de woning dooft uw persoonlijke verbintenis niet uit voor het deel dat onbetaald blijft. Dat is een tweede reden om te vechten voor de hoogste opbrengst. Elke euro die een onderhandse verkoop meer oplevert dan een gedwongen openbare verkoop, is een euro minder restschuld die u nadien nog met u meedraagt. Zit u nog vóór de fase van beslag en wilt u vooral snel liquiditeit vrijmaken om erger te voorkomen, dan is ons artikel over **snel geld vrijmaken met uw woning** een goed vertrekpunt.",
+        table: {
+          headers: ["Rang", "Wie", "Krijgt betaald"],
+          rows: [
+            ["1", "Kosten van verkoop en procedure", "Vóór alle schuldeisers"],
+            ["2", "Hypothecaire schuldeiser (bank)", "Bij voorrang uit de opbrengst van het pand"],
+            ["3", "Bevoorrechte schuldeisers", "Volgens hun wettelijk voorrecht"],
+            ["4", "Gewone schuldeisers", "Uit wat overblijft, pro rata"],
+            ["5", "U als eigenaar", "Het eventuele saldo"],
+          ],
+        },
+      },
+      {
+        heading: "Verkopen in de huidige staat aan een professionele koper",
+        body: "Wie met een beslag zit, heeft in de eerste plaats **zekerheid** nodig: een concrete koper, een concrete prijs, en een dossier dat aan de beslagrechter en aan de schuldeisers kan worden voorgelegd. Een pand maandenlang op de markt laten staan in de hoop op een betere bieder, is in deze situatie zelden een luxe die u zich kunt permitteren.\n\n**Wijkopenpanden.be** koopt panden in de **regio Antwerpen** rechtstreeks aan in de **huidige staat**. U hoeft niets op te knappen, niets leeg te maken en geen renovatie voor te schieten. Wat u van ons mag verwachten:\n\n• **Binnen 2 uur een reactie** op uw aanvraag.\n\n• Na een **plaatsbezoek een schriftelijk bod** — precies het soort concreet, schriftelijk document dat uw notaris of advocaat nodig heeft om een verkoop uit de hand voor te leggen aan de beslagrechter.\n\n• **Geen commissie.**\n\n• De **verplichte attesten en de coördinatie met de notaris zijn inbegrepen**.\n\n• De **akte doorgaans binnen 2 tot 3 maanden**, al hangt de timing bij een lopend beslag mee af van de rechtbank en van de schuldeisers.\n\nWij beloven geen bedragen en geven geen garanties over de uitkomst van uw procedure: die beslissing ligt bij de beslagrechter. Wat wij wel doen, is u een bod op tafel geven dat u zwart op wit kunt vergelijken met wat een gedwongen openbare verkoop realistisch zou opbrengen. Zo kiest u met volledige informatie welke route voor u en voor uw schuldeisers het beste uitkomt.",
+      },
+    ],
+    relatedArticles: ["huis-verkopen-bij-betalingsproblemen-schulden", "huis-verkopen-met-hypotheek", "woning-verkopen-via-biddit", "snel-geld-vrijmaken-woning", "hoe-snel-verkopen-en-geld-ontvangen", "notariskosten-woning-verkoop"],
+    relatedSituations: ["verkopen-zonder-makelaar", "huis-verkopen-bij-scheiding"],
+    faqs: [
+      {
+        question: "Mag ik mijn woning nog verkopen als er beslag op ligt?",
+        answer:
+          "U blijft eigenaar en u mag in principe nog een koper zoeken, maar u kunt de verkoop niet alleen afronden. Vanaf de overschrijving van het beslag is uw woning onbeschikbaar: een verkoop die u zelf sluit, kan niet worden ingeroepen tegen de beslagleggende schuldeisers, en de notaris zal de akte niet verlijden zolang zij niet betaald of akkoord zijn. In de praktijk verloopt de verkoop dus ofwel met het uitdrukkelijke akkoord van de schuldeisers (die dan handlichting geven), ofwel met een machtiging van de beslagrechter tot verkoop uit de hand.",
+      },
+      {
+        question: "Wat is het verschil tussen bewarend en uitvoerend beslag?",
+        answer:
+          "Bij een bewarend beslag heeft de schuldeiser nog geen uitvoerbare titel en heeft hij toelating van de beslagrechter nodig; het doel is uw woning vastzetten zolang de zaak niet beslecht is, niet ze verkopen. Bij een uitvoerend beslag heeft de schuldeiser wel een titel (een vonnis of een notariële akte) en wordt de woning effectief te gelde gemaakt. Beide worden overgeschreven bij het bevoegde kantoor Rechtszekerheid van de Algemene Administratie van de Patrimoniumdocumentatie, waardoor elke notaris ze ziet. De inschrijving geldt in de regel drie jaar en kan hernieuwd worden.",
+      },
+      {
+        question: "Kan de beslagrechter een onderhandse verkoop toestaan in plaats van een openbare verkoop?",
+        answer:
+          "Ja. Artikel 1580bis van het Gerechtelijk Wetboek bepaalt dat de beslagrechter de verkoop uit de hand kan bevelen indien het belang van de partijen dat vereist. Hij doet dat pas nadat de ingeschreven hypothecaire en bevoorrechte schuldeisers, de beslagleggers en uzelf zijn gehoord of behoorlijk opgeroepen, en zijn beschikking moet motiveren waarom die verkoop het belang van de schuldeisers en van de schuldenaar dient. De verkoop verloopt via de notaris die de rechter aanduidt, en de prijs wordt overgewezen aan de ingeschreven schuldeisers.",
+      },
+      {
+        question: "Brengt een onderhandse verkoop echt meer op dan een openbare verkoop?",
+        answer:
+          "In de regel wel, al bestaan er uitzonderingen. Bij een gedwongen openbare verkoop weten kandidaat-kopers dat u onder druk staat, en dat vertaalt zich doorgaans in lagere biedingen; sectorbronnen spreken over een merkbaar lager gemiddelde, al verschilt dat sterk per pand en per ligging. Een onderhandelde prijs met een koper die u zelf voorstelt, ligt vaak hoger. Precies dat verschil is het argument waarmee u de beslagrechter kunt overtuigen om de verkoop uit de hand toe te staan, want een hogere opbrengst dient ook het belang van uw schuldeisers.",
+      },
+      {
+        question: "Wat als de opbrengst van de verkoop mijn schulden niet dekt?",
+        answer:
+          "Dan blijft het onbetaalde deel in de regel verschuldigd. De notaris verdeelt de opbrengst volgens de wettelijke rangorde: eerst de kosten, dan de hypothecaire schuldeiser (meestal uw bank), dan de bevoorrechte schuldeisers, en pas daarna de gewone schuldeisers. Wie niets meer krijgt uit de verdeling, behoudt zijn vordering op u. De verkoop van uw woning wist uw schuld dus niet automatisch uit, en dat is een belangrijke reden om te mikken op de hoogst mogelijke opbrengst. Laat u over uw persoonlijke situatie adviseren door een advocaat of een dienst schuldbemiddeling.",
+      },
+      {
+        question: "Koopt wijkopenpanden.be ook een woning waarop beslag ligt?",
+        answer:
+          "Ja. Wij kopen panden in de regio Antwerpen aan in de huidige staat, ook wanneer er een bewarend of uitvoerend beslag op rust. Na een plaatsbezoek bezorgen wij u een schriftelijk bod, en dat concrete bod is vaak net wat uw notaris of advocaat nodig heeft om een verkoop uit de hand voor te leggen aan de beslagrechter. De verplichte attesten en de coördinatie met de notaris zitten inbegrepen en wij rekenen geen commissie aan. De uiteindelijke beslissing over de machtiging ligt uiteraard bij de rechtbank, niet bij ons.",
+      },
+    ],
+  },
+  {
+    slug: "beschermd-monument-erfgoedwoning-verkopen",
+    title: "Een beschermd monument of erfgoedwoning verkopen in Vlaanderen: welke regels gelden en wat betekent dat voor uw prijs",
+    metaTitle: "Beschermd monument of erfgoedwoning verkopen in Vlaanderen",
+    metaDescription:
+      "Beschermd monument, beschermd dorpsgezicht of vastgestelde inventaris: de regels, de informatieplicht bij verkoop, premies en de impact op uw prijs.",
+    publishedAt: "2026-07-12",
+    updatedAt: "2026-07-12",
+    intro:
+      "Ja, u kunt een beschermd monument of een erfgoedwoning gewoon verkopen. Een erfgoedstatuut is geen verkoopverbod: het beperkt niet uw recht om te verkopen, maar wel wat de koper nadien met het pand mag doen. Precies daarom loont het om te weten welk statuut uw pand exact heeft. Een **beschermd monument** valt onder een zwaar regime met toelatingsplicht en onderhoudsplicht. Een pand dat enkel is opgenomen in de **vastgestelde inventaris van het bouwkundig erfgoed** valt onder een veel lichter regime. In dit artikel leest u het verschil tussen de statuten, welke informatieplicht u als verkoper heeft, welke premies en fiscale regelingen bestaan, en hoe het statuut de prijs en de kopersmarkt beïnvloedt.",
+    sections: [
+      {
+        heading: "Beschermd monument, beschermd stads- of dorpsgezicht of vastgestelde inventaris: drie verschillende regimes",
+        body: "De eerste vraag die u moet beantwoorden is niet *of* uw pand erfgoed is, maar **welk statuut** het precies heeft. In Vlaanderen worden die statuten vaak op één hoop gegooid, terwijl de gevolgen sterk verschillen.\n\n• **Beschermd monument.** Het pand zelf is bij ministerieel besluit beschermd, met een beschermingsbesluit dat de erfgoedwaarden en vaak ook concrete voorschriften vastlegt. Dit is het zwaarste regime: instandhoudingsplicht en toelatingsplicht voor heel wat werken.\n\n• **Beschermd stads- of dorpsgezicht.** Hier is niet zozeer het individuele pand beschermd, maar het **geheel** — de straatwand, het plein, de omgeving rond een monument. De bescherming richt zich in de regel op het uitzicht en de omgevingswaarde. Dat betekent doorgaans dat ingrepen aan de buitenzijde (gevel, dakvorm, schrijnwerk, materialen) gevoelig liggen, terwijl u binnenin meer ruimte heeft dan bij een beschermd monument. Ook hier gelden toelatingsplichten, maar het pakket is in de praktijk minder ingrijpend dan bij een monument.\n\n• **Opname in de vastgestelde inventaris van het bouwkundig erfgoed.** Dit is **geen bescherming**. De minister bevestigt enkel dat het pand erfgoedwaarde heeft en nog bestaat. Er zijn wél rechtsgevolgen, maar die zijn beperkt en veel lichter dan bij een bescherming. Er is in de regel **geen toelatingsplicht** bij het agentschap Onroerend Erfgoed voor werken.\n\nDaarnaast bestaat er nog de louter **wetenschappelijke inventaris**: die is informatief en heeft op zich geen rechtsgevolgen. Veel eigenaars schrikken zich een hoedje omdat ze hun pand \"in de inventaris\" terugvinden, terwijl het om dit informatieve niveau of om de vastgestelde inventaris gaat — en dus niet om een bescherming.\n\nUw statuut kunt u nakijken via het Geoportaal van Onroerend Erfgoed of via de inventaris op onroerenderfgoed.be. Twijfelt u, vraag het dan na bij uw gemeente of bij het agentschap. Zet die stap vóór u het pand te koop zet: het statuut bepaalt uw informatieplicht.",
+        table: {
+          headers: ["Statuut", "Toelating nodig voor werken?", "Instandhoudingsplicht?", "Zwaarte regime"],
+          rows: [
+            ["Beschermd monument", "Ja, voor toelatingsplichtige werken", "Ja", "Zwaar"],
+            ["Beschermd stads- of dorpsgezicht", "Ja, vooral voor het uitzicht en de omgeving", "Ja", "Middelzwaar"],
+            ["Vastgestelde inventaris bouwkundig erfgoed", "In de regel niet", "Nee", "Licht"],
+            ["Wetenschappelijke inventaris", "Nee", "Nee", "Informatief"],
+          ],
+        },
+      },
+      {
+        heading: "Informatieplicht: wat moet u vermelden in de publiciteit, het compromis en de akte?",
+        body: "Bij de verkoop van erfgoed geldt een **informatieplicht**. De invulling ervan hangt af van het statuut, en net daar gaat het vaak mis.\n\n• Is uw pand **beschermd** (monument, stads- of dorpsgezicht, landschap, archeologische site), dan moet de beschermde status én de daaraan verbonden rechtsgevolgen worden vermeld **in de publiciteit** (dus ook in de advertentie op een immosite), **in het compromis** en **in de authentieke akte**.\n\n• Staat uw pand enkel in de **vastgestelde inventaris**, dan geldt de vermelding in de regel **niet voor de publiciteit**, maar wél voor de **onderhandse overeenkomst (compromis)** en de **authentieke akte**.\n\nIn de praktijk neemt de notaris die vermelding op — hij is dat gewoon en beschikt over de modelformuleringen die het agentschap Onroerend Erfgoed daarvoor publiceert. Maar de **publiciteit** is uw verantwoordelijkheid (of die van uw makelaar), en daar wordt de fout het vaakst gemaakt: een beschermd pand dat te koop staat zonder één woord over de bescherming. Op het niet-naleven van de informatieplicht kunnen sancties staan, en minstens even belangrijk: een koper die pas bij de notaris verneemt dat hij een beschermd monument koopt, haakt vaak alsnog af of gaat heronderhandelen.\n\nSpeel dus open kaart vanaf de eerste advertentie. Erfgoed verkoopt u niet door de bescherming te verzwijgen, maar door meteen de juiste koper aan te trekken. Verzamel de vragen van kandidaat-kopers en leg ze desnoods gebundeld voor aan het agentschap, in plaats van iedere kandidaat zelf te laten gissen.",
+        table: {
+          headers: ["Waar", "Beschermd erfgoed", "Vastgestelde inventaris"],
+          rows: [
+            ["Publiciteit (advertentie, immosite)", "Vermelding verplicht", "In de regel niet verplicht"],
+            ["Compromis / onderhandse overeenkomst", "Vermelding verplicht", "Vermelding verplicht"],
+            ["Authentieke akte bij de notaris", "Vermelding verplicht", "Vermelding verplicht"],
+            ["Rechtsgevolgen toelichten", "Ja", "Ja, in akte en overeenkomst"],
+          ],
+        },
+      },
+      {
+        heading: "Toelatingsplicht en instandhoudingsplicht bij een beschermd pand",
+        body: "Wie een beschermd goed bezit, draagt twee kernverplichtingen. Voor u als verkoper zijn ze dubbel relevant: ze gelden nú nog voor u, en ze bepalen wat uw koper straks mag en moet.\n\n**De instandhoudingsplicht.** Als eigenaar of gebruiker moet u het beschermde goed in **goede staat houden**. Dat is een actieve plicht: de nodige onderhouds-, herstel-, beveiligings- en beheerswerken uitvoeren. Daarnaast geldt een passieve plicht: het is verboden het goed te ontsieren, te beschadigen of te vernielen. Een beschermd pand jarenlang laten verkommeren is dus geen neutrale keuze.\n\n**De toelatingsplicht.** Werken die de erfgoedwaarde kunnen verstoren of beschadigen, vragen in de regel een **voorafgaande schriftelijke toelating** van het agentschap Onroerend Erfgoed of van een erkende onroerenderfgoedgemeente. Dat staat **los van** de omgevingsvergunning: voor sommige werken heeft u beide nodig, voor kleinere ingrepen enkel de erfgoedtoelating. Welke werken precies toelatingsplichtig zijn, is geregeld in de Vlaamse erfgoedregelgeving en wordt vaak verder ingevuld door het beschermingsbesluit van uw pand. Vraag dat besluit op — het is de belangrijkste tekst in uw dossier.\n\nDe toelatingsprocedure verloopt via een aanvraag bij het agentschap of de gemeente. Reken op enkele weken behandelingstijd. Voor een verkoop betekent dat vooral één ding: een koper met verbouwplannen kan die plannen niet zomaar tekenen. Hij moet ze afstemmen op de erfgoedwaarden, en dat weegt op zijn timing, zijn budget en dus op zijn bod. Staat uw pand er bovendien slecht bij, dan speelt hetzelfde mechanisme als bij elk vervallen pand. Meer daarover leest u in ons artikel over een [pand in slechte staat verkopen](/kennisbank/pand-in-slechte-staat-verkopen).\n\nEen bijzonder aandachtspunt: werken die in het verleden **zonder** de vereiste toelating of vergunning zijn uitgevoerd. Bij erfgoed kunnen die dubbel problematisch zijn, omdat ze zowel stedenbouwkundig als erfgoedrechtelijk kunnen wringen. Hoe u daarmee omgaat bij een verkoop, bespreken we in ons artikel over een [stedenbouwkundige overtreding bij de verkoop van een woning](/kennisbank/stedenbouwkundige-overtreding-woning-verkopen).",
+      },
+      {
+        heading: "Erfgoedpremie en fiscale regelingen: wat is er mogelijk?",
+        body: "Tegenover de plichten staan een aantal tegemoetkomingen. Ze zijn reëel, maar minder vanzelfsprekend dan vaak wordt voorgesteld — wees daar eerlijk over tegenover kandidaat-kopers.\n\n**De erfgoedpremie.** Voor beheersmaatregelen, werken of diensten aan beschermd erfgoed kunt u bij de Vlaamse overheid een erfgoedpremie aanvragen. Het **standaardpercentage bedraagt in de regel 40%** van de aanvaarde kosten. Voor bepaalde categorieën (bijvoorbeeld beschermde schoolgebouwen, gebouwen van een erkende eredienst of bepaalde open erfgoedsites) geldt een **verhoogd percentage**, en er bestaat een **bijkomende premie** wanneer u kunt aantonen dat het goed gedurende meerdere jaren goed onderhouden werd. De juiste percentages en voorwaarden voor uw dossier controleert u het best rechtstreeks bij het agentschap Onroerend Erfgoed.\n\nTwee kanttekeningen die in de praktijk zwaar doorwegen. Ten eerste is de erfgoedpremie **budgetgebonden**: het beschikbare budget per jaar is beperkt en kan uitgeput raken, waardoor nieuwe aanvragen blijven liggen. Ten tweede is er een **bijzondere procedure** die al geruime tijd geschorst is voor nieuwe aanvragen. Een premie is dus een mogelijkheid, geen garantie — en al zeker geen argument om aan een koper te beloven dat zijn restauratie \"grotendeels gesubsidieerd\" zal zijn.\n\n**Fiscaal.** Vlaanderen kent een gunstregime voor beschermd onroerend erfgoed, gekoppeld aan een **investeringsvoorwaarde**: het belastingvoordeel moet binnen een bepaalde termijn geïnvesteerd worden in beheersmaatregelen uit een goedgekeurd beheersplan. Het regime speelt onder meer bij de **schenkbelasting** en bij het **verkooprecht (registratiebelasting)** bij aankoop van een beschermd monument. Voor de **erfbelasting** bestaat er in Vlaanderen, voor zover wij konden nagaan, géén specifieke vermindering voor beschermde monumenten — een misverstand dat u geregeld hoort. Laat de concrete berekening en de voorwaarden altijd door uw notaris of een fiscalist nakijken; de tarieven en de precieze modaliteiten wijzigen regelmatig. Hoe de kosten van een verkoop zich in het algemeen opstapelen, leest u in ons artikel over het [berekenen van uw verkoopkosten](/kennisbank/verkoop-kosten-berekenen).\n\n**Renovatieverplichting.** Goed nieuws voor erfgoedeigenaars: een **residentieel gebouw dat een beschermd monument is, deel uitmaakt van een beschermd stads- of dorpsgezicht, of opgenomen is in de vastgestelde inventaris van het bouwkundig erfgoed, is vrijgesteld van de renovatieverplichting** voor woongebouwen. Die vrijstelling moet in de regel niet worden aangevraagd. Ook op de EPB-eisen bestaan afwijkingen en vrijstellingen voor erfgoed, precies omdat isolatie of ventilatie de erfgoedwaarde kan aantasten. Dat is een verkoopargument dat u mag gebruiken, maar controleer het voor uw specifieke pand. Voor gewone woningen zonder erfgoedstatuut gelden die uitzonderingen niet — daarover leest u meer in ons artikel over de [energie- en renovatieplicht in Vlaanderen](/kennisbank/energie-renovatieplicht-vlaanderen-2026).",
+        table: {
+          headers: ["Regeling", "Voor wie", "Kern", "Aandachtspunt"],
+          rows: [
+            ["Erfgoedpremie", "Beschermd erfgoed", "In de regel 40%, verhoogd in bepaalde gevallen", "Budgetgebonden, geen automatisch recht"],
+            ["Gunstregime schenkbelasting", "Beschermd erfgoed", "Verlaagd tarief mits investering", "Beheersplan en termijn vereist"],
+            ["Vermindering verkooprecht", "Koper van beschermd monument", "Vermindering mits investering", "Laat door notaris narekenen"],
+            ["Vrijstelling renovatieverplichting", "Beschermd én vastgesteld erfgoed", "Vrijgesteld voor woongebouwen", "Automatisch, geen aanvraag nodig"],
+          ],
+        },
+      },
+      {
+        heading: "Wat het statuut doet met uw verkoop: kleinere markt, duurdere renovatie",
+        body: "Nuchter bekeken werkt een erfgoedstatuut in twee richtingen. Het geeft uw pand karakter en zeldzaamheidswaarde, en het schrikt tegelijk een groot deel van de kopers af.\n\n• **De kopersmarkt is kleiner.** Wie een klassieke gezinswoning zoekt, haakt af zodra het woord \"beschermd\" valt. U mikt op een nichepubliek: liefhebbers, ervaren renoveerders, soms investeerders met een herbestemmingsplan.\n\n• **Renoveren is duurder en trager.** Materialen moeten passen bij de erfgoedwaarde, gespecialiseerde aannemers zijn schaarser, en de toelatingsprocedure kost tijd. Een koper rekent die meerkost en die onzekerheid door in zijn bod.\n\n• **Financiering en waardering zijn complexer.** Banken en schatters hebben minder referentiepunten. Dat maakt een dossier langer en fragieler.\n\n• **De onzekerheid is vaak het echte probleem.** Niet zozeer de bescherming zelf, maar de vraag \"wat mag ik hier nu precies?\" doet kandidaten twijfelen. Hoe beter u die vraag vooraf beantwoordt — beschermingsbesluit, eerdere toelatingen, technische verslagen, een eventueel beheersplan — hoe minder korting een koper voor die onzekerheid zal vragen.\n\nHoud er ook rekening mee dat u de gewone verkoopverplichtingen niet ontloopt. Een beschermd monument van vóór 2001 heeft evengoed een **asbestattest** nodig, en ook EPC en bodemattest blijven aan de orde. Meer daarover leest u in ons artikel over het [asbestattest bij de verkoop van een woning](/kennisbank/asbestattest-bij-verkoop-woning). Erfgoed betekent extra verplichtingen bovenop de standaardverplichtingen, niet in de plaats ervan.\n\nEen realistische verwachting is dus: een langere verkooptermijn, een selectiever publiek, en een prijs die de renovatiebeperkingen weerspiegelt. Dat is geen reden tot pessimisme — het is de reden om uw dossier goed voor te bereiden.",
+      },
+      {
+        heading: "Verkopen in de huidige staat aan een professionele koper",
+        body: "Voor wie geen jaren wil wachten op de juiste liefhebber, bestaat een alternatief: verkopen **in de huidige staat** aan een professionele koper.\n\nwijkopenpanden.be koopt panden in de **regio Antwerpen** aan in de **huidige staat**. Ook een beschermd monument, een pand in een beschermd stads- of dorpsgezicht of een woning uit de vastgestelde inventaris. U hoeft niets te restaureren, niets te ontruimen en geen toelatingsdossier op te starten voor werken die u zelf niet meer wil uitvoeren.\n\nDe werkwijze is eenvoudig. Op uw aanvraag krijgt u **binnen 2 uur een reactie**. Na een **plaatsbezoek** ontvangt u een **schriftelijk bod**. U betaalt **geen commissie**. De **verplichte attesten en de coördinatie met de notaris zijn inbegrepen**, en de **akte volgt doorgaans binnen 2 tot 3 maanden**.\n\nWij beloven u niets meer dan dat: geen bedragen op voorhand, geen garanties. Wat u wél krijgt, is een concreet cijfer op papier. Dat bod kunt u rustig naast de klassieke route leggen — de verkoop via een makelaar, met de wachttijd, de kosten en de onzekerheid die daarbij horen. Zo kiest u met volledige informatie wat voor uw pand en uw situatie het beste uitkomt.",
+      },
+    ],
+    relatedArticles: ["pand-in-slechte-staat-verkopen", "energie-renovatieplicht-vlaanderen-2026", "stedenbouwkundige-overtreding-woning-verkopen", "verkoop-kosten-berekenen", "asbestattest-bij-verkoop-woning", "keuringen-attesten-bij-directe-verkoop"],
+    relatedSituations: ["opknappand-verkopen", "huis-verkopen-bij-erfenis"],
+    faqs: [
+      {
+        question: "Mag ik een beschermd monument zomaar verkopen?",
+        answer:
+          "Ja. Een bescherming beperkt uw eigendomsrecht op het vlak van werken en onderhoud, maar niet uw recht om te verkopen. U heeft geen toestemming van het agentschap Onroerend Erfgoed nodig om uw pand te koop te zetten of om een verkoopovereenkomst te sluiten. Wat u wél moet doen, is de beschermde status en de rechtsgevolgen correct vermelden in de publiciteit, in het compromis en in de authentieke akte. De verplichtingen die aan het pand kleven, gaan mee over op de koper.",
+      },
+      {
+        question: "Wat is het verschil tussen een beschermd monument en een pand in de vastgestelde inventaris?",
+        answer:
+          "Een beschermd monument valt onder het zwaarste regime: er geldt een instandhoudingsplicht en voor heel wat werken heeft u een voorafgaande schriftelijke toelating nodig van het agentschap Onroerend Erfgoed of van een erkende onroerenderfgoedgemeente. Een pand dat enkel in de vastgestelde inventaris van het bouwkundig erfgoed staat, is niet beschermd. Er zijn wel rechtsgevolgen, maar die zijn veel lichter en er is in de regel geen toelatingsplicht voor werken. Veel eigenaars verwarren beide statuten. Kijk uw exacte statuut na via het Geoportaal van Onroerend Erfgoed of vraag het na bij uw gemeente.",
+      },
+      {
+        question: "Moet ik de erfgoedstatus in mijn advertentie vermelden?",
+        answer:
+          "Is uw pand beschermd, dan moet u dat vermelden in de publiciteit, dus ook in de advertentie op een immosite, samen met de rechtsgevolgen die eraan verbonden zijn. Staat uw pand enkel in de vastgestelde inventaris, dan geldt die vermelding in de regel niet voor de publiciteit, maar wel voor het compromis en de authentieke akte. Het niet naleven van de informatieplicht kan aanleiding geven tot sancties. Even belangrijk in de praktijk: een koper die de bescherming pas laat ontdekt, haakt vaak af of gaat heronderhandelen.",
+      },
+      {
+        question: "Krijgt mijn koper een erfgoedpremie voor de restauratie?",
+        answer:
+          "Mogelijk, maar het is geen garantie. Voor werken aan beschermd erfgoed bestaat de Vlaamse erfgoedpremie, met in de regel een standaardpercentage van 40% van de aanvaarde kosten en verhoogde percentages voor bepaalde categorieën. De premie is echter budgetgebonden: het jaarbudget kan uitgeput raken, waardoor aanvragen blijven liggen. Beloof een kandidaat-koper dus nooit dat zijn restauratie gesubsidieerd zal worden. Verwijs hem naar het agentschap Onroerend Erfgoed voor de actuele percentages, voorwaarden en beschikbaarheid.",
+      },
+      {
+        question: "Geldt de renovatieverplichting ook voor een erfgoedwoning?",
+        answer:
+          "Nee. Een residentieel gebouw dat een beschermd monument is, deel uitmaakt van een beschermd stads- of dorpsgezicht, of is opgenomen in de vastgestelde inventaris van het bouwkundig erfgoed, is vrijgesteld van de renovatieverplichting voor woongebouwen. Die vrijstelling moet in de regel niet apart worden aangevraagd. Ook op de EPB-eisen bestaan afwijkingen voor erfgoed, omdat isolatie of ventilatie de erfgoedwaarde kan aantasten. Controleer de vrijstelling wel voor uw specifieke pand en statuut, want de regels verschillen naargelang het gebouw residentieel of niet-residentieel is.",
+      },
+      {
+        question: "Koopt wijkopenpanden.be ook beschermde monumenten en erfgoedwoningen?",
+        answer:
+          "Ja. Wij kopen panden in de regio Antwerpen aan in de huidige staat, ook wanneer het gaat om een beschermd monument, een pand in een beschermd stads- of dorpsgezicht of een woning uit de vastgestelde inventaris. U hoeft niet te restaureren en geen toelatingsdossier op te starten. Na uw aanvraag krijgt u binnen 2 uur een reactie en na een plaatsbezoek een schriftelijk bod, zonder commissie, met de verplichte attesten en de coördinatie met de notaris inbegrepen. De akte volgt doorgaans binnen 2 tot 3 maanden. U kunt dat bod vergelijken met de klassieke verkooproute en daarna kiezen.",
+      },
+    ],
+  },
+  {
+    slug: "handelspand-gemengd-pand-verkopen-handelshuur",
+    title: "Een handelspand of gemengd pand verkopen met een lopende handelshuur: hernieuwingsrecht, uitzettingsvergoeding en wat de koper overneemt",
+    metaTitle: "Handelspand verkopen met lopende handelshuur: uw rechten",
+    metaDescription:
+      "Ja, u kunt een handelspand of gemengd pand met lopende handelshuur verkopen. Wat de koper overneemt, hernieuwingsrecht en uitzettingsvergoeding.",
+    publishedAt: "2026-07-12",
+    updatedAt: "2026-07-12",
+    intro:
+      "Ja, u kunt een handelspand of een gemengd pand met een lopende handelshuur verkopen. U hebt daarvoor geen toestemming van uw huurder nodig, en de huur loopt in de regel gewoon door bij de nieuwe eigenaar. Dat laatste is precies wat veel eigenaars onderschat: **handelshuur is federale wetgeving** (de Handelshuurwet van 30 april 1951) en beschermt de huurder veel sterker dan het Vlaamse woninghuurrecht. Een handelshuurder heeft een basisduur van negen jaar en kan die tot drie keer laten hernieuwen. In dit artikel leest u hoe dat hernieuwingsrecht werkt, wanneer u een **uitzettingsvergoeding** verschuldigd bent, wat een koper wel en niet kan opzeggen, en welk huurregime geldt in een gemengd pand met een winkel beneden en een woning erboven.",
+    sections: [
+      {
+        heading: "Handelshuur is iets heel anders dan woninghuur",
+        body: "De eerste fout die eigenaars maken, is denken dat de regels van hun woninghuurcontract ook gelden voor de winkel of het horecapand. Dat is niet zo. **Woninghuur is een Vlaamse bevoegdheid** (het Vlaams Woninghuurdecreet). **Handelshuur is federaal gebleven** en wordt geregeld door de Handelshuurwet van 30 april 1951, die in het Burgerlijk Wetboek is ingevoegd.\n\nDie wet is van toepassing wanneer de huurder het pand **hoofdzakelijk gebruikt voor kleinhandel of voor het bedrijf van een ambachtsman met rechtstreeks contact met het publiek**. Een winkel, een bakkerij, een kapsalon, een café of een restaurant vallen daar doorgaans onder. Kantoren, opslagruimte, magazijnen of een vrij beroep vallen er in de regel juist buiten: die worden meestal beheerst door het gemene huurrecht, waar veel meer contractvrijheid geldt.\n\nDat onderscheid is bepalend voor uw verkoop. Onder het gemene huurrecht kunt u contractueel bijna alles regelen. Onder de Handelshuurwet zijn de belangrijkste bepalingen **dwingend in het voordeel van de huurder**: u kunt ze niet zomaar wegschrijven, ook niet met een clausule waar de huurder mee heeft ingestemd.",
+        table: {
+          headers: ["Aspect", "Woninghuur (Vlaams decreet)", "Handelshuur (federale wet 1951)"],
+          rows: [
+            ["Bevoegdheid", "Vlaams Gewest", "Federaal"],
+            ["Basisduur", "In de regel 9 jaar, korte huur mogelijk", "Minimaal 9 jaar"],
+            ["Recht op hernieuwing", "Niet als zodanig", "Ja, tot 3 maal 9 jaar"],
+            ["Opzeg door eigenaar", "Onder meer eigen gebruik of renovatie, met opzegtermijn", "Enkel in wettelijk bepaalde gevallen, vaak met vergoeding"],
+            ["Vergoeding bij uitzetting", "Beperkt", "Tot 3 jaar huur mogelijk"],
+          ],
+        },
+      },
+      {
+        heading: "Het hernieuwingsrecht: uw pand kan tot 36 jaar bezet blijven",
+        body: "Een handelshuurovereenkomst duurt **minimaal negen jaar**. De huurder kan de huur wel vroeger beëindigen: doorgaans bij het verstrijken van elke driejarige periode, mits een opzeg per aangetekende brief of deurwaardersexploot, in de regel minstens zes maanden vooraf. Als verhuurder hebt u dat recht niet, tenzij het contract dat uitdrukkelijk voorziet en de wet het toelaat.\n\nBelangrijker is het **recht op hernieuwing**. De huurder kan bij het einde van de huur vragen om de overeenkomst te hernieuwen voor opnieuw negen jaar, om er dezelfde handel voort te zetten. Dat recht is beperkt tot **drie hernieuwingen**, wat in theorie neerkomt op een bezetting van maximaal 36 jaar.\n\nDe procedure is strikt en verloopt in twee stappen:\n\n• **De huurder vraagt de hernieuwing aan** per aangetekende brief of deurwaardersexploot, ten vroegste 18 maanden en ten laatste 15 maanden vóór het einde van de lopende huur. In die aanvraag moet hij zijn voorwaarden vermelden en moet uitdrukkelijk staan dat u geacht wordt akkoord te gaan als u niet tijdig antwoordt.\n\n• **U antwoordt binnen drie maanden**, eveneens per aangetekende brief of deurwaardersexploot. Antwoordt u niet, dan wordt u in de regel **geacht akkoord te gaan met de hernieuwing aan de door de huurder voorgestelde voorwaarden**. Dat is de zwaarste valkuil in dit dossier: stilzitten is hier geen neutrale keuze, maar een toestemming.\n\nVraagt de huurder de hernieuwing niet of te laat aan, dan vervalt zijn recht op hernieuwing in principe en eindigt de huur op de vervaldag. Omdat over die termijnen veel wordt geprocedeerd, laat u de brieven en de data best nakijken door een advocaat of notaris vóór u iets ondertekent of beantwoordt.",
+        table: {
+          headers: ["Stap", "Wie", "Termijn", "Vorm"],
+          rows: [
+            ["Aanvraag hernieuwing", "Huurder", "Tussen 18 en 15 maanden vóór het einde", "Aangetekende brief of deurwaarder"],
+            ["Antwoord op de aanvraag", "Verhuurder", "Binnen 3 maanden na ontvangst", "Aangetekende brief of deurwaarder"],
+            ["Geen antwoord", "Verhuurder", "Na 3 maanden", "Geacht akkoord met de voorwaarden van de huurder"],
+            ["Betwisting bij weigering of nieuwe voorwaarden", "Huurder", "In de regel binnen 30 dagen na het antwoord", "Dagvaarding voor de vrederechter"],
+          ],
+        },
+      },
+      {
+        heading: "Weigert u de hernieuwing? Dan is er vaak een uitzettingsvergoeding",
+        body: "U bent niet verplicht om de hernieuwing toe te staan, maar een weigering heeft een prijs. De wet koppelt aan de meeste weigeringsgronden een **uitzettingsvergoeding**, uitgedrukt in een aantal jaren huur. De achterliggende logica is dat de huurder op die plek een handelszaak en een cliënteel heeft opgebouwd, en dat hij dat verliest als hij moet vertrekken.\n\nDe hoofdlijnen zien er doorgaans zo uit. Weigert u **zonder enige reden**, dan is de vergoeding in de regel het hoogst: ongeveer drie jaar huur. Weigert u omdat u of een naaste familielid **er zelf een gelijkaardige handel** komt uitoefenen, dan ligt de vergoeding lager, maar niet nul. Geeft u het pand een **andere bestemming dan handel**, of gaat u het **heropbouwen**, dan is de vergoeding in principe beperkter. En in sommige gevallen, bijvoorbeeld wanneer het pand wegens ouderdom of overmacht moet worden afgebroken, kan er geen vergoeding verschuldigd zijn.\n\nDaar komt een sanctie bovenop: **voert u het opgegeven motief niet werkelijk uit** binnen de wettelijke termijn (in de regel zes maanden na het vertrek van de huurder) en houdt u het niet minstens twee jaar vol, dan kan de rechter een bijkomende vergoeding opleggen. U kunt met andere woorden geen reden opgeven die u niet meent.\n\nDe onderstaande tabel geeft de meest voorkomende gevallen weer. Beschouw ze als een leidraad, niet als een uitputtende lijst: de exacte grond, de berekeningsbasis en eventuele bijkomende vergoedingen (bijvoorbeeld voor de overname van cliënteel) worden in de praktijk vaak betwist voor de vrederechter. Laat uw concrete situatie nakijken.",
+        table: {
+          headers: ["Reden van weigering", "Richtinggevende vergoeding", "Aandachtspunt"],
+          rows: [
+            ["Geen reden opgegeven", "Ongeveer 3 jaar huur", "De duurste weg"],
+            ["Verhuurder of familie oefent er een gelijkaardige handel uit", "Ongeveer 2 jaar huur", "Motief moet echt worden uitgevoerd"],
+            ["Andere bestemming dan handel", "Ongeveer 1 jaar huur", "Bestemming moet ook effectief wijzigen"],
+            ["Wederopbouw op eigen initiatief", "Ongeveer 1 jaar huur", "Kostendrempel en plannen worden getoetst"],
+            ["Afbraak wegens ouderdom, overmacht of wettelijke verplichting", "In principe geen vergoeding", "Strikt beoordeeld door de rechter"],
+          ],
+        },
+      },
+      {
+        heading: "Wat gebeurt er met de handelshuur bij verkoop?",
+        body: "Verkoop breekt geen huur, ook hier niet. De vraag is alleen of de huurovereenkomst **tegenwerpelijk** is aan de koper, en welke opzegmogelijkheid de koper daardoor overhoudt. Alles hangt af van twee elementen: heeft de huurovereenkomst een **vaste dagtekening** (die krijgt u in de praktijk door **registratie** van het contract), en staat er een **uitzettingsbeding** in?\n\n• **Geregistreerde huur, zonder uitzettingsbeding.** De koper neemt de huur over en zit ze in de regel volledig uit. Hij kan de huurder niet vervroegd buitenzetten voor eigen gebruik. Dat is het scenario waarin uw pand feitelijk als belegging wordt verkocht.\n\n• **Geregistreerde huur, met uitzettingsbeding.** De koper kan de huurder wél vervroegd opzeggen, maar enkel om een van de wettelijk voorziene redenen (onder meer eigen gebruik door hemzelf of naaste familie, bestemmingswijziging, wederopbouw, of zware tekortkomingen van de huurder). Hij moet dat doorgaans doen **binnen drie maanden na de eigendomsoverdracht**, met een **opzegtermijn van minstens één jaar** en met uitdrukkelijke vermelding van de reden. Ook hier kan een uitzettingsvergoeding verschuldigd zijn.\n\n• **Niet-geregistreerde huur, huurder al minstens zes maanden in het pand.** In de regel geniet de huurder een vergelijkbare bescherming: de koper kan enkel opzeggen om de wettelijke redenen, opnieuw binnen ongeveer drie maanden na de verkrijging en met minstens één jaar opzeg.\n\n• **Niet-geregistreerde huur, huurder minder dan zes maanden in het pand.** Dan staat de huurder het zwakst en kan de koper de huur in principe naast zich neerleggen.\n\nTwee praktische gevolgen voor u als verkoper. Ten eerste: **registreer het huurcontract** en houd het bij, samen met de plaatsbeschrijving, de huurwaarborg en de facturen. Een koper die het dossier niet kan inschatten, prijst dat risico in. Ten tweede: vermeld de huursituatie eerlijk in de compromis en breng uw huurder op de hoogte van de eigendomsoverdracht. Verzwijgen leidt vrijwel altijd tot discussie achteraf. Over dat laatste leest u meer in ons artikel over de rechten van de huurder bij verkoop van een woning en in ons artikel over verborgen gebreken bij een woningverkoop.",
+        table: {
+          headers: ["Situatie van de huurovereenkomst", "Kan de koper vervroegd opzeggen?", "Termijn en opzeg"],
+          rows: [
+            ["Geregistreerd, zonder uitzettingsbeding", "In de regel niet", "Koper zit de huur uit"],
+            ["Geregistreerd, met uitzettingsbeding", "Ja, enkel om wettelijke redenen", "Doorgaans binnen 3 maanden na de akte, minstens 1 jaar opzeg"],
+            ["Niet geregistreerd, huurder ≥ 6 maanden ter plaatse", "Ja, enkel om wettelijke redenen", "Doorgaans binnen 3 maanden na de akte, minstens 1 jaar opzeg"],
+            ["Niet geregistreerd, huurder < 6 maanden ter plaatse", "In principe wel", "Zwakste positie voor de huurder"],
+          ],
+        },
+      },
+      {
+        heading: "Gemengd pand: winkel beneden, appartement boven",
+        body: "Bij een gemengd pand krijgt u met twee wetgevingen tegelijk te maken. Welke van beide geldt, hangt af van hoe het pand is verhuurd.\n\n• **Twee afzonderlijke huurovereenkomsten, met twee verschillende huurders.** Dat is de helderste situatie: de handelsruimte valt onder de federale Handelshuurwet, het appartement onder het Vlaams Woninghuurdecreet, elk met zijn eigen duur, opzegregels en verplichtingen. Voor het woongedeelte gelden dan ook de Vlaamse **woningkwaliteitsnormen** en, in bepaalde gevallen, een conformiteitsattest. Meer daarover leest u in ons artikel over het verkopen van een verhuurd pand en woningkwaliteit.\n\n• **Eén huurovereenkomst voor het geheel, met één huurder.** Dan moet worden bepaald wat de **hoofdbestemming** is. Woont de uitbater boven zijn eigen zaak en is die bewoning **bijkomstig aan de handelsactiviteit**, dan wordt de hele overeenkomst in de regel als handelshuur beschouwd, ook al heeft de huurder er zijn hoofdverblijfplaats. Ligt het zwaartepunt daarentegen bij het wonen, dan kan het woninghuurrecht primeren. De rechter kijkt daarbij naar de oppervlakte, het aantal ruimten, de omzet en de bedoeling van de partijen.\n\nOmdat de kwalificatie de volledige opzeg- en vergoedingsregeling bepaalt, is dit geen detail. Staat er in uw contract niets duidelijks, dan is dat op zich al een reden om het dossier vóór de verkoop te laten nakijken. Twijfelt u tussen doorverhuren en verkopen, dan bekijkt u best ook onze vergelijking in het artikel over verhuren of verkopen in Antwerpen.",
+      },
+      {
+        heading: "Verkopen in de huidige staat, met de huurder erin",
+        body: "Een pand met een lopende handelshuur is voor veel particuliere kopers geen optie: zij willen er zelf in wonen of werken en schrikken terug voor een huurder die er nog jaren kan blijven. Daardoor blijven zulke panden vaak lang te koop staan, of komt er enkel een bod met een fors risicodiscount. Meer daarover leest u in ons artikel over wat u doet als uw woning al maanden te koop staat.\n\n**Wij kopen panden in de regio Antwerpen aan in de huidige staat**, ook een handelspand of een gemengd pand met een lopende handelshuur. U hoeft de huurder niet buiten te krijgen, niets te renoveren en geen leegstand te organiseren. Concreet: u krijgt **binnen 2 uur een reactie** op uw aanvraag, wij komen ter plaatse kijken en na dat **plaatsbezoek volgt een schriftelijk bod**. Er is **geen commissie**, en de **verplichte attesten en de coördinatie met de notaris zijn inbegrepen**. De akte verlijdt **doorgaans binnen 2 tot 3 maanden**.\n\nWij vragen u niet om meteen te beslissen. Leg ons bod naast wat een makelaar of een belegger u biedt, en naast wat het u kost om nog jaren verder te verhuren met een huurder die het recht op hernieuwing kan inroepen. Zo kiest u met volledige informatie.",
+      },
+    ],
+    relatedArticles: ["huurder-rechten-bij-verkoop-woning", "verhuurd-pand-verkopen-conformiteitsattest-woningkwaliteit", "verhuren-of-verkopen-antwerpen", "woning-staat-al-maanden-te-koop", "verborgen-gebreken-woning-verkoop-belgie", "keuringen-attesten-bij-directe-verkoop"],
+    relatedSituations: ["pand-met-huurders-verkopen"],
+    faqs: [
+      {
+        question: "Mag ik mijn handelspand verkopen zonder toestemming van mijn handelshuurder?",
+        answer:
+          "Ja. U hebt geen toestemming van uw huurder nodig om het pand te verkopen. De huurovereenkomst blijft in de regel gewoon doorlopen bij de nieuwe eigenaar. Wel is het aangewezen om de huurder in te lichten over de eigendomsoverdracht, bij voorkeur per aangetekende brief, en om alle huurdocumenten aan de koper te bezorgen. Let ook op eventuele contractuele afspraken, zoals een voorkooprecht ten gunste van de huurder: dat komt bij handelshuur soms voor en moet dan gerespecteerd worden.",
+      },
+      {
+        question: "Kan de koper mijn handelshuurder er meteen uitzetten?",
+        answer:
+          "Meestal niet. Is de huurovereenkomst geregistreerd en bevat ze geen uitzettingsbeding, dan zit de koper de huur in de regel gewoon uit. Bevat ze wel een uitzettingsbeding, of is de huur niet geregistreerd maar zit de huurder er al minstens zes maanden, dan kan de koper enkel opzeggen om een wettelijk voorziene reden, doorgaans binnen drie maanden na de akte en met een opzegtermijn van minstens één jaar. Ook dan kan er een uitzettingsvergoeding verschuldigd zijn.",
+      },
+      {
+        question: "Wat gebeurt er als ik niet antwoord op de hernieuwingsaanvraag van mijn huurder?",
+        answer:
+          "Dan loopt u een groot risico. Vraagt de huurder tijdig en correct de hernieuwing aan, en antwoordt u niet binnen drie maanden per aangetekende brief of deurwaardersexploot, dan wordt u in de regel geacht akkoord te gaan met de hernieuwing aan de voorwaarden die de huurder heeft voorgesteld. Uw pand is dan opnieuw voor negen jaar bezet, mogelijk aan een huurprijs die u niet had gewild. Zet die termijnen dus in uw agenda en laat uw antwoord juridisch nakijken.",
+      },
+      {
+        question: "Hoeveel bedraagt de uitzettingsvergoeding bij handelshuur?",
+        answer:
+          "Dat hangt af van de reden waarom u de hernieuwing weigert. Weigert u zonder reden, dan is de vergoeding in de regel het hoogst en loopt ze op tot ongeveer drie jaar huur. Komt u of een naaste familielid er een gelijkaardige handel uitoefenen, dan ligt ze lager, en bij een bestemmingswijziging of wederopbouw is ze in principe nog beperkter. In sommige gevallen, zoals een verplichte afbraak wegens ouderdom of overmacht, kan er geen vergoeding verschuldigd zijn. De exacte berekening is vaak voorwerp van discussie voor de vrederechter, dus laat ze nakijken.",
+      },
+      {
+        question: "Welke huurwet geldt voor een winkel met een appartement erboven?",
+        answer:
+          "Dat hangt af van hoe het pand verhuurd is. Zijn er twee afzonderlijke contracten met twee huurders, dan valt de winkel onder de federale Handelshuurwet en het appartement onder het Vlaams Woninghuurdecreet. Is er één contract met één huurder die boven zijn eigen zaak woont, dan wordt gekeken naar de hoofdbestemming: is de bewoning bijkomstig aan de handel, dan geldt in de regel de handelshuur voor het geheel. Omdat die kwalificatie de opzegregels bepaalt, laat u het contract best nakijken vóór de verkoop.",
+      },
+      {
+        question: "Koopt wijkopenpanden.be een handelspand of gemengd pand met een lopende handelshuur?",
+        answer:
+          "Ja. Wij kopen in de regio Antwerpen panden aan in de huidige staat, ook handelspanden en gemengde panden waar nog een handelshuurder in zit. U hoeft de huurder niet buiten te krijgen en er hoeft niets gerenoveerd te worden. Na uw aanvraag reageren wij binnen 2 uur, na een plaatsbezoek krijgt u een schriftelijk bod, er is geen commissie en de verplichte attesten en de coördinatie met de notaris zijn inbegrepen. De akte verlijdt doorgaans binnen 2 tot 3 maanden.",
+      },
+    ],
+  },
+  {
+    slug: "erfdienstbaarheid-recht-van-doorgang-woning-verkopen",
+    title: "Een woning verkopen met een erfdienstbaarheid: recht van doorgang, gemene muur en lichten en zichten",
+    metaTitle: "Woning verkopen met erfdienstbaarheid of recht van doorgang",
+    metaDescription:
+      "Een erfdienstbaarheid blijft bij verkoop op de woning rusten. Wat u als verkoper moet melden, hoe het recht ontstaat en eindigt, en de impact op uw prijs.",
+    publishedAt: "2026-07-12",
+    updatedAt: "2026-07-12",
+    intro:
+      "Ja, u kunt een woning met een erfdienstbaarheid gewoon verkopen. Een erfdienstbaarheid is een **zakelijk recht**: het kleeft aan het perceel, niet aan de persoon. Bij verkoop gaat het dus mee over op de koper, of hij er nu blij mee is of niet. De echte valkuil ligt elders: u moet als verkoper alle **gekende erfdienstbaarheden meedelen** en ze laten opnemen in het compromis en de notariële akte. Doet u dat niet, dan riskeert u achteraf een discussie over vrijwaring, een prijsvermindering of zelfs de ontbinding van de verkoop. In dit artikel leest u wat een erfdienstbaarheid juist is, hoe ze ontstaat en eindigt, wat u precies moet melden, en welke impact ze heeft op uw prijs en verkoopbaarheid.",
+    sections: [
+      {
+        heading: "Wat is een erfdienstbaarheid precies?",
+        body: "Een erfdienstbaarheid is een **last op het ene onroerend goed** (het **dienend erf**) ten voordele van een **ander onroerend goed** (het **heersend erf**). Het gaat dus om een verhouding tussen twee percelen, niet tussen twee personen. Wie vandaag eigenaar is, doet er in principe niet toe: de buurman van morgen erft dezelfde rechten en lasten.\n\nSinds de hervorming van het goederenrecht, in werking sinds **1 september 2021**, staan de regels in **Boek 3 van het Burgerlijk Wetboek (goederenrecht)**. De erfdienstbaarheden zijn daar gebundeld in een eigen hoofdstuk (in de regel de artikelen 3.114 en volgende). De hervorming heeft een aantal oude begrippen opgeruimd, maar de kern bleef overeind.\n\nDe klassiekers die u in de praktijk het vaakst tegenkomt:\n\n• **Recht van doorgang of overgang**: de buur mag over uw oprit, pad of tuin naar zijn eigen perceel of garage.\n• **Recht van uitweg**: een wettelijke erfdienstbaarheid voor een perceel dat **ingesloten** is en geen toegang heeft tot de openbare weg (zie verder).\n• **Gemene muur of gemene afsluiting**: een scheidingsmuur, haag of afsluiting die aan beide buren toebehoort. Strikt juridisch is dat mede-eigendom en geen erfdienstbaarheid, maar in de praktijk zorgt ze voor dezelfde soort discussies bij verkoop.\n• **Lichten en zichten**: de wettelijke afstandsregels voor vensters, balkons en terrassen die uitgeven op het perceel van de buur. Boek 3 hanteert daarvoor in de regel één afstand van **negentien decimeter (1,90 meter)** tot de perceelsgrens. Bestaat er een afwijkende toestand die door de buur aanvaard of verjaard is, dan spreekt men van een erfdienstbaarheid van licht of zicht.\n• Leidingen, riolering, kabels, een gemeenschappelijke waterput, een overhangende dakgoot: ook dat zijn courante erfdienstbaarheden.",
+        table: {
+          headers: ["Type", "Wat het inhoudt", "Wie draagt de last", "Typische discussie bij verkoop"],
+          rows: [
+            ["Recht van doorgang", "Buur mag over uw grond passeren", "Uw woning (dienend erf)", "Staat het in de akte? Hoe breed? Voor voertuigen?"],
+            ["Recht van uitweg", "Wettelijke doorgang voor een ingesloten perceel", "Meestal het best gelegen buurperceel", "Vergoeding en ligging van het tracé"],
+            ["Gemene muur of afsluiting", "Scheidingsmuur of haag in mede-eigendom", "Beide buren, elk voor hun aandeel", "Wie betaalt herstel of afbraak"],
+            ["Lichten en zichten", "Vensters of terrassen te dicht bij de grens", "De buur die inkijk ondergaat", "Vergunde toestand of gedoogde inbreuk"],
+            ["Leidingen en nutsvoorzieningen", "Kabels of buizen door uw grond", "Uw woning", "Bereikbaarheid en herstelwerken"],
+          ],
+        },
+      },
+      {
+        heading: "Hoe ontstaat een erfdienstbaarheid?",
+        body: "Voor uw verkoop is dit meer dan een academische vraag. Een erfdienstbaarheid die netjes in een oude notariële akte staat, vindt de notaris terug. Een erfdienstbaarheid die nooit op papier is gezet, kan onaangenaam opduiken tijdens de onderhandelingen.\n\n• **Door titel**: de meest zuivere vorm. Twee eigenaars komen iets overeen en leggen dat vast in een **notariële akte**, die vervolgens wordt overgeschreven. Zo is het recht ook tegenwerpelijk aan latere kopers en derden.\n• **Door verjaring**: sinds de hervorming van 2021 kunnen in de regel **alle zichtbare erfdienstbaarheden** door verjaring ontstaan. Het oude onderscheid tussen voortdurende en niet-voortdurende erfdienstbaarheden is verlaten. Concreet: ook een zichtbaar recht van overgang kan met de tijd een echt recht worden. De termijn bedraagt doorgaans **dertig jaar**, en in bepaalde gevallen van goede trouw korter. **Niet-zichtbare** erfdienstbaarheden kunnen niet door louter gebruik ontstaan.\n• **Door bestemming van de huisvader** (in het nieuwe wetboek: bestemming door de eigenaar): één eigenaar bezit twee percelen, richt een blijvende situatie in tussen beide (bijvoorbeeld één gemeenschappelijke oprit) en splitst nadien. De feitelijke toestand kan dan een erfdienstbaarheid worden.\n• **Door de wet**: de bekendste is het **recht van uitweg** voor een **ingesloten perceel**. Wie geen toegang heeft tot de openbare weg, of enkel tegen onredelijke kosten of ongemakken, kan een uitweg vragen over het buurperceel. In de regel legt de **vrederechter** de ligging vast, tegen een **vergoeding** die evenredig is met de schade. De wet voorziet uitsluitingsgronden, bijvoorbeeld wanneer de insluiting het gevolg is van een fout van de eigenaar zelf.\n\nEen erfdienstbaarheid is dus niet altijd een keurig gedocumenteerd recht. Precies daarom loont het om vóór de verkoop met de notaris uit te klaren wat er speelt.",
+        table: {
+          headers: ["Ontstaanswijze", "Bewijs", "Zichtbaar vereist?", "Aandachtspunt bij verkoop"],
+          rows: [
+            ["Titel (notariële akte)", "De akte zelf", "Nee", "Notaris vindt dit terug in de titels"],
+            ["Verjaring", "Langdurig zichtbaar gebruik", "Ja, in de regel", "Vaak nergens vermeld, toch bindend"],
+            ["Bestemming door de eigenaar", "Feitelijke toestand bij splitsing", "Ja, in de regel", "Duikt op bij oude opsplitsingen"],
+            ["Wet (recht van uitweg)", "Vonnis of overeenkomst", "Niet van toepassing", "Vergoeding en tracé moeten vastliggen"],
+          ],
+        },
+      },
+      {
+        heading: "Uw informatieplicht: wat u moet melden, en wat er gebeurt als u zwijgt",
+        body: "Als verkoper hebt u een **informatieplicht**. Alle erfdienstbaarheden die u kent, moeten worden meegedeeld aan de kandidaat-koper en horen **uitdrukkelijk in het compromis en in de notariële akte**. De notaris neemt daarvoor gewoonlijk een clausule op waarin de verkoper verklaart welke erfdienstbaarheden hij kent en welke uit de titels blijken.\n\nZwijgt u over een gekende erfdienstbaarheid, dan zijn er verschillende sporen waarlangs een koper u kan aanspreken:\n\n• **Vrijwaring voor uitwinning**: de verkoper moet instaan voor het rustig genot van het verkochte goed. Wordt de woning belast door een **niet-zichtbare erfdienstbaarheid** die niet werd aangegeven en die zo zwaar weegt dat de koper het goed anders niet had gekocht, dan kan hij in de regel de **ontbinding** van de verkoop vorderen, of schadevergoeding aanvaarden.\n• **Vrijwaring voor eigen daad**: die kunt u contractueel niet uitsluiten. Een clausule die u indekt tegen uw eigen verzwijging houdt geen stand.\n• **Verborgen gebreken en bedrog**: wie bewust iets achterhoudt, komt er met een standaardclausule \"verkocht in de staat waarin het zich bevindt\" doorgaans niet mee weg. Meer daarover leest u in ons artikel over [verborgen gebreken bij een woningverkoop](/kennisbank/verborgen-gebreken-woning-verkoop-belgie).\n\nBelangrijke nuance: een erfdienstbaarheid die **zichtbaar** is (een gebruikte oprit, een pad, een venster op de scheidingsmuur) wordt geacht voor de koper waarneembaar te zijn. De koper kan zich daar moeilijker op beroepen dan op een verborgen last. Dat is geen vrijgeleide om te zwijgen: het is net eenvoudiger om alles correct in het compromis te zetten. Hoe zo'n compromis is opgebouwd, leest u in ons artikel over [het compromis bij een woningverkoop](/kennisbank/compromis-verkoop-woning-belgie) en in ons artikel over [verkoopbelofte, compromis en akte](/kennisbank/verkoopbelofte-compromis-akte).",
+      },
+      {
+        heading: "De erfdienstbaarheid volgt het goed: wat betekent dat voor de koper?",
+        body: "Een erfdienstbaarheid is een **zakelijk recht** en volgt daarom het erf. Bij verkoop verdwijnt ze dus niet: de koper neemt het dienend erf over **mét** de last, en de eigenaar van het heersend erf behoudt zijn recht. Het klassieke uitgangspunt luidt dat koop de erfdienstbaarheid niet breekt.\n\nDaarop bestaat één praktisch belangrijke nuance. Voor de **tegenwerpelijkheid aan derden te goeder trouw** speelt de **onroerende publiciteit** een rol: rechten die zijn overgeschreven in de registers zijn tegenwerpelijk. Een erfdienstbaarheid die nergens is overgeschreven maar wel **zichtbaar op het terrein** is, kan een koper doorgaans evenmin negeren, want hij kon ze zien. Wie een koper wil zijn die zich achteraf op onwetendheid beroept, staat dus zelden sterk. Laat de exacte draagwijdte in uw dossier bevestigen door uw notaris.\n\nVoor u als verkoper betekent dit vooral: u hoeft de erfdienstbaarheid niet op te lossen om te kunnen verkopen. U moet ze correct beschrijven. Een koper die vooraf weet dat de buur over de zijstrook naar zijn garage rijdt, kan dat inprijzen. Een koper die dat pas achteraf ontdekt, gaat op zoek naar een advocaat.",
+      },
+      {
+        heading: "Hoe eindigt een erfdienstbaarheid, en wat doet ze met uw waarde?",
+        body: "Een erfdienstbaarheid is niet noodzakelijk eeuwig. De belangrijkste manieren waarop ze in de regel eindigt:\n\n• **In onderling akkoord**: de eigenaar van het heersend erf doet afstand van zijn recht. Dat gebeurt bij voorkeur in een **notariële akte**, die wordt overgeschreven, zodat het ook voor latere kopers duidelijk is. Vaak gebeurt dat tegen een vergoeding.\n• **Door dertig jaar niet-gebruik**: wordt de erfdienstbaarheid gedurende dertig jaar niet uitgeoefend, dan kan ze in de regel tenietgaan. Let op: dit werkt niet automatisch. De eigenaar van het dienend erf moet die **bevrijdende verjaring inroepen**, en het bewijs van dertig jaar niet-gebruik is in de praktijk niet vanzelfsprekend.\n• **Door vermenging of samensmelting**: komen het dienend en het heersend erf in dezelfde handen, dan verliest de erfdienstbaarheid haar bestaansreden en dooft ze uit.\n• **Doordat ze nutteloos wordt**: krijgt een vroeger ingesloten perceel bijvoorbeeld een eigen toegang tot de openbare weg, dan kan het recht van uitweg vervallen. Doorgaans is daar een rechterlijke tussenkomst of een akkoord voor nodig.\n• **Door een afgesproken termijn**: als de akte een einddatum bevat, eindigt het recht op die datum.\n\n**Impact op de waarde.** Een courante, beperkte erfdienstbaarheid, zoals een smal pad naar de achterliggende tuin of een leiding onder de oprit, weegt in de regel licht door. Vervelender wordt het wanneer de erfdienstbaarheid het **bouwpotentieel** aantast: een doorgang die pal over de enige bouwzone loopt, een strook die niet gesloten mag worden, of een recht van uitweg dat een verkaveling in de weg staat. Dan zien kandidaat-kopers hun plannen krimpen en zakt hun bod.\n\nDe grootste waardevernietiger is echter niet de erfdienstbaarheid zelf, maar de **onzekerheid** errond: een recht van doorgang dat al veertig jaar gebruikt wordt maar nergens beschreven staat, een discussie met de buur over de breedte van het tracé, of een muur waarvan niemand weet of hij gemeen is. Kandidaat-kopers met een lening rekenen dat risico dubbel door, en soms haakt de bank af. Precies zoals bij een [stedenbouwkundige overtreding](/kennisbank/stedenbouwkundige-overtreding-woning-verkopen) geldt: een duidelijk beschreven probleem kost minder dan een vaag probleem.",
+      },
+      {
+        heading: "Verkopen in de huidige staat aan een professionele koper",
+        body: "Wilt u de discussie over doorgang, gemene muur of inkijk niet eerst uitvechten met de buren, dan is er een tweede route. **wijkopenpanden.be** koopt panden in de **regio Antwerpen** aan in de **huidige staat**, dus ook woningen die belast zijn met een erfdienstbaarheid, met een betwiste doorgang of met een muur waarover geen enkel papier bestaat.\n\nHoe dat verloopt:\n\n• U bezorgt ons de gegevens van het pand. U krijgt **binnen 2 uur een reactie** op uw aanvraag.\n• Na een **plaatsbezoek** ontvangt u een **schriftelijk bod**. Wij bekijken de erfdienstbaarheid met de kennis van een professional en verrekenen ze in ons bod, in plaats van er in extremis over te onderhandelen.\n• Er is **geen commissie**. De **verplichte attesten en de coördinatie met de notaris** zijn inbegrepen.\n• De **akte verlijdt doorgaans binnen 2 tot 3 maanden**.\n\nWij beloven u geen bepaald bedrag en geen garanties. Wat wij wel doen, is u een concreet, schriftelijk bod geven dat u rustig kunt **vergelijken met de klassieke route** via een makelaar. Zo kiest u met volledige informatie wat voor uw dossier het meest oplevert.",
+      },
+    ],
+    relatedArticles: ["verborgen-gebreken-woning-verkoop-belgie", "compromis-verkoop-woning-belgie", "stedenbouwkundige-overtreding-woning-verkopen", "verkoopbelofte-compromis-akte", "keuringen-bij-verkoop-woning", "wat-is-mijn-woning-waard-antwerpen"],
+    relatedSituations: ["opknappand-verkopen", "verkopen-zonder-makelaar"],
+    faqs: [
+      {
+        question: "Moet ik een recht van doorgang melden als het nergens in mijn akte staat?",
+        answer:
+          "Ja. Uw informatieplicht slaat op alles wat u weet, niet alleen op wat in de akte staat. Een doorgang die de buur al jaren gebruikt, kan door verjaring of door bestemming een echt recht zijn geworden, ook zonder papier. Meld de feitelijke toestand aan uw notaris en laat ze beschrijven in het compromis. Zwijgen levert u later een discussie over vrijwaring op, terwijl een correcte beschrijving de verkoop gewoon laat doorgaan.",
+      },
+      {
+        question: "Kan de koper de verkoop verbreken als hij achteraf een erfdienstbaarheid ontdekt?",
+        answer:
+          "Dat kan, maar niet zomaar. Het gaat vooral om niet-zichtbare erfdienstbaarheden die niet werden aangegeven en die zo zwaar wegen dat mag worden aangenomen dat de koper het goed anders niet had gekocht. In dat geval kan hij in de regel de ontbinding van de verkoop vorderen, of kiezen voor schadevergoeding of prijsvermindering. Bij een zichtbare erfdienstbaarheid, zoals een gebruikt pad, staat de koper doorgaans zwakker, omdat hij die kon waarnemen. Laat u bij een betwisting altijd bijstaan door uw notaris of een advocaat.",
+      },
+      {
+        question: "Verdwijnt een erfdienstbaarheid als ik mijn woning verkoop?",
+        answer:
+          "Nee. Een erfdienstbaarheid is een zakelijk recht dat op het perceel rust en niet op de persoon. Bij verkoop gaat de last mee over op de koper, en het voordeel blijft bij de eigenaar van het heersend erf. U hoeft de erfdienstbaarheid dus niet weg te werken om te kunnen verkopen, u moet ze wel correct meedelen en laten opnemen in de akte.",
+      },
+      {
+        question: "Hoe raak ik af van een oude erfdienstbaarheid die niemand nog gebruikt?",
+        answer:
+          "Er zijn twee realistische wegen. De eerste is een akkoord met de eigenaar van het heersend erf, die afstand doet van zijn recht, bij voorkeur in een notariële akte die wordt overgeschreven, eventueel tegen een vergoeding. De tweede is de bevrijdende verjaring na dertig jaar niet-gebruik, maar die werkt niet automatisch: u moet ze inroepen en het niet-gebruik bewijzen. Ook vermenging speelt: koopt u het buurperceel, dan dooft de erfdienstbaarheid tussen beide erven uit. Vraag uw notaris wat in uw dossier haalbaar is.",
+      },
+      {
+        question: "Wat is het verschil tussen een recht van doorgang en een recht van uitweg?",
+        answer:
+          "Een recht van doorgang ontstaat door menselijk toedoen: een overeenkomst in een akte, verjaring door zichtbaar gebruik, of bestemming door een vroegere eigenaar van beide percelen. Een recht van uitweg is een wettelijke erfdienstbaarheid ten voordele van een ingesloten perceel dat geen redelijke toegang heeft tot de openbare weg. Wordt er geen akkoord gevonden, dan legt in de regel de vrederechter de ligging vast, tegen een vergoeding die evenredig is met de schade voor het belaste perceel. De wet voorziet ook uitsluitingsgronden, bijvoorbeeld wanneer de insluiting aan de eigenaar zelf te wijten is.",
+      },
+      {
+        question: "Koopt wijkopenpanden.be een woning die belast is met een erfdienstbaarheid?",
+        answer:
+          "Ja. Wij kopen panden in de regio Antwerpen aan in de huidige staat, inclusief woningen met een recht van doorgang, een gemene muur of een betwisting over lichten en zichten. U krijgt binnen 2 uur een reactie op uw aanvraag en na een plaatsbezoek een schriftelijk bod, zonder commissie, met de verplichte attesten en de coördinatie met de notaris inbegrepen. De akte verlijdt doorgaans binnen 2 tot 3 maanden. U kunt dat bod rustig vergelijken met de klassieke route via een makelaar.",
+      },
+    ],
+  },
+  {
+    slug: "belastingschulden-bij-verkoop-notariele-notificatie",
+    title: "Verkopen met openstaande belastingschulden: de notariële notificatie en wat de notaris inhoudt van de verkoopprijs",
+    metaTitle: "Belastingschulden bij verkoop: de notariële notificatie",
+    metaDescription:
+      "Verkopen met openstaande belastingschulden kan. De notaris verwittigt de fiscus en de RSZ, houdt de schuld in op de verkoopprijs en stort ze door.",
+    publishedAt: "2026-07-12",
+    updatedAt: "2026-07-12",
+    intro:
+      "Ja, u kunt uw woning verkopen terwijl u nog belastingschulden hebt. Openstaande onroerende voorheffing, personenbelasting, btw of sociale bijdragen blokkeren de verkoop niet: de notaris moet die schulden wel opsporen, en hij houdt het openstaande bedrag in op de verkoopprijs vooraleer hij u het saldo uitbetaalt.\n\nDat verloopt via de **notariële notificatie**: nog vóór de akte verwittigt de notaris de FOD Financiën (en waar nodig de RSZ) van de geplande verkoop. Die diensten krijgen een korte termijn om te melden hoeveel u nog verschuldigd bent. In dit artikel leest u hoe die notificatie werkt, welke termijnen gelden, wat er gebeurt als uw schuld hoger is dan de opbrengst, wie de onroerende voorheffing van het lopende jaar draagt, en hoe de notaris uw hypotheek aflost.",
+    sections: [
+      {
+        heading: "Wat is de notariële notificatie precies?",
+        body: "Voor hij een verkoopakte verlijdt, is de notaris **wettelijk verplicht** om de bevoegde ontvanger van de FOD Financiën te verwittigen. Dat gebeurt elektronisch, via een beveiligd berichtensysteem tussen het notariaat en de administratie. Het doel is eenvoudig: de fiscus de kans geven om te controleren of de verkoper nog schulden heeft, vóór het geld naar de verkoper vertrekt.\n\nDie meldingsplicht stond vroeger in de artikelen 433 en volgende van het Wetboek van de inkomstenbelastingen 1992, met parallelle bepalingen voor de btw. Sinds 1 januari 2020 zijn die regels grotendeels gebundeld in het **Wetboek van de minnelijke en gedwongen invordering van fiscale en niet-fiscale schuldvorderingen** (kortweg het Invorderingswetboek). De kern van het mechanisme is niet veranderd: notificatie door de notaris, kennisgeving door de ontvanger, inhouding op de prijs.\n\nDe notificatie slaat niet alleen op de personenbelasting. Ze dekt in de regel het geheel van de fiscale en bepaalde niet-fiscale schuldvorderingen die de FOD Financiën invordert, en dus onder meer:\n\n• **onroerende voorheffing** (in Vlaanderen geïnd door de Vlaamse Belastingdienst, met een eigen kennisgevingsprocedure)\n• **personenbelasting** en aanvullende gemeentebelasting\n• **btw**, bijvoorbeeld bij een zelfstandige of een vennootschap\n• **boetes en nalatigheidsintresten** die bij die schulden horen\n\nVoor achterstallige **sociale bijdragen** bestaat een gelijkaardige regeling: ook de RSZ (en voor zelfstandigen het sociaal verzekeringsfonds) kan via de notaris betaald worden uit de verkoopprijs. De precieze werkwijze verschilt per instelling, maar het principe is identiek.\n\nBelangrijk om te begrijpen: die notificatie is **geen sanctie en geen alarmbel**. Ze gebeurt bij élke verkoop, ook wanneer de verkoper niets verschuldigd is. Ze is een routinecontrole, geen dossier tegen u.",
+      },
+      {
+        heading: "De termijnen: 12 werkdagen voor de fiscus, 8 dagen voor de notaris",
+        body: "Zodra de notaris zijn bericht heeft verstuurd, begint een strikte klok te lopen. De ontvanger moet de notaris **vóór het verstrijken van de twaalfde werkdag** die volgt op de verzending van dat bericht in kennis stellen van het bedrag dat nog openstaat. Die **kennisgeving** vermeldt het bedrag aan belastingen, intresten en toebehoren waarvoor de administratie zich op de opbrengst kan verhalen.\n\nDie kennisgeving heeft een zware juridische draagwijdte. Eenmaal de akte verleden is, geldt ze in hoofde van de notaris als een **beslag onder derden** op de sommen die hij voor rekening van de verkoper onder zich houdt, en als **verzet tegen de prijs**. De notaris mag dat bedrag dus niet aan u uitbetalen. Hij moet het, in de regel binnen **acht werkdagen na het verlijden van de akte**, doorstorten aan de ontvanger. Pas wat daarna overblijft, is voor u.\n\nWat als de fiscus niet reageert binnen de twaalf werkdagen? Dan mag de notaris in principe uitbetalen aan de verkoper: de administratie verliest haar greep op de verkoopprijs en kan haar wettelijke hypotheek niet meer laten spelen tegenover de koper. Let wel: **uw schuld verdwijnt daarmee niet**. Ze blijft gewoon bestaan en kan later op een andere manier ingevorderd worden. Het stilzitten van de fiscus is dus geen kwijtschelding.\n\nIn de praktijk vraagt de notaris u vaak om de schuld nog vóór de akte zelf te betalen, of hij houdt de nodige gelden in en betaalt ze op het moment van de akte door. Beide wegen leiden tot hetzelfde resultaat.",
+        table: {
+          headers: ["Stap", "Wie", "Termijn", "Gevolg"],
+          rows: [
+            ["Notificatie van de geplande akte", "Notaris", "Vóór het verlijden van de akte", "De klok begint te lopen"],
+            ["Kennisgeving van het openstaande bedrag", "Ontvanger (FOD Financiën)", "Vóór het einde van de 12e werkdag na verzending", "Bedrag wordt geblokkeerd op de prijs"],
+            ["Doorstorting aan de schuldeiser", "Notaris", "In de regel binnen 8 werkdagen na de akte", "Schuld wordt aangezuiverd uit de opbrengst"],
+            ["Geen reactie van de administratie", "—", "Na afloop van de 12 werkdagen", "Notaris mag het saldo uitbetalen; de schuld zelf blijft bestaan"],
+          ],
+        },
+      },
+      {
+        heading: "Wat als de schuld hoger is dan de verkoopprijs?",
+        body: "De notaris kan alleen verdelen wat er is. Volstaat de opbrengst niet om alle schuldeisers te voldoen, dan wordt de prijs verdeeld volgens de **rangorde van de schuldeisers**: eerst de kosten, dan de bijzondere voorrechten en hypotheken volgens hun inschrijvingsdatum, daarna de gewone schuldeisers. De hypothecaire bank staat daarbij doorgaans vooraan, omdat haar inschrijving meestal ouder is.\n\nZijn er meerdere schuldeisers en is er te weinig geld, dan kan de notaris de sommen niet zomaar zelf verdelen. Er komt dan een **rangregeling** (een verdelingsprocedure), waarbij een gerechtelijke of minnelijke verdeling van de prijs plaatsvindt. Dat vraagt tijd, maar het blokkeert de verkoop zelf niet: de koper krijgt zijn eigendom, alleen de uitbetaling van de opbrengst wordt geregeld.\n\nBlijft er na verdeling nog een saldo openstaan, dan spreekt men van een **restschuld**. Die verdwijnt niet: u blijft ze verschuldigd aan de fiscus, de RSZ of de bank. Wat wél gebeurt, is dat het openstaande bedrag fors daalt en dat de rente en de verhogingen stoppen te lopen op het aangezuiverde deel. Voor veel eigenaars is dat precies de reden om te verkopen: **de schuld bevriezen vóór ze verder aangroeit**.\n\nWie in die situatie zit, doet er goed aan met de invorderingsdienst zelf contact op te nemen. De FOD Financiën kan in bepaalde gevallen een **afbetalingsplan** toestaan voor het resterende bedrag. Meer over de bredere aanpak bij schulden leest u in ons artikel over [huis verkopen bij betalingsproblemen en schulden](/kennisbank/huis-verkopen-bij-betalingsproblemen-schulden).",
+      },
+      {
+        heading: "Onroerende voorheffing in het jaar van de verkoop: wie betaalt?",
+        body: "Hier wordt vaak een denkfout gemaakt. De regel is duidelijk: **de eigenaar op 1 januari van het aanslagjaar is de wettelijke schuldenaar** van de volledige onroerende voorheffing van dat jaar. Verkoopt u uw woning in september, dan blijft de Vlaamse Belastingdienst u — en niet de koper — aanspreken voor het volledige aanslagbiljet van dat jaar.\n\nDe **pro rata verdeling** tussen verkoper en koper is dus geen wettelijke verplichting, maar een **contractuele afspraak** die in het compromis en in de akte wordt opgenomen. Ze verandert niets aan wie de fiscus mag aanspreken; ze regelt enkel wie het uiteindelijk economisch draagt. Staat er niets in het compromis, dan wordt in de regel teruggevallen op het gemeen recht: de koper draagt zijn deel vanaf het moment dat hij het genot van het goed krijgt, doorgaans bij het verlijden van de akte.\n\nEen voorbeeld. De akte wordt verleden op 1 oktober. In de gebruikelijke verrekening draagt de verkoper 9/12 en de koper 3/12 van de voorheffing van dat jaar. De verkoper ontvangt (of betaalt) later het volledige aanslagbiljet, en de koper vergoedt hem zijn deel via de afrekening bij de akte.\n\nTwee praktische gevolgen:\n\n• Laat de verdeling **uitdrukkelijk in het compromis** opnemen. Discussies achteraf gaan bijna altijd over een compromis dat hierover zwijgt.\n• Verwacht niet dat de aanslag automatisch aan de koper wordt gestuurd. U ontvangt hem, en u moet hem betalen — ook al bent u al verhuisd.\n\nBent u de voorheffing van vorige jaren nog schuldig, dan komt die achterstal wel degelijk naar boven bij de notificatie en wordt ze ingehouden op de prijs.",
+        table: {
+          headers: ["Vraag", "Wettelijke regel", "Praktijk bij de akte"],
+          rows: [
+            ["Wie is schuldenaar van de OV?", "De eigenaar op 1 januari van het aanslagjaar", "De verkoper ontvangt het aanslagbiljet en betaalt het"],
+            ["Wie draagt de kost economisch?", "Geen wettelijke verdeelregel", "Pro rata volgens afspraak in compromis en akte"],
+            ["Wat als het compromis zwijgt?", "Gemeen recht", "Koper draagt zijn deel vanaf de ingenottreding"],
+            ["Achterstallige OV van vorige jaren?", "Blijft ten laste van de verkoper", "Wordt ingehouden op de verkoopprijs via de kennisgeving"],
+          ],
+        },
+      },
+      {
+        heading: "De hypothecaire staat, de aflossing en de handlichting",
+        body: "Naast de fiscale notificatie vraagt de notaris ook een **hypothecair getuigschrift** (of hypothecaire staat) op bij de Algemene Administratie van de Patrimoniumdocumentatie. Dat document toont welke **hypothecaire inschrijvingen**, bevelen tot betaling of beslagen op uw pand rusten. Zo weet de notaris precies welke schuldeisers zich op de prijs kunnen verhalen, en in welke volgorde.\n\nStaat er nog een hypotheek op uw woning, dan vraagt de notaris bij uw bank een **afrekening van het openstaande saldo** op de datum van de akte, inclusief eventuele wederbeleggingsvergoeding. Op de dag van de akte betaalt hij de bank rechtstreeks uit de verkoopprijs. Daarna regelt hij de **handlichting**: de formele opheffing en doorhaling van de hypothecaire inschrijving, zodat de koper een onbezwaard goed verkrijgt. Aan die handlichting hangt een kostprijs vast (erelonen, aktekosten en de kosten van doorhaling), die doorgaans ten laste van de verkoper komt.\n\nDe volgorde van uitbetaling bij de akte ziet er in de praktijk zo uit:\n\n• eerst de hypothecaire schuldeiser (uw bank), volgens de hypothecaire staat\n• dan de bedragen die via een kennisgeving of beslag geblokkeerd zijn (fiscus, RSZ, andere schuldeisers)\n• dan de kosten die contractueel ten laste van de verkoper vallen, zoals de handlichting en de verplichte attesten\n• pas daarna het **saldo voor u**\n\nMeer over de rol en de kostprijs van de notaris leest u in ons artikel over [notariskosten bij de verkoop van een woning](/kennisbank/notariskosten-woning-verkoop). Hoe een verkoop met een lopend krediet verloopt, behandelen we in ons artikel over [een huis verkopen met een hypotheek](/kennisbank/huis-verkopen-met-hypotheek). Wilt u vooraf een realistisch beeld van wat er van de prijs overblijft, dan helpt ons artikel over [uw verkoopkosten berekenen](/kennisbank/verkoop-kosten-berekenen).",
+      },
+      {
+        heading: "Verkopen in de huidige staat aan een professionele koper",
+        body: "Wie met belastingschulden zit, heeft vaak vooral behoefte aan **zekerheid en snelheid**: weten wat er van de opbrengst overblijft, en weten wanneer. Een klassieke verkoop kan lang duren, vraagt vaak eerst nog opknapwerk, en de uiteindelijke prijs staat pas vast wanneer een koper zijn financiering rond krijgt. In die tussentijd blijven intresten en verhogingen lopen.\n\nEen rechtstreekse verkoop aan een professionele koper is dan een alternatief dat het overwegen waard is. **Wijkopenpanden.be** koopt panden in de **regio Antwerpen** aan in de **huidige staat**. U krijgt **binnen 2 uur een reactie** op uw aanvraag. Na een **plaatsbezoek** volgt een **schriftelijk bod**. U betaalt **geen commissie**, en de **verplichte attesten en de coördinatie met de notaris zijn inbegrepen**. De akte wordt **doorgaans binnen 2 tot 3 maanden** verleden.\n\nOok bij een verkoop aan ons verloopt de fiscale notificatie exact zoals hierboven beschreven: de notaris verwittigt de administratie, houdt het genotificeerde bedrag in en stort het door. U hoeft dus niets vooraf te regelen met de fiscus; u hoeft het alleen niet te verzwijgen.\n\nVergelijk ons bod gerust met wat de klassieke route u zou opleveren, kosten en doorlooptijd meegerekend. Zo kiest u met volledige informatie.",
+      },
+    ],
+    relatedArticles: ["huis-verkopen-bij-betalingsproblemen-schulden", "notariskosten-woning-verkoop", "huis-verkopen-met-hypotheek", "verkoop-kosten-berekenen", "belastingen-bij-woningverkoop", "snel-geld-vrijmaken-woning"],
+    relatedSituations: ["verkopen-zonder-makelaar", "opknappand-verkopen"],
+    faqs: [
+      {
+        question: "Kan ik mijn woning verkopen als ik nog belastingen moet betalen?",
+        answer:
+          "Ja. Een openstaande belastingschuld is geen beletsel om te verkopen. De notaris is wel verplicht de FOD Financiën te verwittigen van de geplande akte, zodat de administratie kan melden wat u nog verschuldigd bent. Dat bedrag wordt dan ingehouden op de verkoopprijs en rechtstreeks doorgestort. U ontvangt het saldo dat daarna overblijft.",
+      },
+      {
+        question: "Hoeveel tijd heeft de fiscus om te reageren op de notificatie van de notaris?",
+        answer:
+          "De bevoegde ontvanger moet de notaris in kennis stellen van het openstaande bedrag vóór het verstrijken van de twaalfde werkdag die volgt op de verzending van het bericht. Reageert hij binnen die termijn, dan geldt die kennisgeving als een beslag in handen van de notaris. Reageert hij niet, dan mag de notaris het saldo in principe uitbetalen aan de verkoper. Uw schuld blijft dan wel gewoon bestaan en kan later langs een andere weg ingevorderd worden.",
+      },
+      {
+        question: "Wat gebeurt er als mijn schulden hoger zijn dan de verkoopprijs?",
+        answer:
+          "Dan wordt de opbrengst verdeeld volgens de rangorde van de schuldeisers: doorgaans eerst de hypothecaire bank, dan de schuldeisers die tijdig verzet hebben aangetekend. Zijn er meerdere schuldeisers en volstaat de prijs niet, dan volgt een rangregeling. Het saldo dat daarna nog openstaat, blijft u verschuldigd als restschuld. Neem in dat geval contact op met de invorderingsdienst: een afbetalingsplan is in bepaalde gevallen mogelijk.",
+      },
+      {
+        question: "Wie betaalt de onroerende voorheffing in het jaar dat ik verkoop?",
+        answer:
+          "Wettelijk is de eigenaar op 1 januari van het aanslagjaar de schuldenaar van de volledige onroerende voorheffing van dat jaar. U ontvangt dus het aanslagbiljet, ook al hebt u de woning in de loop van het jaar verkocht. In de praktijk wordt de voorheffing pro rata verdeeld tussen verkoper en koper via een afspraak in het compromis en de akte. Dat is een contractuele afspraak, geen wettelijke verplichting, dus laat ze uitdrukkelijk opnemen.",
+      },
+      {
+        question: "Verwittigt de notaris ook de RSZ of mijn sociaal verzekeringsfonds?",
+        answer:
+          "Voor achterstallige sociale bijdragen bestaat een gelijkaardige regeling als voor de fiscale schulden. De notaris volgt dezelfde werkwijze: hij verwittigt de bevoegde instelling en houdt het gemelde bedrag in op de verkoopprijs om het door te storten. Dit speelt vooral bij zelfstandigen en vennootschappen met een RSZ-achterstal. Uw notaris kan u exact zeggen welke instellingen in uw dossier bevraagd worden.",
+      },
+      {
+        question: "Koopt wijkopenpanden.be ook panden van eigenaars met belastingschulden?",
+        answer:
+          "Ja. Wij kopen panden in de regio Antwerpen aan in de huidige staat, ook wanneer er nog een hypotheek, een beslag of een fiscale schuld op rust. De notaris regelt de aflossing en de inhoudingen bij de akte, zoals bij elke andere verkoop. U krijgt binnen 2 uur een reactie op uw aanvraag en na een plaatsbezoek een schriftelijk bod, zonder commissie. Vergelijk dat bod gerust met de klassieke verkoopweg.",
+      },
+    ],
+  },
+  {
+    slug: "woning-verkopen-met-minderjarige-eigenaar",
+    title: "Een woning verkopen waarvan een minderjarig kind mede-eigenaar is: machtiging van de vrederechter, procedure en geblokkeerde rekening",
+    metaTitle: "Woning verkopen met minderjarige mede-eigenaar",
+    metaDescription:
+      "Erft uw kind een woning? Voor de verkoop is een machtiging van de vrederechter nodig. Zo verloopt de procedure bij de notaris en het vredegerecht.",
+    publishedAt: "2026-07-12",
+    updatedAt: "2026-07-12",
+    intro:
+      "Ja, u kunt een woning verkopen waarvan een minderjarig kind (mede-)eigenaar is, maar niet op eigen houtje: u hebt daarvoor een **machtiging van de vrederechter** nodig. Ouders beheren wel het vermogen van hun minderjarige kind, maar de verkoop van een onroerend goed is een **daad van beschikking** en die valt buiten dat gewone beheer. De rechter toetst één ding: het **belang van het kind**. Die situatie duikt vooral op na een overlijden, wanneer de kinderen mee erven en de langstlevende ouder het huis wil verkopen. In dit artikel leest u wie moet machtigen, wat de vrederechter beoordeelt, of een onderhandse verkoop volstaat, wat er met het geld van het kind gebeurt en wat dit betekent voor uw doorlooptijd.",
+    sections: [
+      {
+        heading: "Waarom een minderjarige mede-eigenaar de verkoop verandert",
+        body: "Een minderjarige is **handelingsonbekwaam**: hij of zij kan niet zelf een compromis of een notariële akte tekenen. De ouders die het ouderlijk gezag uitoefenen, beheren het vermogen van het kind en vertegenwoordigen het. Dat beheer heeft echter grenzen.\n\nDe wet maakt een onderscheid tussen **daden van beheer** en **daden van beschikking**:\n\n• **Beheer**: onderhoudswerken laten uitvoeren, de huur innen, de verzekering en de belastingen betalen. Dat mag de ouder in de regel zelfstandig.\n• **Beschikking**: het onroerend goed verkopen, wegschenken, hypothekeren of erover een zakelijk recht vestigen. Daarvoor is een **voorafgaande machtiging van de vrederechter** vereist (klassiek: artikel 378 van het Burgerlijk Wetboek, in samenlezing met artikel 410).\n\nDat geldt ook wanneer het kind slechts een **klein aandeel** in het pand heeft. Erft een kind bijvoorbeeld een derde in blote eigendom na het overlijden van een ouder, dan is voor dat derde evengoed een machtiging nodig. De verkoop van het volledige pand kan met andere woorden niet doorgaan zonder de rechter, ook al zijn alle meerderjarige mede-eigenaars het onderling eens.\n\nDe sanctie is stevig. Ontbreekt de machtiging, dan is de verkoop aantastbaar met **nietigheid** — een nietigheid die het kind (of zijn vertegenwoordiger) kan inroepen, ook tegenover een koper die te goeder trouw was. Geen enkele notaris zal zo'n akte dan ook verlijden. Notarissen en kopers controleren daarom systematisch of er geen minderjarige in de eigendomsstructuur zit.\n\nEen vergelijkbare regeling bestaat voor een **meerderjarige onder bewind**: ook daar moet de bewindvoerder eerst de vrederechter om toestemming vragen. Dat werken wij apart uit in ons artikel over een woning verkopen onder bewind.",
+      },
+      {
+        heading: "Wat de vrederechter toetst en welke voorwaarden hij kan opleggen",
+        body: "De vrederechter geeft geen automatische goedkeuring. Hij beoordeelt of de verkoop **in het belang van het kind** is en motiveert dat. Argumenten die in de praktijk aan bod komen: het pand staat leeg en gaat achteruit, de lasten (onroerende voorheffing, verzekering, syndicuskosten, hypotheek) wegen zwaarder door dan de opbrengst, het gezin moet verhuizen, of de onverdeeldheid met andere erfgenamen is onhoudbaar.\n\nDe rechter kan de machtiging weigeren, maar hij kan ze ook **onder voorwaarden** verlenen. Veel voorkomende voorwaarden:\n\n• een **minimumprijs** waaronder niet verkocht mag worden;\n• de verplichting om **openbaar** te verkopen in plaats van onderhands;\n• de verplichting om het aandeel van het kind op een **geblokkeerde rekening** op naam van het kind te storten;\n• een specifieke bestemming of belegging van de opbrengst.\n\nBelangrijk: de ouder mag zich in principe **niet verbinden vóór** de machtiging er is. Rechtspraak aanvaardt niet zomaar dat een ouder eerst tekent en de goedkeuring van de vrederechter als opschortende voorwaarde inbouwt. De veilige — en in de praktijk gangbare — werkwijze is dan ook: eerst een concreet bod en een **ontwerp van akte** bij de notaris, dan het verzoekschrift, dan pas de handtekening. Een koper moet dus aanvaarden dat er in die tussenperiode nog geen bindend compromis ligt. Meer over het onderscheid tussen bod, compromis en akte leest u in ons artikel over de verkoopbelofte, het compromis en de akte.",
+        table: {
+          headers: ["Handeling", "Wie beslist", "Machtiging vrederechter?"],
+          rows: [
+            ["Onderhoudswerken, huur innen", "Ouder (beheer)", "In de regel niet"],
+            ["Erfenis aanvaarden of verwerpen namens het kind", "Ouder", "Ja"],
+            ["Woning van het kind verkopen", "Ouder", "Ja, vooraf"],
+            ["Hypotheek vestigen op het aandeel van het kind", "Ouder", "Ja, vooraf"],
+            ["Geld van de geblokkeerde rekening halen", "Ouder", "Ja"],
+          ],
+        },
+      },
+      {
+        heading: "Onderhandse verkoop of openbare verkoop?",
+        body: "Een **onderhandse verkoop is mogelijk**, maar niet vanzelf. De wetgeving vertrekt van de idee dat goederen van een handelingsonbekwame beschermd moeten worden; het Gerechtelijk Wetboek voorziet daarom uitdrukkelijk zowel de openbare verkoop als de mogelijkheid om **onderhands** te verkopen mits uitdrukkelijke machtiging (de bekende artikelen 1193bis en 1193ter Ger.W.). De rechter moet dus expliciet toelaten dat er niet openbaar verkocht wordt.\n\nOm die toelating te krijgen, wil de vrederechter doorgaans zien dat de prijs marktconform is. In de praktijk vraagt hij daarom vrijwel altijd een **schattingsverslag** van een landmeter-expert of een andere erkende schatter, samen met een **ontwerp van verkoopakte** opgesteld door de notaris. De rechter kan de opgegeven prijs ook laten toetsen en kan de partijen of de schatter oproepen.\n\nWordt de prijs als te laag beschouwd, dan kan de rechter de machtiging weigeren of een openbare verkoop opleggen — met de bedoeling dat de markt zelf de prijs bepaalt. Wie in Vlaanderen openbaar verkoopt, komt vandaag meestal bij het online platform terecht; hoe dat werkt, leest u in ons artikel over een woning verkopen via Biddit.",
+        table: {
+          headers: ["", "Onderhandse verkoop", "Openbare verkoop"],
+          rows: [
+            ["Mogelijk bij minderjarige eigenaar", "Ja, mits uitdrukkelijke machtiging", "Ja, kan door de rechter opgelegd worden"],
+            ["Prijs", "Vaste prijs uit het ontwerp van akte", "Bepaald door het bieden"],
+            ["Wat de rechter meestal vraagt", "Schattingsverslag + ontwerpakte", "Verkoopvoorwaarden van de notaris"],
+            ["Zekerheid over de koper", "Hoog, één gekende koper", "Lager, afhankelijk van de opkomst"],
+            ["Doorlooptijd", "Vaak korter", "Vaak langer, met bekendmaking"],
+          ],
+        },
+      },
+      {
+        heading: "Het praktische verloop: van overlijden tot akte",
+        body: "Loopt de eigendom via een nalatenschap, dan komt de vrederechter er zelfs twee keer aan te pas. Ook de **keuze over de nalatenschap** namens het kind — zuiver aanvaarden, aanvaarden onder voorrecht van boedelbeschrijving, of verwerpen — vereist een machtiging van de vrederechter. Sinds de wet van 6 juli 2017 kan een minderjarige een nalatenschap ook zuiver aanvaarden, met machtiging en op voorwaarde dat de baten de lasten kennelijk overstijgen. Pas daarna legt de ouder de verklaring af bij de notaris.\n\nHet verzoek tot machtiging gebeurt met een **verzoekschrift bij het vredegerecht**, doorgaans dat van de woon- of verblijfplaats van het kind (de vrederechter die bevoegd is voor het ouderlijk gezag). In de praktijk stelt uw **notaris** dat dossier samen: hij kent de stukken die de rechter wil zien en maakt het ontwerp van akte. U kunt het verzoekschrift zelf indienen, maar via de notaris verloopt het meestal vlotter.\n\nVerwacht u aan de volgende stappen:\n\n• Overlijden, aangifte en akte van erfopvolging bij de notaris.\n• Machtiging voor de erfkeuze namens het kind, en de verklaring bij de notaris.\n• Schatting van de woning en het zoeken van een koper.\n• Ontwerp van akte + verzoekschrift tot machtiging voor de verkoop.\n• Beschikking van de vrederechter (eventueel met voorwaarden).\n• Compromis of rechtstreeks de notariële akte.\n\nOver de **doorlooptijd** kunnen wij geen belofte doen: die hangt af van het vredegerecht, van de volledigheid van uw dossier en van de vraag of de rechter bijkomende stukken of een zitting wil. Reken op enkele weken tot enkele maanden extra bovenop een gewone verkoop. Wat er verder komt kijken bij een erfenis, zetten wij op een rij in ons erfenis-stappenplan; over de kostenzijde leest u meer in ons artikel over de notariskosten bij een woningverkoop.",
+        table: {
+          headers: ["Stap", "Wie", "Aandachtspunt"],
+          rows: [
+            ["Erfkeuze namens het kind", "Ouder + vrederechter + notaris", "Machtiging nodig, ook om te verwerpen"],
+            ["Schattingsverslag", "Landmeter-expert of schatter", "Vrijwel altijd gevraagd"],
+            ["Verzoekschrift verkoop", "Notaris (of ouder)", "Met ontwerp van akte"],
+            ["Beschikking vrederechter", "Vredegerecht", "Kan voorwaarden opleggen"],
+            ["Akte en afrekening", "Notaris", "Aandeel kind naar geblokkeerde rekening"],
+          ],
+        },
+      },
+      {
+        heading: "Wat gebeurt er met het geld van het kind?",
+        body: "Het aandeel van het kind in de verkoopprijs is **niet vrij besteedbaar** door de ouder. Kapitalen die aan een minderjarige toekomen, worden in de regel door de notaris op een **geblokkeerde rekening op naam van het kind** gestort, en dat blijft zo tot de meerderjarigheid. De vrederechter neemt die verplichting vaak uitdrukkelijk op in zijn beschikking.\n\nWilt u toch aan dat geld — bijvoorbeeld om een nieuwe gezinswoning te kopen, om studies te betalen of om een schuld van de nalatenschap aan te zuiveren — dan hebt u daarvoor **opnieuw een machtiging van de vrederechter** nodig. De rechter beoordeelt telkens of de uitgave het kind ten goede komt. Hetzelfde geldt voor kapitalen uit een overlijdensverzekering die aan het kind toekomen.\n\nHoudt u daar bij uw eigen planning rekening mee. Verkoopt u de gezinswoning met het idee de volledige opbrengst in een nieuwe woning te steken, dan botst u op dit punt: het deel van uw kinderen blijft in principe geblokkeerd. Een courante oplossing is dat het kind mee-eigenaar wordt van de nieuwe woning voor zijn aandeel, maar ook die constructie moet de vrederechter aanvaarden.\n\nZit u daarnaast met **volwassen mede-eigenaars** die niet meewillen, dan speelt nog een andere procedure. Dat werken wij uit in ons artikel over een mede-eigenaar die niet wil verkopen en over verkopen uit onverdeeldheid.",
+      },
+      {
+        heading: "Verkopen in de huidige staat aan een professionele koper",
+        body: "Een dossier met een minderjarige eigenaar vraagt geduld van beide kanten. Kandidaat-kopers op de gewone markt haken soms af zodra ze horen dat er nog een machtiging van de vrederechter moet komen: zij hebben vaak een strak tijdsschema, een lening met een vervaldatum of een eigen woning die verkocht is. Een professionele koper heeft dat probleem niet.\n\n**wijkopenpanden.be** koopt panden in de **regio Antwerpen** aan in de **huidige staat**. U hoeft dus niet eerst op te frissen, leeg te maken of te renoveren — wat in een onverdeeldheid met kinderen sowieso moeilijk ligt, omdat elke uitgave het vermogen van het kind raakt. Concreet: u krijgt **binnen 2 uur een reactie** op uw aanvraag, na een **plaatsbezoek** ontvangt u een **schriftelijk bod**, u betaalt **geen commissie**, en de **verplichte attesten en de coördinatie met de notaris** zitten inbegrepen. De **akte volgt doorgaans binnen 2 tot 3 maanden**, waarbij het ritme uiteraard mee bepaald wordt door de beschikking van de vrederechter.\n\nDat schriftelijke bod is een vast cijfer dat u zwart op wit hebt. U kunt het naast de klassieke route leggen — makelaar, schatting, wachttijd, onderhandeling — en zo met volledige informatie kiezen wat voor uw gezin en voor uw kind het meest opbrengt.",
+      },
+    ],
+    relatedArticles: ["woning-verkopen-onder-bewind", "erfenis-woning-stappenplan", "mede-eigendom-verkopen", "mede-eigenaar-wil-niet-verkopen-uit-onverdeeldheid", "notariskosten-woning-verkoop", "verkoopbelofte-compromis-akte"],
+    relatedSituations: ["huis-verkopen-bij-erfenis"],
+    faqs: [
+      {
+        question: "Kan ik het huis verkopen zonder de vrederechter, als ik als ouder toch alles beheer?",
+        answer:
+          "Nee. Het beheer dat u als ouder uitoefent, dekt daden van beheer zoals onderhoud en het innen van inkomsten, maar niet de verkoop van een onroerend goed. Dat is een daad van beschikking en daarvoor is een voorafgaande machtiging van de vrederechter vereist. Verkoopt u toch zonder machtiging, dan is de verkoop aantastbaar met nietigheid, ook tegenover een koper te goeder trouw. In de praktijk zal geen enkele notaris zo'n akte verlijden.",
+      },
+      {
+        question: "Welke vrederechter is bevoegd en hoe vraag ik de machtiging aan?",
+        answer:
+          "De machtiging wordt gevraagd met een verzoekschrift bij het vredegerecht, in de regel dat van de woon- of verblijfplaats van het kind — de vrederechter die ook bevoegd is voor het ouderlijk gezag. Doorgaans stelt uw notaris het dossier samen: hij voegt een ontwerp van verkoopakte en meestal een schattingsverslag toe. De rechter kan bijkomende stukken vragen of de partijen oproepen. Informeer bij uw notaris of bij de griffie van uw vredegerecht naar de precieze stukken.",
+      },
+      {
+        question: "Moet het pand openbaar verkocht worden?",
+        answer:
+          "Niet noodzakelijk. Een onderhandse verkoop is mogelijk, maar de vrederechter moet dat uitdrukkelijk toelaten; de wet voorziet die uitzondering in het Gerechtelijk Wetboek. Om die toelating te krijgen, wil de rechter meestal aangetoond zien dat de prijs marktconform is, via een schattingsverslag. Vindt hij de prijs te laag of het belang van het kind onvoldoende bewezen, dan kan hij de machtiging weigeren of een openbare verkoop opleggen.",
+      },
+      {
+        question: "Wat gebeurt er met het deel van de verkoopprijs dat aan mijn kind toekomt?",
+        answer:
+          "Dat bedrag wordt in de regel door de notaris op een geblokkeerde rekening op naam van het kind geplaatst, en het blijft geblokkeerd tot de meerderjarigheid. Als ouder kunt u er niet vrij over beschikken. Wilt u het geld gebruiken, bijvoorbeeld voor de aankoop van een nieuwe woning of voor studies, dan hebt u daarvoor opnieuw een machtiging van de vrederechter nodig. De rechter kijkt telkens of de uitgave werkelijk in het belang van het kind is.",
+      },
+      {
+        question: "Hoelang duurt zo'n procedure en wat betekent dat voor de koper?",
+        answer:
+          "Dat varieert sterk en hangt af van het vredegerecht, van de volledigheid van uw dossier en van eventuele bijkomende vragen van de rechter. Reken in de praktijk op enkele weken tot enkele maanden bovenop een gewone verkoop. De koper moet aanvaarden dat de akte pas kan volgen na de beschikking van de vrederechter. Let op: een ouder mag zich in principe niet definitief verbinden vóór de machtiging er is, dus wordt de machtiging meestal eerst gevraagd op basis van een ontwerp van akte.",
+      },
+      {
+        question: "Koopt wijkopenpanden.be ook een woning waarvan een minderjarig kind mede-eigenaar is?",
+        answer:
+          "Ja. Wij kopen panden in de regio Antwerpen aan in de huidige staat, ook wanneer er een minderjarige mede-eigenaar in het spel is en er dus een machtiging van de vrederechter nodig is. U krijgt binnen 2 uur een reactie op uw aanvraag en na een plaatsbezoek een schriftelijk bod, zonder commissie, met de verplichte attesten en de coördinatie met de notaris inbegrepen. De akte volgt doorgaans binnen 2 tot 3 maanden, waarbij het tempo mee bepaald wordt door het vredegerecht. U kunt dat bod rustig vergelijken met de klassieke verkooproute.",
+      },
+    ],
+  },
+  {
+    slug: "woning-verkopen-bij-faillissement-curator",
+    title: "Een woning verkopen bij een faillissement: de rol van de curator en wat er met de gezinswoning van een gefailleerde zelfstandige gebeurt",
+    metaTitle: "Woning verkopen bij faillissement: de rol van de curator",
+    metaDescription:
+      "Bij een faillissement verkoopt de curator de woning, niet de eigenaar. Lees wat de rechter-commissaris beslist en hoe u de gezinswoning beschermt.",
+    publishedAt: "2026-07-12",
+    updatedAt: "2026-07-12",
+    intro:
+      "Bij een faillissement verkoopt niet de eigenaar de woning, maar de **curator**. Vanaf het faillissementsvonnis verliest de gefailleerde van rechtswege het beheer over zijn vermogen — de zogenaamde **buitenbezitstelling** — en neemt de curator dat beheer over, onder toezicht van de **rechter-commissaris** en de **ondernemingsrechtbank**. Wie failliet is verklaard, kan zijn huis dus niet meer op eigen houtje te koop zetten of een compromis tekenen. In dit artikel leest u wie precies beslist, hoe de curator een onroerend goed te gelde maakt (openbaar of onderhands), wat er gebeurt met de **gezinswoning** van een zelfstandige, wat de positie is van een niet-gefailleerde mede-eigenaar, en waarom een verkoop vlak vóór een faillissement achteraf kan worden aangevochten.",
+    sections: [
+      {
+        heading: "Wat verandert er zodra het faillissement is uitgesproken?",
+        body: "Zodra de ondernemingsrechtbank het faillissement uitspreekt, treedt de **buitenbezitstelling** in (artikel XX.110 van het Wetboek van economisch recht). De gefailleerde verliest van rechtswege het beheer over al zijn goederen, ook over goederen die hij tijdens de procedure nog verkrijgt op grond van een oorzaak van vóór het faillissement. Betalingen, verrichtingen en handelingen die de gefailleerde vanaf de dag van het vonnis nog zelf stelt, zijn in de regel **niet tegenwerpelijk aan de boedel**: de curator kan ze naast zich neerleggen.\n\nConcreet betekent dat: een gefailleerde die na het vonnis nog zelf een verkoopovereenkomst zou ondertekenen, verbindt de boedel niet. Wie met een gefailleerde eigenaar zaken wil doen, moet dus altijd met de curator praten.\n\nDe buitenbezitstelling slaat op het vermogen **zoals het bestond op de datum van het faillissement**. Inkomsten uit een nieuwe beroepsactiviteit die de gefailleerde natuurlijke persoon ná het faillissementsvonnis opbouwt, ontsnappen in beginsel aan de buitenbezitstelling. Dat is precies de bedoeling van het insolventierecht: de ondernemer moet opnieuw kunnen starten.\n\nDe rolverdeling ziet er in grote lijnen zo uit.",
+        table: {
+          headers: ["Wie", "Rol bij de verkoop van het onroerend goed", "Beslissingsmacht"],
+          rows: [
+            ["De gefailleerde", "Verliest het beheer; wordt gehoord of opgeroepen bij een machtiging tot onderhandse verkoop", "Geen; kan niet meer zelf verkopen"],
+            ["De curator", "Beheert en vereffent de boedel, zoekt kandidaat-kopers, bereidt de verkoop voor", "Handelt, maar heeft machtiging nodig"],
+            ["De rechter-commissaris", "Houdt toezicht op de curator en op de verrichtingen van de boedel", "Machtigt en adviseert"],
+            ["De ondernemingsrechtbank", "Spreekt het faillissement uit en verleent de machtiging tot onderhandse verkoop", "Beslist, kan voorwaarden opleggen"],
+            ["De hypothecaire schuldeiser", "Wordt gehoord of opgeroepen; behoudt zijn voorrang op de opbrengst", "Kan bezwaar maken of voorwaarden vragen"],
+          ],
+        },
+      },
+      {
+        heading: "Openbaar of onderhands: hoe de curator een woning verkoopt",
+        body: "Voor onroerende goederen is de **openbare verkoop** in de regel het uitgangspunt. Die verloopt vandaag meestal digitaal via het online biedplatform van de notarissen. Hoe zo'n openbare verkoop praktisch werkt, leest u in ons artikel over **een woning verkopen via Biddit**.\n\nEen **onderhandse verkoop** (verkoop uit de hand) is wél mogelijk, maar niet zomaar. De curator heeft daarvoor een **machtiging** nodig. In de praktijk legt hij een gemotiveerd verzoek voor met een ontwerp van verkoopakte, opgemaakt door de notaris, en licht hij toe waarom een onderhandse verkoop in het belang van de boedel is. De rechtbank oordeelt na advies van de rechter-commissaris, moet uitdrukkelijk motiveren waarom de onderhandse verkoop het belang van de boedel dient, en kan aan de machtiging **voorwaarden** koppelen — bijvoorbeeld een **minimumprijs**.\n\nBelanghebbenden worden daarbij betrokken. Wie een hypothecaire inschrijving op het goed heeft, en ook de gefailleerde zelf, moet worden gehoord of behoorlijk opgeroepen. Zij kunnen vragen dat de machtiging afhankelijk wordt gemaakt van bepaalde voorwaarden.\n\nEen onderhandse verkoop levert in de praktijk vaak méér op dan een gedwongen openbare verkoop, omdat de druk van een openbare zitdag ontbreekt en er gericht met kandidaat-kopers kan worden onderhandeld. Dat is precies het argument dat curatoren doorgaans aanvoeren in hun verzoek tot machtiging. Een garantie is dat uiteraard niet: het hangt af van het pand, de markt en het aantal geïnteresseerden.",
+        table: {
+          headers: ["", "Openbare verkoop", "Onderhandse verkoop door de curator"],
+          rows: [
+            ["Uitgangspunt", "In de regel de standaardpiste", "Uitzondering, mits machtiging"],
+            ["Toestemming nodig?", "Machtiging van de rechter-commissaris", "Machtiging van de ondernemingsrechtbank, na advies rechter-commissaris"],
+            ["Wie wordt gehoord?", "Hypothecaire schuldeisers worden betrokken", "Hypothecaire schuldeisers en de gefailleerde"],
+            ["Prijsvorming", "Bieden op de zitdag of online", "Onderhandelde prijs, eventueel met opgelegde minimumprijs"],
+            ["Doorlooptijd", "Vastgelegde biedperiode en formaliteiten", "Afhankelijk van de machtigingsprocedure"],
+          ],
+        },
+      },
+      {
+        heading: "De gezinswoning van een zelfstandige: de verklaring van onbeslagbaarheid",
+        body: "Een zelfstandige die met een eenmanszaak werkt, staat met zijn **volledige privévermogen** in voor zijn beroepsschulden. De gezinswoning zit daar in principe bij. Er bestaat wel een beschermingsmechanisme: de **verklaring van niet-beslagbaarheid (onbeslagbaarheid) van de hoofdverblijfplaats**, ingevoerd door de wet van 25 april 2007.\n\nDe kern ervan is dat het **preventief** is. U legt de verklaring af **bij de notaris**, in een authentieke akte, en die wordt overgeschreven op het bevoegde kantoor Rechtszekerheid. Belangrijke voorwaarden en beperkingen:\n\n• Ze geldt enkel voor de **hoofdverblijfplaats** van de zelfstandige, niet voor een tweede verblijf of een opbrengsteigendom.\n• Ze beschermt enkel tegen **beroepsschulden**, niet tegen privéschulden (denk aan uw eigen woonkrediet, alimentatie of belastingen op privé-inkomen).\n• Ze werkt **niet retroactief**: enkel beroepsschulden die ontstaan ná de overschrijving van de verklaring vallen onder de bescherming. Wie de verklaring pas aflegt als de problemen er al zijn, is te laat voor de bestaande schulden.\n• Bij **gemengd gebruik** geldt in grote lijnen: is het beroepsgedeelte minder dan 30% van de oppervlakte, dan kan het hele goed onbeslagbaar worden verklaard; is het 30% of meer, dan kan enkel het privégedeelte worden beschermd.\n• Er zijn **kosten** aan verbonden (notariserelonen en de inschrijving). Vraag uw notaris een concreet bestek — de bedragen kunnen intussen zijn aangepast.\n\nVerkoopt u de beschermde woning later, dan kan de opbrengst onder voorwaarden en gedurende een beperkte termijn beschermd blijven als u ze herbelegt in een nieuwe hoofdverblijfplaats. Laat dat vooraf door uw notaris nakijken; het is geen automatisme.\n\nStaat de woning op naam van een vennootschap, of werkt u via een bvba/bv, dan speelt deze verklaring niet op dezelfde manier: dan is het de vennootschap die failliet gaat en blijft uw privéwoning buiten de boedel, tenzij u persoonlijke borg stond of bestuurdersaansprakelijkheid speelt.",
+        table: {
+          headers: ["Situatie", "Valt de gezinswoning in de faillissementsboedel?", "Aandachtspunt"],
+          rows: [
+            ["Eenmanszaak, geen verklaring afgelegd", "In principe wel: het privévermogen staat in voor de beroepsschulden", "De curator kan het goed te gelde maken"],
+            ["Eenmanszaak, verklaring tijdig afgelegd en overgeschreven", "Beschermd tegen beroepsschulden van ná de overschrijving", "Privéschulden en oudere beroepsschulden blijven buiten schot van de bescherming"],
+            ["Woning met hypotheek", "De hypothecaire schuldeiser behoudt zijn voorrang op de opbrengst", "Een kwijtschelding wist de hypotheek in de regel niet uit"],
+            ["Woning aangehouden door een vennootschap", "Bij faillissement van de vennootschap valt zij in die boedel", "Persoonlijke borgstelling of bestuurdersaansprakelijkheid kan het privévermogen alsnog raken"],
+          ],
+        },
+      },
+      {
+        heading: "Wat met een woning in mede-eigendom met een niet-gefailleerde partner?",
+        body: "Dat hangt in belangrijke mate af van uw **huwelijksvermogensstelsel** of samenlevingsvorm. Dit is juridisch fijnmazig; laat uw concrete situatie altijd nakijken door een notaris of een advocaat insolventierecht.\n\nIn grote lijnen:\n\n• **Wettelijk stelsel (gemeenschap van goederen)**: het gemeenschappelijk vermogen kan in de regel worden aangesproken voor de beroepsschulden die tijdens het huwelijk zijn aangegaan. De gezinswoning die tot dat gemeenschappelijk vermogen behoort, kan dan door de curator te gelde worden gemaakt.\n• **Scheiding van goederen**: de eigen goederen van de niet-gefailleerde echtgenoot blijven in principe buiten de boedel. Is de woning in **onverdeeldheid** aangekocht, dan valt enkel het **onverdeelde aandeel** van de gefailleerde in de boedel.\n• **Wettelijk of feitelijk samenwonenden**: doorgaans geldt hetzelfde principe van het onverdeelde aandeel.\n\nIn de praktijk verkoopt een curator zelden een losse onverdeelde helft — daar is nauwelijks een markt voor. Vaak wordt daarom het **volledige goed** verkocht met medewerking van de mede-eigenaar, waarna die zijn deel van de netto-opbrengst ontvangt, of wordt de **uitonverdeeldheidtreding** gevorderd. Soms neemt de mede-eigenaar het aandeel van de gefailleerde over tegen betaling aan de boedel. Wat u als mede-eigenaar in zo'n scenario kunt en niet kunt, ligt in het verlengde van wat we beschrijven in ons artikel over **wat te doen als een mede-eigenaar niet wil verkopen (uit onverdeeldheid treden)** en in ons artikel over **mede-eigendom verkopen**.\n\nLet ook op de hypotheek: als u samen een woonkrediet hebt afgesloten, bent u meestal **hoofdelijk** gehouden. Het faillissement van de ene partner maakt de andere niet automatisch vrij van de kredietschuld. Meer daarover leest u in ons artikel over **een huis verkopen met een lopende hypotheek**.",
+      },
+      {
+        heading: "Verkopen vóór een faillissement: de verdachte periode en de kwijtschelding",
+        body: "Ziet u een faillissement aankomen en overweegt u om snel te verkopen, dan is één waarschuwing essentieel: een verkoop kort vóór het faillissement kan achteraf door de curator worden **aangevochten**.\n\nDe rechtbank kan de datum van **staking van betaling** vervroegen tot uiterlijk zes maanden vóór het faillissementsvonnis. De periode tussen die datum en het vonnis heet de **verdachte periode**. Handelingen die in die periode zijn gesteld, kunnen door de curator **niet-tegenwerpelijk** worden verklaard aan de boedel. Dat geldt onder meer voor handelingen om niet en voor verrichtingen onder bezwarende titel waarbij wat de gefailleerde gaf de tegenprestatie duidelijk overtreft — bijvoorbeeld een pand dat ver onder de waarde aan een familielid wordt overgedragen. Los daarvan bestaat de faillissementspauliana voor bedrieglijke handelingen waarmee schuldeisers bewust zijn benadeeld.\n\nDe boodschap is dus niet \"verkoop snel om uw schuldeisers voor te zijn\". Dat werkt niet, en het kan u zuur opbreken. De boodschap is: **verkoop tegen een verdedigbare, marktconforme prijs, met open vizier, en laat u begeleiden**. Een verkoop aan een correcte prijs, waarvan de opbrengst naar de schuldeisers gaat, is legitiem — en levert vaak meer op dan een gedwongen verkoop achteraf. Zit u in die fase, lees dan zeker ons artikel over **een huis verkopen bij betalingsproblemen en schulden**.\n\nGaat het faillissement toch door, dan is er voor de **natuurlijke persoon** het vangnet van de **kwijtschelding** van de restschulden (vroeger \"verschoonbaarheid\"). Sinds de wet van 7 juni 2023 verloopt dat eenvoudiger: voor faillissementen geopend vanaf 1 september 2023 wordt de kwijtschelding in beginsel **automatisch** verleend bij de sluiting van het faillissement, zonder dat de gefailleerde nog een afzonderlijk verzoekschrift moet indienen. Voor oudere faillissementen gold de regel dat een verzoekschrift moest worden ingediend, in principe binnen drie maanden na de bekendmaking van het faillissementsvonnis. Belanghebbenden (schuldeisers, de curator, het openbaar ministerie) kunnen de kwijtschelding wel betwisten binnen de wettelijke termijnen.\n\nTwee nuances zijn belangrijk. Ten eerste dekt de kwijtschelding niet alles: onderhoudsschulden, schadevergoedingen wegens overlijden of lichamelijke schade en strafrechtelijke boetes blijven in de regel verschuldigd. Ten tweede laat een kwijtschelding de **zakelijke zekerheden** in beginsel onaangetast: een hypothecaire schuldeiser behoudt zijn recht op het onderpand. Uw woning wordt met andere woorden niet \"schuldenvrij\" door de kwijtschelding alleen. Laat uw dossier op dit punt altijd concreet nakijken.",
+      },
+      {
+        heading: "Verkopen in de huidige staat aan een professionele koper",
+        body: "Bent u curator en zoekt u een vlotte, onderbouwde onderhandse piste voor een pand in de regio Antwerpen? Of bent u eigenaar of mede-eigenaar en wilt u een pand correct en snel te gelde maken vóór de situatie verder ontspoort? Dan kan een verkoop **in de huidige staat** aan een professionele koper een piste zijn om naast de klassieke route te leggen.\n\nWij, wijkopenpanden.be, kopen panden in de **regio Antwerpen** aan in de **huidige staat**. Concreet:\n\n• U krijgt **binnen 2 uur een reactie** op uw aanvraag.\n• Na een **plaatsbezoek** ontvangt u een **schriftelijk bod**.\n• Er is **geen commissie**.\n• De **verplichte attesten en de coördinatie met de notaris** zijn inbegrepen.\n• De **akte volgt doorgaans binnen 2 tot 3 maanden**.\n\nWij kopen ook op wanneer een pand verouderd, leeg of in slechte staat is, en we werken mee aan de formaliteiten die een curator of een rechtbank oplegt — een machtiging, een minimumprijs, het horen van hypothecaire schuldeisers. Wat wij niet doen, is meestappen in een constructie die schuldeisers benadeelt: onze biedingen zijn schriftelijk en navolgbaar, precies zodat ze een toetsing achteraf kunnen doorstaan.\n\nEen schriftelijk bod verplicht u tot niets. U kunt het rustig naast de opbrengstverwachting van een openbare verkoop of een klassieke verkoop via een makelaar leggen — inclusief de kosten, de doorlooptijd en het risico op een lager bod op de zitdag. Zo kiest u met volledige informatie. Hoe zo'n traject qua timing en uitbetaling verloopt, leest u in ons artikel over **hoe snel u kunt verkopen en wanneer u het geld ontvangt**.",
+      },
+    ],
+    relatedArticles: ["huis-verkopen-bij-betalingsproblemen-schulden", "woning-verkopen-via-biddit", "snel-geld-vrijmaken-woning", "hoe-snel-verkopen-en-geld-ontvangen", "mede-eigenaar-wil-niet-verkopen-uit-onverdeeldheid", "huis-verkopen-met-hypotheek"],
+    relatedSituations: ["verkopen-zonder-makelaar", "opknappand-verkopen"],
+    faqs: [
+      {
+        question: "Kan ik mijn huis nog zelf verkopen nadat ik failliet ben verklaard?",
+        answer:
+          "Nee. Vanaf het faillissementsvonnis verliest u van rechtswege het beheer over uw vermogen: dat is de buitenbezitstelling. De curator neemt dat beheer over, onder toezicht van de rechter-commissaris en de ondernemingsrechtbank. Handelingen die u na het vonnis nog zelf stelt, zijn in de regel niet tegenwerpelijk aan de boedel, zodat een compromis die u zelf tekent de boedel niet bindt. Een kandidaat-koper moet dus altijd via de curator werken.",
+      },
+      {
+        question: "Mag een curator een woning onderhands verkopen, of moet het altijd openbaar?",
+        answer:
+          "Een onderhandse verkoop is mogelijk, maar niet vrij: de curator heeft daarvoor een machtiging nodig van de ondernemingsrechtbank, na advies van de rechter-commissaris. Hij legt daarbij doorgaans een ontwerpakte van de notaris voor en motiveert waarom de onderhandse verkoop het belang van de boedel dient. Hypothecaire schuldeisers en de gefailleerde worden gehoord of opgeroepen en kunnen voorwaarden vragen, zoals een minimumprijs. De rechtbank kan die voorwaarden ook uit eigen beweging opleggen.",
+      },
+      {
+        question: "Beschermt de verklaring van onbeslagbaarheid mijn gezinswoning nog als ik ze nu afleg?",
+        answer:
+          "Enkel voor de toekomst. De verklaring, af te leggen bij de notaris en over te schrijven op het bevoegde kantoor Rechtszekerheid, beschermt alleen tegen beroepsschulden die ontstaan na de overschrijving. Ze heeft geen terugwerkende kracht: bestaande beroepsschulden blijven verhaalbaar op de woning. Ze beschermt bovendien niet tegen privéschulden. Ze is dus een preventieve maatregel, geen redmiddel als het faillissement al in zicht is.",
+      },
+      {
+        question: "Mijn partner gaat failliet, maar de woning staat op onze beide namen. Kan de curator ze verkopen?",
+        answer:
+          "Dat hangt af van uw huwelijksvermogensstelsel of samenlevingsvorm. Onder het wettelijk stelsel kan het gemeenschappelijk vermogen in de regel worden aangesproken voor beroepsschulden die tijdens het huwelijk zijn aangegaan. Bij scheiding van goederen valt in principe enkel het onverdeelde aandeel van de gefailleerde in de boedel, maar in de praktijk wordt vaak het volledige goed verkocht met uw medewerking of via een uitonverdeeldheidtreding, waarna u uw deel van de netto-opbrengst ontvangt. Laat uw concrete situatie nakijken door een notaris of advocaat.",
+      },
+      {
+        question: "Kan een verkoop die ik vlak vóór mijn faillissement deed, worden teruggedraaid?",
+        answer:
+          "Dat kan. De rechtbank kan de datum van staking van betaling vervroegen tot uiterlijk zes maanden vóór het faillissementsvonnis; die tussenperiode heet de verdachte periode. Handelingen uit die periode kunnen door de curator niet-tegenwerpelijk aan de boedel worden verklaard, onder meer wanneer u het pand ver onder de waarde hebt overgedragen. Daarnaast bestaat de faillissementspauliana voor bedrieglijke handelingen die schuldeisers bewust benadelen. Een verkoop tegen een verdedigbare, marktconforme prijs is daarentegen legitiem.",
+      },
+      {
+        question: "Koopt wijkopenpanden.be ook panden uit een faillissement of van iemand met zware schulden?",
+        answer:
+          "Ja. Wij kopen panden in de regio Antwerpen aan in de huidige staat, ook wanneer een curator de verkoper is of wanneer de eigenaar met betalingsproblemen kampt. U krijgt binnen 2 uur een reactie op uw aanvraag en na een plaatsbezoek een schriftelijk bod, zonder commissie; de verplichte attesten en de coördinatie met de notaris zijn inbegrepen en de akte volgt doorgaans binnen 2 tot 3 maanden. Wij werken mee aan de formaliteiten die een curator of rechtbank oplegt, zoals een machtiging of een minimumprijs. Ons bod is schriftelijk, zodat u het rustig kunt vergelijken met een openbare verkoop of een klassieke verkoop.",
+      },
+    ],
+  },
+  {
+    slug: "woning-verkopen-aan-familielid",
+    title: "Uw woning verkopen aan een familielid (kind, broer, zus): mag dat onder de marktprijs, en wat zijn de fiscale gevolgen?",
+    metaTitle: "Woning verkopen aan familielid: mag dat onder de prijs?",
+    metaDescription:
+      "U mag aan uw kind, broer of zus verkopen, maar de fiscus rekent af op de verkoopwaarde. Uitleg over tekortschatting, vermomde schenking en de erfenis.",
+    publishedAt: "2026-07-12",
+    updatedAt: "2026-07-12",
+    intro:
+      "Ja, u mag uw woning aan uw kind, broer of zus verkopen, en u bepaalt in principe zelf de prijs. Maar die vrijheid geldt tegenover uw familielid, niet tegenover de fiscus. De **registratiebelasting** wordt in Vlaanderen niet berekend op de prijs die u afspreekt, maar op de **verkoopwaarde** van het pand. Verkoopt u duidelijk te goedkoop, dan kan de Vlaamse Belastingdienst (**VLABEL**) bijheffen wegens **tekortschatting**, en kan het prijsverschil (deels) als een **vermomde schenking** worden gezien. Daarbovenop kunnen uw andere kinderen dat voordeel na uw overlijden aanvechten. In dit artikel leest u wat wel en niet kan, welke tarieven spelen, en hoe u zich met een correcte schatting en een notariële afspraak indekt.",
+    sections: [
+      {
+        heading: "Mag u vrij aan een familielid verkopen en zelf de prijs bepalen?",
+        body: "Contractueel is er geen probleem. Er bestaat geen verbod om aan een **familielid** te verkopen, en er bestaat geen wettelijk minimum voor de prijs. Verkoop tussen ouder en kind, tussen broers en zussen of tussen neven en nichten gebeurt dagelijks, met een gewone **compromis** en een **notariële akte**, precies zoals een verkoop aan een vreemde.\n\nHet misverstand zit in de gevolgen. Drie partijen kijken mee naar de prijs die u afspreekt:\n\n• de **fiscus** (VLABEL), die de registratiebelasting berekent op de verkoopwaarde van het pand;\n• uw **andere erfgenamen**, die het voordeel dat één familielid krijgt later kunnen laten verrekenen;\n• de **bank** van de koper, als die een lening nodig heeft en het pand als waarborg moet aanvaarden.\n\nEen prijs die iets onder de vraagprijs op de markt ligt, is zelden een probleem: ook tussen vreemden wordt onderhandeld. Het gaat mis wanneer de prijs *substantieel* onder de reële waarde ligt, bijvoorbeeld een woning met een waarde van 300.000 euro die voor 180.000 euro naar één kind gaat. Dan is er geen sprake meer van een scherp onderhandelde verkoop, maar van een verkoop met een verdoken voordeel. Wat uw woning realistisch waard is, leest u in ons artikel over **wat is mijn woning waard in Antwerpen**.\n\nEen bijkomend, praktisch punt: **de betaling van de prijs moet aantoonbaar zijn**. Als in de akte staat dat 180.000 euro betaald is, maar er is geen enkel bankspoor, dan kan later worden aangenomen dat de prijs nooit betaald werd en dat de hele operatie in werkelijkheid een schenking was. Betaal via overschrijving en bewaar de rekeninguittreksels.",
+      },
+      {
+        heading: "Tekortschatting: de fiscus belast de verkoopwaarde, niet uw prijs",
+        body: "In Vlaanderen wordt het **verkooprecht** (de registratiebelasting bij aankoop) berekend op de overeengekomen prijs, maar met de **verkoopwaarde** als ondergrens. De verkoopwaarde is de prijs die het pand bij een normale verkoop op de markt zou opbrengen, met voldoende publiciteit en meerdere kandidaten. Ligt uw prijs daaronder, dan is de belasting toch verschuldigd op die hogere verkoopwaarde.\n\nStelt VLABEL vast dat er te weinig is aangegeven, dan spreekt men van **tekortschatting**. De dienst stuurt dan een kennisgeving en kan het pand laten schatten. Op het verschil is bijkomend verkooprecht verschuldigd. Daarbovenop kan een **belastingverhoging** volgen: VLABEL past in de regel geen verhoging toe wanneer het vastgestelde tekort kleiner is dan **10 procent** van de aangegeven waarde, maar bij grotere tekorten wel. Bij een aanzienlijk tekort kan die verhoging zwaar oplopen, en zij kan zowel de koper als de verkoper treffen. De precieze schaal en de termijn waarbinnen VLABEL kan optreden hangen af van het dossier; laat u hierover door uw notaris informeren.\n\nBelangrijk om te begrijpen: dit is geen kwestie van kwade trouw. Ook wie te goeder trouw een te lage prijs afspreekt, kan een tekortschatting oplopen. De belasting volgt de waarde, niet de bedoeling.\n\nDe verdediging is eenvoudig en efficiënt: laat het pand **vooraf schatten door een landmeter-expert of een erkend schatter-expert**, en laat dat verslag bij het dossier voegen. U hebt dan een onderbouwd stuk dat de gehanteerde waarde verantwoordt, ook wanneer het pand in slechte staat is en dus objectief minder waard.",
+        table: {
+          headers: ["Situatie", "Waarop wordt belast?", "Risico"],
+          rows: [
+            ["Prijs komt overeen met de verkoopwaarde", "De afgesproken prijs", "Geen"],
+            ["Prijs licht onder de waarde (klein verschil)", "In de regel de prijs", "Beperkt; bijheffing mogelijk, doorgaans geen verhoging bij een tekort onder 10%"],
+            ["Prijs duidelijk onder de waarde", "De hogere verkoopwaarde", "Bijkomend verkooprecht + mogelijke belastingverhoging"],
+            ["Prijs ver onder de waarde, familiale context", "De verkoopwaarde", "Bijheffing, verhoging én mogelijke herkwalificatie als schenking"],
+            ["Prijs op papier, maar niet aantoonbaar betaald", "De volledige waarde", "Vermoeden van vermomde schenking"],
+          ],
+        },
+      },
+      {
+        heading: "Wanneer de verkoop een vermomde schenking wordt",
+        body: "Verkoopt u ver onder de reële waarde, dan kan de operatie worden herbekeken als een **vermomde schenking**: juridisch een verkoop, in werkelijkheid een gift. Het **verschil tussen de werkelijke waarde en de betaalde prijs** wordt dan als een schenking aan het betrokken familielid beschouwd.\n\nDat heeft twee soorten gevolgen:\n\n• **Fiscaal.** Op het geschonken gedeelte kan **schenkbelasting** verschuldigd zijn in plaats van (of naast) verkooprecht. Bij een schenking van een onroerend goed in rechte lijn is dat een progressief tarief, dat oploopt naarmate de waarde stijgt.\n• **Burgerrechtelijk.** Een schenking aan een kind telt mee bij de afrekening van de nalatenschap. Daarover meer in de volgende sectie.\n\nOok het bewijs van betaling speelt hier. Wanneer de akte geen duidelijke kwijting bevat, of wanneer er geen overschrijvingen, uittreksels of leningsbewijzen zijn, ontstaat een sterk vermoeden dat de prijs nooit werkelijk is betaald. Een verkoop op afbetaling binnen de familie kan, maar leg dan de aflossingen contractueel vast en voer ze ook effectief uit.\n\nWilt u uw kind bewust bevoordelen, dan is een verkoop onder de prijs zelden de nette weg. Een openlijke **schenking** is transparanter, fiscaal voorspelbaar en veel moeilijker aan te vechten. Hoe dat werkt, met welke tarieven en met welke mogelijkheden (zoals schenken met voorbehoud van vruchtgebruik), leest u in ons artikel over **schenking van een woning in Vlaanderen**. Wij herhalen dat hier niet: het is het volwaardige alternatief voor de constructie die in dit artikel wordt afgeraden.",
+      },
+      {
+        heading: "De andere erfgenamen: inbreng, inkorting en de reserve",
+        body: "Stel: één kind koopt de ouderlijke woning voor een prijs die duidelijk onder de waarde ligt. De andere kinderen zeggen niets, want de ouders leven nog. Bij het **overlijden** komt de discussie alsnog boven.\n\nHet principe: wat een kind bij leven van een ouder heeft gekregen, wordt bij het overlijden **verrekend met zijn erfdeel** (de zogenaamde **inbreng**). Het voordeel dat in een te lage prijs verscholen zit, kan als zo'n gift worden beschouwd en dus worden ingebracht. Het bevoordeelde kind erft dan navenant minder, zodat de gelijkheid tussen de kinderen wordt hersteld.\n\nDaarnaast is er de **reserve**: het deel van de nalatenschap dat wettelijk voor de kinderen samen is beschermd en waarover een ouder niet vrij kan beschikken. Wordt die reserve door het voordeel aangetast, dan kunnen de benadeelde kinderen **inkorting** vragen. In de praktijk komt dat neer op een financiële compensatie ten laste van het bevoordeelde kind. Dat is precies het scenario waarin een familiale verkoop uitmondt in een jarenlange ruzie. Meer over de afwikkeling van een nalatenschap leest u in ons artikel over **erfbelasting in Vlaanderen** en in het **stappenplan bij een woning uit een erfenis**.\n\nEr is een nette uitweg, en die verdient meer aandacht dan ze krijgt: de **erfovereenkomst**. In een **punctuele erfovereenkomst**, opgesteld bij de notaris en met begeleiding van alle betrokkenen, kunnen de kinderen vooraf en met kennis van zaken akkoord gaan met de operatie. Zij kunnen bijvoorbeeld samen de waarde van het toegekende voordeel vastleggen, of verklaren dat zij daarvoor geen inkorting zullen vragen. De wetgever heeft die piste bewust voorzien, net om latere betwisting te vermijden. Het vraagt wel dat iedereen mee aan tafel zit, en dat het bedrag eerlijk op tafel ligt.",
+      },
+      {
+        heading: "De tarieven naast elkaar: verkopen of schenken",
+        body: "De kernvraag is doorgaans: wat kost het minst? Dat hangt af van de waarde van het pand en van de situatie van de koper.\n\nHet **verkooprecht** in Vlaanderen bedraagt sinds 1 januari 2025 in de regel **2 procent** voor de aankoop van de **enige eigen woning**, op voorwaarde dat de koper aan alle voorwaarden voldoet (onder meer volle eigendom, een natuurlijke persoon, geen andere woning, en tijdige domiciliëring; die voorwaarden zijn vanaf 2026 verstrengd). Voldoet de koper daar niet aan, bijvoorbeeld omdat hij al een woning bezit of omdat hij enkel de blote eigendom koopt, dan geldt het standaardtarief van **12 procent**. Dat verschil is groot en beslist mee over de beste route. Controleer de actuele voorwaarden bij uw notaris, want dit tarief is de voorbije jaren meermaals gewijzigd.\n\nDe **schenkbelasting** voor een onroerend goed in rechte lijn (ouder naar kind, en tussen partners) is **progressief**: hoe hoger de waarde, hoe hoger het tarief in de bovenste schijven. Onderstaande schijven gelden per schenker en per begiftigde.\n\nDe conclusie is minder eenduidig dan verkopers hopen. Voor een woning die als enige eigen woning bij een kind terechtkomt, is een **eerlijke verkoop aan 2 procent** vaak fiscaal gunstiger dan een schenking. Voor een pand dat het kind niet zelf gaat bewonen (12 procent), kan een schenking dan weer voordeliger uitvallen. Laat dit vooraf doorrekenen. Wat er verder aan kosten en belastingen bij een verkoop komt kijken, staat in onze artikels over **notariskosten bij een woningverkoop** en **belastingen bij een woningverkoop**.",
+        table: {
+          headers: ["Schijf (waarde in euro)", "Schenkbelasting rechte lijn", "Verkooprecht"],
+          rows: [
+            ["0 tot 150.000", "3%", "2% (enige eigen woning, mits voorwaarden) of 12%"],
+            ["150.000,01 tot 250.000", "9%", "idem"],
+            ["250.000,01 tot 450.000", "18%", "idem"],
+            ["Boven 450.000", "27%", "idem"],
+            ["Berekend op", "De waarde van het geschonken deel", "De prijs, met de verkoopwaarde als ondergrens"],
+          ],
+        },
+      },
+      {
+        heading: "Liever geen familiale constructie? Verkopen in de huidige staat",
+        body: "Soms is de eenvoudigste oplossing de beste: geen constructie, geen discussie achteraf. U verkoopt het pand gewoon aan een derde tegen een correcte prijs, en wat u uw kinderen wil geven, geeft u openlijk en gelijk verdeeld, in geld. Dan is er geen tekortschatting, geen herkwalificatie, geen inkorting en geen ruzie op de begrafenis.\n\n**wijkopenpanden.be** koopt panden in de **regio Antwerpen** aan in de **huidige staat**. U hoeft niet te renoveren, niet op te ruimen en niet te wachten op een kandidaat met een lening. Op uw aanvraag krijgt u **binnen 2 uur een reactie**. Na een **plaatsbezoek** ontvangt u een **schriftelijk bod**. U betaalt **geen commissie**, en de **verplichte attesten en de coördinatie met de notaris zijn inbegrepen**. De **akte** verlijdt doorgaans **binnen 2 tot 3 maanden**, zodat u snel weet waar u aan toe bent.\n\nOns bod is geen verplichting. Leg het naast wat de klassieke route u zou opleveren, na aftrek van commissie, attesten, renovatiekosten en de maanden die het duurt, en beslis dan met volledige informatie welke weg voor uw familie de juiste is.",
+      },
+    ],
+    relatedArticles: ["schenking-woning-vlaanderen", "wat-is-mijn-woning-waard-antwerpen", "erfbelasting-vlaanderen-2026", "belastingen-bij-woningverkoop", "notariskosten-woning-verkoop", "erfenis-woning-stappenplan"],
+    relatedSituations: ["huis-verkopen-bij-erfenis", "verkopen-zonder-makelaar"],
+    faqs: [
+      {
+        question: "Mag ik mijn woning onder de marktprijs aan mijn kind verkopen?",
+        answer:
+          "Ja, u mag zelf een prijs afspreken; er is geen wettelijk minimum. Maar de fiscus berekent de registratiebelasting op de verkoopwaarde van het pand, niet op de prijs die u opschrijft. Ligt uw prijs duidelijk lager, dan kan VLABEL bijheffen wegens tekortschatting en kan het verschil als een schenking worden beschouwd. Een beperkte korting op de marktprijs is doorgaans geen probleem; een groot verschil wel.",
+      },
+      {
+        question: "Wat is tekortschatting precies?",
+        answer:
+          "Tekortschatting betekent dat de aangegeven waarde lager is dan de werkelijke verkoopwaarde van het pand. VLABEL kan dan een kennisgeving sturen, het pand laten schatten en bijkomend verkooprecht heffen op het verschil. Bovenop die bijheffing kan een belastingverhoging komen: in de regel volgt er geen verhoging wanneer het vastgestelde tekort onder 10 procent van de aangegeven waarde blijft, maar bij grotere tekorten wel. Een schattingsverslag van een landmeter-expert vermindert dit risico aanzienlijk.",
+      },
+      {
+        question: "Kan de verkoop achteraf als een schenking worden beschouwd?",
+        answer:
+          "Dat kan, wanneer de prijs ver onder de reële waarde ligt of wanneer u niet kunt aantonen dat de prijs effectief is betaald. Men spreekt dan van een vermomde schenking: het verschil tussen de werkelijke waarde en de betaalde prijs geldt als een gift. Daarop kan schenkbelasting verschuldigd zijn, en het voordeel telt mee bij de verdeling van uw nalatenschap. Betaal daarom altijd via overschrijving en bewaar de bewijzen.",
+      },
+      {
+        question: "Kunnen mijn andere kinderen dit later aanvechten?",
+        answer:
+          "Ja. Wat een kind bij leven van een ouder heeft gekregen, wordt bij het overlijden in de regel verrekend met zijn erfdeel. Het voordeel dat in een te lage prijs verscholen zit, kan zo worden ingebracht, waardoor het bevoordeelde kind minder erft. Wordt de wettelijk beschermde reserve van de andere kinderen aangetast, dan kunnen zij inkorting vragen en een financiële compensatie eisen. Dat kan jaren na de verkoop nog spelen.",
+      },
+      {
+        question: "Hoe kan ik dat op voorhand uitsluiten?",
+        answer:
+          "Door alle kinderen vooraf te betrekken bij een notaris. In een punctuele erfovereenkomst kunnen zij samen met u de waarde van het toegekende voordeel vastleggen, of verklaren dat zij daarvoor geen inkorting zullen vragen. De notaris begeleidt dat gesprek en informeert iedereen over de gevolgen. Combineer dat met een objectief schattingsverslag, zodat er ook tegenover de fiscus geen discussie over de waarde meer mogelijk is.",
+      },
+      {
+        question: "Koopt wijkopenpanden.be ook panden die anders binnen de familie zouden overgaan?",
+        answer:
+          "Ja. Wij kopen panden in de regio Antwerpen aan in de huidige staat, ook wanneer een familiale overdracht op tafel lag maar niet doorgaat, bijvoorbeeld omdat de kinderen het niet eens raken of omdat niemand het pand wil overnemen. U krijgt binnen 2 uur een reactie op uw aanvraag en na een plaatsbezoek een schriftelijk bod, zonder commissie en met de verplichte attesten en de coördinatie met de notaris inbegrepen. De akte verlijdt doorgaans binnen 2 tot 3 maanden. U kunt ons bod vrijblijvend vergelijken met een verkoop binnen de familie of via de klassieke route.",
+      },
+    ],
+  },
+  {
+    slug: "tuin-of-bouwgrond-apart-verkopen-perceel-splitsen",
+    title: "Een stuk tuin of bouwgrond apart verkopen of uw perceel splitsen: verkavelingsvergunning, splitsingsattest en wat u moet weten",
+    metaTitle: "Tuin of bouwgrond apart verkopen: perceel splitsen",
+    metaDescription:
+      "Een stuk tuin of bouwgrond apart verkopen? Wanneer u een omgevingsvergunning voor verkavelen nodig hebt, hoe de notariële splitsing werkt en wat het kost.",
+    publishedAt: "2026-07-12",
+    updatedAt: "2026-07-12",
+    intro:
+      "Ja, u kunt een stuk van uw tuin of een deel van uw perceel apart verkopen, maar of dat vlot lukt hangt af van twee vragen: heeft de grond een woonbestemming, en wordt het lot verkocht met het oog op woningbouw? Wilt u een lot afsplitsen om het als **bouwgrond** te verkopen, dan hebt u in de regel een **omgevingsvergunning voor het verkavelen van gronden** nodig — de vergunning die vroeger de verkavelingsvergunning heette. Verkoopt u enkel een stuk tuin dat tuin blijft, dan volstaat doorgaans een **notariële splitsing**, waarbij uw notaris het splitsingsplan aan de gemeente bezorgt. In dit artikel leest u wanneer welk spoor geldt, wat de bestemming op het gewestplan of RUP betekent, hoe de procedure verloopt, wat het fiscaal kan kosten en waarom uw restwoning in waarde kan dalen.",
+    sections: [
+      {
+        heading: "Wanneer hebt u een omgevingsvergunning voor het verkavelen van gronden nodig?",
+        body: "De kernregel is de **bestemming van het lot**, niet het aantal loten. **Verkavelen** is, kort samengevat, het vrijwillig verdelen van een grond in twee of meer kavels om er minstens één van te verkopen (of te verhuren voor meer dan negen jaar, of er een recht van erfpacht of opstal op te vestigen), **met het oog op woningbouw of de oprichting van constructies**. Zodra dat oogmerk er is, hebt u in de regel een **omgevingsvergunning voor het verkavelen van gronden** nodig.\n\nEén misverstand houdt hardnekkig stand: dat u voor het afsplitsen van één enkel lot geen vergunning nodig zou hebben. Vlaanderen schrapte die verplichting inderdaad eind 2017, maar het **Grondwettelijk Hof vernietigde die vrijstelling in 2019**. Sindsdien geldt opnieuw: wie een deel van zijn tuin wil afsplitsen om het als bouwgrond te verkopen, moet opnieuw een omgevingsvergunning voor het verkavelen aanvragen. Informatie van vóór 2019 die u online vindt, kan u dus op een verkeerd spoor zetten.\n\nOmgekeerd is er doorgaans **geen verkavelingsvergunning** vereist wanneer het woningbouw-oogmerk ontbreekt. Denk aan een stuk tuin dat u verkoopt aan uw buur, die het gewoon bij zijn eigen tuin voegt en er niet op bouwt. Ook constructies die geen woning zijn — een tuinhuis, een terras, een zwembad, een afsluiting — worden in de regel niet als woningbouw beschouwd. Wees hier wel voorzichtig: het **oogmerk telt**, en dat wordt beoordeeld op basis van de feiten en van wat er in de akte staat. Wordt het lot enkele jaren later toch als bouwgrond doorverkocht, dan kan de discussie alsnog opduiken. Vraag uw gemeente en uw notaris om een uitdrukkelijk standpunt vóór u iets ondertekent.",
+        table: {
+          headers: ["Situatie", "Bedoeling van het lot", "In de regel vergunning nodig?"],
+          rows: [
+            ["U splitst uw tuin af en verkoopt het lot als bouwgrond", "Woningbouw", "Ja — omgevingsvergunning voor het verkavelen"],
+            ["U verkoopt een strook tuin aan de buur, die ze bij zijn tuin voegt", "Tuin blijft tuin, geen woningbouw", "Doorgaans niet — notariële splitsing volstaat"],
+            ["U verkoopt uw woning met een deel van de tuin en houdt de rest zelf", "Geen kavel verkocht met oog op woningbouw", "Doorgaans niet — notariële splitsing"],
+            ["U splitst en verkoopt met het oog op een tuinhuis, zwembad of afsluiting", "Geen woningbouw", "In de regel niet, maar laat dit bevestigen"],
+          ],
+        },
+      },
+      {
+        heading: "Eerst de bestemming: niet elke tuin is bouwgrond",
+        body: "Vóór u aan vergunningen denkt, moet u één vraag beantwoorden: **welke bestemming heeft die grond op het gewestplan, het BPA of het gemeentelijk RUP?** Enkel grond met een **woonbestemming** komt in aanmerking om als bouwgrond te worden verkocht. Ligt uw tuin in **agrarisch gebied**, **natuurgebied**, **parkgebied** of **recreatiegebied**, dan is het geen bouwgrond — ook al ligt hij pal naast uw woning en oogt hij identiek aan het bouwperceel van de buur.\n\nDat is voor veel eigenaars het pijnlijkste punt van het hele dossier. De achtertuin van een woning die zelf in woongebied ligt, kan perfect voor een deel in agrarisch gebied vallen, omdat de gewestplangrens dwars over het perceel loopt. Zo'n achterliggend stuk verkoopt u dan hoogstens als **weiland of tuinuitbreiding**, tegen een fractie van de prijs per vierkante meter van bouwgrond.\n\nEen tussencategorie zijn de vroegere **woonuitbreidingsgebieden**, sinds het decreet over de woonreservegebieden **woonreservegebied** genoemd. Die gronden zijn niet zomaar bebouwbaar: een groot deel is 'gestolpt', wat betekent dat er in de regel niet kan worden ontwikkeld tenzij de gemeente het gebied uitdrukkelijk vrijgeeft. Reken er dus **niet** op dat zo'n grond bouwgrond wordt. Ook een goedgekeurde verkaveling geeft trouwens geen garantie op een bouwvergunning voor een concreet ontwerp: dat blijft een aparte beoordeling.\n\nDe **stedenbouwkundige inlichtingen** bij uw gemeente en het inlichtingenformulier dat uw notaris opvraagt, geven u uitsluitsel. Zijn er daarnaast oude bouwovertredingen of niet-vergunde constructies op het perceel, dan raken die het dossier ook. Meer daarover leest u in ons artikel over een [stedenbouwkundige overtreding bij de verkoop van een woning](/kennisbank/stedenbouwkundige-overtreding-woning-verkopen).",
+        table: {
+          headers: ["Bestemming", "Kan het als bouwgrond verkocht worden?", "Wat u realistisch mag verwachten"],
+          rows: [
+            ["Woongebied / woongebied met landelijk karakter", "In de regel ja, mits vergunning en goede ligging", "Prijs per m² van bouwgrond"],
+            ["Woonreservegebied (vroeger woonuitbreidingsgebied)", "Meestal niet zonder vrijgave door de gemeente", "Onzeker; ga niet uit van bouwgrondwaarde"],
+            ["Agrarisch gebied", "Nee", "Waarde van landbouwgrond of tuinuitbreiding"],
+            ["Natuur-, park- of recreatiegebied", "Nee", "Zeer beperkte waarde, vaak enkel voor een buur"],
+          ],
+        },
+      },
+      {
+        heading: "Splitsen zonder verkavelingsvergunning: het splitsingsplan en de notaris",
+        body: "Hebt u géén verkavelingsvergunning nodig, dan verloopt de splitsing via uw notaris. De **Vlaamse Codex Ruimtelijke Ordening** (in de regel wordt hiervoor naar artikel 5.2.2 VCRO verwezen) verplicht de instrumenterende ambtenaar om het **splitsingsplan** vooraf over te maken aan het **college van burgemeester en schepenen** van de gemeente waar het goed ligt. Dat gebeurt aangetekend, samen met een attest dat de aard van de akte en de bestemming van de kavels vermeldt, en volgens de gangbare praktijk **minstens twintig dagen** vóór de datum van de akte of de openbare verkoop.\n\nHet college kan die termijn gebruiken om het plan te bekijken en **opmerkingen** te formuleren. Die opmerkingen worden dan in de akte opgenomen. Belangrijk om te begrijpen: het gaat om **informatieve opmerkingen**, geen vergunning en geen veto. De gemeente kan de splitsing op die manier in de regel niet tegenhouden. In de volksmond spreekt men soms van een 'splitsingsattest', maar juridisch is het geen goedkeuring — het is een **kennisgeving met eventueel advies**. Verwar het dus niet met een vergunning.\n\nDe opmerkingen zijn wél inhoudelijk nuttig: de gemeente wijst er bijvoorbeeld op dat een lot geen bouwgrond is, dat er een rooilijn ligt, dat de achterliggende grond onbebouwbaar blijft of dat een bepaalde constructie niet vergund is. Vermeldt de akte niets over een verkavelingsvergunning, dan moet daar in de regel ook uitdrukkelijk in staan dat die er niet is — precies om de koper te beschermen tegen valse verwachtingen. Laat u op dit punt niet leiden door wat een kandidaat-koper of een buur beweert, maar door wat de gemeente schriftelijk antwoordt.",
+        table: {
+          headers: ["Spoor", "Wie beslist?", "Wat u nodig hebt", "Doorlooptijd (indicatief)"],
+          rows: [
+            ["Omgevingsvergunning voor het verkavelen", "Gemeente (college), na openbaar onderzoek", "Verkavelingsplan van landmeter-expert, dossier via het Omgevingsloket", "Enkele maanden; reken op een half jaar of meer met afwerking"],
+            ["Notariële splitsing (art. 5.2.2 VCRO)", "Notaris; gemeente geeft enkel opmerkingen", "Splitsingsplan van landmeter-expert, kennisgeving aan het college", "Doorgaans enkele weken tot een paar maanden"],
+            ["Geen splitsing, geheel verkopen", "U", "Gewone verkoopdocumenten en attesten", "Afhankelijk van de markt"],
+          ],
+        },
+      },
+      {
+        heading: "De praktijk: landmeter, procedure en kosten",
+        body: "Beide sporen beginnen bij dezelfde persoon: een **beëdigd landmeter-expert**. Alleen hij mag het perceel opmeten, de grenzen vastleggen en het **verkavelings- of splitsingsplan** opmaken dat de notaris en de gemeente nodig hebben. Na afloop volgt de **afpaling** (het plaatsen van de grenspalen) en de **prekadastratie**, waarbij elk lot een nieuw kadastraal nummer krijgt dat in de akte moet komen.\n\nHoudt u het spoor van de omgevingsvergunning aan, dan dient de landmeter of een architect het dossier digitaal in via het **Omgevingsloket**. De gemeente organiseert een **openbaar onderzoek** waarbij omwonenden bezwaar kunnen indienen — reken op ongeveer dertig dagen — en beslist daarna binnen de wettelijke termijnen van de gewone vergunningsprocedure. In de praktijk zit er tussen uw eerste telefoontje naar de landmeter en een verkoopbaar bouwlot doorgaans **meerdere maanden tot meer dan een jaar**, zeker als er bezwaren of beroepen komen.\n\nDe kosten lopen op: het ereloon van de landmeter, eventueel een architect of studiebureau, de dossierkosten van de gemeente, de aktekosten bij de notaris en, bij een echte verkaveling, mogelijk lasten die de gemeente oplegt (bijvoorbeeld voor nutsvoorzieningen of wegenis). Vraag alles **vooraf schriftelijk** op en zet het naast de te verwachten meerwaarde. Een overzicht van wat een verkoop u sowieso kost, vindt u in ons artikel over [de kosten van een verkoop berekenen](/kennisbank/verkoop-kosten-berekenen) en in ons artikel over [de notariskosten bij een woningverkoop](/kennisbank/notariskosten-woning-verkoop).",
+        table: {
+          headers: ["Stap", "Wie", "Waarop letten"],
+          rows: [
+            ["Bestemming en stedenbouwkundige inlichtingen opvragen", "Gemeente / notaris", "Doe dit eerst; het bepaalt of de rest zin heeft"],
+            ["Opmeting, plan en afpaling", "Beëdigd landmeter-expert", "Vraag een prijsopgave en de doorlooptijd op voorhand"],
+            ["Vergunningsaanvraag of kennisgeving aan het college", "Landmeter / notaris", "Openbaar onderzoek en mogelijke bezwaren van buren"],
+            ["Prekadastratie en akte", "Landmeter / notaris", "Nieuwe kadastrale nummers moeten in de akte staan"],
+          ],
+        },
+      },
+      {
+        heading: "Fiscaal en financieel: meerwaarde, waardeverlies en verwachtingsmanagement",
+        body: "Voor **gronden** geldt een aparte regeling voor de **meerwaardebelasting**, die verschilt van die voor gebouwen. Verkoopt u een grond uit uw privévermogen binnen een bepaalde termijn na de verwerving, dan is de meerwaarde in de regel belastbaar als **divers inkomen**: **33 %** bij een verkoop binnen vijf jaar na de aankoop, en **16,5 %** bij een verkoop in de daaropvolgende jaren tot acht jaar, telkens te verhogen met de **gemeentelijke opcentiemen**. Verkoopt u meer dan acht jaar na de aankoop, dan is de meerwaarde op de grond in de regel niet belast. Bij een grond die u kreeg via schenking gelden aparte termijnen.\n\nTwee nuances zijn hier belangrijk. Ten eerste wordt de meerwaarde niet berekend als het kale verschil tussen aankoop- en verkoopprijs: er zijn **forfaitaire verhogingen** (onder meer voor de verwervingskosten en een jaarlijkse verhoging per volledig jaar bezit) en de **verkoopkosten** mogen in mindering worden gebracht. Ten tweede geldt de grondregeling in bepaalde gevallen ook voor bebouwde goederen waarvan de waarde van de gebouwen beperkt is ten opzichte van de totale prijs. **Laat uw concrete situatie altijd narekenen door uw notaris of boekhouder** — de details maken hier het verschil. Meer achtergrond leest u in ons artikel over [de meerwaardebelasting](/kennisbank/meerwaardebelasting-tweede-verblijf-belgie).\n\nEn dan is er het effect dat eigenaars het vaakst onderschatten: **uw restwoning kan in waarde dalen**. Een woning met een diepe, rustige tuin is een ander product dan dezelfde woning met een nieuwbouw op tien meter van de keukendeur. Verlies van licht, privacy, zicht en tuinoppervlakte drukt de prijs van wat u overhoudt. Reken dus niet alleen wat het bouwlot opbrengt, maar ook wat uw woning **minder** waard wordt. In sommige dossiers is het totaal van beide lager dan de waarde van het geheel in één keer. Een realistische inschatting van uw woning vindt u in ons artikel over [wat uw woning waard is in Antwerpen](/kennisbank/wat-is-mijn-woning-waard-antwerpen).",
+        table: {
+          headers: ["Verkoop van de grond", "Tarief op de meerwaarde", "Opmerking"],
+          rows: [
+            ["Binnen 5 jaar na de aankoop", "33 % + gemeentelijke opcentiemen", "Belastbaar als divers inkomen"],
+            ["Tussen 5 en 8 jaar na de aankoop", "16,5 % + gemeentelijke opcentiemen", "Belastbaar als divers inkomen"],
+            ["Meer dan 8 jaar na de aankoop", "In de regel geen meerwaardebelasting", "Normaal beheer van privévermogen"],
+            ["Grond verkregen via schenking", "Aparte termijnen en voorwaarden", "Laat dit uitdrukkelijk narekenen"],
+          ],
+        },
+      },
+      {
+        heading: "Liever niet splitsen: verkopen in de huidige staat aan een professionele koper",
+        body: "Een perceel splitsen is een project op zich: landmeter, gemeente, openbaar onderzoek, buren, notaris, fiscaliteit — en pas daarna een koper zoeken. Voor wie het geld sneller nodig heeft, wie de discussie met de gemeente niet wil voeren, of wie merkt dat de grond gewoon geen bouwbestemming heeft, is er een eenvoudiger alternatief: **het geheel verkopen zoals het is**.\n\nWij, **wijkopenpanden.be**, kopen panden in de **regio Antwerpen** aan in de **huidige staat**. U hoeft niets te splitsen, niets op te meten en niets te laten vergunnen. Op uw aanvraag krijgt u **binnen 2 uur een reactie**. Na een **plaatsbezoek** ontvangt u een **schriftelijk bod**. Wij rekenen **geen commissie**, en de **verplichte attesten en de coördinatie met de notaris zijn inbegrepen**. De akte volgt **doorgaans binnen 2 tot 3 maanden**.\n\nDat bod is een vertrekpunt, geen eindpunt. Leg het naast wat u denkt te halen via de klassieke route — met splitsing, met vergunning, met wachttijd en met kosten — en beslis dan met volledige informatie welk spoor voor u het beste uitkomt. Wilt u eerst weten hoe een klassieke verkoop in de regio verloopt, dan leest u dat in onze [gids over een huis verkopen in Antwerpen](/kennisbank/huis-verkopen-antwerpen-gids).",
+      },
+    ],
+    relatedArticles: ["stedenbouwkundige-overtreding-woning-verkopen", "meerwaardebelasting-tweede-verblijf-belgie", "wat-is-mijn-woning-waard-antwerpen", "verkoop-kosten-berekenen", "notariskosten-woning-verkoop", "huis-verkopen-antwerpen-gids"],
+    relatedSituations: ["huis-verkopen-bij-erfenis", "verkopen-zonder-makelaar"],
+    faqs: [
+      {
+        question: "Mag ik een stuk van mijn tuin verkopen aan mijn buur zonder verkavelingsvergunning?",
+        answer:
+          "In de regel wel, op voorwaarde dat het lot niet wordt verkocht met het oog op woningbouw. Voegt uw buur de strook gewoon bij zijn eigen tuin en bouwt hij er geen woning op, dan volstaat doorgaans een notariële splitsing. Uw notaris maakt het splitsingsplan over aan het college van burgemeester en schepenen, dat opmerkingen kan formuleren maar de splitsing in de regel niet kan tegenhouden. Laat het oogmerk uitdrukkelijk in de akte opnemen en vraag uw gemeente vooraf om bevestiging.",
+      },
+      {
+        question: "Heb ik ook een vergunning nodig als ik maar één lot afsplits?",
+        answer:
+          "Ja, in de regel wel, als dat lot bestemd is voor woningbouw. Vlaanderen schrapte de vergunningsplicht voor zulke eenlotsverkavelingen eind 2017, maar het Grondwettelijk Hof vernietigde die vrijstelling in 2019. Sindsdien geldt opnieuw dat wie een deel van zijn tuin afsplitst om het als bouwgrond te verkopen, een omgevingsvergunning voor het verkavelen van gronden moet aanvragen. Informatie van vóór dat arrest die u online tegenkomt, is op dit punt achterhaald.",
+      },
+      {
+        question: "Wat is een splitsingsattest precies?",
+        answer:
+          "Juridisch bestaat er geen vergunning die zo heet. Wat men in de praktijk 'splitsingsattest' noemt, is de kennisgeving die uw notaris op grond van de Vlaamse Codex Ruimtelijke Ordening aan het college van burgemeester en schepenen moet doen wanneer een onroerend goed wordt gesplitst. Het college krijgt daarbij het splitsingsplan en kan binnen de termijn opmerkingen maken, die dan in de akte worden opgenomen. Die opmerkingen zijn informatief: ze beletten de splitsing in de regel niet, maar ze kunnen wel duidelijk maken dat een lot geen bouwgrond is.",
+      },
+      {
+        question: "Mijn tuin ligt in agrarisch gebied. Kan ik hem toch als bouwgrond verkopen?",
+        answer:
+          "Nee. De bestemming op het gewestplan, het BPA of het gemeentelijk RUP bepaalt of grond bebouwbaar is, niet de ligging naast uw woning. Grond in agrarisch gebied, natuurgebied of parkgebied is geen bouwgrond, ook al oogt hij identiek aan het perceel van de buur. U kunt zo'n stuk grond doorgaans wel verkopen als tuinuitbreiding of weiland, maar tegen een fractie van de prijs per vierkante meter van bouwgrond. Vraag de stedenbouwkundige inlichtingen op bij uw gemeente vóór u iets belooft aan een koper.",
+      },
+      {
+        question: "Betaal ik belasting op de meerwaarde als ik een stuk grond verkoop?",
+        answer:
+          "Voor gronden bestaat een aparte regeling die verschilt van die voor gebouwen. Verkoopt u binnen vijf jaar na de aankoop, dan is de meerwaarde in de regel belastbaar aan 33 procent; verkoopt u in de daaropvolgende jaren tot acht jaar, dan aan 16,5 procent, telkens te verhogen met gemeentelijke opcentiemen. Na acht jaar is er in de regel geen meerwaardebelasting bij normaal beheer van uw privévermogen. Er gelden forfaitaire verhogingen en aftrekbare verkoopkosten, en voor geschonken gronden gelden aparte termijnen, dus laat uw situatie narekenen door uw notaris of boekhouder.",
+      },
+      {
+        question: "Koopt wijkopenpanden.be ook een woning met een groot perceel of een onverdeelde tuin?",
+        answer:
+          "Ja. Wij kopen panden in de regio Antwerpen aan in de huidige staat, ook wanneer er nog een splitsing, een verkaveling of een discussie over de bestemming van de grond openstaat. U hoeft dan zelf geen landmeter aan te stellen en geen vergunningsprocedure te doorlopen. Na uw aanvraag krijgt u binnen 2 uur een reactie en na een plaatsbezoek een schriftelijk bod, zonder commissie en met de verplichte attesten en de coördinatie met de notaris inbegrepen. U kunt dat bod rustig vergelijken met wat de klassieke route na een splitsing zou opleveren.",
       },
     ],
   },
