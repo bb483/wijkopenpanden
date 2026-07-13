@@ -59,10 +59,14 @@ const organizationSchema = {
   areaServed: "Antwerpen",
 };
 
+// Geen h-full op <html>: dat pint de border-box vast op de vensterhoogte, waardoor
+// Lenis' ResizeObserver (die documentElement observeert) nooit afgaat als de
+// paginahoogte verandert — Lenis bleef dan met de scrollhoogte van de vórige pagina
+// werken en klemde elk scrolldoel op de oude limiet.
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="nl" className={`${playfair.variable} ${jakarta.variable} h-full`}>
-      <body className="min-h-full flex flex-col bg-[#FAF7F2] text-[#1C1610]">
+    <html lang="nl" className={`${playfair.variable} ${jakarta.variable}`}>
+      <body className="min-h-screen flex flex-col bg-[#FAF7F2] text-[#1C1610]">
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationSchema) }}

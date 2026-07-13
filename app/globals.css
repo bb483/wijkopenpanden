@@ -35,6 +35,14 @@ html {
   font-size: 17px;
 }
 
+/* Lenis zet zelf de klasse .lenis op <html> zodra het actief is (desktop).
+   De native smooth-scroll van de browser vecht dan met Lenis' eigen rAF-lus:
+   een hash-sprong (bv. /#formulier) landt halverwege of stottert. Op mobiel
+   draait Lenis niet, daar blijft de CSS smooth-scroll gewoon staan. */
+html.lenis {
+  scroll-behavior: auto;
+}
+
 body {
   background: var(--background);
   color: var(--foreground);
