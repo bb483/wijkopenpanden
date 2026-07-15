@@ -182,7 +182,7 @@ export const articles: Article[] = [
         body: "Een opkoper biedt u minder dan de theoretische marktwaarde, maar de bijkomende kosten en wachttijd bij een klassieke verkoop verkleinen het verschil aanzienlijk. Bij een woning in mindere staat, erfenis of tijdsdruk kan een rechtstreekse verkoop zelfs financieel gelijkwaardig of voordeliger uitkomen.\n\nDe keuze hangt niet alleen van de prijs af, maar ook van uw persoonlijke situatie: heeft u tijd, of heeft u zekerheid en snelheid nodig?",
       },
     ],
-    relatedArticles: ["commissie-makelaar-belgie", "notariskosten-woning-verkoop", "keuringen-bij-verkoop-woning"],
+    relatedArticles: ["commissie-makelaar-belgie", "notariskosten-woning-verkoop", "keuringen-bij-verkoop-woning", "kadastraal-inkomen-en-woningverkoop"],
     relatedSituations: ["verkopen-zonder-makelaar"],
     faqs: [
       {
@@ -400,7 +400,7 @@ export const articles: Article[] = [
         body: "Koper en verkoper mogen elk hun eigen notaris kiezen. Ze delen dan het ereloon. Dit kost u als verkoper niets extra maar biedt u een vertrouwenspersoon die uw belangen bewaakt bij de opmaak van de akte. Bij complexe situaties (erfenis, echtscheiding, meerdere eigenaars) is een eigen notaris aan te raden.",
       },
     ],
-    relatedArticles: ["verkoopbelofte-compromis-akte", "verkoop-kosten-berekenen", "belastingschulden-bij-verkoop-notariele-notificatie"],
+    relatedArticles: ["verkoopbelofte-compromis-akte", "verkoop-kosten-berekenen", "belastingschulden-bij-verkoop-notariele-notificatie", "woning-verkopen-met-hypothecair-mandaat"],
     relatedSituations: ["huis-verkopen-bij-erfenis", "huis-verkopen-bij-scheiding"],
     faqs: [
       {
@@ -635,7 +635,7 @@ export const articles: Article[] = [
         },
       },
     ],
-    relatedArticles: ["notariskosten-woning-verkoop", "verkoop-kosten-berekenen", "erfenis-woning-stappenplan"],
+    relatedArticles: ["notariskosten-woning-verkoop", "verkoop-kosten-berekenen", "erfenis-woning-stappenplan", "kadastraal-inkomen-en-woningverkoop", "onroerende-voorheffing-verrekenen-bij-verkoop"],
     relatedSituations: ["huis-verkopen-bij-erfenis", "huis-verkopen-bij-scheiding"],
     faqs: [
       {
@@ -697,7 +697,7 @@ export const articles: Article[] = [
         body: "Bij elke verkoop van mede-eigendom is een notaris verplicht. De notaris:\n• Stelt de verkoopovereenkomst en akte op\n• Verdeelt de opbrengst tussen de mede-eigenaars naar rato van hun aandeel\n• Vereffent de openstaande hypotheek (als die er is)\n• Zorgt voor de fiscale aangifte\n\nAls de mede-eigenaars verschillende notarissen willen, is dat mogelijk. De kopers- en verkopers-notaris werken dan samen.\n\nBij verkoop aan wijkopenpanden.be regelen wij de volledige coördinatie met de notaris(sen). U hoeft zich niet te bekommeren om de administratie.",
       },
     ],
-    relatedArticles: ["erfenis-woning-stappenplan", "belastingen-bij-woningverkoop", "verkoop-kosten-berekenen", "mede-eigenaar-wil-niet-verkopen-uit-onverdeeldheid", "woning-verkopen-met-minderjarige-eigenaar"],
+    relatedArticles: ["erfenis-woning-stappenplan", "belastingen-bij-woningverkoop", "verkoop-kosten-berekenen", "mede-eigenaar-wil-niet-verkopen-uit-onverdeeldheid", "woning-verkopen-met-minderjarige-eigenaar", "woning-verkopen-met-erfpacht-of-opstalrecht"],
     relatedSituations: ["huis-verkopen-bij-erfenis", "huis-verkopen-bij-scheiding"],
     faqs: [
       {
@@ -1618,7 +1618,7 @@ export const articles: Article[] = [
         body: "Erfgenamen die een leegstaande woning erven, worden mede-eigenaar van het pand en zijn samen verantwoordelijk voor de leegstandsheffing. Dat leidt in de praktijk tot twee problemen:\n\nFinancieel: de heffing loopt maandelijks door, ook terwijl de erfgenamen onderling overleggen over wat er met het pand moet gebeuren. Iedere maand uitstel kost geld.\n\nJuridisch: bij mede-eigendom moeten álle erfgenamen akkoord gaan met een beslissing (verhuren, renoveren, verkopen). Bij meningsverschillen kan dit een traject van maanden of jaren worden — terwijl de heffing doorloopt.\n\nVoor erfgenamen in de Antwerpse regio biedt een snelle verkoop aan een opkoper een praktische uitweg: één notariële akte, de opbrengst verdeeld onder de erfgenamen, en de heffing eindigt definitief. Geen verdere discussies, geen maandelijkse kosten.",
       },
     ],
-    relatedArticles: ["verhuren-of-verkopen-antwerpen", "energie-renovatieplicht-vlaanderen-2026", "woning-verkopen-met-krakers-of-domiciliefraude"],
+    relatedArticles: ["verhuren-of-verkopen-antwerpen", "energie-renovatieplicht-vlaanderen-2026", "woning-verkopen-met-krakers-of-domiciliefraude", "onroerende-voorheffing-verrekenen-bij-verkoop"],
     relatedSituations: ["huis-verkopen-bij-erfenis", "opknappand-verkopen", "pand-met-huurders-verkopen"],
     faqs: [
       {
@@ -1920,7 +1920,7 @@ export const articles: Article[] = [
         body: "Ja, en het verloopt identiek als bij een klassieke verkoop. De notaris lost de hypotheek af bij de akte en u ontvangt het nettobedrag na aftrek van de schuld en de kosten.\n\nEen bijkomend voordeel bij verkoop aan een vastgoedopkoper: de akte kan sneller worden gepland (doorgaans binnen twee tot drie maanden), waardoor u ook sneller verlost bent van de maandelijkse hypotheeklasten. Voor eigenaars die de lening als financiële last ervaren, is dat een concrete besparing.\n\nWijkopenpanden.be koopt woningen aan in alle situaties, ook als er een lopende hypotheek op rust. Wij coördineren met de notaris en zorgen voor een vlotte afhandeling.",
       },
     ],
-    relatedArticles: ["commissie-makelaar-belgie", "hoelang-duurt-huis-verkopen-belgie", "huis-verkopen-antwerpen-gids", "huis-verkopen-bij-betalingsproblemen-schulden"],
+    relatedArticles: ["commissie-makelaar-belgie", "hoelang-duurt-huis-verkopen-belgie", "huis-verkopen-antwerpen-gids", "huis-verkopen-bij-betalingsproblemen-schulden", "woning-verkopen-met-hypothecair-mandaat"],
     relatedSituations: ["huis-verkopen-bij-scheiding", "verkopen-zonder-makelaar"],
     faqs: [
       {
@@ -1986,7 +1986,7 @@ export const articles: Article[] = [
         body: "Bij de verkoop aan een vastgoedopkoper zoals wijkopenpanden.be verloopt het compromis sneller en eenvoudiger dan bij een klassieke verkoop:\n\n• Geen financieringsvoorwaarde: wijkopenpanden.be koopt cash — u heeft geen risico dat de verkoop na weken wordt geannuleerd omdat de koper geen lening krijgt\n• Snellere timing: het compromis kan binnen enkele dagen na het bod worden getekend\n• Eenvoudigere clausules: er zijn geen complexe voorwaarden, geen makelaarsclausules en geen lange onderhandelingen\n• Zekerheid: zodra u het compromis tekent, is de verkoop definitief\n\nDit maakt de verkoop via opkoper bijzonder aantrekkelijk voor eigenaars die zekerheid willen over de timing en het definitieve karakter van de transactie.",
       },
     ],
-    relatedArticles: ["hoelang-duurt-huis-verkopen-belgie", "commissie-makelaar-belgie", "huis-verkopen-met-hypotheek"],
+    relatedArticles: ["hoelang-duurt-huis-verkopen-belgie", "commissie-makelaar-belgie", "huis-verkopen-met-hypotheek", "onroerende-voorheffing-verrekenen-bij-verkoop"],
     relatedSituations: ["huis-verkopen-bij-scheiding", "huis-verkopen-bij-erfenis", "verkopen-zonder-makelaar"],
     faqs: [
       {
@@ -3134,7 +3134,7 @@ export const articles: Article[] = [
         body: "Een woning met vruchtgebruik verkopen vraagt vooral één ding: een voorstel waar álle partijen tegelijk ja op kunnen zeggen. Lange bezichtigingsrondes, afspringende kopers met een financieringsvoorbehoud of maandenlange onzekerheid maken het moeilijk om een ouder en meerdere kinderen op één lijn te houden.\n\nDaarom kiezen families in deze situatie geregeld voor een directe verkoop aan wijkopenpanden.be. U ontvangt een **gratis en vrijblijvend bod**, met reactie binnen 2 uur — ook in het weekend — en doorgaans een plaatsbezoek binnen 48 uur. Het bod is schriftelijk gemotiveerd, zodat vruchtgebruiker en blote eigenaars op basis van dezelfde cijfers kunnen beslissen en de verdeling via de omzettingstabellen transparant kunnen doorrekenen. Wij kopen in de huidige staat, betalen uit eigen middelen zonder financieringsvoorbehoud en rekenen geen makelaarscommissie aan. Na akkoord coördineren wij de attesten met de notaris en volgt de akte doorgaans binnen 2 à 3 maanden. Zo krijgt elke partij snel duidelijkheid over wie wat krijgt — zonder dat de familieband onder de verkoop lijdt.",
       },
     ],
-    relatedArticles: ["erfenis-woning-stappenplan", "schenking-woning-vlaanderen", "erfbelasting-vlaanderen-2026", "mede-eigendom-verkopen", "blijven-wonen-na-verkoop", "notariskosten-woning-verkoop"],
+    relatedArticles: ["erfenis-woning-stappenplan", "schenking-woning-vlaanderen", "erfbelasting-vlaanderen-2026", "mede-eigendom-verkopen", "blijven-wonen-na-verkoop", "notariskosten-woning-verkoop", "woning-verkopen-met-erfpacht-of-opstalrecht"],
     relatedSituations: ["huis-verkopen-bij-erfenis"],
     faqs: [
       {
@@ -5321,6 +5321,359 @@ export const articles: Article[] = [
           "Ja. Wij kopen panden in de regio Antwerpen aan in de huidige staat, ook wanneer er nog een splitsing, een verkaveling of een discussie over de bestemming van de grond openstaat. U hoeft dan zelf geen landmeter aan te stellen en geen vergunningsprocedure te doorlopen. Na uw aanvraag krijgt u binnen 2 uur een reactie en na een plaatsbezoek een schriftelijk bod, zonder commissie en met de verplichte attesten en de coördinatie met de notaris inbegrepen. U kunt dat bod rustig vergelijken met wat de klassieke route na een splitsing zou opleveren.",
       },
     ],
+  },
+  {
+    slug: "woning-verkopen-met-erfpacht-of-opstalrecht",
+    title: "Woning verkopen met erfpacht of opstalrecht: wat verkoopt u precies?",
+    metaTitle: "Woning verkopen met erfpacht of opstalrecht (2026)",
+    metaDescription: "Ja, u kunt een woning met erfpacht of opstalrecht verkopen. Ontdek wat u verkoopt, de duur en canon onder Boek 3 BW en wat koper en notaris checken.",
+    publishedAt: "2026-07-15",
+    updatedAt: "2026-07-15",
+    intro: "Ja, u kunt een woning met erfpacht of opstalrecht verkopen — maar u verkoopt zelden 'de woning' in volle eigendom. Bij deze zakelijke rechten zijn de grond (de tréfonds) en het gebouw juridisch gesplitst: u draagt dan het erfpachtrecht of het opstalrecht over, óf net de grond waarop het recht rust. Wat de koper krijgt, hoe lang het recht nog loopt en of er een canon betaald wordt, bepaalt in sterke mate de prijs en de financierbaarheid. Sinds 1 september 2021 geldt bovendien het vernieuwde Boek 3 van het Burgerlijk Wetboek, dat de oude Erfpacht- en Opstalwet van 1824 verving. In dit artikel leest u wat u precies verkoopt, welke termijnen en regels gelden en wat koper en notaris controleren.",
+    sections: [
+      {
+        heading: "Erfpacht en opstalrecht: wat verkoopt u precies?",
+        body: "Zowel **erfpacht** als **opstalrecht** zijn zakelijke rechten op andermans onroerend goed. Ze splitsen wat bij gewone eigendom één geheel vormt: de grond enerzijds, het gebruik of de gebouwen anderzijds.\n\nBij **erfpacht** krijgt de erfpachter een ruim genotsrecht op andermans grond of gebouw: hij mag het volledig gebruiken en er de vruchten van innen, bijna als een eigenaar, maar voor een beperkte tijd. De **grondeigenaar** (juridisch de eigenaar van de tréfonds) behoudt de blote eigendom van de grond.\n\nBij opstalrecht krijgt de opstalhouder specifiek het recht om gebouwen, werken of beplantingen — de zogenaamde **opstallen** — te hebben of op te richten op, boven of onder andermans grond. De grond blijft van de grondeigenaar, de opstallen zijn (tijdelijk) van de opstalhouder. Onder het vernieuwde goederenrecht is opstal een recht op volumes, wat stapelbouw en gesplitste projecten mogelijk maakt.\n\nWat verkoopt u dan concreet? Dat hangt af van uw positie:\n\n• Bent u erfpachter of opstalhouder, dan verkoopt u uw **erfpachtrecht** respectievelijk uw opstalrecht — niet de grond.\n• Bent u grondeigenaar, dan verkoopt u de **tréfonds**: de grond, belast met het recht van de ander.\n• Bezit u uitzonderlijk beide (grond én recht in dezelfde hand), dan kunt u naar volle eigendom evolueren en die verkopen.\n\nDe eigendomstitel en de vestigingsakte tonen exact welke rol u heeft — laat dit door uw notaris nakijken."
+      },
+      {
+        heading: "Het verschil met volle eigendom en vruchtgebruik",
+        body: "Om te weten wat u verkoopt, helpt het om vier situaties naast elkaar te zetten. Bij **volle eigendom** bezit u grond én gebouw onbeperkt in de tijd. **Vruchtgebruik** geeft, net als erfpacht, een genotsrecht, maar het is in de regel gekoppeld aan een persoon en dooft uit bij diens overlijden; erfpacht en opstal zijn daarentegen **zakelijke rechten** met een vaste einddatum die u vrij kunt overdragen. Meer over die eerste situatie leest u in ons artikel Woning verkopen met vruchtgebruik.\n\nHet grote onderscheid: erfpacht is een breed genotsrecht op het geheel, terwijl opstal specifiek draait om het eigenaarschap van de **opstallen** (gebouwen) los van de grond. Onderstaande tabel vat de kernverschillen samen.",
+        table: {
+          headers: ["Aspect", "Volle eigendom", "Erfpacht", "Opstalrecht", "Vruchtgebruik"],
+          rows: [
+            ["Wat bezit u", "Grond én gebouw", "Ruim genotsrecht op andermans goed", "De opstallen op andermans grond", "Gebruik en vruchten van andermans goed"],
+            ["Duur", "Onbeperkt", "Minimaal 15, maximaal 99 jaar", "Maximaal 99 jaar (uitzonderlijk eeuwigdurend)", "Maximaal 99 jaar; dooft uit bij overlijden"],
+            ["Overdraagbaar en verkoopbaar", "Ja, volledig", "Ja, vrij overdraagbaar en hypothekeerbaar", "Ja, vrij overdraagbaar en hypothekeerbaar", "Overdraagbaar, maar eindigt bij overlijden vruchtgebruiker"],
+            ["Periodieke vergoeding", "Geen", "Canon mogelijk, niet langer verplicht", "Vergoeding mogelijk, niet verplicht", "Geen canon; wel onderhoudslasten"],
+            ["Einde van het recht", "Niet van toepassing", "Natrekking naar grondeigenaar, met vergoeding", "Natrekking naar grondeigenaar, met vergoeding", "Volle eigendom hergroepeert bij blote eigenaar"]
+          ]
+        }
+      },
+      {
+        heading: "Duur, canon en einde van het recht onder Boek 3 BW",
+        body: "Sinds 1 september 2021 regelt **Boek 3 van het Burgerlijk Wetboek** (het vernieuwde goederenrecht) zowel erfpacht als opstal; het verving de oude Erfpachtwet en Opstalwet van 1824. Enkele regels zijn van dwingend recht, veel andere zijn aanvullend — partijen hebben dus een ruime contractvrijheid.\n\nVoor **erfpacht** (art. 3.167 e.v. BW) geldt een dwingende duur van minimaal 15 jaar en maximaal 99 jaar. Belangrijk en vaak onbekend: een periodieke **canon** (grondrente) is niet langer een essentieel bestanddeel. Onder de oude wet was een canon verplicht; onder Boek 3 kan erfpacht ook zonder of tegen een eenmalige vergoeding gevestigd worden.\n\nVoor opstalrecht (art. 3.177 e.v. BW) is de maximumduur eveneens 99 jaar. Nieuw is de mogelijkheid van een **eeuwigdurend opstalrecht** in twee uitzonderingsgevallen: (1) wanneer de grondeigenaar het vestigt voor doeleinden van openbaar domein, en (2) om de opdeling in volumes mogelijk te maken van een complex en heterogeen onroerend geheel — verschillende volumes die zelfstandig gebruikt worden en geen enkel gemeenschappelijk deel hebben. Buiten die gevallen geldt de grens van 99 jaar.\n\nWat gebeurt er op het einde? Dan speelt de **natrekking**: de grondeigenaar wordt van rechtswege eigenaar van de opstallen. Bij ontstentenis van een andersluidend beding is hij daarvoor een vergoeding voor de restwaarde verschuldigd aan de (voormalige) erfpachter of opstalhouder. Omdat dit aanvullend recht is, kunnen partijen dit contractueel anders regelen — controleer daarom altijd het vergoedingsbeding in uw akte.",
+        table: {
+          headers: ["Kenmerk", "Erfpacht", "Opstalrecht"],
+          rows: [
+            ["Aard van het recht", "Ruim genotsrecht op andermans onroerend goed", "Recht om opstallen te hebben op andermans grond"],
+            ["Wettelijke basis", "Art. 3.167 e.v. Boek 3 BW", "Art. 3.177 e.v. Boek 3 BW"],
+            ["Minimumduur", "15 jaar", "Geen wettelijk minimum"],
+            ["Maximumduur", "99 jaar", "99 jaar (uitzonderlijk eeuwigdurend)"],
+            ["Periodieke canon", "Mogelijk, niet langer verplicht", "Vergoeding mogelijk, niet verplicht"],
+            ["Wat u verkoopt", "Het erfpachtrecht, of de tréfonds als grondeigenaar", "Het opstalrecht en de opstallen, of de tréfonds"],
+            ["Einde: natrekking", "Grondeigenaar wordt eigenaar, met vergoeding tenzij anders bepaald", "Grondeigenaar wordt eigenaar, met vergoeding tenzij anders bepaald"]
+          ]
+        }
+      },
+      {
+        heading: "Wat uw recht waard is: prijs en financiering",
+        body: "De waarde van een erfpacht- of opstalrecht hangt sterk af van de **resterende looptijd**. Een recht dat nog 80 jaar loopt, benadert de waarde van volle eigendom; een recht met nog 10 of 15 jaar te gaan is veel minder waard, want de koper weet dat de opstallen bij het einde via natrekking naar de grondeigenaar gaan. Ook een lopende **canon** drukt de prijs: die last neemt de koper immers over.\n\nOnroerende zakelijke rechten zijn in principe vrij **overdraagbaar** en kunnen met een **hypotheek** bezwaard worden, wat een verkoop mogelijk maakt. Toch zijn banken voorzichtiger dan bij volle eigendom: een hypotheek kan nooit langer lopen dan de resterende duur van het recht, en naarmate de einddatum nadert daalt de zekerheid voor de bank. Bij een korte resterende looptijd kan dat de **financierbaarheid** voor kandidaat-kopers bemoeilijken, wat het aantal geïnteresseerden beperkt.\n\nLaat uw recht dus correct waarderen op basis van de akte (looptijd, canon, vergoedingsbeding) vóór u een prijs bepaalt. Wilt u eerst een beeld van de marktwaarde in uw regio, dan biedt ons overzicht wat is mijn woning waard in Antwerpen een eerste houvast."
+      },
+      {
+        heading: "Registratierechten en fiscaliteit: laat u bijstaan door uw notaris",
+        body: "De fiscale behandeling van erfpacht en opstal verschilt van een gewone woningverkoop, en de regels zijn recent gewijzigd. Bij de **vestiging** van een erfpacht- of opstalrecht is sinds 1 januari 2024 een **registratierecht** van 5% verschuldigd (voordien 2%), berekend op het geheel van de canon en lasten over de volledige looptijd. Dit registratierecht is een federale bevoegdheid.\n\nTer vergelijking: bij de aankoop van volle eigendom betaalt de koper in Vlaanderen het **verkooprecht**, dat 12% bedraagt of 2% voor wie er zijn enige eigen gezinswoning koopt (met vanaf 2026 strengere voorwaarden). De belastbare grondslag en het tarief verschillen dus wezenlijk naargelang u volle eigendom dan wel een zakelijk recht overdraagt.\n\nDe fiscale kwalificatie van de overdracht van een bestaand erfpacht- of opstalrecht is complex en hangt af van de concrete constructie, de resterende looptijd en of er nog een **canon** loopt. Wij geven hier bewust geen sluitend fiscaal advies: laat u altijd bijstaan door uw notaris, die de juiste heffing berekent en de akte correct laat registreren. Een overzicht van de bijkomende kosten vindt u in ons artikel over de notariskosten bij de verkoop van een woning."
+      },
+      {
+        heading: "Wat koper en notaris controleren",
+        body: "Een koper en zijn notaris kijken een dossier met erfpacht of opstal grondiger na dan een klassieke verkoop. In de praktijk controleren zij onder meer:\n\n• De **vestigingsakte** en de exacte inhoud van het recht: aanvangsdatum, resterende looptijd, verlengings- en opzegmogelijkheden.\n• Of er nog een **canon** verschuldigd is, de hoogte ervan en of er geen achterstallen zijn.\n• Het **natrekkings- en vergoedingsbeding**: wat gebeurt er met de opstallen op de einddatum en welke vergoeding is voorzien?\n• Bijzondere verplichtingen tegenover de grondeigenaar, zoals onderhoud, bestemming of toestemming bij overdracht.\n• Bestaande zekerheden en lasten, zoals hypotheken, of **erfdienstbaarheden** die op het goed rusten — meer daarover in ons artikel over erfdienstbaarheid en recht van doorgang.\n\nDe overdracht zelf gebeurt via een notariële akte die op het bevoegde kantoor Rechtszekerheid wordt overgeschreven; die **overschrijving** maakt de overdracht tegenwerpelijk aan derden. Betreft het een opstal binnen een groter gebouwencomplex, dan komt daar mogelijk nog de werking van een vereniging van mede-eigenaars bij kijken. Een goed opgebouwd dossier — met een kopie van de vestigingsakte en de recentste canonafrekening — versnelt de verkoop aanzienlijk."
+      },
+      {
+        heading: "Verkopen in de huidige staat aan wijkopenpanden.be",
+        body: "Een pand met erfpacht of opstalrecht is juridisch complexer dan een gewone woning: de gesplitste eigendom, de resterende looptijd en het vergoedingsbeding schrikken sommige kandidaat-kopers af. Wij bekijken zulke dossiers uitdrukkelijk mee.\n\nwijkopenpanden.be koopt woningen en panden rechtstreeks aan in de **regio Antwerpen**, in de **huidige staat** — u hoeft niets op te knappen of te ontruimen. Na uw aanvraag reageren wij doorgaans **binnen 2 uur**. Na een plaatsbezoek ontvangt u een **schriftelijk bod**, zodat u rustig kunt beslissen. Wij rekenen **geen commissie** aan, en de coördinatie van de nodige attesten met de notaris is inbegrepen.\n\nGaat u akkoord, dan verzorgen wij de verdere afhandeling en volgt de notariële akte doorgaans binnen 2 à 3 maanden. Omdat elk dossier met een zakelijk recht anders is, bekijken wij eerst samen met u en uw notaris de vestigingsakte en de resterende looptijd, zodat u vooraf weet waar u aan toe bent."
+      }
+    ],
+    relatedArticles: ["vruchtgebruik-woning-verkopen", "erfdienstbaarheid-recht-van-doorgang-woning-verkopen", "mede-eigendom-verkopen", "notariskosten-woning-verkoop", "appartement-vme-syndicus-verkopen", "wat-is-mijn-woning-waard-antwerpen"],
+    relatedSituations: ["verkopen-zonder-makelaar", "huis-verkopen-bij-erfenis"],
+    faqs: [
+      {
+        question: "Kan ik een woning met erfpacht of opstalrecht verkopen?",
+        answer: "Ja. Erfpacht en opstal zijn overdraagbare zakelijke rechten, dus u kunt uw erfpachtrecht of opstalrecht verkopen. Bent u grondeigenaar, dan verkoopt u de grond (de tréfonds) die met het recht van de ander belast is. U verkoopt dus zelden 'de woning' in volle eigendom, maar wel uw juridische positie erin. De resterende looptijd en een eventuele canon bepalen mee de prijs."
+      },
+      {
+        question: "Verkoop ik de grond of het gebouw?",
+        answer: "Dat hangt af van uw rol. Als erfpachter of opstalhouder verkoopt u uw recht op het gebruik of op de gebouwen, niet de grond zelf. Als grondeigenaar verkoopt u de tréfonds: de grond, belast met het recht van de ander. Bezit u zowel de grond als het recht, dan kunt u naar volle eigendom evolueren en die verkopen. De vestigingsakte toont welke situatie op u van toepassing is."
+      },
+      {
+        question: "Moet er nog een canon betaald worden bij erfpacht?",
+        answer: "Niet noodzakelijk. Onder de oude wet van 1824 was een periodieke canon een essentieel bestanddeel van erfpacht. Sinds Boek 3 van het Burgerlijk Wetboek in werking trad op 1 september 2021, is een canon niet langer verplicht: erfpacht kan ook zonder of tegen een eenmalige vergoeding gevestigd worden. Of er in uw geval een canon loopt, leest u in de vestigingsakte."
+      },
+      {
+        question: "Hoe lang kunnen erfpacht en opstal duren?",
+        answer: "Erfpacht duurt minimaal 15 en maximaal 99 jaar; die grenzen zijn dwingend. Opstalrecht kan maximaal 99 jaar duren. Uitzonderlijk kan opstal eeuwigdurend zijn: wanneer het gevestigd wordt voor doeleinden van openbaar domein, of om een complex en heterogeen onroerend geheel in volumes op te delen. Buiten die twee gevallen geldt de grens van 99 jaar."
+      },
+      {
+        question: "Wat gebeurt er met de gebouwen op het einde van het recht?",
+        answer: "Op de einddatum speelt de natrekking: de grondeigenaar wordt van rechtswege eigenaar van de opstallen. Tenzij de akte anders bepaalt, is hij daarvoor een vergoeding voor de restwaarde verschuldigd aan de voormalige erfpachter of opstalhouder. Omdat deze regel aanvullend is, kunnen partijen in de akte een afwijkend vergoedingsbeding opnemen. Controleer dat beding dus zorgvuldig."
+      },
+      {
+        question: "Koopt wijkopenpanden.be een woning met erfpacht of opstalrecht?",
+        answer: "Ja. Wij kopen in de regio Antwerpen ook panden met een erfpacht- of opstalrecht, in de huidige staat. Zulke dossiers zijn complexer, dus bekijken wij samen met u en uw notaris de vestigingsakte en de resterende looptijd. Na een plaatsbezoek ontvangt u een schriftelijk bod, zonder commissie en met coördinatie van de attesten en de notaris inbegrepen."
+      }
+    ]
+  },
+  {
+    slug: "kadastraal-inkomen-en-woningverkoop",
+    title: "Kadastraal inkomen en de verkoop van uw woning: wat betekent het?",
+    metaTitle: "Kadastraal inkomen bij verkoop woning: uitleg 2026",
+    metaDescription: "Het kadastraal inkomen verandert niet door de verkoop zelf, maar bepaalt uw onroerende voorheffing en personenbelasting en kan herzien zijn na verbouwing.",
+    publishedAt: "2026-07-15",
+    updatedAt: "2026-07-15",
+    intro: "Het kadastraal inkomen (KI) van uw woning verandert niet door de verkoop op zich. De verkoop als zodanig leidt dus niet tot een hoger of lager KI. Toch is het KI relevant bij een verkoop: het bepaalt hoeveel onroerende voorheffing en, in sommige gevallen, personenbelasting op de woning verschuldigd is, en het kan intussen herzien zijn wanneer u verbouwde, uitbreidde of nieuw bouwde. De koper erft het bestaande KI en houdt er rekening mee, omdat het fiscale gevolgen heeft. In dit artikel leggen wij uit wat het kadastraal inkomen precies is, waarvoor het dient, wanneer het herzien wordt en waarom een verkoop het KI in de regel ongemoeid laat.",
+    sections: [
+      {
+        heading: "Wat is het kadastraal inkomen precies?",
+        body: "Het **kadastraal inkomen** (KI) is geen werkelijk inkomen dat u ontvangt, maar een fictief bedrag. Het staat voor het gemiddelde jaarlijkse **netto-huurinkomen** dat uw eigendom zou opbrengen op een wettelijk referentietijdstip, namelijk **1 januari 1975**. Met 'netto' wordt de huur bedoeld na aftrek van een forfaitaire kostenpost voor onderhoud en herstelling.\n\nOmdat dat referentietijdstip al decennia niet meer algemeen werd herzien, wordt het KI jaarlijks **geïndexeerd** aan de consumptieprijzen. Zo blijft het bedrag een actuelere weerspiegeling. De indexatiecoëfficiënt wordt elk jaar vastgelegd door de FOD Financiën; voor aanslagjaar 2026 ligt die volgens de FOD rond 2,3, maar het exacte cijfer kijkt u het best na bij de officiële bron.\n\nHet KI wordt vastgesteld door de **Algemene Administratie van de Patrimoniumdocumentatie** (AAPD), beter bekend als het Kadaster. U vindt uw KI terug op het aanslagbiljet van de onroerende voorheffing en via MyMinfin."
+      },
+      {
+        heading: "Waarvoor dient het kadastraal inkomen bij een verkoop?",
+        body: "Het KI is op zichzelf geen belasting, maar een **rekengrondslag** waarop verschillende belastingen worden berekend. Bij een woning speelt het op drie vlakken een rol.\n\nTen eerste vormt het geïndexeerde KI de basis van de **onroerende voorheffing**, een jaarlijkse gewestbelasting. Ten tweede kan het KI meespelen in de **personenbelasting**, afhankelijk van of het om uw eigen woning of om een tweede verblijf gaat. Ten derde speelde het KI historisch een rol bij de **registratierechten** via het zogenaamde klein beschrijf, al is dat intussen afgeschaft (zie verder).\n\nMeer over de fiscale afrekening leest u in ons artikel Belastingen bij de verkoop van een woning en, specifiek voor de jaarlijkse belasting, in Onroerende voorheffing verrekenen bij verkoop.",
+        table: {
+          headers: ["Waarvoor het KI dient", "Wat het bepaalt", "Wie het gebruikt"],
+          rows: [
+            ["Onroerende voorheffing", "Jaarlijkse gewestbelasting op basis van het geïndexeerd KI", "Vlaamse Belastingdienst (VLABEL), gemeente en provincie"],
+            ["Personenbelasting", "Belastbaar onroerend inkomen (eigen woning vaak vrijgesteld)", "FOD Financiën"],
+            ["Registratierechten (historisch)", "Drempel voor het vroegere klein beschrijf op basis van het KI", "Notaris en VLABEL (afgeschaft sinds 2018)"]
+          ]
+        }
+      },
+      {
+        heading: "Kadastraal inkomen versus marktwaarde en verkoopprijs",
+        body: "Een veelgemaakte vergissing is dat het kadastraal inkomen gelijk zou zijn aan de **waarde** van uw woning. Dat klopt niet. Het KI is een **fictief huurinkomen** op basis van 1975, terwijl de **marktwaarde** en de uiteindelijke **verkoopprijs** de actuele waarde in het economisch verkeer weerspiegelen. Een woning met een laag of verouderd KI kan perfect een hoge verkoopprijs halen, en omgekeerd.\n\nWilt u weten wat uw woning vandaag waard is, dan is het KI daar geen betrouwbare maatstaf voor. Een inschatting van de actuele waarde vindt u eerder terug in ons artikel Wat is mijn woning waard in Antwerpen. De onderstaande tabel zet de drie begrippen naast elkaar.",
+        table: {
+          headers: ["Begrip", "Wat het is", "Wie het gebruikt"],
+          rows: [
+            ["Kadastraal inkomen (KI)", "Fictief netto-huurinkomen op basis van 1 januari 1975, geïndexeerd", "Fiscus (onroerende voorheffing en personenbelasting)"],
+            ["Marktwaarde", "Geschatte actuele waarde in het economisch verkeer", "Schatter, notaris, koper en verkoper"],
+            ["Verkoopprijs", "De prijs die koper en verkoper effectief overeenkomen", "Partijen bij de verkoop; basis voor het verkooprecht"]
+          ]
+        }
+      },
+      {
+        heading: "Wanneer wordt het kadastraal inkomen herzien?",
+        body: "Het KI verandert niet zomaar, maar er geldt wel een **aangifteplicht**. Wanneer u nieuw bouwt, verbouwt, uitbreidt of de aard van het gebouw wijzigt, moet u dit spontaan melden aan het Kadaster (AAPD). Volgens de FOD Financiën moet die **aangifte** in de regel gebeuren binnen **30 dagen** na de voltooiing of ingebruikname van de werken, via MyMinfin of per post.\n\nOp basis van die melding kan het Kadaster het KI **herschatten**. Werken die de woonkwaliteit of de oppervlakte verhogen, leiden doorgaans tot een hoger KI, en dus tot een hogere onroerende voorheffing. Wie zijn aangifte nalaat, riskeert een boete. Ook energetische ingrepen kunnen relevant zijn; hierover leest u meer in ons artikel over de energie- en renovatieplicht in Vlaanderen.\n\nDe onderstaande tabel toont enkele courante situaties en hun mogelijke gevolg voor het KI.",
+        table: {
+          headers: ["Situatie", "Aangifte aan het Kadaster?", "Mogelijk gevolg voor het KI"],
+          rows: [
+            ["Nieuwbouw", "Ja, in de regel binnen 30 dagen", "Nieuw KI wordt vastgesteld"],
+            ["Uitbreiding of aanbouw (meer oppervlakte)", "Ja", "Doorgaans hoger KI"],
+            ["Ingrijpende verbouwing die het comfort verhoogt", "Ja", "Mogelijk hoger KI"],
+            ["Bestemmingswijziging van het gebouw", "Ja", "KI kan worden herzien"],
+            ["Gewoon onderhoud of herstelling", "In de regel niet", "Doorgaans geen wijziging"]
+          ]
+        }
+      },
+      {
+        heading: "Verandert het KI door de verkoop van uw woning?",
+        body: "Neen. Een **verkoop** op zich verandert het kadastraal inkomen niet. Het KI is gekoppeld aan het **onroerend goed**, niet aan de eigenaar. Bij de overdracht neemt de **koper** het bestaande KI over en betaalt hij vanaf dan de onroerende voorheffing.\n\nWel is er een belangrijk aandachtspunt. Als u vóór de verkoop verbouwde of uitbreidde en dat nog niet aangaf, kan het Kadaster het KI alsnog **herzien**, ook rond het moment van de verkoop. De notaris en de koper kijken doorgaans na of er geen niet-aangegeven werken zijn, omdat een correcte vaststelling het KI en dus de toekomstige belasting beïnvloedt. In het jaar van de verkoop wordt de onroerende voorheffing bovendien vaak pro rata verrekend tussen verkoper en koper; hoe dat werkt, leest u in Onroerende voorheffing verrekenen bij verkoop."
+      },
+      {
+        heading: "Van klein beschrijf naar het huidige verkooprecht",
+        body: "Historisch bepaalde het KI mee welk **registratierecht** (verkooprecht) de koper betaalde. Lag het KI onder een bepaalde grens (in de praktijk 745 euro), dan gold het gunstige **klein beschrijf** met een verlaagd tarief. Dat systeem is in Vlaanderen **afgeschaft** (in 2018) en vervangen door een tarief dat niet langer op het KI is gebaseerd.\n\nVandaag geldt in Vlaanderen een **algemeen verkooprecht** dat in de regel 12% bedraagt. Voor de aankoop van de enige eigen gezinswoning bestaat een **verlaagd tarief**, dat sinds 1 januari 2025 verder werd verlaagd (naar 2% voor wie aan de voorwaarden voldoet), waarbij de voorwaarden begin 2026 nog werden verstrengd. Deze tarieven gelden aan de koperszijde en staan los van uw KI. Wij raden aan de exacte, actuele tarieven en voorwaarden te laten bevestigen door uw notaris of via de Vlaamse Belastingdienst."
+      },
+      {
+        heading: "Verkopen in de huidige staat aan wijkopenpanden.be",
+        body: "Twijfelt u om te verkopen omdat uw woning een hoog, verouderd of net herzien KI heeft? Bij wijkopenpanden.be kopen wij woningen in de regio **Antwerpen** rechtstreeks aan, in de **huidige staat**. U hoeft niets te renoveren en het KI vormt voor ons geen bezwaar.\n\nOnze werkwijze is eenvoudig. Na uw aanvraag reageren wij doorgaans **binnen 2 uur**. Na een plaatsbezoek ontvangt u een **schriftelijk bod**, zonder **commissie**. Wij coördineren de nodige attesten en de afspraken met de notaris, zodat u zich daar geen zorgen over hoeft te maken. De **akte** verloopt doorgaans binnen 2 à 3 maanden, op een timing die voor u past.\n\nZo verkoopt u zonder makelaarskosten en zonder de rompslomp van keuringen. Meer achtergrond over verkopen zonder tussenpersoon vindt u bij onze pagina's over het verkopen zonder makelaar en het verkopen van een opknappand."
+      }
+    ],
+    relatedArticles: ["belastingen-bij-woningverkoop", "onroerende-voorheffing-verrekenen-bij-verkoop", "verkoop-kosten-berekenen", "wat-is-mijn-woning-waard-antwerpen", "energie-renovatieplicht-vlaanderen-2026"],
+    relatedSituations: ["opknappand-verkopen", "verkopen-zonder-makelaar"],
+    faqs: [
+      {
+        question: "Verandert mijn kadastraal inkomen als ik mijn woning verkoop?",
+        answer: "Neen, de verkoop op zich wijzigt het kadastraal inkomen niet. Het KI is verbonden aan het onroerend goed en gaat mee over op de koper, die vanaf de overdracht de onroerende voorheffing betaalt. Het KI kan wel herzien worden als er verbouwingen of uitbreidingen werden uitgevoerd die nog niet werden aangegeven bij het Kadaster."
+      },
+      {
+        question: "Koopt wijkopenpanden.be ook een woning met een hoog of verouderd kadastraal inkomen?",
+        answer: "Ja. Wij kopen woningen in de regio Antwerpen aan in de huidige staat, ongeacht of het KI hoog, laag, verouderd of recent herzien is. Het kadastraal inkomen vormt voor ons geen belemmering om een schriftelijk bod uit te brengen."
+      },
+      {
+        question: "Moet ik het kadastraal inkomen laten aanpassen na een verbouwing?",
+        answer: "Wanneer u nieuw bouwt, uitbreidt of ingrijpend verbouwt, geldt er een aangifteplicht bij het Kadaster (AAPD). Volgens de FOD Financiën gebeurt die aangifte in de regel binnen 30 dagen na de voltooiing of ingebruikname. Op basis daarvan kan het Kadaster het KI herschatten. Wie de aangifte nalaat, riskeert een boete."
+      },
+      {
+        question: "Is het kadastraal inkomen hetzelfde als de waarde van mijn woning?",
+        answer: "Neen. Het kadastraal inkomen is een fictief netto-huurinkomen op basis van 1 januari 1975 en zegt weinig over de actuele verkoopwaarde. De marktwaarde en de verkoopprijs weerspiegelen de huidige waarde in het economisch verkeer en kunnen sterk verschillen van het KI."
+      },
+      {
+        question: "Betaal ik personenbelasting op het kadastraal inkomen van mijn eigen woning?",
+        answer: "Voor de enige eigen woning is het kadastraal inkomen in de regel vrijgesteld in de personenbelasting; u moet het doorgaans niet in uw aangifte vermelden. U betaalt er wel jaarlijks onroerende voorheffing op. Voor een tweede verblijf of een verhuurde woning gelden andere regels. Laat uw concrete situatie bevestigen door uw boekhouder of de FOD Financiën."
+      },
+      {
+        question: "Wat gebeurt er met de onroerende voorheffing in het jaar van de verkoop?",
+        answer: "De onroerende voorheffing wordt geheven op naam van wie op 1 januari eigenaar is, maar bij een verkoop wordt ze in de praktijk vaak pro rata verrekend tussen verkoper en koper via de notaris. Hoe die verrekening precies verloopt, leest u in ons artikel over onroerende voorheffing verrekenen bij verkoop."
+      }
+    ]
+  },
+  {
+    slug: "woning-verkopen-met-hypothecair-mandaat",
+    title: "Woning verkopen met een hypothecair mandaat: kosten en gevolgen bij verkoop",
+    metaTitle: "Woning verkopen met hypothecair mandaat: wat kost het?",
+    metaDescription: "Ja, verkopen met een hypothecair mandaat kan vlot. Het is niet ingeschreven, dus geen doorhaling; het openstaand krediet wordt bij de akte afgelost.",
+    publishedAt: "2026-07-15",
+    updatedAt: "2026-07-15",
+    intro: "Ja, u kunt een woning met een hypothecair mandaat vlot verkopen. Anders dan bij een echte hypothecaire inschrijving is een mandaat niet ingeschreven in het hypotheekregister. Daardoor is er bij de verkoop geen doorhaling of handlichting nodig, en betaalt u voor dat deel dus geen doorhalingskosten. Het openstaand saldo van uw woonkrediet wordt wel gewoon bij de notariële akte afgelost uit de verkoopprijs, en uw bank moet daarmee akkoord gaan. In dit artikel leggen we uit wat een hypothecair mandaat precies is, waarom mensen ervoor kiezen, welke risico's eraan verbonden zijn en hoe de verkoop concreet verloopt — inclusief de mogelijke wederbeleggingsvergoeding en het verschil met een klassieke hypotheek.",
+    sections: [
+      {
+        heading: "Kan ik een woning met een hypothecair mandaat verkopen?",
+        body: "Ja. Een **hypothecair mandaat** vormt geen belemmering voor de verkoop van uw woning. Het grote verschil met een gewone hypotheek zit in de afhandeling: omdat een mandaat **niet is ingeschreven** in het hypotheekregister, staat er juridisch geen hypotheek op uw pand die eerst moet worden geschrapt. Er is dus geen **doorhaling** (handlichting) nodig, en voor dat deel betaalt u ook geen doorhalingskosten.\n\nWat wél gebeurt, is de **aflossing van het openstaand krediet**. De notaris vraagt bij uw bank het resterende saldo op en betaalt dat bij de akte rechtstreeks uit de verkoopprijs. U ontvangt het bedrag dat overblijft na aftrek van de lening en de kosten. De bank moet haar akkoord geven; zodra het krediet is afgelost, vervalt het mandaat vanzelf. U hoeft dit niet zelf te regelen — de notaris coördineert de afstemming met uw bank."
+      },
+      {
+        heading: "Wat is een hypothecair mandaat precies?",
+        body: "Een hypothecair mandaat — ook **hypothecaire volmacht**, **volmacht tot hypothekeren** of **hypotheekbelofte** genoemd — is een **onherroepelijke volmacht** die u bij de notaris aan uw bank geeft. Daarmee mag de bank tijdens de looptijd van uw krediet later, wanneer zij dat nodig acht, alsnog een echte hypothecaire inschrijving nemen op uw woning.\n\nBelangrijk: een mandaat is **geen hypotheek**. Zolang de bank de volmacht niet uitoefent, is er niets ingeschreven in het hypotheekregister en heeft de bank geen **hypothecaire voorrang** of zekerheidsrecht op uw woning. De bank vertrouwt in feite op uw belofte en op haar recht om later in te grijpen. Banken bieden een mandaat daarom vooral aan klanten met een goed profiel, en vaak in combinatie: een deel van het krediet wordt gedekt door een echte inschrijving en een deel door een mandaat."
+      },
+      {
+        heading: "Waarom kiezen mensen voor een mandaat? De lagere kosten bij aankoop",
+        body: "De belangrijkste reden is de **kostenbesparing bij de aankoop**. Een hypothecaire inschrijving brengt naast het ereloon van de notaris ook een **registratierecht van 1%** (het zogenaamde hypotheekrecht) op het ontleende bedrag met bijhorigheden, plus een **inschrijvingsrecht** en aktekosten met zich mee. Bij een mandaat vervallen die grootste posten: in plaats van 1% registratierecht betaalt u doorgaans slechts een **vast recht** (in de orde van enkele tientallen euro's), en het ereloon ligt merkelijk lager omdat er niets wordt ingeschreven.\n\nConcrete totaalbedragen variëren sterk naargelang het kredietbedrag en de notaris, dus we vermelden liever de **kostenposten** dan een vast bedrag. Ter illustratie: op een lening rond €200.000 kan een volledige inschrijving al gauw enkele duizenden euro's kosten, terwijl een mandaat een flink stuk goedkoper uitvalt. Wilt u de volledige rekening van een verkoop in kaart brengen, dan helpt ons artikel over verkoopkosten berekenen u verder. Ook onze uitleg over notariskosten bij woningverkoop schetst welke posten meespelen."
+      },
+      {
+        heading: "Hypothecaire inschrijving versus hypothecair mandaat",
+        body: "Onderstaande tabel zet de twee vormen naast elkaar. Kort samengevat: een **inschrijving** is duurder en geeft de bank meteen een sterke, **geregistreerde zekerheid**; een **mandaat** is goedkoper, maar geeft de bank pas een echte zekerheid nadat zij de volmacht heeft uitgeoefend.",
+        table: {
+          headers: ["Aspect", "Hypothecaire inschrijving", "Hypothecair mandaat"],
+          rows: [
+            ["Kosten bij aankoop", "Hoog: 1% registratierecht + inschrijvingsrecht + ereloon", "Laag: enkel een vast recht + beperkt ereloon"],
+            ["Zekerheid voor de bank", "Onmiddellijk, met vaste rang", "Pas na het lichten (omzetting naar inschrijving)"],
+            ["Ingeschreven in hypotheekregister?", "Ja", "Nee"],
+            ["Doorhaling nodig bij verkoop?", "Ja — handlichting met kosten", "Nee — mandaat vervalt bij aflossing"],
+            ["Voornaamste risico", "Hogere aankoopkosten", "Bank kan eenzijdig omzetten; geen voorrang tot dan"]
+          ]
+        }
+      },
+      {
+        heading: "De risico's van een mandaat: geen voorrang en het lichten",
+        body: "Een mandaat is goedkoper, maar niet zonder risico. Omdat er niets is ingeschreven, heeft de bank **geen vaste rang** onder de schuldeisers. Neemt u ondertussen een ander krediet met een echte inschrijving, of legt een andere schuldeiser beslag, dan kan die zich vóór uw bank nestelen zolang het mandaat niet is uitgeoefend.\n\nHet tweede risico is de omzetting, het zogenaamde **lichten van het mandaat**. De bank kan de volmacht op elk moment eenzijdig gebruiken om alsnog een echte hypothecaire inschrijving te nemen — bijvoorbeeld bij **wanbetaling**, bij het aangaan van bijkomende kredieten of bij gewijzigde omstandigheden. Zij hoeft dat doorgaans niet te motiveren, en u draagt dan alsnog de **inschrijvings- en aktekosten** die u aanvankelijk had vermeden. Wordt het mandaat gelicht vóór uw verkoop, dan staat er wél een inschrijving op uw woning en is bij de verkoop opnieuw een doorhaling met kosten nodig. Voor eigenaars met **betalingsproblemen** is dit een reëel aandachtspunt; ons artikel over huis verkopen bij betalingsproblemen of schulden gaat daar dieper op in."
+      },
+      {
+        heading: "Wat gebeurt er bij de verkoop? Geen doorhaling, wel aflossing",
+        body: "Bij de verkoop komt het verschil met een klassieke hypotheek het duidelijkst naar voren. Staat er enkel een mandaat op uw woning, dan is er niets ingeschreven en dus **geen handlichting** nodig; het mandaat vervalt gewoon zodra het krediet is afgelost. Bij een echte **hypothecaire inschrijving** moet de notaris de inschrijving daarentegen laten doorhalen, wat extra notaris- en aktekosten meebrengt (in de praktijk vaak enkele honderden euro's tot rond de duizend euro, afhankelijk van het dossier).\n\nWat in beide gevallen gelijk blijft: het **openstaand kredietsaldo** moet worden terugbetaald. De notaris vraagt uw bank om een **aflossingsattest** met het exacte saldo en betaalt dat bij de akte uit de verkoopprijs. Bij vervroegde terugbetaling mag de bank een **wederbeleggingsvergoeding** aanrekenen, wettelijk begrensd tot maximaal **drie maanden interest** op het terugbetaalde bedrag aan uw contractuele rentevoet. Sinds 10 juni 2024 mag de bank die vergoeding niet meer aanrekenen wanneer u bij dezelfde bank herfinanciert. Meer over de afhandeling van een lopend krediet leest u in Huis verkopen met een lopende hypotheek.",
+        table: {
+          headers: ["Kostenpost bij verkoop", "Met hypothecaire inschrijving", "Met hypothecair mandaat"],
+          rows: [
+            ["Aflossing openstaand krediet", "Ja — uit de verkoopprijs", "Ja — uit de verkoopprijs"],
+            ["Doorhaling / handlichting", "Ja — notaris- en aktekosten", "Nee — niet van toepassing"],
+            ["Wederbeleggingsvergoeding", "Mogelijk, max. 3 maanden interest", "Mogelijk, max. 3 maanden interest"],
+            ["Akkoord van de bank", "Vereist", "Vereist"]
+          ]
+        }
+      },
+      {
+        heading: "Verkopen in de huidige staat aan wijkopenpanden.be",
+        body: "Zit uw woning nog met een lopend woonkrediet — of dat nu via een hypothecair mandaat of een echte inschrijving is — dan koopt **wijkopenpanden.be** uw pand aan in de **huidige staat**, in de **regio Antwerpen**. U hoeft niets op te knappen en betaalt **geen commissie**.\n\nNa uw aanvraag krijgt u binnen 2 uur een reactie. We plannen een plaatsbezoek en bezorgen u daarna een **schriftelijk bod**. Gaat u akkoord, dan regelen wij de nodige attesten en de coördinatie met de notaris, en stemmen we samen met uw bank en notaris de afhandeling van het openstaand krediet af — inclusief de vraag of er een doorhaling nodig is. De akte volgt doorgaans binnen **2 tot 3 maanden**, op een tempo dat voor u werkt. Zo weet u snel waar u aan toe bent, zonder dubbele woonlasten die blijven doorlopen. Hoe zo'n vlot traject verloopt, leest u in ons artikel over hoe snel verkopen en geld ontvangen."
+      }
+    ],
+    relatedArticles: ["huis-verkopen-met-hypotheek", "notariskosten-woning-verkoop", "verkoop-kosten-berekenen", "huis-verkopen-bij-betalingsproblemen-schulden", "hoe-snel-verkopen-en-geld-ontvangen", "snel-geld-vrijmaken-woning"],
+    relatedSituations: ["verkopen-zonder-makelaar", "huis-verkopen-bij-scheiding"],
+    faqs: [
+      {
+        question: "Moet ik doorhalingskosten betalen bij een hypothecair mandaat?",
+        answer: "Nee. Een mandaat is niet ingeschreven in het hypotheekregister, dus er staat juridisch geen hypotheek op uw woning die moet worden geschrapt. Er is geen doorhaling of handlichting nodig en dus ook geen doorhalingskosten voor dat deel. Wel wordt het openstaand kredietsaldo bij de akte afgelost uit de verkoopprijs, en moet uw bank akkoord gaan. Bij een echte hypothecaire inschrijving is de doorhaling wél nodig en betaalt u daar notaris- en aktekosten voor."
+      },
+      {
+        question: "Wat is het verschil tussen een hypothecair mandaat en een hypothecaire inschrijving?",
+        answer: "Een hypothecaire inschrijving is een echte, in het hypotheekregister ingeschreven hypotheek: de bank heeft meteen een zekerheid met een vaste rang, maar u betaalt bij de aankoop onder meer 1% registratierecht, een inschrijvingsrecht en een hoger ereloon. Een mandaat is een onherroepelijke volmacht waarmee de bank later pas een inschrijving mag nemen. Het is niet ingeschreven, veel goedkoper bij aankoop, maar geeft de bank geen voorrang zolang zij de volmacht niet uitoefent."
+      },
+      {
+        question: "Kan de bank mijn mandaat omzetten in een echte hypotheek?",
+        answer: "Ja. De bank kan de volmacht op elk moment gebruiken om alsnog een echte hypothecaire inschrijving te nemen — dit heet het lichten van het mandaat. Dat kan onder meer bij wanbetaling, bij het aangaan van bijkomende kredieten of bij gewijzigde omstandigheden, en de bank hoeft dat doorgaans niet te motiveren. U draagt dan alsnog de inschrijvings- en aktekosten. Is het mandaat gelicht vóór uw verkoop, dan is bij die verkoop opnieuw een doorhaling met kosten nodig."
+      },
+      {
+        question: "Moet ik een wederbeleggingsvergoeding betalen als ik verkoop?",
+        answer: "Mogelijk. Bij vervroegde terugbetaling van uw woonkrediet — wat gebeurt bij een verkoop — mag de bank een wederbeleggingsvergoeding aanrekenen. Die is wettelijk begrensd tot maximaal drie maanden interest op het terugbetaalde bedrag aan uw contractuele rentevoet, en moet in uw kredietcontract voorzien zijn. Sinds 10 juni 2024 mag de bank die vergoeding niet meer vragen wanneer u bij dezelfde bank herfinanciert. Vraag het exacte bedrag na bij uw bank of via de notaris."
+      },
+      {
+        question: "Wordt het openstaand krediet bij de akte afgelost?",
+        answer: "Ja, ongeacht of u een mandaat of een echte inschrijving heeft. De notaris vraagt uw bank een aflossingsattest met het exacte saldo op en betaalt dat bij de notariële akte rechtstreeks uit de verkoopprijs. U ontvangt het bedrag dat overblijft na aftrek van de lening, een eventuele wederbeleggingsvergoeding en de kosten. Ligt de verkoopprijs lager dan het saldo, dan moet u het tekort in overleg met uw bank bijpassen."
+      },
+      {
+        question: "Koopt wijkopenpanden.be een woning met openstaand krediet of mandaat?",
+        answer: "Ja. Wij kopen in de regio Antwerpen woningen aan in de huidige staat, ook als er nog een lopend woonkrediet op rust via een hypothecair mandaat of een hypothecaire inschrijving. U betaalt geen commissie. Na uw aanvraag krijgt u binnen 2 uur een reactie en na een plaatsbezoek een schriftelijk bod. Wij regelen de attesten en coördineren met de notaris, en stemmen de afhandeling van het openstaand krediet af met uw bank. De akte volgt doorgaans binnen 2 tot 3 maanden."
+      }
+    ]
+  },
+  {
+    slug: "onroerende-voorheffing-verrekenen-bij-verkoop",
+    title: "Onroerende voorheffing verrekenen bij verkoop: wie betaalt in het jaar dat u verkoopt?",
+    metaTitle: "Onroerende voorheffing bij verkoop verrekenen 2026",
+    metaDescription: "Wie op 1 januari eigenaar is, krijgt de volledige onroerende voorheffing. De koper vergoedt zijn deel na de akte via het compromis — niet automatisch.",
+    publishedAt: "2026-07-15",
+    updatedAt: "2026-07-15",
+    intro: "Wie op 1 januari van het aanslagjaar eigenaar is van de woning — of vruchtgebruiker, erfpachter, opstalhouder of bezitter — krijgt van de Vlaamse Belastingdienst de volledige jaarlijkse aanslag onroerende voorheffing, ook als u de woning midden in het jaar verkoopt. Er is geen automatische wettelijke proratering: de fiscus verdeelt niets tussen koper en verkoper. De verrekening gebeurt contractueel, via een clausule in het compromis en de notariële akte, waarbij de koper u doorgaans pro rata vergoedt voor het deel van het jaar ná de overdracht. In dit artikel leggen we uit wie belastingplichtige is, hoe de verrekening praktisch verloopt, waaruit de onroerende voorheffing bestaat en welke verminderingen er in 2026 bestaan.",
+    sections: [
+      {
+        heading: "Wie is belastingplichtige voor de onroerende voorheffing?",
+        body: "De onroerende voorheffing is een **jaarlijkse belasting**. Wie ze verschuldigd is, wordt bepaald op één ijkpunt: de toestand op **1 januari** van het aanslagjaar. De belastingplichtige is de persoon die op die datum **eigenaar** is van het onroerend goed — of, als er zakelijke rechten op rusten, de **vruchtgebruiker, erfpachter, opstalhouder of bezitter**. Wie later dat jaar koopt, wordt voor dat aanslagjaar géén belastingplichtige, want hij was op 1 januari geen titularis.\n\nDe Vlaamse Belastingdienst (VLABEL) stuurt het **aanslagbiljet** voor het volledige jaar naar die persoon. Verkoopt u uw woning in maart, juni of oktober, dan blijft ú de aangeschreven belastingplichtige voor dat volledige aanslagjaar. De fiscus kijkt niet naar de datum van de akte, maar uitsluitend naar wie op 1 januari titularis was.\n\nDit is een strikte, formele regel. Ze bepaalt wie de aanslag ontvangt en aan de overheid moet betalen — niet wie de belasting economisch draagt. Dat laatste is een aparte kwestie, die we in de volgende paragraaf bespreken."
+      },
+      {
+        heading: "Geen wettelijke proratering: de fiscus verdeelt niets",
+        body: "Belangrijk: er bestaat **geen automatische wettelijke proratering** van de onroerende voorheffing bij een verkoop. De Vlaamse Belastingdienst verdeelt de aanslag niet naar rato tussen koper en verkoper en bemoeit zich niet met wat u onderling afspreekt. De volledige aanslag gaat naar de belastingplichtige van 1 januari.\n\nDe verdeling tussen koper en verkoper is dus een zuiver **contractuele** aangelegenheid. Zij is in de eerste plaats een kwestie van afspraken tussen de verkoper en de koper. In de praktijk wordt daarvoor een **verrekeningsclausule** opgenomen in het compromis (de onderhandse verkoopovereenkomst) en herhaald in de notariële akte. Partijen zijn vrij: de verkoper draagt alles, de koper draagt alles, of — het meest gebruikelijk — elk draagt zijn deel pro rata temporis.\n\nStaat er niets over in het compromis, dan geldt het **gemeen recht**. Dat komt hierop neer: de verkoper (eigenaar op 1 januari) betaalt de volledige aanslag aan de fiscus, maar zodra de koper het **genot van het goed** verwerft — doorgaans bij de notariële akte — vergoedt hij de verkoper voor het evenredige deel van het jaar dat ná de overdracht valt. Hoe u een compromis juridisch sluitend maakt, leest u in ons artikel over het compromis bij een woningverkoop."
+      },
+      {
+        heading: "Een rekenvoorbeeld van de pro-rata verrekening",
+        body: "De verrekening gebeurt **pro rata temporis**: de verkoper draagt de maanden vóór de eigendomsoverdracht, de koper vergoedt de maanden erna. Meestal rekent men in **twaalfden** per kalendermaand, met de maand van de akte als scharnierpunt (de precieze afbakening staat in de clausule).\n\nStel dat de onroerende voorheffing voor het volledige jaar 1.200 euro bedraagt en de akte op **1 oktober** wordt verleden. Dan draagt de verkoper 9/12de (januari tot en met september) en de koper 3/12de (oktober tot en met december). De verkoper betaalt de volledige 1.200 euro aan VLABEL; de koper betaalt bij de akte, **tegen kwijting**, zijn 3/12de aan de verkoper terug. Onderstaande tabel toont het mechanisme voor enkele aktedata, telkens met een aanslag van 1.200 euro als voorbeeld.\n\nDeze bedragen zijn louter illustratief. Uw werkelijke aanslag hangt af van uw **kadastraal inkomen** en de opcentiemen van uw gemeente en provincie; raadpleeg uw aanslagbiljet en uw notaris voor de exacte verrekening.",
+        table: {
+          headers: ["Datum notariële akte", "Deel verkoper", "Deel koper", "Koper vergoedt (voorbeeld 1.200 euro)"],
+          rows: [
+            ["1 april", "3/12", "9/12", "900 euro"],
+            ["1 juli", "6/12", "6/12", "600 euro"],
+            ["1 oktober", "9/12", "3/12", "300 euro"],
+            ["1 december", "11/12", "1/12", "100 euro"]
+          ]
+        }
+      },
+      {
+        heading: "Waaruit bestaat de onroerende voorheffing?",
+        body: "De onroerende voorheffing is een **Vlaamse gewestbelasting** op het bezit van onroerend goed. De basis is uw **kadastraal inkomen (KI)** — het geschatte jaarlijkse nettohuurinkomen van het pand — dat jaarlijks wordt **geïndexeerd**. Op dat geïndexeerd KI past de berekening drie lagen toe:\n\n• De **gewestelijke basisheffing** van 3,97% op het geïndexeerd KI (het tarief voor gewone woningen).\n• De **provinciale opcentiemen**, bepaald door de provincie.\n• De **gemeentelijke opcentiemen**, bepaald door uw gemeente.\n\nDe opcentiemen van gemeente en provincie vormen veruit het grootste deel van uw aanslag — vaak een veelvoud van de gewestelijke basisheffing. Daardoor verschilt de uiteindelijke aanslag sterk van gemeente tot gemeente. In de stad Antwerpen en verschillende randgemeenten liggen de opcentiemen aan de hoge kant, zodat de gecombineerde druk (gewest, provincie en gemeente) doorgaans neerkomt op een aanzienlijk percentage van het geïndexeerd KI. Exacte tarieven wijzigen jaarlijks; raadpleeg uw aanslagbiljet of VLABEL voor de precieze cijfers.\n\nHet KI speelt niet alleen bij de onroerende voorheffing een rol, maar ook bij de waardering en fiscaliteit van uw pand. Meer daarover leest u in ons artikel over het kadastraal inkomen en woningverkoop."
+      },
+      {
+        heading: "Welke verminderingen kunnen uw aanslag verlagen?",
+        body: "Op de onroerende voorheffing bestaan enkele **verminderingen**. Sommige worden automatisch toegekend, andere moet u aanvragen. De belangrijkste die in 2026 gelden:\n\n• **Bescheiden woning**: een vermindering (klassiek 25%) wanneer het niet-geïndexeerd KI van al uw onroerende goederen in Vlaanderen onder een bepaalde drempel blijft. Dit is de tegemoetkoming die in de plaats komt van de vroegere aftrek voor de eigen woning.\n• **Gezinsvermindering (kinderen ten laste)**: vanaf minstens twee kinderen die ten laste zijn, recht geven op kinderbijslag (Groeipakket) en op 1 januari op het adres zijn ingeschreven. Een kind met een handicap telt dubbel.\n• **Personen met een handicap**: een vermindering wanneer de belastingplichtige of een gezinslid op 1 januari aan de voorwaarden inzake handicap voldoet.\n• **Energiezuinig gebouw of ingrijpende energetische renovatie**: een tijdelijke vermindering (doorgaans gedurende tien jaar) voor nieuwbouw of een ingrijpende renovatie die een voldoende laag **E-peil** haalt. De voorwaarden zijn de voorbije jaren verstrengd en hangen af van uw vergunningsdatum; voor recente nieuwbouw is de tegemoetkoming grotendeels uitgefaseerd.\n\nDe bedragen en drempels wijzigen jaarlijks en hangen samen met de opcentiemen van uw gemeente. Reken niet op een exact bedrag: controleer uw aanslagbiljet of vraag VLABEL of uw notaris welke verminderingen op uw situatie van toepassing zijn. Goed om te weten is ook dat de onroerende voorheffing op uw eigen woning niet langer via de personenbelasting kan worden gerecupereerd zoals vroeger.",
+        table: {
+          headers: ["Vermindering", "Voorwaarde (kort)", "Toekenning"],
+          rows: [
+            ["Bescheiden woning", "KI van al uw Vlaamse panden onder de drempel", "Op basis van het KI"],
+            ["Kinderen ten laste", "Minstens 2 kinderen ten laste met recht op kinderbijslag", "Doorgaans automatisch"],
+            ["Persoon met handicap", "Belastingplichtige of gezinslid met erkende handicap", "Aanvragen of melden"],
+            ["Energiezuinig / renovatie", "Nieuwbouw of renovatie met voldoende laag E-peil", "Tijdelijk, meestal 10 jaar"]
+          ]
+        }
+      },
+      {
+        heading: "Leegstand, verwaarlozing en andere heffingen",
+        body: "De onroerende voorheffing is niet de enige heffing op een pand. Voor woningen die **langdurig leegstaan, verwaarloosd of onbewoonbaar** zijn, bestaan er **afzonderlijke belastingen** — de leegstandsheffing en de heffing op verwaarlozing of verkrotting. Die staan volledig los van de onroerende voorheffing en komen er bovenop.\n\nDeze heffingen worden doorgaans door de **gemeente of stad** geïnd en lopen jaarlijks op naarmate de leegstand aanhoudt. Voor een pand dat u toch niet gebruikt, kan de combinatie van onroerende voorheffing én leegstandsheffing zwaar doorwegen. Hoe dat in onze regio in elkaar zit, leest u in ons artikel over de leegstandsheffing in de Antwerpse regio 2026.\n\nAnders dan de onroerende voorheffing eindigen deze heffingen wél op de datum van de notariële akte: zodra u verkoopt, stopt de leegstandsheffing voor u. Ook eventuele openstaande heffingen worden bij de akte verrekend, zodat u met een schone lei overdraagt."
+      },
+      {
+        heading: "Verkopen in de huidige staat aan wijkopenpanden.be",
+        body: "Wilt u uw woning verkopen zonder u zorgen te maken over de administratieve en fiscale afhandeling, dan kunt u rechtstreeks verkopen aan wijkopenpanden.be. Wij kopen panden in de **regio Antwerpen** aan in de **huidige staat** — u hoeft niets op te knappen en niets vooraf te regelen.\n\nNa uw aanvraag ontvangt u **binnen 2 uur** een reactie. Na een plaatsbezoek maken we een **schriftelijk bod** op. U betaalt **geen commissie**, en de verplichte **attesten en de coördinatie met de notaris** zijn inbegrepen. De notariële akte volgt **doorgaans binnen 2 tot 3 maanden**.\n\nDe verrekening van de onroerende voorheffing wordt daarbij correct in de akte opgenomen: u draagt het deel tot de datum van de akte, wij vergoeden ons deel voor de resterende maanden van het jaar. Zo weet u vooraf precies hoe de onroerende voorheffing tussen beide partijen wordt verdeeld, zonder verrassingen achteraf."
+      }
+    ],
+    relatedArticles: ["belastingen-bij-woningverkoop", "kadastraal-inkomen-en-woningverkoop", "compromis-verkoop-woning-belgie", "leegstandsheffing-antwerpen-2026", "notariskosten-woning-verkoop", "verkoop-kosten-berekenen"],
+    relatedSituations: ["huis-verkopen-bij-erfenis", "verkopen-zonder-makelaar"],
+    faqs: [
+      {
+        question: "Ik verkoop in maart — moet ik de hele onroerende voorheffing betalen?",
+        answer: "Ja. Als u op 1 januari eigenaar was, ontvangt u van de Vlaamse Belastingdienst de volledige jaaraanslag en betaalt u die aan de fiscus, ook al verkoopt u al in maart. U draagt de belasting echter niet volledig zelf: via de verrekeningsclausule in het compromis vergoedt de koper u pro rata voor het deel van het jaar dat na de akte valt. Bij een akte begin maart is dat het grootste deel van het jaar."
+      },
+      {
+        question: "Wie is belastingplichtige als ik in de loop van het jaar verkoop?",
+        answer: "De persoon die op 1 januari van het aanslagjaar eigenaar, vruchtgebruiker, erfpachter, opstalhouder of bezitter is van het onroerend goed. Die persoon blijft voor dat volledige jaar belastingplichtige, ongeacht de datum waarop de woning later verkocht wordt. De koper wordt voor dat aanslagjaar geen belastingplichtige."
+      },
+      {
+        question: "Verdeelt de Vlaamse Belastingdienst de onroerende voorheffing automatisch tussen koper en verkoper?",
+        answer: "Nee. Er is geen automatische wettelijke proratering. De fiscus stuurt de volledige aanslag naar de belastingplichtige van 1 januari en bemoeit zich niet met de onderlinge verdeling. Die verdeling is een private, contractuele afspraak die u vastlegt in het compromis en de notariële akte."
+      },
+      {
+        question: "Hoe wordt de verrekening precies berekend?",
+        answer: "Meestal pro rata temporis vanaf de eigendomsoverdracht, gerekend in twaalfden per maand. Wordt de akte bijvoorbeeld op 1 oktober verleden, dan draagt de verkoper 9/12de en vergoedt de koper 3/12de bij de akte tegen kwijting. Regelt het compromis er niets over, dan geldt het gemeen recht: de koper vergoedt zijn deel vanaf het moment dat hij het genot van het goed verkrijgt."
+      },
+      {
+        question: "Welke verminderingen op de onroerende voorheffing bestaan er in 2026?",
+        answer: "Onder meer de vermindering voor een bescheiden woning (op basis van het kadastraal inkomen), de gezinsvermindering vanaf minstens twee kinderen ten laste met recht op kinderbijslag, een vermindering voor personen met een handicap, en een tijdelijke vermindering voor een energiezuinig gebouw of ingrijpende energetische renovatie met een voldoende laag E-peil. Bedragen en drempels wijzigen jaarlijks; raadpleeg uw aanslagbiljet of VLABEL voor uw situatie."
+      },
+      {
+        question: "Koopt wijkopenpanden.be en regelt het de verrekening van de onroerende voorheffing?",
+        answer: "Ja. Wij kopen panden in de regio Antwerpen aan in de huidige staat. De verrekening van de onroerende voorheffing wordt correct in de akte opgenomen: u draagt het deel tot de datum van de akte, wij vergoeden ons deel voor de rest van het jaar. U krijgt binnen 2 uur een reactie en na een plaatsbezoek een schriftelijk bod, zonder commissie en met de attesten en notariscoördinatie inbegrepen."
+      }
+    ]
   },
 ];
 
