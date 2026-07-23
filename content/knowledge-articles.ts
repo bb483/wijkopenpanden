@@ -114,7 +114,7 @@ export const articles: Article[] = [
         body: "Bij een verkoop aan wijkopenpanden.be regelen wij alle verplichte keuringen en attesten zelf, op onze kosten. U hoeft geen EPC, elektriciteitskeuring, asbestinventaris of bodemattesten zelf aan te vragen of te betalen. Dit is een van de concrete voordelen van een rechtstreekse verkoop aan een professionele opkoper.",
       },
     ],
-    relatedArticles: ["commissie-makelaar-belgie", "notariskosten-woning-verkoop", "asbestattest-bij-verkoop-woning", "bodemattest-vlaanderen-verkoop", "elektriciteitskeuring-niet-conform-verkopen"],
+    relatedArticles: ["commissie-makelaar-belgie", "notariskosten-woning-verkoop", "asbestattest-bij-verkoop-woning", "bodemattest-vlaanderen-verkoop", "elektriciteitskeuring-niet-conform-verkopen", "postinterventiedossier-pid-verkoop-woning"],
     relatedSituations: ["verkopen-zonder-makelaar", "opknappand-verkopen"],
     faqs: [
       {
@@ -348,7 +348,7 @@ export const articles: Article[] = [
         body: "Juridisch gezien is de verkoop definitief op het moment dat het compromis wordt ondertekend. De notariële akte is de formele bekrachtiging en de eigendomsoverdracht, maar de verbintenis tot koop/verkoop bestaat al vanaf het compromis.\n\nIn de praktijk wordt soms een ontbindende voorwaarde opgenomen (bijv. 'onder voorbehoud van het verkrijgen van een hypothecair krediet'). Als de koper zijn lening niet krijgt, kan hij zonder financiële gevolgen afzien van de aankoop.",
       },
     ],
-    relatedArticles: ["notariskosten-woning-verkoop", "erfenis-woning-stappenplan", "recht-van-voorkoop-bij-verkoop-woning"],
+    relatedArticles: ["notariskosten-woning-verkoop", "erfenis-woning-stappenplan", "recht-van-voorkoop-bij-verkoop-woning", "verkoop-annuleren-na-compromis-koop-is-koop", "koper-krijgt-lening-niet-rond-opschortende-voorwaarde"],
     relatedSituations: ["huis-verkopen-bij-scheiding"],
     faqs: [
       {
@@ -931,7 +931,7 @@ export const articles: Article[] = [
         body: "Wilt u uw woning niet regulariseren voor de verkoop? Dan is verkopen as-is de meest directe optie — op voorwaarde dat u transparant bent over de toestand.\n\nWijkopenpanden.be koopt woningen aan met stedenbouwkundige overtredingen. Wij:\n\n• Raadplegen zelf het stedenbouwkundig uittreksel en het maatregelenregister\n• Beoordelen de regulariseerbaarheid intern\n• Verrekenen de regularisatiekost eerlijk in ons bod — geen zwarte doos\n• Nemen de stedenbouwkundige last volledig over bij de akte\n• Regelen de regularisatie na de aankoop zelf, op ons tempo en budget\n\nVoor u als verkoper betekent dit: geen wachttijd, geen architect, geen gemeentelijke procedure voor de verkoop. U ontvangt een schriftelijk bod na één bezoek en beslist vrijblijvend.",
       },
     ],
-    relatedArticles: ["keuringen-bij-verkoop-woning", "pand-in-slechte-staat-verkopen", "verkoop-kosten-berekenen", "tuin-of-bouwgrond-apart-verkopen-perceel-splitsen"],
+    relatedArticles: ["keuringen-bij-verkoop-woning", "pand-in-slechte-staat-verkopen", "verkoop-kosten-berekenen", "tuin-of-bouwgrond-apart-verkopen-perceel-splitsen", "postinterventiedossier-pid-verkoop-woning"],
     relatedSituations: ["opknappand-verkopen", "huis-verkopen-bij-erfenis"],
     faqs: [
       {
@@ -1986,7 +1986,7 @@ export const articles: Article[] = [
         body: "Bij de verkoop aan een vastgoedopkoper zoals wijkopenpanden.be verloopt het compromis sneller en eenvoudiger dan bij een klassieke verkoop:\n\n• Geen financieringsvoorwaarde: wijkopenpanden.be koopt cash — u heeft geen risico dat de verkoop na weken wordt geannuleerd omdat de koper geen lening krijgt\n• Snellere timing: het compromis kan binnen enkele dagen na het bod worden getekend\n• Eenvoudigere clausules: er zijn geen complexe voorwaarden, geen makelaarsclausules en geen lange onderhandelingen\n• Zekerheid: zodra u het compromis tekent, is de verkoop definitief\n\nDit maakt de verkoop via opkoper bijzonder aantrekkelijk voor eigenaars die zekerheid willen over de timing en het definitieve karakter van de transactie.",
       },
     ],
-    relatedArticles: ["hoelang-duurt-huis-verkopen-belgie", "commissie-makelaar-belgie", "huis-verkopen-met-hypotheek", "onroerende-voorheffing-verrekenen-bij-verkoop", "recht-van-voorkoop-bij-verkoop-woning"],
+    relatedArticles: ["hoelang-duurt-huis-verkopen-belgie", "commissie-makelaar-belgie", "huis-verkopen-met-hypotheek", "onroerende-voorheffing-verrekenen-bij-verkoop", "recht-van-voorkoop-bij-verkoop-woning", "koper-krijgt-lening-niet-rond-opschortende-voorwaarde", "verkoop-annuleren-na-compromis-koop-is-koop"],
     relatedSituations: ["huis-verkopen-bij-scheiding", "huis-verkopen-bij-erfenis", "verkopen-zonder-makelaar"],
     faqs: [
       {
@@ -2057,7 +2057,7 @@ export const articles: Article[] = [
         body: "Wie zijn woning verkoopt aan een professionele vastgoedopkoper zoals wijkopenpanden.be, verkrijgt in de praktijk de sterkst mogelijke bescherming tegen vorderingen wegens verborgen gebreken.\n\nWaarom?\n• Professionele opkopers kopen uitdrukkelijk 'as-is' — de as-is-clausule is een standaardbeding in het compromis\n• Als professionele partij wordt van een opkoper verwacht dat hij zelf een grondige inspectie uitvoert vóór het bod\n• Rechtbanken aanvaarden de vrijwaringsclausule makkelijker tussen een particulier en een professionele koper dan tussen twee particulieren\n• De opkoper koopt precies om te renoveren — hij is niet verrast door gebreken, hij verwacht ze\n\nVoor eigenaars met een oud pand, een woning met gekende structurele problemen of een erfenis waarbij men de exacte staat niet kent, is verkoop aan een opkoper de meest zekere manier om elk risico op een latere vordering te vermijden.",
       },
     ],
-    relatedArticles: ["keuringen-bij-verkoop-woning", "compromis-verkoop-woning-belgie", "huis-verkopen-met-hypotheek", "commissie-makelaar-belgie", "erfdienstbaarheid-recht-van-doorgang-woning-verkopen"],
+    relatedArticles: ["keuringen-bij-verkoop-woning", "compromis-verkoop-woning-belgie", "huis-verkopen-met-hypotheek", "commissie-makelaar-belgie", "erfdienstbaarheid-recht-van-doorgang-woning-verkopen", "verkoop-annuleren-na-compromis-koop-is-koop"],
     relatedSituations: ["opknappand-verkopen", "huis-verkopen-bij-erfenis", "verkopen-zonder-makelaar"],
     faqs: [
       {
@@ -2747,7 +2747,7 @@ export const articles: Article[] = [
         body: "Wij zijn een Belgisch bedrijf met controleerbare gegevens en kopen panden rechtstreeks aan, zonder als makelaar op te treden.\n\nOnze werkwijze is opgebouwd rond net die punten waar verkopers terecht achterdochtig over zijn:\n• U krijgt na een bezoek een **schriftelijk, gemotiveerd bod**, doorgaans 7 dagen geldig\n• Wat in het bod staat, is wat u ontvangt — wij vragen geen extra kortingen bij de akte\n• Het bod is vrijblijvend en gratis; u bent tot niets verplicht\n• Wij eisen geen exclusiviteit, zodat u vrij kunt vergelijken\n• De verkoop verloopt via een notaris; u kiest uw eigen notaris of werkt met de onze\n\nZo wordt de afweging tussen brutoprijs en zekerheid een eerlijke, transparante keuze — geen verrassing achteraf.",
       },
     ],
-    relatedArticles: ["wat-is-een-vastgoedopkoper", "commissie-makelaar-belgie", "wat-is-mijn-woning-waard-antwerpen", "bod-aanvragen-vrijblijvend-bindend", "opkoper-of-makelaar-verschil", "verkoop-kosten-berekenen"],
+    relatedArticles: ["wat-is-een-vastgoedopkoper", "commissie-makelaar-belgie", "wat-is-mijn-woning-waard-antwerpen", "bod-aanvragen-vrijblijvend-bindend", "opkoper-of-makelaar-verschil", "verkoop-kosten-berekenen", "verkoop-annuleren-na-compromis-koop-is-koop"],
     relatedSituations: ["verkopen-zonder-makelaar"],
     faqs: [
       {
@@ -2817,7 +2817,7 @@ export const articles: Article[] = [
         body: "Wij houden de aanvraag bewust vrijblijvend en helder.\n\n• U vraagt een bod aan via het formulier of telefonisch — gratis en zonder verplichting\n• Wij bezoeken het pand; ook dat bezoek is vrijblijvend\n• U ontvangt een schriftelijk, gemotiveerd bod, doorgaans 7 dagen geldig\n• Wij vragen geen exclusiviteit, zodat u vrij kunt vergelijken\n• Wat in het bod staat, is wat u ontvangt — geen extra kortingen bij de akte\n• U zit pas vast wanneer u zélf de koopovereenkomst ondertekent\n\nZo kunt u zonder risico uitzoeken wat uw woning rechtstreeks opbrengt, en pas beslissen wanneer u alle informatie heeft.",
       },
     ],
-    relatedArticles: ["wat-is-een-vastgoedopkoper", "verkoopbelofte-compromis-akte", "compromis-verkoop-woning-belgie", "betrouwbaar-verkopen-aan-opkoper", "opkoper-of-makelaar-verschil", "notariskosten-woning-verkoop"],
+    relatedArticles: ["wat-is-een-vastgoedopkoper", "verkoopbelofte-compromis-akte", "compromis-verkoop-woning-belgie", "betrouwbaar-verkopen-aan-opkoper", "opkoper-of-makelaar-verschil", "notariskosten-woning-verkoop", "koper-krijgt-lening-niet-rond-opschortende-voorwaarde"],
     relatedSituations: ["verkopen-zonder-makelaar"],
     faqs: [
       {
@@ -2978,7 +2978,7 @@ export const articles: Article[] = [
         body: "Bij een klassieke verkoop blijven de attesten ten laste van de verkoper. U laat ze opmaken vóór de publicatie — onder meer omdat het EPC al in de advertentie moet staan — en betaalt de keurders zelf. Een makelaar regelt dit soms tegen vergoeding, maar de kosten blijven uw rekening.\n\nVerkoopt u liever via een makelaar, dan kan dat uiteraard — bijvoorbeeld via een vastgoedkantoor zoals Berabrick, dat het volledige verkooptraject en de attesten in uw plaats opvolgt. De afweging blijft dezelfde als altijd: een mogelijk hogere brutoprijs tegenover de kosten, de wachttijd en de rompslomp.\n\nBij een directe verkoop aan wijkopenpanden.be vallen die keuringskosten en dat opzoekwerk weg. U levert de woning aan zoals ze is; wij doen de rest.",
       },
     ],
-    relatedArticles: ["keuringen-bij-verkoop-woning", "epc-attest-antwerpen", "bodemattest-vlaanderen-verkoop", "opkoper-of-makelaar-verschil", "pand-in-slechte-staat-verkopen", "hoe-snel-verkopen-en-geld-ontvangen", "elektriciteitskeuring-niet-conform-verkopen"],
+    relatedArticles: ["keuringen-bij-verkoop-woning", "epc-attest-antwerpen", "bodemattest-vlaanderen-verkoop", "opkoper-of-makelaar-verschil", "pand-in-slechte-staat-verkopen", "hoe-snel-verkopen-en-geld-ontvangen", "elektriciteitskeuring-niet-conform-verkopen", "postinterventiedossier-pid-verkoop-woning"],
     relatedSituations: ["verkopen-zonder-makelaar", "opknappand-verkopen"],
     faqs: [
       {
@@ -6195,6 +6195,299 @@ export const articles: Article[] = [
         question: "Kan wijkopenpanden.be mij helpen als ik in een CSR zit?",
         answer:
           "Wij kunnen niet buiten uw bemiddelaar of de rechtbank om verkopen. Wel kunnen wij een vlot, marktconform bod uitbrengen dat uw schuldbemiddelaar aan de arbeidsrechtbank kan voorleggen als voordelige onderhandse verkoop. Stemt de rechtbank in, dan verloopt het verder via de notaris.",
+      },
+    ],
+  },
+  {
+    slug: "koper-krijgt-lening-niet-rond-opschortende-voorwaarde",
+    title: "Wat als de koper zijn lening niet rondkrijgt? De opschortende voorwaarde van financiering",
+    metaTitle: "Koper krijgt lening niet rond: opschortende voorwaarde",
+    metaDescription: "Krijgt de koper zijn lening niet rond, dan gaat de koop niet door en keert het voorschot terug — mits een opschortende voorwaarde van financiering.",
+    publishedAt: "2026-07-23",
+    updatedAt: "2026-07-23",
+    intro: "Staat er in het compromis een opschortende voorwaarde van financiering en krijgt de koper — ondanks bewezen inspanningen, doorgaans één of meer weigeringsbrieven van banken — zijn krediet niet rond binnen de afgesproken termijn, dan gaat de koop niet door en krijgt de koper zijn voorschot of waarborg terug. Staat er géén zulke voorwaarde in, dan blijft de koper gebonden en riskeert hij het schadebeding, meestal 10% van de prijs. Dit artikel legt uit wat de voorwaarde precies inhoudt, welke termijn gebruikelijk is, welk bewijs de koper moet leveren, wat het verschil is met een ontbindende voorwaarde, en welk risico u als verkoper loopt zolang de voorwaarde openstaat.",
+    sections: [
+      {
+        heading: "Wat is de opschortende voorwaarde van financiering precies?",
+        body: "Een **opschortende voorwaarde** laat de uitwerking van de koop afhangen van een onzekere toekomstige gebeurtenis. Bij financiering is die gebeurtenis de goedkeuring van het hypothecair krediet door de bank. Zolang de voorwaarde niet vervuld is, staat de koop in de wacht: partijen hebben getekend, maar de eigendomsoverdracht en de betaling zijn nog niet definitief.\n\nJuridisch valt dit onder het regime van de voorwaardelijke verbintenissen. Sinds 1 januari 2023 geldt daarvoor **Boek 5 van het Burgerlijk Wetboek** (art. 5.139 en volgende); vóór die datum was dat art. 1181 en volgende van het oud BW. De kern is ongewijzigd: zolang de voorwaarde niet vervuld is, is de verbintenis nog niet opeisbaar; raakt ze definitief niet vervuld, dan gaat de koop niet door.\n\nBijna elke particuliere koper vraagt deze voorwaarde, en terecht: wie zijn aankoop met een lening financiert, wil niet gebonden zijn aan een woning die hij niet kan betalen. Voor de koper is het een vangnet. Voor u als verkoper betekent het dat de verkoop pas zeker is als de bank effectief groen licht geeft.",
+      },
+      {
+        heading: "Opschortend of ontbindend: het verschil telt",
+        body: "In de praktijk worden beide termen door elkaar gebruikt, maar het gevolg verschilt op een belangrijk punt: het moment waarop de koop bestaat.\n\nBij een **opschortende voorwaarde** wordt de koop pas definitief zodra de lening rond is: zolang de voorwaarde openstaat, is de verbintenis nog niet opeisbaar. Blijft de goedkeuring uit, dan gaat de koop niet door.\n\nBij een **ontbindende voorwaarde** bestaat de koop wél meteen, maar valt hij weg als de gebeurtenis zich voordoet (bijvoorbeeld: de lening wordt geweigerd). Onder het huidige recht werkt die ontbinding voor de toekomst, met teruggave van wat al betaald werd — tenzij partijen uitdrukkelijk terugwerkende kracht afspreken.\n\nVoor het eindresultaat — de koop gaat niet door en het voorschot keert terug — maakt het meestal weinig uit. Het onderscheid speelt vooral bij tussentijdse risico's en bij de vraag wie in de wachtperiode al gebonden is. Laat u door de notaris bevestigen welke formule in uw compromis staat.",
+        table: {
+          headers: ["Kenmerk", "Opschortende voorwaarde", "Ontbindende voorwaarde"],
+          rows: [
+            ["Koop meteen definitief?", "Nee, pas bij vervulling", "Ja, meteen"],
+            ["Gevolg bij weigering lening", "Koop komt niet tot stand", "Koop valt weg voor de toekomst"],
+            ["Voorschot bij weigering", "Terug naar de koper", "Terug naar de koper"],
+            ["Meest gebruikt bij financiering", "Ja, klassieke formule", "Minder gebruikelijk"],
+          ],
+        },
+      },
+      {
+        heading: "Welke termijn geldt en wat moet de koper bewijzen?",
+        body: "De termijn is **contractueel**: hij staat in het compromis en is niet wettelijk vastgelegd. In de praktijk ligt hij vaak tussen drie en zes weken, ruim genoeg om bij meer dan één bank aan te kloppen. Reken dit als een indicatie, niet als een regel — de partijen bepalen de duur zelf.\n\nDe koper heeft geen resultaatsverbintenis maar een **inspanningsverbintenis**: hij moet zich redelijk en te goeder trouw inspannen om het krediet te bekomen. Dat betekent doorgaans een marktconforme aanvraag bij minstens één, vaak meerdere kredietinstellingen, binnen de termijn.\n\nRoept de koper de weigering in, dan draagt hij de **bewijslast**. Het gebruikelijke bewijs is een of meer schriftelijke weigeringsbrieven van banken. Sommige clausules eisen expliciet twee of drie weigeringen. Wie geen aanvraag deed, geen bewijs kan voorleggen of de termijn zonder geldige reden laat verstrijken, verliest de bescherming van de voorwaarde.\n\nLet ook op de **potestatieve voorwaarde**: een voorwaarde die louter van de wil van de koper afhangt, is nietig (art. 5.141 BW). Net daarom is een echte, aantoonbare kredietaanvraag vereist — de koper kan zich niet zomaar bedenken en zich achter de clausule verschuilen.",
+        table: {
+          headers: ["Element", "Indicatief / gebruikelijk", "Waar vastgelegd"],
+          rows: [
+            ["Termijn financiering", "Vaak 3 tot 6 weken", "Contractueel in compromis"],
+            ["Aantal aanvragen", "Minstens 1, vaak meerdere banken", "Contractueel of via te goeder trouw"],
+            ["Bewijs van weigering", "Schriftelijke weigeringsbrief(ven)", "Contractueel"],
+            ["Minimumbedrag / max. rentevoet", "Aan te raden om te vermelden", "Contractueel"],
+          ],
+        },
+      },
+      {
+        heading: "Wat gebeurt er met het voorschot?",
+        body: "Wordt de voorwaarde niet vervuld en heeft de koper zijn inspanningen bewezen, dan **vervalt de koop zonder boete of schadevergoeding** voor beide partijen. Reeds betaalde bedragen — het voorschot of de waarborg, vaak op de derdenrekening van de notaris of de makelaar — worden volledig aan de koper terugbetaald. Niemand is iets verschuldigd.\n\nHet omgekeerde geldt als er géén (geldige) financieringsvoorwaarde in het compromis staat, of als de koper de voorwaarde niet correct inriep. Dan blijft hij gebonden. Haakt hij toch af, dan kan de verkoper de gedwongen uitvoering vorderen of het **schadebeding** inroepen — in Belgische compromissen doorgaans 10% van de verkoopprijs. Precies daarom is de exacte formulering van de clausule zo belangrijk: ze bepaalt of het voorschot terugkeert of niet.\n\nEen vage formule als \"onder voorbehoud van financiering\", zonder termijn, bedrag of bewijsregeling, leidt vaak tot betwisting. Laat de clausule steeds door de notaris of makelaar opstellen.",
+      },
+      {
+        heading: "Het risico voor u als verkoper",
+        body: "De opschortende voorwaarde beschermt de koper, maar verlegt een reëel risico naar u. Zolang de voorwaarde openstaat, zit u vast aan een verkoop die nog kan afspringen.\n\n• **Uw woning is weken geblokkeerd.** U hebt getekend, maar kunt niet aan een andere kandidaat verkopen zolang de termijn loopt.\n• **De deal kan alsnog afspringen.** Krijgt de koper zijn krediet niet rond, dan staat u — na weken wachten — weer bij af.\n• **Tijdverlies en onzekerheid.** Andere geïnteresseerden zijn ondertussen mogelijk afgehaakt, en de markt kan intussen bewegen.\n\nU kunt de voorwaarde wél aanscherpen om uw risico te beperken. Enkele hefbomen:\n\n1. Een **korte, duidelijke termijn** met een harde einddatum.\n2. Een **minimumbedrag** en een **maximale rentevoet**, zodat de koper zich niet achter een onrealistische aanvraag kan verschuilen.\n3. Een **expliciete bewijsplicht**: aantal weigeringsbrieven en de wijze en termijn waarop de koper de weigering moet aantonen.\n\nEen strakke clausule neemt het onzekerheidsrisico echter niet volledig weg. Zelfs met de beste formulering kan een oprechte kredietweigering de koop nog laten afspringen.",
+        table: {
+          headers: ["Zwakke clausule", "Aangescherpte clausule"],
+          rows: [
+            ["\"Onder voorbehoud van financiering\"", "Concreet minimumbedrag en max. rentevoet"],
+            ["Geen of vage termijn", "Korte termijn met harde einddatum"],
+            ["Geen bewijsregeling", "Minstens 2 weigeringsbrieven vereist"],
+            ["Geen banken vermeld", "Aanvraag bij meerdere instellingen"],
+          ],
+        },
+      },
+      {
+        heading: "Verkopen in de huidige staat aan wijkopenpanden.be",
+        body: "Wij kopen woningen in de regio Antwerpen rechtstreeks op, **in de huidige staat** en met **eigen middelen**. Dat laatste is de kern van het verschil: omdat wij niet afhankelijk zijn van een bank, hebben wij **geen financieringsvoorbehoud** nodig. Er staat dus geen opschortende voorwaarde van financiering in onze overeenkomst die de verkoop weken kan blokkeren of alsnog kan laten afspringen. Voor u betekent dat meer zekerheid en minder wachttijd.\n\nConcreet werken wij zo:\n\n• U krijgt doorgaans **binnen 2 uur** een reactie op uw aanvraag.\n• Na een plaatsbezoek ontvangt u een **schriftelijk, vrijblijvend bod**.\n• Er is **geen makelaarscommissie** en geen financieringsvoorbehoud.\n• De akte verloopt doorgaans **binnen 2 à 3 maanden**, of sneller in overleg.\n\nWij zijn eerlijk over wat wij wél en niet wegnemen. Een directe verkoop schrapt het risico dat de koper zijn lening niet rondkrijgt, want dat risico bestaat bij ons niet. Andere aspecten — zoals de prijs die u op de open markt zou kunnen halen — blijven een afweging die u zelf maakt. Vergelijk gerust ons bod met een klassieke verkoop en beslis daarna.",
+      },
+    ],
+    relatedArticles: ["compromis-verkoop-woning-belgie", "verkoopbelofte-compromis-akte", "bod-aanvragen-vrijblijvend-bindend", "hoe-snel-verkopen-en-geld-ontvangen", "hoelang-duurt-huis-verkopen-belgie", "betrouwbaar-verkopen-aan-opkoper"],
+    relatedSituations: ["verkopen-zonder-makelaar"],
+    faqs: [
+      {
+        question: "Wat als de koper zijn lening niet rondkrijgt?",
+        answer: "Staat er een opschortende voorwaarde van financiering in het compromis en toont de koper met weigeringsbrieven aan dat hij zijn krediet ondanks reële inspanningen niet rond kreeg binnen de termijn, dan gaat de koop niet door en krijgt hij zijn voorschot terug, zonder boete voor beide partijen. Ontbreekt zo'n voorwaarde, dan blijft de koper gebonden en riskeert hij het schadebeding van doorgaans 10%.",
+      },
+      {
+        question: "Hoe lang duurt de termijn van de opschortende voorwaarde?",
+        answer: "De termijn is contractueel en wordt in het compromis afgesproken; hij is niet wettelijk vastgelegd. In de praktijk ligt hij vaak tussen drie en zes weken, ruim genoeg om bij meer dan één bank aan te kloppen. Beschouw dit als een indicatie: de partijen bepalen de duur zelf.",
+      },
+      {
+        question: "Welk bewijs moet de koper leveren dat hij geen lening kreeg?",
+        answer: "De koper draagt de bewijslast en levert doorgaans een of meer schriftelijke weigeringsbrieven van banken. Sommige clausules eisen expliciet twee of drie weigeringen. Wie geen aantoonbare, marktconforme aanvraag deed of de termijn zonder geldige reden liet verstrijken, verliest de bescherming van de voorwaarde.",
+      },
+      {
+        question: "Wat is het verschil tussen een opschortende en een ontbindende voorwaarde?",
+        answer: "Bij een opschortende voorwaarde wordt de koop pas definitief zodra de lening rond is; blijft de goedkeuring uit, dan gaat de koop niet door. Bij een ontbindende voorwaarde bestaat de koop meteen, maar valt hij weg als de gebeurtenis zich voordoet — onder het huidige recht voor de toekomst, met teruggave van wat al betaald werd. Voor het eindresultaat maakt het meestal weinig uit.",
+      },
+      {
+        question: "Krijgt de koper zijn voorschot terug als de koop afspringt?",
+        answer: "Ja, als de opschortende voorwaarde niet vervuld raakt en de koper zijn inspanningen heeft bewezen, wordt het voorschot of de waarborg volledig terugbetaald, zonder boete voor beide partijen. Ontbreekt een geldige voorwaarde of werd ze niet correct ingeroepen, dan kan de koper zijn voorschot juist verliezen via het schadebeding.",
+      },
+      {
+        question: "Waarom heeft wijkopenpanden.be geen financieringsvoorbehoud nodig?",
+        answer: "Omdat wij met eigen middelen kopen en niet afhankelijk zijn van een bankkrediet. Daardoor staat er geen opschortende voorwaarde van financiering in onze overeenkomst die de verkoop weken kan blokkeren of alsnog kan laten afspringen. Dat geeft u meer zekerheid dan een verkoop aan een koper die nog een lening moet rondkrijgen.",
+      },
+    ],
+  },
+  {
+    slug: "verkoop-annuleren-na-compromis-koop-is-koop",
+    title: "Kan ik de verkoop nog annuleren na het compromis? Koop is koop",
+    metaTitle: "Verkoop annuleren na het compromis? Koop is koop",
+    metaDescription: "Na het tekenen van het compromis is de verkoop bindend: geen wettelijke bedenktijd. U raakt er enkel uit via een voorwaarde, wilsgebrek of schadebeding.",
+    publishedAt: "2026-07-23",
+    updatedAt: "2026-07-23",
+    intro: "Zodra koper en verkoper het compromis — de onderhandse verkoopovereenkomst — ondertekenen, is de verkoop juridisch voltrokken: koop is koop. Bij een gewone verkoop van vastgoed tussen particulieren bestaat er in België géén wettelijke bedenktijd en géén herroepingsrecht. U raakt er nadien enkel nog uit langs vier wegen: een opschortende voorwaarde die niet vervuld raakt, een wederzijds akkoord met de tegenpartij, een wilsgebrek zoals dwaling of bedrog, of door het schadebeding (vaak 10% van de prijs) of een schadevergoeding te betalen. Dit artikel legt uit waarom het compromis al bindt, waarom het beruchte \"14 dagen herroepingsrecht\" hier niet geldt, hoe het schadebeding werkt en wat het verschil is tussen compromis, verkoopbelofte en authentieke akte.",
+    sections: [
+      {
+        heading: "Waarom 'koop is koop': de verkoop is al rond bij het compromis",
+        body: "De verkoop van een woning is in principe voltrokken zodra er wilsovereenstemming is over **twee zaken: het goed en de prijs**. Dat staat in artikel 1583 van het oud Burgerlijk Wetboek: de koop is voltrokken en de eigendom gaat rechtens over van zodra men het eens is over de zaak en de prijs, ook al is het goed nog niet geleverd en de prijs nog niet betaald. Het algemene contractenrecht (Boek 5 van het nieuw Burgerlijk Wetboek, van kracht sinds 1 januari 2023) bevestigt dat een overeenkomst tot stand komt door loutere wilsovereenstemming.\n\nHet gevolg is streng: het compromis is dus geen 'vrijblijvende intentie' of een voorbereiding op de echte verkoop. Het ís de verkoop. Vanaf de handtekening kan geen van beide partijen zich nog eenzijdig bedenken.\n\nDe latere authentieke akte bij de notaris voegt in principe geen nieuwe toestemming toe: die neemt de volledige inhoud van het compromis over en zorgt vooral voor rechtszekerheid en tegenstelbaarheid aan derden (via de overschrijving op het hypotheekkantoor). Het echte 'ja' is dus al gegeven bij het compromis, niet bij de akte.",
+        table: {
+          headers: ["Moment", "Bent u al gebonden?", "Waarom"],
+          rows: [
+            ["Mondeling akkoord over zaak + prijs", "In principe ja", "Wilsovereenstemming volstaat (art. 1583 oud BW); bewijs is wel lastiger"],
+            ["Ondertekend compromis", "Ja, volledig", "Verkoop is voltrokken; alle voorwaarden liggen vast"],
+            ["Voorschot betaald", "Ja (was al zo)", "Het voorschot bevestigt, maar creëert de binding niet"],
+            ["Authentieke akte bij notaris", "Ja", "Neemt het compromis over; zorgt voor tegenstelbaarheid aan derden"],
+          ],
+        },
+      },
+      {
+        heading: "Geldt het beruchte '14 dagen herroepingsrecht' hier ook?",
+        body: "Nee. Dit is het hardnekkigste misverstand bij vastgoedverkoop. Het **herroepingsrecht van 14 dagen** komt uit het consumentenrecht (artikel VI.47 van het Wetboek van economisch recht). Het geldt uitsluitend wanneer een **consument** een overeenkomst sluit met een **onderneming**, en dan nog enkel bij overeenkomsten op afstand (webshop, telefoon) of buiten de verkoopruimten (aan de deur, op een beurs). Het beschermt de consument tegen een impulsieve aankoop.\n\nEen woningverkoop tussen twee particulieren valt daar volledig buiten: er is geen onderneming, geen consument-tegenover-onderneming-relatie en geen verkoop 'op afstand' in de zin van die wet. Zelfs in situaties waar het consumentenrecht wél zou spelen, is de aankoop van onroerend goed bovendien uitdrukkelijk uitgesloten van dat herroepingsrecht.\n\nOok de Nederlandse 'drie dagen bedenktijd' bestaat in België niet: dat is een regel uit het Nederlandse Burgerlijk Wetboek (art. 7:2 NL BW) die vaak wordt verward met de Belgische situatie. In België is er dus geen enkele wettelijke bedenk- of afkoelingsperiode bij een gewone woningverkoop tussen particulieren.",
+        table: {
+          headers: ["Situatie", "14 dagen herroeping?", "Toelichting"],
+          rows: [
+            ["Woning kopen van een particulier", "Nee", "Geen onderneming; koop is koop bij het compromis"],
+            ["Product kopen in een webshop", "Ja", "Overeenkomst op afstand tussen consument en onderneming"],
+            ["Aankoop aan de deur / op een beurs", "Ja", "Buiten verkoopruimten, consument-onderneming"],
+            ["Onroerend goed via consumentencontext", "Nee", "Vastgoed is uitdrukkelijk uitgesloten van herroeping"],
+          ],
+        },
+      },
+      {
+        heading: "Terugkrabbelen kost geld: het schadebeding en de keuze van de tegenpartij",
+        body: "Stel dat u tóch niet meer wil verkopen, zonder juridische grond. Dan pleegt u contractbreuk, en beslist niet u maar de **tegenpartij** wat er gebeurt. De meeste compromissen bevatten een **schadebeding**, vaak **10% van de verkoopprijs**. Dat bedrag is de forfaitair afgesproken schadevergoeding als één partij afhaakt.\n\nBelangrijk: dat schadebeding is geen 'afkoopknop' die ú naar keuze kan indrukken. De benadeelde partij heeft in principe de **keuze** tussen twee sporen:\n\n1. **Gedwongen uitvoering** eisen — de rechter kan u verplichten de verkoop tóch te laten doorgaan en de akte te verlijden.\n2. **Ontbinding** van de koop vorderen, mét schadevergoeding (het schadebeding, of de werkelijke schade).\n\nEen rechter kan een schadebeding dat kennelijk buitensporig is desgevallend matigen, maar reken daar niet op: 10% wordt doorgaans als redelijk aanvaard. Terugkrabbelen 'omdat u van gedacht veranderd bent' is met andere woorden zelden gratis en zelfs niet altijd mogelijk — de koper kan u aan de verkoop houden.",
+        table: {
+          headers: ["Reden om af te haken", "Kunt u eruit?", "Gevolg"],
+          rows: [
+            ["Van gedacht veranderd", "Nee, niet vrij", "Schadebeding (vaak 10%) of gedwongen uitvoering"],
+            ["Betere koper gevonden", "Nee", "U blijft gebonden aan het eerste compromis"],
+            ["Wederzijds akkoord met koper", "Ja", "In onderling overleg ontbinden, eigen afspraken"],
+            ["Opschortende voorwaarde faalt", "Ja", "Koop vervalt van rechtswege, zonder schade"],
+          ],
+        },
+      },
+      {
+        heading: "Wanneer kunt u er wél uit? Wilsgebreken en opschortende voorwaarden",
+        body: "Er zijn een beperkt aantal 'nette' uitwegen waarbij u niet zomaar contractbreuk pleegt.\n\n**Opschortende voorwaarden.** Dit is de meest voorkomende en veiligste uitweg. Een opschortende voorwaarde koppelt de verkoop aan een toekomstige, onzekere gebeurtenis. De klassieker is de voorwaarde van het **verkrijgen van een lening**: krijgt de koper binnen de afgesproken termijn geen financiering, dan valt de koop van rechtswege weg, zonder schadevergoeding. Zo'n voorwaarde moet wel op voorhand in het compromis staan — u kan er nadien niet zomaar één bijverzinnen.\n\n**Wilsgebreken.** U kan de nietigheid of vernietiging vragen wanneer uw toestemming aangetast was door een wilsgebrek (art. 5.33 e.v. nieuw BW; vroeger art. 1109 e.v. oud BW):\n\n• **Dwaling** — u dwaalde over een essentieel element van de overeenkomst.\n• **Bedrog** — de tegenpartij heeft u bewust misleid (bv. gebreken verzwegen).\n• **Geweld / bedreiging** — uw toestemming werd afgedwongen.\n\nEen wilsgebrek inroepen is geen eenvoudige knop: u draagt de bewijslast en de drempel ligt hoog. Twijfelt u, laat dit dan beoordelen door uw notaris of een advocaat vóór u iets onderneemt.",
+        table: {
+          headers: ["Uitweg", "Voorwaarde", "Kost het u iets?"],
+          rows: [
+            ["Opschortende voorwaarde", "Vooraf in compromis; voorwaarde faalt", "Nee, koop vervalt van rechtswege"],
+            ["Wederzijds akkoord", "Koper stemt in met ontbinding", "Wat u samen afspreekt"],
+            ["Dwaling of bedrog", "Essentiële misvatting of misleiding, bewezen", "Procedure; uitkomst onzeker"],
+            ["Geweld / bedreiging", "Toestemming afgedwongen, bewezen", "Procedure; zeldzaam"],
+          ],
+        },
+      },
+      {
+        heading: "Compromis, verkoopbelofte of akte: wat bindt u wanneer?",
+        body: "Niet elk document bindt u op dezelfde manier. Het loont om het onderscheid te kennen vóór u tekent.\n\n**Het compromis** (onderhandse verkoopovereenkomst) is een **wederzijdse** overeenkomst: zowel koper als verkoper verbinden zich definitief. Dit is de echte verkoop.\n\n**De verkoopbelofte** is doorgaans **eenzijdig**: één partij (meestal de verkoper) belooft te verkopen, en de andere partij krijgt een **optie** die ze binnen een termijn kan lichten. Zolang die optie niet gelicht is, is er nog geen wederzijdse verkoop — maar de belofte zelf bindt de belover wél. Licht de begunstigde de optie, dan ontstaat alsnog een volwaardige koop.\n\n**De authentieke akte** is de notariële bevestiging van wat al in het compromis staat. Ze is nodig voor de overschrijving en de tegenstelbaarheid aan derden, maar voegt in principe geen nieuwe wilsovereenstemming toe.\n\nEen laatste nuance: verloopt de verkoop via een makelaar of in een specifieke koop-op-afstand-context, dan kunnen bijkomende regels spelen. Dat hangt af van de concrete opzet; laat dit in dat geval nakijken.",
+        table: {
+          headers: ["Document", "Wie is gebonden?", "Rol"],
+          rows: [
+            ["Compromis", "Koper én verkoper, definitief", "De eigenlijke verkoop"],
+            ["Verkoopbelofte", "De belover; de andere heeft een optie", "Optie die binnen termijn gelicht wordt"],
+            ["Authentieke akte", "Bevestigt het compromis", "Overschrijving en tegenstelbaarheid aan derden"],
+          ],
+        },
+      },
+      {
+        heading: "Verkopen in de huidige staat aan wijkopenpanden.be",
+        body: "Wij kopen woningen in de regio Antwerpen rechtstreeks op, **in de huidige staat**. U hoeft niets op te knappen, leeg te maken of te laten keuren vóór de verkoop.\n\nWat u van ons mag verwachten:\n\n• **Geen makelaarscommissie** — wij zijn de koper, geen tussenpersoon.\n• **Eigen middelen, dus geen financieringsvoorbehoud** — onze aankoop hangt niet af van een bank die alsnog kan afhaken.\n• Reactie op uw vraag **doorgaans binnen 2 uur**.\n• Na een plaatsbezoek een **schriftelijk, vrijblijvend bod**: u beslist zelf of u erop ingaat, zonder verplichting.\n• Bij akkoord verloopt het verder via het compromis en de notaris, met de akte **doorgaans binnen 2 à 3 maanden**.\n\nEén ding blijven wij eerlijk over: ook bij ons geldt na ondertekening van het compromis dat koop koop is. Wij nemen die onzekerheid dus niet weg — wat wij wél doen, is u vóór de handtekening een duidelijk en vrijblijvend bod geven, zodat u met volledige informatie kan beslissen. Twijfelt u over uw juridische positie in een lopende verkoop, raadpleeg dan altijd eerst uw notaris of een advocaat.",
+      },
+    ],
+    relatedArticles: ["compromis-verkoop-woning-belgie", "verkoopbelofte-compromis-akte", "bod-aanvragen-vrijblijvend-bindend", "verborgen-gebreken-woning-verkoop-belgie", "betrouwbaar-verkopen-aan-opkoper"],
+    relatedSituations: ["verkopen-zonder-makelaar"],
+    faqs: [
+      {
+        question: "Kan ik de verkoop nog annuleren na het compromis?",
+        answer: "In principe niet vrij. Zodra het compromis getekend is, is de verkoop juridisch voltrokken (koop is koop). U raakt er enkel uit via een opschortende voorwaarde die niet vervuld raakt, een wederzijds akkoord met de koper, een bewezen wilsgebrek zoals dwaling of bedrog, of door het schadebeding of een schadevergoeding te betalen. De koper kan bovendien de gedwongen uitvoering eisen.",
+      },
+      {
+        question: "Heb ik geen 14 dagen bedenktijd na het tekenen van het compromis?",
+        answer: "Nee. Het herroepingsrecht van 14 dagen komt uit het consumentenrecht en geldt enkel bij aankopen op afstand of buiten verkoopruimten tussen een consument en een onderneming. Een woningverkoop tussen particulieren valt daar niet onder. In België bestaat er geen wettelijke bedenktijd bij een gewone woningverkoop.",
+      },
+      {
+        question: "Hoeveel kost het als ik toch afhaak zonder geldige reden?",
+        answer: "Vaak bevat het compromis een schadebeding van 10% van de verkoopprijs. Maar dat is geen afkoopknop die u naar keuze indrukt: de tegenpartij kiest tussen de gedwongen uitvoering eisen (u dwingen tot verkopen) of de koop ontbinden met schadevergoeding. Terugkrabbelen is dus zelden gratis en niet altijd mogelijk.",
+      },
+      {
+        question: "Wat is een opschortende voorwaarde en helpt die mij eruit?",
+        answer: "Een opschortende voorwaarde koppelt de verkoop aan een toekomstige onzekere gebeurtenis, zoals het verkrijgen van een lening. Wordt de voorwaarde niet vervuld binnen de termijn, dan valt de koop van rechtswege weg, zonder schadevergoeding. De voorwaarde moet wel op voorhand in het compromis staan; achteraf toevoegen kan niet.",
+      },
+      {
+        question: "Wanneer kan ik de verkoop wél nietig laten verklaren?",
+        answer: "Wanneer uw toestemming aangetast was door een wilsgebrek: dwaling over een essentieel element, bedrog (de tegenpartij misleidde u bewust) of geweld/bedreiging. U draagt dan wel de bewijslast en de drempel ligt hoog. Laat dit steeds beoordelen door uw notaris of een advocaat voor u iets onderneemt.",
+      },
+      {
+        question: "Is een verkoopbelofte hetzelfde als een compromis?",
+        answer: "Nee. Een compromis is een wederzijdse overeenkomst waarbij koper en verkoper zich allebei definitief verbinden. Een verkoopbelofte is doorgaans eenzijdig: één partij belooft te verkopen en de andere krijgt een optie die ze binnen een termijn kan lichten. Zolang de optie niet gelicht is, is er nog geen wederzijdse koop, maar de belover blijft wel aan zijn belofte gebonden.",
+      },
+    ],
+  },
+  {
+    slug: "postinterventiedossier-pid-verkoop-woning",
+    title: "Postinterventiedossier (PID) bij de verkoop van een woning: wanneer verplicht?",
+    metaTitle: "Postinterventiedossier (PID) bij verkoop: wanneer verplicht?",
+    metaDescription: "Een postinterventiedossier is verplicht als er sinds 1 mei 2001 werken aan de woning zijn. U geeft het aan de koper; de notaris vermeldt het in de akte.",
+    publishedAt: "2026-07-23",
+    updatedAt: "2026-07-23",
+    intro: "Een postinterventiedossier (PID) is in principe verplicht voor elk gebouw waaraan sinds 1 mei 2001 structurele of bouwkundige werken zijn uitgevoerd. Bij de verkoop overhandigt u het dossier aan de koper, ten laatste bij het verlijden van de notariële akte, en het bestaan ervan wordt in die akte vermeld. Zijn er sinds 1 mei 2001 geen werken uitgevoerd, dan is er doorgaans geen PID nodig. Ontbreekt het dossier terwijl er wél werken waren, dan moet het geheel of gedeeltelijk heropgemaakt worden. Dit artikel legt uit wat een PID precies is, wanneer het verplicht is, welke rol de notaris speelt en wat u doet als het ontbreekt.",
+    sections: [
+      {
+        heading: "Wat is een postinterventiedossier precies?",
+        body: "Het postinterventiedossier is geen attest maar een **bundel documenten** die alle informatie verzamelt die nuttig is voor de veiligheid en de gezondheid van wie later aan het gebouw werkt: onderhoud, herstellingen, verbouwingen of sloop. Het is bedoeld om een toekomstige aannemer of architect te laten weten hoe het gebouw is opgebouwd en waar de risico's zitten.\n\nEen PID bevat doorgaans:\n\n• De as-built plannen van de uitgevoerde werken (structuur, funderingen, dragende elementen).\n• De gebruikte materialen en technieken, met vermelding van de uitvoerder.\n• Informatie over de technische installaties (elektriciteit, verwarming, sanitair, ventilatie).\n• Gegevens over eventuele gevaarlijke stoffen of verborgen risico's.\n• Onderhouds- en gebruiksinstructies waar die relevant zijn.\n\nBelangrijk: een PID is een **dossier dat groeit**. Bij elke nieuwe ingreep hoort de informatie te worden aangevuld, met aanpassing van de betrokken plannen en vermelding van wie de werken uitvoerde.",
+      },
+      {
+        heading: "De wettelijke basis en de datum 1 mei 2001",
+        body: "De verplichting vloeit voort uit het **koninklijk besluit van 25 januari 2001 betreffende de tijdelijke of mobiele bouwplaatsen**, dat de veiligheidscoördinatie in de bouw regelt. Dit KB trad in werking op **1 mei 2001**. Een latere aanpassing (het KB van 22 maart 2006) verfijnde onder meer de regels rond de overdracht van het dossier bij verkoop.\n\nDe datum is dus scharnierpunt: voor werken van vóór 1 mei 2001 bestond de PID-verplichting nog niet. Voor werken vanaf die datum geldt ze wel. Een woning die volledig dateert van vóór mei 2001 en waaraan sindsdien niets structureels gebeurde, heeft in principe geen PID nodig.",
+        table: {
+          headers: ["Situatie", "PID vereist?"],
+          rows: [
+            ["Woning gebouwd vóór 1 mei 2001, geen werken sindsdien", "Neen, doorgaans niet"],
+            ["Woning gebouwd na 1 mei 2001", "Ja"],
+            ["Verbouwing of structurele werken na 1 mei 2001", "Ja, minstens voor die werken"],
+            ["Louter schilder- of behangwerk", "Neen (geen bouwkundige ingreep)"],
+            ["Werken vóór 1 mei 2001, niets nadien", "Neen, doorgaans niet"],
+          ],
+        },
+      },
+      {
+        heading: "Wanneer is het precies verplicht bij verkoop?",
+        body: "Een veelgemaakte misvatting is dat een PID enkel nodig is bij grote, gecoördineerde werven met meerdere aannemers. Dat klopt niet. De verplichting geldt in principe ook voor **kleinere werken door één enkele aannemer**, zolang ze na 1 mei 2001 zijn uitgevoerd en een bouwkundig of structureel karakter hebben.\n\nHet onderscheid zit vooral in wie het dossier opstelt:\n\n• Bij werken met **meerdere aannemers tegelijk** is een veiligheidscoördinator wettelijk verplicht; die stelt het PID op.\n• Bij werken met **één aannemer** stelt de opdrachtgever zelf (of een door hem aangestelde derde) een vereenvoudigd PID op.\n\nBij de verkoop moet u het bestaande dossier aan de koper bezorgen, ten laatste op het moment dat de notariële akte wordt verleden. Het dossier volgt met andere woorden de woning en wordt bij elke overdracht doorgegeven.",
+      },
+      {
+        heading: "De rol van de notaris",
+        body: "De notaris speelt bij het PID een **signalerende en registrerende rol**, geen controlerende. Concreet:\n\n1. De notaris vraagt de verkoper of er sinds 1 mei 2001 werken zijn uitgevoerd en of er een PID bestaat.\n2. Het antwoord van de verkoper wordt als **verklaring opgenomen in de authentieke akte**.\n3. Bestaat er een PID, dan wordt de overhandiging aan de koper in de akte vastgelegd.\n\nDe notaris **controleert de inhoud van het dossier niet** en gaat niet na of het volledig of correct is. Hij registreert wat de verkoper verklaart. Dat betekent dat de verantwoordelijkheid voor de juistheid bij u als verkoper blijft liggen. Een onjuiste of onvolledige verklaring kan later tot betwisting leiden.",
+        table: {
+          headers: ["Wie", "Doet wat"],
+          rows: [
+            ["Verkoper", "Levert PID aan, verklaart of er werken waren"],
+            ["Notaris", "Bevraagt, neemt verklaring op in de akte"],
+            ["Koper", "Ontvangt het dossier, bewaart en vult aan"],
+            ["Veiligheidscoördinator", "Stelt het PID op bij werken met meerdere aannemers"],
+          ],
+        },
+      },
+      {
+        heading: "Wat als het postinterventiedossier ontbreekt?",
+        body: "Ontbreekt het PID terwijl er sinds 1 mei 2001 wel werken zijn gebeurd, dan moet het in principe **geheel of gedeeltelijk heropgemaakt** worden. Dat gebeurt op basis van de beschikbare gegevens: facturen, plannen, offertes en informatie van de (vroegere) aannemers of architect.\n\nDe heropmaak kan gebeuren door:\n\n• De oorspronkelijke aannemer(s) of architect die de werken uitvoerden.\n• Een **veiligheidscoördinator**, die op basis van de beschikbare stukken een dossier reconstrueert.\n\nDe kosten hiervan zijn doorgaans voor de verkoper. In de praktijk kan een verkoop ook doorgaan **mits een verklaring** in de akte dat het dossier (nog) niet volledig is, waarbij de verkoper zich soms verbindt het na te leveren. Let wel: dat neemt de aansprakelijkheid niet weg. Ontbreekt informatie over uitgevoerde werken, dan blijft u als verkoper aanspreekbaar als daar later een probleem uit voortvloeit. Een verklaring in de akte is dus geen vrijwaring.",
+      },
+      {
+        heading: "Verschil met EPC, keuringen en attesten",
+        body: "Het PID wordt vaak verward met de andere verkoopdocumenten, maar het is fundamenteel iets anders. Een EPC, een elektriciteitskeuring, een asbestattest of een bodemattest zijn **momentopnames die één aspect beoordelen** en een score of conformiteit vaststellen. Het PID is daarentegen een **doorlopend informatiedossier** over hoe het gebouw is opgebouwd, zonder oordeel of score.\n\nKort samengevat: de attesten zeggen iets over de huidige toestand of prestatie; het PID zegt iets over de bouwgeschiedenis en de risico's voor wie later werkt. Ze bestaan naast elkaar en vervangen elkaar niet.",
+        table: {
+          headers: ["Document", "Type", "Wat het zegt"],
+          rows: [
+            ["PID", "Dossier", "Hoe het gebouw is gebouwd, risico's voor latere werken"],
+            ["EPC", "Attest", "Energieprestatie / energiescore"],
+            ["Elektriciteitskeuring", "Keuringsverslag", "Conform of niet-conform"],
+            ["Asbestattest", "Attest", "Aanwezigheid van asbest"],
+            ["Bodemattest", "Attest", "Bodemtoestand van het perceel"],
+          ],
+        },
+      },
+      {
+        heading: "Verkopen in de huidige staat aan wijkopenpanden.be",
+        body: "Wij kopen woningen in de regio **Antwerpen** rechtstreeks op, in de **huidige staat**. Dat betekent dat wij een woning ook overnemen wanneer het postinterventiedossier onvolledig is of ontbreekt, of wanneer u niet zeker weet welke werken sinds 2001 zijn uitgevoerd. Wij werken met **eigen middelen**, dus zonder financieringsvoorbehoud, en zonder makelaarscommissie.\n\nWees wel eerlijk geïnformeerd: het feit dat wij kopen, **heft de wettelijke situatie niet op**. Een PID blijft in principe verplicht bij uitgevoerde werken, en wat in de akte wordt opgenomen, gebeurt in overleg met de notaris. Wij nemen de zorg om herstel, opknapwerk of makelaarsstappen weg, maar wij maken geen juridische verplichtingen ongedaan die los van ons bestaan.\n\nOnze werkwijze:\n\n• Reactie op uw aanvraag doorgaans binnen 2 uur.\n• Een plaatsbezoek, gevolgd door een schriftelijk en vrijblijvend bod.\n• Bij akkoord verloopt het verlijden van de akte doorgaans binnen 2 à 3 maanden.\n\nZo weet u snel waar u aan toe bent, zonder dat u eerst dossiers moet laten heropmaken om te kunnen verkopen.",
+      },
+    ],
+    relatedArticles: ["keuringen-bij-verkoop-woning", "keuringen-attesten-bij-directe-verkoop", "epc-attest-antwerpen", "elektriciteitskeuring-niet-conform-verkopen", "asbestattest-bij-verkoop-woning", "stedenbouwkundige-overtreding-woning-verkopen"],
+    relatedSituations: ["opknappand-verkopen", "verkopen-zonder-makelaar"],
+    faqs: [
+      {
+        question: "Wanneer is een postinterventiedossier (PID) verplicht bij de verkoop van een woning?",
+        answer: "Een PID is in principe verplicht voor elk gebouw waaraan sinds 1 mei 2001 structurele of bouwkundige werken zijn uitgevoerd, of dat na die datum werd gebouwd. Bij de verkoop overhandigt u het aan de koper, ten laatste bij het verlijden van de akte. Zijn er sinds 1 mei 2001 geen werken gebeurd, dan is er doorgaans geen PID nodig.",
+      },
+      {
+        question: "Wat gebeurt er als het postinterventiedossier ontbreekt?",
+        answer: "Waren er sinds 1 mei 2001 werken maar ontbreekt het dossier, dan moet het in principe geheel of gedeeltelijk heropgemaakt worden op basis van facturen, plannen en informatie van de aannemers of architect. Dat kan de oorspronkelijke aannemer, de architect of een veiligheidscoördinator doen. De verkoop kan soms doorgaan mits een verklaring in de akte, maar de verkoper blijft aansprakelijk.",
+      },
+      {
+        question: "Controleert de notaris de inhoud van het PID?",
+        answer: "Neen. De notaris vraagt of er sinds 1 mei 2001 werken zijn uitgevoerd en of er een PID bestaat, en neemt uw verklaring op in de akte. Hij controleert de inhoud van het dossier niet en gaat niet na of het volledig is. De verantwoordelijkheid voor de juistheid blijft bij de verkoper.",
+      },
+      {
+        question: "Is een PID ook nodig bij kleine werken door één aannemer?",
+        answer: "Ja, in principe wel. De verplichting geldt niet alleen voor grote werven met meerdere aannemers, maar ook voor kleinere bouwkundige werken door één aannemer na 1 mei 2001. Bij één aannemer stelt de opdrachtgever zelf een vereenvoudigd PID op; bij meerdere aannemers doet een veiligheidscoördinator dat.",
+      },
+      {
+        question: "Wat is het verschil tussen een PID en een EPC of keuring?",
+        answer: "Een EPC, elektriciteitskeuring, asbestattest of bodemattest zijn momentopnames die één aspect beoordelen en een score of conformiteit vaststellen. Het PID is geen attest maar een doorlopend informatiedossier over hoe het gebouw is opgebouwd en welke risico's er zijn voor wie later werken uitvoert. Ze bestaan naast elkaar.",
+      },
+      {
+        question: "Kan ik verkopen aan wijkopenpanden.be als mijn PID ontbreekt?",
+        answer: "Ja. Wij kopen woningen in de regio Antwerpen in de huidige staat, ook als het PID onvolledig is of ontbreekt. Dat heft de wettelijke situatie niet op, want een PID blijft in principe verplicht bij uitgevoerde werken en de akte gebeurt in overleg met de notaris. Maar u hoeft geen dossier te laten heropmaken vóór u met ons kunt verkopen.",
       },
     ],
   },
