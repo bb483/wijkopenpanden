@@ -44,7 +44,7 @@ export const articles: Article[] = [
         body: "Formeel wel, maar in de praktijk is de marge beperkt. De meeste makelaars hanteren een standaardtarief en wijken hier alleen van af bij uitzonderlijke omstandigheden (zeer waardevolle woning, exclusieve opdracht, meerdere dossiers tegelijk).\n\nVoorts is er een psychologisch element: een makelaar die zijn tarief snel verlaagt, geeft impliciet aan dat hij ook bij de onderhandeling met de koper snel toegeeft. Of dat zo is, kunt u moeilijk controleren.\n\nAlternatief zijn no-cure-no-pay-makelaars (alleen commissie bij verkoop, geen vaste kosten vooraf) en online platformen die een lager tarief rekenen maar minder diensten bieden. Bij beide opties blijft de eigenaar meer betrokken in het verkoopproces.",
       },
     ],
-    relatedArticles: ["notariskosten-woning-verkoop", "keuringen-bij-verkoop-woning", "hoelang-duurt-huis-verkopen-belgie", "compromis-verkoop-woning-belgie"],
+    relatedArticles: ["notariskosten-woning-verkoop", "keuringen-bij-verkoop-woning", "hoelang-duurt-huis-verkopen-belgie", "compromis-verkoop-woning-belgie", "makelaarscontract-opzeggen-en-zelf-verkopen"],
     relatedSituations: ["verkopen-zonder-makelaar", "huis-verkopen-bij-erfenis"],
     faqs: [
       {
@@ -114,7 +114,7 @@ export const articles: Article[] = [
         body: "Bij een verkoop aan wijkopenpanden.be regelen wij alle verplichte keuringen en attesten zelf, op onze kosten. U hoeft geen EPC, elektriciteitskeuring, asbestinventaris of bodemattesten zelf aan te vragen of te betalen. Dit is een van de concrete voordelen van een rechtstreekse verkoop aan een professionele opkoper.",
       },
     ],
-    relatedArticles: ["commissie-makelaar-belgie", "notariskosten-woning-verkoop", "asbestattest-bij-verkoop-woning", "bodemattest-vlaanderen-verkoop", "elektriciteitskeuring-niet-conform-verkopen", "postinterventiedossier-pid-verkoop-woning"],
+    relatedArticles: ["commissie-makelaar-belgie", "notariskosten-woning-verkoop", "asbestattest-bij-verkoop-woning", "bodemattest-vlaanderen-verkoop", "elektriciteitskeuring-niet-conform-verkopen", "postinterventiedossier-pid-verkoop-woning", "onafgewerkte-verbouwing-of-bouwwerf-verkopen"],
     relatedSituations: ["verkopen-zonder-makelaar", "opknappand-verkopen"],
     faqs: [
       {
@@ -348,7 +348,7 @@ export const articles: Article[] = [
         body: "Juridisch gezien is de verkoop definitief op het moment dat het compromis wordt ondertekend. De notariële akte is de formele bekrachtiging en de eigendomsoverdracht, maar de verbintenis tot koop/verkoop bestaat al vanaf het compromis.\n\nIn de praktijk wordt soms een ontbindende voorwaarde opgenomen (bijv. 'onder voorbehoud van het verkrijgen van een hypothecair krediet'). Als de koper zijn lening niet krijgt, kan hij zonder financiële gevolgen afzien van de aankoop.",
       },
     ],
-    relatedArticles: ["notariskosten-woning-verkoop", "erfenis-woning-stappenplan", "recht-van-voorkoop-bij-verkoop-woning", "verkoop-annuleren-na-compromis-koop-is-koop", "koper-krijgt-lening-niet-rond-opschortende-voorwaarde"],
+    relatedArticles: ["notariskosten-woning-verkoop", "erfenis-woning-stappenplan", "recht-van-voorkoop-bij-verkoop-woning", "verkoop-annuleren-na-compromis-koop-is-koop", "koper-krijgt-lening-niet-rond-opschortende-voorwaarde", "koper-tekent-de-akte-niet-of-betaalt-niet"],
     relatedSituations: ["huis-verkopen-bij-scheiding"],
     faqs: [
       {
@@ -564,7 +564,7 @@ export const articles: Article[] = [
         body: "Ons bod houdt rekening met:\n\n• Geschatte renovatiekost (structurele gebreken wegen zwaarder dan cosmetische)\n• Staat van de elektriciteit, dakbedekking, riolering en verwarmingsinstallatie\n• Aanwezigheid van asbest\n• EPC-label en geschatte energetische investeringen\n• Marktwaarde van vergelijkbare panden in de buurt na renovatie\n\nWij zijn transparant over onze berekening en leggen u uit hoe we tot ons bod zijn gekomen.",
       },
     ],
-    relatedArticles: ["keuringen-bij-verkoop-woning", "epc-attest-antwerpen", "verkoop-kosten-berekenen", "huis-verkopen-na-brand-of-schade", "woning-verkopen-met-krakers-of-domiciliefraude", "beschermd-monument-erfgoedwoning-verkopen", "verwaarloosde-woning-heffing-verkopen"],
+    relatedArticles: ["keuringen-bij-verkoop-woning", "epc-attest-antwerpen", "verkoop-kosten-berekenen", "huis-verkopen-na-brand-of-schade", "woning-verkopen-met-krakers-of-domiciliefraude", "beschermd-monument-erfgoedwoning-verkopen", "verwaarloosde-woning-heffing-verkopen", "onafgewerkte-verbouwing-of-bouwwerf-verkopen"],
     relatedSituations: ["opknappand-verkopen", "huis-verkopen-bij-erfenis"],
     faqs: [
       {
@@ -635,7 +635,7 @@ export const articles: Article[] = [
         },
       },
     ],
-    relatedArticles: ["notariskosten-woning-verkoop", "verkoop-kosten-berekenen", "erfenis-woning-stappenplan", "kadastraal-inkomen-en-woningverkoop", "onroerende-voorheffing-verrekenen-bij-verkoop"],
+    relatedArticles: ["notariskosten-woning-verkoop", "verkoop-kosten-berekenen", "erfenis-woning-stappenplan", "kadastraal-inkomen-en-woningverkoop", "onroerende-voorheffing-verrekenen-bij-verkoop", "woonbonus-en-fiscaal-voordeel-bij-verkoop-woning"],
     relatedSituations: ["huis-verkopen-bij-erfenis", "huis-verkopen-bij-scheiding"],
     faqs: [
       {
@@ -931,7 +931,7 @@ export const articles: Article[] = [
         body: "Wilt u uw woning niet regulariseren voor de verkoop? Dan is verkopen as-is de meest directe optie — op voorwaarde dat u transparant bent over de toestand.\n\nWijkopenpanden.be koopt woningen aan met stedenbouwkundige overtredingen. Wij:\n\n• Raadplegen zelf het stedenbouwkundig uittreksel en het maatregelenregister\n• Beoordelen de regulariseerbaarheid intern\n• Verrekenen de regularisatiekost eerlijk in ons bod — geen zwarte doos\n• Nemen de stedenbouwkundige last volledig over bij de akte\n• Regelen de regularisatie na de aankoop zelf, op ons tempo en budget\n\nVoor u als verkoper betekent dit: geen wachttijd, geen architect, geen gemeentelijke procedure voor de verkoop. U ontvangt een schriftelijk bod na één bezoek en beslist vrijblijvend.",
       },
     ],
-    relatedArticles: ["keuringen-bij-verkoop-woning", "pand-in-slechte-staat-verkopen", "verkoop-kosten-berekenen", "tuin-of-bouwgrond-apart-verkopen-perceel-splitsen", "postinterventiedossier-pid-verkoop-woning"],
+    relatedArticles: ["keuringen-bij-verkoop-woning", "pand-in-slechte-staat-verkopen", "verkoop-kosten-berekenen", "tuin-of-bouwgrond-apart-verkopen-perceel-splitsen", "postinterventiedossier-pid-verkoop-woning", "woning-in-onteigeningsplan-of-rooilijn-verkopen", "onafgewerkte-verbouwing-of-bouwwerf-verkopen"],
     relatedSituations: ["opknappand-verkopen", "huis-verkopen-bij-erfenis"],
     faqs: [
       {
@@ -1381,7 +1381,7 @@ export const articles: Article[] = [
         body: "Veel eigenaars wachten op het perfecte moment: de rente daalt nog wat, de markt trekt aan, het nieuwe jaar begint, de lente breekt aan. Intussen lopen de kosten door en groeit de onzekerheid.\n\nHet moment om te verkopen is niet wanneer de markt het beste staat — het is wanneer de beslissing voor u financieel en persoonlijk zinvol is.\n\nDrie vragen die alles verduidelijken:\n\n1. Kost de woning u geld zolang ze leegstaat of verhuurd is met een slechte EPC-score? Dan is elk kwartaal wachten een extra kost.\n\n2. Heeft u de verkoopprijs nodig voor iets concreets? Dan is zekerheid nu meer waard dan een hogere prijs over een jaar.\n\n3. Is de woning in goede staat en heeft u alle tijd? Dan kunt u de lente afwachten en via een makelaar de maximale prijs proberen te halen.\n\nWijkopenpanden.be koopt het hele jaar door. Wij geven u een schriftelijk bod na één bezoek — vrijblijvend, zonder tijdsdruk. Zo weet u wat de woning vandaag waard is en kunt u een weloverwogen beslissing nemen.",
       },
     ],
-    relatedArticles: ["wat-is-mijn-woning-waard-antwerpen", "huis-verkopen-antwerpen-gids", "hoelang-duurt-huis-verkopen-belgie", "energie-renovatieplicht-vlaanderen-2026", "verhuren-of-verkopen-antwerpen"],
+    relatedArticles: ["wat-is-mijn-woning-waard-antwerpen", "huis-verkopen-antwerpen-gids", "hoelang-duurt-huis-verkopen-belgie", "energie-renovatieplicht-vlaanderen-2026", "verhuren-of-verkopen-antwerpen", "woonbonus-en-fiscaal-voordeel-bij-verkoop-woning"],
     relatedSituations: ["huis-verkopen-bij-erfenis", "huis-verkopen-bij-scheiding", "pand-met-huurders-verkopen"],
     faqs: [
       {
@@ -1920,7 +1920,7 @@ export const articles: Article[] = [
         body: "Ja, en het verloopt identiek als bij een klassieke verkoop. De notaris lost de hypotheek af bij de akte en u ontvangt het nettobedrag na aftrek van de schuld en de kosten.\n\nEen bijkomend voordeel bij verkoop aan een vastgoedopkoper: de akte kan sneller worden gepland (doorgaans binnen twee tot drie maanden), waardoor u ook sneller verlost bent van de maandelijkse hypotheeklasten. Voor eigenaars die de lening als financiële last ervaren, is dat een concrete besparing.\n\nWijkopenpanden.be koopt woningen aan in alle situaties, ook als er een lopende hypotheek op rust. Wij coördineren met de notaris en zorgen voor een vlotte afhandeling.",
       },
     ],
-    relatedArticles: ["commissie-makelaar-belgie", "hoelang-duurt-huis-verkopen-belgie", "huis-verkopen-antwerpen-gids", "huis-verkopen-bij-betalingsproblemen-schulden", "woning-verkopen-met-hypothecair-mandaat"],
+    relatedArticles: ["commissie-makelaar-belgie", "hoelang-duurt-huis-verkopen-belgie", "huis-verkopen-antwerpen-gids", "huis-verkopen-bij-betalingsproblemen-schulden", "woning-verkopen-met-hypothecair-mandaat", "woonbonus-en-fiscaal-voordeel-bij-verkoop-woning"],
     relatedSituations: ["huis-verkopen-bij-scheiding", "verkopen-zonder-makelaar"],
     faqs: [
       {
@@ -1986,7 +1986,7 @@ export const articles: Article[] = [
         body: "Bij de verkoop aan een vastgoedopkoper zoals wijkopenpanden.be verloopt het compromis sneller en eenvoudiger dan bij een klassieke verkoop:\n\n• Geen financieringsvoorwaarde: wijkopenpanden.be koopt cash — u heeft geen risico dat de verkoop na weken wordt geannuleerd omdat de koper geen lening krijgt\n• Snellere timing: het compromis kan binnen enkele dagen na het bod worden getekend\n• Eenvoudigere clausules: er zijn geen complexe voorwaarden, geen makelaarsclausules en geen lange onderhandelingen\n• Zekerheid: zodra u het compromis tekent, is de verkoop definitief\n\nDit maakt de verkoop via opkoper bijzonder aantrekkelijk voor eigenaars die zekerheid willen over de timing en het definitieve karakter van de transactie.",
       },
     ],
-    relatedArticles: ["hoelang-duurt-huis-verkopen-belgie", "commissie-makelaar-belgie", "huis-verkopen-met-hypotheek", "onroerende-voorheffing-verrekenen-bij-verkoop", "recht-van-voorkoop-bij-verkoop-woning", "koper-krijgt-lening-niet-rond-opschortende-voorwaarde", "verkoop-annuleren-na-compromis-koop-is-koop"],
+    relatedArticles: ["hoelang-duurt-huis-verkopen-belgie", "commissie-makelaar-belgie", "huis-verkopen-met-hypotheek", "onroerende-voorheffing-verrekenen-bij-verkoop", "recht-van-voorkoop-bij-verkoop-woning", "koper-krijgt-lening-niet-rond-opschortende-voorwaarde", "verkoop-annuleren-na-compromis-koop-is-koop", "koper-tekent-de-akte-niet-of-betaalt-niet"],
     relatedSituations: ["huis-verkopen-bij-scheiding", "huis-verkopen-bij-erfenis", "verkopen-zonder-makelaar"],
     faqs: [
       {
@@ -2567,7 +2567,7 @@ export const articles: Article[] = [
         body: "Als uw woning al maanden te koop staat en u de wachttijd, de onzekerheid of de oplopende kosten beu bent, is een rechtstreekse verkoop aan wijkopenpanden.be een uitweg.\n\nWij kopen uw woning rechtstreeks aan, zonder makelaar en zonder commissie. U hoeft geen nieuwe foto's te laten maken, geen bezichtigingen meer te organiseren en geen te-koop-bord te plaatsen. Wij brengen na een bezoek een concreet, schriftelijk bod uit en u kiest zelf de datum van de akte.\n\nVoor een woning die niet verkocht raakt op de klassieke markt — door staat, dossier of het verkeerde publiek — biedt dit zekerheid in plaats van opnieuw maanden afwachten. U weegt zelf af of de zekerheid en de bespaarde kosten opwegen tegen het verschil met een onzekere verkoopprijs op termijn.",
       },
     ],
-    relatedArticles: ["wat-is-mijn-woning-waard-antwerpen", "hoelang-duurt-huis-verkopen-belgie", "commissie-makelaar-belgie", "pand-in-slechte-staat-verkopen", "huis-verkopen-bij-betalingsproblemen-schulden", "wanneer-beste-moment-woning-verkopen"],
+    relatedArticles: ["wat-is-mijn-woning-waard-antwerpen", "hoelang-duurt-huis-verkopen-belgie", "commissie-makelaar-belgie", "pand-in-slechte-staat-verkopen", "huis-verkopen-bij-betalingsproblemen-schulden", "wanneer-beste-moment-woning-verkopen", "makelaarscontract-opzeggen-en-zelf-verkopen"],
     relatedSituations: ["verkopen-zonder-makelaar", "opknappand-verkopen"],
     faqs: [
       {
@@ -2901,7 +2901,7 @@ export const articles: Article[] = [
         body: "Geen van beide is altijd beter — het hangt af van uw situatie.\n\nEen **makelaar** is interessant als:\n• Uw woning in goede staat is en vlot verkoopt op de markt\n• U geen haast heeft en de hoogst mogelijke brutoprijs wilt nastreven\n• U geen bezwaar heeft tegen bezichtigingen en wachttijd\n\nEen **opkoper** is interessant als:\n• U snel of op een gekozen datum zekerheid wilt\n• U niet wilt of kunt renoveren vóór de verkoop\n• U discreet wilt verkopen, zonder bezichtigingen of advertentie\n• U een pand verkoopt dat de doorsnee koper niet zoekt (opknappand, opbrengsteigendom, verhuurd pand)\n• U gedoe en bijkomende kosten wilt vermijden\n\nTwijfelt u? Een vrijblijvend bod aanvragen kost niets en geeft u een concreet vergelijkingspunt naast een schatting van een makelaar.",
       },
     ],
-    relatedArticles: ["commissie-makelaar-belgie", "wat-is-een-vastgoedopkoper", "hoelang-duurt-huis-verkopen-belgie", "betrouwbaar-verkopen-aan-opkoper", "bod-aanvragen-vrijblijvend-bindend", "verkoop-kosten-berekenen"],
+    relatedArticles: ["commissie-makelaar-belgie", "wat-is-een-vastgoedopkoper", "hoelang-duurt-huis-verkopen-belgie", "betrouwbaar-verkopen-aan-opkoper", "bod-aanvragen-vrijblijvend-bindend", "verkoop-kosten-berekenen", "makelaarscontract-opzeggen-en-zelf-verkopen"],
     relatedSituations: ["verkopen-zonder-makelaar", "opknappand-verkopen"],
     faqs: [
       {
@@ -3980,7 +3980,7 @@ export const articles: Article[] = [
         body: "Een overbruggingskrediet koopt tijd, maar tegen een reële prijs en met een open einde. Bekijk daarom altijd de alternatieven:\n\n• **Verkopen met een langere aktetermijn.** U verkoopt eerst en spreekt met de koper een ruimere periode tussen compromis en akte af, zodat u tijd heeft om te kopen en te verhuizen.\n• **Tijdelijk huren.** U verkoopt eerst, huurt kort tussenin en koopt daarna zonder tijdsdruk. Dubbele verhuis, maar geen krediet- of prijsrisico.\n• **Eerst zekerheid, dan kopen.** U laat een professionele koper een bindend bod op uw woning uitbrengen vóór u de nieuwe aankoop tekent. Dan weet u exact met welk budget u kunt kopen.\n\nDie laatste route is precies wat een directe verkoop aan wijkopenpanden.be mogelijk maakt. De grootste onzekerheid bij eerst kopen is immers niet de rentevoet, maar de **verkooptermijn** van uw huidige woning. Een vast, schriftelijk gemotiveerd bod neemt die onzekerheid weg: u kent de prijs, wij kopen in de huidige staat en betalen uit eigen middelen, zonder financieringsvoorbehoud en zonder makelaarscommissie. De akte volgt doorgaans 2 tot 3 maanden na akkoord en **u kiest de aktedatum mee** — zodat die aansluit op uw nieuwe aankoop. Een overbruggingskrediet wordt zo veel korter, of zelfs overbodig.\n\nEen bod aanvragen is gratis en vrijblijvend: u krijgt een reactie binnen 2 uur, ook in het weekend, en een bezoek volgt doorgaans binnen 48 uur. Zo rekent u niet op een schatting, maar op een cijfer dat vaststaat — en beheerst u zelf de timing tussen kopen en verkopen.",
       },
     ],
-    relatedArticles: ["huis-verkopen-met-hypotheek", "hoelang-duurt-huis-verkopen-belgie", "verkoop-kosten-berekenen", "bod-aanvragen-vrijblijvend-bindend", "compromis-verkoop-woning-belgie", "wanneer-beste-moment-woning-verkopen"],
+    relatedArticles: ["huis-verkopen-met-hypotheek", "hoelang-duurt-huis-verkopen-belgie", "verkoop-kosten-berekenen", "bod-aanvragen-vrijblijvend-bindend", "compromis-verkoop-woning-belgie", "wanneer-beste-moment-woning-verkopen", "woonbonus-en-fiscaal-voordeel-bij-verkoop-woning"],
     relatedSituations: ["verkopen-zonder-makelaar", "opknappand-verkopen"],
     faqs: [
       {
@@ -4791,7 +4791,7 @@ export const articles: Article[] = [
         body: "Wilt u de discussie over doorgang, gemene muur of inkijk niet eerst uitvechten met de buren, dan is er een tweede route. **wijkopenpanden.be** koopt panden in de **regio Antwerpen** aan in de **huidige staat**, dus ook woningen die belast zijn met een erfdienstbaarheid, met een betwiste doorgang of met een muur waarover geen enkel papier bestaat.\n\nHoe dat verloopt:\n\n• U bezorgt ons de gegevens van het pand. U krijgt **binnen 2 uur een reactie** op uw aanvraag.\n• Na een **plaatsbezoek** ontvangt u een **schriftelijk bod**. Wij bekijken de erfdienstbaarheid met de kennis van een professional en verrekenen ze in ons bod, in plaats van er in extremis over te onderhandelen.\n• Er is **geen commissie**. De **verplichte attesten en de coördinatie met de notaris** zijn inbegrepen.\n• De **akte verlijdt doorgaans binnen 2 tot 3 maanden**.\n\nWij beloven u geen bepaald bedrag en geen garanties. Wat wij wel doen, is u een concreet, schriftelijk bod geven dat u rustig kunt **vergelijken met de klassieke route** via een makelaar. Zo kiest u met volledige informatie wat voor uw dossier het meest oplevert.",
       },
     ],
-    relatedArticles: ["verborgen-gebreken-woning-verkoop-belgie", "compromis-verkoop-woning-belgie", "stedenbouwkundige-overtreding-woning-verkopen", "verkoopbelofte-compromis-akte", "keuringen-bij-verkoop-woning", "wat-is-mijn-woning-waard-antwerpen"],
+    relatedArticles: ["verborgen-gebreken-woning-verkoop-belgie", "compromis-verkoop-woning-belgie", "stedenbouwkundige-overtreding-woning-verkopen", "verkoopbelofte-compromis-akte", "keuringen-bij-verkoop-woning", "wat-is-mijn-woning-waard-antwerpen", "woning-in-onteigeningsplan-of-rooilijn-verkopen"],
     relatedSituations: ["opknappand-verkopen", "verkopen-zonder-makelaar"],
     faqs: [
       {
@@ -5835,6 +5835,7 @@ export const articles: Article[] = [
       "bodemattest-vlaanderen-verkoop",
       "huis-verkopen-antwerpen-gids",
       "wat-is-een-vastgoedopkoper",
+      "woning-in-onteigeningsplan-of-rooilijn-verkopen",
     ],
     relatedSituations: ["verkopen-zonder-makelaar", "pand-met-huurders-verkopen"],
     faqs: [
@@ -6259,7 +6260,7 @@ export const articles: Article[] = [
         body: "Wij kopen woningen in de regio Antwerpen rechtstreeks op, **in de huidige staat** en met **eigen middelen**. Dat laatste is de kern van het verschil: omdat wij niet afhankelijk zijn van een bank, hebben wij **geen financieringsvoorbehoud** nodig. Er staat dus geen opschortende voorwaarde van financiering in onze overeenkomst die de verkoop weken kan blokkeren of alsnog kan laten afspringen. Voor u betekent dat meer zekerheid en minder wachttijd.\n\nConcreet werken wij zo:\n\n• U krijgt doorgaans **binnen 2 uur** een reactie op uw aanvraag.\n• Na een plaatsbezoek ontvangt u een **schriftelijk, vrijblijvend bod**.\n• Er is **geen makelaarscommissie** en geen financieringsvoorbehoud.\n• De akte verloopt doorgaans **binnen 2 à 3 maanden**, of sneller in overleg.\n\nWij zijn eerlijk over wat wij wél en niet wegnemen. Een directe verkoop schrapt het risico dat de koper zijn lening niet rondkrijgt, want dat risico bestaat bij ons niet. Andere aspecten — zoals de prijs die u op de open markt zou kunnen halen — blijven een afweging die u zelf maakt. Vergelijk gerust ons bod met een klassieke verkoop en beslis daarna.",
       },
     ],
-    relatedArticles: ["compromis-verkoop-woning-belgie", "verkoopbelofte-compromis-akte", "bod-aanvragen-vrijblijvend-bindend", "hoe-snel-verkopen-en-geld-ontvangen", "hoelang-duurt-huis-verkopen-belgie", "betrouwbaar-verkopen-aan-opkoper"],
+    relatedArticles: ["compromis-verkoop-woning-belgie", "verkoopbelofte-compromis-akte", "bod-aanvragen-vrijblijvend-bindend", "hoe-snel-verkopen-en-geld-ontvangen", "hoelang-duurt-huis-verkopen-belgie", "betrouwbaar-verkopen-aan-opkoper", "koper-tekent-de-akte-niet-of-betaalt-niet"],
     relatedSituations: ["verkopen-zonder-makelaar"],
     faqs: [
       {
@@ -6366,7 +6367,7 @@ export const articles: Article[] = [
         body: "Wij kopen woningen in de regio Antwerpen rechtstreeks op, **in de huidige staat**. U hoeft niets op te knappen, leeg te maken of te laten keuren vóór de verkoop.\n\nWat u van ons mag verwachten:\n\n• **Geen makelaarscommissie** — wij zijn de koper, geen tussenpersoon.\n• **Eigen middelen, dus geen financieringsvoorbehoud** — onze aankoop hangt niet af van een bank die alsnog kan afhaken.\n• Reactie op uw vraag **doorgaans binnen 2 uur**.\n• Na een plaatsbezoek een **schriftelijk, vrijblijvend bod**: u beslist zelf of u erop ingaat, zonder verplichting.\n• Bij akkoord verloopt het verder via het compromis en de notaris, met de akte **doorgaans binnen 2 à 3 maanden**.\n\nEén ding blijven wij eerlijk over: ook bij ons geldt na ondertekening van het compromis dat koop koop is. Wij nemen die onzekerheid dus niet weg — wat wij wél doen, is u vóór de handtekening een duidelijk en vrijblijvend bod geven, zodat u met volledige informatie kan beslissen. Twijfelt u over uw juridische positie in een lopende verkoop, raadpleeg dan altijd eerst uw notaris of een advocaat.",
       },
     ],
-    relatedArticles: ["compromis-verkoop-woning-belgie", "verkoopbelofte-compromis-akte", "bod-aanvragen-vrijblijvend-bindend", "verborgen-gebreken-woning-verkoop-belgie", "betrouwbaar-verkopen-aan-opkoper"],
+    relatedArticles: ["compromis-verkoop-woning-belgie", "verkoopbelofte-compromis-akte", "bod-aanvragen-vrijblijvend-bindend", "verborgen-gebreken-woning-verkoop-belgie", "betrouwbaar-verkopen-aan-opkoper", "koper-tekent-de-akte-niet-of-betaalt-niet"],
     relatedSituations: ["verkopen-zonder-makelaar"],
     faqs: [
       {
@@ -6462,7 +6463,7 @@ export const articles: Article[] = [
         body: "Wij kopen woningen in de regio **Antwerpen** rechtstreeks op, in de **huidige staat**. Dat betekent dat wij een woning ook overnemen wanneer het postinterventiedossier onvolledig is of ontbreekt, of wanneer u niet zeker weet welke werken sinds 2001 zijn uitgevoerd. Wij werken met **eigen middelen**, dus zonder financieringsvoorbehoud, en zonder makelaarscommissie.\n\nWees wel eerlijk geïnformeerd: het feit dat wij kopen, **heft de wettelijke situatie niet op**. Een PID blijft in principe verplicht bij uitgevoerde werken, en wat in de akte wordt opgenomen, gebeurt in overleg met de notaris. Wij nemen de zorg om herstel, opknapwerk of makelaarsstappen weg, maar wij maken geen juridische verplichtingen ongedaan die los van ons bestaan.\n\nOnze werkwijze:\n\n• Reactie op uw aanvraag doorgaans binnen 2 uur.\n• Een plaatsbezoek, gevolgd door een schriftelijk en vrijblijvend bod.\n• Bij akkoord verloopt het verlijden van de akte doorgaans binnen 2 à 3 maanden.\n\nZo weet u snel waar u aan toe bent, zonder dat u eerst dossiers moet laten heropmaken om te kunnen verkopen.",
       },
     ],
-    relatedArticles: ["keuringen-bij-verkoop-woning", "keuringen-attesten-bij-directe-verkoop", "epc-attest-antwerpen", "elektriciteitskeuring-niet-conform-verkopen", "asbestattest-bij-verkoop-woning", "stedenbouwkundige-overtreding-woning-verkopen"],
+    relatedArticles: ["keuringen-bij-verkoop-woning", "keuringen-attesten-bij-directe-verkoop", "epc-attest-antwerpen", "elektriciteitskeuring-niet-conform-verkopen", "asbestattest-bij-verkoop-woning", "stedenbouwkundige-overtreding-woning-verkopen", "onafgewerkte-verbouwing-of-bouwwerf-verkopen"],
     relatedSituations: ["opknappand-verkopen", "verkopen-zonder-makelaar"],
     faqs: [
       {
@@ -6488,6 +6489,443 @@ export const articles: Article[] = [
       {
         question: "Kan ik verkopen aan wijkopenpanden.be als mijn PID ontbreekt?",
         answer: "Ja. Wij kopen woningen in de regio Antwerpen in de huidige staat, ook als het PID onvolledig is of ontbreekt. Dat heft de wettelijke situatie niet op, want een PID blijft in principe verplicht bij uitgevoerde werken en de akte gebeurt in overleg met de notaris. Maar u hoeft geen dossier te laten heropmaken vóór u met ons kunt verkopen.",
+      },
+    ],
+  },
+  {
+    slug: "makelaarscontract-opzeggen-en-zelf-verkopen",
+    title: "Vastzitten aan een makelaarscontract: kunt u opzeggen en zelf verkopen?",
+    metaTitle: "Makelaarscontract opzeggen: kan dat en wat kost het?",
+    metaDescription: "Exclusiviteit mag maximaal 6 maanden duren, u hebt 14 dagen herroepingsrecht en de opzegvergoeding is geplafonneerd. Zo zegt u correct op.",
+    publishedAt: "2026-07-24",
+    updatedAt: "2026-07-24",
+    intro: "Ja, u kunt een bemiddelingsovereenkomst met een vastgoedmakelaar opzeggen — maar zelden volledig kosteloos. Voor contracten gesloten vanaf 1 februari 2024 geldt een nieuw koninklijk besluit dat de consument beter beschermt: exclusiviteit mag nooit langer dan zes maanden duren, u hebt veertien kalenderdagen bedenktijd na ondertekening, en de vergoeding bij vroegtijdige opzeg is wettelijk geplafonneerd op maximaal 50% van het commissieloon in de eerste drie maanden en 25% daarna. Verkoopt u zelf binnen zes maanden na het einde van de opdracht, dan kan er alsnog een vergoeding verschuldigd zijn. Dit artikel legt uit welke regels precies gelden, hoe u correct opzegt en waar de valkuilen zitten.",
+    sections: [
+      {
+        heading: "Het KB Freya bestaat niet meer: wat sinds 1 februari 2024 geldt",
+        body: "Veel informatie die u online vindt over makelaarscontracten is verouderd. Het bekende **koninklijk besluit van 12 januari 2007** — in de sector 'KB Freya' genoemd — is opgeheven. Het werd vervangen door het **koninklijk besluit van 28 september 2023** (Belgisch Staatsblad 6 november 2023), dat in werking trad op **1 februari 2024**.\n\nDat is belangrijk voor u, want de nieuwe regels zijn op verschillende punten gunstiger. Maar let op de scharnierdatum: het nieuwe KB geldt voor bemiddelingsovereenkomsten die **vanaf 1 februari 2024** met een consument werden gesloten. Tekende u vóór die datum, dan blijft in principe het oude regime op uw contract van toepassing. Kijk dus altijd eerst na wanneer u getekend hebt.",
+        table: {
+          headers: ["Punt", "Oud KB (12 januari 2007)", "Nieuw KB (28 september 2023)"],
+          rows: [
+            ["Herroepingsrecht", "7 werkdagen", "14 kalenderdagen"],
+            ["Maximumduur exclusiviteit", "6 maanden", "6 maanden"],
+            ["Opzegvergoeding", "Forfaitair, in de regel 50%", "Max. 50% eerste 3 maanden, daarna max. 25%"],
+            ["Van toepassing op", "Contracten tot 31 januari 2024", "Contracten vanaf 1 februari 2024"],
+          ],
+        },
+      },
+      {
+        heading: "Uw eerste uitweg: het herroepingsrecht van veertien dagen",
+        body: "Hebt u pas getekend en hebt u er meteen spijt van, kijk dan eerst naar het **herroepingsrecht**. Onder het nieuwe KB beschikt de consument over **veertien kalenderdagen** om de bemiddelingsovereenkomst te herroepen, zonder motivering en zonder kosten. Onder het oude KB waren dat zeven werkdagen.\n\nEr is één belangrijke uitzondering. Hebt u **uitdrukkelijk toestemming gegeven** om de opdracht onmiddellijk uit te voeren — bijvoorbeeld omdat de woning meteen online moest — dan kunt u dat recht geheel of gedeeltelijk verliezen. Die toestemming staat vaak als een aankruisvakje in het contract. Lees dus na wat u precies hebt aangevinkt.\n\nPraktisch:\n\n• Herroep **schriftelijk en aangetekend**, of via het modelformulier dat bij het contract hoort.\n• Doe het binnen de veertien dagen — de datum van verzending telt.\n• Bewaar het bewijs van verzending.",
+      },
+      {
+        heading: "Exclusiviteit: maximaal zes maanden, nooit langer",
+        body: "Exclusiviteit betekent dat u de woning tijdens de opdracht niet aan een andere makelaar mag toevertrouwen, en dat u geïnteresseerden in principe naar uw makelaar moet doorverwijzen. Het is de zwaarste vorm van binding — en precies daarom is ze in de tijd begrensd.\n\nDe kernregels:\n\n• Een **exclusieve of co-exclusieve opdracht mag maximaal zes maanden** duren.\n• Een **niet-exclusieve opdracht** mag wel van onbepaalde duur zijn, met een opzegtermijn van maximaal twee maanden.\n• Bij **stilzwijgende verlenging** bedraagt de opzegtermijn vóór de vervaldag maximaal één maand.\n• Is de overeenkomst eenmaal verlengd, dan kunt u **te allen tijde opzeggen**: met maximaal één maand als de oorspronkelijke duur drie maanden of minder bedroeg, en maximaal twee maanden als ze langer was.\n\nStaat er in uw contract een exclusiviteit van negen of twaalf maanden, dan is dat beding in strijd met het KB. Laat dat nakijken door een advocaat of een consumentenorganisatie vóór u iets tekent of betaalt.",
+        table: {
+          headers: ["Soort opdracht", "Maximumduur", "Opzegtermijn"],
+          rows: [
+            ["Exclusief / co-exclusief", "6 maanden", "Volgens contract, binnen de wettelijke grenzen"],
+            ["Niet-exclusief, onbepaalde duur", "Geen", "Maximaal 2 maanden"],
+            ["Na stilzwijgende verlenging (initieel ≤ 3 maanden)", "—", "Maximaal 1 maand, te allen tijde"],
+            ["Na stilzwijgende verlenging (initieel > 3 maanden)", "—", "Maximaal 2 maanden, te allen tijde"],
+          ],
+        },
+      },
+      {
+        heading: "Wat kost het om vroegtijdig op te zeggen?",
+        body: "Een bemiddelingsovereenkomst mag een **opzegbeding** bevatten: een clausule die u toelaat de opdracht zonder reden stop te zetten tegen betaling van een vergoeding. Het nieuwe KB plafonneert die vergoeding — en dat plafond daalt naarmate de opdracht langer loopt.\n\n• Zegt u op **tijdens de eerste drie maanden**: maximaal **50%** van het overeengekomen commissieloon.\n• Zegt u op **na de eerste drie maanden**: maximaal **25%**.\n\nEr hangt wel een voorwaarde aan vast: de vergoeding geldt in de regel alleen als het pand **niet binnen de zes maanden** na de opzeg alsnog verkocht of verhuurd wordt. Verkoopt u het in die periode toch, dan gelden andere — hogere — percentages (zie de volgende sectie).\n\nBelangrijk om te weten: dit zijn **maxima**, geen automatische bedragen. Wat u werkelijk verschuldigd bent, staat in uw contract. Staat er niets over opzeg in, dan kunt u niet zomaar eenzijdig stoppen zonder risico op een discussie over schadevergoeding.",
+        table: {
+          headers: ["Moment van opzeg", "Maximumvergoeding", "Berekend op"],
+          rows: [
+            ["Binnen de eerste 3 maanden", "50%", "Het overeengekomen commissieloon"],
+            ["Na de eerste 3 maanden", "25%", "Het overeengekomen commissieloon"],
+            ["Verkoop door uzelf binnen 6 maanden na het einde", "75%", "Het overeengekomen commissieloon"],
+            ["Verkoop aan een door de makelaar aangebrachte kandidaat", "100%", "Het overeengekomen commissieloon"],
+          ],
+        },
+      },
+      {
+        heading: "De naijlperiode: de valkuil na het einde van de opdracht",
+        body: "Dit is het punt dat verkopers het vaakst verrast. Ook **nadat** de opdracht is afgelopen, loopt er in de regel een **beschermingstermijn van zes maanden**. Verkoopt of verhuurt u het pand in die periode zelf of via een derde, dan kan de makelaar alsnog een vergoeding vorderen van **maximaal 75%** van het commissieloon.\n\nEn er is een zwaardere variant. Gaat het om een **kandidaat die de makelaar zelf had aangebracht**, dan kan de volledige commissie verschuldigd zijn — op voorwaarde dat de makelaar die kandidaat tijdig heeft aangemeld. Het KB legt daarvoor een strikte termijn op: de makelaar moet de gecontacteerde kandidaat-kopers **binnen zeven werkdagen** meedelen.\n\nWat dat voor u betekent:\n\n1. Vraag bij het einde van de opdracht **schriftelijk de lijst op** van de kandidaten die de makelaar heeft aangebracht en aangemeld.\n2. Werd die lijst nooit tijdig bezorgd, dan staat de makelaar zwakker om de volledige commissie te vorderen.\n3. Verkoopt u aan iemand die **nooit** via de makelaar is gepasseerd, dan gaat het in principe om het lagere percentage.\n4. Vraag altijd een **schriftelijke eindafrekening** vóór u met een andere partij tekent.",
+      },
+      {
+        heading: "Vijf dingen om na te kijken in uw eigen contract",
+        body: "Voor u iets onderneemt, loopt u best deze punten af. Neem het contract erbij en zoek letterlijk naar deze woorden:\n\n1. **De datum van ondertekening.** Vóór of vanaf 1 februari 2024? Dat bepaalt welk KB geldt.\n2. **Exclusief of niet?** En zo ja, voor hoe lang — meer dan zes maanden kan niet.\n3. **Stilzwijgende verlenging.** Staat er een clausule die het contract automatisch verlengt, en welke opzegtermijn hoort daarbij?\n4. **Het opzegbeding.** Mag u opzeggen tegen vergoeding, en welk percentage staat er?\n5. **De beschermingstermijn.** Hoeveel maanden loopt ze na het einde, en welke kandidaten zijn formeel aangemeld?\n\nEen laatste nuance die vaak misbegrepen wordt: exclusiviteit maakt het u **contractueel** moeilijk om zelf te verkopen, maar ze maakt zo'n verkoop niet ongeldig. De rechtspraak aanvaardt dat een consument rechtstreeks kan verkopen; de discussie gaat dan over de vraag of en hoeveel vergoeding u aan de makelaar verschuldigd bent. Dat is een financiële vraag, geen blokkade.",
+      },
+      {
+        heading: "Verkopen aan wijkopenpanden.be na een makelaarsopdracht",
+        body: "Wij kopen woningen in de regio **Antwerpen** rechtstreeks aan, in de huidige staat en met **eigen middelen**. Wij treden niet op als makelaar: er is geen bemiddelingsovereenkomst, geen exclusiviteit, geen opzegtermijn en geen commissie.\n\nWees wel eerlijk geïnformeerd: als u nog aan een makelaarsopdracht gebonden bent, **neemt onze aankoop die verbintenis niet weg**. Wat u aan uw makelaar verschuldigd bent, staat los van ons en wordt bepaald door uw contract en het KB. Wij kunnen dat niet voor u beoordelen en doen dat ook niet.\n\nWat wij wel doen:\n\n• Een **vrijblijvend en schriftelijk bod**, zodat u weet welk bedrag tegenover uw opzegkost staat.\n• Reactie op uw aanvraag doorgaans binnen 2 uur.\n• Bij akkoord verloopt het verlijden van de akte doorgaans binnen 2 à 3 maanden — u kunt de timing dus afstemmen op het einde van uw opdracht.\n\nIn de praktijk kiezen verkopers vaak voor die volgorde: eerst weten wat een directe verkoop opbrengt, dan pas beslissen of vroegtijdig opzeggen de moeite loont.",
+      },
+    ],
+    relatedArticles: ["commissie-makelaar-belgie", "opkoper-of-makelaar-verschil", "woning-staat-al-maanden-te-koop", "betrouwbaar-verkopen-aan-opkoper", "bod-aanvragen-vrijblijvend-bindend", "verkoop-kosten-berekenen"],
+    relatedSituations: ["verkopen-zonder-makelaar"],
+    faqs: [
+      {
+        question: "Kan ik mijn makelaarscontract zomaar opzeggen?",
+        answer: "Niet zomaar kosteloos, maar wel binnen wettelijke grenzen. Tekende u minder dan veertien kalenderdagen geleden, dan kunt u herroepen zonder kosten. Daarna hangt het af van het opzegbeding in uw contract: de vergoeding bedraagt maximaal 50% van het commissieloon bij opzeg in de eerste drie maanden en maximaal 25% daarna. Die percentages zijn maxima, geen automatische bedragen.",
+      },
+      {
+        question: "Hoe lang mag een exclusiviteit bij een vastgoedmakelaar duren?",
+        answer: "Maximaal zes maanden. Dat geldt zowel voor een exclusieve als voor een co-exclusieve opdracht. Een niet-exclusieve opdracht mag wel van onbepaalde duur zijn, maar met een opzegtermijn van maximaal twee maanden. Staat er een exclusiviteit van negen of twaalf maanden in uw contract, dan is dat beding in strijd met het koninklijk besluit.",
+      },
+      {
+        question: "Moet ik commissie betalen als ik zelf een koper vind?",
+        answer: "Dat kan, ja. Tijdens een exclusieve opdracht is doorgaans het volledige commissieloon verschuldigd. Verkoopt u zelf binnen de beschermingstermijn van zes maanden na het einde van de opdracht, dan kan de makelaar maximaal 75% van de commissie vorderen, en 100% wanneer het gaat om een kandidaat die hij zelf had aangebracht en tijdig had aangemeld.",
+      },
+      {
+        question: "Welke regels gelden voor een contract dat ik in 2023 tekende?",
+        answer: "Op contracten gesloten vóór 1 februari 2024 blijft in principe het oude koninklijk besluit van 12 januari 2007 van toepassing. Daar gold onder meer een herroepingstermijn van zeven werkdagen in plaats van veertien kalenderdagen. Kijk dus altijd eerst de datum van ondertekening na, want die bepaalt welke regels op uw dossier spelen.",
+      },
+      {
+        question: "Wat is de beschermingstermijn of naijlperiode precies?",
+        answer: "Dat is de periode van zes maanden na het einde van de bemiddelingsovereenkomst waarin de makelaar nog een vergoeding kan vorderen als u het pand zelf of via een derde verkoopt. De makelaar moet de kandidaten die hij heeft gecontacteerd wel tijdig meedelen, binnen zeven werkdagen. Vraag die lijst schriftelijk op bij het einde van de opdracht.",
+      },
+      {
+        question: "Neemt een verkoop aan wijkopenpanden.be mijn makelaarskosten weg?",
+        answer: "Neen. Wij treden niet op als makelaar en rekenen zelf geen commissie, maar wat u aan uw eigen makelaar verschuldigd bent, staat volledig los van ons. Dat wordt bepaald door uw contract en het koninklijk besluit. Ons bod geeft u wel een concreet bedrag, zodat u kunt afwegen of vroegtijdig opzeggen financieel zinvol is.",
+      },
+    ],
+  },
+  {
+    slug: "woonbonus-en-fiscaal-voordeel-bij-verkoop-woning",
+    title: "Verlies ik mijn woonbonus als ik mijn woning verkoop?",
+    metaTitle: "Woonbonus bij verkoop: verliest u uw voordeel?",
+    metaDescription: "Verkoopt u en lost u uw krediet af, dan stopt de woonbonus definitief: sinds 1 januari 2020 geeft een nieuwe lening in Vlaanderen geen woonbonus meer.",
+    publishedAt: "2026-07-24",
+    updatedAt: "2026-07-24",
+    intro: "Verkoopt u uw woning en lost u daarbij uw hypothecair krediet af, dan stopt uw woonbonus — en die komt niet terug. De Vlaamse geïntegreerde woonbonus werd afgeschaft voor leningen aangegaan vanaf 1 januari 2020, dus een nieuw krediet voor een nieuwe woning levert geen belastingvoordeel meer op. Enkel wie zijn bestaande lening meeneemt via een pandwissel of wie herfinanciert, behoudt het voordeel in principe. Daar komt bij dat de meeneembaarheid van het verkooprecht sinds 1 januari 2024 volledig verdwenen is. Dit artikel zet op een rij wat u fiscaal verliest en wat u behoudt wanneer u verkoopt en opnieuw koopt.",
+    sections: [
+      {
+        heading: "De woonbonus bestaat nog, maar alleen voor oude leningen",
+        body: "De **Vlaamse geïntegreerde woonbonus** is afgeschaft voor hypothecaire kredieten die zijn **aangegaan vanaf 1 januari 2020**. Wie zijn kredietakte bij de notaris nog in 2019 of eerder liet verlijden, behoudt het voordeel; wie nadien leende, heeft er geen recht meer op.\n\nVoor bestaande leningen verandert er op zich niets: zolang u aan de voorwaarden blijft voldoen, blijft u het voordeel genieten. De belangrijkste voorwaarde is dat het krediet betrekking heeft op uw **eigen woning** — de woning die u zelf betrekt. Vandaar het probleem bij een verkoop: verdwijnt de woning uit uw vermogen en wordt het krediet afgelost, dan verdwijnt ook de basis van het voordeel.\n\nDe compensatie die de Vlaamse overheid daartegenover zette, is een **lager verkooprecht** bij aankoop. Dat is een eenmalig voordeel bij de aankoop, geen jaarlijks belastingvoordeel — een wezenlijk verschil voor wie zijn budget over twintig jaar bekeek.",
+      },
+      {
+        heading: "Wat er precies gebeurt zodra u verkoopt",
+        body: "Bij het verlijden van de verkoopakte betaalt de notaris uw openstaand kredietsaldo terug aan de bank en wordt de hypothecaire inschrijving doorgehaald. Vanaf dat moment doet u **geen kapitaalaflossingen en interestbetalingen meer** — en net die uitgaven vormden de basis van uw woonbonus.\n\nPraktisch betekent dat:\n\n• Voor het jaar van de verkoop kunt u in principe nog het deel inbrengen dat u dat jaar effectief hebt betaald. Laat dat bevestigen bij uw belastingaangifte.\n• Vanaf het volgende inkomstenjaar valt het voordeel weg.\n• Sluit u nadien een **nieuw** krediet voor een nieuwe woning, dan geeft dat in Vlaanderen **geen woonbonus** meer.\n\nDie laatste vaststelling is de kern van het verhaal: het verlies is **onomkeerbaar**. Voor wie nog een oude lening met een volle woonbonus heeft lopen, is het jaarlijkse belastingvoordeel een reële kost van verkopen — en die hoort in de rekensom thuis, naast de verkoopkosten en de eventuele wederbeleggingsvergoeding.",
+      },
+      {
+        heading: "De twee uitzonderingen: herfinanciering en pandwissel",
+        body: "Er zijn twee situaties waarin u het voordeel wél kunt behouden.\n\n**1. Herfinanciering.** Een herfinanciering wordt fiscaal niet als een nieuwe lening beschouwd, maar als de **voortzetting** van de bestaande lening. Wie zijn krediet herfinanciert — ook bij een andere bank — verliest de woonbonus dus in principe niet. Let wel: leent u bij die gelegenheid een **bijkomend bedrag**, dan komt dat extra deel niet in aanmerking.\n\n**2. Pandwissel of hypotheekoverdracht.** Hierbij blijft dezelfde lening lopen, maar wordt de hypothecaire waarborg overgezet van de verkochte woning naar de nieuw aangekochte woning. Omdat het om hetzelfde krediet gaat, blijft de woonbonus in principe behouden, op voorwaarde dat de nieuwe woning uw eigen woning wordt.\n\nTwee nuances die u niet mag overslaan: een pandwissel is **geen recht**, de bank moet ermee instemmen, en de nieuwe woning moet voldoende waarborg bieden. Vraag uw bank om een **schriftelijke bevestiging vóór** u de compromis van uw verkoop tekent — niet erna. En laat de fiscale gevolgen bevestigen door uw boekhouder of belastingadviseur, want de beoordeling gebeurt op basis van uw concrete dossier.",
+        table: {
+          headers: ["Scenario", "Woonbonus", "Aandachtspunt"],
+          rows: [
+            ["Verkoop, krediet volledig afgelost", "Valt weg", "Onomkeerbaar, nieuw krediet geeft niets"],
+            ["Herfinanciering bestaand krediet", "Blijft in principe behouden", "Bijkomend geleend bedrag telt niet mee"],
+            ["Pandwissel naar nieuwe woning", "Blijft in principe behouden", "Bank moet akkoord gaan, vooraf bevestigen"],
+            ["Woning verhuren in plaats van verkopen", "Verandert van regime", "Geen eigen woning meer, laat narekenen"],
+          ],
+        },
+      },
+      {
+        heading: "De meeneembaarheid van het verkooprecht is verdwenen",
+        body: "Een tweede voordeel dat doorverkopers vroeger hadden, is intussen ook geschrapt. Met de **meeneembaarheid** kon u het verkooprecht dat u op een vorige woning had betaald — tot maximaal **13.000 euro** — in mindering brengen van het verkooprecht op uw volgende aankoop.\n\nDie regeling is **definitief afgeschaft vanaf 1 januari 2024**. Wie er nog gebruik van wilde maken, moest zijn aankoopakte uiterlijk op 31 december 2023 laten verlijden. Er is geen vervangregeling: de meeneembaarheid komt niet terug.\n\nDe compensatie zit opnieuw in het tarief. Het verkooprecht voor de **enige eigen woning** bedraagt in Vlaanderen **2%**; het **algemene tarief** is **12%**. Voor wie verkoopt en meteen een nieuwe eigen woning koopt, is dat verlaagde tarief vandaag het belangrijkste fiscale gegeven bij de aankoopzijde.",
+      },
+      {
+        heading: "Let op: strengere voorwaarden voor het 2%-tarief sinds 2026",
+        body: "Koopt u na uw verkoop opnieuw, hou dan rekening met een verstrenging die sinds **1 januari 2026** speelt. De Vlaamse regelgever wil het gunsttarief voorbehouden aan kopers die de woning ook effectief bewonen.\n\nDe voorwaarden zijn nu:\n\n• U schrijft zich **binnen drie jaar** na de akte in op het adres van de aangekochte woning.\n• U blijft daar **minstens één jaar ononderbroken** ingeschreven. Doet u dat niet, dan kan het verschil met het gewone tarief worden teruggevorderd.\n• Alle kopers zijn natuurlijke personen en verwerven de volle eigendom.\n\nBezit u op het ogenblik van de aankoop nog een andere woning — bijvoorbeeld omdat uw oude woning nog niet verkocht is — dan hoeft dat het tarief niet meteen te kosten: verkoopt u die andere woning in principe **binnen het jaar** na de akte van uw nieuwe aankoop, dan wordt de nieuwe woning alsnog als enige woning beschouwd. Laat dit altijd concreet toetsen bij uw notaris, want de toepassing hangt af van de precieze data en van het administratieve standpunt.\n\nDe nieuwe regels gelden voor **onderhandse verkoopovereenkomsten gesloten vanaf 1 januari 2026**. Tekende u de compromis eerder, dan blijft het oude regime van toepassing; de notaris neemt daarvoor een verklaring op met de datum van de compromis.",
+        table: {
+          headers: ["Regel", "Wat het inhoudt", "Sinds"],
+          rows: [
+            ["Verkooprecht enige eigen woning", "2% van de aankoopprijs", "1 januari 2025"],
+            ["Algemeen verkooprecht", "12% van de aankoopprijs", "Geldend tarief"],
+            ["Meeneembaarheid", "Afgeschaft, geen vervangregeling", "1 januari 2024"],
+            ["Domicilie binnen 3 jaar + 1 jaar blijven", "Voorwaarde voor het 2%-tarief", "1 januari 2026"],
+          ],
+        },
+      },
+      {
+        heading: "Wat u níet verliest bij een verkoop",
+        body: "Het beeld is gelukkig niet alleen negatief. Een aantal zaken blijft ongemoeid:\n\n• **De meerwaarde op uw gezinswoning is vrijgesteld.** Verkoopt u de woning waar u zelf woont, dan betaalt u in de regel geen meerwaardebelasting, ook niet als u er veel op wint.\n• **De verkoopopbrengst zelf wordt niet belast** in de personenbelasting. U betaalt geen inkomstenbelasting op het bedrag dat u ontvangt.\n• **De wederbeleggingsvergoeding is begrensd.** Betaalt u uw hypothecair krediet vervroegd terug, dan mag de bank maximaal drie maanden interest aanrekenen.\n• **Uw vervroegde terugbetaling zelf is geen fiscale sanctie.** Er volgt geen terugvordering van eerder genoten woonbonus; u verliest het voordeel enkel naar de toekomst toe.\n\nDe echte rekensom is dus: het jaarlijkse belastingvoordeel dat wegvalt, plus de kosten van de verkoop, tegenover wat de verkoop u opbrengt en oplost. Voor wie verkoopt omdat de woning te groot, te duur of te belastend is geworden, weegt dat laatste vaak zwaarder — maar u wilt het cijfer wel gezien hebben vóór u tekent.",
+      },
+      {
+        heading: "Verkopen aan wijkopenpanden.be",
+        body: "Wij kopen woningen in de regio **Antwerpen** rechtstreeks aan, in de huidige staat, met **eigen middelen** en zonder makelaarscommissie. Wat wij u bieden is zekerheid over prijs en timing: een schriftelijk bod na plaatsbezoek, reactie doorgaans binnen 2 uur, en een akte doorgaans binnen 2 à 3 maanden.\n\nWees eerlijk geïnformeerd over wat wij niet zijn: **wij zijn geen fiscaal adviseur en geven geen fiscaal advies**. Of u uw woonbonus verliest, of een pandwissel in uw geval mogelijk is, en wat het 2%-tarief bij uw volgende aankoop concreet oplevert, hangt af van uw kredietakte, uw gezinssituatie en uw data. Dat laat u narekenen door uw bank, uw boekhouder of uw notaris.\n\nWat wij wel kunnen: u snel een **concreet bedrag** geven, zodat u die berekening met echte cijfers kunt maken in plaats van met schattingen. Een bod aanvragen is gratis en vrijblijvend, en verplicht u tot niets.",
+      },
+    ],
+    relatedArticles: ["belastingen-bij-woningverkoop", "huis-verkopen-met-hypotheek", "eerst-kopen-dan-verkopen-overbruggingskrediet", "verkoop-kosten-berekenen", "wanneer-beste-moment-woning-verkopen", "kadastraal-inkomen-en-woningverkoop"],
+    relatedSituations: ["verkopen-zonder-makelaar"],
+    faqs: [
+      {
+        question: "Verlies ik mijn woonbonus als ik mijn woning verkoop?",
+        answer: "Ja, in de regel wel. Bij de verkoop wordt uw hypothecair krediet afgelost, waardoor u geen kapitaalaflossingen en interesten meer betaalt. Die uitgaven vormden de basis van het voordeel. Voor het jaar van de verkoop kunt u in principe nog inbrengen wat u dat jaar effectief betaalde, maar daarna valt het voordeel weg.",
+      },
+      {
+        question: "Krijg ik de woonbonus terug met een nieuwe lening voor mijn volgende woning?",
+        answer: "Neen. De Vlaamse geïntegreerde woonbonus werd afgeschaft voor kredieten aangegaan vanaf 1 januari 2020. Een nieuw krediet voor een nieuwe woning geeft dus geen recht meer op het voordeel. Het verlies is onomkeerbaar, tenzij u met een herfinanciering of een pandwissel uw bestaande lening kunt voortzetten.",
+      },
+      {
+        question: "Wat is een pandwissel en behoud ik daarmee mijn woonbonus?",
+        answer: "Bij een pandwissel of hypotheekoverdracht blijft dezelfde lening lopen, maar wordt de hypothecaire waarborg overgezet naar de nieuw aangekochte woning. Omdat het om hetzelfde krediet gaat, blijft de woonbonus in principe behouden. De bank moet er wel mee instemmen en de nieuwe woning moet voldoende waarborg bieden. Vraag een schriftelijke bevestiging vóór u de compromis tekent.",
+      },
+      {
+        question: "Kan ik het verkooprecht van mijn vorige aankoop nog meenemen?",
+        answer: "Neen. De meeneembaarheid van het verkooprecht, waarmee u tot 13.000 euro kon recupereren, is definitief afgeschaft vanaf 1 januari 2024. De laatste aktes moesten uiterlijk op 31 december 2023 verleden zijn. Er kwam geen vervangregeling in de plaats; de compensatie zit in het verlaagde tarief van 2% voor de enige eigen woning.",
+      },
+      {
+        question: "Wat verandert er sinds 2026 aan het 2%-tarief bij aankoop?",
+        answer: "U moet zich binnen drie jaar na de akte inschrijven op het adres van de aangekochte woning en er minstens één jaar ononderbroken ingeschreven blijven. Doet u dat niet, dan kan het verschil met het gewone tarief van 12% worden teruggevorderd. De nieuwe regels gelden voor onderhandse verkoopovereenkomsten gesloten vanaf 1 januari 2026.",
+      },
+      {
+        question: "Betaal ik belasting op de meerwaarde van mijn gezinswoning?",
+        answer: "In de regel niet. De meerwaarde op de eigen gezinswoning is vrijgesteld, ook wanneer u er aanzienlijk op wint. De verkoopopbrengst zelf wordt evenmin belast in de personenbelasting. Voor een tweede verblijf of een pand dat u binnen vijf jaar doorverkoopt, gelden wel andere regels.",
+      },
+    ],
+  },
+  {
+    slug: "woning-in-onteigeningsplan-of-rooilijn-verkopen",
+    title: "Uw woning ligt in een onteigeningsplan of achter een rooilijn: kunt u nog verkopen?",
+    metaTitle: "Woning in onteigeningsplan of rooilijn verkopen",
+    metaDescription: "U blijft eigenaar tot de rechter de onteigening uitspreekt, dus verkopen mag. Maar u moet het plan melden aan de koper — verzwijgen kost u de verkoop.",
+    publishedAt: "2026-07-24",
+    updatedAt: "2026-07-24",
+    intro: "Ja, u kunt uw woning verkopen zolang de onteigening niet voltrokken is. De eigendom gaat pas over na het vonnis van de rechter, dus tot dat moment blijft u eigenaar en mag u vrij verkopen. Daar hangt wel een harde voorwaarde aan vast: u moet het onteigeningsplan of de rooilijn melden aan uw koper, zowel in de compromis als in de akte. Verzwijgt u het, dan riskeert u aansprakelijkheid en in het slechtste geval de vernietiging van de verkoop. In de praktijk drukt zo'n plan de prijs en de belangstelling. Hieronder leest u hoe de Vlaamse onteigeningsprocedure verloopt, wat een rooilijn juist betekent en welke keuzes u hebt.",
+    sections: [
+      {
+        heading: "Onteigening en rooilijn zijn twee verschillende dingen",
+        body: "Beide termen duiken vaak samen op in stedenbouwkundige inlichtingen, maar ze betekenen niet hetzelfde.\n\nEen **onteigening** is de gedwongen overdracht van uw eigendom aan de overheid voor een doel van algemeen nut, tegen een vergoeding. Er is een procedure, een besluit en uiteindelijk een rechter.\n\nEen **rooilijn** is de grens tussen de openbare weg en de private eigendom, vastgelegd in een rooilijnplan. Ligt een deel van uw perceel of zelfs van uw woning **binnen** de toekomstige rooilijn, dan is die strook bestemd om ooit bij de openbare weg te horen. Dat betekent niet dat de overheid morgen komt aankloppen — vaak gebeurt er decennialang niets — maar het legt wel beperkingen op wat u er nog mag bouwen.\n\nHet praktische verschil voor een verkoper: een onteigeningsbesluit heeft een tijdlijn en een vergoeding, een rooilijn is een sluimerende last die vooral de bouwmogelijkheden en dus de waarde raakt.",
+        table: {
+          headers: ["", "Onteigening", "Rooilijn"],
+          rows: [
+            ["Wat het is", "Gedwongen overdracht aan de overheid", "Toekomstige grens van de openbare weg"],
+            ["Gevolg voor de eigendom", "Eigendom gaat over na vonnis", "U blijft eigenaar, met bouwbeperkingen"],
+            ["Vergoeding", "Billijke schadeloosstelling", "Pas bij effectieve verwerving"],
+            ["Tijdlijn", "Procedure met vaste termijnen", "Vaak onbepaald, soms decennia"],
+            ["Verkopen mogelijk?", "Ja, zolang niet voltrokken", "Ja, met meldingsplicht"],
+          ],
+        },
+      },
+      {
+        heading: "Hoe de Vlaamse onteigeningsprocedure verloopt",
+        body: "Sinds **1 januari 2018** geldt in Vlaanderen het **Onteigeningsdecreet van 24 februari 2017**. Het bracht alle onteigeningen door Vlaamse overheden onder één procedure, met duidelijke waarborgen voor de eigenaar.\n\nDe grote lijnen:\n\n1. De onteigenende instantie neemt een **voorlopig onteigeningsbesluit**, met een projectnota die uitlegt waarom de onteigening nodig is.\n2. Er volgt een **openbaar onderzoek** waarin u bezwaar kunt indienen.\n3. Daarna komt het **definitieve onteigeningsbesluit**.\n4. De instantie is verplicht om **aantoonbaar minnelijk te onderhandelen**. Zij moet een schriftelijk, gemotiveerd aanbod doen, en dat aanbod moet u **minstens vier weken vóór de betekening van de dagvaarding** bereiken.\n5. Komt er geen akkoord, dan volgt de **gerechtelijke fase** voor de vrederechter.\n\nHet cruciale punt voor u als verkoper zit in stap 5: de **eigendom gaat pas over na het gerechtelijke vonnis**. Tot dan bent u volwaardig eigenaar en kunt u uw woning gewoon verkopen aan wie u wil.",
+        table: {
+          headers: ["Fase", "Wat er gebeurt", "Uw positie"],
+          rows: [
+            ["Voorlopig besluit", "Projectnota, aanduiding van de percelen", "U blijft eigenaar"],
+            ["Openbaar onderzoek", "Bezwaarmogelijkheid", "U blijft eigenaar"],
+            ["Definitief besluit", "Beslissing wordt vastgelegd", "U blijft eigenaar"],
+            ["Minnelijke fase", "Schriftelijk aanbod, min. 4 weken vóór dagvaarding", "U blijft eigenaar, u kunt verkopen"],
+            ["Gerechtelijke fase", "Vonnis van de vrederechter", "Eigendom gaat over"],
+          ],
+        },
+      },
+      {
+        heading: "Wat u kunt eisen: vergoeding, zelfrealisatie en wederoverdracht",
+        body: "Het decreet geeft de onteigende meer dan alleen een prijs. Drie rechten zijn de moeite waard om te kennen.\n\n**1. Een billijke schadeloosstelling.** U hebt recht op een volledige vergoeding voor het verlies van uw eigendom. Eén regel is daarbij belangrijk: bij de waardebepaling wordt **geen rekening gehouden met de waardevermeerdering die uit het onteigeningsdoel zelf voortvloeit**. Wordt uw perceel plots waardevoller omdat er een nieuw project komt, dan mag die stijging niet in uw nadeel of voordeel worden meegeteld.\n\n**2. Het recht van zelfrealisatie.** Kunt u aantonen dat u het onteigeningsdoel **zelf** kunt en wilt realiseren, conform de projectnota, dan kunt u vragen om dat zelf te doen in plaats van te worden onteigend. Dat verzoek is aan een strikte termijn gebonden: het moet ingediend worden **binnen zeventig dagen na de einddatum van het openbaar onderzoek**. Wie die termijn laat verstrijken, verliest deze weg.\n\n**3. Het recht op wederoverdracht.** Wordt er **binnen vijf jaar** na het definitieve onteigeningsbesluit geen aanvang gemaakt met de realisatie, dan kan de onteigende in principe de teruggave vorderen van wat werd onteigend.\n\nDeze rechten zijn technisch en aan termijnen gebonden. Laat u bijstaan door een advocaat of een landmeter-expert zodra u een voorlopig onteigeningsbesluit ontvangt — niet pas wanneer de dagvaarding in de bus valt.",
+      },
+      {
+        heading: "Verkopen tijdens de procedure: wat mag en wat moet",
+        body: "U mag verkopen. De onteigeningsprocedure legt geen verkoopverbod op zolang de eigendom niet is overgegaan. Maar er zijn drie zaken die u correct moet aanpakken.\n\n**Meld het, schriftelijk en volledig.** Informatie over een onteigeningsplan of een rooilijn hoort thuis in de **compromis én in de notariële akte**. De notaris vraagt de stedenbouwkundige inlichtingen op bij de gemeente, dus het komt hoe dan ook boven water. Verzwijgen levert u niets op: het kan leiden tot uw aansprakelijkheid en, als de koper kan aantonen dat hij bij correcte informatie nooit had gekocht, tot de vernietiging van de verkoop wegens een wilsgebrek.\n\n**Weet wat u meeverkoopt.** De koper neemt uw positie over, inclusief de aanspraak op de latere vergoeding. Dat is een reëel argument in de onderhandeling: de last verdwijnt niet, maar het recht op vergoeding gaat mee.\n\n**Let op de timing.** Ligt er al een concreet aanbod van de onteigenende instantie op tafel, dan hebt u een vergelijkingspunt. Verkoopt u vóór dat aanbod, dan verkoopt u met meer onzekerheid — voor u én voor de koper, en dat vertaalt zich in de prijs.\n\nEen praktische tip: vraag zelf een **stedenbouwkundig uittreksel** op bij uw gemeente vóór u te koop zet. Dan kent u de exacte inhoud van het plan en wordt u er niet halverwege de onderhandeling mee geconfronteerd.",
+      },
+      {
+        heading: "De rooilijn in de praktijk: wat ze met uw woning doet",
+        body: "Ligt uw woning geheel of gedeeltelijk binnen een rooilijn, dan is het belangrijkste gevolg dat uw **bouwmogelijkheden bevriezen**. In de getroffen strook zijn in de regel enkel **instandhoudings- en onderhoudswerken** mogelijk. Voor grotere verbouwingen waarvoor een omgevingsvergunning nodig is, volgt doorgaans een negatief advies, precies omdat de overheid de strook op termijn wil vrijmaken.\n\nEen begrip dat u daarbij kunt tegenkomen is de **afstand van meerwaarde**: een verklaring waarin de bouwheer afstand doet van de meerwaarde die de werken opleveren voor het deel dat door de rooilijn is getroffen. Zonder die verklaring krijgt u voor bepaalde werken geen vergunning; met die verklaring aanvaardt u dat de latere vergoeding voor dat deel beperkt blijft.\n\nWat dat voor een verkoop betekent:\n\n• Kandidaat-kopers die willen uitbreiden of verbouwen, haken vaak af.\n• Banken en schatters houden rekening met de beperking.\n• De woning blijft doorgaans langer te koop staan.\n• Het verschil in prijs hangt sterk af van hoe diep de rooilijn het gebouw raakt: enkel de voortuin is iets heel anders dan de voorgevel.",
+      },
+      {
+        heading: "Wat het met uw verkoopprijs doet",
+        body: "Eerlijk is eerlijk: een onteigeningsplan of een rooilijn maakt een woning **moeilijker verkoopbaar** op de klassieke markt. Niet omdat de woning slechter is, maar omdat kopers onzekerheid zwaar afstraffen. Zij weten niet wanneer er iets gebeurt, wat de vergoeding zal zijn en of ze intussen mogen verbouwen.\n\nDrie effecten die u mag verwachten:\n\n• **Minder kandidaten.** Vooral gezinnen die willen renoveren, vallen weg.\n• **Langere doorlooptijd.** Bezoeken leveren minder biedingen op en dossiers slepen aan.\n• **Meer vragen bij de bank van de koper.** Financiering verloopt trager wanneer een schatter een last vaststelt.\n\nDaartegenover staat één nuance die zelden wordt verteld: de **onteigeningsvergoeding zelf is niet noodzakelijk lager dan de marktwaarde**. Het decreet gaat uit van een volledige vergoeding. Voor sommige eigenaars is doorgaan met de procedure financieel dus niet de slechtste keuze — het is vooral de **onzekerheid en de duur** die zwaar wegen. Wie die tijd niet heeft of niet wil, kiest voor een snellere weg.",
+      },
+      {
+        heading: "Verkopen aan wijkopenpanden.be",
+        body: "Wij kopen woningen in de regio **Antwerpen** rechtstreeks aan, in de huidige staat — ook panden met een planlast zoals een rooilijn of een lopend onteigeningsdossier. Wij werken met **eigen middelen**, dus zonder financieringsvoorbehoud, en zonder makelaarscommissie.\n\nWees eerlijk geïnformeerd over wat wij niet doen: **wij heffen het plan niet op**. Een rooilijn blijft een rooilijn en een onteigeningsbesluit blijft bestaan, ook na de verkoop. Wat wij overnemen is het **wachten en de onzekerheid**: de vraag wanneer er iets gebeurt, of u intussen nog mag verbouwen en wat de vergoeding zal opleveren. Die last verrekenen wij transparant in ons bod en wij leggen uit hoe wij tot dat bedrag komen.\n\nOnze werkwijze:\n\n• Reactie op uw aanvraag doorgaans binnen 2 uur.\n• Een plaatsbezoek, gevolgd door een schriftelijk en vrijblijvend bod.\n• Bij akkoord verloopt het verlijden van de akte doorgaans binnen 2 à 3 maanden.\n\nHebt u al een aanbod van de onteigenende instantie gekregen, leg het dan gerust naast ons bod. Vergelijken is altijd verstandiger dan kiezen zonder alternatief.",
+      },
+    ],
+    relatedArticles: ["stedenbouwkundige-overtreding-woning-verkopen", "recht-van-voorkoop-bij-verkoop-woning", "erfdienstbaarheid-recht-van-doorgang-woning-verkopen", "beschermd-monument-erfgoedwoning-verkopen", "pand-in-slechte-staat-verkopen", "woning-staat-al-maanden-te-koop"],
+    relatedSituations: ["opknappand-verkopen"],
+    faqs: [
+      {
+        question: "Mag ik mijn woning verkopen als er een onteigeningsprocedure loopt?",
+        answer: "Ja. De eigendom gaat pas over na het vonnis van de vrederechter, dus zolang de onteigening niet voltrokken is, blijft u eigenaar en kunt u vrij verkopen. U bent wel verplicht om het onteigeningsplan te melden aan de koper, in de compromis en in de notariële akte. De koper neemt uw positie over, inclusief de aanspraak op de latere vergoeding.",
+      },
+      {
+        question: "Wat gebeurt er als ik een onteigeningsplan of rooilijn verzwijg?",
+        answer: "Dat is een reëel risico. Informatie over rooilijnen en onteigeningsplannen hoort in de compromis en in de akte. Verzwijgt u het, dan kunt u aansprakelijk worden gesteld, en kan de verkoop zelfs vernietigd worden wegens een wilsgebrek als de koper aantoont dat hij bij correcte informatie nooit zou hebben gekocht. De notaris vraagt de stedenbouwkundige inlichtingen bovendien standaard op.",
+      },
+      {
+        question: "Krijg ik bij onteigening de marktwaarde van mijn woning?",
+        answer: "Het Vlaams Onteigeningsdecreet gaat uit van een billijke, volledige schadeloosstelling. Bij de waardebepaling mag geen rekening worden gehouden met de waardevermeerdering die voortvloeit uit het onteigeningsdoel zelf. De vergoeding is dus niet noodzakelijk lager dan de marktwaarde. Het zijn vooral de duur en de onzekerheid van de procedure die eigenaars zwaar vallen.",
+      },
+      {
+        question: "Wat is het recht van zelfrealisatie?",
+        answer: "Dat is uw recht om te vragen het onteigeningsdoel zelf te realiseren in plaats van onteigend te worden. U moet aantonen dat u bekwaam, bereid en in staat bent om het project uit te voeren conform de projectnota. Het verzoek is aan een strikte termijn gebonden: het moet worden ingediend binnen zeventig dagen na de einddatum van het openbaar onderzoek.",
+      },
+      {
+        question: "Wat betekent een rooilijn voor mijn bouwmogelijkheden?",
+        answer: "In de strook die door de rooilijn getroffen is, zijn in de regel enkel instandhoudings- en onderhoudswerken mogelijk. Voor grotere vergunningsplichtige verbouwingen volgt doorgaans een negatief advies. In sommige gevallen kunt u werken laten vergunnen mits een verklaring van afstand van meerwaarde, waarbij u aanvaardt dat de latere vergoeding voor dat deel beperkt blijft.",
+      },
+      {
+        question: "Koopt wijkopenpanden.be ook een woning met een onteigeningsplan?",
+        answer: "Ja, wij kopen panden met een planlast in de huidige staat. Dat heft het plan niet op: een rooilijn of onteigeningsbesluit blijft bestaan na de verkoop. Wat u wel kwijt bent, is het wachten en de onzekerheid. Wij verrekenen de last transparant in het bod en leggen uit hoe wij tot dat bedrag komen, zodat u het naast een eventueel overheidsaanbod kunt leggen.",
+      },
+    ],
+  },
+  {
+    slug: "koper-tekent-de-akte-niet-of-betaalt-niet",
+    title: "De koper tekent de akte niet of betaalt niet: wat kunt u doen?",
+    metaTitle: "Koper tekent de akte niet: wat kunt u doen?",
+    metaDescription: "U kunt de verkoop afdwingen of laten ontbinden met schadebeding. Let op: de compromis moet binnen vier maanden geregistreerd worden, ook zonder akte.",
+    publishedAt: "2026-07-24",
+    updatedAt: "2026-07-24",
+    intro: "Weigert de koper de notariële akte te tekenen of blijft de betaling uit, dan hebt u als verkoper twee wegen: u dwingt de verkoop af, of u laat ze ontbinden en houdt het schadebeding — vaak 10% van de prijs. Beide beginnen met een aangetekende ingebrekestelling. De koop zelf blijft intussen gewoon bestaan: die kwam tot stand bij de ondertekening van de compromis, niet bij de akte. Eén zaak wordt vaak vergeten: de onderhandse verkoopovereenkomst moet binnen vier maanden geregistreerd worden en het verkooprecht is dan verschuldigd, ook als er nog geen akte is. Hieronder leest u de juiste volgorde, de termijnen en de fiscale valkuilen.",
+    sections: [
+      {
+        heading: "Eerst dit: de koop bestaat al",
+        body: "Veel verkopers denken dat er pas een verkoop is zodra de notaris de akte verlijdt. Dat klopt niet. Een verkoop komt tot stand zodra er **wilsovereenstemming is over de zaak en de prijs** — het klassieke beginsel uit artikel 1583 van het oud Burgerlijk Wetboek. Vanaf de ondertekening van de compromis is er dus een bindende koop.\n\nDe notariële akte doet twee andere dingen:\n\n• Zij zorgt voor de **tegenwerpelijkheid aan derden** door de overschrijving in de registers.\n• Zij is het moment van **uitvoering**: de betaling van de prijs en de afrekening van alle kosten.\n\nDat onderscheid is uw sterkste kaart. Een koper die weigert te tekenen, annuleert de koop niet — hij **voert ze niet uit**. En niet-uitvoering is een tekortkoming waaraan het recht sancties koppelt. U hoeft dus niet te aanvaarden dat de verkoop 'gewoon niet doorgaat'.",
+      },
+      {
+        heading: "Stap één: de ingebrekestelling",
+        body: "Vóór u sancties kunt inroepen, moet u de koper in principe **in gebreke stellen**. Dat is onder het huidige verbintenissenrecht een formele voorwaarde voor de meeste remedies, en het is bovendien uw bewijsstuk.\n\nEen bruikbare ingebrekestelling:\n\n• Gaat **aangetekend** de deur uit, met een kopie naar de notaris.\n• Benoemt **concreet** wat er ontbreekt: het niet verschijnen op de afspraak, het uitblijven van de betaling of van het kredietdossier.\n• Verwijst naar de **compromis** en naar de datum die daarin voor het verlijden van de akte is bepaald.\n• Geeft een **redelijke laatste termijn** om alsnog uit te voeren.\n• Kondigt aan **wat u zult doen** als die termijn verstrijkt.\n\nEen bijzonder waardevol bewijsstuk levert de notaris zelf. Nodigt hij beide partijen uit voor het verlijden en komt de koper niet opdagen, dan kan hij een **proces-verbaal van niet-verschijning** opstellen. Dat document vermeldt wie aanwezig was, wat er is aangeboden en wie in gebreke bleef. Vraag er uitdrukkelijk om — het weegt zwaar als het later tot een discussie of een procedure komt.",
+      },
+      {
+        heading: "Uw twee wegen: gedwongen uitvoering of ontbinding",
+        body: "Blijft de koper in gebreke, dan staat u voor een keuze. In de regel is die keuze de uwe, tenzij de compromis anders bepaalt.\n\n**De gedwongen uitvoering.** U vordert dat de verkoop wordt doorgevoerd zoals afgesproken. De rechter kan bevelen dat de akte wordt verleden en dat de prijs wordt betaald; in de praktijk kan een vonnis zelfs de akte vervangen. Deze weg is aangewezen wanneer de afgesproken prijs goed is en er geen betere koper in zicht is.\n\n**De ontbinding met schadevergoeding.** U bevrijdt zich van de koop, kunt het pand opnieuw verkopen en vordert een vergoeding — doorgaans het schadebeding uit de compromis. Deze weg is aangewezen wanneer de koper duidelijk niet zal of kan betalen, of wanneer u een andere kandidaat hebt.\n\nMaak die keuze niet op gevoel. Kijk eerst na of uw compromis een **uitdrukkelijk ontbindend beding** bevat: veel compromissen bepalen dat de overeenkomst van rechtswege ontbonden is als een partij binnen een bepaalde termijn na ingebrekestelling niet uitvoert. Zulke bedingen zijn geldig en veelgebruikt, precies om een procedure te vermijden.",
+        table: {
+          headers: ["", "Gedwongen uitvoering", "Ontbinding"],
+          rows: [
+            ["Resultaat", "De verkoop gaat alsnog door", "De verkoop wordt beëindigd"],
+            ["Wanneer zinvol", "Goede prijs, geen alternatief", "Koper kan niet betalen, u hebt alternatief"],
+            ["Duur", "Vaak langer, koper werkt niet mee", "Sneller, u kunt opnieuw verkopen"],
+            ["Vergoeding", "Eventueel bijkomend voor vertraging", "Schadebeding, vaak 10% van de prijs"],
+            ["Risico", "Betaling blijft alsnog onzeker", "Discussie over de hoogte van de schade"],
+          ],
+        },
+      },
+      {
+        heading: "Ontbinden zonder rechter: de kennisgeving",
+        body: "Sinds de inwerkingtreding van Boek 5 van het Burgerlijk Wetboek op **1 januari 2023** bestaat er een derde weg naast de gerechtelijke ontbinding en het ontbindend beding: de **buitengerechtelijke ontbinding door kennisgeving**.\n\nDe kern ervan: u kunt de overeenkomst **op eigen risico** ontbinden door een gemotiveerde schriftelijke kennisgeving aan de koper, waarin u de tekortkomingen vermeldt die u hem verwijt. U hebt daarvoor geen voorafgaande uitspraak van een rechter nodig.\n\nDrie voorwaarden en één waarschuwing:\n\n• De tekortkoming moet **voldoende ernstig** zijn. Een week vertraging is dat doorgaans niet; hardnekkig weigeren te tekenen wel.\n• U moet vooraf de **nuttige maatregelen** hebben genomen om de niet-nakoming vast te stellen — in de praktijk: de ingebrekestelling en, waar mogelijk, het proces-verbaal van de notaris.\n• De kennisgeving moet de verwijten **uitdrukkelijk vermelden**.\n• De waarschuwing: de kennisgeving is **zonder gevolg** als de voorwaarden niet vervuld zijn of als de ontbinding rechtsmisbruik uitmaakt. Zit u ernaast, dan bent u zelf de partij die tekortschiet.\n\nHou er ook rekening mee dat een ontbinding onder het huidige recht in beginsel **voor de toekomst** werkt, met teruggave van wat al werd gepresteerd. Een reeds betaald voorschot moet dus in principe worden afgerekend volgens de regels van de teruggave en van het schadebeding. Laat u voor deze weg bijstaan; ze is snel, maar niet zonder risico.",
+      },
+      {
+        heading: "Het schadebeding van 10%: hoe hard is dat?",
+        body: "Vrijwel elke compromis bevat een **schadebeding**: een clausule die de schade forfaitair vastlegt als een partij haar verbintenissen niet nakomt. In de Belgische praktijk is **10% van de overeengekomen prijs** het gangbare cijfer.\n\nDat bedrag is echter niet onaantastbaar. Onder het huidige verbintenissenrecht kan de rechter een schadebeding **matigen wanneer het kennelijk onredelijk is**, en dat mag hij zelfs ambtshalve doen. Het beoordelingscriterium is verschoven: waar men vroeger vooral keek naar de voorzienbare schade, kijkt de rechter nu naar het kennelijk onredelijke karakter, rekening houdend met de werkelijke schade en met alle omstandigheden, waaronder uw rechtmatig belang.\n\nWat dat praktisch betekent:\n\n1. Een beding van 10% wordt in de regel aanvaard en is een sterk vertrekpunt in de onderhandeling.\n2. Verkoopt u het pand kort nadien aan dezelfde of een hogere prijs, dan kan een koper argumenteren dat uw werkelijke schade beperkt is.\n3. Lijdt u meer schade dan het beding — bijvoorbeeld door een aanzienlijk lagere herverkoop — dan is het beding in principe uw plafond, tenzij de compromis anders bepaalt.\n4. Het beding werkt in **twee richtingen**: schiet u zelf tekort, dan geldt het ook tegen u.\n\nDe beste bescherming blijft praktisch, niet juridisch: laat het **voorschot van 5 tot 10% storten op de derdenrekening van de notaris**, niet rechtstreeks aan u. Dan staat het geld veilig en beschikbaar wanneer het misloopt.",
+      },
+      {
+        heading: "De fiscale valkuil: registratie binnen vier maanden",
+        body: "Dit is het punt dat verkopers het hardst raakt, en het wordt zelden vermeld. Een onderhandse verkoopovereenkomst over een in België gelegen onroerend goed moet **binnen vier maanden** ter registratie worden aangeboden. Vanaf de geldige compromis ontstaat de registratieplicht en is het **verkooprecht verschuldigd — ook als er nog geen notariële akte is**.\n\nSleept uw koper de zaak dus over de vier maanden heen, dan loopt er een fiscale klok die niets met zijn wanprestatie te maken heeft. Wordt er te laat geregistreerd, dan volgt een **boete**. De administratie berekent die in de praktijk op basis van de wettelijke interest op het verschuldigde verkooprecht, met een minimum en een maximum. Vraag uw notaris tijdig naar het exacte bedrag in uw dossier.\n\nEen tweede valkuil zit bij de **minnelijke ontbinding**. Beslissen u en de koper samen om de verkoop 'gewoon te annuleren', dan kan de fiscus dat in bepaalde gevallen als een **wederverkoop** beschouwen, met opnieuw verkooprecht als gevolg. Dat is precies het omgekeerde van wat partijen dachten te doen.\n\nDe praktische regel:\n\n• Verwittig uw **notaris zodra** de koper begint te haperen, niet pas na vier maanden.\n• Teken **nooit** een minnelijke ontbinding zonder de fiscale gevolgen vooraf te laten nakijken.\n• Vraag na wie het verkooprecht in uw concrete situatie draagt. In de regel is dat de koper, maar de administratie kan zich in principe tot de partijen bij de akte wenden — laat dat uitdrukkelijk bevestigen.",
+        table: {
+          headers: ["Termijn", "Wat er speelt", "Actie"],
+          rows: [
+            ["Datum in de compromis", "Afgesproken datum voor de akte", "Notaris nodigt uit"],
+            ["Kort daarna", "Koper verschijnt niet of betaalt niet", "Proces-verbaal van niet-verschijning"],
+            ["Direct daarna", "Formele aanmaning", "Aangetekende ingebrekestelling"],
+            ["Binnen 4 maanden na compromis", "Registratieplicht en verkooprecht", "Notaris contacteren, boete vermijden"],
+          ],
+        },
+      },
+      {
+        heading: "Verkopen aan een partij die niet van een bank afhangt",
+        body: "In verreweg de meeste dossiers waarin een koper afhaakt, is de oorzaak dezelfde: de **financiering geraakt niet rond**. Ofwel is er een opschortende voorwaarde die faalt, ofwel is er geen voorwaarde en blijft de koper hangen zonder krediet.\n\nWij kopen woningen in de regio **Antwerpen** rechtstreeks aan, met **eigen middelen**. Dat betekent concreet: **geen opschortende voorwaarde van financiering**, geen wachten op een bankattest en geen kredietdossier dat in de laatste week ontspoort. Dat is de belangrijkste reden waarom verkopers die al één keer een koper zagen afhaken, bij ons uitkomen.\n\nOnze werkwijze:\n\n• Reactie op uw aanvraag doorgaans binnen 2 uur.\n• Een plaatsbezoek, gevolgd door een schriftelijk en vrijblijvend bod.\n• Bij akkoord verloopt het verlijden van de akte doorgaans binnen 2 à 3 maanden.\n\nEen eerlijke nuance tot slot: zit u nu **midden in een lopend geschil** met een koper, dan kunt u het pand niet zomaar een tweede keer verkopen. De bestaande koop moet eerst juridisch en fiscaal correct worden afgewikkeld, met uw notaris en desgevallend een advocaat. Wij kunnen die stap niet overslaan, en een partij die beweert van wel, is geen betrouwbare partij.",
+      },
+    ],
+    relatedArticles: ["compromis-verkoop-woning-belgie", "verkoop-annuleren-na-compromis-koop-is-koop", "koper-krijgt-lening-niet-rond-opschortende-voorwaarde", "verkoopbelofte-compromis-akte", "bod-aanvragen-vrijblijvend-bindend", "hoelang-duurt-huis-verkopen-belgie"],
+    relatedSituations: ["verkopen-zonder-makelaar"],
+    faqs: [
+      {
+        question: "Wat kan ik doen als de koper de notariële akte weigert te tekenen?",
+        answer: "U hebt in de regel de keuze tussen twee wegen: de gedwongen uitvoering vorderen, zodat de verkoop alsnog doorgaat, of de verkoop laten ontbinden met schadevergoeding, meestal het schadebeding uit de compromis. Beide beginnen met een aangetekende ingebrekestelling. Vraag de notaris ook om een proces-verbaal van niet-verschijning op te stellen; dat is een sterk bewijsstuk.",
+      },
+      {
+        question: "Is de verkoop geannuleerd als de akte niet wordt getekend?",
+        answer: "Neen. De verkoop kwam tot stand bij de wilsovereenstemming over zaak en prijs, dus bij de ondertekening van de compromis. De akte zorgt voor de tegenwerpelijkheid aan derden en voor de uitvoering. Een koper die weigert te tekenen, annuleert de koop niet, hij voert ze niet uit. Dat is een tekortkoming waaraan het recht sancties koppelt.",
+      },
+      {
+        question: "Krijg ik automatisch 10% schadevergoeding?",
+        answer: "Niet automatisch. Het schadebeding van 10% is gangbaar en een sterk vertrekpunt, maar de rechter kan een schadebeding matigen wanneer het kennelijk onredelijk is, en mag dat zelfs uit eigen beweging doen. Hij kijkt daarbij naar de werkelijke schade en alle omstandigheden. Verkoopt u kort nadien aan dezelfde prijs, dan kan een koper argumenteren dat uw schade beperkt is.",
+      },
+      {
+        question: "Kan ik de verkoop ontbinden zonder naar de rechter te stappen?",
+        answer: "Ja, dat kan sinds 1 januari 2023 via een buitengerechtelijke ontbinding door schriftelijke kennisgeving, waarin u de verweten tekortkomingen vermeldt. U doet dat wel op eigen risico: de tekortkoming moet voldoende ernstig zijn en de kennisgeving blijft zonder gevolg als de voorwaarden niet vervuld zijn of als de ontbinding rechtsmisbruik uitmaakt. Laat u hierin bijstaan.",
+      },
+      {
+        question: "Moet de compromis geregistreerd worden als de akte niet doorgaat?",
+        answer: "Ja. Een onderhandse verkoopovereenkomst over een in België gelegen onroerend goed moet binnen vier maanden ter registratie worden aangeboden, en het verkooprecht is dan verschuldigd, ook zonder notariële akte. Bij laattijdige registratie volgt een boete. Verwittig uw notaris dus zodra de koper begint te haperen, niet pas na vier maanden.",
+      },
+      {
+        question: "Kan ik het pand meteen aan iemand anders verkopen?",
+        answer: "Niet zomaar. Zolang de bestaande koop niet correct is beëindigd, blijft die koop bestaan en zou een tweede verkoop u in een nieuw conflict brengen. De bestaande overeenkomst moet eerst juridisch en fiscaal worden afgewikkeld, met uw notaris en zo nodig een advocaat. Let daarbij op: een minnelijke ontbinding kan fiscaal als een wederverkoop worden beschouwd.",
+      },
+    ],
+  },
+  {
+    slug: "onafgewerkte-verbouwing-of-bouwwerf-verkopen",
+    title: "Een onafgewerkte verbouwing of stilgevallen bouwwerf verkopen",
+    metaTitle: "Onafgewerkte verbouwing of bouwwerf verkopen",
+    metaDescription: "Verkoopt u in de staat waarin het pand zich bevindt, zonder afwerkingsverbintenis, dan geldt de Wet Breyne niet. Let wel op het verval van uw vergunning.",
+    publishedAt: "2026-07-24",
+    updatedAt: "2026-07-24",
+    intro: "Ja, u kunt een half afgewerkte verbouwing of een stilgevallen bouwwerf verkopen — en meestal zonder dat de zware Woningbouwwet, beter bekend als de Wet Breyne, op uw dossier van toepassing is. Die wet geldt namelijk pas wanneer u zich tegenover de koper verbindt om af te werken. Verkoopt u het pand in de staat waarin het zich bevindt, zonder afwerkingsverbintenis, dan valt de verkoop er in principe buiten. Twee andere zaken zijn dringender: uw omgevingsvergunning kan intussen van rechtswege vervallen zijn, en de garanties van uw aannemer en architect moet u contractueel meegeven. Hieronder leest u waar u precies op moet letten.",
+    sections: [
+      {
+        heading: "De Wet Breyne: wanneer u er wél en niet onder valt",
+        body: "De **Woningbouwwet van 9 juli 1971**, in de praktijk de Wet Breyne genoemd, beschermt kopers van woningen die nog gebouwd of afgewerkt moeten worden. Zij legt de verkoper zware verplichtingen op. Of zij op uw verkoop van toepassing is, hangt af van een aantal **cumulatieve** voorwaarden — ze moeten allemaal samen vervuld zijn:\n\n1. Er is een overeenkomst tot **eigendomsoverdracht** van een woning of appartement.\n2. De verkoper gaat de **verbintenis aan om te bouwen, te doen bouwen of te verschaffen**.\n3. Het goed is in **België** gelegen.\n4. Het is **bestemd voor huisvesting** — hoofdverblijf, tweede verblijf of verhuur.\n5. De koper is verplicht tot **een of meer stortingen vóór de voltooiing**.\n\nVoor een **verbouwing of uitbreiding** geldt bovendien een drempel: de wet speelt pas wanneer de totale prijs van de werken **minstens 80% bedraagt van de verkoopprijs** van het te verbouwen gebouw én **meer dan 18.600 euro**.\n\nDe voorwaarde die alles bepaalt, is de tweede. Verkoopt u het pand **in de staat waarin het zich bevindt**, zonder u te verbinden om nog iets af te werken, dan ontbreekt die verbintenis en valt de verkoop in principe **buiten** de Wet Breyne. Dat is de klassieke casco- of 'as is'-verkoop.",
+        table: {
+          headers: ["Situatie", "Wet Breyne van toepassing?"],
+          rows: [
+            ["U verkoopt de werf in de huidige staat, zonder afwerking", "In principe neen"],
+            ["U verbindt zich om af te werken vóór de levering", "Ja, indien alle voorwaarden vervuld zijn"],
+            ["Koper betaalt volledig bij de akte, geen werken meer door u", "In principe neen"],
+            ["Verbouwing: werken ≥ 80% van de prijs én > 18.600 euro, door u uitgevoerd", "Ja"],
+            ["Koper zet zelf de werken verder met eigen aannemers", "In principe neen"],
+          ],
+        },
+      },
+      {
+        heading: "Wat de Wet Breyne oplegt als ze wél geldt",
+        body: "Belandt u toch binnen het toepassingsgebied, dan verandert uw positie fundamenteel. De belangrijkste verplichtingen:\n\n• Het **voorschot bij het sluiten van de overeenkomst is beperkt tot maximaal 5%** van de totale prijs.\n• De rest van de prijs wordt **in schijven** betaald, volgens de werkelijke vordering van de werken. Elke schijf is pas verschuldigd na een attest, doorgaans van de architect of een onafhankelijke deskundige, en mag de waarde van de uitgevoerde werken niet overschrijden.\n• Er zijn **twee opleveringen**: een voorlopige en een definitieve, met **minstens één jaar** ertussen.\n• De verkoper moet een **voltooiingswaarborg** stellen, zodat de koper beschermd is als de werken blijven steken.\n\nVoor een particulier die één keer een verbouwing niet afkreeg, is dat een zwaar regime. Het is dan ook de belangrijkste reden waarom een verkoop in de huidige staat, zonder afwerkingsverbintenis, vaak de verstandigste constructie is. Laat de formulering van de compromis wel door uw notaris nakijken: het is de **inhoud** van uw verbintenis die telt, niet de titel boven het document. Belooft u mondeling nog 'het dak af te maken', dan kan die belofte de kwalificatie beïnvloeden.\n\nEen aandachtspunt voor de komende jaren: er zijn **wetgevende plannen aangekondigd** om de bescherming van de Wet Breyne uit te breiden naar renovatie- en cascoprojecten. Die uitbreiding is op dit ogenblik nog niet doorgevoerd, maar het loont om de stand van zaken te laten nakijken op het moment dat u verkoopt.",
+      },
+      {
+        heading: "Uw omgevingsvergunning kan intussen vervallen zijn",
+        body: "Dit is de meest onderschatte kwestie bij een stilgevallen werf. Een omgevingsvergunning voor stedenbouwkundige handelingen **vervalt van rechtswege** in drie gevallen:\n\n• De vergunde handelingen worden **niet gestart binnen twee jaar** na het verlenen van de definitieve omgevingsvergunning.\n• De uitvoering wordt **meer dan drie opeenvolgende jaren onderbroken**.\n• De vergunde gebouwen zijn **niet winddicht binnen vijf jaar** na het verlenen van de definitieve vergunning.\n\nElk van die termijnen volstaat op zich om het verval te doen intreden. In bepaalde omstandigheden kan de vergunninghouder een verlenging bekomen wanneer de niet-realisatie het gevolg is van een vreemde oorzaak die hem niet kan worden toegerekend, maar dat is een uitzondering, geen automatisme.\n\nDe gevolgen voor een verkoop zijn concreet:\n\n1. Is de vergunning vervallen, dan moet de koper een **nieuwe vergunning aanvragen** — met de regels van vandaag, niet die van toen. Dat kan een ander resultaat geven.\n2. Werken die zonder geldige vergunning zijn uitgevoerd, kunnen een **bouwovertreding** vormen.\n3. Een koper die dit pas laat ontdekt, heeft een sterk argument om de prijs te herzien of af te haken.\n\nVraag daarom vóór u te koop zet een **stedenbouwkundig uittreksel** op bij de gemeente en leg de data van uw vergunning en van de start van de werken naast elkaar. Weten waar u staat is beter dan het te laten uitkomen tijdens het compromis.",
+        table: {
+          headers: ["Gebeurtenis", "Termijn", "Gevolg"],
+          rows: [
+            ["Werken niet gestart", "2 jaar na de definitieve vergunning", "Vergunning vervalt van rechtswege"],
+            ["Werken onderbroken", "Meer dan 3 opeenvolgende jaren", "Vergunning vervalt van rechtswege"],
+            ["Gebouw niet winddicht", "5 jaar na de definitieve vergunning", "Vergunning vervalt van rechtswege"],
+          ],
+        },
+      },
+      {
+        heading: "De garanties van aannemer en architect: neem ze uitdrukkelijk mee",
+        body: "Aan een halfafgewerkte werf hangen doorgaans nog rechten vast tegenover de partijen die er hebben gewerkt. Die rechten zijn geld waard — maar alleen als ze correct worden meegegeven.\n\nDe belangrijkste is de **tienjarige aansprakelijkheid** van de aannemer en de architect, verankerd in de artikelen 1792 en 2270 van het oud Burgerlijk Wetboek. Zij zijn gedurende tien jaar na de aanvaarding van de werken aansprakelijk voor ernstige gebreken die de stabiliteit of de soliditeit van het gebouw aantasten, ook wanneer die te wijten zijn aan de ongeschiktheid van de grond.\n\nSinds **1 juli 2018** is die aansprakelijkheid bovendien **verplicht verzekerd** voor woningbouw waarbij de tussenkomst van een architect vereist is. Dat volgt uit de wet van 31 mei 2017, in de sector bekend als de wet Peeters-Borsus, die geldt voor werken waarvoor de definitieve stedenbouwkundige vergunning na 1 juli 2018 werd afgeleverd.\n\nWat u concreet doet:\n\n• Verzamel de **aannemingsovereenkomsten, facturen, verzekeringsattesten en opleveringsverslagen**.\n• Laat in de compromis en de akte **uitdrukkelijk opnemen** dat uw vorderingsrechten tegenover aannemers, architect en verzekeraars mee overgaan op de koper.\n• Vermeld welke werken **wel en niet** zijn opgeleverd — dat bepaalt vanaf wanneer de tienjarige termijn loopt.\n• Verzwijg geen lopende betwisting met een aannemer. Die komt hoe dan ook boven water en ondermijnt uw positie.",
+      },
+      {
+        heading: "Het dossier dat u klaar moet hebben",
+        body: "Een onafgewerkt pand verkoopt vlotter naarmate u meer onzekerheid wegneemt. Zorg dat u minstens het volgende kunt voorleggen:\n\n• De **omgevingsvergunning** met de goedgekeurde plannen, en de datum waarop de werken zijn gestart.\n• De **as-built situatie**: wat is er effectief uitgevoerd en waar wijkt het af van de plannen?\n• Alle **facturen en aannemingsovereenkomsten**, ook van werken die niet zijn afgerond.\n• Het **postinterventiedossier**, dat in principe verplicht is voor werken uitgevoerd sinds 1 mei 2001.\n• Het **bodemattest** en, bij bouwjaar vóór 2001, het **asbestattest** voor de bestaande constructie.\n\nTwee attesten verdienen een aparte waarschuwing. Voor een woning die nog niet bewoonbaar is, kan een **EPC** of een **elektrische keuring** praktisch of technisch onmogelijk zijn zolang de installatie niet afgewerkt is. Vraag dat vooraf na bij een energiedeskundige en bij een erkend keuringsorganisme, zodat u het in de compromis correct kunt regelen in plaats van er bij de akte over te struikelen.",
+      },
+      {
+        heading: "Waarom een halfafgewerkt pand moeilijk verkoopt op de klassieke markt",
+        body: "Dat een werf lang te koop staat, ligt zelden aan de vraagprijs alleen. De structurele oorzaken zijn deze:\n\n• **Financiering.** Banken zijn terughoudend voor een pand dat niet bewoonbaar is. De koper moet vaak een bouwkrediet aangaan in plaats van een gewoon woonkrediet, met schijven en attesten.\n• **Dubbele kost.** Wie koopt, betaalt intussen huur of een lopend krediet elders, terwijl de werf geld blijft vragen.\n• **Onzekere restkost.** Niemand weet precies wat er nog nodig is. Kandidaten rekenen daarom met een ruime veiligheidsmarge — in hun voordeel.\n• **Vergunningsrisico.** Zodra het woord 'vervallen' valt, haakt een groot deel van de kandidaten af.\n\nHet gevolg is een markt van weinig, maar gerichte kopers: aannemers, investeerders en opkopers die dit soort dossiers kunnen inschatten. Dat verklaart waarom een werf op de klassieke markt vaak maanden stilstaat en dan alsnog bij een professionele koper terechtkomt.",
+      },
+      {
+        heading: "Verkopen in de huidige staat aan wijkopenpanden.be",
+        body: "Wij kopen woningen en panden in de regio **Antwerpen** rechtstreeks aan, **in de huidige staat** — ook een stilgevallen werf, een halfafgewerkte verbouwing of een casco pand. Wij vragen niet dat u eerst afwerkt, opruimt of keuringen laat uitvoeren.\n\nOmdat wij het pand kopen **zoals het is**, en u zich dus niet verbindt om nog iets af te werken, ontstaat er in principe **geen Wet Breyne-constructie**. Wij werken bovendien met **eigen middelen**, dus zonder financieringsvoorbehoud, en zonder makelaarscommissie.\n\nWees eerlijk geïnformeerd over de grenzen daarvan: **wij maken geen juridische problemen ongedaan**. Een vervallen omgevingsvergunning blijft vervallen en werken zonder vergunning blijven een bouwovertreding, ook na de verkoop. Die realiteit verrekenen wij transparant in het bod en wij leggen uit hoe wij tot dat bedrag komen — wij toveren ze niet weg.\n\nOnze werkwijze:\n\n• Reactie op uw aanvraag doorgaans binnen 2 uur.\n• Een plaatsbezoek waarbij wij de werf bekijken zoals ze is, gevolgd door een schriftelijk en vrijblijvend bod.\n• Bij akkoord verloopt het verlijden van de akte doorgaans binnen 2 à 3 maanden.\n\nZo weet u snel of afwerken dan wel verkopen voor u de betere rekening maakt — in plaats van jarenlang tussen beide te blijven hangen.",
+      },
+    ],
+    relatedArticles: ["pand-in-slechte-staat-verkopen", "stedenbouwkundige-overtreding-woning-verkopen", "postinterventiedossier-pid-verkoop-woning", "keuringen-bij-verkoop-woning", "energie-renovatieplicht-vlaanderen-2026", "huis-verkopen-na-brand-of-schade"],
+    relatedSituations: ["opknappand-verkopen"],
+    faqs: [
+      {
+        question: "Mag ik een onafgewerkte verbouwing of bouwwerf verkopen?",
+        answer: "Ja. U kunt een halfafgewerkt pand verkopen in de staat waarin het zich bevindt. Verbindt u zich daarbij niet om nog werken uit te voeren, dan valt de verkoop in principe buiten de Wet Breyne. Let wel op twee andere zaken: het mogelijke verval van uw omgevingsvergunning en de correcte overdracht van de garanties van aannemer en architect.",
+      },
+      {
+        question: "Wanneer is de Wet Breyne van toepassing op mijn verkoop?",
+        answer: "Wanneer alle voorwaarden samen vervuld zijn: een overeenkomst tot eigendomsoverdracht van een woning in België, bestemd voor huisvesting, waarbij u zich verbindt om te bouwen, te doen bouwen of te verschaffen, en de koper vóór de voltooiing moet betalen. Bij een verbouwing geldt bovendien dat de werken minstens 80% van de verkoopprijs én meer dan 18.600 euro moeten bedragen.",
+      },
+      {
+        question: "Wanneer vervalt mijn omgevingsvergunning?",
+        answer: "Van rechtswege in drie gevallen: als de vergunde handelingen niet binnen twee jaar na de definitieve vergunning gestart zijn, als de uitvoering meer dan drie opeenvolgende jaren onderbroken wordt, of als de vergunde gebouwen niet winddicht zijn binnen vijf jaar na de definitieve vergunning. Elk van die termijnen volstaat op zich. Een verlenging is in bepaalde omstandigheden mogelijk, maar is geen automatisme.",
+      },
+      {
+        question: "Gaan de garanties van mijn aannemer over op de koper?",
+        answer: "Dat regelt u best uitdrukkelijk. De tienjarige aansprakelijkheid van aannemer en architect voor gebreken die de stabiliteit aantasten, volgt uit de artikelen 1792 en 2270 van het oud Burgerlijk Wetboek en loopt tien jaar vanaf de aanvaarding van de werken. Laat in de compromis en de akte opnemen dat uw vorderingsrechten tegenover aannemers, architect en verzekeraars mee overgaan, en geef alle contracten en attesten mee.",
+      },
+      {
+        question: "Heb ik een EPC en een elektrische keuring nodig voor een onafgewerkt pand?",
+        answer: "Dat hangt af van de toestand van het pand. Voor een woning die nog niet bewoonbaar is en waarvan de installatie niet afgewerkt is, kan een EPC of een keuring praktisch of technisch onmogelijk zijn. Vraag dit vooraf na bij een energiedeskundige en bij een erkend keuringsorganisme, zodat u het correct in de compromis kunt regelen in plaats van er bij de akte over te struikelen.",
+      },
+      {
+        question: "Koopt wijkopenpanden.be een stilgevallen bouwwerf?",
+        answer: "Ja. Wij kopen panden in de regio Antwerpen in de huidige staat, ook een casco pand of een werf die stilligt. U hoeft niet eerst af te werken of keuringen te laten uitvoeren. Wij lossen geen juridische problemen op: een vervallen vergunning blijft vervallen en een bouwovertreding blijft bestaan. Die realiteit verrekenen wij transparant in het bod, met uitleg over hoe wij tot dat bedrag komen.",
       },
     ],
   },
