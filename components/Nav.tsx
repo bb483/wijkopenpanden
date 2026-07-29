@@ -25,6 +25,10 @@ const menus = [
       { label: "Opknapper", href: "/opknappand-verkopen" },
       { label: "Met huurders", href: "/pand-met-huurders-verkopen" },
       { label: "Zonder makelaar", href: "/verkopen-zonder-makelaar" },
+      { label: "Huis snel verkopen", href: "/huis-snel-verkopen" },
+      { label: "Pand snel verkopen", href: "/pand-snel-verkopen" },
+      { label: "Schatting pand", href: "/schatting-pand" },
+      { label: "Vastgoedopkoper", href: "/vastgoedopkoper-antwerpen" },
     ],
   },
   {

@@ -20,6 +20,9 @@ const columns = [
       { label: "Opknapper", href: "/opknappand-verkopen" },
       { label: "Met huurders", href: "/pand-met-huurders-verkopen" },
       { label: "Zonder makelaar", href: "/verkopen-zonder-makelaar" },
+      { label: "Huis snel verkopen", href: "/huis-snel-verkopen" },
+      { label: "Pand snel verkopen", href: "/pand-snel-verkopen" },
+      { label: "Schatting pand", href: "/schatting-pand" },
     ],
   },
   {
@@ -37,6 +40,7 @@ const columns = [
     title: "Informatie",
     links: [
       { label: "Kennisbank", href: "/kennisbank" },
+      { label: "Vastgoedopkoper Antwerpen", href: "/vastgoedopkoper-antwerpen" },
       { label: "Hoe wij werken", href: "/hoe-wij-werken" },
       { label: "Tip een pand", href: "/tip-een-pand" },
       { label: "Blijven wonen", href: "/blijven-wonen" },

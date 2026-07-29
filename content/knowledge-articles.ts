@@ -295,7 +295,7 @@ export const articles: Article[] = [
         body: "Alle erfgenamen moeten het compromis (de verkoopbelofte) ondertekenen. Zijn niet alle erfgenamen aanwezig, dan kan één erfgenaam optreden met een volmacht (notarieel of onderhands) van de anderen.\n\nNa het compromis volgt de akte bij de notaris, doorgaans twee tot drie maanden later. Bij de akte worden de notariskosten verrekend en wordt de netto-opbrengst verdeeld onder de erfgenamen.",
       },
     ],
-    relatedArticles: ["keuringen-bij-verkoop-woning", "notariskosten-woning-verkoop", "blote-eigendom-verkopen"],
+    relatedArticles: ["keuringen-bij-verkoop-woning", "notariskosten-woning-verkoop", "blote-eigendom-verkopen", "pand-laten-schatten-schattingsverslag"],
     relatedSituations: ["huis-verkopen-bij-erfenis"],
     faqs: [
       {
@@ -1015,7 +1015,7 @@ export const articles: Article[] = [
       },
     ],
     relatedArticles: ["commissie-makelaar-belgie", "keuringen-bij-verkoop-woning", "notariskosten-woning-verkoop", "verkoop-kosten-berekenen", "belastingen-bij-woningverkoop", "huis-verkopen-bij-betalingsproblemen-schulden"],
-    relatedSituations: ["verkopen-zonder-makelaar", "opknappand-verkopen", "huis-verkopen-bij-erfenis"],
+    relatedSituations: ["verkopen-zonder-makelaar", "opknappand-verkopen", "huis-verkopen-bij-erfenis", "huis-snel-verkopen"],
     faqs: [
       {
         question: "Wat zijn de kosten als ik mijn huis verkoop in Antwerpen?",
@@ -1090,7 +1090,7 @@ export const articles: Article[] = [
       },
     ],
     relatedArticles: ["huis-verkopen-antwerpen-gids", "commissie-makelaar-belgie", "verkoop-kosten-berekenen", "energie-renovatieplicht-vlaanderen-2026", "stedenbouwkundige-overtreding-woning-verkopen"],
-    relatedSituations: ["huis-verkopen-bij-erfenis", "huis-verkopen-bij-scheiding", "pand-met-huurders-verkopen"],
+    relatedSituations: ["huis-verkopen-bij-erfenis", "huis-verkopen-bij-scheiding", "pand-met-huurders-verkopen", "huis-snel-verkopen"],
     faqs: [
       {
         question: "Hoelang duurt een huis verkopen in België gemiddeld?",
@@ -1173,7 +1173,7 @@ export const articles: Article[] = [
       },
     ],
     relatedArticles: ["commissie-makelaar-belgie", "hoelang-duurt-huis-verkopen-belgie", "huis-verkopen-antwerpen-gids", "keuringen-bij-verkoop-woning", "pand-in-slechte-staat-verkopen"],
-    relatedSituations: ["verkopen-zonder-makelaar", "opknappand-verkopen", "huis-verkopen-bij-erfenis"],
+    relatedSituations: ["verkopen-zonder-makelaar", "opknappand-verkopen", "huis-verkopen-bij-erfenis", "vastgoedopkoper-antwerpen"],
     faqs: [
       {
         question: "Is een vastgoedopkoper wettelijk erkend in België?",
@@ -1250,8 +1250,8 @@ export const articles: Article[] = [
         body: "Als u twijfelt tussen verhuren of verkopen, beantwoord dan deze drie vragen:\n\n1. Wat is het EPC-label van uw woning?\nLabel E of F? Dan staat u voor een renovatieverplichting vóór 2030 als u wilt blijven verhuren. De vraag is dan niet 'verhuren of verkopen' maar 'nu verkopen of eerst renoveren en dan verhuren'.\n\n2. Heeft u de huurinkomsten nodig als inkomen, of is het kapitaal interessanter?\nAls u het geld nu kunt beleggen of gebruiken voor een betere investering, is verkopen financieel logischer.\n\n3. Bent u bereid de komende jaren verhuurder te zijn?\nEen huurder vinden, contracten opstellen, herstellingen regelen, eventuele conflicten oplossen — dat is werk. Als u dat niet wilt, is verhuren alleen aantrekkelijk met een beheerder, wat uw netto rendement drukt.",
       },
     ],
-    relatedArticles: ["wat-is-een-vastgoedopkoper", "energie-renovatieplicht-vlaanderen-2026", "belastingen-bij-woningverkoop", "snel-geld-vrijmaken-woning", "huis-verkopen-antwerpen-gids"],
-    relatedSituations: ["pand-met-huurders-verkopen", "opbrengsteigendom-verkopen-antwerpen", "verkopen-zonder-makelaar"],
+    relatedArticles: ["wat-is-een-vastgoedopkoper", "energie-renovatieplicht-vlaanderen-2026", "belastingen-bij-woningverkoop", "snel-geld-vrijmaken-woning", "huis-verkopen-antwerpen-gids", "opbrengsteigendom-verkopen"],
+    relatedSituations: ["pand-met-huurders-verkopen", "opbrengsteigendom-verkopen-antwerpen", "verkopen-zonder-makelaar", "pand-snel-verkopen"],
     faqs: [
       {
         question: "Is verhuren of verkopen financieel voordeliger in Antwerpen?",
@@ -1308,8 +1308,8 @@ export const articles: Article[] = [
         body: "Als u wilt investeren om de verkoopprijs te verhogen, zijn dit de ingrepen met de beste return:\n\nHoog rendement:\n• Dakisolatie of dakvernieuwing — zichtbaar, sterk effect op EPC en verkoopprijs\n• Nieuwe condensatieketel of warmtepomp — verbetert EPC, geeft koper zekerheid\n• Neutraliseren en opfrissen: professioneel schilderwerk in neutrale kleuren\n\nLaag rendement (investering wordt zelden terugverdiend):\n• Nieuwe keuken of badkamer — smaakgebonden, koper wil vaak toch zijn eigen keuze\n• Vloervervanging — koper ziet het, maar betaalt er niet evenredig voor\n• Uitbreidingen of aanbouwen — duur, lang, en vereisen vergunning\n\nVuistregel: renoveer alleen als de investering minstens 1,5× terugkomt in een hogere verkoopprijs. In de praktijk is dat zelden het geval bij grote ingrepen.",
       },
     ],
-    relatedArticles: ["energie-renovatieplicht-vlaanderen-2026", "huis-verkopen-antwerpen-gids", "pand-in-slechte-staat-verkopen", "wanneer-beste-moment-woning-verkopen", "commissie-makelaar-belgie"],
-    relatedSituations: ["opknappand-verkopen", "verkopen-zonder-makelaar"],
+    relatedArticles: ["energie-renovatieplicht-vlaanderen-2026", "huis-verkopen-antwerpen-gids", "pand-in-slechte-staat-verkopen", "wanneer-beste-moment-woning-verkopen", "commissie-makelaar-belgie", "pand-laten-schatten-schattingsverslag"],
+    relatedSituations: ["opknappand-verkopen", "verkopen-zonder-makelaar", "schatting-pand"],
     faqs: [
       {
         question: "Wat is mijn woning waard in Antwerpen?",
@@ -1688,7 +1688,7 @@ export const articles: Article[] = [
         body: "Er zijn specifieke situaties waarin snel verkopen — ook aan een vastgoedopkoper — financieel verstandiger is dan wachten:\n\nMeerdere erfgenamen met verschillende plannen: zolang de woning niet verkocht is, moeten alle mede-eigenaars het eens zijn over elke beslissing. Dat kan maanden duren. Ondertussen lopen de kosten door.\n\nWoning in slechte staat of met laag EPC-label: renoveren kost geld en tijd die erfgenamen niet altijd hebben of willen investeren in een woning die ze toch willen verkopen. Verkopen as-is aan een opkoper vermijdt die investering.\n\nLeegstandsheffing: als de woning leegstaat, begint na twaalf maanden de leegstandsheffing te lopen. Elke maand uitstel verhoogt de belastingdruk.\n\nErfbelasting financieren: erfgenamen moeten de erfbelasting betalen vóór ze de erfenis kunnen afronden. Als er geen spaargeld is, kan een snelle verkoop het benodigde kapitaal vrijmaken om de erfbelasting te voldoen.\n\nOnroerende voorheffing: deze loopt maandelijks door, ook als de woning leegstaat en niemand er van geniet.",
       },
     ],
-    relatedArticles: ["leegstandsheffing-antwerpen-2026", "verhuren-of-verkopen-antwerpen", "energie-renovatieplicht-vlaanderen-2026"],
+    relatedArticles: ["leegstandsheffing-antwerpen-2026", "verhuren-of-verkopen-antwerpen", "energie-renovatieplicht-vlaanderen-2026", "pand-laten-schatten-schattingsverslag"],
     relatedSituations: ["huis-verkopen-bij-erfenis", "verkopen-zonder-makelaar"],
     faqs: [
       {
@@ -2277,8 +2277,8 @@ export const articles: Article[] = [
         body: "Als particulier bent u vrijgesteld van meerwaardebelasting bij de verkoop van onroerend goed in de volgende gevallen:\n\n• Verkoop van uw eigen woning (hoofdverblijfplaats) — altijd vrijgesteld\n• Verkoop van een gebouw meer dan 5 jaar na de aankoopakte\n• Verkoop van een grond meer dan 8 jaar na de aankoopakte\n• Als de gerealiseerde meerwaarde nihil of negatief is (verlies)\n• Als de belastingdienst de transactie beschouwt als normaal beheer van uw privévermogen\n\nDe vrijstellingsduur begint te lopen op de dag van de aankoopakte — niet op de dag van het compromis of de betaling.",
       },
     ],
-    relatedArticles: ["belastingen-bij-woningverkoop", "notariskosten-woning-verkoop", "verhuren-of-verkopen-antwerpen"],
-    relatedSituations: ["huis-verkopen-bij-erfenis", "verkopen-zonder-makelaar"],
+    relatedArticles: ["belastingen-bij-woningverkoop", "notariskosten-woning-verkoop", "verhuren-of-verkopen-antwerpen", "opbrengsteigendom-verkopen"],
+    relatedSituations: ["huis-verkopen-bij-erfenis", "verkopen-zonder-makelaar", "pand-snel-verkopen"],
     faqs: [
       {
         question: "Betaal ik meerwaardebelasting als ik mijn tweede woning verkoop na 5 jaar?",
@@ -2409,7 +2409,7 @@ export const articles: Article[] = [
         body: "Wij kopen verhuurde panden aan — met huurder, mét lopend huurcontract. U hoeft de huurder niet op te zeggen, niet te verhuizen en niet te wachten tot het huurcontract afloopt.\n\nWij nemen het huurcontract over als nieuwe verhuurder en regelen de relatie met de huurder professioneel. U ontvangt uw bod netto, de overdracht verloopt via de notaris en de huurder wordt tijdig en correct geïnformeerd — inclusief het recht van voorkoop.\n\nDe prijs houdt rekening met de huurinkomsten en de resterende huurperiode, maar u vermijdt de langdurige leegstand, de opzeggingsprocedure en de onzekerheid van een verkoop via de vrije markt.",
       },
     ],
-    relatedArticles: ["verhuren-of-verkopen-antwerpen", "mede-eigendom-verkopen", "verkoop-kosten-berekenen", "verhuurd-pand-verkopen-conformiteitsattest-woningkwaliteit", "woning-verkopen-met-krakers-of-domiciliefraude", "handelspand-gemengd-pand-verkopen-handelshuur", "recht-van-voorkoop-bij-verkoop-woning"],
+    relatedArticles: ["verhuren-of-verkopen-antwerpen", "mede-eigendom-verkopen", "verkoop-kosten-berekenen", "verhuurd-pand-verkopen-conformiteitsattest-woningkwaliteit", "woning-verkopen-met-krakers-of-domiciliefraude", "handelspand-gemengd-pand-verkopen-handelshuur", "recht-van-voorkoop-bij-verkoop-woning", "opbrengsteigendom-verkopen"],
     relatedSituations: ["pand-met-huurders-verkopen", "huis-verkopen-bij-erfenis"],
     faqs: [
       {
@@ -2568,7 +2568,7 @@ export const articles: Article[] = [
       },
     ],
     relatedArticles: ["wat-is-mijn-woning-waard-antwerpen", "hoelang-duurt-huis-verkopen-belgie", "commissie-makelaar-belgie", "pand-in-slechte-staat-verkopen", "huis-verkopen-bij-betalingsproblemen-schulden", "wanneer-beste-moment-woning-verkopen", "makelaarscontract-opzeggen-en-zelf-verkopen"],
-    relatedSituations: ["verkopen-zonder-makelaar", "opknappand-verkopen"],
+    relatedSituations: ["verkopen-zonder-makelaar", "opknappand-verkopen", "huis-snel-verkopen"],
     faqs: [
       {
         question: "Wat als mijn woning niet verkocht geraakt?",
@@ -2748,7 +2748,7 @@ export const articles: Article[] = [
       },
     ],
     relatedArticles: ["wat-is-een-vastgoedopkoper", "commissie-makelaar-belgie", "wat-is-mijn-woning-waard-antwerpen", "bod-aanvragen-vrijblijvend-bindend", "opkoper-of-makelaar-verschil", "verkoop-kosten-berekenen", "verkoop-annuleren-na-compromis-koop-is-koop"],
-    relatedSituations: ["verkopen-zonder-makelaar"],
+    relatedSituations: ["verkopen-zonder-makelaar", "vastgoedopkoper-antwerpen"],
     faqs: [
       {
         question: "Is verkopen aan een opkoper veilig?",
@@ -2818,7 +2818,7 @@ export const articles: Article[] = [
       },
     ],
     relatedArticles: ["wat-is-een-vastgoedopkoper", "verkoopbelofte-compromis-akte", "compromis-verkoop-woning-belgie", "betrouwbaar-verkopen-aan-opkoper", "opkoper-of-makelaar-verschil", "notariskosten-woning-verkoop", "koper-krijgt-lening-niet-rond-opschortende-voorwaarde"],
-    relatedSituations: ["verkopen-zonder-makelaar"],
+    relatedSituations: ["verkopen-zonder-makelaar", "vastgoedopkoper-antwerpen"],
     faqs: [
       {
         question: "Is een bod aanvragen gratis?",
@@ -2902,7 +2902,7 @@ export const articles: Article[] = [
       },
     ],
     relatedArticles: ["commissie-makelaar-belgie", "wat-is-een-vastgoedopkoper", "hoelang-duurt-huis-verkopen-belgie", "betrouwbaar-verkopen-aan-opkoper", "bod-aanvragen-vrijblijvend-bindend", "verkoop-kosten-berekenen", "makelaarscontract-opzeggen-en-zelf-verkopen"],
-    relatedSituations: ["verkopen-zonder-makelaar", "opknappand-verkopen"],
+    relatedSituations: ["verkopen-zonder-makelaar", "opknappand-verkopen", "vastgoedopkoper-antwerpen"],
     faqs: [
       {
         question: "Vraagt wijkopenpanden.be commissie of kosten?",
@@ -3049,7 +3049,7 @@ export const articles: Article[] = [
       },
     ],
     relatedArticles: ["hoelang-duurt-huis-verkopen-belgie", "notariskosten-woning-verkoop", "huis-verkopen-met-hypotheek", "bod-aanvragen-vrijblijvend-bindend", "opkoper-of-makelaar-verschil", "keuringen-attesten-bij-directe-verkoop"],
-    relatedSituations: ["verkopen-zonder-makelaar", "huis-verkopen-bij-scheiding"],
+    relatedSituations: ["verkopen-zonder-makelaar", "huis-verkopen-bij-scheiding", "huis-snel-verkopen"],
     faqs: [
       {
         question: "Hoe snel kan ik mijn woning verkopen aan een opkoper?",
@@ -3471,7 +3471,7 @@ export const articles: Article[] = [
         body: "Een bewinddossier vraagt precies wat een klassieke verkoop met bezoekdagen en onzekere kandidaten moeilijk kan garanderen: een schriftelijk bod, een zekere koper en een voorspelbare timing. Een directe verkoop aan wijkopenpanden.be sluit daar goed op aan.\n\nU ontvangt een **gratis en vrijblijvend bod**: reactie binnen 2 uur, ook in het weekend, en een plaatsbezoek doorgaans binnen 48 uur. Het bod is **schriftelijk en gemotiveerd** — een stuk dat u samen met het schattingsverslag bij het verzoekschrift kunt voegen, zodat de vrederechter concreet kan toetsen. Er is **geen financieringsvoorbehoud**: de aankoop gebeurt uit eigen middelen, waardoor de gemachtigde verkoop niet alsnog kan afspringen op een geweigerd krediet. De woning wordt in haar **huidige staat** gekocht — ook als ze jaren bewoond werd door iemand die er niet meer in kon investeren — en er is geen makelaarscommissie. Na akkoord en machtiging volgt de akte doorgaans binnen 2 à 3 maanden.\n\nBent u bewindvoerder of bereidt u als familielid een bewinddossier voor? Vraag vrijblijvend een bod aan; u beslist daarna in alle rust, en uiteindelijk beslist de vrederechter mee. Zo hoort het ook.",
       },
     ],
-    relatedArticles: ["erfenis-woning-stappenplan", "compromis-verkoop-woning-belgie", "notariskosten-woning-verkoop", "mede-eigendom-verkopen", "wat-is-een-vastgoedopkoper", "hoelang-duurt-huis-verkopen-belgie", "woning-verkopen-met-minderjarige-eigenaar"],
+    relatedArticles: ["erfenis-woning-stappenplan", "compromis-verkoop-woning-belgie", "notariskosten-woning-verkoop", "mede-eigendom-verkopen", "wat-is-een-vastgoedopkoper", "hoelang-duurt-huis-verkopen-belgie", "woning-verkopen-met-minderjarige-eigenaar", "pand-laten-schatten-schattingsverslag"],
     relatedSituations: ["huis-verkopen-bij-erfenis", "verkopen-zonder-makelaar"],
     faqs: [
       {
@@ -4224,8 +4224,8 @@ export const articles: Article[] = [
         body: "Wie niet wil of kan investeren, hoeft het pand niet eerst conform te maken om te verkopen. Naast de klassieke verkoop via een makelaar bestaat de rechtstreekse verkoop aan een **professionele vastgoedkoper** die panden in de huidige staat aankoopt, ook verhuurd en niet-conform.\n\nDe klassieke markt voor een niet-conform of ongeschikt verklaard huurpand is beperkt: veel particuliere kopers zoeken een instapklare of zelfbewoonbare woning en krijgen een pand met gebreken en een zittende huurder moeilijk gefinancierd. Daardoor kan de verkoop aanslepen terwijl kosten zoals de eventuele heffing, verzekering en beheer doorlopen.\n\n**Wijkopenpanden.be** koopt panden in de regio Antwerpen aan in de huidige staat, ook wanneer ze verhuurd zijn, geen conformiteitsattest hebben of ongeschikt zijn verklaard. U ontvangt binnen 2 uur een reactie op uw aanvraag en na een plaatsbezoek een schriftelijk bod. U betaalt geen commissie, de verplichte attesten en de coördinatie met de notaris zijn inbegrepen, en de akte volgt doorgaans binnen 2 tot 3 maanden. Vergelijk dat bod met de kostprijs van een volledige renovatie plus de huurwaarde nadien, zodat u met volledige informatie kiest tussen renoveren en verkopen.",
       },
     ],
-    relatedArticles: ["ongeschikt-onbewoonbaar-verklaarde-woning-verkopen", "huurder-rechten-bij-verkoop-woning", "energie-renovatieplicht-vlaanderen-2026", "pand-in-slechte-staat-verkopen", "keuringen-bij-verkoop-woning", "hoe-snel-verkopen-en-geld-ontvangen"],
-    relatedSituations: ["pand-met-huurders-verkopen", "opknappand-verkopen"],
+    relatedArticles: ["ongeschikt-onbewoonbaar-verklaarde-woning-verkopen", "huurder-rechten-bij-verkoop-woning", "energie-renovatieplicht-vlaanderen-2026", "pand-in-slechte-staat-verkopen", "keuringen-bij-verkoop-woning", "hoe-snel-verkopen-en-geld-ontvangen", "opbrengsteigendom-verkopen"],
+    relatedSituations: ["pand-met-huurders-verkopen", "opknappand-verkopen", "pand-snel-verkopen"],
     faqs: [
       {
         question: "Mag ik een verhuurde woning verkopen zonder conformiteitsattest?",
@@ -4702,7 +4702,7 @@ export const articles: Article[] = [
       },
     ],
     relatedArticles: ["huurder-rechten-bij-verkoop-woning", "verhuurd-pand-verkopen-conformiteitsattest-woningkwaliteit", "verhuren-of-verkopen-antwerpen", "woning-staat-al-maanden-te-koop", "verborgen-gebreken-woning-verkoop-belgie", "keuringen-attesten-bij-directe-verkoop"],
-    relatedSituations: ["pand-met-huurders-verkopen"],
+    relatedSituations: ["pand-met-huurders-verkopen", "pand-snel-verkopen"],
     faqs: [
       {
         question: "Mag ik mijn handelspand verkopen zonder toestemming van mijn handelshuurder?",
@@ -5172,8 +5172,8 @@ export const articles: Article[] = [
         body: "Soms is de eenvoudigste oplossing de beste: geen constructie, geen discussie achteraf. U verkoopt het pand gewoon aan een derde tegen een correcte prijs, en wat u uw kinderen wil geven, geeft u openlijk en gelijk verdeeld, in geld. Dan is er geen tekortschatting, geen herkwalificatie, geen inkorting en geen ruzie op de begrafenis.\n\n**wijkopenpanden.be** koopt panden in de **regio Antwerpen** aan in de **huidige staat**. U hoeft niet te renoveren, niet op te ruimen en niet te wachten op een kandidaat met een lening. Op uw aanvraag krijgt u **binnen 2 uur een reactie**. Na een **plaatsbezoek** ontvangt u een **schriftelijk bod**. U betaalt **geen commissie**, en de **verplichte attesten en de coördinatie met de notaris zijn inbegrepen**. De **akte** verlijdt doorgaans **binnen 2 tot 3 maanden**, zodat u snel weet waar u aan toe bent.\n\nOns bod is geen verplichting. Leg het naast wat de klassieke route u zou opleveren, na aftrek van commissie, attesten, renovatiekosten en de maanden die het duurt, en beslis dan met volledige informatie welke weg voor uw familie de juiste is.",
       },
     ],
-    relatedArticles: ["schenking-woning-vlaanderen", "wat-is-mijn-woning-waard-antwerpen", "erfbelasting-vlaanderen-2026", "belastingen-bij-woningverkoop", "notariskosten-woning-verkoop", "erfenis-woning-stappenplan"],
-    relatedSituations: ["huis-verkopen-bij-erfenis", "verkopen-zonder-makelaar"],
+    relatedArticles: ["schenking-woning-vlaanderen", "wat-is-mijn-woning-waard-antwerpen", "erfbelasting-vlaanderen-2026", "belastingen-bij-woningverkoop", "notariskosten-woning-verkoop", "erfenis-woning-stappenplan", "pand-laten-schatten-schattingsverslag"],
+    relatedSituations: ["huis-verkopen-bij-erfenis", "verkopen-zonder-makelaar", "schatting-pand"],
     faqs: [
       {
         question: "Mag ik mijn woning onder de marktprijs aan mijn kind verkopen?",
@@ -6926,6 +6926,272 @@ export const articles: Article[] = [
       {
         question: "Koopt wijkopenpanden.be een stilgevallen bouwwerf?",
         answer: "Ja. Wij kopen panden in de regio Antwerpen in de huidige staat, ook een casco pand of een werf die stilligt. U hoeft niet eerst af te werken of keuringen te laten uitvoeren. Wij lossen geen juridische problemen op: een vervallen vergunning blijft vervallen en een bouwovertreding blijft bestaan. Die realiteit verrekenen wij transparant in het bod, met uitleg over hoe wij tot dat bedrag komen.",
+      },
+    ],
+  },
+  {
+    slug: "opbrengsteigendom-verkopen",
+    title: "Een opbrengsteigendom verkopen: waarde, huurders en fiscaliteit",
+    metaTitle: "Opbrengsteigendom verkopen: waarde, huurders, fiscus",
+    metaDescription:
+      "Een opbrengsteigendom verkopen? Hoe het rendement de prijs bepaalt, wat er met de huurcontracten gebeurt en welke attesten en belastingen meespelen.",
+    publishedAt: "2026-07-29",
+    updatedAt: "2026-07-29",
+    intro:
+      "Ja, u kunt een opbrengsteigendom verkopen terwijl de huurders erin blijven wonen — u hoeft niemand te vragen te vertrekken en u heeft hun toestemming niet nodig. De lopende huurovereenkomsten gaan bij de eigendomsoverdracht mee over op de koper. Wat een opbrengsteigendom wél anders maakt dan een gewone woningverkoop, is de prijszetting: de koper rekent met rendement, niet met woongenot. Daarnaast heeft elke wooneenheid haar eigen attesten en conformiteitsvereisten, en spelen er fiscale regels die bij een eigen gezinswoning niet meespelen. Hieronder zetten we alles op een rij.",
+    sections: [
+      {
+        heading: "Wat een opbrengsteigendom anders maakt bij een verkoop",
+        body: "Een opbrengsteigendom — ook opbrengstpand, rendementspand of meergezinswoning genoemd — is een gebouw met meerdere verhuurbare eenheden dat u aanhoudt voor de huurinkomsten. Dat verandert drie dingen fundamenteel ten opzichte van de verkoop van een gezinswoning.\n\n**De kopersgroep is kleiner en rekent anders.** Een gezinswoning spreekt iedereen aan die er wil wonen. Een opbrengstpand spreekt investeerders aan, en die vertrekken van een rekensom: huurinkomsten tegenover prijs, gecorrigeerd voor risico. Emotie speelt nauwelijks mee, onzekerheid des te meer.\n\n**De koper betaalt een hoger verkooprecht.** Wie een pand koopt dat niet zijn enige eigen woning wordt, betaalt in Vlaanderen het algemene tarief van het verkooprecht en niet het verlaagde tarief dat geldt voor de enige eigen woning. Dat verschil zit mee in het bod dat een investeerder u doet.\n\n**Alles bestaat in meervoud.** Meerdere huurcontracten, meerdere EPC's, meerdere elektrische keuringen, meerdere huurwaarborgen en soms meerdere conformiteitsattesten. Elk ontbrekend stuk is een reden voor een koper om af te prijzen.",
+        table: {
+          headers: ["Aspect", "Gezinswoning", "Opbrengsteigendom"],
+          rows: [
+            ["Kopersgroep", "Breed: gezinnen, starters, doorstromers", "Smal: investeerders en opkopers"],
+            ["Prijslogica", "Vergelijkbare panden in de buurt", "Rendement op de huurinkomsten"],
+            ["Verkooprecht voor de koper", "Verlaagd tarief bij enige eigen woning", "Algemeen tarief"],
+            ["Attesten", "Eén set", "Eén set per wooneenheid"],
+            ["Bezichtigingen", "Vrij te plannen", "Afhankelijk van de medewerking van huurders"],
+          ],
+        },
+      },
+      {
+        heading: "Hoe de waarde van een opbrengsteigendom wordt berekend",
+        body: "Bij een opbrengstpand is de vergelijkende methode — kijken naar recent verkochte, gelijkaardige panden — slechts de helft van het verhaal. De andere helft is de rendementsberekening.\n\n**Bruto huurrendement** is de jaarlijkse huurinkomst gedeeld door de aankoopprijs, maal honderd. Het is snel te berekenen en daarom populair in advertenties, maar het houdt met niets rekening.\n\n**Netto huurrendement** trekt eerst de werkelijke kosten van de huurinkomsten af: onroerende voorheffing, verzekering, onderhoud en herstellingen, beheer, kosten van de gemene delen die niet doorgerekend worden, en een realistische leegstandsmarge. Dat cijfer ligt merkbaar lager, en het is het cijfer waarmee een ernstige koper rekent.\n\nEen investeerder redeneert vervolgens omgekeerd: hij bepaalt welk netto rendement hij minimaal wil halen voor dit type pand op deze locatie, en leidt daaruit af wat hij maximaal kan betalen. Hoe onzekerder het dossier, hoe hoger het rendement dat hij eist — en hoe lager zijn bod.\n\nWat het rendement in uw dossier drukt of optrekt:\n\n• Marktconforme huurprijzen tegenover huurprijzen die jaren niet zijn aangepast\n• Geregistreerde contracten met correcte indexering tegenover mondelinge afspraken\n• Betalingsgedrag en eventuele achterstallen\n• De staat van dak, gevel, schrijnwerk en gemene delen\n• Het EPC-label per eenheid en de renovatieverplichting die eraan hangt\n• De conformiteit van elke wooneenheid en de vergunningstoestand van de opdeling",
+        table: {
+          headers: ["Berekening", "Formule", "Rekenvoorbeeld"],
+          rows: [
+            ["Bruto rendement", "Jaarhuur / prijs × 100", "3 units × 800 €/mnd = 28.800 € op 450.000 € = 6,4%"],
+            ["Kosten per jaar", "OV, verzekering, onderhoud, beheer, leegstand", "Bijvoorbeeld 7.500 € samen"],
+            ["Netto rendement", "(Jaarhuur − kosten) / prijs × 100", "(28.800 − 7.500) / 450.000 = 4,7%"],
+            ["Prijs bij een geëist rendement van 5%", "(Jaarhuur − kosten) / 0,05", "21.300 / 0,05 = 426.000 €"],
+          ],
+        },
+      },
+      {
+        heading: "In blok verkopen of per eenheid opsplitsen?",
+        body: "Een terugkerende vraag: levert het meer op om de appartementen apart te verkopen dan het pand in zijn geheel? Per eenheid ligt de prijs per vierkante meter doorgaans hoger, want dan spreekt u wél de brede kopersgroep aan. Maar de weg ernaartoe is lang, duur en niet altijd mogelijk.\n\nOm eenheden apart te kunnen verkopen, moet het gebouw juridisch gesplitst zijn in privatieve delen en gemene delen. Dat vraagt een **basisakte** met een reglement van mede-eigendom, opgemaakt door een notaris, meestal samen met een landmeter-expert die de kavels en de aandelen in de gemene delen vastlegt. Vanaf dat moment ontstaat er een vereniging van mede-eigenaars met een syndicus, een rekening en een algemene vergadering.\n\nEven belangrijk is de stedenbouwkundige kant. Het **opdelen van een woning in meerdere woongelegenheden is in Vlaanderen vergunningsplichtig**: het gaat om een functiewijziging waarvoor het vrijstellingsbesluit geen uitzondering maakt. Of een opdeling kan, hangt af van de zonering, het ruimtelijk uitvoeringsplan en de gemeentelijke verordeningen — sommige gemeenten beperken meergezinswoningen bewust in bepaalde straten of wijken. Vraag dit vóór alles na bij uw gemeente.\n\nEen valkuil die vaak pas bij de verkoop opduikt: panden die in het verleden informeel werden opgedeeld zonder vergunning. Dat is een bouwovertreding die de koper erft, en die het dossier bij elke bank en elke notaris zwaarder maakt. Vraag een stedenbouwkundig uittreksel op en leg dat naast de werkelijke toestand vóór u te koop zet.",
+        table: {
+          headers: ["", "In blok verkopen", "Per eenheid verkopen"],
+          rows: [
+            ["Opbrengst", "Lager per m²", "Hoger per m², maar niet zeker"],
+            ["Voorbereiding", "Geen splitsing nodig", "Basisakte, landmeter, mogelijk vergunning"],
+            ["Doorlooptijd", "Kortst", "Aanzienlijk langer, unit per unit"],
+            ["Huurders", "Blijven zitten, contracten gaan mee over", "Elke bezette unit blijft moeilijk verkoopbaar"],
+            ["Risico", "Beperkt", "Kosten vooraf, resultaat onzeker"],
+          ],
+        },
+      },
+      {
+        heading: "De huurders: wat er bij de verkoop met de contracten gebeurt",
+        body: "Dit is het punt waarover de meeste misverstanden bestaan, en het is eenvoudiger dan verkopers vrezen.\n\n**De koper treedt in uw rechten en plichten.** Onder het Vlaams Woninghuurdecreet moet de verkrijger van een verhuurde woning de lopende huurovereenkomst respecteren. De verkoop op zich is geen opzeggingsgrond, en een clausule die bepaalt dat de huur eindigt bij verkoop is zonder gevolg. De nieuwe eigenaar kan enkel opzeggen op dezelfde gronden en met dezelfde termijnen als u dat had gekund — bijvoorbeeld voor eigen bewoning of voor grondige werken, telkens onder de decretale voorwaarden.\n\n**Toestemming van de huurder is niet vereist.** U moet uw huurders niet om akkoord vragen om te verkopen. Wel is het correct en praktisch om hen te informeren, en na de akte moeten zij weten aan wie zij voortaan betalen.\n\n**Een gewone woninghuurder heeft geen recht van voorkoop.** Dat is een hardnekkig misverstand. Decretale voorkooprechten kunnen wel spelen op basis van de ligging van het pand — de notaris raadpleegt daarvoor het e-voorkooprechtenregister. Een landbouwpachter heeft wél een voorkooprecht, een woninghuurder niet.\n\n**Registratie is uw verplichting, en een niet-geregistreerd contract is een risico.** De verhuurder moet de huurovereenkomst laten registreren, kosteloos, binnen de wettelijke termijn. Gebeurde dat niet, dan kan een huurder van een korteduurovereenkomst die woning in principe verlaten zonder opzegtermijn en zonder vergoeding. Voor een koper die op stabiele huurinkomsten rekent, is dat een reden om af te prijzen. Controleer dus vóór de verkoop of al uw contracten geregistreerd zijn.\n\nVerder overhandigt u bij de verkoop best meteen: alle huurovereenkomsten met hun bijlagen, de plaatsbeschrijvingen, de bewijzen van de huurwaarborgen en hun huidige plaats, het overzicht van de indexeringen en de betalingshistoriek.",
+        table: {
+          headers: ["Vraag", "Antwoord"],
+          rows: [
+            ["Moet de huurder akkoord gaan met de verkoop?", "Neen"],
+            ["Gaat het huurcontract mee over op de koper?", "Ja, van rechtswege"],
+            ["Is verkoop een opzeggingsgrond?", "Neen"],
+            ["Heeft een woninghuurder een recht van voorkoop?", "Neen; een landbouwpachter wel"],
+            ["Wie moet het contract registreren?", "De verhuurder, kosteloos"],
+            ["Gaan achterstallige huurgelden mee over?", "Neen, die blijven uw vordering, tenzij anders bedongen"],
+          ],
+        },
+      },
+      {
+        heading: "Attesten en conformiteit: alles per wooneenheid",
+        body: "Bij een meergezinspand vermenigvuldigt de attestenlijst zich, en dat is meteen de post waar verkopers het meest op onderschatten.\n\n• **EPC**: in principe per wooneenheid. Voor de gemene delen van een appartementsgebouw bestaat daarnaast het EPC van de gemeenschappelijke delen.\n• **Elektrische keuring**: per aansluiting, dus mogelijk vier keuringen in een pand met vier units, plus een attest voor de gemeenschappelijke installatie. Een niet-conform verslag verhindert de verkoop niet: de koper neemt de installatie over en beschikt over een wettelijke termijn om te regulariseren, met een meldingsplicht aan het erkende organisme.\n• **Asbestattest**: verplicht bij verkoop van constructies met bouwjaar vóór 2001. Voor de gemene delen van gebouwen in mede-eigendom geldt een eigen regeling en tijdspad.\n• **Rookmelders**: sinds 2020 verplicht in elke woning in Vlaanderen, dus in elke eenheid.\n• **Conformiteitsattest**: Vlaanderen voert dit gefaseerd in als verplichting voor huurwoningen, met een tijdspad dat afhangt van het bouwjaar, en heel wat gemeenten hebben daarbovenop een eigen reglement. Vraag de actuele stand van zaken na bij uw gemeente — dit is precies het soort verplichting dat lokaal verschilt.\n• **Renovatieverplichting**: bij de overdracht van een residentieel gebouw met een zwak energielabel geldt in Vlaanderen een verplichting om binnen een bepaalde termijn na de akte te renoveren tot een minimumlabel. Bij een meergezinspand speelt die logica per eenheid en weegt ze zwaar door in het bod van een investeerder.\n• **Postinterventiedossier**: verplicht voor werken uitgevoerd sinds 1 mei 2001.\n\nOntbreekt een attest, dan blokkeert dat de verkoop niet altijd, maar het geeft de koper wel een argument. Wie zijn dossier compleet aanlevert, onderhandelt sterker.",
+        table: {
+          headers: ["Attest", "Per wat?", "Aandachtspunt"],
+          rows: [
+            ["EPC", "Per wooneenheid", "Plus EPC gemene delen bij appartementsgebouwen"],
+            ["Elektrische keuring", "Per aansluiting", "Niet-conform mag; koper regulariseert binnen de wettelijke termijn"],
+            ["Asbestattest", "Per gebouw, bouwjaar vóór 2001", "Eigen regeling voor gemene delen"],
+            ["Rookmelders", "Per wooneenheid", "Verplicht in elke Vlaamse woning sinds 2020"],
+            ["Conformiteitsattest", "Per huurwoning", "Gefaseerde invoering; gemeentelijke reglementen verschillen"],
+            ["Postinterventiedossier", "Per gebouw", "Voor werken sinds 1 mei 2001"],
+          ],
+        },
+      },
+      {
+        heading: "Fiscaliteit bij de verkoop van een opbrengsteigendom",
+        body: "Een opbrengstpand is per definitie niet uw eigen gezinswoning, en dat maakt het fiscale plaatje anders.\n\n**Meerwaardebelasting.** Verkoopt u een gebouwd onroerend goed dat niet uw eigen woning is binnen vijf jaar na de aankoopakte, dan is er in principe meerwaardebelasting verschuldigd tegen 16,5%, te verhogen met de gemeentebelasting. Voor onbebouwde gronden geldt een strenger regime: 33% bij verkoop binnen vijf jaar en 16,5% tussen vijf en acht jaar. De termijn loopt van de datum van uw aankoopakte tot de datum van het compromis. Erfde u het pand, dan start de termijn bij het overlijden; kreeg u het geschonken, dan bij de schenkingsakte.\n\n**Herhaalde aan- en verkopen.** Overschrijdt uw activiteit het normale beheer van een privévermogen — bijvoorbeeld door een reeks aankopen en snelle doorverkopen — dan kan de administratie de winst belasten als divers inkomen. Dat is een feitelijke beoordeling; laat ze inschatten voor u een patroon opbouwt.\n\n**Onroerende voorheffing.** De belastingplichtige is de eigenaar op 1 januari, die de volledige jaaraanslag ontvangt. Er is geen wettelijke proratering bij een verkoop: de verrekening tussen verkoper en koper is zuiver contractueel en wordt in de compromis geregeld. Vergeet dat beding niet — bij een opbrengstpand gaat het al snel over een aanzienlijk bedrag.\n\n**Huurinkomsten in de personenbelasting.** Verhuurt u aan particulieren voor privégebruik, dan wordt u belast op het geïndexeerde kadastraal inkomen verhoogd met een forfait, niet op de werkelijke huur. Verhuurt u aan iemand die het pand beroepsmatig gebruikt, dan geldt een ander en doorgaans zwaarder regime. Tot de akte blijft die aangifteplicht bij u.",
+        table: {
+          headers: ["Situatie", "Regel", "Aandachtspunt"],
+          rows: [
+            ["Gebouw verkocht binnen 5 jaar", "16,5% op de meerwaarde + gemeentebelasting", "Termijn loopt tot de datum van het compromis"],
+            ["Grond verkocht binnen 5 jaar", "33% op de meerwaarde", "16,5% tussen 5 en 8 jaar"],
+            ["Gebouw verkocht na 5 jaar", "In principe geen meerwaardebelasting", "Tenzij buiten normaal beheer privévermogen"],
+            ["Onroerende voorheffing", "Eigenaar op 1 januari betaalt het volledige jaar", "Verrekening enkel als de compromis dat bepaalt"],
+          ],
+        },
+      },
+      {
+        heading: "Verkopen op de markt of rechtstreeks aan een opkoper",
+        body: "Op de klassieke markt haalt een goed onderhouden, volledig verhuurd pand met marktconforme huurprijzen en een compleet dossier doorgaans de beste prijs. Neem daarvoor de tijd: verzamel de contracten, breng de attesten in orde en laat de vergunningstoestand van de opdeling nakijken.\n\nDe rekening kantelt wanneer een of meer van deze elementen spelen:\n\n1. Er zijn achterstallen, conflicten of een huurder die niet meewerkt aan bezichtigingen.\n2. De opdeling van het pand is nooit vergund, of de werkelijke toestand wijkt af van de plannen.\n3. Meerdere eenheden hebben een zwak energielabel en de renovatieverplichting weegt op elk bod.\n4. Het pand komt uit een nalatenschap of een verdeling en meerdere eigenaars willen afronden.\n5. U wilt zekerheid over de timing en geen kandidaat die afhaakt op zijn kredietdossier.\n\nWij kopen opbrengsteigendommen in de regio **Antwerpen** rechtstreeks aan, met huurders of leeg, in de staat waarin ze zich bevinden. Wij vragen geen bezichtigingen in bewoonde eenheden, geen keuringen vooraf en geen werken. Wij kopen met **eigen middelen**, dus zonder opschortende voorwaarde van financiering.\n\nEen eerlijke nuance: ons bod ligt onder de topprijs die een particuliere investeerder op een goede dag voor een vlekkeloos dossier neerlegt. Wat wij daar tegenover zetten, is zekerheid, snelheid en het feit dat wij de rommelige dossiers ook kopen. Wij lossen geen juridische problemen op — een bouwovertreding blijft bestaan — maar wij verrekenen ze transparant en leggen uit hoe wij tot ons bedrag komen.\n\nOnze werkwijze: reactie doorgaans binnen 2 uur, een plaatsbezoek en een schriftelijk vrijblijvend bod, en bij akkoord een akte binnen doorgaans 2 à 3 maanden.",
+      },
+    ],
+    relatedArticles: [
+      "verhuurd-pand-verkopen-conformiteitsattest-woningkwaliteit",
+      "huurder-rechten-bij-verkoop-woning",
+      "meerwaardebelasting-tweede-verblijf-belgie",
+      "verhuren-of-verkopen-antwerpen",
+      "onroerende-voorheffing-verrekenen-bij-verkoop",
+      "energie-renovatieplicht-vlaanderen-2026",
+    ],
+    relatedSituations: [
+      "opbrengsteigendom-verkopen-antwerpen",
+      "pand-met-huurders-verkopen",
+      "pand-snel-verkopen",
+    ],
+    faqs: [
+      {
+        question: "Kan ik een opbrengsteigendom verkopen met huurders erin?",
+        answer:
+          "Ja. U heeft de toestemming van de huurders niet nodig en u hoeft niemand te vragen te vertrekken. De lopende huurovereenkomsten gaan bij de eigendomsoverdracht van rechtswege over op de koper, die in uw rechten en plichten treedt. De verkoop zelf is geen opzeggingsgrond, en een clausule die de huur laat eindigen bij verkoop blijft zonder gevolg.",
+      },
+      {
+        question: "Hoe bereken ik wat mijn opbrengstpand waard is?",
+        answer:
+          "Vertrek van de jaarlijkse huurinkomsten en trek daar de werkelijke kosten van af: onroerende voorheffing, verzekering, onderhoud, beheer, niet-doorgerekende gemene lasten en een leegstandsmarge. Deel dat nettobedrag door het rendement dat een investeerder voor dit type pand op deze locatie verwacht. Dat geeft een richtprijs. Corrigeer daarna voor de staat van het gebouw, de conformiteit per eenheid en de vergunningstoestand van de opdeling.",
+      },
+      {
+        question: "Levert het meer op om de appartementen apart te verkopen?",
+        answer:
+          "Per eenheid ligt de prijs per vierkante meter doorgaans hoger, maar er staat veel tegenover. U heeft een basisakte nodig, opgemaakt door een notaris en meestal samen met een landmeter-expert, er ontstaat een vereniging van mede-eigenaars, en het opdelen van een woning in meerdere woongelegenheden is in Vlaanderen vergunningsplichtig. Bovendien blijft elke bezette eenheid moeilijk apart verkoopbaar. Reken de kosten en de doorlooptijd door voor u eraan begint.",
+      },
+      {
+        question: "Heeft mijn huurder een recht van voorkoop als ik verkoop?",
+        answer:
+          "Een gewone woninghuurder in Vlaanderen heeft geen recht van voorkoop. Dat is een hardnekkig misverstand. Er kunnen wel decretale voorkooprechten spelen op basis van de ligging van het pand; de notaris raadpleegt daarvoor het e-voorkooprechtenregister. Een landbouwpachter heeft wel een voorkooprecht.",
+      },
+      {
+        question: "Wat als een huurcontract nooit geregistreerd is?",
+        answer:
+          "Registratie is de verplichting van de verhuurder en is kosteloos. Is een korteduurovereenkomst niet geregistreerd, dan kan de huurder de woning in principe verlaten zonder opzegtermijn en zonder vergoeding. Voor een koper die op stabiele huurinkomsten rekent, is dat een reden om af te prijzen. Laat ontbrekende registraties dus in orde brengen vóór u te koop zet.",
+      },
+      {
+        question: "Betaal ik meerwaardebelasting op de verkoop van mijn opbrengstpand?",
+        answer:
+          "Als u een gebouwd onroerend goed dat niet uw eigen woning is verkoopt binnen vijf jaar na de aankoopakte, is er in principe 16,5% meerwaardebelasting verschuldigd, te verhogen met de gemeentebelasting. Voor onbebouwde gronden is dat 33% binnen vijf jaar en 16,5% tussen vijf en acht jaar. De termijn loopt tot de datum van het compromis. Laat de berekening maken door uw notaris of een fiscalist.",
+      },
+    ],
+  },
+  {
+    slug: "pand-laten-schatten-schattingsverslag",
+    title: "Uw pand laten schatten: soorten schattingen, kosten en wanneer een officieel verslag nodig is",
+    metaTitle: "Pand laten schatten: soorten, kosten en verslag",
+    metaDescription:
+      "Uw pand laten schatten? Het verschil tussen een online tool, een makelaar, een erkende schatter-expert en de bindende schatting van de fiscus.",
+    publishedAt: "2026-07-29",
+    updatedAt: "2026-07-29",
+    intro:
+      "Een pand laten schatten kan vier verschillende dingen betekenen, en ze zijn niet uitwisselbaar. Voor een verkoopbeslissing volstaat een goede waardebepaling; voor een aangifte van nalatenschap, een verdeling of een dossier bij de vrederechter heeft u een gemotiveerd verslag nodig dat standhoudt tegenover de fiscus of een rechtbank. Dit artikel zet de vier vormen naast elkaar, met hun kostprijs, hun juridische waarde en de termijnen waarop u moet letten — plus het verschil tussen een geschatte waarde en een bedrag dat iemand ook effectief betaalt.",
+    sections: [
+      {
+        heading: "Vier vormen van schatting, vier verschillende doelen",
+        body: "**De automatische online schatting** rekent met gemiddelde prijzen per vierkante meter in uw straat of statistische sector. Ze kent uw dakstaat, vochtproblemen, indeling of EPC-label niet. Gratis, onmiddellijk, en bruikbaar als eerste orde van grootte — niet meer.\n\n**De waardebepaling door een vastgoedmakelaar** vertrekt van recent verkochte, vergelijkbare panden in dezelfde buurt en corrigeert voor oppervlakte, staat en ligging. De makelaar kent de lokale markt en dat is waardevol. Hou wel voor ogen dat een gratis waardebepaling doorgaans deel uitmaakt van een commercieel gesprek over een verkoopopdracht, en dat een vraagprijs iets anders is dan een verkoopprijs.\n\n**Het schattingsverslag van een erkende schatter-expert** is een onafhankelijk, gemotiveerd document met een beschrijving van het goed, de gehanteerde methode, de vergelijkingspunten en de conclusie. Dit is wat u nodig heeft zodra er een derde meekijkt: de fiscus, een notaris, een vrederechter of een tegenpartij.\n\n**De bindende schatting door de Vlaamse Belastingdienst** bestaat specifiek voor de aangifte van nalatenschap. Ze is kosteloos en bindt de administratie.\n\nDaarnaast bestaat er nog de **schatting in opdracht van een bank** bij een kredietaanvraag. Die dient om de waarborg van de bank te beoordelen, valt vaak voorzichtig uit en is niet bedoeld als marktwaarde voor u.",
+        table: {
+          headers: ["Vorm", "Kostprijs", "Juridische waarde"],
+          rows: [
+            ["Online schattingstool", "Gratis", "Geen"],
+            ["Waardebepaling door een makelaar", "Meestal gratis", "Geen; commercieel kader"],
+            ["Verslag erkende schatter-expert", "Betalend", "Sterk; bindend voor de erfbelasting mits voorwaarden"],
+            ["Bindende schatting Vlaamse Belastingdienst", "Kosteloos", "Bindt de administratie"],
+            ["Schatting in opdracht van een bank", "Vaak in de dossierkosten", "Enkel intern voor de bank"],
+          ],
+        },
+      },
+      {
+        heading: "De drie methodes waarmee een schatter werkt",
+        body: "Een degelijk verslag zegt altijd welke methode is gebruikt en waarom.\n\n**De vergelijkende methode** is de standaard voor woningen en appartementen. De schatter zoekt recent verkochte, vergelijkbare panden in dezelfde buurt en corrigeert voor de verschillen: oppervlakte, bouwjaar, staat, ligging, tuin, energieprestatie. Hoe meer bruikbare vergelijkingspunten, hoe betrouwbaarder het resultaat.\n\n**De rendementsmethode** wordt gebruikt voor panden die inkomsten genereren: opbrengsteigendommen, handelspanden, garageboxen. De schatter vertrekt van de netto huurinkomsten en kapitaliseert die tegen het rendement dat de markt voor dat type pand verwacht.\n\n**De kostprijs- of residuele methode** komt in beeld bij bouwgronden, sloop- en projectpanden. De schatter berekent wat het eindresultaat kan opbrengen en trekt daar de bouw- of renovatiekosten, de vergunningskosten, de financieringskosten en een marge van af. Wat overblijft, is wat het perceel of het pand vandaag waard is.\n\nEen goede schatter combineert methodes en legt uit waarom hij aan de ene meer gewicht geeft dan aan de andere. Een verslag dat enkel een bedrag noemt zonder onderbouwing, is voor een fiscus of een rechtbank weinig waard.",
+      },
+      {
+        heading: "Wanneer u een officieel schattingsverslag nodig heeft",
+        body: "In deze situaties volstaat een online tool of een mondelinge inschatting niet:\n\n• **Aangifte van nalatenschap.** De waarde van het onroerend goed op de dag van het overlijden bepaalt de erfbelasting.\n• **Verdeling na echtscheiding of uit onverdeeldheid.** Een uitkoop vraagt een waarde waar beide partijen zich in kunnen vinden.\n• **Verkoop waarbij een minderjarige of een beschermde persoon betrokken is.** De vrederechter beoordeelt of de verkoop in het belang van de betrokkene gebeurt en wil daarvoor een onderbouwde waarde zien.\n• **Bewind over goederen.** De bewindvoerder moet zijn beheer kunnen verantwoorden.\n• **Schenking of verkoop binnen de familie.** Verkoopt u aanzienlijk onder de werkelijke waarde, dan kan de fiscus dat als een tekortschatting of zelfs als een vermomde schenking behandelen.\n• **Inbreng in een vennootschap of een overdracht tussen verbonden partijen.**\n• **Betwisting voor de rechtbank of met een verzekeraar.**\n\nIn elk van die gevallen is de kern dezelfde: er is een derde die de opgegeven waarde kan aanvechten. Een gemotiveerd verslag van een onafhankelijke expert is dan geen luxe maar de goedkoopste vorm van zekerheid.",
+        table: {
+          headers: ["Situatie", "Wie kijkt mee?", "Wat u nodig heeft"],
+          rows: [
+            ["Aangifte van nalatenschap", "Vlaamse Belastingdienst", "Erkend schatter-expert of bindende schatting"],
+            ["Verdeling na scheiding", "Notaris, tegenpartij", "Onafhankelijk verslag"],
+            ["Minderjarige of beschermde persoon", "Vrederechter", "Onderbouwd verslag bij het verzoekschrift"],
+            ["Verkoop aan een familielid", "Fiscus", "Verslag dat de prijs verantwoordt"],
+            ["Gewone verkoopbeslissing", "Niemand", "Waardebepaling of een concreet bod volstaat"],
+          ],
+        },
+      },
+      {
+        heading: "De aangifte van nalatenschap: drie wegen en één harde termijn",
+        body: "Voor een overlijden in België moet de aangifte van nalatenschap in de regel binnen **vier maanden** worden ingediend; voor een overlijden elders in de Europese Economische Ruimte of daarbuiten gelden langere termijnen. U heeft drie mogelijkheden om het onroerend goed te waarderen.\n\n**1. Zelf schatten.** Toegelaten, maar u draagt het risico. Blijkt de aangegeven waarde te laag, dan kan de Vlaamse Belastingdienst aanvullende erfbelasting vestigen, met een belastingverhoging wanneer het tekort een bepaalde omvang bereikt. De administratie stuurt haar kennisgeving van dat voornemen binnen een termijn van twee jaar na de indiening van de aangifte. Verkoopt u het pand kort na de aangifte merkelijk duurder, dan is dat voor de fiscus een duidelijk signaal.\n\n**2. Een erkende schatter-expert inschakelen.** De Vlaamse Belastingdienst publiceert een lijst van erkende schatters-experten. Hun verslag is **bindend voor de administratie** wanneer drie voorwaarden samen vervuld zijn: de schatter staat op die lijst, het verslag is gemotiveerd en voldoet aan de vorm- en kwaliteitsvereisten, en het wordt bij de aangifte gevoegd.\n\n**3. Een bindende schatting vragen aan de Vlaamse Belastingdienst.** Deze weg is kosteloos. De administratie stelt zelf een bindend schattingsverslag op, en verkoopt u het pand later duurder, dan heeft dat geen gevolgen voor uw erfbelasting. Bent u het niet eens met de waardering, dan kunt u daartegen bezwaar indienen binnen de voorziene termijn.\n\nDe belangrijkste waarschuwing geldt voor beide officiële wegen: **noch het verzoek aan de Vlaamse Belastingdienst, noch het inschakelen van een expert verlengt of schorst de aangiftetermijn.** Wie in de derde maand begint te zoeken, komt in de knel. Zet deze stap onmiddellijk na het overlijden op de lijst.",
+        table: {
+          headers: ["Weg", "Kostprijs", "Risico of voordeel"],
+          rows: [
+            ["Zelf schatten", "Gratis", "Aanvullende rechten en verhoging bij tekortschatting"],
+            ["Erkende schatter-expert", "Betalend", "Bindend mits voorwaarden vervuld en bij de aangifte gevoegd"],
+            ["Bindende schatting Vlaamse Belastingdienst", "Kosteloos", "Bindt de administratie; bezwaar mogelijk"],
+            ["Termijn aangifte (overlijden in België)", "—", "In de regel 4 maanden, wordt niet verlengd"],
+          ],
+        },
+      },
+      {
+        heading: "Wat een schatting kost en wat u ervoor terugkrijgt",
+        body: "Erelonen voor schattingen zijn vrij en niet gereglementeerd, dus vraag altijd vooraf een prijs. De grootteorde in Vlaanderen ligt voor een gewone woning of een appartement doorgaans in de orde van enkele honderden euro's. Complexere dossiers — een meergezinspand, een handelspand, een pand met een vergunningsprobleem of een betwisting — liggen hoger.\n\nVraag bij het maken van de afspraak minstens dit na:\n\n1. Komt de schatter **ter plaatse**? Een bureauschatting zonder plaatsbezoek is minder waard en wordt bij betwisting sneller aangevochten.\n2. Staat hij op de **lijst van erkende schatters-experten** van de Vlaamse Belastingdienst, als u het verslag voor een aangifte van nalatenschap nodig heeft?\n3. Welke **methode** gebruikt hij en op welke vergelijkingspunten steunt hij zich?\n4. Wat is de **doorlooptijd** tot u het verslag in handen heeft?\n5. Is hij **onafhankelijk**, of hangt er een verkoopopdracht aan vast?\n\nZet die kost tegenover wat er op het spel staat. Bij een aangifte van nalatenschap gaat een waardeverschil van enkele tienduizenden euro's rechtstreeks in de erfbelasting zitten. Het verslag verdient zichzelf dan snel terug.",
+      },
+      {
+        heading: "Kadastraal inkomen, venale waarde en verkoopprijs zijn geen synoniemen",
+        body: "Drie begrippen die in gesprekken vaak door elkaar lopen, terwijl ze niets met elkaar te maken hebben.\n\nHet **kadastraal inkomen** is een fictief netto-huurinkomen dat teruggaat op de referentieperiode van 1 januari 1975 en dat jaarlijks wordt geïndexeerd. Het dient als grondslag voor de onroerende voorheffing en voor uw aangifte in de personenbelasting. Het zegt niets over wat uw pand vandaag waard is, en een verkoop wijzigt het niet.\n\nDe **venale waarde** — ook verkoopwaarde genoemd — is de prijs die het goed bij een normale verkoop op de vrije markt zou opbrengen tussen een gewillige koper en een gewillige verkoper, zonder dwang en met voldoende publiciteit. Dit is het begrip dat de fiscus hanteert bij een aangifte van nalatenschap.\n\nDe **werkelijke verkoopprijs** is wat er uiteindelijk in de akte staat. Die kan afwijken van de venale waarde: door tijdsdruk, door de staat van het pand, door de beperkte kopersgroep of gewoon omdat er die maand weinig kandidaten waren.\n\nEen vierde begrip om te kennen is de **gedwongen verkoopwaarde**: de prijs bij een verkoop onder druk, bijvoorbeeld bij een openbare verkoop na beslag. Die ligt structureel lager dan de venale waarde. Verwar de twee niet wanneer een dossier over schulden gaat.",
+        table: {
+          headers: ["Begrip", "Wat het is", "Waarvoor het dient"],
+          rows: [
+            ["Kadastraal inkomen", "Fictief huurinkomen, basis 1975, geïndexeerd", "Onroerende voorheffing en personenbelasting"],
+            ["Venale waarde", "Prijs bij normale verkoop op de vrije markt", "Erfbelasting, schenkbelasting, verdelingen"],
+            ["Verkoopprijs", "Het bedrag in de akte", "De werkelijke transactie"],
+            ["Gedwongen verkoopwaarde", "Prijs bij verkoop onder druk", "Beslag, openbare verkoop, bankdossiers"],
+          ],
+        },
+      },
+      {
+        heading: "Van geschatte waarde naar een bedrag dat u effectief krijgt",
+        body: "Een schatting is een onderbouwde mening over de waarde. Een bod is een bedrag dat iemand bereid is te betalen. Het verschil tussen beide zit in wat de koper daarna nog moet dragen: renovatie, ontbrekende attesten, leegstand, een niet-conforme installatie, een vergunningsprobleem, en de tijd waarin zijn geld vastzit.\n\nZet daarom bij een verkoopbeslissing altijd de netto-opbrengst naast elkaar, niet de bruto-cijfers. Bij een klassieke verkoop gaan er van de prijs nog af: de makelaarscommissie inclusief btw, de attesten, eventuele opknapwerken, de doorhaling van een hypotheek, en de lasten die doorlopen zolang het pand niet verkocht is.\n\nWij geven daarom **geen schattingsverslag maar een concreet bod**. Dat bod is gratis en vrijblijvend, komt op papier en vermeldt de posten waaruit het is opgebouwd: de waarde na renovatie, de werken die wij moeten uitvoeren, de attesten, de aankoopkosten en de marge die het risico dekt. U kunt het naast een schatting of een waardebepaling leggen en zelf de rekening maken.\n\nWat wij niet doen, is een officieel verslag afleveren. Heeft u een document nodig voor de Vlaamse Belastingdienst, een notaris of een vrederechter, dan moet u bij een erkende schatter-expert zijn. Dat is een andere rol, en wij nemen ze niet over.\n\nOnze werkwijze: reactie doorgaans binnen 2 uur, een plaatsbezoek in de regio **Antwerpen**, een schriftelijk en vrijblijvend bod, en bij akkoord een akte binnen doorgaans 2 à 3 maanden.",
+      },
+    ],
+    relatedArticles: [
+      "wat-is-mijn-woning-waard-antwerpen",
+      "erfbelasting-vlaanderen-2026",
+      "kadastraal-inkomen-en-woningverkoop",
+      "woning-verkopen-aan-familielid",
+      "erfenis-woning-stappenplan",
+      "woning-verkopen-onder-bewind",
+    ],
+    relatedSituations: ["schatting-pand", "huis-verkopen-bij-erfenis", "vastgoedopkoper-antwerpen"],
+    faqs: [
+      {
+        question: "Wat kost het om een pand te laten schatten?",
+        answer:
+          "Erelonen zijn vrij en niet gereglementeerd, dus vraag vooraf een prijs. Voor een gewone woning of een appartement ligt de grootteorde in Vlaanderen doorgaans bij enkele honderden euro's; complexere panden liggen hoger. Een online schatting is gratis maar heeft geen juridische waarde, en de bindende schatting door de Vlaamse Belastingdienst voor een aangifte van nalatenschap is kosteloos.",
+      },
+      {
+        question: "Is het verslag van een erkende schatter-expert bindend voor de fiscus?",
+        answer:
+          "Voor de aangifte van nalatenschap in Vlaanderen wel, wanneer drie voorwaarden samen vervuld zijn: de schatter staat op de lijst van erkende schatters-experten van de Vlaamse Belastingdienst, het verslag is gemotiveerd en voldoet aan de vorm- en kwaliteitsvereisten, en het wordt bij de aangifte gevoegd. Zijn die voorwaarden vervuld, dan aanvaardt de administratie de opgegeven waarde.",
+      },
+      {
+        question: "Wat gebeurt er als ik een woning te laag schat in een aangifte van nalatenschap?",
+        answer:
+          "Dan kan de Vlaamse Belastingdienst aanvullende erfbelasting vestigen, met een belastingverhoging wanneer het tekort een bepaalde omvang bereikt. De administratie stuurt haar kennisgeving van dat voornemen binnen een termijn van twee jaar na de indiening van de aangifte. Een verkoop kort na de aangifte tegen een merkelijk hogere prijs is voor de fiscus een duidelijk signaal.",
+      },
+      {
+        question: "Verlengt een schatting de termijn om de aangifte van nalatenschap in te dienen?",
+        answer:
+          "Neen. Noch het verzoek om een bindende schatting bij de Vlaamse Belastingdienst, noch het inschakelen van een erkende schatter-expert verlengt of schorst de aangiftetermijn. Voor een overlijden in België bedraagt die in de regel vier maanden. Zet deze stap dus onmiddellijk na het overlijden in gang.",
+      },
+      {
+        question: "Is de schatting van mijn bank hetzelfde als de marktwaarde?",
+        answer:
+          "Neen. Een schatting in opdracht van een bank dient om de waarborg voor het krediet te beoordelen. Zo'n schatting valt vaak voorzichtig uit en is niet bedoeld als marktwaarde voor u als verkoper. Gebruik ze niet als basis voor een aangifte, een verdeling of een verkoopbeslissing.",
+      },
+      {
+        question: "Geeft wijkopenpanden.be een schatting van mijn pand?",
+        answer:
+          "Wij geven geen schattingsverslag maar een concreet en vrijblijvend bod, op papier en met de posten benoemd waaruit het is opgebouwd. Heeft u een officieel verslag nodig voor de Vlaamse Belastingdienst, een notaris of een vrederechter, dan verwijzen wij u door naar een erkende schatter-expert. Die rol nemen wij niet over.",
       },
     ],
   },
