@@ -182,7 +182,7 @@ export const articles: Article[] = [
         body: "Een opkoper biedt u minder dan de theoretische marktwaarde, maar de bijkomende kosten en wachttijd bij een klassieke verkoop verkleinen het verschil aanzienlijk. Bij een woning in mindere staat, erfenis of tijdsdruk kan een rechtstreekse verkoop zelfs financieel gelijkwaardig of voordeliger uitkomen.\n\nDe keuze hangt niet alleen van de prijs af, maar ook van uw persoonlijke situatie: heeft u tijd, of heeft u zekerheid en snelheid nodig?",
       },
     ],
-    relatedArticles: ["commissie-makelaar-belgie", "notariskosten-woning-verkoop", "keuringen-bij-verkoop-woning", "kadastraal-inkomen-en-woningverkoop"],
+    relatedArticles: ["commissie-makelaar-belgie", "notariskosten-woning-verkoop", "keuringen-bij-verkoop-woning", "kadastraal-inkomen-en-woningverkoop", "woning-verkopen-met-btw-nieuwbouw"],
     relatedSituations: ["verkopen-zonder-makelaar"],
     faqs: [
       {
@@ -348,7 +348,7 @@ export const articles: Article[] = [
         body: "Juridisch gezien is de verkoop definitief op het moment dat het compromis wordt ondertekend. De notariële akte is de formele bekrachtiging en de eigendomsoverdracht, maar de verbintenis tot koop/verkoop bestaat al vanaf het compromis.\n\nIn de praktijk wordt soms een ontbindende voorwaarde opgenomen (bijv. 'onder voorbehoud van het verkrijgen van een hypothecair krediet'). Als de koper zijn lening niet krijgt, kan hij zonder financiële gevolgen afzien van de aankoop.",
       },
     ],
-    relatedArticles: ["notariskosten-woning-verkoop", "erfenis-woning-stappenplan", "recht-van-voorkoop-bij-verkoop-woning", "verkoop-annuleren-na-compromis-koop-is-koop", "koper-krijgt-lening-niet-rond-opschortende-voorwaarde", "koper-tekent-de-akte-niet-of-betaalt-niet"],
+    relatedArticles: ["notariskosten-woning-verkoop", "erfenis-woning-stappenplan", "recht-van-voorkoop-bij-verkoop-woning", "verkoop-annuleren-na-compromis-koop-is-koop", "koper-krijgt-lening-niet-rond-opschortende-voorwaarde", "koper-tekent-de-akte-niet-of-betaalt-niet", "verkopen-onder-voorwaarde-nieuwe-woning"],
     relatedSituations: ["huis-verkopen-bij-scheiding"],
     faqs: [
       {
@@ -400,7 +400,7 @@ export const articles: Article[] = [
         body: "Koper en verkoper mogen elk hun eigen notaris kiezen. Ze delen dan het ereloon. Dit kost u als verkoper niets extra maar biedt u een vertrouwenspersoon die uw belangen bewaakt bij de opmaak van de akte. Bij complexe situaties (erfenis, echtscheiding, meerdere eigenaars) is een eigen notaris aan te raden.",
       },
     ],
-    relatedArticles: ["verkoopbelofte-compromis-akte", "verkoop-kosten-berekenen", "belastingschulden-bij-verkoop-notariele-notificatie", "woning-verkopen-met-hypothecair-mandaat"],
+    relatedArticles: ["verkoopbelofte-compromis-akte", "verkoop-kosten-berekenen", "belastingschulden-bij-verkoop-notariele-notificatie", "woning-verkopen-met-hypothecair-mandaat", "woning-verkopen-met-btw-nieuwbouw"],
     relatedSituations: ["huis-verkopen-bij-erfenis", "huis-verkopen-bij-scheiding"],
     faqs: [
       {
@@ -512,7 +512,7 @@ export const articles: Article[] = [
         body: "Bij wijkopenpanden.be is 'blijven wonen' een standaardoptie die wij aanbieden aan verkopers die dit wensen. Wij bespreken samen welke formule het beste past bij uw situatie en regelen de juridische uitwerking met onze notaris. Vraag vrijblijvend een bod aan en vermeld dat u wilt blijven wonen.",
       },
     ],
-    relatedArticles: ["lijfrente-uitgelegd", "verkoop-kosten-berekenen"],
+    relatedArticles: ["lijfrente-uitgelegd", "verkoop-kosten-berekenen", "verkopen-onder-voorwaarde-nieuwe-woning"],
     relatedSituations: ["blijven-wonen"],
     faqs: [
       {
@@ -635,7 +635,7 @@ export const articles: Article[] = [
         },
       },
     ],
-    relatedArticles: ["notariskosten-woning-verkoop", "verkoop-kosten-berekenen", "erfenis-woning-stappenplan", "kadastraal-inkomen-en-woningverkoop", "onroerende-voorheffing-verrekenen-bij-verkoop", "woonbonus-en-fiscaal-voordeel-bij-verkoop-woning"],
+    relatedArticles: ["notariskosten-woning-verkoop", "verkoop-kosten-berekenen", "erfenis-woning-stappenplan", "kadastraal-inkomen-en-woningverkoop", "onroerende-voorheffing-verrekenen-bij-verkoop", "woonbonus-en-fiscaal-voordeel-bij-verkoop-woning", "pand-uit-vennootschap-verkopen", "woning-verkopen-met-btw-nieuwbouw"],
     relatedSituations: ["huis-verkopen-bij-erfenis", "huis-verkopen-bij-scheiding"],
     faqs: [
       {
@@ -1986,7 +1986,7 @@ export const articles: Article[] = [
         body: "Bij de verkoop aan een vastgoedopkoper zoals wijkopenpanden.be verloopt het compromis sneller en eenvoudiger dan bij een klassieke verkoop:\n\n• Geen financieringsvoorwaarde: wijkopenpanden.be koopt cash — u heeft geen risico dat de verkoop na weken wordt geannuleerd omdat de koper geen lening krijgt\n• Snellere timing: het compromis kan binnen enkele dagen na het bod worden getekend\n• Eenvoudigere clausules: er zijn geen complexe voorwaarden, geen makelaarsclausules en geen lange onderhandelingen\n• Zekerheid: zodra u het compromis tekent, is de verkoop definitief\n\nDit maakt de verkoop via opkoper bijzonder aantrekkelijk voor eigenaars die zekerheid willen over de timing en het definitieve karakter van de transactie.",
       },
     ],
-    relatedArticles: ["hoelang-duurt-huis-verkopen-belgie", "commissie-makelaar-belgie", "huis-verkopen-met-hypotheek", "onroerende-voorheffing-verrekenen-bij-verkoop", "recht-van-voorkoop-bij-verkoop-woning", "koper-krijgt-lening-niet-rond-opschortende-voorwaarde", "verkoop-annuleren-na-compromis-koop-is-koop", "koper-tekent-de-akte-niet-of-betaalt-niet"],
+    relatedArticles: ["hoelang-duurt-huis-verkopen-belgie", "commissie-makelaar-belgie", "huis-verkopen-met-hypotheek", "onroerende-voorheffing-verrekenen-bij-verkoop", "recht-van-voorkoop-bij-verkoop-woning", "koper-krijgt-lening-niet-rond-opschortende-voorwaarde", "verkoop-annuleren-na-compromis-koop-is-koop", "koper-tekent-de-akte-niet-of-betaalt-niet", "verkopen-onder-voorwaarde-nieuwe-woning"],
     relatedSituations: ["huis-verkopen-bij-scheiding", "huis-verkopen-bij-erfenis", "verkopen-zonder-makelaar"],
     faqs: [
       {
@@ -2277,7 +2277,7 @@ export const articles: Article[] = [
         body: "Als particulier bent u vrijgesteld van meerwaardebelasting bij de verkoop van onroerend goed in de volgende gevallen:\n\n• Verkoop van uw eigen woning (hoofdverblijfplaats) — altijd vrijgesteld\n• Verkoop van een gebouw meer dan 5 jaar na de aankoopakte\n• Verkoop van een grond meer dan 8 jaar na de aankoopakte\n• Als de gerealiseerde meerwaarde nihil of negatief is (verlies)\n• Als de belastingdienst de transactie beschouwt als normaal beheer van uw privévermogen\n\nDe vrijstellingsduur begint te lopen op de dag van de aankoopakte — niet op de dag van het compromis of de betaling.",
       },
     ],
-    relatedArticles: ["belastingen-bij-woningverkoop", "notariskosten-woning-verkoop", "verhuren-of-verkopen-antwerpen", "opbrengsteigendom-verkopen"],
+    relatedArticles: ["belastingen-bij-woningverkoop", "notariskosten-woning-verkoop", "verhuren-of-verkopen-antwerpen", "opbrengsteigendom-verkopen", "pand-uit-vennootschap-verkopen"],
     relatedSituations: ["huis-verkopen-bij-erfenis", "verkopen-zonder-makelaar", "pand-snel-verkopen"],
     faqs: [
       {
@@ -3727,7 +3727,7 @@ export const articles: Article[] = [
         body: "Wie binnen 5 jaar na aankoop moet verkopen, doet dat zelden uit luxe. Bij een scheiding, jobverlies of onverwachte verhuis draait alles om één vraag: **wat blijft er netto over, en wanneer?** De belastingregels hierboven liggen vast — daar valt weinig aan te optimaliseren behalve de timing. Wat u wél in de hand hebt, zijn de transactiekosten en de doorlooptijd.\n\nEen directe verkoop aan wijkopenpanden.be maakt die rekensom een stuk voorspelbaarder. Er is **geen makelaarscommissie**, u ontvangt een **schriftelijk gemotiveerd bod** en kent dus meteen het exacte nettobedrag — handig om naast uw openstaand kredietsaldo en de eventuele belasting te leggen. We reageren binnen 2 uur, ook in het weekend, komen doorgaans binnen 48 uur langs en kopen het pand in de huidige staat, met betaling uit eigen middelen. De akte volgt doorgaans 2 tot 3 maanden na akkoord — wat bij een verkoop binnen de 2 jaar ook telt om de teruggavetermijn van het verkooprecht te halen.\n\nHet bod is gratis en vrijblijvend. Vergelijken met een klassiek verkooptraject kan dus altijd — u beslist pas als alle cijfers op tafel liggen.",
       },
     ],
-    relatedArticles: ["meerwaardebelasting-tweede-verblijf-belgie", "belastingen-bij-woningverkoop", "huis-verkopen-met-hypotheek", "verkoop-kosten-berekenen", "notariskosten-woning-verkoop", "keuringen-bij-verkoop-woning"],
+    relatedArticles: ["meerwaardebelasting-tweede-verblijf-belgie", "belastingen-bij-woningverkoop", "huis-verkopen-met-hypotheek", "verkoop-kosten-berekenen", "notariskosten-woning-verkoop", "keuringen-bij-verkoop-woning", "woning-verkopen-met-btw-nieuwbouw"],
     relatedSituations: ["huis-verkopen-bij-scheiding", "huis-verkopen-bij-erfenis"],
     faqs: [
       {
@@ -3980,7 +3980,7 @@ export const articles: Article[] = [
         body: "Een overbruggingskrediet koopt tijd, maar tegen een reële prijs en met een open einde. Bekijk daarom altijd de alternatieven:\n\n• **Verkopen met een langere aktetermijn.** U verkoopt eerst en spreekt met de koper een ruimere periode tussen compromis en akte af, zodat u tijd heeft om te kopen en te verhuizen.\n• **Tijdelijk huren.** U verkoopt eerst, huurt kort tussenin en koopt daarna zonder tijdsdruk. Dubbele verhuis, maar geen krediet- of prijsrisico.\n• **Eerst zekerheid, dan kopen.** U laat een professionele koper een bindend bod op uw woning uitbrengen vóór u de nieuwe aankoop tekent. Dan weet u exact met welk budget u kunt kopen.\n\nDie laatste route is precies wat een directe verkoop aan wijkopenpanden.be mogelijk maakt. De grootste onzekerheid bij eerst kopen is immers niet de rentevoet, maar de **verkooptermijn** van uw huidige woning. Een vast, schriftelijk gemotiveerd bod neemt die onzekerheid weg: u kent de prijs, wij kopen in de huidige staat en betalen uit eigen middelen, zonder financieringsvoorbehoud en zonder makelaarscommissie. De akte volgt doorgaans 2 tot 3 maanden na akkoord en **u kiest de aktedatum mee** — zodat die aansluit op uw nieuwe aankoop. Een overbruggingskrediet wordt zo veel korter, of zelfs overbodig.\n\nEen bod aanvragen is gratis en vrijblijvend: u krijgt een reactie binnen 2 uur, ook in het weekend, en een bezoek volgt doorgaans binnen 48 uur. Zo rekent u niet op een schatting, maar op een cijfer dat vaststaat — en beheerst u zelf de timing tussen kopen en verkopen.",
       },
     ],
-    relatedArticles: ["huis-verkopen-met-hypotheek", "hoelang-duurt-huis-verkopen-belgie", "verkoop-kosten-berekenen", "bod-aanvragen-vrijblijvend-bindend", "compromis-verkoop-woning-belgie", "wanneer-beste-moment-woning-verkopen", "woonbonus-en-fiscaal-voordeel-bij-verkoop-woning"],
+    relatedArticles: ["huis-verkopen-met-hypotheek", "hoelang-duurt-huis-verkopen-belgie", "verkoop-kosten-berekenen", "bod-aanvragen-vrijblijvend-bindend", "compromis-verkoop-woning-belgie", "wanneer-beste-moment-woning-verkopen", "woonbonus-en-fiscaal-voordeel-bij-verkoop-woning", "verkopen-onder-voorwaarde-nieuwe-woning"],
     relatedSituations: ["verkopen-zonder-makelaar", "opknappand-verkopen"],
     faqs: [
       {
@@ -4880,7 +4880,7 @@ export const articles: Article[] = [
         body: "Wie met belastingschulden zit, heeft vaak vooral behoefte aan **zekerheid en snelheid**: weten wat er van de opbrengst overblijft, en weten wanneer. Een klassieke verkoop kan lang duren, vraagt vaak eerst nog opknapwerk, en de uiteindelijke prijs staat pas vast wanneer een koper zijn financiering rond krijgt. In die tussentijd blijven intresten en verhogingen lopen.\n\nEen rechtstreekse verkoop aan een professionele koper is dan een alternatief dat het overwegen waard is. **Wijkopenpanden.be** koopt panden in de **regio Antwerpen** aan in de **huidige staat**. U krijgt **binnen 2 uur een reactie** op uw aanvraag. Na een **plaatsbezoek** volgt een **schriftelijk bod**. U betaalt **geen commissie**, en de **verplichte attesten en de coördinatie met de notaris zijn inbegrepen**. De akte wordt **doorgaans binnen 2 tot 3 maanden** verleden.\n\nOok bij een verkoop aan ons verloopt de fiscale notificatie exact zoals hierboven beschreven: de notaris verwittigt de administratie, houdt het genotificeerde bedrag in en stort het door. U hoeft dus niets vooraf te regelen met de fiscus; u hoeft het alleen niet te verzwijgen.\n\nVergelijk ons bod gerust met wat de klassieke route u zou opleveren, kosten en doorlooptijd meegerekend. Zo kiest u met volledige informatie.",
       },
     ],
-    relatedArticles: ["huis-verkopen-bij-betalingsproblemen-schulden", "notariskosten-woning-verkoop", "huis-verkopen-met-hypotheek", "verkoop-kosten-berekenen", "belastingen-bij-woningverkoop", "snel-geld-vrijmaken-woning", "woning-verkopen-in-collectieve-schuldenregeling"],
+    relatedArticles: ["huis-verkopen-bij-betalingsproblemen-schulden", "notariskosten-woning-verkoop", "huis-verkopen-met-hypotheek", "verkoop-kosten-berekenen", "belastingen-bij-woningverkoop", "snel-geld-vrijmaken-woning", "woning-verkopen-in-collectieve-schuldenregeling", "pand-uit-vennootschap-verkopen"],
     relatedSituations: ["verkopen-zonder-makelaar", "opknappand-verkopen"],
     faqs: [
       {
@@ -5081,7 +5081,7 @@ export const articles: Article[] = [
         body: "Bent u curator en zoekt u een vlotte, onderbouwde onderhandse piste voor een pand in de regio Antwerpen? Of bent u eigenaar of mede-eigenaar en wilt u een pand correct en snel te gelde maken vóór de situatie verder ontspoort? Dan kan een verkoop **in de huidige staat** aan een professionele koper een piste zijn om naast de klassieke route te leggen.\n\nWij, wijkopenpanden.be, kopen panden in de **regio Antwerpen** aan in de **huidige staat**. Concreet:\n\n• U krijgt **binnen 2 uur een reactie** op uw aanvraag.\n• Na een **plaatsbezoek** ontvangt u een **schriftelijk bod**.\n• Er is **geen commissie**.\n• De **verplichte attesten en de coördinatie met de notaris** zijn inbegrepen.\n• De **akte volgt doorgaans binnen 2 tot 3 maanden**.\n\nWij kopen ook op wanneer een pand verouderd, leeg of in slechte staat is, en we werken mee aan de formaliteiten die een curator of een rechtbank oplegt — een machtiging, een minimumprijs, het horen van hypothecaire schuldeisers. Wat wij niet doen, is meestappen in een constructie die schuldeisers benadeelt: onze biedingen zijn schriftelijk en navolgbaar, precies zodat ze een toetsing achteraf kunnen doorstaan.\n\nEen schriftelijk bod verplicht u tot niets. U kunt het rustig naast de opbrengstverwachting van een openbare verkoop of een klassieke verkoop via een makelaar leggen — inclusief de kosten, de doorlooptijd en het risico op een lager bod op de zitdag. Zo kiest u met volledige informatie. Hoe zo'n traject qua timing en uitbetaling verloopt, leest u in ons artikel over **hoe snel u kunt verkopen en wanneer u het geld ontvangt**.",
       },
     ],
-    relatedArticles: ["huis-verkopen-bij-betalingsproblemen-schulden", "woning-verkopen-via-biddit", "snel-geld-vrijmaken-woning", "hoe-snel-verkopen-en-geld-ontvangen", "mede-eigenaar-wil-niet-verkopen-uit-onverdeeldheid", "huis-verkopen-met-hypotheek"],
+    relatedArticles: ["huis-verkopen-bij-betalingsproblemen-schulden", "woning-verkopen-via-biddit", "snel-geld-vrijmaken-woning", "hoe-snel-verkopen-en-geld-ontvangen", "mede-eigenaar-wil-niet-verkopen-uit-onverdeeldheid", "huis-verkopen-met-hypotheek", "pand-uit-vennootschap-verkopen"],
     relatedSituations: ["verkopen-zonder-makelaar", "opknappand-verkopen"],
     faqs: [
       {
@@ -5475,7 +5475,7 @@ export const articles: Article[] = [
         body: "Twijfelt u om te verkopen omdat uw woning een hoog, verouderd of net herzien KI heeft? Bij wijkopenpanden.be kopen wij woningen in de regio **Antwerpen** rechtstreeks aan, in de **huidige staat**. U hoeft niets te renoveren en het KI vormt voor ons geen bezwaar.\n\nOnze werkwijze is eenvoudig. Na uw aanvraag reageren wij doorgaans **binnen 2 uur**. Na een plaatsbezoek ontvangt u een **schriftelijk bod**, zonder **commissie**. Wij coördineren de nodige attesten en de afspraken met de notaris, zodat u zich daar geen zorgen over hoeft te maken. De **akte** verloopt doorgaans binnen 2 à 3 maanden, op een timing die voor u past.\n\nZo verkoopt u zonder makelaarskosten en zonder de rompslomp van keuringen. Meer achtergrond over verkopen zonder tussenpersoon vindt u bij onze pagina's over het verkopen zonder makelaar en het verkopen van een opknappand."
       }
     ],
-    relatedArticles: ["belastingen-bij-woningverkoop", "onroerende-voorheffing-verrekenen-bij-verkoop", "verkoop-kosten-berekenen", "wat-is-mijn-woning-waard-antwerpen", "energie-renovatieplicht-vlaanderen-2026"],
+    relatedArticles: ["belastingen-bij-woningverkoop", "onroerende-voorheffing-verrekenen-bij-verkoop", "verkoop-kosten-berekenen", "wat-is-mijn-woning-waard-antwerpen", "energie-renovatieplicht-vlaanderen-2026", "woning-verkopen-met-btw-nieuwbouw"],
     relatedSituations: ["opknappand-verkopen", "verkopen-zonder-makelaar"],
     faqs: [
       {
@@ -6260,7 +6260,7 @@ export const articles: Article[] = [
         body: "Wij kopen woningen in de regio Antwerpen rechtstreeks op, **in de huidige staat** en met **eigen middelen**. Dat laatste is de kern van het verschil: omdat wij niet afhankelijk zijn van een bank, hebben wij **geen financieringsvoorbehoud** nodig. Er staat dus geen opschortende voorwaarde van financiering in onze overeenkomst die de verkoop weken kan blokkeren of alsnog kan laten afspringen. Voor u betekent dat meer zekerheid en minder wachttijd.\n\nConcreet werken wij zo:\n\n• U krijgt doorgaans **binnen 2 uur** een reactie op uw aanvraag.\n• Na een plaatsbezoek ontvangt u een **schriftelijk, vrijblijvend bod**.\n• Er is **geen makelaarscommissie** en geen financieringsvoorbehoud.\n• De akte verloopt doorgaans **binnen 2 à 3 maanden**, of sneller in overleg.\n\nWij zijn eerlijk over wat wij wél en niet wegnemen. Een directe verkoop schrapt het risico dat de koper zijn lening niet rondkrijgt, want dat risico bestaat bij ons niet. Andere aspecten — zoals de prijs die u op de open markt zou kunnen halen — blijven een afweging die u zelf maakt. Vergelijk gerust ons bod met een klassieke verkoop en beslis daarna.",
       },
     ],
-    relatedArticles: ["compromis-verkoop-woning-belgie", "verkoopbelofte-compromis-akte", "bod-aanvragen-vrijblijvend-bindend", "hoe-snel-verkopen-en-geld-ontvangen", "hoelang-duurt-huis-verkopen-belgie", "betrouwbaar-verkopen-aan-opkoper", "koper-tekent-de-akte-niet-of-betaalt-niet"],
+    relatedArticles: ["compromis-verkoop-woning-belgie", "verkoopbelofte-compromis-akte", "bod-aanvragen-vrijblijvend-bindend", "hoe-snel-verkopen-en-geld-ontvangen", "hoelang-duurt-huis-verkopen-belgie", "betrouwbaar-verkopen-aan-opkoper", "koper-tekent-de-akte-niet-of-betaalt-niet", "verkopen-onder-voorwaarde-nieuwe-woning"],
     relatedSituations: ["verkopen-zonder-makelaar"],
     faqs: [
       {
@@ -6367,7 +6367,7 @@ export const articles: Article[] = [
         body: "Wij kopen woningen in de regio Antwerpen rechtstreeks op, **in de huidige staat**. U hoeft niets op te knappen, leeg te maken of te laten keuren vóór de verkoop.\n\nWat u van ons mag verwachten:\n\n• **Geen makelaarscommissie** — wij zijn de koper, geen tussenpersoon.\n• **Eigen middelen, dus geen financieringsvoorbehoud** — onze aankoop hangt niet af van een bank die alsnog kan afhaken.\n• Reactie op uw vraag **doorgaans binnen 2 uur**.\n• Na een plaatsbezoek een **schriftelijk, vrijblijvend bod**: u beslist zelf of u erop ingaat, zonder verplichting.\n• Bij akkoord verloopt het verder via het compromis en de notaris, met de akte **doorgaans binnen 2 à 3 maanden**.\n\nEén ding blijven wij eerlijk over: ook bij ons geldt na ondertekening van het compromis dat koop koop is. Wij nemen die onzekerheid dus niet weg — wat wij wél doen, is u vóór de handtekening een duidelijk en vrijblijvend bod geven, zodat u met volledige informatie kan beslissen. Twijfelt u over uw juridische positie in een lopende verkoop, raadpleeg dan altijd eerst uw notaris of een advocaat.",
       },
     ],
-    relatedArticles: ["compromis-verkoop-woning-belgie", "verkoopbelofte-compromis-akte", "bod-aanvragen-vrijblijvend-bindend", "verborgen-gebreken-woning-verkoop-belgie", "betrouwbaar-verkopen-aan-opkoper", "koper-tekent-de-akte-niet-of-betaalt-niet"],
+    relatedArticles: ["compromis-verkoop-woning-belgie", "verkoopbelofte-compromis-akte", "bod-aanvragen-vrijblijvend-bindend", "verborgen-gebreken-woning-verkoop-belgie", "betrouwbaar-verkopen-aan-opkoper", "koper-tekent-de-akte-niet-of-betaalt-niet", "verkopen-onder-voorwaarde-nieuwe-woning"],
     relatedSituations: ["verkopen-zonder-makelaar"],
     faqs: [
       {
@@ -6900,7 +6900,7 @@ export const articles: Article[] = [
         body: "Wij kopen woningen en panden in de regio **Antwerpen** rechtstreeks aan, **in de huidige staat** — ook een stilgevallen werf, een halfafgewerkte verbouwing of een casco pand. Wij vragen niet dat u eerst afwerkt, opruimt of keuringen laat uitvoeren.\n\nOmdat wij het pand kopen **zoals het is**, en u zich dus niet verbindt om nog iets af te werken, ontstaat er in principe **geen Wet Breyne-constructie**. Wij werken bovendien met **eigen middelen**, dus zonder financieringsvoorbehoud, en zonder makelaarscommissie.\n\nWees eerlijk geïnformeerd over de grenzen daarvan: **wij maken geen juridische problemen ongedaan**. Een vervallen omgevingsvergunning blijft vervallen en werken zonder vergunning blijven een bouwovertreding, ook na de verkoop. Die realiteit verrekenen wij transparant in het bod en wij leggen uit hoe wij tot dat bedrag komen — wij toveren ze niet weg.\n\nOnze werkwijze:\n\n• Reactie op uw aanvraag doorgaans binnen 2 uur.\n• Een plaatsbezoek waarbij wij de werf bekijken zoals ze is, gevolgd door een schriftelijk en vrijblijvend bod.\n• Bij akkoord verloopt het verlijden van de akte doorgaans binnen 2 à 3 maanden.\n\nZo weet u snel of afwerken dan wel verkopen voor u de betere rekening maakt — in plaats van jarenlang tussen beide te blijven hangen.",
       },
     ],
-    relatedArticles: ["pand-in-slechte-staat-verkopen", "stedenbouwkundige-overtreding-woning-verkopen", "postinterventiedossier-pid-verkoop-woning", "keuringen-bij-verkoop-woning", "energie-renovatieplicht-vlaanderen-2026", "huis-verkopen-na-brand-of-schade"],
+    relatedArticles: ["pand-in-slechte-staat-verkopen", "stedenbouwkundige-overtreding-woning-verkopen", "postinterventiedossier-pid-verkoop-woning", "keuringen-bij-verkoop-woning", "energie-renovatieplicht-vlaanderen-2026", "huis-verkopen-na-brand-of-schade", "woning-verkopen-met-btw-nieuwbouw"],
     relatedSituations: ["opknappand-verkopen"],
     faqs: [
       {
@@ -7036,6 +7036,7 @@ export const articles: Article[] = [
       "verhuren-of-verkopen-antwerpen",
       "onroerende-voorheffing-verrekenen-bij-verkoop",
       "energie-renovatieplicht-vlaanderen-2026",
+      "pand-uit-vennootschap-verkopen",
     ],
     relatedSituations: [
       "opbrengsteigendom-verkopen-antwerpen",
@@ -7192,6 +7193,385 @@ export const articles: Article[] = [
         question: "Geeft wijkopenpanden.be een schatting van mijn pand?",
         answer:
           "Wij geven geen schattingsverslag maar een concreet en vrijblijvend bod, op papier en met de posten benoemd waaruit het is opgebouwd. Heeft u een officieel verslag nodig voor de Vlaamse Belastingdienst, een notaris of een vrederechter, dan verwijzen wij u door naar een erkende schatter-expert. Die rol nemen wij niet over.",
+      },
+    ],
+  },
+  {
+    slug: "pand-uit-vennootschap-verkopen",
+    title: "Een pand uit uw vennootschap verkopen: de fiscale realiteit",
+    metaTitle: "Pand uit uw vennootschap verkopen: fiscaal stappenplan",
+    metaDescription:
+      "Verkoopt uw vennootschap een pand, dan is de meerwaarde belastbaar tegen het vennootschapstarief. Wat u kunt spreiden en wat een share deal nu kost.",
+    publishedAt: "2026-08-02",
+    updatedAt: "2026-08-02",
+    intro:
+      "Ja, uw vennootschap kan haar pand gewoon verkopen — maar de rekening ziet er helemaal anders uit dan bij een privéverkoop. Het verschil tussen de verkoopprijs en de boekwaarde is een belastbare meerwaarde, belast tegen het tarief van de vennootschapsbelasting: 25%, of 20% op de eerste 100.000 euro winst voor een kleine vennootschap die aan alle voorwaarden voldoet. Daarnaast spelen een mogelijke btw-herziening, de notificatie van de notaris aan de fiscus en de vraag hoe u het geld nadien uit de vennootschap haalt. En sinds 1 januari 2026 is het klassieke alternatief — de aandelen verkopen in plaats van het pand — niet langer belastingvrij.",
+    sections: [
+      {
+        heading: "Drie lagen belasting in plaats van één",
+        body: "Wie privé een woning verkoopt, betaalt in de regel geen belasting op de meerwaarde zodra de wettelijke termijnen verstreken zijn. Voor een vennootschap bestaat die vrijstelling niet. Elke meerwaarde op een onroerend goed is voor haar gewoon **winst van het boekjaar**.\n\nDaardoor krijgt u met drie afzonderlijke vragen te maken, die u best in deze volgorde beantwoordt:\n\n1. **Wat kost de meerwaarde in de vennootschapsbelasting?** Dat hangt af van de boekwaarde, niet van wat u ooit betaalde.\n2. **Moet er btw worden herzien?** Alleen relevant als de vennootschap bij de bouw of aankoop btw in aftrek heeft gebracht.\n3. **Hoe haalt u de opbrengst uit de vennootschap?** Een dividend, een bezoldiging of een latere vereffening kosten elk iets anders.\n\nDie derde vraag wordt het vaakst vergeten. Een verkoop die op vennootschapsniveau goed uitdraait, kan alsnog tegenvallen zodra u het geld privé wilt gebruiken. Reken dus altijd door tot op uw eigen rekening, niet tot op de rekening van de vennootschap.",
+        table: {
+          headers: ["Vraag", "Privéverkoop", "Verkoop door de vennootschap"],
+          rows: [
+            ["Meerwaarde belast?", "In de regel niet buiten de wettelijke termijnen", "Ja, altijd, als winst van het boekjaar"],
+            ["Tarief", "Geen, of 16,5% bij verkoop binnen 5 jaar", "25%, of 20% op de eerste 100.000 euro"],
+            ["Btw-herziening mogelijk?", "Zelden", "Ja, als er btw werd afgetrokken"],
+            ["Opbrengst meteen beschikbaar?", "Ja, op uw rekening", "Neen, staat op de vennootschapsrekening"],
+            ["Extra kost om er privé over te beschikken", "Geen", "Roerende voorheffing of vereffening"],
+          ],
+        },
+      },
+      {
+        heading: "De meerwaarde: boekwaarde, niet aankoopprijs",
+        body: "De belastbare meerwaarde is het verschil tussen de **netto-verkoopprijs** en de **boekwaarde** van het pand op het moment van de verkoop. Dat is een belangrijk verschil met de privésituatie, waar mensen spontaan met de aankoopprijs rekenen.\n\nDe boekwaarde is de aanschaffingswaarde min de afschrijvingen die al geboekt werden. Precies daar zit de pijn: hoe langer het gebouw is afgeschreven, hoe lager de boekwaarde en hoe hoger de meerwaarde. Een pand dat volledig is afgeschreven, levert bij verkoop een meerwaarde op die zowat gelijk is aan de volledige verkoopprijs.\n\nEen tweede nuance die vaak misloopt: **grond wordt niet afgeschreven**. Bij een gebouw met grond moet u de prijs correct opsplitsen, want alleen het gebouw draagt afschrijvingen. Een verkeerde opsplitsing bij aankoop wreekt zich jaren later bij de verkoop.\n\nHet tarief van de vennootschapsbelasting bedraagt **25%**. Kleine vennootschappen kunnen genieten van het **verlaagd tarief van 20% op de eerste 100.000 euro** belastbare winst, maar alleen als aan alle voorwaarden is voldaan. Een daarvan is de minimumbezoldiging aan een bedrijfsleider-natuurlijke persoon: die drempel is **vanaf aanslagjaar 2026 opgetrokken van 45.000 naar 50.000 euro** en wordt voortaan jaarlijks geïndexeerd. Startende vennootschappen jonger dan vier jaar moeten daar nog niet aan voldoen. Let op: een grote meerwaarde kan de winst zo ver opdrijven dat het verlaagd tarief maar op een klein stuk ervan speelt.",
+        table: {
+          headers: ["Element", "Bedrag (voorbeeld)"],
+          rows: [
+            ["Aanschaffingswaarde gebouw", "300.000 euro"],
+            ["Reeds geboekte afschrijvingen", "180.000 euro"],
+            ["Boekwaarde", "120.000 euro"],
+            ["Verkoopprijs gebouw", "400.000 euro"],
+            ["Belastbare meerwaarde", "280.000 euro"],
+          ],
+        },
+      },
+      {
+        heading: "Gespreide taxatie: de meerwaarde uitsmeren via artikel 47 WIB 92",
+        body: "U hoeft die meerwaarde niet noodzakelijk in één keer te laten belasten. **Artikel 47 van het Wetboek van de inkomstenbelastingen 1992** laat toe de belasting te spreiden over de afschrijvingsperiode van wat u met de opbrengst herbelegt. De belasting verdwijnt niet, maar ze wordt uitgesmeerd — wat op korte termijn een groot liquiditeitsverschil maakt.\n\nDe voorwaarden zijn strikt en cumulatief:\n\n• Het pand moet **minstens vijf jaar** de aard van vast actief hebben gehad in de vennootschap.\n• U moet de **volledige verkoopprijs** herbeleggen, niet alleen de meerwaarde. Dat is de voorwaarde die verkopers het vaakst onderschat.\n• De herbelegging gebeurt in **afschrijfbare vaste activa** die in de Europese Economische Ruimte worden gebruikt voor de beroepswerkzaamheid.\n• De herbeleggingstermijn bedraagt **drie jaar**, maar loopt op tot **vijf jaar** wanneer u herbelegt in een gebouwd onroerend goed, een vaartuig of een vliegtuig.\n\nEen valkuil die zelden op tijd wordt gezien: **grond komt niet in aanmerking als herbelegging**, precies omdat grond niet afschrijfbaar is. Koopt u met de opbrengst een nieuw pand met een grote grondcomponent, dan telt alleen het gebouwgedeelte mee en herbelegt u dus minder dan u denkt.\n\nHerbelegt u niet of niet tijdig, dan wordt de volledige meerwaarde alsnog belast als winst van het boekjaar waarin de termijn verstreek — met nalatigheidsinteresten erbovenop. Kies dus alleen voor gespreide taxatie als de herbelegging al concreet op tafel ligt, niet als vaag voornemen.",
+        table: {
+          headers: ["Voorwaarde", "Concreet"],
+          rows: [
+            ["Bezitstermijn", "Minstens 5 jaar vast actief in de vennootschap"],
+            ["Wat herbeleggen", "De volledige verkoopprijs, niet enkel de meerwaarde"],
+            ["Waarin", "Afschrijfbare vaste activa, gebruikt in de EER"],
+            ["Termijn algemeen", "3 jaar"],
+            ["Termijn bij gebouwd onroerend goed", "5 jaar"],
+            ["Grond als herbelegging", "Telt niet mee, want niet afschrijfbaar"],
+          ],
+        },
+      },
+      {
+        heading: "Btw: de herziening die verkopers verrast",
+        body: "Heeft uw vennootschap bij de bouw, de aankoop of een grondige verbouwing **btw in aftrek gebracht**, dan is die aftrek niet meteen definitief. Voor onroerende bedrijfsmiddelen loopt in België een **herzieningstermijn van vijftien jaar**. Wordt het pand binnen die termijn verkocht zonder btw — wat bij een ouder gebouw de regel is — dan moet een deel van de afgetrokken btw worden terugbetaald, naar verhouding van de jaren die nog resten.\n\nEen waarschuwing die u moet onthouden: **buitenlandse informatie klopt hier niet**. Nederlandse bronnen spreken over een herzieningstermijn van tien jaar. Dat is Nederlands recht en het is voor uw Belgische vennootschap onbruikbaar.\n\nEen langere termijn van **vijfentwintig jaar** geldt wanneer het gebouw wordt verhuurd onder het optionele btw-stelsel voor onroerende verhuur. Voor werken aan een gebouw geldt in principe een kortere termijn van vijf jaar, tenzij de werken zo ingrijpend zijn dat er voor de btw een nieuw gebouw ontstaat — dan valt u terug op vijftien jaar.\n\nDe herziening is geen detail. Op een pand waarvoor destijds 100.000 euro btw werd afgetrokken en dat na zes jaar zonder btw wordt verkocht, gaat het al snel over een terugbetaling in de orde van tienduizenden euro's. Laat dit **vóór** het compromis berekenen door uw boekhouder of accountant. Is het gebouw voor de btw nog nieuw, dan kan een verkoop mét btw de herziening net vermijden — een piste die het bekijken waard is.",
+        table: {
+          headers: ["Situatie", "Herzieningstermijn"],
+          rows: [
+            ["Onroerend bedrijfsmiddel, algemeen", "15 jaar"],
+            ["Gebouw verhuurd onder de btw-optie", "25 jaar"],
+            ["Werken aan een gebouw, in principe", "5 jaar"],
+            ["Werken zo ingrijpend dat een nieuw gebouw ontstaat", "15 jaar"],
+          ],
+        },
+      },
+      {
+        heading: "Asset deal of share deal — en wat er op 1 januari 2026 veranderde",
+        body: "Wie een pand in vennootschap wil overdragen, heeft klassiek twee wegen. Bij een **asset deal** verkoopt de vennootschap het gebouw zelf: de koper betaalt registratiebelasting, in Vlaanderen doorgaans het algemene verkooprecht van 12%, en de meerwaarde wordt bij de vennootschap belast. Bij een **share deal** verkoopt u de aandelen van de vennootschap: het pand verandert niet van eigenaar, dus is er in principe geen verkooprecht op het vastgoed verschuldigd.\n\nJarenlang gold daarbij één krachtig argument: een particuliere aandeelhouder die aandelen verkocht binnen het normaal beheer van zijn privévermogen, betaalde geen meerwaardebelasting. **Dat argument is sinds 1 januari 2026 achterhaald.** België voerde een meerwaardebelasting op financiële activa in, en aandelen kwalificeren daar uitdrukkelijk als financiële activa. Ook aandelen van een vastgoedvennootschap vallen er dus onder.\n\nDe contouren, zoals ze vandaag gelden:\n\n• **Algemeen regime**: 10% op de gerealiseerde meerwaarde, na een jaarlijkse vrijstelling van 10.000 euro per persoon. Wordt die vrijstelling niet gebruikt, dan kan ze aangroeien met 1.000 euro per jaar tot maximaal 15.000 euro.\n• **Aanmerkelijk belang** (u houdt minstens 20% van de rechten in de vennootschap): een vrijstelling voor een eerste schijf van 1 miljoen euro, berekend over een periode van vijf jaar, en daarboven een progressieve schaal van 1,25% tot 10%.\n• De meerwaarde die tot en met **31 december 2025** is opgebouwd, blijft in principe buiten schot. De waarde van de aandelen op die datum geldt als referentiepunt.\n\nLet daarnaast op het bestaande risico dat blijft gelden: de fiscus kan een share deal herkwalificeren wanneer de constructie enkel is opgezet om registratiebelasting te ontwijken. Een vennootschap die niets anders bevat dan het pand, een verkoop kort na de oprichting, of een stopzetting van de activiteit meteen na de deal — dat zijn de klassieke alarmsignalen.\n\nWaarschuwing over bronnen: veel artikels over vastgoedvennootschappen dateren van vóór 2026 en stellen nog dat de aandelenverkoop belastingvrij is. Neem die conclusie niet over zonder de datum van het stuk te bekijken.",
+        table: {
+          headers: ["Aspect", "Asset deal (pand verkopen)", "Share deal (aandelen verkopen)"],
+          rows: [
+            ["Registratiebelasting op het vastgoed", "Ja, in Vlaanderen doorgaans 12%", "In principe niet"],
+            ["Meerwaarde bij de vennootschap", "Belast tegen 25% of 20%", "Blijft in de vennootschap zitten"],
+            ["Meerwaarde bij de aandeelhouder", "Niet van toepassing", "Belast sinds 1 januari 2026"],
+            ["Notaris verplicht", "Ja", "Niet noodzakelijk"],
+            ["Wat de koper overneemt", "Enkel het pand", "De hele vennootschap, met haar verleden"],
+            ["Kopersgroep", "Ruim", "Klein en gespecialiseerd"],
+          ],
+        },
+      },
+      {
+        heading: "Het pand naar de privé halen in plaats van verkopen",
+        body: "Soms wilt u het pand niet aan een derde verkopen, maar naar uw privévermogen halen. Ook dat kan, langs drie klassieke wegen — elk met een eigen prijskaartje.\n\n**Verkoop aan uzelf of aan een familielid.** De vennootschap verkoopt het pand aan de bedrijfsleider. Dat mag, maar de prijs moet marktconform zijn. Betaalt u te weinig, dan beschouwt de fiscus het verschil als een **voordeel van alle aard** dat bij u belastbaar is in de personenbelasting. Laat de waarde daarom onderbouwen door een onafhankelijke schatting en bewaar dat verslag.\n\n**Uitkering in natura als dividend.** In plaats van geld keert de vennootschap het pand zelf uit. Fiscaal interessant detail: bij een uitkering in natura is de registratiebelasting in bepaalde gevallen beperkt tot het **algemeen vast recht van 50 euro**, in plaats van het verkooprecht van 12%. Daar staat wel roerende voorheffing op het dividend tegenover, en de meerwaarde blijft belastbaar bij de vennootschap.\n\n**Uitbreng bij vereffening.** Bij de stopzetting van de vennootschap komt het pand vrij. Voor personenvennootschappen bestaat hier een bijzondere regeling waarvan de toepassing sterk afhangt van wie de vennoten zijn en sinds wanneer. De Vlaamse Belastingdienst heeft haar standpunt daarover in het verleden bijgestuurd.\n\nWij geven bewust geen vaste rangschikking van deze drie. Welke het voordeligst is, hangt af van de boekwaarde, de leeftijd van de vennootschap, uw persoonlijke situatie en van reserves die er al zijn. Dit is bij uitstek een berekening voor uw accountant of belastingadviseur, niet voor een blogartikel.",
+        table: {
+          headers: ["Weg", "Belangrijkste kost", "Aandachtspunt"],
+          rows: [
+            ["Verkoop aan een derde", "Meerwaarde bij de vennootschap", "Opbrengst zit nog in de vennootschap"],
+            ["Verkoop aan de bedrijfsleider", "Meerwaarde plus verkooprecht", "Marktconforme prijs, anders voordeel van alle aard"],
+            ["Dividend in natura", "Roerende voorheffing plus meerwaarde", "Registratie soms aan het vast recht van 50 euro"],
+            ["Vereffening", "Afhankelijk van de reserves", "Bijzondere regeling voor personenvennootschappen"],
+          ],
+        },
+      },
+      {
+        heading: "Praktisch: uw dossier en de verkoop aan wijkopenpanden.be",
+        body: "Een verkoop uit vennootschap loopt vlotter naarmate het dossier klopt. Zorg dat u het volgende klaar hebt vóór u onderhandelt:\n\n• De **boekwaarde** van grond en gebouw, apart, met het afschrijvingsplan.\n• Een overzicht van de **btw die ooit in aftrek is gebracht** en het jaar van ingebruikname, zodat de herziening berekenbaar is.\n• Een **bestuurdersbesluit of aandeelhoudersbesluit** waaruit blijkt wie mag tekenen. Bij een verkoop aan de bestuurder zelf speelt bovendien de belangenconflictregeling uit het Wetboek van vennootschappen en verenigingen.\n• De gebruikelijke attesten: bodemattest, EPC, elektrische keuring en, bij bouwjaar vóór 2001, het asbestattest.\n• Een overzicht van **openstaande fiscale en sociale schulden**. De notaris moet die vóór de akte melden aan de fiscus en de sociale kassen. Zij kunnen dan beslag leggen op de verkoopprijs.\n\nWij kopen panden in de regio **Antwerpen** rechtstreeks aan, ook wanneer de verkoper een vennootschap is: opbrengsteigendommen, handelspanden, magazijnen, kantoren en woningen die in een vennootschap zitten. Wij werken met eigen middelen, dus zonder financieringsvoorbehoud, en zonder makelaarscommissie.\n\nWees eerlijk geïnformeerd over onze grenzen: **wij kopen het onroerend goed, geen aandelen**. Een share deal ligt buiten onze werkwijze, en de fiscale optimalisatie van uw vennootschap is het werk van uw accountant, niet van ons. Wat wij wel bieden, is snelheid en zekerheid: een bod dat u kunt naast leggen bij de berekening van uw adviseur, zodat u weet wat een directe verkoop netto oplevert.\n\nOnze werkwijze: reactie op uw aanvraag doorgaans binnen 2 uur, een plaatsbezoek gevolgd door een schriftelijk en vrijblijvend bod, en bij akkoord een akte doorgaans binnen 2 à 3 maanden. Die termijn kunt u afstemmen op uw boekjaar wanneer dat fiscaal beter uitkomt.",
+      },
+    ],
+    relatedArticles: [
+      "belastingen-bij-woningverkoop",
+      "opbrengsteigendom-verkopen",
+      "belastingschulden-bij-verkoop-notariele-notificatie",
+      "woning-verkopen-met-btw-nieuwbouw",
+      "meerwaardebelasting-tweede-verblijf-belgie",
+      "woning-verkopen-aan-familielid",
+    ],
+    relatedSituations: ["opbrengsteigendom-verkopen-antwerpen", "magazijn-kantoor-verkopen-antwerpen"],
+    faqs: [
+      {
+        question: "Betaalt mijn vennootschap belasting op de meerwaarde van een pand?",
+        answer:
+          "Ja. Anders dan bij een privéverkoop bestaat er voor een vennootschap geen vrijstelling. Het verschil tussen de netto-verkoopprijs en de boekwaarde is belastbare winst van het boekjaar, tegen 25% of tegen 20% op de eerste 100.000 euro als uw vennootschap klein is en aan alle voorwaarden voldoet.",
+      },
+      {
+        question: "Kan ik de belasting op de meerwaarde spreiden?",
+        answer:
+          "Dat kan via artikel 47 van het Wetboek van de inkomstenbelastingen 1992. U moet het pand minstens vijf jaar als vast actief hebben gehad en de volledige verkoopprijs herbeleggen in afschrijfbare vaste activa binnen de Europese Economische Ruimte, binnen drie jaar of binnen vijf jaar bij een gebouwd onroerend goed. Grond telt niet mee als herbelegging.",
+      },
+      {
+        question: "Moet ik btw terugbetalen als mijn vennootschap het pand verkoopt?",
+        answer:
+          "Alleen als er destijds btw in aftrek is gebracht en de verkoop binnen de herzieningstermijn valt. Voor onroerende bedrijfsmiddelen bedraagt die in België vijftien jaar, en vijfentwintig jaar bij verhuur onder het optionele btw-stelsel. Nederlandse bronnen spreken over tien jaar, maar dat is Nederlands recht en hier niet van toepassing.",
+      },
+      {
+        question: "Is het verkopen van de aandelen nog altijd voordeliger?",
+        answer:
+          "Minder dan vroeger. Bij een share deal is er in principe geen verkooprecht op het vastgoed, maar sinds 1 januari 2026 geldt er in België een meerwaardebelasting op financiële activa, en aandelen vallen daaronder. Het algemene tarief bedraagt 10% na een jaarlijkse vrijstelling van 10.000 euro; bij een belang van minstens 20% geldt een vrijstelling van 1 miljoen euro over vijf jaar met daarboven een progressieve schaal van 1,25% tot 10%.",
+      },
+      {
+        question: "Mag ik het pand van mijn eigen vennootschap kopen?",
+        answer:
+          "Ja, maar tegen een marktconforme prijs. Koopt u te goedkoop, dan beschouwt de fiscus het verschil als een voordeel van alle aard dat bij u belastbaar is in de personenbelasting. Laat de waarde onderbouwen door een onafhankelijke schatting, bewaar het verslag en respecteer de belangenconflictregeling uit het Wetboek van vennootschappen en verenigingen.",
+      },
+      {
+        question: "Koopt wijkopenpanden.be ook panden van een vennootschap?",
+        answer:
+          "Ja. Wij kopen in de regio Antwerpen rechtstreeks aan van vennootschappen: opbrengsteigendommen, handelspanden, magazijnen, kantoren en woningen. Wij kopen het onroerend goed zelf, geen aandelen, en wij nemen de fiscale optimalisatie van uw vennootschap niet over. De akteedatum kunnen wij wel afstemmen op uw boekjaar.",
+      },
+    ],
+  },
+  {
+    slug: "woning-verkopen-met-btw-nieuwbouw",
+    title: "Verkopen met btw in plaats van verkooprecht: wanneer kan dat?",
+    metaTitle: "Woning verkopen met btw in plaats van verkooprecht",
+    metaDescription:
+      "Een gebouw is voor de btw nieuw tot 31 december van het tweede jaar na de eerste ingebruikname. Wat dat betekent en waarom 104.1 niet meer moet.",
+    publishedAt: "2026-08-02",
+    updatedAt: "2026-08-02",
+    intro:
+      "Een gebouw kan met 21% btw worden verkocht in plaats van met het Vlaamse verkooprecht, zolang het voor de btw nog nieuw is. En nieuw betekent hier iets heel precies: tot uiterlijk 31 december van het tweede jaar dat volgt op het jaar van de eerste ingebruikneming of inbezitneming. Bent u een particulier die zelf gebouwd heeft, dan is dat een keuze — u kunt opteren voor het statuut van toevallige btw-belastingplichtige en zo de btw op de bouw recupereren. Eén ding is intussen veranderd en staat op veel websites nog fout: de voorafgaande verklaring 104.1 is sinds 1 januari 2024 afgeschaft.",
+    sections: [
+      {
+        heading: "Wanneer is een gebouw nog nieuw voor de btw?",
+        body: "De btw-regel is streng maar eenvoudig te berekenen. Een gebouw wordt als **nieuw** beschouwd tot uiterlijk **31 december van het tweede jaar volgend op het jaar van de eerste ingebruikneming of de eerste inbezitneming**.\n\nDe teller start dus niet bij de bouwaanvraag, niet bij de oplevering en niet bij de akte, maar bij het moment waarop het gebouw **effectief in gebruik of in bezit is genomen**. Dat kan bewoning zijn, maar ook verhuring of gewoon het in bezit nemen van een afgewerkt gebouw.\n\nPraktisch komt dat neer op een venster van bijna drie jaar: de bouwperiode zelf, plus het volledige jaar van ingebruikname, plus de twee daaropvolgende kalenderjaren. Wordt de akte na die datum verleden, dan is de verkoop verplicht **onder registratiebelasting** en is de btw-piste definitief gesloten.\n\nEén aandachtspunt dat kandidaat-verkopers geld kost: voor de fiscale kwalificatie telt in de regel het moment van de **notariële akte**, niet het compromis. Ligt uw uiterste datum in december, plan de akte dan niet in januari.",
+        table: {
+          headers: ["Eerste ingebruikneming", "Nieuw voor de btw tot en met"],
+          rows: [
+            ["In de loop van 2024", "31 december 2026"],
+            ["In de loop van 2025", "31 december 2027"],
+            ["In de loop van 2026", "31 december 2028"],
+            ["Nog nooit in gebruik genomen", "Nog steeds nieuw"],
+          ],
+        },
+      },
+      {
+        heading: "Btw of verkooprecht: wat er dan precies betaald wordt",
+        body: "Een verkoop met btw en een verkoop met verkooprecht sluiten elkaar uit voor hetzelfde gebouw. Ofwel het een, ofwel het ander.\n\nWordt het gebouw **met btw** verkocht, dan geldt het standaardtarief van **21%** op de prijs van het gebouw. Op diezelfde gebouwwaarde is dan geen verkooprecht meer verschuldigd; de akte wordt in dat geval geregistreerd aan het **algemeen vast recht**, dat 50 euro bedraagt.\n\nWordt het gebouw **niet** met btw verkocht, dan geldt in Vlaanderen het verkooprecht: **12%** als algemeen tarief, of **2%** wanneer de koper er zijn enige eigen woning van maakt en aan alle voorwaarden voldoet.\n\nDat verschil is voor de koper zelden neutraal. Voor wie het pand als enige eigen woning koopt, is 2% verkooprecht doorgaans veel gunstiger dan 21% btw. Voor een investeerder met recht op aftrek kan btw juist voordelig zijn, omdat hij ze kan recupereren en het tarief van 12% dat niet is. Wie uw kandidaat-koper is, bepaalt dus mee hoe aantrekkelijk uw pand geprijsd staat.\n\nHoud er ook rekening mee dat de btw op de **volledige prijs van het gebouw** wordt berekend, terwijl het verkooprecht in Vlaanderen in bepaalde gevallen wordt verminderd. Reken het door in cijfers vóór u een keuze in het compromis vastlegt — die keuze is nadien moeilijk terug te draaien.",
+        table: {
+          headers: ["", "Verkoop met btw", "Verkoop met verkooprecht"],
+          rows: [
+            ["Tarief op het gebouw", "21%", "12%, of 2% bij enige eigen woning"],
+            ["Registratie van de akte", "Algemeen vast recht van 50 euro", "Het verkooprecht zelf"],
+            ["Recupereerbaar door de koper", "Ja, als hij recht op aftrek heeft", "Neen"],
+            ["Mogelijk tot", "Einde van de btw-nieuwbouwtermijn", "Altijd daarna"],
+            ["Interessantst voor", "Investeerders met recht op aftrek", "Particuliere gezinnen"],
+          ],
+        },
+      },
+      {
+        heading: "De grond volgt het gebouw, maar alleen onder drie voorwaarden",
+        body: "Veel verkopers gaan ervan uit dat de grond automatisch mee onder de btw valt zodra het gebouw dat doet. Dat klopt niet. Het **bijhorend terrein** volgt het btw-regime van het gebouw alleen wanneer drie voorwaarden **samen** vervuld zijn:\n\n1. Het gebouw wordt zelf **met toepassing van btw** overgedragen.\n2. Grond en gebouw worden door **dezelfde persoon** overgedragen.\n3. De overdracht van de grond gebeurt **gelijktijdig** met die van het gebouw.\n\nOntbreekt één van de drie, dan splitst de fiscale behandeling: btw op het gebouw, en **verkooprecht op de grond**. Dat is precies wat gebeurt bij het klassieke nieuwbouwscenario waarbij een grondeigenaar de grond verkoopt en een bouwpromotor de woning bouwt: de koper betaalt dan btw op de constructie en registratiebelasting op de grondwaarde.\n\nDe gevolgen zijn concreet en soms onaangenaam. Een koper die met één tarief rekende, ziet plots twee lijnen op zijn afrekening. Zorg dat de opsplitsing tussen grond- en gebouwwaarde **realistisch** en verdedigbaar is: een kunstmatig lage grondwaarde om btw te vermijden, of omgekeerd, is een klassiek discussiepunt met de fiscus.",
+        table: {
+          headers: ["Situatie", "Gebouw", "Grond"],
+          rows: [
+            ["Alles door dezelfde verkoper, gelijktijdig, met btw", "21% btw", "21% btw"],
+            ["Grond eerst gekocht van een andere partij", "21% btw", "Verkooprecht"],
+            ["Gebouw niet met btw verkocht", "Verkooprecht", "Verkooprecht"],
+            ["Losse bouwgrond zonder gebouw", "Niet van toepassing", "Verkooprecht"],
+          ],
+        },
+      },
+      {
+        heading: "De toevallige btw-belastingplichtige: wat een particulier kan recupereren",
+        body: "Dit is het stuk dat particulieren zelden kennen. Wie **buiten het uitoefenen van een economische activiteit** een nieuw gebouw heeft opgericht — u liet een woning bouwen zonder dat u aannemer of promotor bent — kan bij de verkoop kiezen voor het statuut van **toevallige btw-belastingplichtige**.\n\nHet gevolg is dubbel. U rekent 21% btw aan de koper aan, maar u krijgt in ruil een **recht op aftrek** van de btw die u zelf heeft betaald op de bouw: de facturen van de aannemers, de architect, de materialen. Voor een woning waarop tijdens de bouw tienduizenden euro's btw drukte, is dat geen detail.\n\nDrie grenzen die u vooraf moet kennen:\n\n• **U kunt nooit meer btw recupereren dan u zelf heeft betaald.** Het verschil tussen de btw die u van de koper ontvangt en de btw die u recupereert, gaat naar de Schatkist.\n• Het is een **keuze, geen verplichting** — tenzij u als beroepsoprichter handelt, want dan is btw verplicht.\n• Het statuut geldt **per verkoop**, niet als algemeen ondernemersstatuut. U wordt er geen btw-plichtige onderneming door.\n\nOf de piste voor u loont, hangt af van één rekensom: hoeveel btw u kunt terugkrijgen tegenover hoeveel duurder uw woning wordt voor een particuliere koper die 2% verkooprecht misloopt. Laat dat berekenen door een boekhouder vóór u met kandidaten onderhandelt, want de keuze moet al in het compromis staan.",
+      },
+      {
+        heading: "De procedure sinds 2024: verklaring 104.1 is afgeschaft",
+        body: "Hier zit de belangrijkste verouderde informatie op het internet, en ze staat nog op talloze vastgoed- en advocatensites.\n\nVroeger moest wie als toevallige btw-belastingplichtige wilde verkopen, **vooraf een verklaring nr. 104.1** indienen bij het bevoegde btw-kantoor. Die verplichting is **met ingang van 1 januari 2024 opgeheven**. De rechtsgrond daarvoor is het koninklijk besluit van 17 december 2023 dat een reeks btw-uitvoeringsbesluiten wijzigde.\n\nWat komt er in de plaats? De opvolging van vastgoedtransacties met btw gebeurt voortaan op basis van **de eerste akte tussen partijen** waaruit de bedoeling blijkt om btw toe te passen — in de praktijk dus het compromis — of op basis van de **notariële akte** waarin de verschuldigde btw wordt vermeld, met de vrijstelling van registratiebelasting die daarbij hoort.\n\nDaaruit volgt een praktische regel die u niet mag missen: **de keuze voor btw moet uitdrukkelijk in het compromis staan**. Er is geen formulier meer dat u achteraf kunt indienen om die keuze recht te zetten. Een compromis dat over btw zwijgt, is een probleem.\n\nNa de verkoop blijft er wel een afrekening. In de praktijk gebeurt die via een **bijzondere aangifte 104.5** bij het bevoegde btw-kantoor, waarin de ontvangen en de af te trekken btw tegenover elkaar worden gezet. Over de precieze termijnen en het aantal exemplaren lopen de bronnen uiteen; laat dit deel begeleiden door een boekhouder of vraag het na bij uw btw-kantoor, in plaats van te vertrouwen op wat u online leest.",
+        table: {
+          headers: ["", "Tot 31 december 2023", "Vanaf 1 januari 2024"],
+          rows: [
+            ["Voorafgaande verklaring 104.1", "Verplicht in te dienen", "Afgeschaft"],
+            ["Waaruit blijkt de keuze voor btw", "Uit de verklaring", "Uit het compromis of de notariële akte"],
+            ["Afrekening na de verkoop", "Bijzondere aangifte 104.5", "Bijzondere aangifte 104.5"],
+            ["Risico bij een compromis dat zwijgt", "Recht te zetten via de verklaring", "Geen formulier meer om het recht te zetten"],
+          ],
+        },
+      },
+      {
+        heading: "Vernieuwbouw: wanneer een oud pand opnieuw nieuw wordt",
+        body: "Een gebouw dat al decennia oud is, kan door een grondige verbouwing **opnieuw nieuw** worden voor de btw. Dat opent de btw-piste voor panden die er op het eerste gezicht ver buiten vallen — en het is een van de redenen waarom professionele renovateurs met btw werken.\n\nOver het criterium bestaat geen eenduidige, eenvoudige regel, en dat mag u weten. Twee benaderingen komen terug:\n\n• Een **waardecriterium**: de administratie aanvaardt dat een gebouw opnieuw nieuw is wanneer de waarde van de verbouwingswerken een substantieel deel van de verkoopwaarde vertegenwoordigt. Notaris.be vermeldt in dat verband een drempel van 60% van de verkoopwaarde.\n• Een **kwalitatief criterium**: het gebouw moet door de werken een **wezenlijke wijziging** hebben ondergaan in zijn aard, structuur of bestemming. Rechtspraak en administratieve standpunten benadrukken dat dit een feitenkwestie blijft.\n\nWij brengen dit bewust genuanceerd. De rechtspraak over vernieuwbouw is niet eenduidig, en het gaat over grote bedragen: verkeerd inschatten betekent ofwel 21% btw die niet verschuldigd was, ofwel verkooprecht bovenop een verrekening achteraf. Voor een verbouwd pand is dit geen doe-het-zelfvraag — leg de plannen, de facturen en de omvang van de werken voor aan een btw-specialist of aan uw notaris.\n\nDe herzieningstermijn is hier het spiegelbeeld: zijn de werken zo ingrijpend dat er een nieuw gebouw ontstaat, dan geldt voor de btw op die werken een herzieningstermijn van vijftien jaar in plaats van vijf.",
+      },
+      {
+        heading: "Wat dit betekent als u snel en zonder gedoe wilt verkopen",
+        body: "De btw-piste is aantrekkelijk voor wie recent gebouwd heeft, maar ze brengt ook een klok mee. Twee scenario's komen bij ons regelmatig langs:\n\n**U nadert het einde van de btw-termijn.** De akte moet vóór 31 december van het tweede jaar na de ingebruikname verleden zijn, en op de klassieke markt duurt het traject van te-koop-zetten tot akte al snel zes maanden of meer. Zit u daar krap, dan telt elke week.\n\n**U wilt de discussie helemaal niet.** Btw, opsplitsing van grond en gebouw, aftrekbaarheid, vernieuwbouw — het is technisch, en het schrikt particuliere kandidaten af.\n\nWij kopen woningen en panden in de regio **Antwerpen** rechtstreeks aan, ook recente nieuwbouw en grondig gerenoveerde panden. Wij werken met eigen middelen, dus zonder financieringsvoorbehoud, en zonder makelaarscommissie. Bij akkoord verloopt het verlijden van de akte doorgaans binnen 2 à 3 maanden, en waar het kan stemmen wij die datum af op uw fiscale deadline.\n\nWees eerlijk geïnformeerd over de grens van wat wij doen: **wij geven geen btw-advies en wij bepalen uw btw-statuut niet**. Of uw verkoop onder btw of onder verkooprecht valt, is een zaak van uw boekhouder en uw notaris. Wat wij wel doen, is duidelijk maken tegen welke prijs en op welke termijn wij kopen, zodat u die naast de berekening van uw adviseur kunt leggen.\n\nOnze werkwijze: reactie op uw aanvraag doorgaans binnen 2 uur, een plaatsbezoek met een schriftelijk en vrijblijvend bod, en een akte op een datum die u past.",
+      },
+    ],
+    relatedArticles: [
+      "pand-uit-vennootschap-verkopen",
+      "belastingen-bij-woningverkoop",
+      "huis-verkopen-binnen-5-jaar",
+      "notariskosten-woning-verkoop",
+      "onafgewerkte-verbouwing-of-bouwwerf-verkopen",
+      "kadastraal-inkomen-en-woningverkoop",
+    ],
+    relatedSituations: ["huis-snel-verkopen", "schatting-pand"],
+    faqs: [
+      {
+        question: "Tot wanneer is mijn woning nieuw voor de btw?",
+        answer:
+          "Tot uiterlijk 31 december van het tweede jaar volgend op het jaar van de eerste ingebruikneming of inbezitneming. Nam u de woning in 2024 in gebruik, dan loopt de btw-termijn dus tot en met 31 december 2026. Voor de fiscale kwalificatie telt in de regel de datum van de notariële akte, niet die van het compromis.",
+      },
+      {
+        question: "Betaalt de koper naast btw ook nog verkooprecht?",
+        answer:
+          "Niet op de gebouwwaarde. Wordt het gebouw met 21% btw verkocht, dan is daarop geen verkooprecht meer verschuldigd en wordt de akte geregistreerd aan het algemeen vast recht van 50 euro. Op de grond kan wel verkooprecht verschuldigd blijven als niet aan alle voorwaarden voor het bijhorend terrein is voldaan.",
+      },
+      {
+        question: "Wanneer volgt de grond het btw-regime van het gebouw?",
+        answer:
+          "Alleen wanneer drie voorwaarden samen vervuld zijn: het gebouw wordt met btw overgedragen, grond en gebouw worden door dezelfde persoon overgedragen, en beide overdrachten gebeuren gelijktijdig. Ontbreekt er een, dan betaalt de koper btw op het gebouw en verkooprecht op de grond.",
+      },
+      {
+        question: "Moet ik nog een verklaring 104.1 indienen?",
+        answer:
+          "Neen. Die verplichting is opgeheven met ingang van 1 januari 2024, door het koninklijk besluit van 17 december 2023. De keuze voor btw blijkt voortaan uit de eerste akte tussen partijen, in de praktijk het compromis, of uit de notariële akte. Zet die keuze dus uitdrukkelijk in uw compromis, want er is geen formulier meer om ze achteraf recht te zetten.",
+      },
+      {
+        question: "Kan ik als particulier de btw op mijn bouw recupereren?",
+        answer:
+          "Dat kan wanneer u opteert voor het statuut van toevallige btw-belastingplichtige bij de verkoop van een gebouw dat voor de btw nog nieuw is. U rekent dan 21% btw aan de koper aan en kunt de btw op de bouwfacturen aftrekken. U kunt nooit meer recupereren dan u zelf betaald heeft; het verschil gaat naar de Schatkist.",
+      },
+      {
+        question: "Kan een verbouwd pand opnieuw nieuw worden voor de btw?",
+        answer:
+          "Ja, bij zogenaamde vernieuwbouw. Er bestaat geen eenduidige eenvoudige regel: er wordt gekeken naar de waarde van de werken tegenover de verkoopwaarde, waarbij notaris.be een drempel van 60% vermeldt, en naar de vraag of het gebouw een wezenlijke wijziging in aard, structuur of bestemming heeft ondergaan. Het blijft een feitenkwestie. Leg dit voor aan een btw-specialist.",
+      },
+    ],
+  },
+  {
+    slug: "verkopen-onder-voorwaarde-nieuwe-woning",
+    title: "Verkopen op voorwaarde dat u zelf een nieuwe woning vindt",
+    metaTitle: "Verkopen onder voorwaarde dat u zelf iets anders vindt",
+    metaDescription:
+      "Zo'n opschortende voorwaarde mag, maar niet als ze enkel van uw wil afhangt. Wat wel standhoudt, wat de fiscus doet en welke alternatieven werken.",
+    publishedAt: "2026-08-02",
+    updatedAt: "2026-08-02",
+    intro:
+      "Ja, u kunt uw woning verkopen onder de opschortende voorwaarde dat u zelf eerst een geschikte nieuwe woning vindt — maar de clausule moet zorgvuldig geschreven zijn, anders is ze nietig. Een voorwaarde die zuiver afhangt van uw eigen wil, zoals \"als ik iets vind dat mij bevalt\", houdt geen stand. Ze moet precies en objectief controleerbaar zijn, en ze heeft een harde einddatum nodig. Fiscaal is het verkooprecht pas verschuldigd wanneer de voorwaarde vervuld is. En houd rekening met de markt: veel kopers weigeren zo'n voorwaarde gewoon, omdat zij het wachtrisico dragen zonder er iets voor terug te krijgen.",
+    sections: [
+      {
+        heading: "Wat u eigenlijk vraagt aan de koper",
+        body: "De situatie is herkenbaar. U wilt verkopen, maar u durft niet te tekenen zolang u geen zicht heeft op waar u nadien woont. De oplossing lijkt eenvoudig: een clausule in het compromis die zegt dat de verkoop pas doorgaat als u zelf een geschikte woning heeft gevonden.\n\nJuridisch is dat een **opschortende voorwaarde**: een toekomstige en onzekere gebeurtenis waarvan de partijen de uitwerking van hun overeenkomst laten afhangen. De koop bestaat wél al — er is wilsovereenstemming over de zaak en de prijs — maar de verplichtingen worden pas **opeisbaar** wanneer de voorwaarde vervuld is.\n\nWat u de koper vraagt, is echter geen kleinigheid. Hij zit vast: hij kan niets anders kopen zolang uw termijn loopt, hij kan zijn eigen krediet niet definitief maken, en hij kan zijn eigen woning niet met zekerheid verkopen. Ondertussen kunt u de zoektocht bewust of onbewust vertragen. Die scheve verhouding verklaart twee dingen: waarom de wet er grenzen aan stelt, en waarom veel kopers zo'n voorwaarde eenvoudigweg afwijzen.\n\nDe meest gestelde vraag daarbij: bent u dan al gebonden? Ja. De koop is gesloten zodra u tekent. U kunt niet, omdat u van gedacht verandert, het compromis naast u neerleggen — dat is een apart onderwerp dat wij elders behandelen.",
+        table: {
+          headers: ["", "U als verkoper", "De koper"],
+          rows: [
+            ["Zekerheid over de verkoop", "Blijft open tot de vervaldag", "Blijft open tot de vervaldag"],
+            ["Kan intussen elders kopen", "Ja, dat is net de bedoeling", "Neen, hij zit vast"],
+            ["Draagt het wachtrisico", "Beperkt", "Volledig"],
+            ["Krijgt daar iets voor terug", "Niet vanzelf", "Enkel wat u contractueel geeft"],
+          ],
+        },
+      },
+      {
+        heading: "De valkuil: een voorwaarde die enkel van uw wil afhangt is nietig",
+        body: "Dit is het punt waarop dergelijke clausules het vaakst sneuvelen. Een opschortende voorwaarde mag **niet zuiver potestatief** zijn in hoofde van één partij. Anders gezegd: u mag de uitwerking van de koop niet laten afhangen van uw eigen goeddunken. Zo'n voorwaarde is nietig, en dat betekent dat u zich er niet op kunt beroepen wanneer u ze het hardst nodig heeft.\n\nDe Vlaamse Belastingdienst heeft dat principe uitdrukkelijk bevestigd in een standpunt van **19 februari 2020**, met als kern dat een opschortende voorwaarde niet afhankelijk kan zijn van de wil van één van de partijen. Ook de rechtspraak vraagt dat de voorwaarde **voldoende precies en objectief controleerbaar** is: een derde moet achteraf kunnen vaststellen of ze vervuld is of niet.\n\nHet verschil zit dus niet in de bedoeling maar in de **formulering**. Een clausule die zegt dat de verkoop doorgaat als u een woning vindt die u bevalt, laat alles aan u over. Een clausule die zegt dat de verkoop doorgaat tenzij u vóór een bepaalde datum een compromis heeft getekend voor een woning binnen een omschreven zoekgebied en prijsklasse, is objectief toetsbaar.\n\nTwee elementen maken het verschil tussen houdbaar en onhoudbaar:\n\n• **Objectieve criteria**: gemeente of straal, maximale prijs, minimum aantal slaapkamers, type woning. Hoe concreter, hoe steviger.\n• **Een harde einddatum**. Zonder termijn kan de gebeurtenis in beginsel onbeperkt in de tijd plaatsvinden, en geldt de voorwaarde pas als onvervuld wanneer redelijkerwijs vaststaat dat ze niet meer zal gebeuren. Dat is een recept voor betwisting.\n\nVoeg daar een inspanningsverbintenis aan toe: u verbindt zich om actief te zoeken en om de koper op de hoogte te houden. Dat maakt de clausule zowel geloofwaardiger voor de koper als verdedigbaarder voor een rechter.",
+        table: {
+          headers: ["Formulering", "Beoordeling"],
+          rows: [
+            ["\"Als de verkoper een woning vindt die hem bevalt\"", "Zuiver potestatief, riskeert nietig te zijn"],
+            ["\"Als de verkoper beslist te verhuizen\"", "Hangt volledig af van zijn wil, zelfde risico"],
+            ["\"Als de verkoper vóór 31 oktober een compromis tekent voor een woning in Antwerpen tot 450.000 euro\"", "Precies en objectief toetsbaar"],
+            ["Clausule zonder einddatum", "Kan onbeperkt blijven hangen, bron van betwisting"],
+          ],
+        },
+      },
+      {
+        heading: "Sinds 2023 werkt de vervulde voorwaarde niet meer terug in de tijd",
+        body: "Hier zit een wijziging die veel oudere modelclausules en veel online uitleg nog niet volgen.\n\nOnder het oude recht werkte de vervulling van een voorwaarde in principe **terug tot bij het sluiten van de overeenkomst**. Boek 5 van het Burgerlijk Wetboek, in werking sinds **1 januari 2023**, heeft die retroactieve werking als principe afgeschaft. **Artikel 5.147 BW** bepaalt dat de vervulling van de voorwaarde voortaan enkel uitwerking heeft **voor de toekomst**.\n\nDe wetgever koos daarvoor omdat de oude regel in de praktijk al doorspekt was met uitzonderingen. De bescherming die de terugwerkende kracht bood, is elders in de wet expliciet geregeld.\n\nEén belangrijke nuance: artikel 5.147 BW is van **aanvullend recht**. Partijen mogen er dus van afwijken en contractueel bedingen dat de voorwaarde zich mét terugwerkende kracht vervult. Dat is precies waarom uw compromis hierover iets moet zeggen in plaats van te zwijgen.\n\nWaar dit concreet speelt: bij de vraag vanaf welk moment de vruchten en lasten van de woning overgaan, wie het risico draagt als er intussen schade ontstaat, en hoe men omgaat met handelingen die tussen het compromis en de vervulling zijn gesteld. Laat uw notaris die punten uitdrukkelijk regelen. Een clausule die uit een sjabloon van vóór 2023 komt, gaat mogelijk nog uit van de oude regel.",
+      },
+      {
+        heading: "Fiscaal: het verkooprecht volgt de voorwaarde",
+        body: "Dit is de meest geruststellende kant van het verhaal, en tegelijk de minst bekende.\n\nOp een rechtshandeling onder opschortende voorwaarde wordt het verkooprecht **pas geheven wanneer de voorwaarde vervuld is**. Dat volgt uit **artikel 2.9.7.0.3, §2 van de Vlaamse Codex Fiscaliteit**. Zolang de voorwaarde hangende is, is er dus geen verkooprecht verschuldigd.\n\nHetzelfde geldt voor de registratieverplichting zelf. De gebruikelijke termijn van **vier maanden** om een onderhandse akte ter registratie aan te bieden, begint hier pas te lopen **vanaf de vervulling van de voorwaarde**. Binnen die vier maanden moet een akte of een verklaring worden aangeboden waaruit blijkt dat de voorwaarde vervuld is; dat stuk vormt de titel voor de heffing.\n\nDat is het spiegelbeeld van wat er gebeurt bij een gewone, onvoorwaardelijke verkoop. Daar is het verkooprecht verschuldigd zodra het compromis is gesloten, ook als de akte er nooit komt — een valkuil die verkopers pijnlijk verrast wanneer een koper afhaakt.\n\nLet wel op de keerzijde: precies omdat de fiscale gevolgen aan de vervulling hangen, kijkt de Vlaamse Belastingdienst kritisch naar clausules die te veel ruimte laten. Een voorwaarde die als nietig of als schijn wordt beschouwd, brengt u terug bij af — met een verkoop die als onvoorwaardelijk wordt behandeld.",
+        table: {
+          headers: ["", "Verkoop onder opschortende voorwaarde", "Gewone verkoop"],
+          rows: [
+            ["Verkooprecht verschuldigd", "Pas bij vervulling van de voorwaarde", "Bij het sluiten van het compromis"],
+            ["Start van de termijn van vier maanden", "Vanaf de vervulling", "Vanaf het compromis"],
+            ["Wat aan te bieden ter registratie", "Akte of verklaring dat de voorwaarde vervuld is", "Het compromis"],
+            ["Gevolg als de verkoop niet doorgaat", "Geen verkooprecht", "Verkooprecht blijft in principe verschuldigd"],
+          ],
+        },
+      },
+      {
+        heading: "En als u niets vindt, of net iets te laat?",
+        body: "Loopt de termijn af zonder dat de voorwaarde vervuld is, dan **valt de koop weg**. Partijen staan tegenover elkaar alsof er nooit een verkoop was, en het verkooprecht is niet verschuldigd. Wat de koper intussen aan kosten maakte — een schattingsverslag, een kredietdossier, een verhuisplanning — draagt hij in beginsel zelf, tenzij u daarover iets anders afsprak.\n\nDrie scenario's die u contractueel best op voorhand regelt:\n\n• **U vindt iets vlak na de vervaldag.** Zonder verlengingsclausule is de koop dan al weggevallen en is de koper vrij. Voorzie een mogelijkheid tot **eenmalige verlenging in onderling akkoord**, schriftelijk.\n• **U vindt iets, maar uw eigen aankoop springt af.** Koppel uw voorwaarde dan aan het tekenen van een compromis, niet aan het verlijden van de akte, en voorzie wat er gebeurt als die aankoop nadien alsnog strandt.\n• **U ziet af van de voorwaarde.** Een clausule die u toelaat er **eenzijdig afstand** van te doen, zet u in een sterkere positie: u kunt de verkoop dan alsnog laten doorgaan wanneer het u past.\n\nEen laatste, ongemakkelijke waarheid: als u de zoektocht in werkelijkheid niet ernstig voert, riskeert u meer dan gezichtsverlies. Een tegenpartij kan aanvoeren dat u de vervulling van de voorwaarde hebt verhinderd. Neem de inspanningsverbintenis dus letterlijk en houd een spoor bij van uw bezoeken en biedingen.",
+      },
+      {
+        heading: "Vier alternatieven die kopers wél aanvaarden",
+        body: "In de praktijk botst deze voorwaarde vaak op een njet. Op een markt met meerdere kandidaten kiest een verkoper zelden voor de partij die de meeste onzekerheid meebrengt — en die logica werkt hier tegen u. Deze vier constructies geven u lucht zonder dat de koper in het ongewisse blijft.\n\n**Een lange verlijdingstermijn.** De klassieke termijn tussen compromis en akte bedraagt ongeveer vier maanden. Onderhandel er zes of zeven. U heeft dan zekerheid over de opbrengst én tijd om te zoeken, en de koper weet exact waar hij aan toe is. Dit is verreweg het eenvoudigste alternatief.\n\n**Blijven wonen na de verkoop.** U verkoopt, maar u spreekt af dat u nog een afgesproken periode in de woning blijft, kosteloos of tegen een vergoeding. De verkoop is dan definitief en de klok van uw zoektocht loopt pas nadien.\n\n**Een overbruggingskrediet.** U koopt eerst en verkoopt nadien, met een tijdelijk krediet dat de periode tussen beide overbrugt. Dat kost interest, maar het haalt de onzekerheid volledig weg.\n\n**Een verkoopbelofte of optie.** In plaats van een wederzijdse verkoop onder voorwaarde geeft één partij een eenzijdige belofte met een lichtingstermijn. Dat is juridisch iets anders dan een opschortende voorwaarde en het legt het initiatief bij de begunstigde.\n\nWelke van de vier past, hangt af van hoe krap uw timing is en hoeveel financiële ademruimte u heeft. Ze sluiten elkaar bovendien niet uit: een lange verlijdingstermijn gecombineerd met een korte bewoningsperiode nadien geeft u in de praktijk vaak het meeste comfort.",
+        table: {
+          headers: ["Alternatief", "Wat het u geeft", "Wat het kost"],
+          rows: [
+            ["Lange verlijdingstermijn", "Zekerheid plus zoektijd", "Niets, enkel onderhandeling"],
+            ["Blijven wonen na de verkoop", "Verhuizen op uw tempo", "Een vergoeding of een lagere prijs"],
+            ["Overbruggingskrediet", "Eerst kopen, dan verkopen", "Interest en dossierkosten"],
+            ["Verkoopbelofte of optie", "Initiatief bij één partij", "Vaak een optievergoeding"],
+          ],
+        },
+      },
+      {
+        heading: "De rechtstreekse verkoop met een akteedatum op uw maat",
+        body: "Er is nog een weg die het probleem bij de wortel aanpakt: verkopen aan een koper die geen enkel voorbehoud nodig heeft en die de akteedatum met u afspreekt.\n\nWij kopen woningen en panden in de regio **Antwerpen** rechtstreeks aan, met **eigen middelen**. Daardoor is er geen opschortende voorwaarde van financiering aan onze kant, geen bankdossier dat kan struikelen en geen makelaarscommissie. Wat er wel is: een schriftelijk en vrijblijvend bod, en duidelijkheid over de termijn.\n\nDat lost uw kernprobleem op een andere manier op. In plaats van de verkoop onzeker te maken tot u iets gevonden heeft, maakt u de **verkoop zeker** en past u de **timing** aan:\n\n• Een langere termijn tot de akte wanneer u nog moet zoeken.\n• De mogelijkheid om na de akte nog een afgesproken periode in de woning te blijven, zodat u niet tweemaal moet verhuizen.\n• Zekerheid over het bedrag, zodat u met een concreet budget op zoek kunt in plaats van met een schatting.\n\nWees eerlijk geïnformeerd: **wij zijn niet de hoogste bieder op een oververhitte markt**. Wat wij bieden is zekerheid, snelheid en een termijn die u zelf mee bepaalt, zonder commissie en zonder financieringsvoorbehoud. Voor wie vooral bang is om zonder woning te vallen, weegt dat vaak zwaarder dan de laatste procenten.\n\nOnze werkwijze: reactie op uw aanvraag doorgaans binnen 2 uur, een plaatsbezoek gevolgd door een schriftelijk bod, en bij akkoord een akte op een datum die u past — doorgaans binnen 2 à 3 maanden, of later als u dat liever heeft.",
+      },
+    ],
+    relatedArticles: [
+      "compromis-verkoop-woning-belgie",
+      "koper-krijgt-lening-niet-rond-opschortende-voorwaarde",
+      "verkoop-annuleren-na-compromis-koop-is-koop",
+      "eerst-kopen-dan-verkopen-overbruggingskrediet",
+      "verkoopbelofte-compromis-akte",
+      "blijven-wonen-na-verkoop",
+    ],
+    relatedSituations: ["blijven-wonen", "huis-snel-verkopen"],
+    faqs: [
+      {
+        question: "Mag ik verkopen onder de voorwaarde dat ik zelf eerst iets anders vind?",
+        answer:
+          "Ja, maar de clausule moet objectief controleerbaar zijn en een harde einddatum hebben. Een voorwaarde die zuiver van uw eigen wil afhangt, is nietig. Werk daarom met concrete criteria zoals zoekgebied, maximale prijs en type woning, en koppel er een inspanningsverbintenis aan om actief te zoeken en de koper op de hoogte te houden.",
+      },
+      {
+        question: "Waarom is een voorwaarde die van mijn wil afhangt nietig?",
+        answer:
+          "Omdat een opschortende voorwaarde niet zuiver potestatief mag zijn in hoofde van één partij. Zij moet afhangen van een toekomstige en onzekere gebeurtenis die objectief vaststelbaar is, niet van uw goeddunken. De Vlaamse Belastingdienst bevestigde dat principe uitdrukkelijk in een standpunt van 19 februari 2020.",
+      },
+      {
+        question: "Moet ik verkooprecht betalen zolang de voorwaarde niet vervuld is?",
+        answer:
+          "Neen. Op een rechtshandeling onder opschortende voorwaarde wordt het verkooprecht pas geheven wanneer de voorwaarde vervuld is, volgens artikel 2.9.7.0.3, paragraaf 2 van de Vlaamse Codex Fiscaliteit. Ook de termijn van vier maanden om ter registratie aan te bieden, begint pas te lopen vanaf de vervulling.",
+      },
+      {
+        question: "Werkt de vervulling van de voorwaarde terug tot bij het compromis?",
+        answer:
+          "In principe niet meer. Artikel 5.147 van het Burgerlijk Wetboek, in werking sinds 1 januari 2023, bepaalt dat de vervulling van een voorwaarde enkel uitwerking heeft voor de toekomst. Die regel is wel van aanvullend recht: partijen mogen contractueel terugwerkende kracht bedingen. Laat uw notaris dit uitdrukkelijk regelen, zeker bij oudere modelclausules.",
+      },
+      {
+        question: "Wat gebeurt er als ik binnen de termijn niets vind?",
+        answer:
+          "Dan valt de koop weg en is er geen verkooprecht verschuldigd. De koper draagt in beginsel zelf de kosten die hij intussen maakte, tenzij u daarover iets anders afsprak. Voorzie in het compromis wel een mogelijkheid tot eenmalige schriftelijke verlenging in onderling akkoord, en een clausule waarmee u eenzijdig afstand kunt doen van de voorwaarde.",
+      },
+      {
+        question: "Wat is een goed alternatief als de koper de voorwaarde weigert?",
+        answer:
+          "Meestal een langere termijn tot de akte, bijvoorbeeld zes of zeven maanden in plaats van vier. Andere pistes zijn blijven wonen na de verkoop gedurende een afgesproken periode, een overbruggingskrediet zodat u eerst kunt kopen, of een verkoopbelofte met lichtingstermijn. Wij kopen met eigen middelen en spreken de akteedatum met u af, wat hetzelfde probleem oplost zonder voorbehoud.",
       },
     ],
   },
