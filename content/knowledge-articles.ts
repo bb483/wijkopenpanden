@@ -114,7 +114,7 @@ export const articles: Article[] = [
         body: "Bij een verkoop aan wijkopenpanden.be regelen wij alle verplichte keuringen en attesten zelf, op onze kosten. U hoeft geen EPC, elektriciteitskeuring, asbestinventaris of bodemattesten zelf aan te vragen of te betalen. Dit is een van de concrete voordelen van een rechtstreekse verkoop aan een professionele opkoper.",
       },
     ],
-    relatedArticles: ["commissie-makelaar-belgie", "notariskosten-woning-verkoop", "asbestattest-bij-verkoop-woning", "bodemattest-vlaanderen-verkoop", "elektriciteitskeuring-niet-conform-verkopen", "postinterventiedossier-pid-verkoop-woning", "onafgewerkte-verbouwing-of-bouwwerf-verkopen"],
+    relatedArticles: ["commissie-makelaar-belgie", "notariskosten-woning-verkoop", "asbestattest-bij-verkoop-woning", "bodemattest-vlaanderen-verkoop", "elektriciteitskeuring-niet-conform-verkopen", "postinterventiedossier-pid-verkoop-woning", "onafgewerkte-verbouwing-of-bouwwerf-verkopen", "vastgoedinformatie-aanvragen-bij-verkoop"],
     relatedSituations: ["verkopen-zonder-makelaar", "opknappand-verkopen"],
     faqs: [
       {
@@ -182,7 +182,7 @@ export const articles: Article[] = [
         body: "Een opkoper biedt u minder dan de theoretische marktwaarde, maar de bijkomende kosten en wachttijd bij een klassieke verkoop verkleinen het verschil aanzienlijk. Bij een woning in mindere staat, erfenis of tijdsdruk kan een rechtstreekse verkoop zelfs financieel gelijkwaardig of voordeliger uitkomen.\n\nDe keuze hangt niet alleen van de prijs af, maar ook van uw persoonlijke situatie: heeft u tijd, of heeft u zekerheid en snelheid nodig?",
       },
     ],
-    relatedArticles: ["commissie-makelaar-belgie", "notariskosten-woning-verkoop", "keuringen-bij-verkoop-woning", "kadastraal-inkomen-en-woningverkoop", "woning-verkopen-met-btw-nieuwbouw"],
+    relatedArticles: ["commissie-makelaar-belgie", "notariskosten-woning-verkoop", "keuringen-bij-verkoop-woning", "kadastraal-inkomen-en-woningverkoop", "woning-verkopen-met-btw-nieuwbouw", "vastgoedinformatie-aanvragen-bij-verkoop"],
     relatedSituations: ["verkopen-zonder-makelaar"],
     faqs: [
       {
@@ -564,7 +564,7 @@ export const articles: Article[] = [
         body: "Ons bod houdt rekening met:\n\n• Geschatte renovatiekost (structurele gebreken wegen zwaarder dan cosmetische)\n• Staat van de elektriciteit, dakbedekking, riolering en verwarmingsinstallatie\n• Aanwezigheid van asbest\n• EPC-label en geschatte energetische investeringen\n• Marktwaarde van vergelijkbare panden in de buurt na renovatie\n\nWij zijn transparant over onze berekening en leggen u uit hoe we tot ons bod zijn gekomen.",
       },
     ],
-    relatedArticles: ["keuringen-bij-verkoop-woning", "epc-attest-antwerpen", "verkoop-kosten-berekenen", "huis-verkopen-na-brand-of-schade", "woning-verkopen-met-krakers-of-domiciliefraude", "beschermd-monument-erfgoedwoning-verkopen", "verwaarloosde-woning-heffing-verkopen", "onafgewerkte-verbouwing-of-bouwwerf-verkopen"],
+    relatedArticles: ["keuringen-bij-verkoop-woning", "epc-attest-antwerpen", "verkoop-kosten-berekenen", "huis-verkopen-na-brand-of-schade", "woning-verkopen-met-krakers-of-domiciliefraude", "beschermd-monument-erfgoedwoning-verkopen", "verwaarloosde-woning-heffing-verkopen", "onafgewerkte-verbouwing-of-bouwwerf-verkopen", "oude-woning-zonder-bouwvergunning-vermoeden-van-vergunning"],
     relatedSituations: ["opknappand-verkopen", "huis-verkopen-bij-erfenis"],
     faqs: [
       {
@@ -635,7 +635,7 @@ export const articles: Article[] = [
         },
       },
     ],
-    relatedArticles: ["notariskosten-woning-verkoop", "verkoop-kosten-berekenen", "erfenis-woning-stappenplan", "kadastraal-inkomen-en-woningverkoop", "onroerende-voorheffing-verrekenen-bij-verkoop", "woonbonus-en-fiscaal-voordeel-bij-verkoop-woning", "pand-uit-vennootschap-verkopen", "woning-verkopen-met-btw-nieuwbouw"],
+    relatedArticles: ["notariskosten-woning-verkoop", "verkoop-kosten-berekenen", "erfenis-woning-stappenplan", "kadastraal-inkomen-en-woningverkoop", "onroerende-voorheffing-verrekenen-bij-verkoop", "woonbonus-en-fiscaal-voordeel-bij-verkoop-woning", "pand-uit-vennootschap-verkopen", "woning-verkopen-met-btw-nieuwbouw", "partner-uitkopen-bij-scheiding-verdeelrecht"],
     relatedSituations: ["huis-verkopen-bij-erfenis", "huis-verkopen-bij-scheiding"],
     faqs: [
       {
@@ -697,7 +697,7 @@ export const articles: Article[] = [
         body: "Bij elke verkoop van mede-eigendom is een notaris verplicht. De notaris:\n• Stelt de verkoopovereenkomst en akte op\n• Verdeelt de opbrengst tussen de mede-eigenaars naar rato van hun aandeel\n• Vereffent de openstaande hypotheek (als die er is)\n• Zorgt voor de fiscale aangifte\n\nAls de mede-eigenaars verschillende notarissen willen, is dat mogelijk. De kopers- en verkopers-notaris werken dan samen.\n\nBij verkoop aan wijkopenpanden.be regelen wij de volledige coördinatie met de notaris(sen). U hoeft zich niet te bekommeren om de administratie.",
       },
     ],
-    relatedArticles: ["erfenis-woning-stappenplan", "belastingen-bij-woningverkoop", "verkoop-kosten-berekenen", "mede-eigenaar-wil-niet-verkopen-uit-onverdeeldheid", "woning-verkopen-met-minderjarige-eigenaar", "woning-verkopen-met-erfpacht-of-opstalrecht"],
+    relatedArticles: ["erfenis-woning-stappenplan", "belastingen-bij-woningverkoop", "verkoop-kosten-berekenen", "mede-eigenaar-wil-niet-verkopen-uit-onverdeeldheid", "woning-verkopen-met-minderjarige-eigenaar", "woning-verkopen-met-erfpacht-of-opstalrecht", "partner-uitkopen-bij-scheiding-verdeelrecht"],
     relatedSituations: ["huis-verkopen-bij-erfenis", "huis-verkopen-bij-scheiding"],
     faqs: [
       {
@@ -931,7 +931,7 @@ export const articles: Article[] = [
         body: "Wilt u uw woning niet regulariseren voor de verkoop? Dan is verkopen as-is de meest directe optie — op voorwaarde dat u transparant bent over de toestand.\n\nWijkopenpanden.be koopt woningen aan met stedenbouwkundige overtredingen. Wij:\n\n• Raadplegen zelf het stedenbouwkundig uittreksel en het maatregelenregister\n• Beoordelen de regulariseerbaarheid intern\n• Verrekenen de regularisatiekost eerlijk in ons bod — geen zwarte doos\n• Nemen de stedenbouwkundige last volledig over bij de akte\n• Regelen de regularisatie na de aankoop zelf, op ons tempo en budget\n\nVoor u als verkoper betekent dit: geen wachttijd, geen architect, geen gemeentelijke procedure voor de verkoop. U ontvangt een schriftelijk bod na één bezoek en beslist vrijblijvend.",
       },
     ],
-    relatedArticles: ["keuringen-bij-verkoop-woning", "pand-in-slechte-staat-verkopen", "verkoop-kosten-berekenen", "tuin-of-bouwgrond-apart-verkopen-perceel-splitsen", "postinterventiedossier-pid-verkoop-woning", "woning-in-onteigeningsplan-of-rooilijn-verkopen", "onafgewerkte-verbouwing-of-bouwwerf-verkopen"],
+    relatedArticles: ["keuringen-bij-verkoop-woning", "pand-in-slechte-staat-verkopen", "verkoop-kosten-berekenen", "tuin-of-bouwgrond-apart-verkopen-perceel-splitsen", "postinterventiedossier-pid-verkoop-woning", "woning-in-onteigeningsplan-of-rooilijn-verkopen", "onafgewerkte-verbouwing-of-bouwwerf-verkopen", "oude-woning-zonder-bouwvergunning-vermoeden-van-vergunning"],
     relatedSituations: ["opknappand-verkopen", "huis-verkopen-bij-erfenis"],
     faqs: [
       {
@@ -1849,7 +1849,7 @@ export const articles: Article[] = [
         body: "Ja — maar enkel als het busnummer administratief beschikbaar is (tijdelijk of definitief) zodat het EPC kan worden opgemaakt. Zonder EPC is verkopen wettelijk niet mogelijk.\n\nAls het busnummer beschikbaar is maar de onderliggende overtreding niet geregulariseerd, gelden de regels van de stedenbouwkundige overtreding bij verkoop:\n\n• De overtreding moet worden vermeld in het maatregelenregister (verplicht in Antwerpen sinds april 2026)\n• De koper wordt bij de akte geïnformeerd over de overtreding\n• De koper neemt de overtreding en de eventuele handhavingsrisico's over\n\nVoor particuliere kopers die de woning zelf willen bewonen, is een onvergunde wooneenheid een risico. Voor professionele vastgoedopkopers die zelf regulariseren of voor eigen gebruik verbouwen, is het een courante situatie.\n\nWijkopenpanden.be koopt panden met busnummer-problematiek en stedenbouwkundige overtredingen aan in de Antwerpse regio. Wij nemen de administratieve situatie volledig op ons — u verkoopt as-is, zonder voorafgaande regularisatie of extra attesten.",
       },
     ],
-    relatedArticles: ["stedenbouwkundige-overtreding-woning-verkopen", "keuringen-bij-verkoop-woning", "leegstandsheffing-antwerpen-2026"],
+    relatedArticles: ["stedenbouwkundige-overtreding-woning-verkopen", "keuringen-bij-verkoop-woning", "leegstandsheffing-antwerpen-2026", "oude-woning-zonder-bouwvergunning-vermoeden-van-vergunning"],
     relatedSituations: ["opknappand-verkopen", "verkopen-zonder-makelaar"],
     faqs: [
       {
@@ -1920,7 +1920,7 @@ export const articles: Article[] = [
         body: "Ja, en het verloopt identiek als bij een klassieke verkoop. De notaris lost de hypotheek af bij de akte en u ontvangt het nettobedrag na aftrek van de schuld en de kosten.\n\nEen bijkomend voordeel bij verkoop aan een vastgoedopkoper: de akte kan sneller worden gepland (doorgaans binnen twee tot drie maanden), waardoor u ook sneller verlost bent van de maandelijkse hypotheeklasten. Voor eigenaars die de lening als financiële last ervaren, is dat een concrete besparing.\n\nWijkopenpanden.be koopt woningen aan in alle situaties, ook als er een lopende hypotheek op rust. Wij coördineren met de notaris en zorgen voor een vlotte afhandeling.",
       },
     ],
-    relatedArticles: ["commissie-makelaar-belgie", "hoelang-duurt-huis-verkopen-belgie", "huis-verkopen-antwerpen-gids", "huis-verkopen-bij-betalingsproblemen-schulden", "woning-verkopen-met-hypothecair-mandaat", "woonbonus-en-fiscaal-voordeel-bij-verkoop-woning"],
+    relatedArticles: ["commissie-makelaar-belgie", "hoelang-duurt-huis-verkopen-belgie", "huis-verkopen-antwerpen-gids", "huis-verkopen-bij-betalingsproblemen-schulden", "woning-verkopen-met-hypothecair-mandaat", "woonbonus-en-fiscaal-voordeel-bij-verkoop-woning", "partner-uitkopen-bij-scheiding-verdeelrecht"],
     relatedSituations: ["huis-verkopen-bij-scheiding", "verkopen-zonder-makelaar"],
     faqs: [
       {
@@ -2211,7 +2211,7 @@ export const articles: Article[] = [
         body: "Bij een verkoop aan wijkopenpanden.be bezorgen wij alle attesten, inclusief het bodemattest, op eigen kosten. U hoeft geen OVAM-aanvraag te doen — wij coördineren dit in samenwerking met de notaris.\n\nAls het bodemattest van uw perceel een risicogrond aangeeft, bespreken we dit transparant met u. We werken samen met erkende bodemsaneringsdeskundigen en kennen de procedure. In de meeste gevallen is het probleem kleiner dan gevreesd — en wij zijn bereid ook dergelijke panden over te nemen, mits de situatie duidelijk is.",
       },
     ],
-    relatedArticles: ["keuringen-bij-verkoop-woning", "verkoop-kosten-berekenen", "stedenbouwkundige-overtreding-woning-verkopen", "asbestattest-bij-verkoop-woning"],
+    relatedArticles: ["keuringen-bij-verkoop-woning", "verkoop-kosten-berekenen", "stedenbouwkundige-overtreding-woning-verkopen", "asbestattest-bij-verkoop-woning", "vastgoedinformatie-aanvragen-bij-verkoop"],
     relatedSituations: ["verkopen-zonder-makelaar", "huis-verkopen-bij-erfenis"],
     faqs: [
       {
@@ -4382,7 +4382,7 @@ export const articles: Article[] = [
         body: "In principe mag u **vrij over uw eigen onverdeeld aandeel beschikken**: u kunt uw aandeel verkopen aan een derde zonder toestemming van de andere mede-eigenaars. Beslissingen over het **geheel** van de woning vragen daarentegen wél ieders medewerking.\n\nToch is een los aandeel in de praktijk **moeilijk verkoopbaar**. Een koper verwerft dan geen woning, maar een onverdeelde positie mét een onwillige mede-eigenaar en een onzekere afloop — want zo'n verkoop houdt maar stand als het goed bij de uiteindelijke verdeling in de kavel van de verkoper terechtkomt. Weinig particuliere kopers zitten daarop te wachten, en de prijs voor een geïsoleerd aandeel ligt navenant laag.\n\nMeestal levert het meer op om, zodra alle mede-eigenaars akkoord zijn om samen te verkopen (of nadat de rechtbank de verkoop heeft bevolen), het **hele pand** in één keer te verkopen. Wilt u dan zekerheid en snelheid, dan kan een directe verkoop aan een professionele koper een alternatief zijn voor de onzekere opbrengst van een openbare veiling.\n\n**Wijkopenpanden.be** koopt panden in de regio Antwerpen aan in de huidige staat. Zodra de mede-eigenaars het eens zijn om te verkopen, ontvangt u binnen 2 uur een reactie op uw aanvraag en na een plaatsbezoek een schriftelijk bod op het geheel. U betaalt geen commissie en wij coördineren met uw notaris. Zo krijgen alle partijen een concreet, vergelijkbaar bedrag op tafel — handig om af te wegen tegen wat een openbare verkoop zou opbrengen, en vaak een manier om een slepend geschil sneller af te sluiten.",
       },
     ],
-    relatedArticles: ["mede-eigendom-verkopen", "erfenis-woning-stappenplan", "woning-verkopen-via-biddit", "belastingen-bij-woningverkoop", "hoe-snel-verkopen-en-geld-ontvangen"],
+    relatedArticles: ["mede-eigendom-verkopen", "erfenis-woning-stappenplan", "woning-verkopen-via-biddit", "belastingen-bij-woningverkoop", "hoe-snel-verkopen-en-geld-ontvangen", "partner-uitkopen-bij-scheiding-verdeelrecht"],
     relatedSituations: ["huis-verkopen-bij-scheiding", "huis-verkopen-bij-erfenis"],
     faqs: [
       {
@@ -7572,6 +7572,356 @@ export const articles: Article[] = [
         question: "Wat is een goed alternatief als de koper de voorwaarde weigert?",
         answer:
           "Meestal een langere termijn tot de akte, bijvoorbeeld zes of zeven maanden in plaats van vier. Andere pistes zijn blijven wonen na de verkoop gedurende een afgesproken periode, een overbruggingskrediet zodat u eerst kunt kopen, of een verkoopbelofte met lichtingstermijn. Wij kopen met eigen middelen en spreken de akteedatum met u af, wat hetzelfde probleem oplost zonder voorbehoud.",
+      },
+    ],
+  },
+  {
+    slug: "partner-uitkopen-bij-scheiding-verdeelrecht",
+    title: "Partner uitkopen bij een scheiding: opleg, verdeelrecht en de lening",
+    metaTitle: "Partner uitkopen bij scheiding: verdeelrecht en opleg",
+    metaDescription:
+      "Verdeelrecht 1% of 2,5%, berekend op de volledige waarde. Zo berekent u de opleg, en waarom de bank u pas loslaat na een uitdrukkelijk ontslag.",
+    publishedAt: "2026-08-04",
+    updatedAt: "2026-08-04",
+    intro:
+      "Wie na een scheiding de gezamenlijke woning overneemt, betaalt zijn ex-partner een opleg en betaalt daarnaast verdeelrecht aan de Vlaamse Belastingdienst. Dat verdeelrecht bedraagt in Vlaanderen 2,5 procent, maar zakt naar 1 procent wanneer de verdeling het gevolg is van een echtscheiding of van het einde van een wettelijke samenwoning. Feitelijk samenwonenden krijgen dat voordeel niet. Twee dingen verrassen bijna iedereen: bij een volledige uitonverdeeldheidtreding wordt de belasting berekend op de volledige waarde van de woning en niet op het overgenomen aandeel, en het verlaagd tarief moet uitdrukkelijk in de akte gevraagd worden.",
+    sections: [
+      {
+        heading: "De opleg: wat u uw ex-partner werkelijk betaalt",
+        body: "Uitkopen betekent dat één van beide partners het onverdeelde aandeel van de andere overneemt. Wat daarvoor betaald wordt, is niet de halve waarde van de woning maar de helft van de **nettowaarde**: de marktwaarde min het openstaande saldo van het krediet dat de overnemer voortaan alleen draagt.\n\nEen concreet voorbeeld met een woning van 400.000 euro, een openstaand kredietsaldo van 150.000 euro en een eigendom van 50/50 staat in de tabel hieronder. Wat opvalt: de opleg bedraagt 125.000 euro, maar het verdeelrecht wordt berekend op de volle 400.000 euro.\n\nDrie punten die de rekensom vertekenen als u ze vergeet:\n• **Eigen inbreng bij de aankoop.** Heeft één van beiden destijds meer eigen geld ingebracht, of een schenking van de ouders gekregen, dan is de verdeling zelden zuiver 50/50. Laat dat uitdrukkelijk becijferen; het is de meest voorkomende bron van betwisting.\n• **Vergoedingen voor het gebruik van de woning.** Wie na de breuk alleen in de woning bleef wonen, is aan de andere vaak een woonvergoeding verschuldigd. Die wordt met de opleg verrekend.\n• **De overeengekomen waarde mag niet lager zijn dan de verkoopwaarde.** Dat is geen advies maar de regel waarop de Vlaamse Belastingdienst de heffing baseert. Een te lage waarde in de akte om belasting te besparen kan dus worden gecorrigeerd, met een aanvullende aanslag tot gevolg. Een onafhankelijk schattingsverslag beschermt u hiertegen.",
+        table: {
+          headers: ["Post", "Bedrag", "Toelichting"],
+          rows: [
+            ["Waarde van de woning", "400.000 euro", "Overeengekomen waarde, minstens de verkoopwaarde"],
+            ["Openstaand kredietsaldo", "− 150.000 euro", "Wordt voortaan alleen door de overnemer gedragen"],
+            ["Nettowaarde", "250.000 euro", "De te verdelen massa"],
+            ["Opleg aan de ex-partner (50%)", "125.000 euro", "Effectief te betalen bedrag"],
+            ["Verdeelrecht aan 1%", "4.000 euro", "Berekend op 400.000 euro, niet op 125.000 euro"],
+            ["Verdeelrecht aan 2,5%", "10.000 euro", "Tarief zonder relatiebreuk of bij feitelijk samenwonen"],
+          ],
+        },
+      },
+      {
+        heading: "1 procent of 2,5 procent: het verschil zit in uw statuut",
+        body: "Het algemene tarief van het verdeelrecht in het Vlaamse Gewest bedraagt **2,5 procent**. Het verlaagd tarief van **1 procent** — in de volksmond de miserietaks — geldt enkel bij het einde van een geformaliseerde relatie. Feitelijk samenwonenden vallen er buiten, hoe lang zij ook samen zijn geweest. Dat verschil is bewust: de wetgever koppelt het fiscale voordeel aan een statuut dat officieel is vastgelegd, niet aan een feitelijke situatie.\n\nVoor ex-wettelijk samenwonenden gelden twee bijkomende voorwaarden die vaak over het hoofd worden gezien: de wettelijke samenwoning moet **minstens één jaar onafgebroken** hebben geduurd op het ogenblik dat ze eindigde, en de verdeling moet plaatsvinden **binnen drie jaar na het officiële einde** van die samenwoning. Wacht u langer, dan valt u terug op 2,5 procent. Voor ex-echtgenoten volstaat het dat de verdeling gebeurt na de echtscheiding.\n\nDrie nuances die in uw voordeel spelen:\n• Het verlaagd tarief geldt voor **elk onroerend goed**, niet alleen voor de gezinswoning. Ook een tweede verblijf of een opbrengsteigendom komt in aanmerking.\n• Het geldt **ongeacht of de verrichting de onverdeeldheid volledig doet ophouden**.\n• Dezelfde personen kunnen er **meermaals** van genieten.\n\nEn dan de valkuil die geld kost: **het verlaagd tarief moet in de akte gevraagd worden**. Het wordt niet automatisch toegepast omdat er een echtscheiding in het dossier zit. Zorg dat uw notaris de vermelding en de bewijsstukken opneemt.",
+        table: {
+          headers: ["Uw statuut", "Tarief", "Voorwaarde"],
+          rows: [
+            ["Gehuwd geweest", "1%", "De verdeling of afstand gebeurt na de echtscheiding"],
+            ["Wettelijk samengewoond", "1%", "Minstens 1 jaar onafgebroken, en verdeling binnen 3 jaar na het einde"],
+            ["Feitelijk samengewoond", "2,5%", "Geen verlaagd tarief, ongeacht de duur van de relatie"],
+            ["Mede-eigenaars na erfenis", "2,5%", "Relatiebreuk is niet aan de orde"],
+          ],
+        },
+      },
+      {
+        heading: "Waarop de belasting berekend wordt: de fout die duizenden euro's kost",
+        body: "Dit is het punt waarop de meeste mensen zich misrekenen. Het verdeelrecht is geen belasting op wat u koopt, maar op wat er **verdeeld** wordt.\n\nStopt de onverdeeldheid volledig — één van beiden blijft als enige eigenaar over — dan wordt het verdeelrecht geheven op de **totale waarde** van het wedersamengestelde goed. In het voorbeeld hierboven dus op 400.000 euro, ook al betaalt de overnemer maar 125.000 euro aan zijn ex.\n\nBlijft er wel nog onverdeeldheid bestaan — bijvoorbeeld omdat er drie mede-eigenaars zijn en er maar één uitstapt — dan wordt het verdeelrecht enkel geheven op **de delen die worden overgedragen**.\n\nHet praktische gevolg: bij een woning van 400.000 euro scheelt het tarief van 1 procent tegenover 2,5 procent u 6.000 euro. Dat is geen detail, en het verklaart waarom de timing van een verdeling na een wettelijke samenwoning zo nauw luistert. Wie de driejaarstermijn laat verstrijken, betaalt het verschil uit eigen zak.\n\nHoud er ten slotte rekening mee dat het verdeelrecht een andere belasting is dan het verkooprecht. Koopt niet uw ex-partner maar een **derde** het aandeel over — een nieuwe partner bijvoorbeeld, die nooit mede-eigenaar was — dan is dat een verkoop en geldt het verkooprecht, niet het verdeelrecht. Dat verschil in tarief is aanzienlijk. Laat een dergelijke constructie altijd vooraf aan de notaris voorleggen.",
+        table: {
+          headers: ["Situatie", "Heffingsgrondslag", "Bij een woning van 400.000 euro"],
+          rows: [
+            ["Eén partner wordt enige eigenaar", "De totale waarde van het goed", "400.000 euro"],
+            ["Eén van drie mede-eigenaars stapt uit", "Enkel het overgedragen deel", "Het aandeel dat overgaat"],
+            ["Verschil 1% tegenover 2,5%", "—", "6.000 euro"],
+          ],
+        },
+      },
+      {
+        heading: "Het abattement van 50.000 euro: wat wij er wel en niet over vonden",
+        body: "Zoekt u online naar het verdeelrecht, dan botst u vroeg of laat op de mededeling dat u recht heeft op een **abattement van 50.000 euro** op de grondslag, verhoogd met 20.000 euro per kind ten laste. Die zin staat op tientallen sites, telkens in bijna dezelfde bewoordingen.\n\nWij hebben die vermindering niet teruggevonden op de officiële pagina's van de Vlaamse Belastingdienst over de tarieven en de belastbare grondslag van het verdeelrecht. Die pagina's vermelden het tarief van 2,5 procent, het verlaagd tarief van 1 procent en de berekeningswijze — maar geen abattement.\n\nWat betekent dat concreet? Twee mogelijkheden. Ofwel gaat het om een vermindering die aan strikte voorwaarden hangt en die de betrokken sites onvolledig weergeven, ofwel schrijven zij een regeling over die niet meer bestaat. De Vlaamse woonfiscaliteit is de voorbije jaren grondig hertekend — het abattement bij aankoop en de woonbonus zijn allebei verdwenen — en online content volgt die wijzigingen zelden.\n\nOns advies is dus niet dat het abattement niet bestaat. Ons advies is dat u er **niet op mag rekenen** zonder bevestiging. Laat uw notaris uitdrukkelijk nagaan of u er in uw concrete situatie aanspraak op maakt, en reken uw budget door zonder die vermindering. Wordt ze toch toegekend, dan is dat meegenomen. Bouwt u ze in uw berekening in en blijkt ze niet te gelden, dan staat u bij het verlijden van de akte voor een gat van enkele honderden euro's.\n\nDit is meteen een bredere les over fiscale informatie op het internet: herhaling is geen bevestiging. Twintig sites die hetzelfde zeggen, kunnen alle twintig dezelfde verouderde bron hebben overgeschreven.",
+      },
+      {
+        heading: "De bank is de echte poortwachter: ontslag van hoofdelijkheid",
+        body: "Veel scheidende koppels denken dat de notariële akte van verdeling de zaak afsluit. Dat klopt voor de **eigendom**, maar niet voor de **lening**.\n\nWie het kredietcontract mee heeft ondertekend, blijft tegenover de bank hoofdelijk gehouden. Hoofdelijk betekent dat de bank het volledige openstaande saldo bij één van beiden mag opeisen, niet de helft. Dat verandert pas wanneer de bank u **uitdrukkelijk en schriftelijk ontslaat** van uw verbintenis. Een afspraak tussen u en uw ex-partner, zelfs een notarieel vastgelegde, bindt de bank niet.\n\nDe bank beoordeelt daarvoor één vraag: kan de overblijvende partner de lening **alleen** dragen? Zij herbekijkt het inkomen, de terugbetalingscapaciteit en de waarde van het onderpand. Zegt zij neen, dan zijn er in de praktijk vier uitwegen:\n• **Herfinancieren bij een andere bank**, op naam van de overnemer alleen. Houd er rekening mee dat bij vervroegde terugbetaling een wederbeleggingsvergoeding verschuldigd is, wettelijk begrensd tot maximaal drie maanden interest op het openstaande saldo.\n• **Bijkomende zekerheden bieden**, bijvoorbeeld een borgstelling door een ouder of een bijkomende hypotheek.\n• **De opleg verlagen** en het verschil op een andere manier compenseren binnen de globale regeling.\n• **Samen verkopen** en het krediet met de opbrengst aflossen.\n\nDe volgorde die de meeste tijd bespaart: vraag de bank eerst een principieel akkoord over het ontslag van hoofdelijkheid, en leg pas daarna de verdeling vast bij de notaris. Omgekeerd werken leidt tot een akte die financieel niet uitvoerbaar blijkt.",
+        table: {
+          headers: ["", "Akte van verdeling bij de notaris", "Ontslag van hoofdelijkheid bij de bank"],
+          rows: [
+            ["Regelt", "Wie eigenaar is", "Wie de lening moet terugbetalen"],
+            ["Wie beslist", "De partijen", "Uitsluitend de bank"],
+            ["Zonder dit document", "Geen eigendomsoverdracht", "U blijft aanspreekbaar voor het volledige saldo"],
+            ["Aan te vragen", "Na akkoord over de waarde", "Bij voorkeur eerst, als principieel akkoord"],
+          ],
+        },
+      },
+      {
+        heading: "Uitkopen of samen verkopen: de eerlijke rekensom",
+        body: "Uitkopen voelt aan als de warme oplossing: de kinderen blijven in hun vertrouwde omgeving en één van beiden hoeft niet te verhuizen. Maar het is ook de duurste oplossing, en de meest risicovolle voor wie alleen achterblijft.\n\nZet er drie cijfers naast elkaar. Bij uitkoop betaalt u de opleg, het verdeelrecht op de volledige waarde en de kosten van de akte van verdeling — en u draagt vanaf dan alleen een krediet dat oorspronkelijk op twee inkomens was berekend. Bij een gezamenlijke verkoop deelt u de opbrengst, betaalt u geen verdeelrecht en lost u het krediet in één keer af.\n\nDe vuistregel die notarissen vaak hanteren: uitkopen is verdedigbaar als de overnemer de lening alleen kan dragen met een comfortabele marge, en als de woning niet zo groot of duur in onderhoud is dat ze op termijn toch verkocht moet worden. Is het antwoord op één van beide twijfelachtig, dan is samen verkopen meestal de rustigere weg — hoe pijnlijk die beslissing op dat moment ook voelt.\n\nEen praktisch aandachtspunt tot slot: zolang de onverdeeldheid duurt, blijven beiden aansprakelijk voor de lasten van de woning. Onroerende voorheffing, verzekering, onderhoud, en de aflossingen. Een verdeling die maandenlang aansleept, kost dus ook geld aan wie er niet meer woont.",
+        table: {
+          headers: ["", "Eén partner koopt uit", "Samen verkopen aan een derde"],
+          rows: [
+            ["Verdeelrecht", "1% of 2,5% op de volledige waarde", "Niet verschuldigd"],
+            ["Akkoord van de bank nodig", "Ja, ontslag van hoofdelijkheid", "Neen, het krediet wordt afgelost"],
+            ["Wie draagt het risico nadien", "De overnemer, alleen", "Niemand van beiden"],
+            ["Onenigheid over de waarde", "Blokkeert de hele regeling", "De markt bepaalt de prijs"],
+            ["Snelheid", "Afhankelijk van de kredietbeslissing", "Afhankelijk van de verkoop"],
+          ],
+        },
+      },
+      {
+        heading: "Als uitkopen niet lukt: samen verkopen zonder maandenlange onzekerheid",
+        body: "Wanneer de bank neen zegt of wanneer geen van beiden de woning wil of kan overnemen, blijft er één weg over: samen verkopen. En precies daar loopt het na een breuk vaak opnieuw vast — op de prijs, op de bezichtigingen, op de vraag wie de woning intussen onderhoudt.\n\nWij kopen woningen en panden in de regio **Antwerpen** rechtstreeks aan, met eigen middelen. In een scheidingsdossier lost dat drie problemen tegelijk op:\n\n• **Eén prijs, schriftelijk, voor beide partijen tegelijk.** Geen discussie over wie de makelaar heeft gekozen of wie er onderhandeld heeft. Beide partijen krijgen hetzelfde document.\n• **Geen bezichtigingen en geen wachttijd.** Er komen geen kandidaat-kopers over de vloer terwijl u nog samen onder één dak woont.\n• **Geen financieringsvoorbehoud.** Ons bod hangt niet af van een bankdossier, dus de akte kan op een afgesproken datum doorgaan. Wij werken daarbij samen met de notaris en de advocaten van beide partijen, en de opbrengst wordt via de notaris verdeeld volgens uw regeling.\n\nWees eerlijk geïnformeerd: **wij zijn niet de hoogste bieder op een oververhitte markt.** Wat wij bieden is zekerheid en snelheid, zonder commissie en zonder voorbehoud. In een dossier waarin elke maand vertraging beide partijen geld en energie kost, weegt dat vaak zwaarder dan de laatste procenten.\n\nOnze werkwijze: reactie op uw aanvraag doorgaans binnen 2 uur, een plaatsbezoek gevolgd door een schriftelijk en vrijblijvend bod, en bij akkoord een akte op een datum die beide partijen past.",
+      },
+    ],
+    relatedArticles: [
+      "mede-eigendom-verkopen",
+      "mede-eigenaar-wil-niet-verkopen-uit-onverdeeldheid",
+      "huis-verkopen-met-hypotheek",
+      "pand-laten-schatten-schattingsverslag",
+      "notariskosten-woning-verkoop",
+      "woonbonus-en-fiscaal-voordeel-bij-verkoop-woning",
+    ],
+    relatedSituations: ["huis-verkopen-bij-scheiding", "schatting-pand"],
+    faqs: [
+      {
+        question: "Hoeveel verdeelrecht betaal ik als ik mijn ex-partner uitkoop?",
+        answer:
+          "In het Vlaamse Gewest bedraagt het verdeelrecht 2,5 procent, verlaagd tot 1 procent wanneer de verdeling het gevolg is van een echtscheiding of van het einde van een wettelijke samenwoning. Stopt de onverdeeldheid volledig, dan wordt de belasting berekend op de totale waarde van de woning, niet op het aandeel dat u overneemt.",
+      },
+      {
+        question: "Krijg ik het tarief van 1 procent ook als wij feitelijk samenwoonden?",
+        answer:
+          "Neen. Het verlaagd tarief geldt enkel voor ex-echtgenoten en voor ex-wettelijk samenwonenden. Feitelijk samenwonenden betalen 2,5 procent, ongeacht hoe lang de relatie duurde. Voor wettelijk samenwonenden gelden bovendien twee voorwaarden: minstens één jaar onafgebroken wettelijk samenwonen, en een verdeling binnen drie jaar na het officiële einde ervan.",
+      },
+      {
+        question: "Wordt het verlaagd tarief automatisch toegepast?",
+        answer:
+          "Neen, het moet in de akte gevraagd worden. De Vlaamse Belastingdienst past het niet uit zichzelf toe omdat er een echtscheiding in het dossier zit. Zorg dat uw notaris de vermelding en de nodige bewijsstukken opneemt in de akte van verdeling, anders betaalt u het algemene tarief van 2,5 procent.",
+      },
+      {
+        question: "Klopt het dat er een abattement van 50.000 euro bestaat?",
+        answer:
+          "Dat wordt op veel websites vermeld, maar wij hebben die vermindering niet teruggevonden op de officiële pagina's van de Vlaamse Belastingdienst over de tarieven en de belastbare grondslag van het verdeelrecht. Reken er niet op zonder bevestiging: laat uw notaris uitdrukkelijk nagaan of ze in uw situatie geldt, en budgetteer voorlopig zonder.",
+      },
+      {
+        question: "Ben ik van de lening af zodra de akte van verdeling getekend is?",
+        answer:
+          "Neen. De akte regelt de eigendom, niet het krediet. U blijft tegenover de bank hoofdelijk gehouden tot zij u uitdrukkelijk en schriftelijk ontslaat van uw verbintenis. Vraag dat ontslag van hoofdelijkheid bij voorkeur als principieel akkoord aan vóór u de verdeling bij de notaris laat vastleggen.",
+      },
+      {
+        question: "Mogen wij zelf een lagere waarde in de akte zetten om belasting te besparen?",
+        answer:
+          "Neen. De overeengekomen waarde die als grondslag dient, mag niet lager zijn dan de verkoopwaarde. Een te lage waardering kan door de Vlaamse Belastingdienst worden gecorrigeerd, met een aanvullende aanslag als gevolg. Een onafhankelijk schattingsverslag onderbouwt de gekozen waarde en beschermt beide partijen tegen die discussie.",
+      },
+    ],
+  },
+  {
+    slug: "oude-woning-zonder-bouwvergunning-vermoeden-van-vergunning",
+    title: "Geen bouwvergunning voor uw oude woning? Het vermoeden van vergunning",
+    metaTitle: "Oude woning zonder bouwvergunning: vermoeden van vergunning",
+    metaDescription:
+      "Gebouwd voor 22 april 1962? Dan geldt een onweerlegbaar vermoeden van vergunning. Zo laat u dat vastleggen in het vergunningenregister en verkoopt u vlot.",
+    publishedAt: "2026-08-04",
+    updatedAt: "2026-08-04",
+    intro:
+      "Van veel oudere woningen bestaat er geen bouwvergunning, en dat is meestal geen probleem. Kan u aantonen dat de constructie gebouwd is vóór 22 april 1962, dan wordt ze door artikel 4.2.14 van de Vlaamse Codex Ruimtelijke Ordening geacht vergund te zijn, en dat vermoeden is onweerlegbaar. Voor constructies van tussen 22 april 1962 en de eerste inwerkingtreding van het gewestplan geldt hetzelfde, maar dan weerlegbaar. De sleutel bij een verkoop is dat u de gemeente die vaststelling in het vergunningenregister laat opnemen — anders blijft de discussie bij elke kandidaat-koper terugkomen.",
+    sections: [
+      {
+        heading: "Waarom er van uw woning geen vergunning bestaat",
+        body: "Wie in het archief van de gemeente gaat zoeken naar de bouwvergunning van een rijhuis uit 1935, komt vaak van een kale reis terug. Dat is geen slordigheid van de vorige eigenaar en meestal ook niet van de gemeente.\n\nDe **Stedenbouwwet van 29 maart 1962** trad in werking op **22 april 1962**. Pas vanaf dat ogenblik was er in principe voor het oprichten van een constructie een vergunning nodig op het hele grondgebied. Daarvoor bestonden er wel gemeentelijke bouwreglementen, maar die waren lokaal, ongelijk en vaak beperkt tot de gevel of de rooilijn. Een centraal vergunningenarchief zoals wij dat vandaag kennen, bestond eenvoudigweg niet.\n\nDe wetgever heeft dat later opgelost met een pragmatische regel: wat oud genoeg is, wordt geacht vergund te zijn. Die regel staat in **artikel 4.2.14 van de Vlaamse Codex Ruimtelijke Ordening (VCRO)** en heet het vermoeden van vergunning.\n\nDat is bijzonder relevant in een stad als Antwerpen, waar een groot deel van het woningbestand — rijhuizen, burgerwoningen, herenhuizen — dateert van vóór de Tweede Wereldoorlog. De vraag is dus zelden of uw woning vergund is, maar wel of u dat kunt **aantonen** en of de gemeente het heeft **vastgelegd**.",
+      },
+      {
+        heading: "Twee vermoedens, twee scharnierdata",
+        body: "Artikel 4.2.14 VCRO maakt een onderscheid dat u moet kennen, want het bepaalt hoe stevig uw positie is.\n\n**Het onweerlegbaar vermoeden.** Bestaande constructies waarvan met alle rechtens toegelaten bewijsmiddelen kan worden aangetoond dat ze zijn opgericht **vóór 22 april 1962**, worden geacht vergund te zijn. Onweerlegbaar wil zeggen: de overheid kan daar niets meer tegen inbrengen, ook niet met een proces-verbaal. Dit is de sterkste positie die er bestaat.\n\n**Het weerlegbaar vermoeden.** Voor constructies opgericht **vanaf 22 april 1962 tot de eerste inwerkingtreding van het gewestplan** waarbinnen ze liggen, geldt hetzelfde vermoeden, maar het kan worden weerlegd. Dat kan enkel door een **proces-verbaal of een niet-anoniem bezwaarschrift**, opgesteld binnen een termijn van **vijf jaar** na het oprichten of plaatsen van de constructie. In de praktijk betekent dat: voor een woning uit 1970 waarover in de jaren zeventig niemand geklaagd heeft, is die deur allang dicht.\n\nEr is nog een tweede beveiliging. Zodra een constructie **één jaar** als vergund geacht is opgenomen in het vergunningenregister, kan er in de regel geen tegenbewijs meer worden geleverd. Die bescherming geldt niet onbeperkt: voor constructies in **ruimtelijk kwetsbaar gebied** blijft de situatie gevoeliger. Het vermoeden geldt bovendien **niet voor publiciteitsinrichtingen**.",
+        table: {
+          headers: ["Bouwperiode", "Soort vermoeden", "Kan de overheid het weerleggen?"],
+          rows: [
+            ["Vóór 22 april 1962", "Onweerlegbaar", "Neen, in geen enkel geval"],
+            ["22 april 1962 tot eerste gewestplan", "Weerlegbaar", "Enkel via pv of niet-anoniem bezwaar binnen 5 jaar na de oprichting"],
+            ["Na de inwerkingtreding van het gewestplan", "Geen vermoeden", "Een vergunning was vereist en moet er zijn"],
+            ["Opgenomen in het vergunningenregister sinds meer dan 1 jaar", "Versterkt", "In de regel niet meer, behoudens ruimtelijk kwetsbaar gebied"],
+          ],
+        },
+      },
+      {
+        heading: "De tweede datum die u moet kennen: uw gewestplan",
+        body: "De einddatum van het weerlegbaar vermoeden is niet in heel Vlaanderen dezelfde. Ze valt samen met de **eerste inwerkingtreding van het gewestplan** waarin uw perceel ligt, en de gewestplannen zijn tussen ongeveer 1976 en 1980 in verschillende golven vastgesteld.\n\nVoor de regio Antwerpen is het gewestplan Antwerpen vastgesteld bij **koninklijk besluit van 3 oktober 1979**. Voor percelen binnen dat gewestplan loopt het weerlegbaar vermoeden dus tot in het najaar van 1979. Ligt uw pand in een andere regio, dan geldt de datum van uw eigen gewestplan — **vraag die na bij de dienst omgeving van uw gemeente** en ga niet af op een datum die u elders leest. Het verschil van enkele jaren kan bepalend zijn.\n\nWaarom dit praktisch belangrijk is: veel woningen zijn niet in één beweging gebouwd. Het hoofdvolume dateert van vóór 1962, de achterbouw uit de jaren zestig, de veranda uit 1985 en de dakkapel uit 2005. Elk van die onderdelen wordt afzonderlijk beoordeeld. Het vermoeden dekt het hoofdvolume, maar niet automatisch alles wat er nadien is bijgekomen.\n\nDat is meteen de meest voorkomende ontgoocheling in dit dossier: eigenaars gaan ervan uit dat een oude woning integraal in orde is, terwijl de aanbouw uit 1988 gewoon een vergunning nodig had.",
+      },
+      {
+        heading: "Hoe u het laat vastleggen in het vergunningenregister",
+        body: "Een vermoeden dat enkel in uw hoofd bestaat, helpt u bij een verkoop niet vooruit. De officiële weg is de opname in het **vergunningenregister** van de gemeente, op grond van **artikel 5.1.3 VCRO**. Dat register is de bron waaruit de vastgoedinlichtingen bij een verkoop worden geput; wat er niet in staat, ziet uw koper niet.\n\nU dient daarvoor een aanvraag in bij de dienst omgeving, met bewijsstukken. De gemeente heeft een **actieve onderzoeksplicht** en moet het resultaat van dat onderzoek in het register opnemen. Verwacht geen antwoord binnen de week: gemeenten geven zelf aan dat het onderzoek **enkele maanden** kan duren, waarna het college een beslissing neemt. Sommige gemeenten heffen een retributie voor de dossierkosten.\n\nWordt de opname geweigerd, dan moet die weigering uw bewijzen ook effectief weerleggen — een blote afwijzing volstaat niet. Tegen de beslissing over de opname staat beroep open bij de **Raad voor Vergunningsbetwistingen**, binnen een termijn van **45 dagen** na de beslissing. Laat dat niet aanslepen: die termijn is kort en vervalt definitief.\n\nWelke bewijsstukken werken? De wet aanvaardt alle rechtens toegelaten bewijsmiddelen. In de praktijk zijn dit de meest overtuigende, en de combinatie ervan telt zwaarder dan één enkel stuk.",
+        table: {
+          headers: ["Bewijsstuk", "Waar te vinden", "Sterkte"],
+          rows: [
+            ["Kadastrale uittreksels en oude kadasterplannen", "FOD Financiën, Algemene Administratie van de Patrimoniumdocumentatie", "Sterk, bevat vaak een datering"],
+            ["Schattingsfiche of oude kadastrale legger", "FOD Financiën", "Sterk, vermeldt het jaar van ingebruikname"],
+            ["Historische luchtfoto's en orthofoto's", "Geopunt en het gemeentearchief", "Sterk, toont de toestand op een bepaald jaar"],
+            ["Oude foto's en postkaarten", "Familiearchief, stadsarchief, heemkundige kring", "Ondersteunend"],
+            ["Facturen van aannemers en notariële aktes", "Eigen archief, notaris", "Ondersteunend tot sterk"],
+            ["Getuigenverklaringen", "Buren, familie, met naam en adres", "Enkel aanvullend, zelden voldoende alleen"],
+          ],
+        },
+      },
+      {
+        heading: "Wat het vermoeden niet dekt",
+        body: "Hier gaan de meeste dossiers de mist in. Het vermoeden van vergunning zegt iets over het **oprichten** van de constructie op een bepaald ogenblik. Het is geen algemeen vrijgeleide.\n\nVier situaties waarin u er niets aan heeft:\n\n**Latere verbouwingen.** Alles wat na de scharnierdatum werd bijgebouwd, uitgebreid of gewijzigd, moest zijn eigen vergunning hebben. Een achterbouw uit 1990 aan een woning uit 1930 is en blijft onvergund als er geen vergunning voor is.\n\n**Functiewijzigingen.** Een winkelpand dat woning werd, een woning die kantoor werd, een garage die studio werd: de bestemmingswijziging is een aparte vergunningsplichtige handeling. Het vermoeden dekt de gevel, niet het gebruik.\n\n**Opdeling in meerdere woongelegenheden.** Dit is in Antwerpen het klassieke pijnpunt. Een herenhuis dat ergens in de jaren zeventig of tachtig in drie appartementen werd opgedeeld zonder vergunning, blijft een vergunningsprobleem — ook als het gebouw zelf van 1900 dateert. Ontbrekende busnummers zijn daarvan het meest zichtbare symptoom.\n\n**Publiciteitsinrichtingen.** Die zijn uitdrukkelijk uitgesloten van het vermoeden.\n\nEn los daarvan: een vermoeden van vergunning maakt een constructie niet **conform**. Woningkwaliteit, brandveiligheid, elektrische keuring en energieprestatie worden apart beoordeeld. Een woning kan perfect vergund geacht zijn en tegelijk ongeschikt worden verklaard.",
+        table: {
+          headers: ["Element", "Gedekt door het vermoeden?", "Wat u dan nodig heeft"],
+          rows: [
+            ["Hoofdvolume van vóór 1962", "Ja, onweerlegbaar", "Bewijs van de bouwperiode"],
+            ["Aanbouw of veranda van na het gewestplan", "Neen", "Vergunning of regularisatie"],
+            ["Opdeling in appartementen", "Neen", "Vergunning voor het opdelen"],
+            ["Functiewijziging naar wonen of kantoor", "Neen", "Vergunning voor de functiewijziging"],
+            ["Woningkwaliteit en attesten", "Neen, staat los", "Keuringen en conformiteit"],
+          ],
+        },
+      },
+      {
+        heading: "Wat dit betekent wanneer u verkoopt",
+        body: "Bij een verkoop komt de vergunningstoestand op drie manieren naar boven, en u kunt er geen van drie omzeilen.\n\n**De informatieplicht.** In het compromis en de akte moet worden vermeld wat er over de stedenbouwkundige toestand bekend is. Die gegevens komen uit het vergunningenregister. Staat uw woning daar niet als vergund geacht in, dan leest de koper in feite dat er géén vergunning gekend is — met alle vragen van dien.\n\n**De bank van uw koper.** Financiers zijn de voorbije jaren strenger geworden. Een dossier waarin de stedenbouwkundige toestand onduidelijk is, wordt trager behandeld en soms geweigerd. Dat is vaak de echte reden waarom een verkoop van een oud pand strandt: niet de koper haakt af, maar zijn kredietdossier.\n\n**Het maatregelenregister.** Sinds **1 april 2026** moeten notarissen en vastgoedmakelaars bij elke overdracht van zakelijke rechten het maatregelenregister raadplegen. Daarin staan handhavingsmaatregelen die op een onroerend goed rusten, inclusief aanmaningen en herstelvorderingen — dus niet alleen definitieve beslissingen. Wat vroeger ongemerkt kon passeren, komt nu systematisch bovendrijven.\n\nDe verstandige volgorde voor wie tijd heeft: vraag de opname in het vergunningenregister aan **vóór** u de woning te koop zet. Een dossier waarin zwart op wit staat dat de woning vergund geacht is, verkoopt eenvoudiger, sneller en aan een betere prijs dan een dossier vol vraagtekens. Reken wel op enkele maanden.\n\nVerzwijgen is geen optie. Wat u weet, moet u meedelen; een koper die achteraf ontdekt dat u op de hoogte was, heeft een dossier tegen u.",
+      },
+      {
+        heading: "Verkopen zonder de procedure af te wachten",
+        body: "Niet iedereen heeft die maanden. Bij een nalatenschap, een verhuis naar een woonzorgcentrum of een scheiding kan een wachttijd van een half jaar op een gemeentelijk onderzoek gewoon niet.\n\nWij kopen woningen in de regio **Antwerpen** rechtstreeks aan, ook wanneer de vergunningstoestand niet volledig uitgeklaard is. Concreet betekent dat:\n\n• Wij vragen zelf de vastgoedinlichtingen en het vergunningenregister op en beoordelen de toestand intern.\n• Wij schatten de kans op opname als vergund geacht, of de kost van een regularisatie, en verrekenen dat **transparant** in ons bod — geen zwarte doos, u ziet waarop wij ons baseren.\n• Wij nemen de stedenbouwkundige last bij de akte over en voeren de procedure nadien zelf, op ons tempo en op ons budget.\n• Er is geen financieringsvoorbehoud, dus de aarzeling van een bank speelt geen rol.\n\nWees eerlijk geïnformeerd: **wij zijn niet de hoogste bieder op een oververhitte markt.** Voor een pand met een propere vergunningshistoriek en een geduldige verkoper levert de gewone markt meer op. Onze meerwaarde ligt precies daar waar de gewone markt aarzelt — bij oude panden met een onduidelijk dossier.\n\nOnze werkwijze: reactie op uw aanvraag doorgaans binnen 2 uur, een plaatsbezoek gevolgd door een schriftelijk en vrijblijvend bod, en bij akkoord een akte op een datum die u past.",
+      },
+    ],
+    relatedArticles: [
+      "stedenbouwkundige-overtreding-woning-verkopen",
+      "ontbrekend-busnummer-onvergund-appartement-antwerpen",
+      "beschermd-monument-erfgoedwoning-verkopen",
+      "pand-in-slechte-staat-verkopen",
+      "verborgen-gebreken-woning-verkoop-belgie",
+      "vastgoedinformatie-aanvragen-bij-verkoop",
+    ],
+    relatedSituations: ["opknappand-verkopen", "vastgoedopkoper-antwerpen"],
+    faqs: [
+      {
+        question: "Mijn woning dateert van 1935 en er is geen bouwvergunning. Is dat een probleem?",
+        answer:
+          "In principe niet. Kan u aantonen dat de constructie is opgericht vóór 22 april 1962, dan wordt ze op grond van artikel 4.2.14 VCRO geacht vergund te zijn, en dat vermoeden is onweerlegbaar. Laat de gemeente die vaststelling wel opnemen in het vergunningenregister, want anders ziet een kandidaat-koper enkel dat er geen vergunning gekend is.",
+      },
+      {
+        question: "Waarom is 22 april 1962 de scharnierdatum?",
+        answer:
+          "Op die dag trad de Stedenbouwwet van 29 maart 1962 in werking. Pas vanaf dat ogenblik was er in principe overal een vergunning nodig om een constructie op te richten. Voor die datum bestonden er enkel lokale bouwreglementen en geen centraal vergunningenarchief, waardoor van veel oudere panden nooit een vergunningsdossier is aangelegd.",
+      },
+      {
+        question: "Welke bewijzen aanvaardt de gemeente?",
+        answer:
+          "Alle rechtens toegelaten bewijsmiddelen. In de praktijk werken kadastrale uittreksels, oude kadasterplannen, de schattingsfiche van de FOD Financiën en historische luchtfoto's het best. Oude foto's, postkaarten, facturen, notariële aktes en getuigenverklaringen zijn ondersteunend. De combinatie van meerdere stukken weegt zwaarder dan één enkel document.",
+      },
+      {
+        question: "Geldt het vermoeden ook voor mijn aanbouw en mijn veranda?",
+        answer:
+          "Alleen als die zelf binnen de betrokken periode zijn opgericht. Elk bouwdeel wordt afzonderlijk beoordeeld. Een woning uit 1930 met een aanbouw uit 1990 heeft een vergund geacht hoofdvolume en een aanbouw die gewoon een vergunning nodig had. Hetzelfde geldt voor functiewijzigingen en voor het opdelen van een pand in meerdere woongelegenheden.",
+      },
+      {
+        question: "Hoe lang duurt de opname in het vergunningenregister?",
+        answer:
+          "Gemeenten geven zelf aan dat het onderzoek enkele maanden kan duren, waarna het college beslist. Sommige gemeenten rekenen een retributie voor de dossierkosten aan. Wordt de opname geweigerd, dan moet die weigering uw bewijzen effectief weerleggen, en kunt u binnen 45 dagen na de beslissing beroep instellen bij de Raad voor Vergunningsbetwistingen.",
+      },
+      {
+        question: "Kan ik verkopen terwijl de procedure loopt?",
+        answer:
+          "Ja, op voorwaarde dat u transparant bent over wat u weet. De vergunningstoestand komt sowieso aan het licht: sinds 1 april 2026 moeten notarissen en vastgoedmakelaars bij elke overdracht ook het maatregelenregister raadplegen. Wij kopen panden aan met een onuitgeklaarde vergunningstoestand en verrekenen het risico transparant in ons bod.",
+      },
+    ],
+  },
+  {
+    slug: "vastgoedinformatie-aanvragen-bij-verkoop",
+    title: "Vastgoedinformatie bij verkoop: wat het kost en hoe lang het duurt",
+    metaTitle: "Vastgoedinformatie bij verkoop: kosten en termijnen",
+    metaDescription:
+      "Sinds 2024 verloopt alles via het Vastgoedinformatieplatform. Wat de platformretributie en de gemeentelijke retributie kosten, en hoe lang u wacht.",
+    publishedAt: "2026-08-04",
+    updatedAt: "2026-08-04",
+    intro:
+      "Bij elke verkoop van een woning in Vlaanderen moeten de vastgoedinlichtingen opgevraagd worden, en dat verloopt sinds 1 januari 2024 verplicht via één digitaal kanaal: het Vastgoedinformatieplatform. U betaalt twee bedragen naast elkaar — een platformretributie en een gemeentelijke retributie die per gemeente sterk verschilt, van 25 euro tot meer dan 300 euro, met 90 euro voor de stad Antwerpen. Reken op maximaal 20 kalenderdagen levertermijn. Het bodemattest en, sinds april 2026, het maatregelenregister zijn aparte producten met een eigen prijs.",
+    sections: [
+      {
+        heading: "Wat vastgoedinlichtingen zijn en waarom u er niet omheen kunt",
+        body: "Vastgoedinlichtingen zijn het geheel van officiële gegevens die een gemeente over een perceel bijhoudt en die bij een verkoop meegedeeld moeten worden. Het product **Vastgoedinlichtingen voor overdracht** bundelt volgens de beheerder van het platform **meer dan vijftig inlichtingen**, gegroepeerd in thematische rubrieken.\n\nWat er zoal in zit: de stedenbouwkundige toestand en de vergunningshistoriek, de ruimtelijke bestemming, milieu- en natuurinformatie, erfgoedgegevens, informatie over grond- en pandenbeleid zoals leegstand, verwaarlozing of ongeschiktheid, wettelijke erfdienstbaarheden, voorkooprechten, en fiscale gegevens.\n\nDit is geen formaliteit. Het is de feitelijke basis waarop de notaris de verklaringen in het compromis en de akte opstelt, en waarop de koper zijn beslissing baseert. Ontbreekt er iets of klopt er iets niet, dan is dat het startpunt van een betwisting achteraf.\n\nHet grote misverstand: veel verkopers denken dat de notaris dit \"er wel bij\" doet. De notaris vraagt de inlichtingen inderdaad op, maar de **kostprijs wordt doorgerekend**, en die valt hoger uit dan de meeste mensen inschatten. Reken deze post dus mee in uw verkoopkosten in plaats van hem als verrassing op de eindafrekening te ontdekken.",
+      },
+      {
+        heading: "Sinds 1 januari 2024 verloopt alles via één platform",
+        body: "Tot enkele jaren geleden vroeg elke notaris de inlichtingen apart op bij elke gemeente, elk met een eigen formulier, een eigen tarief en een eigen doorlooptijd. Dat is voorbij.\n\nHet **VIP-decreet werd bekrachtigd op 22 december 2023 en trad in werking op 1 januari 2024**. Sindsdien verlopen **alle aanvragen Vastgoedinlichtingen voor overdracht verplicht via het Vastgoedinformatieplatform**. Het platform wordt beheerd door athumi, het Vlaams datanutsbedrijf.\n\nWie kan aanvragen? Notarissen, vastgoedmakelaars, landmeters-experten, overheidsinstanties met een protocol — en **burgers zelf, via MijnBurgerprofiel**. Dat laatste is nuttiger dan het lijkt: als eigenaar kunt u de vastgoedinlichtingen van uw eigen pand opvragen vóór u het te koop zet. U weet dan op voorhand wat een kandidaat-koper te zien krijgt, en u wordt niet halverwege de onderhandeling verrast door een leegstandsregistratie of een voorkooprecht waarvan u niet wist dat het bestond.\n\nDe winst van het systeem is vooral **voorspelbaarheid**: één aanvraagkanaal, één afgesproken termijn, één factuur. De keerzijde is dat u niet meer kunt shoppen — het tarief van uw gemeente is het tarief dat u betaalt.",
+      },
+      {
+        heading: "De prijs: twee bedragen naast elkaar",
+        body: "De kostprijs bestaat uit twee delen, en het tweede deel is meestal het grootste.\n\n**De platformretributie** is het bedrag dat athumi aanrekent voor de werking van het platform. Ze wordt berekend **per kadastraal perceel (CaPaKey)**, en er geldt een plafond van maximaal tienmaal de platformretributie wanneer alle percelen aan dezelfde eigenaar toebehoren. Op de platformretributie wordt **21 procent btw** toegepast.\n\nHier moeten wij eerlijk zijn over een tegenstrijdigheid in de bronnen. De productpagina van athumi vermeldt een platformretributie van **37,70 euro exclusief btw** per perceel. De aparte tariefpagina vermeldt **21,60 euro exclusief btw**, opgebouwd uit een vaste component van 16,34 euro en een tijdelijke component van 5,27 euro. Het tarief is in 2026 verlaagd omdat een tijdelijke component voor de terugbetaling van de prefinanciering wegvalt, maar de documentatie is op dat punt niet overal gelijk bijgewerkt. **Ga voor uw eigen dossier af op de afrekening van uw notaris** en reken op een orde van grootte van 20 tot 40 euro per perceel.\n\n**De gemeentelijke retributie** bepaalt elke gemeente autonoom, en daar zit de echte spreiding. Volgens het officiële overzicht — laatst geactualiseerd op **10 februari 2026** — loopt dat van 25 euro in Zuienkerke tot 316,70 euro in Mechelen. De **stad Antwerpen rekent 90 euro** aan. Op de gemeentelijke retributie is geen btw verschuldigd.\n\nHet gevolg: twee identieke woningen, één in Antwerpen en één in Mechelen, kosten hun verkoper een fundamenteel verschillend bedrag voor exact hetzelfde document.",
+        table: {
+          headers: ["Onderdeel", "Bedrag", "Btw"],
+          rows: [
+            ["Platformretributie per perceel", "Circa 21,60 tot 37,70 euro excl. btw, afhankelijk van de bron", "21%"],
+            ["Gemeentelijke retributie Antwerpen", "90 euro", "Geen btw"],
+            ["Laagste gemeentelijke retributie in Vlaanderen", "25 euro (Zuienkerke)", "Geen btw"],
+            ["Hoogste gemeentelijke retributie in Vlaanderen", "316,70 euro (Mechelen)", "Geen btw"],
+            ["Plafond bij meerdere percelen", "Maximaal 10 maal de platformretributie", "Zelfde eigenaar vereist"],
+          ],
+        },
+      },
+      {
+        heading: "Het bodemattest is een apart product — en werd in 2026 duurder",
+        body: "Het bodemattest zit niet in de vastgoedinlichtingen. Het is een afzonderlijk document van de OVAM, met een eigen prijs, en er is in 2026 iets veranderd.\n\n**Sinds 1 januari 2026 is het enkel nog mogelijk om een bodemattest aan te vragen en te raadplegen via het Vastgoedinformatieplatform.** De oude kanalen zijn dus weg.\n\nDe kostprijs bestaat opnieuw uit twee delen. De **bronretributie van de OVAM** bedraagt **67 euro per kadastraal perceel** en per openbaar domein, en **269 euro voor een deel van een kadastraal perceel**. Dat laatste bedrag verrast verkopers vaak: verkoopt u een afgesplitst stuk grond in plaats van een volledig perceel, dan is het attest ruim vier keer duurder. Op die bronretributie is geen btw verschuldigd.\n\nDaarnaast is er de **platformretributie**, en die is precies op 1 januari 2026 gestegen: tot 31 december 2025 bedroeg ze **0,10 euro** per aanvraag, sindsdien **5 euro** per bodemattest, met opnieuw een plafond van tienmaal dat bedrag bij meerdere percelen van dezelfde eigenaar.\n\nEén praktisch aandachtspunt: bodemattesten ouder dan één jaar zijn niet meer raadpleegbaar in het platform. Vraagt u een attest te vroeg aan en sleept uw verkoop langer aan dan gedacht, dan betaalt u een tweede keer.",
+        table: {
+          headers: ["", "Tot 31 december 2025", "Vanaf 1 januari 2026"],
+          rows: [
+            ["Aanvraagkanaal", "OVAM of het platform", "Uitsluitend het Vastgoedinformatieplatform"],
+            ["Platformretributie", "0,10 euro", "5 euro per bodemattest"],
+            ["Bronretributie OVAM, volledig perceel", "67 euro", "67 euro"],
+            ["Bronretributie OVAM, deel van een perceel", "269 euro", "269 euro"],
+          ],
+        },
+      },
+      {
+        heading: "Nieuw sinds april 2026: het maatregelenregister",
+        body: "Er is dit jaar een verplichting bijgekomen die veel verkopers nog niet kennen.\n\n**Sinds 1 april 2026 moeten notarissen en vastgoedmakelaars bij elke overdracht van zakelijke rechten het maatregelenregister raadplegen** — dus ook bij een gewone verkoop, en ook in dossiers die al liepen maar pas na die datum worden afgerond. Een besluit van de Vlaamse Regering van **30 april 2026** voegde het product Maatregelenregister voor overdracht formeel toe aan het Vastgoedinformatieplatform.\n\nWat staat erin? Handhavingsmaatregelen die op een onroerend goed rusten, afkomstig van het Vlaams Handhavingsplatform. Belangrijk daarbij: het register bevat **niet alleen definitieve beslissingen, maar ook aanmaningen en herstelvorderingen**. Een dossier dat nog loopt en waarover nog niets beslist is, wordt dus zichtbaar.\n\nDe kostprijs is beperkt: een **bronretributie van 6,50 euro per kadastraal perceel** voor het Agentschap Justitie en Handhaving, gefactureerd vanaf 1 juli 2026, en een **platformretributie van 1,40 euro per perceel**, gefactureerd vanaf 1 mei 2026.\n\nWat dit voor u als verkoper betekent, is niet de prijs maar de **zichtbaarheid**. Wat vroeger onopgemerkt kon passeren, komt nu systematisch aan het licht bij elke verkoop. Heeft u ooit een aanmaning of een herstelvordering ontvangen over uw pand — over een onvergunde constructie, over woningkwaliteit, over milieu — ga er dan van uit dat uw koper dat te zien krijgt. Vertel het liever zelf, met een correcte uitleg erbij.",
+      },
+      {
+        heading: "Termijnen: hoe lang u werkelijk wacht",
+        body: "De afgesproken levertermijn voor Vastgoedinlichtingen voor overdracht bedraagt **maximaal 20 kalenderdagen**. In veel gemeenten gaat het sneller, maar u moet met die maximumtermijn plannen, niet met de beste kans.\n\nDat cijfer is bepalend voor uw verkoopplanning. Twintig kalenderdagen zijn bijna drie weken, en die drie weken lopen niet parallel met alles wat er nog moet gebeuren. Combineer ze met de doorlooptijd van een EPC, een elektrische keuring en een asbestattest, en het wordt duidelijk waarom de administratieve voorbereiding van een verkoop vlot een maand tot zes weken in beslag neemt vóór er ook maar één kandidaat over de vloer komt.\n\nDrie manieren om die tijd terug te winnen:\n• **Vraag de inlichtingen zelf op via MijnBurgerprofiel** zodra u beslist om te verkopen, niet pas wanneer er een koper is. U kent dan meteen de knelpunten in uw dossier.\n• **Stem de geldigheidsduur af op uw timing.** Vraag documenten niet zo vroeg aan dat ze verlopen zijn tegen het verlijden van de akte — bodemattesten ouder dan een jaar zijn bijvoorbeeld niet meer raadpleegbaar in het platform.\n• **Groepeer.** Bestaat uw eigendom uit meerdere kadastrale percelen, dan telt de platformretributie per perceel, met een plafond van tien. Laat uw notaris de aanvraag in één dossier bundelen.\n\nWat u er niet mee kunt: de termijn afkopen. Er bestaat geen spoedprocedure.",
+        table: {
+          headers: ["Product", "Termijn", "Aanvrager"],
+          rows: [
+            ["Vastgoedinlichtingen voor overdracht", "Maximaal 20 kalenderdagen", "Notaris, makelaar, landmeter of burger via MijnBurgerprofiel"],
+            ["Bodemattest", "Wettelijke OVAM-termijnen, uitsluitend via het platform", "Eigenaar of houder van een aankoopbelofte"],
+            ["Maatregelenregister voor overdracht", "Verplicht te raadplegen sinds 1 april 2026", "Notaris en vastgoedmakelaar"],
+          ],
+        },
+      },
+      {
+        heading: "Wat wij voor u regelen bij een rechtstreekse verkoop",
+        body: "De administratieve last van een verkoop is voor veel mensen zwaarder dan de verkoop zelf. Niet omdat één document moeilijk is, maar omdat het er twaalf zijn, elk met een eigen loket, een eigen prijs en een eigen wachttijd.\n\nWij kopen woningen en panden in de regio **Antwerpen** rechtstreeks aan. In dat traject:\n\n• Vragen wij de **vastgoedinlichtingen zelf op** en analyseren wij ze zelf, als onderdeel van onze eigen due diligence.\n• Nemen wij de knelpunten die daaruit blijken — een leegstandsregistratie, een voorkooprecht, een onduidelijke vergunningshistoriek — **op in ons bod** in plaats van ze bij u terug te leggen als huiswerk.\n• Werken wij met **eigen middelen**, zonder financieringsvoorbehoud, zodat de termijn van uw dossier niet afhangt van een bankbeslissing.\n• Betaalt u **geen makelaarscommissie**.\n\nDe wettelijke attesten die de verkoper hoe dan ook moet leveren — EPC, elektrische keuring, bodemattest, asbestattest — blijven uiteraard verplicht; wij begeleiden u erbij en werken samen met uw notaris zodat er niets tweemaal wordt aangevraagd.\n\nWees eerlijk geïnformeerd: **wij zijn niet de hoogste bieder op een oververhitte markt.** Wat wij bieden is snelheid, zekerheid en een dossier dat wij zelf dragen. Onze werkwijze: reactie op uw aanvraag doorgaans binnen 2 uur, een plaatsbezoek gevolgd door een schriftelijk en vrijblijvend bod, en bij akkoord een akte op een datum die u past.",
+      },
+    ],
+    relatedArticles: [
+      "bodemattest-vlaanderen-verkoop",
+      "keuringen-bij-verkoop-woning",
+      "verkoop-kosten-berekenen",
+      "stedenbouwkundige-overtreding-woning-verkopen",
+      "keuringen-attesten-bij-directe-verkoop",
+      "oude-woning-zonder-bouwvergunning-vermoeden-van-vergunning",
+    ],
+    relatedSituations: ["verkopen-zonder-makelaar", "huis-snel-verkopen"],
+    faqs: [
+      {
+        question: "Wat kosten de vastgoedinlichtingen bij een verkoop?",
+        answer:
+          "U betaalt twee bedragen: een platformretributie per kadastraal perceel, in de orde van 20 tot 40 euro exclusief btw afhankelijk van de bron die u raadpleegt, en een gemeentelijke retributie die elke gemeente zelf bepaalt. Die laatste loopt in Vlaanderen van 25 euro tot 316,70 euro. De stad Antwerpen rekent 90 euro aan.",
+      },
+      {
+        question: "Kan ik de vastgoedinlichtingen zelf opvragen?",
+        answer:
+          "Ja. Naast notarissen, vastgoedmakelaars en landmeters-experten kunnen ook burgers zelf een aanvraag indienen via MijnBurgerprofiel. Dat is aan te raden zodra u beslist te verkopen: u ziet dan op voorhand wat een kandidaat-koper te lezen krijgt en wordt niet halverwege de onderhandeling verrast door een leegstandsregistratie of een voorkooprecht.",
+      },
+      {
+        question: "Hoe lang duurt het voor ik de vastgoedinlichtingen krijg?",
+        answer:
+          "De afgesproken levertermijn bedraagt maximaal 20 kalenderdagen. In veel gemeenten gaat het sneller, maar plan met die maximumtermijn. Er bestaat geen spoedprocedure. Samen met een EPC, een elektrische keuring en een asbestattest neemt de administratieve voorbereiding van een verkoop vlot een maand tot zes weken in beslag.",
+      },
+      {
+        question: "Is het bodemattest hierin begrepen?",
+        answer:
+          "Neen, dat is een apart product van de OVAM. Sinds 1 januari 2026 kan het enkel nog via het Vastgoedinformatieplatform worden aangevraagd en geraadpleegd. De bronretributie bedraagt 67 euro per kadastraal perceel en 269 euro voor een deel van een perceel, plus een platformretributie die op 1 januari 2026 van 0,10 euro naar 5 euro is gegaan.",
+      },
+      {
+        question: "Wat is het maatregelenregister en raakt het mij?",
+        answer:
+          "Het is het register van handhavingsmaatregelen die op een onroerend goed rusten. Sinds 1 april 2026 moeten notarissen en vastgoedmakelaars het bij elke overdracht raadplegen. Het bevat ook aanmaningen en lopende herstelvorderingen, dus niet alleen definitieve beslissingen. Heeft u ooit zo'n aanmaning ontvangen, ga er dan van uit dat uw koper het ziet.",
+      },
+      {
+        question: "Waarom verschillen de bedragen die ik online lees?",
+        answer:
+          "Omdat de tarieven in 2026 gewijzigd zijn en niet elke pagina even snel is bijgewerkt. De productpagina van het platform vermeldt nog 37,70 euro platformretributie, terwijl de aparte tariefpagina 21,60 euro vermeldt na het wegvallen van een tijdelijke component. Ga voor uw eigen dossier af op de afrekening van uw notaris.",
       },
     ],
   },

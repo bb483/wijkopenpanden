@@ -105,7 +105,11 @@ export const situations: Situation[] = [
     fiscalNote:
       "Als de verkochte woning de eigen gezinswoning was, geldt in Vlaanderen in veel gevallen een vrijstelling van meerwaardebelasting, mits bepaalde voorwaarden van bewoning zijn vervuld. De precieze fiscale gevolgen hangen af van uw persoonlijke situatie, de bewoningsduur en het eigendomsstatuut. Bespreek dit met uw notaris of een fiscaal adviseur voor u tekent.",
     relatedPropertyTypes: ["rijhuis-verkopen-antwerpen", "appartement-verkopen-antwerpen", "huis-snel-verkopen"],
-    relatedArticles: ["commissie-makelaar-belgie", "hoe-snel-verkopen-en-geld-ontvangen"],
+    relatedArticles: [
+      "commissie-makelaar-belgie",
+      "hoe-snel-verkopen-en-geld-ontvangen",
+      "partner-uitkopen-bij-scheiding-verdeelrecht",
+    ],
     faqs: [
       {
         question: "Moet mijn ex-partner akkoord gaan met de verkoop van onze woning?",
