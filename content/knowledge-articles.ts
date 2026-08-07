@@ -295,7 +295,7 @@ export const articles: Article[] = [
         body: "Alle erfgenamen moeten het compromis (de verkoopbelofte) ondertekenen. Zijn niet alle erfgenamen aanwezig, dan kan één erfgenaam optreden met een volmacht (notarieel of onderhands) van de anderen.\n\nNa het compromis volgt de akte bij de notaris, doorgaans twee tot drie maanden later. Bij de akte worden de notariskosten verrekend en wordt de netto-opbrengst verdeeld onder de erfgenamen.",
       },
     ],
-    relatedArticles: ["keuringen-bij-verkoop-woning", "notariskosten-woning-verkoop", "blote-eigendom-verkopen", "pand-laten-schatten-schattingsverslag"],
+    relatedArticles: ["keuringen-bij-verkoop-woning", "notariskosten-woning-verkoop", "blote-eigendom-verkopen", "pand-laten-schatten-schattingsverslag", "woning-verkopen-met-zorgvolmacht"],
     relatedSituations: ["huis-verkopen-bij-erfenis"],
     faqs: [
       {
@@ -564,7 +564,7 @@ export const articles: Article[] = [
         body: "Ons bod houdt rekening met:\n\n• Geschatte renovatiekost (structurele gebreken wegen zwaarder dan cosmetische)\n• Staat van de elektriciteit, dakbedekking, riolering en verwarmingsinstallatie\n• Aanwezigheid van asbest\n• EPC-label en geschatte energetische investeringen\n• Marktwaarde van vergelijkbare panden in de buurt na renovatie\n\nWij zijn transparant over onze berekening en leggen u uit hoe we tot ons bod zijn gekomen.",
       },
     ],
-    relatedArticles: ["keuringen-bij-verkoop-woning", "epc-attest-antwerpen", "verkoop-kosten-berekenen", "huis-verkopen-na-brand-of-schade", "woning-verkopen-met-krakers-of-domiciliefraude", "beschermd-monument-erfgoedwoning-verkopen", "verwaarloosde-woning-heffing-verkopen", "onafgewerkte-verbouwing-of-bouwwerf-verkopen", "oude-woning-zonder-bouwvergunning-vermoeden-van-vergunning"],
+    relatedArticles: ["keuringen-bij-verkoop-woning", "epc-attest-antwerpen", "verkoop-kosten-berekenen", "huis-verkopen-na-brand-of-schade", "woning-verkopen-met-krakers-of-domiciliefraude", "beschermd-monument-erfgoedwoning-verkopen", "verwaarloosde-woning-heffing-verkopen", "onafgewerkte-verbouwing-of-bouwwerf-verkopen", "oude-woning-zonder-bouwvergunning-vermoeden-van-vergunning", "zonevreemde-woning-verkopen"],
     relatedSituations: ["opknappand-verkopen", "huis-verkopen-bij-erfenis"],
     faqs: [
       {
@@ -931,7 +931,7 @@ export const articles: Article[] = [
         body: "Wilt u uw woning niet regulariseren voor de verkoop? Dan is verkopen as-is de meest directe optie — op voorwaarde dat u transparant bent over de toestand.\n\nWijkopenpanden.be koopt woningen aan met stedenbouwkundige overtredingen. Wij:\n\n• Raadplegen zelf het stedenbouwkundig uittreksel en het maatregelenregister\n• Beoordelen de regulariseerbaarheid intern\n• Verrekenen de regularisatiekost eerlijk in ons bod — geen zwarte doos\n• Nemen de stedenbouwkundige last volledig over bij de akte\n• Regelen de regularisatie na de aankoop zelf, op ons tempo en budget\n\nVoor u als verkoper betekent dit: geen wachttijd, geen architect, geen gemeentelijke procedure voor de verkoop. U ontvangt een schriftelijk bod na één bezoek en beslist vrijblijvend.",
       },
     ],
-    relatedArticles: ["keuringen-bij-verkoop-woning", "pand-in-slechte-staat-verkopen", "verkoop-kosten-berekenen", "tuin-of-bouwgrond-apart-verkopen-perceel-splitsen", "postinterventiedossier-pid-verkoop-woning", "woning-in-onteigeningsplan-of-rooilijn-verkopen", "onafgewerkte-verbouwing-of-bouwwerf-verkopen", "oude-woning-zonder-bouwvergunning-vermoeden-van-vergunning"],
+    relatedArticles: ["keuringen-bij-verkoop-woning", "pand-in-slechte-staat-verkopen", "verkoop-kosten-berekenen", "tuin-of-bouwgrond-apart-verkopen-perceel-splitsen", "postinterventiedossier-pid-verkoop-woning", "woning-in-onteigeningsplan-of-rooilijn-verkopen", "onafgewerkte-verbouwing-of-bouwwerf-verkopen", "oude-woning-zonder-bouwvergunning-vermoeden-van-vergunning", "zonevreemde-woning-verkopen"],
     relatedSituations: ["opknappand-verkopen", "huis-verkopen-bij-erfenis"],
     faqs: [
       {
@@ -3386,7 +3386,7 @@ export const articles: Article[] = [
         body: "Bij een verhuis naar het woonzorgcentrum telt niet de allerlaatste euro, maar **tempo en zekerheid**: de zorgfactuur komt elke maand, en niemand in de familie zit te wachten op een jaar bezichtigingen in het huis van mama of papa.\n\nEen directe verkoop aan wijkopenpanden.be geeft die duidelijkheid snel. U vraagt een **gratis en vrijblijvend bod** aan en krijgt binnen 2 uur reactie, ook in het weekend. Doorgaans komen we binnen 48 uur langs en ontvangt u een **schriftelijk, gemotiveerd bod**. We kopen de woning **in de huidige staat** — ook met verouderde afwerking of een volle inboedel — zodat er niet eerst opgeruimd of opgefrist hoeft te worden. Er is geen makelaarscommissie, we betalen uit eigen middelen, en de akte volgt doorgaans twee tot drie maanden na het akkoord. U kiest bovendien mee de datum van de akte, zodat die aansluit op de verhuis en de financiële planning van het gezin.\n\nZo weet iedereen binnen enkele dagen waar het gezin aan toe is — en kan de aandacht terug naar wat echt telt: een goede start in het woonzorgcentrum.",
       },
     ],
-    relatedArticles: ["verhuren-of-verkopen-antwerpen", "leegstandsheffing-antwerpen-2026", "verkoop-kosten-berekenen", "belastingen-bij-woningverkoop", "hoelang-duurt-huis-verkopen-belgie", "blijven-wonen-na-verkoop"],
+    relatedArticles: ["verhuren-of-verkopen-antwerpen", "leegstandsheffing-antwerpen-2026", "verkoop-kosten-berekenen", "belastingen-bij-woningverkoop", "hoelang-duurt-huis-verkopen-belgie", "blijven-wonen-na-verkoop", "woning-verkopen-met-zorgvolmacht"],
     relatedSituations: ["huis-verkopen-bij-erfenis", "opknappand-verkopen"],
     faqs: [
       {
@@ -3471,7 +3471,7 @@ export const articles: Article[] = [
         body: "Een bewinddossier vraagt precies wat een klassieke verkoop met bezoekdagen en onzekere kandidaten moeilijk kan garanderen: een schriftelijk bod, een zekere koper en een voorspelbare timing. Een directe verkoop aan wijkopenpanden.be sluit daar goed op aan.\n\nU ontvangt een **gratis en vrijblijvend bod**: reactie binnen 2 uur, ook in het weekend, en een plaatsbezoek doorgaans binnen 48 uur. Het bod is **schriftelijk en gemotiveerd** — een stuk dat u samen met het schattingsverslag bij het verzoekschrift kunt voegen, zodat de vrederechter concreet kan toetsen. Er is **geen financieringsvoorbehoud**: de aankoop gebeurt uit eigen middelen, waardoor de gemachtigde verkoop niet alsnog kan afspringen op een geweigerd krediet. De woning wordt in haar **huidige staat** gekocht — ook als ze jaren bewoond werd door iemand die er niet meer in kon investeren — en er is geen makelaarscommissie. Na akkoord en machtiging volgt de akte doorgaans binnen 2 à 3 maanden.\n\nBent u bewindvoerder of bereidt u als familielid een bewinddossier voor? Vraag vrijblijvend een bod aan; u beslist daarna in alle rust, en uiteindelijk beslist de vrederechter mee. Zo hoort het ook.",
       },
     ],
-    relatedArticles: ["erfenis-woning-stappenplan", "compromis-verkoop-woning-belgie", "notariskosten-woning-verkoop", "mede-eigendom-verkopen", "wat-is-een-vastgoedopkoper", "hoelang-duurt-huis-verkopen-belgie", "woning-verkopen-met-minderjarige-eigenaar", "pand-laten-schatten-schattingsverslag"],
+    relatedArticles: ["erfenis-woning-stappenplan", "compromis-verkoop-woning-belgie", "notariskosten-woning-verkoop", "mede-eigendom-verkopen", "wat-is-een-vastgoedopkoper", "hoelang-duurt-huis-verkopen-belgie", "woning-verkopen-met-minderjarige-eigenaar", "pand-laten-schatten-schattingsverslag", "woning-verkopen-met-zorgvolmacht"],
     relatedSituations: ["huis-verkopen-bij-erfenis", "verkopen-zonder-makelaar"],
     faqs: [
       {
@@ -3810,7 +3810,7 @@ export const articles: Article[] = [
         body: "Het notariële luik is vandaag goed op afstand te regelen; het commerciële luik veel minder. Een klassieke verkoop betekent maandenlang bezichtigingen laten begeleiden en telkens iemand ter plaatse regelen — terwijl u in een andere tijdzone zit.\n\nEen directe verkoop beperkt het aantal bewegende delen. Bij wijkopenpanden.be verloopt dat zo: u vraagt een gratis en vrijblijvend bod aan en krijgt reactie binnen 2 uur, ook in het weekend. Wij plannen doorgaans binnen 48 uur één bezoek aan het pand — daarvoor volstaat één sleutelmoment via een buur of familielid. U ontvangt een schriftelijk, gemotiveerd bod, wij kopen in de huidige staat aan en betalen uit eigen middelen, zonder makelaarscommissie. De attesten coördineren wij samen met de notaris, en de volledige notariële afhandeling kan per volmacht verlopen — digitaal als u een Belgische eID of itsme hebt, anders via een gelegaliseerde volmacht uit uw woonland. De akte volgt doorgaans 2 tot 3 maanden na akkoord, ruim binnen de wettelijke termijn. Zo herleidt u een internationale verkoop tot een handvol duidelijke stappen, zonder één overbodige vlucht.",
       },
     ],
-    relatedArticles: ["verkoopbelofte-compromis-akte", "notariskosten-woning-verkoop", "belastingen-bij-woningverkoop", "meerwaardebelasting-tweede-verblijf-belgie", "erfenis-woning-stappenplan", "hoelang-duurt-huis-verkopen-belgie"],
+    relatedArticles: ["verkoopbelofte-compromis-akte", "notariskosten-woning-verkoop", "belastingen-bij-woningverkoop", "meerwaardebelasting-tweede-verblijf-belgie", "erfenis-woning-stappenplan", "hoelang-duurt-huis-verkopen-belgie", "woning-verkopen-met-zorgvolmacht"],
     relatedSituations: ["huis-verkopen-bij-erfenis", "verkopen-zonder-makelaar"],
     faqs: [
       {
@@ -4065,7 +4065,7 @@ export const articles: Article[] = [
         body: "Wie niet wil of kan heropbouwen, hoeft de woning niet eerst op te knappen om te verkopen. Er zijn twee gangbare wegen: de klassieke verkoop via een makelaar of notaris, en de rechtstreekse verkoop aan een **professionele vastgoedkoper** die panden in de huidige staat aankoopt.\n\nDe klassieke markt voor zwaar beschadigde panden is beperkt: veel particuliere kopers krijgen de aankoop moeilijk gefinancierd omdat banken terughoudend zijn bij panden met brandschade, en kijkers haken af op de staat van het pand. Daardoor kan de verkoop lang aanslepen, terwijl kosten zoals beveiliging, verzekering en eventuele heffingen doorlopen.\n\nEen rechtstreekse verkoop aan een opkoper gaat sneller, doorgaans tegen een prijs onder de waarde na herstel; de koper neemt immers de herstel- of sloopkosten en het risico over. Voor sommige eigenaars weegt de zekerheid en snelheid zwaarder dan het prijsverschil, zeker wanneer de verzekeringsvergoeding zonder heropbouw toch lager uitvalt.\n\n**Wijkopenpanden.be** koopt panden in de regio Antwerpen aan in de huidige staat, ook met brand- of waterschade. U ontvangt binnen 2 uur een reactie op uw aanvraag en na een plaatsbezoek een schriftelijk bod. De verplichte keuringen en de ontruiming zijn inbegrepen, u betaalt geen commissie, en de akte volgt doorgaans binnen 2 tot 3 maanden. Vergelijk zo'n bod altijd met de raming van uw tegenexpert en met de twee scenario's uit de schaderegeling, zodat u met volledige informatie beslist.",
       },
     ],
-    relatedArticles: ["pand-in-slechte-staat-verkopen", "ongeschikt-onbewoonbaar-verklaarde-woning-verkopen", "keuringen-bij-verkoop-woning", "verborgen-gebreken-woning-verkoop-belgie", "energie-renovatieplicht-vlaanderen-2026", "hoe-snel-verkopen-en-geld-ontvangen"],
+    relatedArticles: ["pand-in-slechte-staat-verkopen", "ongeschikt-onbewoonbaar-verklaarde-woning-verkopen", "keuringen-bij-verkoop-woning", "verborgen-gebreken-woning-verkoop-belgie", "energie-renovatieplicht-vlaanderen-2026", "hoe-snel-verkopen-en-geld-ontvangen", "zonevreemde-woning-verkopen"],
     relatedSituations: ["opknappand-verkopen", "verkopen-zonder-makelaar"],
     faqs: [
       {
@@ -4981,7 +4981,7 @@ export const articles: Article[] = [
         body: "Een dossier met een minderjarige eigenaar vraagt geduld van beide kanten. Kandidaat-kopers op de gewone markt haken soms af zodra ze horen dat er nog een machtiging van de vrederechter moet komen: zij hebben vaak een strak tijdsschema, een lening met een vervaldatum of een eigen woning die verkocht is. Een professionele koper heeft dat probleem niet.\n\n**wijkopenpanden.be** koopt panden in de **regio Antwerpen** aan in de **huidige staat**. U hoeft dus niet eerst op te frissen, leeg te maken of te renoveren — wat in een onverdeeldheid met kinderen sowieso moeilijk ligt, omdat elke uitgave het vermogen van het kind raakt. Concreet: u krijgt **binnen 2 uur een reactie** op uw aanvraag, na een **plaatsbezoek** ontvangt u een **schriftelijk bod**, u betaalt **geen commissie**, en de **verplichte attesten en de coördinatie met de notaris** zitten inbegrepen. De **akte volgt doorgaans binnen 2 tot 3 maanden**, waarbij het ritme uiteraard mee bepaald wordt door de beschikking van de vrederechter.\n\nDat schriftelijke bod is een vast cijfer dat u zwart op wit hebt. U kunt het naast de klassieke route leggen — makelaar, schatting, wachttijd, onderhandeling — en zo met volledige informatie kiezen wat voor uw gezin en voor uw kind het meest opbrengt.",
       },
     ],
-    relatedArticles: ["woning-verkopen-onder-bewind", "erfenis-woning-stappenplan", "mede-eigendom-verkopen", "mede-eigenaar-wil-niet-verkopen-uit-onverdeeldheid", "notariskosten-woning-verkoop", "verkoopbelofte-compromis-akte"],
+    relatedArticles: ["woning-verkopen-onder-bewind", "erfenis-woning-stappenplan", "mede-eigendom-verkopen", "mede-eigenaar-wil-niet-verkopen-uit-onverdeeldheid", "notariskosten-woning-verkoop", "verkoopbelofte-compromis-akte", "woning-verkopen-met-zorgvolmacht"],
     relatedSituations: ["huis-verkopen-bij-erfenis"],
     faqs: [
       {
@@ -5287,7 +5287,7 @@ export const articles: Article[] = [
         body: "Een perceel splitsen is een project op zich: landmeter, gemeente, openbaar onderzoek, buren, notaris, fiscaliteit — en pas daarna een koper zoeken. Voor wie het geld sneller nodig heeft, wie de discussie met de gemeente niet wil voeren, of wie merkt dat de grond gewoon geen bouwbestemming heeft, is er een eenvoudiger alternatief: **het geheel verkopen zoals het is**.\n\nWij, **wijkopenpanden.be**, kopen panden in de **regio Antwerpen** aan in de **huidige staat**. U hoeft niets te splitsen, niets op te meten en niets te laten vergunnen. Op uw aanvraag krijgt u **binnen 2 uur een reactie**. Na een **plaatsbezoek** ontvangt u een **schriftelijk bod**. Wij rekenen **geen commissie**, en de **verplichte attesten en de coördinatie met de notaris zijn inbegrepen**. De akte volgt **doorgaans binnen 2 tot 3 maanden**.\n\nDat bod is een vertrekpunt, geen eindpunt. Leg het naast wat u denkt te halen via de klassieke route — met splitsing, met vergunning, met wachttijd en met kosten — en beslis dan met volledige informatie welk spoor voor u het beste uitkomt. Wilt u eerst weten hoe een klassieke verkoop in de regio verloopt, dan leest u dat in onze [gids over een huis verkopen in Antwerpen](/kennisbank/huis-verkopen-antwerpen-gids).",
       },
     ],
-    relatedArticles: ["stedenbouwkundige-overtreding-woning-verkopen", "meerwaardebelasting-tweede-verblijf-belgie", "wat-is-mijn-woning-waard-antwerpen", "verkoop-kosten-berekenen", "notariskosten-woning-verkoop", "huis-verkopen-antwerpen-gids"],
+    relatedArticles: ["stedenbouwkundige-overtreding-woning-verkopen", "meerwaardebelasting-tweede-verblijf-belgie", "wat-is-mijn-woning-waard-antwerpen", "verkoop-kosten-berekenen", "notariskosten-woning-verkoop", "huis-verkopen-antwerpen-gids", "zonevreemde-woning-verkopen"],
     relatedSituations: ["huis-verkopen-bij-erfenis", "verkopen-zonder-makelaar"],
     faqs: [
       {
@@ -5733,7 +5733,7 @@ export const articles: Article[] = [
         body: "Zit u met een verwaarloosd pand waarvoor u een heffing (dreigt te) krijgen, en ziet u een renovatie niet zitten? Dan koopt **wijkopenpanden.be** uw woning aan in de **huidige staat**, in de **regio Antwerpen**. U hoeft niets op te knappen, niets te herstellen aan de gevel of het dak, en niets leeg te maken.\n\nOnze werkwijze is eenvoudig. Na uw aanvraag reageren wij doorgaans **binnen 2 uur**. Na een plaatsbezoek ontvangt u een **schriftelijk bod**, zonder **commissie**. Wij houden bij ons bod rekening met de staat van het pand en met de lopende heffing, zodat u vooraf weet waar u aan toe bent. De nodige **attesten en de coördinatie met de notaris** zijn inbegrepen, en wij zorgen dat de opname op de inventaris en de verrekening van de heffing correct in de akte worden opgenomen.\n\nDe notariële akte volgt **doorgaans binnen 2 à 3 maanden**, op een timing die voor u past. Zo raakt u van een pand af dat elk jaar meer kost, zonder de kosten en de wachttijd van een renovatie. Meer over deze aanpak leest u in onze artikels over een pand in slechte staat verkopen en verkopen zonder makelaar."
       }
     ],
-    relatedArticles: ["leegstandsheffing-antwerpen-2026", "ongeschikt-onbewoonbaar-verklaarde-woning-verkopen", "pand-in-slechte-staat-verkopen", "energie-renovatieplicht-vlaanderen-2026", "onroerende-voorheffing-verrekenen-bij-verkoop", "belastingen-bij-woningverkoop"],
+    relatedArticles: ["leegstandsheffing-antwerpen-2026", "ongeschikt-onbewoonbaar-verklaarde-woning-verkopen", "pand-in-slechte-staat-verkopen", "energie-renovatieplicht-vlaanderen-2026", "onroerende-voorheffing-verrekenen-bij-verkoop", "belastingen-bij-woningverkoop", "zonevreemde-woning-verkopen"],
     relatedSituations: ["opknappand-verkopen", "verkopen-zonder-makelaar"],
     faqs: [
       {
@@ -7780,8 +7780,7 @@ export const articles: Article[] = [
       "beschermd-monument-erfgoedwoning-verkopen",
       "pand-in-slechte-staat-verkopen",
       "verborgen-gebreken-woning-verkoop-belgie",
-      "vastgoedinformatie-aanvragen-bij-verkoop",
-    ],
+      "vastgoedinformatie-aanvragen-bij-verkoop", "zonevreemde-woning-verkopen"],
     relatedSituations: ["opknappand-verkopen", "vastgoedopkoper-antwerpen"],
     faqs: [
       {
@@ -7889,8 +7888,7 @@ export const articles: Article[] = [
       "verkoop-kosten-berekenen",
       "stedenbouwkundige-overtreding-woning-verkopen",
       "keuringen-attesten-bij-directe-verkoop",
-      "oude-woning-zonder-bouwvergunning-vermoeden-van-vergunning",
-    ],
+      "oude-woning-zonder-bouwvergunning-vermoeden-van-vergunning", "zonevreemde-woning-verkopen"],
     relatedSituations: ["verkopen-zonder-makelaar", "huis-snel-verkopen"],
     faqs: [
       {
@@ -8127,6 +8125,220 @@ export const articles: Article[] = [
         question: "Kan ik nog terug nadat ik het compromis getekend heb?",
         answer:
           "Nee. Voor de verkoop van een woning tussen particulieren bestaat er in België geen wettelijke bedenktijd of herroepingsrecht. Het kantelpunt is niet de notariële akte, maar uw handtekening onder de koopbelofte of het compromis. Laat het document daarom vóór u tekent nalezen door uw eigen notaris.",
+      },
+    ],
+  },
+  {
+    slug: "woning-verkopen-met-zorgvolmacht",
+    title: "Woning verkopen met een zorgvolmacht: mag u het huis van uw ouder verkopen?",
+    metaTitle: "Woning verkopen met zorgvolmacht: wat mag de lasthebber?",
+    metaDescription:
+      "Mag u met een zorgvolmacht het huis van uw ouder verkopen? Wat de volmacht moet dekken, waarom registratie in het CRL beslist en wanneer de rechter kijkt.",
+    publishedAt: "2026-08-07",
+    updatedAt: "2026-08-07",
+    intro:
+      "Uw vader kan door dementie zijn zaken niet meer zelf regelen, maar hij tekende jaren geleden bij de notaris een zorgvolmacht. Zijn huis staat leeg en de familie wil verkopen. Dat kan — als aan drie voorwaarden voldaan is. Een zorgvolmacht is een lastgeving die de wet 'buitengerechtelijke bescherming' noemt (art. 490 e.v. oud Burgerlijk Wetboek). Met zo'n volmacht kan de persoon die uw vader zelf aanduidde de woning verkopen, zonder dat de vrederechter daar eerst een machtiging voor moet geven. Voorwaarde is wel dat de volmacht ook daden van beschikking over onroerend goed dekt, dat ze geregistreerd is in het Centraal Register van Lastgevingsovereenkomsten (CRL), en dat ze — volgens notaris.be — in notariële vorm is opgemaakt wanneer ze voor een vastgoedverkoop wordt gebruikt. Ontbreekt die volmacht en is uw vader al wilsonbekwaam? Dan kan er geen zorgvolmacht meer gemaakt worden en loopt de weg onvermijdelijk via de vrederechter. Hieronder leest u wat er precies in de volmacht moet staan, waarom de registratie het scharnierpunt is, en wanneer de rechter alsnog opduikt.",
+    sections: [
+      {
+        heading: "Wat een zorgvolmacht is — en wat ze niet is",
+        body: "Een zorgvolmacht is geen rechterlijke maatregel maar een **overeenkomst**. U geeft, zolang u nog wilsbekwaam bent, een volmacht — juridisch: een lastgeving — aan een of meer personen die u vertrouwt, zodat zij later handelingen in uw plaats kunnen stellen. De FOD Justitie beschrijft het als een maatregel zonder tussenkomst van een rechter. In de wet heet dat de **buitengerechtelijke bescherming**, geregeld in art. 490 e.v. oud Burgerlijk Wetboek.\n\nDrie eigenschappen die eigenaars vaak verrassen:\n• **De volmacht neemt u niets af.** De lastgever blijft bekwaam om alles zelf te doen. Zolang uw moeder nog zelf kan beslissen, beslist zij; de volmacht werkt náást haar, en pas later in haar plaats.\n• **Ze gaat over meer dan geld.** Sinds 1 maart 2019 geldt de buitengerechtelijke bescherming zowel voor het beheer van de goederen als voor de uitoefening van de persoonlijke rechten: zorg, verblijf, gezondheid.\n• **Ze moet vooraf gemaakt zijn.** De volmacht moet worden opgesteld terwijl de persoon nog bekwaam is. Dit is het gevaarlijkste misverstand in dit dossier: een zorgvolmacht laten maken 'nu papa dement is' kan niet meer.\n\nVerwar de zorgvolmacht ook niet met een gewone volmacht of met een wilsverklaring over medische behandeling. Een gewone volmacht valt weg zodra de volmachtgever wilsonbekwaam wordt. Een zorgvolmacht is er precies op gebouwd om dan wél te blijven werken — mits ze geregistreerd is.",
+      },
+      {
+        heading: "Wat er in de volmacht moet staan om de woning te kunnen verkopen",
+        body: "Notaris.be maakt een onderscheid dat hier alles bepaalt. **Beheerhandelingen** zijn zaken die uw vermogen op peil houden. **Beschikkingsdaden** zijn handelingen die uw vermogen écht veranderen, zoals een woning kopen of verkopen, of een schenking doen. Voor beschikkingsdaden kan u een algemene of een specifieke volmacht geven, eventueel onder voorwaarden.\n\nEen woning verkopen is dus geen beheer. De volmacht moet de verkoop van onroerend goed duidelijk dekken. In de praktijk vermelden notarissen die bevoegdheid expliciet, vaak met voorwaarden erbij: een minimumprijs, een verplicht schattingsverslag, of het akkoord van meerdere lasthebbers samen. Staat er enkel 'het beheer van mijn goederen', dan mag u verwachten dat de notaris de akte niet zal verlijden. Of een algemene formule als 'alle daden van beheer en beschikking' volstaat, is geen uitgemaakte zaak — laat een bestaande volmacht daarom nalezen vóór u een verkoop opstart, niet erna.\n\nDaarnaast stelt notaris.be dat een **notariële (authentieke) zorgvolmacht verplicht is** wanneer ze gebruikt wordt voor de verkoop van een onroerend goed of voor een schenking; in andere gevallen is ze niet verplicht maar sterk aangewezen. Notaris.be verwijst daarbij niet naar een specifiek wetsartikel, maar het praktische advies is helder: wil u dat er ooit vastgoed verkocht kan worden, laat de zorgvolmacht dan notarieel opmaken.\n\nWat u best klaarlegt vóór u met de notaris gaat praten:\n1. De zorgvolmacht zelf — bij een notariële volmacht uw uitgifte of afschrift\n2. Het bewijs dat ze geregistreerd is in het CRL\n3. De identiteitsgegevens van de lastgever én van de lasthebber(s)\n4. De eigendomstitel van de woning en de gebruikelijke attesten (EPC, elektrische keuring, bodemattest)\n\nDe notaris beoordeelt vervolgens of de volmacht de verkoop effectief dekt. Die stap kunt u niet overslaan: regelingen over onroerend goed lopen in elk geval via de notaris, want alleen notariële akten kunnen worden overgeschreven op het hypotheekkantoor.",
+        table: {
+          headers: ["Handeling", "Wat de zorgvolmacht daarvoor moet bevatten"],
+          rows: [
+            ["Rekeningen betalen, huur innen, het vermogen op peil houden", "Bevoegdheid voor beheerhandelingen"],
+            ["De woning verkopen", "Bevoegdheid voor daden van beschikking, uitdrukkelijk voor onroerend goed; volgens notaris.be in notariële vorm"],
+            ["Een schenking doen", "Uitdrukkelijk voorzien, met omschreven voorwaarden; vaak met een aparte lasthebber om een belangenconflict te vermijden"],
+            ["Verkopen aan zichzelf of aan de eigen kinderen", "Belangenconflict: een lasthebber ad hoc via de vrederechter, of een ad-hoc-lasthebber die vooraf in de volmacht staat"],
+            ["De gezinswoning van een gehuwd koppel verkopen", "Extra beschermingslaag; laat de notaris nagaan of een machtiging van de familierechtbank nodig is"],
+          ],
+        },
+      },
+      {
+        heading: "De registratie in het CRL: het scharnierpunt",
+        body: "Dit is het punt waarop zorgvolmachten in de praktijk sneuvelen. Registratie in het centraal register is volgens notaris.be een voorwaarde om de zorgvolmacht uitwerking te geven wanneer de persoon wilsonbekwaam is geworden. Zonder registratie gebeurt precies het omgekeerde van wat de bedoeling was: de zorgvolmacht eindigt van rechtswege vanaf het moment dat de lastgever wilsonbekwaam wordt.\n\nHet register is het **Centraal Register van Lastgevingsovereenkomsten (CRL)**, bijgehouden door de Koninklijke Federatie van het Belgisch Notariaat. Art. 490 oud Burgerlijk Wetboek regelt hoe de registratie verloopt:\n• Laat u de volmacht bij de notaris opmaken, dan hoeft u zelf niets te doen: **de notaris registreert**.\n• Bij een onderhandse volmacht wordt een **voor eensluidend verklaard afschrift** van de overeenkomst neergelegd ter griffie van het vredegerecht van de **verblijfplaats van de lastgever**. Een gewone fotokopie of een tweede origineel is dus niet wat de wet vraagt.\n• De griffier of de notaris neemt de overeenkomst binnen **vijftien dagen** op in het register.\n\nKostprijs: ongeveer 20 euro per lastgeving (tarief zoals vermeld door notaris.be, te verhogen met btw — controleer het actuele tarief bij uw notaris). Online circuleren verschillende bedragen omdat het tarief indexeerbaar is. Die kosten komen bovenop de gewone kosten van een verkoop.\n\nTwijfelt u of de volmacht van uw ouder ooit geregistreerd werd? Laat dat als eerste nakijken. Het antwoord bepaalt of u een verkoop met zorgvolmacht voorbereidt of een bewinddossier.",
+        table: {
+          headers: ["", "Onderhandse zorgvolmacht", "Notariële zorgvolmacht"],
+          rows: [
+            ["Geldig als zorgvolmacht", "Ja, mits geregistreerd in het CRL", "Ja"],
+            ["Registratie in het CRL", "Via de griffie van het vredegerecht van de verblijfplaats van de lastgever, met een voor eensluidend verklaard afschrift", "De notaris regelt het"],
+            ["Volstaat voor de verkoop van een woning", "Volgens notaris.be niet", "Ja"],
+            ["Volstaat voor een schenking", "Volgens notaris.be niet", "Ja"],
+            ["Risico", "Te vage of onvolledige bevoegdheden; discussie of de verkoop gedekt is", "De notaris toetst en formuleert de bevoegdheden expliciet"],
+          ],
+        },
+      },
+      {
+        heading: "Zorgvolmacht of bewind: wat verandert er aan de verkoop zelf?",
+        body: "Het echte verschil zit niet in de papieren, maar in wie er moet meebeslissen. Met een toereikende zorgvolmacht kan de lasthebber de woning verkopen zonder voorafgaande machtiging van de vrederechter, en zonder dat de verkoop de vorm van een openbare verkoop onder rechterlijk toezicht moet aannemen. Zo vat erenotaris Johan Verstraete het samen, en het sluit aan bij de beschrijving van de FOD Justitie: buitengerechtelijke bescherming is een maatregel zonder tussenkomst van een rechter.\n\nBij een bewind is dat structureel anders. Daar heeft de bewindvoerder voor het vervreemden van onroerend goed altijd een bijzondere machtiging van de vrederechter nodig (art. 499/7 BW), en vertrekt de wet van het principe van de openbare verkoop — al laat art. 1193bis Ger.W. uitdrukkelijk toe dat de vrederechter een onderhandse verkoop machtigt, wat vandaag de meest gangbare weg is. Hoe die machtigingsprocedure precies verloopt, met schattingsverslag en verzoekschrift, staat in ons artikel over een woning verkopen onder bewind.\n\nVoor de familie komt het hierop neer: een zorgvolmacht die vooraf goed geschreven is, spaart u een gerechtelijke procedure uit. Een zorgvolmacht die ontbreekt of te vaag is, kost u die procedure alsnog — en dan op het minst geschikte moment.",
+        table: {
+          headers: ["", "Zorgvolmacht", "Bewind"],
+          rows: [
+            ["Wanneer op te zetten", "Vóór de wilsonbekwaamheid, door de eigenaar zelf", "Ná de wilsonbekwaamheid, door de vrederechter"],
+            ["Wie kiest de vertrouwenspersoon", "De eigenaar zelf", "De vrederechter; een verklaring van voorkeur geldt als aanwijzing"],
+            ["Rechter nodig voor een verkoop", "In principe niet", "Altijd een bijzondere machtiging van de vrederechter (art. 499/7 BW)"],
+            ["Vorm van de verkoop", "Verkoop uit de hand mogelijk", "Principe is openbaar; onderhands mits machtiging (art. 1193bis Ger.W.)"],
+            ["Controle", "Achteraf: alarmbelprocedure, en de vrederechter kan voorwaarden opleggen of de volmacht beëindigen (art. 490/2 oud BW)", "Structureel: machtigingen en periodieke verslagen"],
+            ["Snelheid", "De lasthebber kan meteen aan de slag", "Extra weken tot maanden voor de machtiging"],
+            ["Kostprijs opzet", "Notariële akte plus registratie in het CRL", "Gerechtelijke procedure"],
+          ],
+        },
+      },
+      {
+        heading: "Wanneer de vrederechter alsnog opduikt",
+        body: "Een zorgvolmacht sluit de vrederechter niet uit; ze zet hem op de achtergrond. Volgens art. 490/2, § 2 oud Burgerlijk Wetboek kan hij de lastgeving te allen tijde geheel of gedeeltelijk beëindigen wanneer de uitvoering ervan de belangen van de lastgever in gevaar brengt, of wanneer een rechterlijke beschermingsmaatregel die belangen beter dient. Hij kan er ook voorwaarden aan verbinden: bijvoorbeeld een voorafgaande machtiging, of de vormvereiste van een openbare verkoop in plaats van een verkoop uit de hand. Dat is de lezing van erenotaris Johan Verstraete; de FOD Justitie spreekt in dezelfde zin van een laagdrempelige alarmbelprocedure bij de vrederechter, en notaris.be bevestigt dat elke belanghebbende bij wanbeheer naar de vrederechter kan stappen.\n\nDrie situaties waarin de rechter vrijwel zeker in beeld komt:\n• **Belangenconflict.** Wil het kind met de volmacht de woning zelf kopen, of zijn de prijs en de latere erfdeling met elkaar verweven, dan staat het belang van de lasthebber tegenover dat van de lastgever. In dat geval moet de vrederechter een **lasthebber ad hoc** aanstellen (art. 490/2, § 1 oud Burgerlijk Wetboek), ambtshalve of op verzoek van de lastgever of van elke belanghebbende. U kan dit ook vooraf oplossen door in de zorgvolmacht zelf al iemand als ad-hoc-lasthebber aan te duiden.\n• **Onenigheid tussen lasthebbers.** Zijn broer en zus samen lasthebber en raken ze het niet eens over de verkoop, dan beslecht de vrederechter het geschil in het belang van de lastgever wanneer het niet conventioneel op te lossen is.\n• **Twijfel over het beheer.** Een lasthebber die in strijd met de zorgvolmacht handelt, kan aansprakelijk worden gesteld voor de schade.\n\nEén praktisch advies dat veel discussie voorkomt: zijn er meerdere kinderen, informeer hen dan schriftelijk over het bod en de prijs vóór u tekent. De opbrengst blijft toe aan de eigenaar — de lasthebber handelt in naam en voor rekening van de lastgever, niet voor zichzelf. Een verkoop die transparant verlopen is, is veel moeilijker aan te vechten dan een verkoop die iemand achteraf ontdekt.",
+      },
+      {
+        heading: "Als er geen zorgvolmacht is, of ze niet volstaat",
+        body: "Hier is de regeling onverbiddelijk: de volmacht moet worden opgesteld terwijl de persoon nog bekwaam is. Is uw moeder al wilsonbekwaam, dan kan er geen zorgvolmacht meer worden gemaakt — ook niet met de beste bedoelingen, en ook niet als de hele familie het eens is. Dan stelt de vrederechter een bewindvoerder aan en verloopt de verkoop via de machtigingsprocedure.\n\nHetzelfde geldt als er wél een volmacht is, maar ze de verkoop niet dekt of nooit geregistreerd werd. U merkt dat meestal pas bij de notaris, en dan bent u al weken kwijt. Laat de volmacht dus nakijken vóór u een koper zoekt. Is er een beginnende diagnose en nog geen zorgvolmacht, dan is dat het dringendste punt op de lijst — dringender dan de verkoop zelf.\n\n**Extra laag bij een gehuwd koppel: de gezinswoning.** Gaat het om het onroerend goed dat het gezin tot voornaamste woning dient, dan geldt art. 215, § 1 oud Burgerlijk Wetboek: de ene echtgenoot kan zonder de instemming van de andere niet over de rechten op die woning beschikken, en ze ook niet met hypotheek bezwaren. Kan de wilsonbekwame partner die instemming niet meer geven, dan voorziet art. 220, § 1 oud Burgerlijk Wetboek dat de andere echtgenoot zich door de familierechtbank kan laten machtigen om die handelingen alleen te verrichten. Of een zorgvolmacht die de verkoop van de gezinswoning uitdrukkelijk dekt die machtiging vervangt, is geen uitgemaakte zaak — laat dit punt in elk geval door uw notaris nakijken vóór u een compromis ondertekent.\n\nTot slot: de wetgeving rond de zorgvolmacht is in beweging. Er zijn onder meer wijzigingen aangekondigd rond de kwalificatie van wie een zorgvolmacht mag uitvoeren. Laat een oudere zorgvolmacht dus niet alleen op inhoud, maar ook op actualiteit nakijken.",
+      },
+      {
+        heading: "Zo werkt het bij wijkopenpanden.be",
+        body: "Een verkoop met zorgvolmacht is geen gewone verkoop. De lasthebber handelt in naam van iemand anders en moet kunnen aantonen dat de verkoop verdedigbaar is. Daar sluit een directe verkoop goed op aan.\n\n• U krijgt een **schriftelijk, gemotiveerd bod** — een stuk dat u kunt voorleggen aan de notaris, aan de andere kinderen, of aan de vrederechter als het toch een bewinddossier blijkt te worden\n• Wij kopen **uit eigen middelen, zonder opschortende voorwaarde van financiering**, zodat de verkoop niet alsnog afspringt op een geweigerd krediet\n• Wij kopen het pand **in de staat waarin het zich bevindt**: bij een woning die maanden leegstond hoeft u niets op te knappen en niets te ruimen\n• U beslist mee over de **aktedatum**, wat helpt wanneer er nog een verhuis naar een woonzorgcentrum of een controle van de volmacht loopt\n• U werkt met de **notaris van uw keuze** — de notaris die de zorgvolmacht opmaakte, kent het dossier meestal het best\n\nWat wij niet kunnen, is de wet omzeilen. Dekt de volmacht de verkoop niet, of is ze niet geregistreerd, dan gaat de akte niet door: bij ons evenmin als elders. Wat wel kan, is u vroeg in het traject een concreet bedrag geven, zodat u weet waar u aan toe bent vóór u tijd en geld in een procedure investeert. Een bod aanvragen is gratis, vrijblijvend en verplicht u tot niets.",
+      },
+    ],
+    relatedArticles: ["woning-verkopen-onder-bewind", "woning-verkopen-verhuis-woonzorgcentrum", "erfenis-woning-stappenplan", "pand-laten-schatten-schattingsverslag", "woning-verkopen-met-minderjarige-eigenaar", "mede-eigendom-verkopen", "vruchtgebruik-woning-verkopen", "compromis-verkoop-woning-belgie", "notariskosten-woning-verkoop"],
+    relatedSituations: ["huis-verkopen-bij-erfenis", "vastgoedopkoper-antwerpen", "schatting-pand", "verkopen-zonder-makelaar"],
+    faqs: [
+      {
+        question: "Mag ik met een zorgvolmacht het huis van mijn moeder verkopen?",
+        answer:
+          "Ja, als de zorgvolmacht dat toelaat. De volmacht moet daden van beschikking over onroerend goed dekken, geregistreerd zijn in het Centraal Register van Lastgevingsovereenkomsten (CRL) en volgens notaris.be in notariële vorm zijn opgemaakt. Is dat het geval, dan kan de lasthebber verkopen zonder voorafgaande machtiging van de vrederechter. De notaris beoordeelt bij de akte of de volmacht de verkoop effectief dekt.",
+      },
+      {
+        question: "Moet een zorgvolmacht notarieel zijn om een woning te kunnen verkopen?",
+        answer:
+          "Notaris.be stelt dat een notariële zorgvolmacht verplicht is wanneer ze gebruikt wordt voor de verkoop van een onroerend goed of voor een schenking; in andere gevallen is ze niet verplicht maar sterk aangewezen. Er wordt daarbij geen specifiek wetsartikel vermeld. Het praktische advies blijft hetzelfde: wil u dat er ooit vastgoed verkocht kan worden, laat de zorgvolmacht dan bij de notaris opmaken.",
+      },
+      {
+        question: "Wat als de zorgvolmacht niet in het CRL geregistreerd is?",
+        answer:
+          "Dan werkt ze niet op het moment dat u ze nodig hebt. Registratie in het CRL is volgens notaris.be de voorwaarde om de zorgvolmacht uitwerking te geven zodra de persoon wilsonbekwaam is geworden. Zonder registratie eindigt de volmacht juist van rechtswege vanaf dat moment. Is de lastgever nog wilsbekwaam, dan kan de registratie nog gebeuren: via een notaris, of via de griffie van het vredegerecht van zijn verblijfplaats.",
+      },
+      {
+        question: "Kan ik nog een zorgvolmacht laten maken als mijn vader al dementie heeft?",
+        answer:
+          "Nee. Een zorgvolmacht moet worden opgesteld terwijl de persoon nog bekwaam is; dat is de kern van de regeling. Is uw vader al wilsonbekwaam, dan kan hij geen geldige volmacht meer geven en verloopt de verkoop via een bewind: de vrederechter stelt een bewindvoerder aan, die voor het vervreemden van de woning een bijzondere machtiging nodig heeft. Bij een beginnende diagnose is snel handelen dus essentieel.",
+      },
+      {
+        question: "Mag ik als lasthebber de woning zelf kopen?",
+        answer:
+          "Dat is een belangenconflict: uw belang als koper staat tegenover het belang van de lastgever als verkoper. In dat geval moet de vrederechter een lasthebber ad hoc aanstellen (art. 490/2, § 1 oud Burgerlijk Wetboek), ambtshalve of op verzoek van de lastgever of van elke belanghebbende. U kan dit ook vooraf oplossen door in de zorgvolmacht zelf al een ad-hoc-lasthebber aan te duiden voor dat soort verrichtingen.",
+      },
+      {
+        question: "Wat is het verschil tussen een zorgvolmacht en bewind bij een verkoop?",
+        answer:
+          "Met een toereikende zorgvolmacht kan de lasthebber verkopen zonder voorafgaande machtiging van de vrederechter, en is een verkoop uit de hand mogelijk. Bij een bewind heeft de bewindvoerder voor het vervreemden van onroerend goed altijd een bijzondere machtiging nodig (art. 499/7 BW), en vertrekt de wet van het principe van de openbare verkoop, al kan de vrederechter een onderhandse verkoop machtigen (art. 1193bis Ger.W.).",
+      },
+    ],
+  },
+  {
+    slug: "zonevreemde-woning-verkopen",
+    title: "Een zonevreemde woning of hoeve verkopen: wat mag er nog, en wat moet u melden?",
+    metaTitle: "Zonevreemde woning verkopen: wat mag en wat moet u melden",
+    metaDescription:
+      "Zonevreemd is niet illegaal. Wat u mag verbouwen of herbouwen, waar de grens ligt bij natuurgebied en verkrotting, en wat u bij verkoop moet melden.",
+    publishedAt: "2026-08-07",
+    updatedAt: "2026-08-07",
+    intro:
+      "Uw woning of hoeve is vergund, maar ligt volgens het gewestplan of het RUP in agrarisch gebied, natuurgebied, industriegebied of recreatiegebied in plaats van in woongebied. Dan is uw pand zonevreemd — en dat is iets heel anders dan onvergund. Zonevreemd is legaal: de woning mag blijven staan, u mag ze bewonen en u mag ze verkopen zoals elk ander pand. De Vlaamse Codex Ruimtelijke Ordening geeft zonevreemde constructies zelfs een reeks basisrechten (art. 4.4.10 t.e.m. 4.4.23 VCRO), waardoor verbouwen binnen het bestaande bouwvolume vrijwel altijd mogelijk blijft, en in gewoon agrarisch gebied of parkgebied ook herbouwen en uitbreiden tot 1.000 m³. De grens ligt op drie plaatsen: in ruimtelijk kwetsbaar gebied en in recreatiegebied houdt u enkel het recht om binnen het bestaande volume te verbouwen, en álle basisrechten vervallen als uw woning niet hoofdzakelijk vergund is of als ze verkrot is. Dat laatste is precies waarom wachten bij een vervallen hoeve geld kost.",
+    sections: [
+      {
+        heading: "Zonevreemd betekent niet onvergund — en dat verschil bepaalt alles",
+        body: "Dit is de misvatting die de meeste verkopen onnodig moeilijk maakt, bij verkopers én bij kopers: het idee dat zonevreemd zoiets zou zijn als illegaal, of dat er nog iets \"geregulariseerd\" moet worden.\n\nDat is niet zo. Zonevreemdheid is een **planologische situatie**, geen overtreding. De vergunning is er; het is de bestemming van het gebied die niet met het gebruik overeenstemt. In heel Vlaanderen staan vergunde woningen en hoeves in agrarisch gebied, omdat het gewestplan een bestemming over bebouwing heen legde die er al stond. Het Departement Omgeving behandelt zonevreemdheid daarom in een aparte regelgevingsrubriek, volledig los van handhaving.\n\nEr zijn drie situaties die u strikt uit elkaar moet houden, omdat er andere rechten aan hangen.",
+        table: {
+          headers: ["", "Zonevreemd", "Vergund geacht", "Onvergund"],
+          rows: [
+            ["Is er een vergunning?", "Ja, rechtsgeldig vergund", "Wettelijk vermoeden van vergunning voor oudere constructies", "Nee"],
+            ["Klopt de bestemming?", "Nee — woning in bv. agrarisch of natuurgebied", "Los daarvan te bekijken", "Los daarvan te bekijken"],
+            ["Is het een overtreding?", "Nee", "Nee", "Ja, handhaving mogelijk"],
+            ["Basisrechten art. 4.4.10 e.v. VCRO?", "Ja, als hoofdzakelijk vergund én niet verkrot", "Ja — vergund geacht wordt gelijkgesteld met vergund in de 90%-toets", "Nee"],
+            ["Vermelding bij verkoop", "Verplicht (o.a. de bestemming)", "Verplicht", "Verplicht, inclusief dagvaarding of herstelvordering"],
+          ],
+        },
+      },
+      {
+        heading: "Wat mag u nog met een zonevreemde woning? De basisrechten op een rij",
+        body: "De basisrechten gelden uitsluitend voor een **bestaande** constructie. Er bestaat géén basisrecht om een nieuwe woning of een tweede woning op te richten in een zonevreemde zone — wie hoopt dat een grote weide bij de hoeve daardoor bouwgrond wordt, komt bedrogen uit.\n\nWat wél vergunbaar is aan een bestaande, hoofdzakelijk vergunde en niet-verkrotte zonevreemde constructie:\n• **Stabiliteitswerken** — dakgebintes, dragende muren, funderingen\n• **Verbouwen** binnen het bestaande bouwvolume\n• **Herbouwen op dezelfde plaats**\n• **Herbouwen op een gewijzigde plaats**, onder bijkomende voorwaarden\n• **Uitbreiden en aanpassen**\n• **Zonevreemde functiewijzigingen**, binnen een vastgelegde lijst\n• **Herstelwerken na brand of vernietiging**\n\nDaarnaast is er een categorie waarvoor u helemaal geen stedenbouwkundige toestemming nodig heeft: **onderhoudswerken**. Kapotte dakpannen vervangen, ramen vervangen door identieke ramen, pleisterwerk herstellen of een verharding vernieuwen mag u gewoon doen. Zodra u aan de structuur raakt — een dakgebinte of een dragende muur vervangen — wordt het vergunningsplichtig, en dan komt de toets \"bestaand, vergund, niet verkrot\" wél in beeld.\n\n**De volumegrens van 1.000 m³.** Bij uitbreiden en bij herbouwen blijft het bouwvolume beperkt tot ten hoogste 1.000 m³, en blijft het aantal woongelegenheden beperkt tot het bestaande aantal. Voor gewoon verbouwen binnen het bestaande volume geldt die eis niet. Heeft uw woning of hoeve nu al méér dan 1.000 m³, dan is dat een punt om vooraf uit te klaren: volgens vakbronnen wordt het volume van de herbouwde woning ook dan afgetopt op 1.000 m³, waardoor u niet mag herbouwen op de schaal van wat er vandaag staat. Laat dat voor uw perceel nakijken vóór u ervan uitgaat dat het bestaande volume gegarandeerd is.\n\nEén detail dat vaak fout wordt ingeschat: het **bruto-bouwvolume** wordt gemeten met inbegrip van buitenmuren en dak, en met uitsluiting van het volume van de gebruikelijke onderkeldering onder maaiveld (art. 4.1.1 VCRO). Het is dus niet de bewoonbare oppervlakte maal de hoogte, en het is meestal groter dan eigenaars denken.\n\n**Herbouwen op een gewijzigde plaats** kan, maar niet vrij. Er moet een reden zijn waarom herbouw op dezelfde plek onmogelijk of niet wenselijk is — bijvoorbeeld een rooilijn of een achteruitbouwzone — of de verplaatsing moet tot een betere ruimtelijke ordening leiden. En de nieuwe inplanting moet ruimtelijk verantwoord zijn, bijvoorbeeld door aan te sluiten bij de voorbouwlijn van de buurgebouwen.\n\n**Na brand of vernieling lopen er termijnen.** De aanvraag tot herbouw moet gebeuren binnen de drie jaar na de toekenning van het verzekeringsbedrag, of binnen de vijf jaar na de vernieling of beschadiging. Ook hier geldt de grens van 1.000 m³. Wie te lang wacht, verliest het herbouwrecht en houdt een perceel over waarop niet opnieuw gebouwd kan worden. Dat is een van de scherpste redenen om in zo'n dossier niet te blijven treuzelen.\n\nTot slot een noodzakelijke nuance: de basisrechten zijn een **mogelijkheid, geen automatische toekenning**. Elke aanvraag moet ook verenigbaar blijven met de goede ruimtelijke ordening. \"Het staat in de VCRO, dus het mág\" is één stap te snel.",
+      },
+      {
+        heading: "Waar de grens ligt: kwetsbaar gebied, recreatiegebied en de uitzondering parkgebied",
+        body: "Hier zit het echte onderscheid tussen een zonevreemde woning die nog een toekomst heeft en een die er vooral één heeft binnen haar huidige muren.\n\nIn **ruimtelijk kwetsbaar gebied** (art. 1.1.2, 10° VCRO — onder meer bos- en natuurgebied) en in **recreatiegebied** vallen herbouwen, uitbreiden en functiewijziging weg. Wat overblijft, is het stevigste recht van allemaal: **verbouwen binnen het bestaande bouwvolume blijft vergunbaar**. \"In natuurgebied mag je niets meer\" is dus te streng — u kunt een woning in bosgebied nog volledig binnenin vernieuwen. U kunt ze alleen niet groter maken en niet slopen om opnieuw te bouwen.\n\n**Parkgebied is de uitzondering op de uitzondering.** Parkgebied is wél ruimtelijk kwetsbaar gebied, maar wordt uitdrukkelijk van het verbod uitgesloten: daar blijven de volle basisrechten gelden, inclusief herbouw en uitbreiding.\n\nDe meest voorkomende situatie in de regio Antwerpen is een woning of hoeve in **gewoon agrarisch gebied**. Dat is goed nieuws, want gewoon agrarisch gebied is geen ruimtelijk kwetsbaar gebied: daar gelden de volle basisrechten, herbouw tot 1.000 m³ inbegrepen. Een verwarring die vaak gemaakt wordt: **landschappelijk waardevol agrarisch gebied** klinkt kwetsbaar, maar volgens juridische vakbronnen komt het niet voor in de opsomming van art. 1.1.2, 10° VCRO — enkel agrarisch gebied met ecologisch belang of ecologische waarde staat daar wél in. Het is dus de moeite om precies te laten nakijken welk label uw perceel draagt.\n\n**Industriegebied** is noch ruimtelijk kwetsbaar gebied noch recreatiegebied, waardoor de uitsluitingsregel het in principe niet raakt en de basisrechten overeind blijven. \"In principe\", want er kan wel een RUP of milieuregelgeving meespelen.\n\nEn dat brengt ons bij het voorbehoud dat in bijna alle online informatie ontbreekt. **Wat de VCRO toelaat, is het maximum dat Vlaanderen voorziet.** Uw gemeente of provincie kan via een ruimtelijk uitvoeringsplan strengere regels opleggen — een lager maximumvolume, bijkomende inplantingsvoorwaarden — en de goede ruimtelijke ordening blijft daarnaast altijd een aparte toets. Vraag daarom bij de dienst omgeving van uw gemeente na wat er op úw perceel concreet kan. Wilt u het zwart op wit, dan bestaat daarvoor het **stedenbouwkundig attest**: daarmee laat u vooraf beoordelen of een bepaald project in principe vergunbaar is.\n\nDe tabel hieronder vat het Vlaamse kader samen.",
+        table: {
+          headers: ["Ingreep", "Agrarisch gebied / parkgebied", "Ruimtelijk kwetsbaar gebied (bv. bos- en natuurgebied)", "Recreatiegebied"],
+          rows: [
+            ["Onderhoudswerken (dakpannen, ramen, pleisterwerk)", "Vergunningsvrij", "Vergunningsvrij", "Vergunningsvrij"],
+            ["Verbouwen binnen het bestaande bouwvolume", "Ja", "Ja", "Ja"],
+            ["Stabiliteitswerken", "Ja", "Ja (bij verbouwen binnen het volume)", "Ja (idem)"],
+            ["Uitbreiden, tot max. 1.000 m³", "Ja", "Nee", "Nee"],
+            ["Herbouwen op dezelfde plaats, tot max. 1.000 m³", "Ja", "Nee", "Nee"],
+            ["Herbouwen op gewijzigde plaats", "Ja, mits reden én bijkomende voorwaarde", "Nee", "Nee"],
+            ["Zonevreemde functiewijziging", "Ja, binnen de vastgelegde lijst", "Nee (uitz.: parkgebied en agrarisch gebied met ecologisch belang of waarde)", "Nee"],
+          ],
+        },
+      },
+      {
+        heading: "De twee voorwaarden waar alles van afhangt: hoofdzakelijk vergund en niet verkrot",
+        body: "Alle basisrechten hierboven staan achter dezelfde twee poorten. Voldoet uw woning niet aan beide, dan kunt u zich niet op art. 4.4.10 e.v. VCRO beroepen — ongeacht in welke zone het pand ligt.\n\n**Hoofdzakelijk vergund: let op de aanbouw.** Zonevreemd en in overtreding sluiten elkaar niet uit. Een vergunde zonevreemde woning met een niet-vergunde aanbouw, veranda of loods kan door dat extra volume onder de 90%-grens duiken — en dan verdwijnen de basisrechten van de héle woning. Dat is dan een dossier over onvergunde werken, niet over zonevreemdheid; daarover leest u meer in ons artikel over een stedenbouwkundige overtreding bij verkoop.\n\nHier zit ook een gunstige verrassing die veel eigenaars van oudere panden niet kennen: bij de 90%-toets wordt **\"vergund geacht\" gelijkgesteld met vergund**. Een oude woning die onder het wettelijk vermoeden van vergunning valt, kan dus wél volwaardige basisrechten hebben. Voor een hoeve waarvan het originele vergunningsdossier nooit is teruggevonden, is dat vaak het verschil tussen een pand met toekomst en een pand zonder. Ons artikel over het vermoeden van vergunning legt uit wanneer dat vermoeden speelt en hoe u het aantoont.\n\n**Verkrot: het gaat over stabiliteit, niet over comfort.** Dit is het punt waar lezers het meest verkeerd inschatten. Verkrot is een wettelijk begrip dat verwijst naar de elementaire eisen van stabiliteit. Een lelijke, slecht geïsoleerde, koude woning met een verouderde keuken is niet verkrot. Een woning met een bezwijkend dak of scheurende dragende muren wel.\n\nHet gevolg is hard, en het is de reden waarom uitstel bij zonevreemde panden echt geld kost: **een leegstaande zonevreemde hoeve die stilaan instabiel wordt, verliest op een bepaald moment haar basisrechten.** Daarmee verdwijnt niet alleen het recht op herbouw, maar het grootste deel van wat een koper met het pand zou kunnen doen — en dus ook van wat hij ervoor wil betalen. Elke winter zonder onderhoud brengt dat moment dichterbij.\n\nDat mechanisme verklaart ook waarom een zonevreemd pand in de praktijk moeilijker verkoopt dan een vergelijkbaar pand in woongebied. Wij zien dat kandidaat-kopers afhaken zodra ze niet weten wat er nog mag, en dat kredietverstrekkers meewegen dat het onderpand beperkter is wanneer herbouw uitgesloten of afgetopt is. Dat is geen wettelijk beletsel — het is een praktische rem, en die rem wordt vooral gevoed door onduidelijkheid. Wie mét een uittreksel uit het plannen- en vergunningenregister en een helder antwoord op \"wat mag hier nog?\" naar de markt komt, haalt een groot deel van die twijfel weg.\n\nDe twee voorwaarden naast elkaar:",
+        table: {
+          headers: ["", "Hoofdzakelijk vergund", "Niet verkrot"],
+          rows: [
+            ["Wettelijke maatstaf", "Minstens 90% van het bruto-bouwvolume is vergund of vergund geacht", "De constructie voldoet aan de elementaire eisen van stabiliteit"],
+            ["Artikel", "Art. 4.1.1, 7° VCRO", "Art. 4.1.1, 15° VCRO"],
+            ["Wat het niet betekent", "Niet \"100% in orde\" — er is een marge van 10%", "Niet \"afgeleefd\", niet \"vochtig\", niet \"ouderwets\" — het gaat om stabiliteit"],
+            ["Wie beoordeelt", "De bevoegde overheid, in het vergunningsdossier", "De bevoegde overheid, in het vergunningsdossier"],
+            ["Gevolg als niet voldaan", "Geen basisrechten", "Geen basisrechten"],
+          ],
+        },
+      },
+      {
+        heading: "Een zonevreemde hoeve: functiewijziging naar wonen, en twee routes die zelden helpen",
+        body: "Voor hoeves in agrarisch gebied is de **zonevreemde functiewijziging** het belangrijkste instrument. De rechtsgrond is art. 4.4.23 VCRO, uitgewerkt in het besluit van de Vlaamse Regering van 28 november 2003 dat de lijst van toelaatbare zonevreemde functiewijzigingen vaststelt — een besluit dat sindsdien meermaals is gewijzigd, dus werk altijd met de geconsolideerde versie.\n\nDie lijst is **limitatief**: staat uw gewenste functie er niet in, dan is de functiewijziging niet toelaatbaar. Enkele voorbeelden uit de lijst:\n• Wonen in een zonevreemd gebouw dat voorheen niet als woning vergund was\n• Een voormalig landbouwbedrijf naar wonen\n• Woning met kantoor, tot 100 m², waarbij het woongedeelte groter moet blijven\n• Woning met toeristisch logies, tot 8 verblijfsgelegenheden en zonder horeca\n• Landbouwgebouw naar zuivere opslag\n• Landbouwgebouw naar paardenhouderij, manège, dierenpension, dierenasiel, dierenartsenpraktijk, jeugdlogies of tuinaanlegbedrijf\n• Een erfgoedgebouw naar een nieuwe functie\n\n**De belangrijkste beperking gaat over de bijgebouwen.** Bij een voormalig landbouwbedrijf krijgen de bedrijfswoning en de fysiek aansluitende aanhorigheden wonen als nieuw gebruik, met uitsluiting van meergezinswoningen. De **losstaande** bedrijfsgebouwen kunnen enkel woningbijgebouw of tijdelijke verblijfsgelegenheid worden. Een grote schuur op vijftien meter van het woonhuis wordt dus geen tweede woning en geen appartementen. Precies daar zit het verschil tussen wat verkopers van een hoeve met veel bijgebouwen verwachten en wat kopers ervoor kunnen betalen: die volumes zijn vaak minder waardevol dan hun oppervlakte suggereert.\n\nEn nog een grens: functiewijziging is uitgesloten in ruimtelijk kwetsbaar gebied, met uitzondering van parkgebied en van agrarische gebieden met ecologisch belang of waarde. Een landbouwgebouw omzetten naar woning lukt in kwetsbare zones niet.\n\n**Route 1 die zelden helpt: het planologisch attest.** Dit instrument (art. 4.4.24 t.e.m. 4.4.29 VCRO) wordt online vaak voorgesteld als \"de oplossing\" voor zonevreemdheid. Dat is het niet. Het is gericht op zonevreemde **bedrijven**, die de overheid vragen of ze mogen blijven en uitbreiden en of daarvoor een planwijziging wordt opgestart. Voor een gewone zonevreemde woning is het in de regel niet de weg, en zelfs voor een bedrijf is het geen vergunning en geen garantie — het is een uitspraak over de bereidheid om een plan te bekijken, met een ruimtelijk planner en een gemeentelijke procedure erbij.\n\n**Route 2 die zelden helpt: planschade.** Planschade is een vergoeding wanneer een ruimtelijk uitvoeringsplan de bouwmogelijkheden van een perceel wegneemt. Er bestaat meer dan één regeling naast elkaar, en de voorwaarden en termijnen verschillen naargelang wanneer het plan werd vastgesteld. Voor wie al jaren een zonevreemde woning bezit, is het meestal geen uitweg: de aanvraagtermijnen lopen vanaf het plan dat de bestemming wijzigde, en dat moment ligt bij een oude zonevreemdheid ver achter ons. Laat uw dossier bij twijfel bekijken door een advocaat omgevingsrecht, maar reken er niet op bij het bepalen van uw vraagprijs.",
+      },
+      {
+        heading: "Wat u bij de verkoop verplicht moet vermelden",
+        body: "Zonevreemdheid verzwijgen is geen optie, en dat is eigenlijk goed nieuws: het haalt de spanning uit het gesprek met de koper. De informatieplicht staat in **art. 5.2.1 t.e.m. 5.2.6 VCRO** en geldt bij verkoop, bij verhuring van meer dan negen jaar en bij inbreng van een onroerend goed in een vennootschap. Ze rust niet alleen op de notaris en de vastgoedmakelaar, maar ook op u als particulier.\n\nDe vermeldingen moeten op drie plaatsen terugkomen:\n1. In de **publiciteit** — de advertentie, de affiche, de online zoekertjes\n2. In de **onderhandse akte**, dus in het compromis\n3. In de **authentieke akte** bij de notaris\n\nWat vermeld moet worden, gaat onder meer over de stedenbouwkundige vergunning (Vg of Gvg), de **stedenbouwkundige bestemming**, een eventuele dagvaarding of herstelvordering (Dv, Ho, Bo), het voorkooprecht (VKr of Gvkr) en de verkavelingsvergunning (Vv of Gvv). In gemeenten met een goedgekeurd plannen- en vergunningenregister moet in de akte de **meest recente stedenbouwkundige bestemming volgens het plannenregister** worden opgenomen.\n\nDaar wordt uw zonevreemdheid dus onvermijdelijk zichtbaar: in de advertentie en in het compromis staat **\"Ag\" (agrarisch gebied) in plaats van \"Wg\" (woongebied)**. Dat is geen keuze en geen zwakte in de onderhandeling — het is een wettelijke vermelding. Bereid liever voor hoe u ze uitlegt: dat de woning vergund is, wat er nog mag, en waarom.\n\nEén praktisch detail dat bijna niemand kent: **in internetadvertenties mogen de afkortingen niet gebruikt worden.** Ze zijn enkel toegelaten in geschreven pers waar per letter betaald wordt. Online moet het dus voluit: \"agrarisch gebied\", niet \"Ag\".\n\nHet document dat de bestemming en de vergunningstoestand aantoont, is het **uittreksel uit het plannenregister en het vergunningenregister**. Vraag dat op vóór u te koop zet, niet nadat een koper ernaar vraagt — het is het stuk waarmee u het gesprek van speculatie naar feiten brengt. Hoe u vastgoedinformatie aanvraagt, leest u in ons artikel daarover.\n\nBlijft er één punt open dat we niet met zekerheid kunnen beantwoorden: hoe de Vlaamse **renovatieverplichting en de EPC-regels** precies uitwerken voor een zonevreemde woning die niet herbouwd of uitgebreid mag worden. Ga daar niet van uitzonderingen uit en laat dit voor uw specifieke woning nakijken; ons artikel over de renovatieplicht zet de algemene regels op een rij.",
+      },
+      {
+        heading: "Zo werkt het bij wijkopenpanden.be",
+        body: "Een zonevreemd pand verkoopt zelden vlot op de klassieke markt, en het probleem is bijna nooit het pand zelf — het is de onzekerheid errond. Een directe verkoop lost een aantal van die punten concreet op.\n\n• Wij kopen zelf aan en **kennen het onderscheid** tussen zonevreemd, vergund geacht en onvergund. U moet ons niet overtuigen dat uw woning legaal is; wij lezen het uittreksel uit het plannen- en vergunningenregister en schatten zelf in wat er nog kan.\n• Er zit **geen opschortende voorwaarde van financiering** in ons compromis. Daarmee verdwijnt precies het risico dat bij een zonevreemd pand het vaakst een verkoop doet klappen.\n• Wij kopen het pand **in de staat waarin het zich bevindt**. U hoeft niets op te knappen, niet te ruimen en geen werken uit te voeren om het \"verkoopbaar\" te maken.\n• U hoeft niet te wachten. Bij een vervallen hoeve is dat meer dan een gemak: hoe langer een pand onbewoond en zonder onderhoud staat, hoe dichter het bij de grens van **verkrot** komt — en daarmee bij het verlies van zijn basisrechten.\n• U beslist mee over de **aktedatum** en u werkt met de **notaris van uw keuze**.\n• U krijgt een **schriftelijk, gemotiveerd bod** en wij vragen geen exclusiviteit, zodat u vrij kunt vergelijken met een makelaarsschatting of een tweede bod.\n\nWat wij niet doen, is beloven dat er meer mag dan de VCRO toelaat. Ligt uw woning in natuurgebied, dan mag ook een opkoper ze niet herbouwen — dat zit in het bod verrekend en wij zeggen u dat op voorhand. Wat wij wél bieden, is een koper die de situatie kan inschatten zonder dat er drie maanden onzekerheid over uw hoofd hangt.",
+      },
+    ],
+    relatedArticles: ["oude-woning-zonder-bouwvergunning-vermoeden-van-vergunning", "stedenbouwkundige-overtreding-woning-verkopen", "vastgoedinformatie-aanvragen-bij-verkoop", "pand-in-slechte-staat-verkopen", "energie-renovatieplicht-vlaanderen-2026", "huis-verkopen-na-brand-of-schade", "tuin-of-bouwgrond-apart-verkopen-perceel-splitsen", "beschermd-monument-erfgoedwoning-verkopen", "recht-van-voorkoop-bij-verkoop-woning"],
+    relatedSituations: ["opknappand-verkopen", "vastgoedopkoper-antwerpen", "pand-snel-verkopen", "schatting-pand"],
+    faqs: [
+      {
+        question: "Is een zonevreemde woning illegaal?",
+        answer:
+          "Nee. Een zonevreemde woning is rechtsgeldig vergund of wordt vergund geacht; alleen de bestemming van het gebied stemt niet overeen met het gebruik, bijvoorbeeld een woning in agrarisch gebied. Zonevreemdheid is een planologische situatie, geen overtreding, en er valt niets te regulariseren. De VCRO kent zulke woningen zelfs een reeks basisrechten toe voor verbouwen, herbouwen en uitbreiden.",
+      },
+      {
+        question: "Mag ik een zonevreemde woning verkopen?",
+        answer:
+          "Ja, zonder beperking. U moet de situatie wel correct vermelden: art. 5.2.1 e.v. VCRO verplicht u de stedenbouwkundige bestemming en de vergunningstoestand op te nemen in de publiciteit, in het compromis en in de notariële akte. In de advertentie komt daardoor \"agrarisch gebied\" in plaats van \"woongebied\" te staan. In internetadvertenties moet dat voluit, want afkortingen zijn daar niet toegelaten.",
+      },
+      {
+        question: "Wat mag ik nog verbouwen aan een zonevreemde woning in natuurgebied?",
+        answer:
+          "Verbouwen binnen het bestaande bouwvolume blijft vergunbaar, ook in ruimtelijk kwetsbaar gebied zoals bos- en natuurgebied. U kunt de woning dus binnenin volledig vernieuwen. Wat wegvalt, zijn herbouwen, uitbreiden en functiewijziging. Onderhoudswerken zoals dakpannen of identieke ramen vervangen zijn overal vergunningsvrij. Parkgebied is de uitzondering: daar blijven de volle basisrechten gelden, herbouw inbegrepen.",
+      },
+      {
+        question: "Mag ik een zonevreemde hoeve ombouwen tot meerdere woningen?",
+        answer:
+          "Nee. Bij de functiewijziging van een voormalig landbouwbedrijf naar wonen gaat het om de bedrijfswoning en de fysiek aansluitende aanhorigheden, met uitsluiting van meergezinswoningen. Losstaande bedrijfsgebouwen kunnen enkel woningbijgebouw of tijdelijke verblijfsgelegenheid worden, geen zelfstandige wooneenheden. De lijst van toelaatbare functiewijzigingen is limitatief, en in ruimtelijk kwetsbaar gebied is functiewijziging in de regel uitgesloten.",
+      },
+      {
+        question: "Wat betekent \"verkrot\" en waarom is dat zo belangrijk?",
+        answer:
+          "Verkrot betekent dat de constructie niet voldoet aan de elementaire eisen van stabiliteit (art. 4.1.1, 15° VCRO). Het gaat dus niet om vocht, comfort of een verouderde afwerking, maar om de draagstructuur. Het belang is groot: een verkrotte zonevreemde woning verliest haar basisrechten volledig. Een leegstaande hoeve die stilaan instabiel wordt, verliest daarmee ook het grootste deel van wat een koper er nog mee kan doen.",
+      },
+      {
+        question: "Is een zonevreemde woning minder waard?",
+        answer:
+          "Meestal wel, en dat komt vooral van de beperkte ontwikkelingsruimte: uitbreiden en herbouwen zijn afgetopt op 1.000 m³ en in kwetsbaar gebied vallen ze helemaal weg. In de praktijk zien we ook dat kandidaat-kopers afhaken bij onduidelijkheid en dat kredietverstrekkers meewegen dat het onderpand beperkter is. Een uittreksel uit het plannen- en vergunningenregister plus een helder antwoord op \"wat mag hier nog?\" haalt een groot deel van die twijfel weg.",
       },
     ],
   },
