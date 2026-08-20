@@ -38,7 +38,7 @@ export const situations: Situation[] = [
     fiscalNote:
       "Erfbelasting in Vlaanderen hangt af van de familiale band en de waarde van de nalatenschap. Het tarief voor de rechtstreekse lijn ligt beduidend lager dan voor verre verwanten of derden. De notaris berekent de exacte schuld op basis van de aangifte. Wij geven geen fiscaal advies maar sturen u door naar een erkend fiscaal adviseur als u dit wenst.",
     relatedPropertyTypes: ["rijhuis-verkopen-antwerpen", "appartement-verkopen-antwerpen", "schatting-pand"],
-    relatedArticles: ["commissie-makelaar-belgie", "pand-laten-schatten-schattingsverslag"],
+    relatedArticles: ["commissie-makelaar-belgie", "pand-laten-schatten-schattingsverslag", "erfenis-met-schulden-woning-verkopen"],
     faqs: [
       {
         question: "Kan ik een geërfd huis verkopen als één erfgenaam weigert?",
@@ -174,7 +174,7 @@ export const situations: Situation[] = [
       },
     ],
     relatedPropertyTypes: ["rijhuis-verkopen-antwerpen", "herenhuis-verkopen-antwerpen", "villa-verkopen-antwerpen", "huis-snel-verkopen"],
-    relatedArticles: ["commissie-makelaar-belgie", "pand-in-slechte-staat-verkopen"],
+    relatedArticles: ["commissie-makelaar-belgie", "pand-in-slechte-staat-verkopen", "pand-verkopen-aan-projectontwikkelaar"],
     faqs: [
       {
         question: "Moet ik het pand leegmaken voor de verkoop aan wijkopenpanden.be?",
@@ -570,6 +570,8 @@ export const situations: Situation[] = [
       "pand-in-slechte-staat-verkopen",
       "meerwaardebelasting-tweede-verblijf-belgie",
       "verhuren-of-verkopen-antwerpen",
+      "pand-verkopen-aan-projectontwikkelaar",
+      "woning-met-praktijkruimte-of-beroepsgedeelte-verkopen",
     ],
     faqs: [
       {

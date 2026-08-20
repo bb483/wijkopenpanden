@@ -114,7 +114,7 @@ export const articles: Article[] = [
         body: "Bij een verkoop aan wijkopenpanden.be regelen wij alle verplichte keuringen en attesten zelf, op onze kosten. U hoeft geen EPC, elektriciteitskeuring, asbestinventaris of bodemattesten zelf aan te vragen of te betalen. Dit is een van de concrete voordelen van een rechtstreekse verkoop aan een professionele opkoper.",
       },
     ],
-    relatedArticles: ["commissie-makelaar-belgie", "notariskosten-woning-verkoop", "asbestattest-bij-verkoop-woning", "bodemattest-vlaanderen-verkoop", "elektriciteitskeuring-niet-conform-verkopen", "postinterventiedossier-pid-verkoop-woning", "onafgewerkte-verbouwing-of-bouwwerf-verkopen", "vastgoedinformatie-aanvragen-bij-verkoop"],
+    relatedArticles: ["commissie-makelaar-belgie", "notariskosten-woning-verkoop", "asbestattest-bij-verkoop-woning", "bodemattest-vlaanderen-verkoop", "elektriciteitskeuring-niet-conform-verkopen", "postinterventiedossier-pid-verkoop-woning", "onafgewerkte-verbouwing-of-bouwwerf-verkopen", "vastgoedinformatie-aanvragen-bij-verkoop", "woning-met-praktijkruimte-of-beroepsgedeelte-verkopen"],
     relatedSituations: ["verkopen-zonder-makelaar", "opknappand-verkopen"],
     faqs: [
       {
@@ -182,7 +182,7 @@ export const articles: Article[] = [
         body: "Een opkoper biedt u minder dan de theoretische marktwaarde, maar de bijkomende kosten en wachttijd bij een klassieke verkoop verkleinen het verschil aanzienlijk. Bij een woning in mindere staat, erfenis of tijdsdruk kan een rechtstreekse verkoop zelfs financieel gelijkwaardig of voordeliger uitkomen.\n\nDe keuze hangt niet alleen van de prijs af, maar ook van uw persoonlijke situatie: heeft u tijd, of heeft u zekerheid en snelheid nodig?",
       },
     ],
-    relatedArticles: ["commissie-makelaar-belgie", "notariskosten-woning-verkoop", "keuringen-bij-verkoop-woning", "kadastraal-inkomen-en-woningverkoop", "woning-verkopen-met-btw-nieuwbouw", "vastgoedinformatie-aanvragen-bij-verkoop", "huis-verkopen-aan-opkoper-verstandig"],
+    relatedArticles: ["commissie-makelaar-belgie", "notariskosten-woning-verkoop", "keuringen-bij-verkoop-woning", "kadastraal-inkomen-en-woningverkoop", "woning-verkopen-met-btw-nieuwbouw", "vastgoedinformatie-aanvragen-bij-verkoop", "huis-verkopen-aan-opkoper-verstandig", "pand-verkopen-aan-projectontwikkelaar"],
     relatedSituations: ["verkopen-zonder-makelaar"],
     faqs: [
       {
@@ -234,7 +234,7 @@ export const articles: Article[] = [
         body: "Bij een verkoop aan wijkopenpanden.be vragen wij het EPC-attest zelf op, op onze kosten. U hoeft geen energiedeskundige te contacteren of te betalen. Wij houden rekening met de energiestaat van de woning in ons bod, maar rekenen de keuringskosten niet door.",
       },
     ],
-    relatedArticles: ["keuringen-bij-verkoop-woning", "pand-in-slechte-staat-verkopen", "elektriciteitskeuring-niet-conform-verkopen"],
+    relatedArticles: ["keuringen-bij-verkoop-woning", "pand-in-slechte-staat-verkopen", "elektriciteitskeuring-niet-conform-verkopen", "woning-met-praktijkruimte-of-beroepsgedeelte-verkopen"],
     relatedSituations: ["opknappand-verkopen"],
     faqs: [
       {
@@ -295,7 +295,7 @@ export const articles: Article[] = [
         body: "Alle erfgenamen moeten het compromis (de verkoopbelofte) ondertekenen. Zijn niet alle erfgenamen aanwezig, dan kan één erfgenaam optreden met een volmacht (notarieel of onderhands) van de anderen.\n\nNa het compromis volgt de akte bij de notaris, doorgaans twee tot drie maanden later. Bij de akte worden de notariskosten verrekend en wordt de netto-opbrengst verdeeld onder de erfgenamen.",
       },
     ],
-    relatedArticles: ["keuringen-bij-verkoop-woning", "notariskosten-woning-verkoop", "blote-eigendom-verkopen", "pand-laten-schatten-schattingsverslag", "woning-verkopen-met-zorgvolmacht"],
+    relatedArticles: ["keuringen-bij-verkoop-woning", "notariskosten-woning-verkoop", "blote-eigendom-verkopen", "pand-laten-schatten-schattingsverslag", "woning-verkopen-met-zorgvolmacht", "erfenis-met-schulden-woning-verkopen"],
     relatedSituations: ["huis-verkopen-bij-erfenis"],
     faqs: [
       {
@@ -564,7 +564,7 @@ export const articles: Article[] = [
         body: "Ons bod houdt rekening met:\n\n• Geschatte renovatiekost (structurele gebreken wegen zwaarder dan cosmetische)\n• Staat van de elektriciteit, dakbedekking, riolering en verwarmingsinstallatie\n• Aanwezigheid van asbest\n• EPC-label en geschatte energetische investeringen\n• Marktwaarde van vergelijkbare panden in de buurt na renovatie\n\nWij zijn transparant over onze berekening en leggen u uit hoe we tot ons bod zijn gekomen.",
       },
     ],
-    relatedArticles: ["keuringen-bij-verkoop-woning", "epc-attest-antwerpen", "verkoop-kosten-berekenen", "huis-verkopen-na-brand-of-schade", "woning-verkopen-met-krakers-of-domiciliefraude", "beschermd-monument-erfgoedwoning-verkopen", "verwaarloosde-woning-heffing-verkopen", "onafgewerkte-verbouwing-of-bouwwerf-verkopen", "oude-woning-zonder-bouwvergunning-vermoeden-van-vergunning", "zonevreemde-woning-verkopen"],
+    relatedArticles: ["keuringen-bij-verkoop-woning", "epc-attest-antwerpen", "verkoop-kosten-berekenen", "huis-verkopen-na-brand-of-schade", "woning-verkopen-met-krakers-of-domiciliefraude", "beschermd-monument-erfgoedwoning-verkopen", "verwaarloosde-woning-heffing-verkopen", "onafgewerkte-verbouwing-of-bouwwerf-verkopen", "oude-woning-zonder-bouwvergunning-vermoeden-van-vergunning", "zonevreemde-woning-verkopen", "pand-verkopen-aan-projectontwikkelaar"],
     relatedSituations: ["opknappand-verkopen", "huis-verkopen-bij-erfenis"],
     faqs: [
       {
@@ -635,7 +635,7 @@ export const articles: Article[] = [
         },
       },
     ],
-    relatedArticles: ["notariskosten-woning-verkoop", "verkoop-kosten-berekenen", "erfenis-woning-stappenplan", "kadastraal-inkomen-en-woningverkoop", "onroerende-voorheffing-verrekenen-bij-verkoop", "woonbonus-en-fiscaal-voordeel-bij-verkoop-woning", "pand-uit-vennootschap-verkopen", "woning-verkopen-met-btw-nieuwbouw", "partner-uitkopen-bij-scheiding-verdeelrecht"],
+    relatedArticles: ["notariskosten-woning-verkoop", "verkoop-kosten-berekenen", "erfenis-woning-stappenplan", "kadastraal-inkomen-en-woningverkoop", "onroerende-voorheffing-verrekenen-bij-verkoop", "woonbonus-en-fiscaal-voordeel-bij-verkoop-woning", "pand-uit-vennootschap-verkopen", "woning-verkopen-met-btw-nieuwbouw", "partner-uitkopen-bij-scheiding-verdeelrecht", "woning-met-praktijkruimte-of-beroepsgedeelte-verkopen"],
     relatedSituations: ["huis-verkopen-bij-erfenis", "huis-verkopen-bij-scheiding"],
     faqs: [
       {
@@ -1688,7 +1688,7 @@ export const articles: Article[] = [
         body: "Er zijn specifieke situaties waarin snel verkopen — ook aan een vastgoedopkoper — financieel verstandiger is dan wachten:\n\nMeerdere erfgenamen met verschillende plannen: zolang de woning niet verkocht is, moeten alle mede-eigenaars het eens zijn over elke beslissing. Dat kan maanden duren. Ondertussen lopen de kosten door.\n\nWoning in slechte staat of met laag EPC-label: renoveren kost geld en tijd die erfgenamen niet altijd hebben of willen investeren in een woning die ze toch willen verkopen. Verkopen as-is aan een opkoper vermijdt die investering.\n\nLeegstandsheffing: als de woning leegstaat, begint na twaalf maanden de leegstandsheffing te lopen. Elke maand uitstel verhoogt de belastingdruk.\n\nErfbelasting financieren: erfgenamen moeten de erfbelasting betalen vóór ze de erfenis kunnen afronden. Als er geen spaargeld is, kan een snelle verkoop het benodigde kapitaal vrijmaken om de erfbelasting te voldoen.\n\nOnroerende voorheffing: deze loopt maandelijks door, ook als de woning leegstaat en niemand er van geniet.",
       },
     ],
-    relatedArticles: ["leegstandsheffing-antwerpen-2026", "verhuren-of-verkopen-antwerpen", "energie-renovatieplicht-vlaanderen-2026", "pand-laten-schatten-schattingsverslag"],
+    relatedArticles: ["leegstandsheffing-antwerpen-2026", "verhuren-of-verkopen-antwerpen", "energie-renovatieplicht-vlaanderen-2026", "pand-laten-schatten-schattingsverslag", "erfenis-met-schulden-woning-verkopen"],
     relatedSituations: ["huis-verkopen-bij-erfenis", "verkopen-zonder-makelaar"],
     faqs: [
       {
@@ -1774,7 +1774,7 @@ export const articles: Article[] = [
         },
       },
     ],
-    relatedArticles: ["erfbelasting-vlaanderen-2026", "leegstandsheffing-antwerpen-2026"],
+    relatedArticles: ["erfbelasting-vlaanderen-2026", "leegstandsheffing-antwerpen-2026", "erfenis-met-schulden-woning-verkopen"],
     relatedSituations: ["huis-verkopen-bij-erfenis", "verkopen-zonder-makelaar"],
     faqs: [
       {
@@ -2671,7 +2671,7 @@ export const articles: Article[] = [
         body: "Bij betalingsproblemen telt vooral snelheid en zekerheid. wijkopenpanden.be koopt uw woning rechtstreeks aan, zonder makelaar en zonder commissie, en brengt na een bezoek een concreet, schriftelijk bod uit.\n\nVoor wie onder druk staat, biedt dat drie voordelen: u krijgt snel duidelijkheid over wat de woning oplevert, u vermijdt maandenlange onzekerheid en bijkomende kosten, en de verkoop verloopt discreet, zonder publieke advertentie of veiling. Dringende dossiers behandelen wij met voorrang.\n\nWij kopen aan in alle situaties — met een lopende hypotheek, bij beslag of binnen een schuldenregeling — en coördineren met uw notaris voor een vlotte afhandeling. Een vrijblijvend bod aanvragen verplicht u tot niets en geeft u een concreet vergelijkingspunt om uw situatie te beoordelen.",
       },
     ],
-    relatedArticles: ["huis-verkopen-met-hypotheek", "snel-geld-vrijmaken-woning", "mede-eigendom-verkopen", "woning-staat-al-maanden-te-koop", "hoelang-duurt-huis-verkopen-belgie", "verkoop-kosten-berekenen", "woning-verkopen-met-beslag", "belastingschulden-bij-verkoop-notariele-notificatie", "woning-verkopen-bij-faillissement-curator", "woning-verkopen-in-collectieve-schuldenregeling"],
+    relatedArticles: ["huis-verkopen-met-hypotheek", "snel-geld-vrijmaken-woning", "mede-eigendom-verkopen", "woning-staat-al-maanden-te-koop", "hoelang-duurt-huis-verkopen-belgie", "verkoop-kosten-berekenen", "woning-verkopen-met-beslag", "belastingschulden-bij-verkoop-notariele-notificatie", "woning-verkopen-bij-faillissement-curator", "woning-verkopen-in-collectieve-schuldenregeling", "erfenis-met-schulden-woning-verkopen"],
     relatedSituations: ["verkopen-zonder-makelaar", "huis-verkopen-bij-scheiding"],
     faqs: [
       {
@@ -2901,7 +2901,7 @@ export const articles: Article[] = [
         body: "Geen van beide is altijd beter — het hangt af van uw situatie.\n\nEen **makelaar** is interessant als:\n• Uw woning in goede staat is en vlot verkoopt op de markt\n• U geen haast heeft en de hoogst mogelijke brutoprijs wilt nastreven\n• U geen bezwaar heeft tegen bezichtigingen en wachttijd\n\nEen **opkoper** is interessant als:\n• U snel of op een gekozen datum zekerheid wilt\n• U niet wilt of kunt renoveren vóór de verkoop\n• U discreet wilt verkopen, zonder bezichtigingen of advertentie\n• U een pand verkoopt dat de doorsnee koper niet zoekt (opknappand, opbrengsteigendom, verhuurd pand)\n• U gedoe en bijkomende kosten wilt vermijden\n\nTwijfelt u? Een vrijblijvend bod aanvragen kost niets en geeft u een concreet vergelijkingspunt naast een schatting van een makelaar.",
       },
     ],
-    relatedArticles: ["commissie-makelaar-belgie", "wat-is-een-vastgoedopkoper", "hoelang-duurt-huis-verkopen-belgie", "betrouwbaar-verkopen-aan-opkoper", "bod-aanvragen-vrijblijvend-bindend", "verkoop-kosten-berekenen", "makelaarscontract-opzeggen-en-zelf-verkopen", "huis-verkopen-aan-opkoper-verstandig"],
+    relatedArticles: ["commissie-makelaar-belgie", "wat-is-een-vastgoedopkoper", "hoelang-duurt-huis-verkopen-belgie", "betrouwbaar-verkopen-aan-opkoper", "bod-aanvragen-vrijblijvend-bindend", "verkoop-kosten-berekenen", "makelaarscontract-opzeggen-en-zelf-verkopen", "huis-verkopen-aan-opkoper-verstandig", "pand-verkopen-aan-projectontwikkelaar"],
     relatedSituations: ["verkopen-zonder-makelaar", "opknappand-verkopen", "vastgoedopkoper-antwerpen"],
     faqs: [
       {
@@ -4382,7 +4382,7 @@ export const articles: Article[] = [
         body: "In principe mag u **vrij over uw eigen onverdeeld aandeel beschikken**: u kunt uw aandeel verkopen aan een derde zonder toestemming van de andere mede-eigenaars. Beslissingen over het **geheel** van de woning vragen daarentegen wél ieders medewerking.\n\nToch is een los aandeel in de praktijk **moeilijk verkoopbaar**. Een koper verwerft dan geen woning, maar een onverdeelde positie mét een onwillige mede-eigenaar en een onzekere afloop — want zo'n verkoop houdt maar stand als het goed bij de uiteindelijke verdeling in de kavel van de verkoper terechtkomt. Weinig particuliere kopers zitten daarop te wachten, en de prijs voor een geïsoleerd aandeel ligt navenant laag.\n\nMeestal levert het meer op om, zodra alle mede-eigenaars akkoord zijn om samen te verkopen (of nadat de rechtbank de verkoop heeft bevolen), het **hele pand** in één keer te verkopen. Wilt u dan zekerheid en snelheid, dan kan een directe verkoop aan een professionele koper een alternatief zijn voor de onzekere opbrengst van een openbare veiling.\n\n**Wijkopenpanden.be** koopt panden in de regio Antwerpen aan in de huidige staat. Zodra de mede-eigenaars het eens zijn om te verkopen, ontvangt u binnen 2 uur een reactie op uw aanvraag en na een plaatsbezoek een schriftelijk bod op het geheel. U betaalt geen commissie en wij coördineren met uw notaris. Zo krijgen alle partijen een concreet, vergelijkbaar bedrag op tafel — handig om af te wegen tegen wat een openbare verkoop zou opbrengen, en vaak een manier om een slepend geschil sneller af te sluiten.",
       },
     ],
-    relatedArticles: ["mede-eigendom-verkopen", "erfenis-woning-stappenplan", "woning-verkopen-via-biddit", "belastingen-bij-woningverkoop", "hoe-snel-verkopen-en-geld-ontvangen", "partner-uitkopen-bij-scheiding-verdeelrecht"],
+    relatedArticles: ["mede-eigendom-verkopen", "erfenis-woning-stappenplan", "woning-verkopen-via-biddit", "belastingen-bij-woningverkoop", "hoe-snel-verkopen-en-geld-ontvangen", "partner-uitkopen-bij-scheiding-verdeelrecht", "erfenis-met-schulden-woning-verkopen"],
     relatedSituations: ["huis-verkopen-bij-scheiding", "huis-verkopen-bij-erfenis"],
     faqs: [
       {
@@ -4701,7 +4701,7 @@ export const articles: Article[] = [
         body: "Een pand met een lopende handelshuur is voor veel particuliere kopers geen optie: zij willen er zelf in wonen of werken en schrikken terug voor een huurder die er nog jaren kan blijven. Daardoor blijven zulke panden vaak lang te koop staan, of komt er enkel een bod met een fors risicodiscount. Meer daarover leest u in ons artikel over wat u doet als uw woning al maanden te koop staat.\n\n**Wij kopen panden in de regio Antwerpen aan in de huidige staat**, ook een handelspand of een gemengd pand met een lopende handelshuur. U hoeft de huurder niet buiten te krijgen, niets te renoveren en geen leegstand te organiseren. Concreet: u krijgt **binnen 2 uur een reactie** op uw aanvraag, wij komen ter plaatse kijken en na dat **plaatsbezoek volgt een schriftelijk bod**. Er is **geen commissie**, en de **verplichte attesten en de coördinatie met de notaris zijn inbegrepen**. De akte verlijdt **doorgaans binnen 2 tot 3 maanden**.\n\nWij vragen u niet om meteen te beslissen. Leg ons bod naast wat een makelaar of een belegger u biedt, en naast wat het u kost om nog jaren verder te verhuren met een huurder die het recht op hernieuwing kan inroepen. Zo kiest u met volledige informatie.",
       },
     ],
-    relatedArticles: ["huurder-rechten-bij-verkoop-woning", "verhuurd-pand-verkopen-conformiteitsattest-woningkwaliteit", "verhuren-of-verkopen-antwerpen", "woning-staat-al-maanden-te-koop", "verborgen-gebreken-woning-verkoop-belgie", "keuringen-attesten-bij-directe-verkoop"],
+    relatedArticles: ["huurder-rechten-bij-verkoop-woning", "verhuurd-pand-verkopen-conformiteitsattest-woningkwaliteit", "verhuren-of-verkopen-antwerpen", "woning-staat-al-maanden-te-koop", "verborgen-gebreken-woning-verkoop-belgie", "keuringen-attesten-bij-directe-verkoop", "woning-met-praktijkruimte-of-beroepsgedeelte-verkopen"],
     relatedSituations: ["pand-met-huurders-verkopen", "pand-snel-verkopen"],
     faqs: [
       {
@@ -5081,7 +5081,7 @@ export const articles: Article[] = [
         body: "Bent u curator en zoekt u een vlotte, onderbouwde onderhandse piste voor een pand in de regio Antwerpen? Of bent u eigenaar of mede-eigenaar en wilt u een pand correct en snel te gelde maken vóór de situatie verder ontspoort? Dan kan een verkoop **in de huidige staat** aan een professionele koper een piste zijn om naast de klassieke route te leggen.\n\nWij, wijkopenpanden.be, kopen panden in de **regio Antwerpen** aan in de **huidige staat**. Concreet:\n\n• U krijgt **binnen 2 uur een reactie** op uw aanvraag.\n• Na een **plaatsbezoek** ontvangt u een **schriftelijk bod**.\n• Er is **geen commissie**.\n• De **verplichte attesten en de coördinatie met de notaris** zijn inbegrepen.\n• De **akte volgt doorgaans binnen 2 tot 3 maanden**.\n\nWij kopen ook op wanneer een pand verouderd, leeg of in slechte staat is, en we werken mee aan de formaliteiten die een curator of een rechtbank oplegt — een machtiging, een minimumprijs, het horen van hypothecaire schuldeisers. Wat wij niet doen, is meestappen in een constructie die schuldeisers benadeelt: onze biedingen zijn schriftelijk en navolgbaar, precies zodat ze een toetsing achteraf kunnen doorstaan.\n\nEen schriftelijk bod verplicht u tot niets. U kunt het rustig naast de opbrengstverwachting van een openbare verkoop of een klassieke verkoop via een makelaar leggen — inclusief de kosten, de doorlooptijd en het risico op een lager bod op de zitdag. Zo kiest u met volledige informatie. Hoe zo'n traject qua timing en uitbetaling verloopt, leest u in ons artikel over **hoe snel u kunt verkopen en wanneer u het geld ontvangt**.",
       },
     ],
-    relatedArticles: ["huis-verkopen-bij-betalingsproblemen-schulden", "woning-verkopen-via-biddit", "snel-geld-vrijmaken-woning", "hoe-snel-verkopen-en-geld-ontvangen", "mede-eigenaar-wil-niet-verkopen-uit-onverdeeldheid", "huis-verkopen-met-hypotheek", "pand-uit-vennootschap-verkopen"],
+    relatedArticles: ["huis-verkopen-bij-betalingsproblemen-schulden", "woning-verkopen-via-biddit", "snel-geld-vrijmaken-woning", "hoe-snel-verkopen-en-geld-ontvangen", "mede-eigenaar-wil-niet-verkopen-uit-onverdeeldheid", "huis-verkopen-met-hypotheek", "pand-uit-vennootschap-verkopen", "erfenis-met-schulden-woning-verkopen"],
     relatedSituations: ["verkopen-zonder-makelaar", "opknappand-verkopen"],
     faqs: [
       {
@@ -5287,7 +5287,7 @@ export const articles: Article[] = [
         body: "Een perceel splitsen is een project op zich: landmeter, gemeente, openbaar onderzoek, buren, notaris, fiscaliteit — en pas daarna een koper zoeken. Voor wie het geld sneller nodig heeft, wie de discussie met de gemeente niet wil voeren, of wie merkt dat de grond gewoon geen bouwbestemming heeft, is er een eenvoudiger alternatief: **het geheel verkopen zoals het is**.\n\nWij, **wijkopenpanden.be**, kopen panden in de **regio Antwerpen** aan in de **huidige staat**. U hoeft niets te splitsen, niets op te meten en niets te laten vergunnen. Op uw aanvraag krijgt u **binnen 2 uur een reactie**. Na een **plaatsbezoek** ontvangt u een **schriftelijk bod**. Wij rekenen **geen commissie**, en de **verplichte attesten en de coördinatie met de notaris zijn inbegrepen**. De akte volgt **doorgaans binnen 2 tot 3 maanden**.\n\nDat bod is een vertrekpunt, geen eindpunt. Leg het naast wat u denkt te halen via de klassieke route — met splitsing, met vergunning, met wachttijd en met kosten — en beslis dan met volledige informatie welk spoor voor u het beste uitkomt. Wilt u eerst weten hoe een klassieke verkoop in de regio verloopt, dan leest u dat in onze [gids over een huis verkopen in Antwerpen](/kennisbank/huis-verkopen-antwerpen-gids).",
       },
     ],
-    relatedArticles: ["stedenbouwkundige-overtreding-woning-verkopen", "meerwaardebelasting-tweede-verblijf-belgie", "wat-is-mijn-woning-waard-antwerpen", "verkoop-kosten-berekenen", "notariskosten-woning-verkoop", "huis-verkopen-antwerpen-gids", "zonevreemde-woning-verkopen"],
+    relatedArticles: ["stedenbouwkundige-overtreding-woning-verkopen", "meerwaardebelasting-tweede-verblijf-belgie", "wat-is-mijn-woning-waard-antwerpen", "verkoop-kosten-berekenen", "notariskosten-woning-verkoop", "huis-verkopen-antwerpen-gids", "zonevreemde-woning-verkopen", "pand-verkopen-aan-projectontwikkelaar"],
     relatedSituations: ["huis-verkopen-bij-erfenis", "verkopen-zonder-makelaar"],
     faqs: [
       {
@@ -7303,6 +7303,7 @@ export const articles: Article[] = [
       "woning-verkopen-met-btw-nieuwbouw",
       "meerwaardebelasting-tweede-verblijf-belgie",
       "woning-verkopen-aan-familielid",
+      "woning-met-praktijkruimte-of-beroepsgedeelte-verkopen",
     ],
     relatedSituations: ["opbrengsteigendom-verkopen-antwerpen", "magazijn-kantoor-verkopen-antwerpen"],
     faqs: [
@@ -8339,6 +8340,389 @@ export const articles: Article[] = [
         question: "Is een zonevreemde woning minder waard?",
         answer:
           "Meestal wel, en dat komt vooral van de beperkte ontwikkelingsruimte: uitbreiden en herbouwen zijn afgetopt op 1.000 m³ en in kwetsbaar gebied vallen ze helemaal weg. In de praktijk zien we ook dat kandidaat-kopers afhaken bij onduidelijkheid en dat kredietverstrekkers meewegen dat het onderpand beperkter is. Een uittreksel uit het plannen- en vergunningenregister plus een helder antwoord op \"wat mag hier nog?\" haalt een groot deel van die twijfel weg.",
+      },
+    ],
+  },
+  {
+    slug: "pand-verkopen-aan-projectontwikkelaar",
+    title: "Uw pand verkopen aan een projectontwikkelaar: wanneer is de grond meer waard dan het huis?",
+    metaTitle: "Verkopen aan een projectontwikkelaar: wat betaalt hij écht?",
+    metaDescription:
+      "Wanneer betaalt een ontwikkelaar meer dan een gewone koper? Hoe hij zijn bod residueel berekent, en waarom de opschortende voorwaarde het echte risico is.",
+    publishedAt: "2026-08-20",
+    updatedAt: "2026-08-20",
+    intro:
+      "Een projectontwikkelaar betaalt alleen méér dan een gewone koper wanneer er op uw perceel méér vergund kan worden dan er vandaag staat. Hij koopt geen woning, hij koopt bouwpotentieel, en hij rekent residueel: de verwachte verkoopopbrengst van het nieuwe project min bouwkosten, btw, erelonen, financiering, risico en winstmarge. Wat overblijft, is het maximum dat hij voor uw grond kan betalen. Daar staat een prijs tegenover die verkopers zwaar onderschatten: bijna elk ontwikkelaarsbod hangt aan een opschortende voorwaarde van vergunning. U bent dan maanden gebonden aan een koper die nog niet weet of hij mag bouwen — en als hij niet mag, gaat de verkoop niet door.",
+    sections: [
+      {
+        heading: "Wat een ontwikkelaar eigenlijk koopt — en wanneer dat méér waard is dan uw huis",
+        body: "Een particuliere koper en een projectontwikkelaar kijken naar hetzelfde pand met twee compleet verschillende rekenmachines.\n\nDe particuliere koper waardeert de **woonwaarde**: hoeveel vierkante meter, welke staat, welke ligging, wat kost het om er te gaan wonen. Voor hem is een pas gerenoveerde keuken een pluspunt.\n\nDe ontwikkelaar waardeert de **ontwikkelingswaarde**: hoeveel bruikbare vierkante meter mag hij hier vergund krijgen, tegen welke bouwkost, en wat brengt dat op. Voor hem is diezelfde keuken een nulpost — hij sloopt ze toch. Sterker nog: de sloop van uw woning is voor hem een **aftrekpost**, geen nulpost. Afbraak, asbestverwijdering, afvoer en het bouwrijp maken van het perceel worden van zijn bod afgetrokken.\n\nDat verklaart meteen de belangrijkste vuistregel, en die is minder rooskleurig dan de meeste verhalen over ontwikkelaars: **de ontwikkelingswaarde overstijgt de woonwaarde alleen wanneer het vergunbare programma een stuk groter is dan wat er staat.** Twee appartementen op de plaats van één woning is meestal onvoldoende om de sloop, de procedure en de winstmarge te dragen. Zes of acht wooneenheden is een ander verhaal.\n\nWat het bouwpotentieel bepaalt, is bijna nooit uw pand zelf, maar het planologisch en stedenbouwkundig kader eromheen:\n• De **bestemming** volgens het gewestplan of het ruimtelijk uitvoeringsplan, en of meergezinswoningen er toegelaten zijn\n• De **gemeentelijke stedenbouwkundige verordening**. In Antwerpen is dat de Bouwcode, waarvan de huidige versie in werking trad op 15 juli 2024 en geldt voor aanvragen die nadien worden ingediend\n• De **perceelbreedte en -diepte**, en of er een tweede bouwlijn of achterliggende ontsluiting mogelijk is\n• De **parkeer- en fietsstalnormen**, die per functie en per ligging verschillen en die het aantal haalbare eenheden hard begrenzen\n• De aanwezigheid van **hoogstammig groen, waardevolle bomen of een gedeeltelijke bescherming**\n• De **bodemtoestand**, die bij een voormalig atelier, garage of stookolietank een saneringspost kan worden\n\nHet gevolg is dat twee ogenschijnlijk identieke rijhuizen in dezelfde straat een compleet ander ontwikkelaarsbod krijgen, puur omdat het ene een hoekperceel is en het andere niet. Vraag daarom nooit \"wat is mijn huis waard voor een ontwikkelaar\" zonder eerst het uittreksel uit het plannen- en vergunningenregister op tafel te leggen.\n\nDe tabel hieronder geeft de situaties waarin de ontwikkelingswaarde meestal wint, en die waarin ze dat bijna nooit doet.",
+        table: {
+          headers: ["Situatie", "Wie betaalt doorgaans het meest", "Waarom"],
+          rows: [
+            ["Ruim, diep of hoekperceel in een kern waar meergezinswoningen mogen", "Ontwikkelaar", "Het vergunbare programma is een veelvoud van wat er staat"],
+            ["Twee of meer aanpalende panden die samen verkocht worden", "Ontwikkelaar", "Een breder projectgebied maakt een efficiëntere plattegrond mogelijk"],
+            ["Verouderd handelspand, magazijn of garage in woongebied", "Ontwikkelaar", "De huidige functie brengt weinig op, de herbestemming veel"],
+            ["Grote tuin of achterliggende grond met eigen ontsluiting naar de straat", "Ontwikkelaar of grondkoper", "Achterliggende grond wordt pas waardevol als ze ontsloten is"],
+            ["Recent gerenoveerde woning op een smal perceel", "Particuliere koper", "De ontwikkelaar moet de renovatiewaarde afschrijven én slopen"],
+            ["Woning in een straat waar enkel ééngezinswoningen toegelaten zijn", "Particuliere koper", "Zonder extra volume is er geen ontwikkelingsmarge"],
+            ["Appartement of kavel in mede-eigendom", "Particuliere koper", "Een ontwikkelaar heeft het hele gebouw nodig, niet één kavel"],
+          ],
+        },
+      },
+      {
+        heading: "Hoe een ontwikkelaar zijn bod berekent: de residuele grondwaarde",
+        body: "Een ontwikkelaar vertrekt niet van uw pand, maar van het eindresultaat. Hij schat wat het afgewerkte project bij verkoop opbrengt, trekt daar élke kost van af die nodig is om er te geraken, en houdt onderaan een bedrag over. Dat bedrag is de **residuele grondwaarde**: het maximum dat hij voor uw grond kan betalen zonder zijn eigen rendement op te eten.\n\nDe formule is simpel, de gevolgen zijn dat niet:\n\n**Residuele grondwaarde = verwachte verkoopopbrengst − bouw- en ontwikkelkosten − bijkomende kosten − winst- en risicomarge**\n\nHieronder een uitgewerkt rekenvoorbeeld. **Let op: dit zijn illustratieve cijfers om de methode te tonen, geen marktcijfers voor uw pand.** Bouwkosten, verkoopprijzen en marges verschillen per gemeente, per project en per ontwikkelaar, en de gehanteerde winstmarge is bedrijfsinformatie die niet publiek is.",
+        table: {
+          headers: ["Post in de rekening", "Bedrag (rekenvoorbeeld)", "Wat het met uw grondprijs doet"],
+          rows: [
+            ["Verwachte verkoopopbrengst van het project (6 appartementen)", "1.800.000 euro", "Het startpunt: alles wordt hiervan afgetrokken"],
+            ["Bouwkosten, inclusief afbraak, sanering en omgevingsaanleg", "− 1.000.000 euro", "Stijgt deze post met 100.000, dan daalt uw grondprijs met 100.000"],
+            ["Erelonen architect, stabiliteit, EPB, veiligheidscoördinatie", "− 100.000 euro", "Loopt mee op met de bouwkost"],
+            ["Btw, registratiebelasting, notaris- en aansluitingskosten", "− 190.000 euro", "Grotendeels vast, nauwelijks onderhandelbaar"],
+            ["Financierings-, commercialisatie- en verkoopkosten", "− 110.000 euro", "Hoe langer de vergunningsprocedure duurt, hoe hoger"],
+            ["Winst- en risicomarge van de ontwikkelaar", "− 180.000 euro", "De enige post waarover u echt kunt onderhandelen"],
+            ["Residuele grondwaarde = zijn maximale bod", "220.000 euro", "Wat er voor u overblijft"],
+          ],
+        },
+      },
+      {
+        heading: "De hefboom die verkopers verrast: waarom kleine verschuivingen uw prijs halveren",
+        body: "Kijk nog eens naar de tabel hierboven, en verlaag alleen de verwachte verkoopopbrengst met tien procent — 180.000 euro. Alle andere posten blijven staan. De residuele grondwaarde zakt dan van 220.000 euro naar ongeveer 40.000 euro. Een daling van tien procent aan de opbrengstzijde vertaalt zich in een daling van meer dan tachtig procent van wat u krijgt. In de praktijk zou de risicomarge mee wat zakken, maar de orde van grootte blijft: **de grondwaarde is de sluitpost, en een sluitpost beweegt altijd het hevigst.**\n\nDit is het mechanisme achter drie dingen die verkopers vaak niet begrijpen.\n\n**Waarom ontwikkelaarsbiedingen zo hard reageren op de markt.** Wanneer bouwkosten of rentevoeten stijgen, of wanneer de verkoopprijzen van nieuwbouw stagneren, verdwijnt de grondwaarde het snelst van allemaal. Een bod dat twee jaar geleden op tafel lag, is vandaag zelden nog hetzelfde bod.\n\n**Waarom een ontwikkelaar zo hard vecht over het aantal eenheden.** Het aantal vergunde wooneenheden bepaalt de opbrengstzijde rechtstreeks. Twee eenheden minder in de vergunning dan gehoopt, en zijn hele rekening kantelt. Precies daarom bevatten veel ontwikkelaarscontracten een prijs **per vergunde eenheid** in plaats van een vaste prijs — waarover verderop meer.\n\n**Waarom een vergelijking met de buren niet werkt.** \"Twee straten verder betaalden ze 400.000 voor zo'n huis\" zegt niets over uw ontwikkelingswaarde, want die hangt aan uw perceelvorm, uw bestemming en uw parkeernorm.\n\nWat u er concreet mee kunt: vraag een ontwikkelaar niet alleen naar zijn bedrag, maar naar **het programma waarop hij rekent**. Hoeveel eenheden, welke oppervlakte, hoeveel bouwlagen, hoeveel parkeerplaatsen. Zonder dat antwoord weet u niet of zijn bod stevig staat of op de meest optimistische aanname van de hele rekening rust.",
+      },
+      {
+        heading: "De opschortende voorwaarde van vergunning: waar u werkelijk voor tekent",
+        body: "Dit is het deel van de verkoop dat het meeste geld kost en de minste aandacht krijgt.\n\nEen ontwikkelaar koopt zelden onvoorwaardelijk. Hij wil eerst weten of hij mag bouwen wat hij berekend heeft. Daarom bevat vrijwel elk ontwikkelaarscompromis een **opschortende voorwaarde van het bekomen van een omgevingsvergunning**. Juridisch is dat geen detail: onder Boek 5 van het Burgerlijk Wetboek raakt een opschortende voorwaarde de **opeisbaarheid** van de verbintenis (art. 5.139 BW). De koop bestaat dus al, maar wordt pas afdwingbaar wanneer de voorwaarde vervuld is. En sinds 1 januari 2023 werkt de vervulling in principe alleen **voor de toekomst** (art. 5.147 BW), al is die regel van aanvullend recht en mogen partijen er contractueel van afwijken.\n\nTwee juridische ankers die u kent maar zelden ziet toegepast:\n\n**De voorwaarde mag niet zuiver van de wil van de koper afhangen.** Een zuiver potestatieve voorwaarde is nietig (art. 5.141 BW). \"Onder voorbehoud van een vergunning die de koper aanvaardbaar acht\" is dus vragen om problemen. Formuleer objectief: een vergunning voor **minstens x wooneenheden en minstens y vierkante meter**, definitief en zonder beroep.\n\n**De koper heeft een inspanningsverbintenis.** Hij moet werkelijk en tijdig een deugdelijke aanvraag indienen, en de bewijslast daarvoor ligt bij hem. Dat is de reden waarom uw compromis een **indieningstermijn** moet bevatten: de aanvraag ingediend binnen zoveel maanden na ondertekening, met een kopie van het ontvangstbewijs aan u.\n\nEn dan de reden waarom dit tijd kost. De doorlooptijd van een vergunningsaanvraag in de gewone procedure is bij wet geregeld, maar er zitten meer verlengmogelijkheden in dan de meeste verkopers vermoeden.",
+        table: {
+          headers: ["Fase", "Termijn", "Wat dat voor u betekent"],
+          rows: [
+            ["Ontwerp, studies en vooroverleg vóór de aanvraag", "Contractueel — vaak 3 tot 6 maanden", "Leg vast binnen welke termijn de aanvraag ingediend móét zijn"],
+            ["Volledig- en ontvankelijkverklaring", "Uiterlijk de dertigste dag na indiening, ook stilzwijgend", "Pas hierna begint de eigenlijke beslissingstermijn te lopen"],
+            ["Beslissing in eerste aanleg, gewone procedure", "105 dagen, of 120 dagen mét omgevingsvergunningscommissie", "Binnen die termijn valt ook een openbaar onderzoek van 30 dagen"],
+            ["Verlenging bij wijzigingslus, administratieve lus of wegeniswerken", "60 dagen extra", "Een aangepast plan kost u dus twee maanden extra wachttijd"],
+            ["Administratief beroep bij de deputatie", "Beslissingstermijn van 120 dagen", "Eén buur die beroep aantekent, verlengt uw wachttijd fors"],
+            ["Beroep bij de Raad voor Vergunningsbetwistingen", "Geen vaste beslissingstermijn", "Zonder harde einddatum in uw compromis kunt u hier jaren aan vastzitten"],
+          ],
+        },
+      },
+      {
+        heading: "Optie, verkoopbelofte, opstalrecht of vastgoedruil: vier vormen met heel andere gevolgen",
+        body: "Niet elk voorstel van een ontwikkelaar is een verkoop. De vorm bepaalt wie waaraan vastzit, en dat verschil is groter dan het bedrag onderaan de brief.\n\n**De aankoopoptie of eenzijdige aankoopbelofte** is de vorm die verkopers het vaakst verkeerd inschatten. Een optie is een voorovereenkomst en géén koopovereenkomst: u belooft te verkopen aan een welbepaalde partij, en die partij mag de optie lichten of niet. Tijdens de optieperiode bent dus **alleen ú gebonden**. Ligt de looptijd op zes, twaalf of achttien maanden, dan ligt u al die tijd uit de markt terwijl de ontwikkelaar nergens toe verplicht is. Vraag daarom altijd een **vergoeding voor de optie** die u hoe dan ook behoudt, en houd de looptijd zo kort als het studiewerk realistisch vraagt.\n\n**De verkoop onder opschortende voorwaarde** bindt wél beide partijen, maar houdt u in onzekerheid tot de vergunning er is.\n\n**Het recht van opstal** is een andere route: u verkoopt de grond niet, maar geeft de ontwikkelaar het recht erop te bouwen, vaak tegen een vergoeding per verkochte eenheid. Onder Boek 3 van het Burgerlijk Wetboek, in werking sinds 1 september 2021, kan een opstalrecht tot 99 jaar lopen. Op de vestiging van een opstalrecht is sinds 1 januari 2024 een registratierecht van 5 procent verschuldigd in plaats van 2 procent. En let op de natrekking bij het einde van het recht: wat daarover in de akte staat, bepaalt of u vergoed wordt voor wat er dan staat.\n\n**De vastgoedruil** — uw grond in ruil voor een of meer nieuwe units — klinkt aantrekkelijk, maar maakt u de facto mede-investeerder. U draagt dan mee het risico van bouwtermijnen, oplevering en marktomstandigheden, zonder de zeggenschap van een investeerder.\n\nEén vuistregel die bij elk van deze vormen geldt: **laat u bijstaan door uw eigen notaris of advocaat, en niet door die van de ontwikkelaar.** De contracten zijn opgesteld door een professionele partij die dit tientallen keren per jaar doet. U doet het één keer.",
+        table: {
+          headers: ["Vorm", "Wie is gebonden", "Grootste risico voor u"],
+          rows: [
+            ["Aankoopoptie of eenzijdige aankoopbelofte", "Alleen u, zolang de optie loopt", "U ligt uit de markt zonder dat er een koper vaststaat"],
+            ["Verkoop onder opschortende voorwaarde van vergunning", "Beide partijen", "Maandenlange onzekerheid; zonder einddatum in principe onbeperkt"],
+            ["Verkoop met een prijs per vergunde wooneenheid", "Beide partijen", "Minder eenheden vergund betekent rechtstreeks minder geld voor u"],
+            ["Recht van opstal met vergoeding per verkochte eenheid", "Beide partijen, voor lange duur", "U draagt mee het verkooprisico van het project"],
+            ["Vastgoedruil: grond tegen een of meer nieuwe units", "Beide partijen", "U wordt mede-investeerder, met bouw- en oplevertermijnrisico"],
+            ["Directe verkoop aan een koper met eigen middelen", "Beide partijen, meteen definitief", "Geen vergunningsrisico, maar de prijs volgt de huidige staat"],
+          ],
+        },
+      },
+      {
+        heading: "Vijf clausules waarop het in de praktijk misloopt",
+        body: "**Een exclusiviteit of optie zonder harde einddatum.** Sommige ontwikkelaars vragen al in een intentieverklaring een exclusiviteitsperiode van zes maanden of meer. Tijdens die periode mag u met niemand anders onderhandelen, ook niet wanneer het uiteindelijke bod tegenvalt. Zet er een datum op, en zet erbij wat er gebeurt als die datum passeert.\n\n**Een verlengingsrecht dat enkel de koper mag inroepen.** \"De termijn wordt van rechtswege verlengd met zes maanden indien de vergunningsprocedure nog loopt\" is een clausule die uw einddatum stilzwijgend opschuift. Aanvaard hoogstens één verlenging, met een expliciete tegenprestatie: een niet-terugvorderbaar voorschot, of een prijsverhoging.\n\n**Een prijs per vergunde eenheid zonder ondergrens.** Hangt uw prijs af van het aantal vergunde wooneenheden, bedingt dan een **minimumprijs** waaronder u niet hoeft te verkopen. Zonder ondergrens draagt u het volledige planologische risico van een project dat u niet zelf ontwerpt.\n\n**Geen schadebeding aan de kant van de koper.** In veel ontwerpen staat wél wat er gebeurt als de verkoper afhaakt, en niets als de koper zijn aanvraag nooit indient. Onder Boek 5 BW mag een schadebeding, maar de rechter kan het matigen wanneer het kennelijk onredelijk is (art. 5.88 BW) — dat is geen reden om er geen te bedingen, wel een reden om het redelijk te houden.\n\n**Een aktedatum die aan niets vastgeklonken zit.** \"De akte wordt verleden binnen de vier maanden na het definitief worden van de vergunning\" laat de definitie van \"definitief\" open. Preciseer of het gaat om het verstrijken van de beroepstermijn, of ook om een uitspraak van de Raad voor Vergunningsbetwistingen.\n\nEen fiscaal detail dat hierbij hoort en dat weinig verkopers kennen: bij een verkoop onder opschortende voorwaarde is het verkooprecht pas verschuldigd wanneer de voorwaarde vervuld is, en begint ook de termijn van vier maanden om de overeenkomst te registreren pas dan te lopen (art. 2.9.7.0.3, § 2 van de Vlaamse Codex Fiscaliteit). Uw compromis blijft dus maandenlang in de kast liggen — reden te meer om er een sluitende einddatum in te zetten.",
+      },
+      {
+        heading: "Wat er fiscaal van uw prijs afgaat",
+        body: "Een ontwikkelaarsbod is bruto. Wat u netto overhoudt, hangt af van hoelang u het pand bezit en wat het precies is.\n\nVerkoopt u de woning waar u zelf gedomicilieerd bent, dan is de meerwaarde in de regel **vrijgesteld**, hoe groot ze ook is. Gaat het om een tweede woning, een geërfd pand of grond, dan gelden termijnen — en die termijnen zijn **niet dezelfde voor gebouwen als voor onbebouwde grond**. Dat is de fout die we het vaakst tegenkomen: verkopers rekenen met de vijfjaarsregel van gebouwen terwijl ze een bouwgrond verkopen.\n\nEen tweede punt dat bij ontwikkelaarsverkopen speelt: verkoopt u herhaaldelijk panden of gronden, dan kan de fiscus uw activiteit als **beroepsmatig** herkwalificeren. Dan verdwijnen de vaste tarieven en geldt het progressieve tarief op beroepsinkomen. Eén verkoop van een geërfd ouderlijk huis is dat niet; een derde verkaveling in vijf jaar kan dat wel zijn.\n\nEn dan het stuk dat níét op uw aanslagbiljet staat maar wel in het bod van de ontwikkelaar zit: het **verlaagde btw-tarief van 6 procent voor afbraak en heropbouw**. Sinds 1 juli 2025 is dat een permanente regeling. Verkoopt een professionele bouwheer een heropgebouwde woning aan een particulier, dan geldt 6 procent slechts als die koper er zijn enige woning en hoofdverblijfplaats van maakt, er zich domicilieert, en de bewoonbare oppervlakte niet meer dan **175 vierkante meter** bedraagt. Bij eigen bouwheerschap ligt die grens op 200 vierkante meter. Die voorwaarden moeten aangehouden worden tot 31 december van het vijfde jaar na de eerste ingebruikneming, en tot het vijftiende jaar bij langdurige verhuur.\n\nWaarom dat u aanbelangt: die 175 vierkante meter stuurt rechtstreeks welk programma een ontwikkelaar op uw perceel tekent. Grotere, duurdere eenheden vallen uit de 6 procent en worden aan 21 procent belast, wat de opbrengstzijde van zijn rekening onderuithaalt. Een ontwikkelaar die op uw perceel enkel grote appartementen kwijt kan, biedt daarom vaak minder dan u zou verwachten — niet uit onwil, maar omdat het btw-regime zijn eindprijzen bepaalt.",
+        table: {
+          headers: ["Situatie", "Wat u betaalt", "Belangrijk detail"],
+          rows: [
+            ["Uw eigen woning, waar u gedomicilieerd bent", "Geen meerwaardebelasting", "De vrijstelling geldt ongeacht hoe groot de meerwaarde is"],
+            ["Gebouwd onroerend goed, verkocht binnen 5 jaar na aankoop", "16,5% plus gemeentebelasting", "Berekend op de meerwaarde, niet op de verkoopprijs"],
+            ["Onbebouwde grond, verkocht binnen 5 jaar", "33% plus gemeentebelasting", "Voor grond gelden andere termijnen dan voor gebouwen"],
+            ["Onbebouwde grond, verkocht tussen jaar 5 en jaar 8", "16,5% plus gemeentebelasting", "Na acht jaar in principe geen heffing meer"],
+            ["Herhaald aankopen, verkavelen en doorverkopen", "Progressief tarief als beroepsinkomen", "De fiscus kijkt naar het patroon, niet naar één verkoop"],
+          ],
+        },
+      },
+      {
+        heading: "Zo werkt het bij wijkopenpanden.be",
+        body: "Wij zijn geen projectontwikkelaar. Wij kopen panden aan om ze zelf op te knappen en aan te houden of door te verkopen, en dat maakt ons bod op een fundamenteel punt anders dan een ontwikkelaarsbod.\n\n• Ons bod hangt **niet aan een omgevingsvergunning**. Wij kopen met eigen middelen en zonder financieringsvoorwaarde, dus u wacht geen zes tot achttien maanden op een beslissing van een vergunningverlenende overheid.\n• Wij kopen het pand **in de staat waarin het zich bevindt**. U hoeft niet op te knappen, niet te ruimen en geen attesten te laten aanpassen.\n• U krijgt een **schriftelijk en gemotiveerd bod** en wij vragen **geen exclusiviteit**. U mag ons bod naast dat van een ontwikkelaar leggen, en dat is precies waarvoor het nuttig is: het geeft u een harde ondergrens waarmee u een voorwaardelijk bod kunt afwegen tegen zekerheid vandaag.\n• U beslist mee over de **aktedatum** en u werkt met de **notaris van uw keuze**.\n\nEn omdat eerlijkheid hier meer waard is dan een verkoopargument: **heeft uw perceel werkelijk ontwikkelingspotentieel, dan zal een ontwikkelaar op termijn meer kunnen betalen dan wij.** Wij zeggen u dat ook. Wat wij u dan aanraden, is niet om ons bod te nemen, maar om het te gebruiken zoals het bedoeld is — als vergelijkingspunt, en als vangnet voor het geval de vergunning er niet komt. Voor de meeste panden zonder extra bouwvolume ligt de zaak omgekeerd: daar is de ontwikkelingswaarde een verhaal, en is een zekere verkoop op een datum die u kiest het betere resultaat.",
+      },
+    ],
+    relatedArticles: ["tuin-of-bouwgrond-apart-verkopen-perceel-splitsen", "koper-krijgt-lening-niet-rond-opschortende-voorwaarde", "verkoop-kosten-berekenen", "woning-verkopen-met-btw-nieuwbouw", "huis-verkopen-binnen-5-jaar", "verkoopbelofte-compromis-akte", "opkoper-of-makelaar-verschil", "woning-verkopen-met-erfpacht-of-opstalrecht", "pand-in-slechte-staat-verkopen", "onafgewerkte-verbouwing-of-bouwwerf-verkopen"],
+    relatedSituations: ["pand-snel-verkopen", "vastgoedopkoper-antwerpen", "schatting-pand", "bouwgrond-verkopen-antwerpen"],
+    faqs: [
+      {
+        question: "Betaalt een projectontwikkelaar meer dan een gewone koper?",
+        answer:
+          "Alleen wanneer er op uw perceel duidelijk méér vergund kan worden dan er vandaag staat. Een ontwikkelaar koopt bouwpotentieel, geen woning: hij trekt de sloop van uw huis als kost af en rekent met wat hij op het perceel mag realiseren. Bij een ruim of hoekperceel waar meergezinswoningen toegelaten zijn, wint hij het vaak. Bij een gerenoveerde woning op een smal perceel biedt een particuliere koper bijna altijd meer.",
+      },
+      {
+        question: "Wat is een residuele grondwaarde?",
+        answer:
+          "Het is de manier waarop een ontwikkelaar zijn maximale bod berekent. Hij vertrekt van de verwachte verkoopopbrengst van het afgewerkte project en trekt daar de bouwkosten, de erelonen, de btw en registratiebelasting, de financierings- en verkoopkosten en zijn winst- en risicomarge van af. Wat overblijft, is wat hij voor de grond kan betalen. Omdat de grondwaarde de sluitpost is, reageert ze zeer scherp: tien procent minder verkoopopbrengst kan de grondwaarde met tachtig procent doen zakken.",
+      },
+      {
+        question: "Hoelang duurt een verkoop onder opschortende voorwaarde van vergunning?",
+        answer:
+          "Reken op maanden tot meer dan een jaar. Het ontwerp- en studiewerk vóór de aanvraag duurt vaak drie tot zes maanden. Daarna geldt in de gewone procedure een beslissingstermijn van 105 dagen, of 120 dagen wanneer de omgevingsvergunningscommissie tussenkomt, met daarbinnen een openbaar onderzoek van dertig dagen. Een wijzigingslus of administratieve lus voegt zestig dagen toe, en bij administratief beroep komt er een beslissingstermijn van 120 dagen bij.",
+      },
+      {
+        question: "Mag ik mijn pand nog aan iemand anders verkopen zolang de vergunning niet rond is?",
+        answer:
+          "Nee, niet zonder gevolgen. Bij een verkoop onder opschortende voorwaarde bestaat de koop al; alleen de uitvoering hangt aan de voorwaarde. Bij een aankoopoptie bent u zelfs eenzijdig gebonden terwijl de ontwikkelaar dat niet is. Bedingt daarom altijd een harde einddatum en een duidelijke regeling van wat er gebeurt wanneer die datum verstrijkt, zodat u niet onbeperkt uit de markt ligt.",
+      },
+      {
+        question: "Betaal ik meerwaardebelasting als ik aan een ontwikkelaar verkoop?",
+        answer:
+          "Verkoopt u de woning waar u gedomicilieerd bent, dan is de meerwaarde in de regel vrijgesteld. Voor ander vastgoed hangt het van de termijn af, en die verschilt: een gebouw verkocht binnen vijf jaar na aankoop wordt belast aan 16,5 procent plus gemeentebelasting, terwijl onbebouwde grond aan 33 procent wordt belast binnen vijf jaar en aan 16,5 procent tussen jaar vijf en jaar acht. Wie herhaaldelijk koopt en verkoopt, riskeert bovendien belasting als beroepsinkomen.",
+      },
+      {
+        question: "Wat is het verschil tussen een optie en een compromis?",
+        answer:
+          "Een optie is een voorovereenkomst en geen koop. Bij een aankoopoptie belooft u te verkopen aan een bepaalde partij, en die partij beslist of ze de optie licht. Tijdens de optieperiode bent dus alleen u gebonden. Een compromis is de koopovereenkomst zelf en bindt beide partijen, ook wanneer er nog een opschortende voorwaarde in staat. Vraag bij een optie altijd een vergoeding die u hoe dan ook behoudt, en houd de looptijd kort.",
+      },
+    ],
+  },
+  {
+    slug: "woning-met-praktijkruimte-of-beroepsgedeelte-verkopen",
+    title: "Een woning met praktijkruimte of beroepsgedeelte verkopen: de fiscale rekening die pas bij de akte zichtbaar wordt",
+    metaTitle: "Woning met beroepsgedeelte verkopen: fiscale gevolgen",
+    metaDescription:
+      "Op het privégedeelte betaalt u geen meerwaardebelasting, op het beroepsgedeelte wel. Wat afschrijvingen, btw-herziening en het EPC hier veranderen.",
+    publishedAt: "2026-08-20",
+    updatedAt: "2026-08-20",
+    intro:
+      "Verkoopt u een woning waarin een praktijk, kantoor, atelier of winkel zat, dan wordt uw pand fiscaal in twee gesplitst. Op het privégedeelte betaalt u in de regel geen meerwaardebelasting. Op het beroepsgedeelte wél: zodra er fiscaal afschrijvingen op het pand zijn aangenomen, geldt dat deel als een beroepsmatig gebruikt actief en is de meerwaarde erop belastbaar als beroepsinkomen. Werd dat deel meer dan vijf jaar beroepsmatig gebruikt, dan is dat 16,5 procent plus gemeentebelasting; korter, dan geldt het progressieve tarief. Twee dingen verrassen bijna elke verkoper: alleen het gebouw telt mee en de grond niet, en de heffing kan ook nog spelen wanneer u pas jaren na uw pensioen verkoopt.",
+    sections: [
+      {
+        heading: "Wanneer is uw woning fiscaal \"deels beroepsmatig\"? Het gaat om de afschrijvingen",
+        body: "De vraag lijkt eenvoudig, maar bijna niemand beantwoordt ze op de juiste manier. Wat níét beslissend is: het bordje aan de gevel, de vermelding \"handelswoning\" in de aankoopakte, of het feit dat er patiënten of klanten over de vloer kwamen.\n\nWat wél beslissend is, is uw **fiscale aangifte**. Vaste activa gelden als voor de beroepswerkzaamheid gebruikt wanneer ze in het kader van die werkzaamheid zijn verworven of tot stand gebracht en als actiefbestanddeel zijn geboekt, of wanneer er fiscaal **afschrijvingen of waardeverminderingen** op werden aangenomen (art. 41 WIB 92). Rechtspraak legt dat artikel bovendien strikt uit — het is geen bepaling die ruim geïnterpreteerd mag worden in het voordeel van de ene of de andere partij.\n\nDe praktische vertaling is scherp: **het percentage dat u jarenlang in uw aangifte hebt gebruikt, is het percentage waarmee u bij de verkoop wordt afgerekend.** Wie twintig jaar lang dertig procent van zijn woning afschreef, verkoopt fiscaal dertig procent beroepsmatig vastgoed. Dat percentage nu ineens naar beneden praten omdat het slecht uitkomt, is een discussie die u zelden wint — uw eigen aangiften zijn het bewijsstuk.\n\nWie loopt hier tegenaan? Vaker dan u denkt:\n• Artsen, tandartsen, kinesisten en psychologen met een praktijk aan huis\n• Advocaten, boekhouders, architecten en consultants met een kantoor in de woning\n• Kappers, schoonheidsspecialisten en ambachtslui met een salon of atelier\n• Handelswoningen met een winkel op het gelijkvloers en een woning erboven\n• Zelfstandigen die een garage, loods of magazijn bij de woning beroepsmatig gebruikten\n\nStaat het pand op naam van een **vennootschap**, dan speelt dit artikel niet en gelden andere regels; daarover leest u in ons artikel over een pand uit de vennootschap verkopen.\n\nOnderstaande tabel geeft de meest voorkomende situaties en wat ze bij de verkoop betekenen.",
+        table: {
+          headers: ["Situatie", "Beroepsmatig gebruikt actief?", "Gevolg bij de verkoop"],
+          rows: [
+            ["U trok jarenlang afschrijvingen af op een deel van het pand", "Ja, voor dat deel", "De meerwaarde op dat deel is belastbaar beroepsinkomen"],
+            ["U trok enkel hypotheekintresten of onroerende voorheffing af", "Doorgaans niet", "Laat dit nakijken; art. 41 WIB 92 wordt strikt geïnterpreteerd"],
+            ["U gebruikte een kamer als bureau zonder ooit iets af te trekken", "Nee", "Geen beroepsmatige meerwaarde"],
+            ["Het pand staat op naam van uw vennootschap", "Andere regels", "Dan gelden de regels voor vastgoed in een vennootschap"],
+            ["U verhuurde een deel aan uw eigen vennootschap", "Niet automatisch", "De huur wordt zwaarder belast als onroerend inkomen; de meerwaardevraag staat daar los van"],
+          ],
+        },
+      },
+      {
+        heading: "De meerwaarde: welk tarief, en waarom alleen het gebouw meetelt",
+        body: "De belastbare meerwaarde is niet het verschil tussen wat u ooit betaalde en wat u nu krijgt. Ze wordt berekend op de **boekwaarde**: de aanschaffingswaarde min alle afschrijvingen en waardeverminderingen die fiscaal werden aangenomen.\n\nDat is precies waar de rekening pijn doet. **Elke euro afschrijving die u ooit in mindering bracht, komt bij de verkoop terug in de belastbare basis.** Wie twintig jaar lang een deel van zijn pand afschreef, heeft die aftrek genoten — en betaalt bij de verkoop op dat volledige bedrag mee, boven op de eigenlijke waardestijging.\n\nHet tarief hangt af van hoelang het actief beroepsmatig gebruikt werd. Voor meerwaarden op materiële vaste activa die op het ogenblik van de vervreemding **meer dan vijf jaar** voor de beroepswerkzaamheid werden gebruikt, en waarvoor niet gekozen werd voor de gespreide belasting van art. 47 WIB 92, geldt een afzonderlijk tarief van **16,5 procent, verhoogd met de gemeentebelasting** (art. 171, 4° WIB 92). Was de gebruiksduur korter, dan valt de meerwaarde in het progressieve tarief — en dat kan, samen met uw andere beroepsinkomsten, aanzienlijk hoger uitvallen.\n\nDe voorwaarde van vijf jaar valt wel weg wanneer de meerwaarde wordt verwezenlijkt naar aanleiding van de **volledige en definitieve stopzetting** van de beroepswerkzaamheid of van een tak daarvan. Daarover gaat de volgende sectie.\n\n**Grond en gebouw zijn niet hetzelfde.** Dit is het punt dat verkopers het meest verrast. Grond wordt niet afgeschreven, gebouwen wel. Bij een stopzettingsmeerwaarde moet de verkoopprijs van een gebouw met grond daarom worden **opgesplitst**, en is enkel het deel van de meerwaarde dat op het gebouw slaat belastbaar. Die opsplitsing is bij een controle een klassiek discussiepunt: te veel toewijzen aan de grond verlaagt uw aanslag, maar moet wel verdedigbaar blijven tegenover de werkelijke waardeverhouding op uw perceel. Laat ze maken door uw boekhouder, en onderbouw ze.\n\nEén route om de factuur te spreiden bestaat wel: de **gespreide belasting van art. 47 WIB 92**. Die vereist dat u de volledige verkoopprijs — niet enkel de meerwaarde — herbelegt in afschrijfbare vaste activa in de Europese Economische Ruimte, binnen drie jaar, of vijf jaar wanneer het om een gebouwd onroerend goed gaat. Grond telt daarbij niet mee, want ze is niet afschrijfbaar. Voor wie stopt en niets meer herbelegt, is dit dus geen oplossing.",
+        table: {
+          headers: ["Onderdeel van de verkoopprijs", "Belastbaar?", "Tarief of regel"],
+          rows: [
+            ["Privégedeelte, gebouw én grond", "In de regel niet", "De vrijstelling voor de eigen woning geldt hier"],
+            ["Beroepsgedeelte, gebouw, meer dan 5 jaar beroepsmatig gebruikt", "Ja", "16,5% plus gemeentebelasting (art. 171, 4° WIB 92)"],
+            ["Beroepsgedeelte, gebouw, 5 jaar of minder beroepsmatig gebruikt", "Ja", "Progressief tarief als beroepsinkomen"],
+            ["Beroepsgedeelte, grond", "Genuanceerd", "De prijs van grond en gebouw moet opgesplitst worden; laat dit onderbouwen"],
+            ["Volledige en definitieve stopzetting", "Ja, als stopzettingsmeerwaarde", "De voorwaarde van vijf jaar gebruik valt hier weg"],
+            ["Herbelegging van de volledige verkoopprijs", "Gespreid belastbaar", "Art. 47 WIB 92: binnen 5 jaar bij een gebouwd onroerend goed"],
+          ],
+        },
+      },
+      {
+        heading: "De stopzettingsmeerwaarde: waarom een verkoop jaren ná uw pensioen nog belast kan worden",
+        body: "\"Ik ben al zeven jaar met pensioen, dus dat is voorbij.\" Het is de zin die we het vaakst horen bij een verkoop van een voormalige praktijkwoning, en hij klopt niet automatisch.\n\nInkomsten die worden verkregen of vastgesteld **naar aanleiding van de volledige en definitieve stopzetting** van een beroepswerkzaamheid, en die voortkomen uit meerwaarden op activa die voor die werkzaamheid werden gebruikt, zijn belastbaar als **stopzettingsmeerwaarde** (art. 28 WIB 92). Het beslissende woord is \"naar aanleiding van\". Niet het moment van de verkoop bepaalt of er belasting is, maar of er een oorzakelijk verband bestaat tussen de stopzetting en de verwezenlijking van de meerwaarde.\n\nDat verband is een **feitenkwestie**, en daar zit tegelijk de ruimte en het risico. Wie zijn praktijk stopzet en het pand meteen verkoopt, ziet dat verband moeilijk betwist. Wie het pand na de stopzetting gedurende een periode verhuurt en pas veel later verkoopt, heeft volgens fiscale vakbronnen goede argumenten dat het oorzakelijk verband tussen de stopzetting en de verkoop verbroken is. Maar dat zijn argumenten, geen zekerheid — de administratie beoordeelt de feiten, en de omstandigheden van uw dossier bepalen de uitkomst.\n\nWat de beoordeling in de praktijk stuurt:\n• Hoeveel tijd er tussen de stopzetting en de verkoop zit\n• Of het pand in die tussenperiode een reële andere bestemming kreeg, en of dat aantoonbaar is\n• Hoe u het pand in uw aangiften bleef behandelen na de stopzetting\n• Of het actief formeel naar het privévermogen werd overgebracht, en wanneer\n\nDe conclusie voor u als verkoper is eenvoudig en vervelend tegelijk: **laat dit uitrekenen vóór u een prijs afspreekt, niet erna.** Wij zien met enige regelmaat verkopers die na het compromis ontdekken dat er een vijfcijferige aanslag aankomt waarop ze niet gerekend hadden. Op dat moment is de prijs al vastgelegd en is de koop bindend — de vaststelling dat de fiscale gevolgen tegenvallen, is geen grond om van een verkoop af te zien.",
+      },
+      {
+        heading: "Btw: het addertje als u ooit btw hebt gerecupereerd",
+        body: "Hebt u bij de aankoop, de oprichting of de verbouwing van het pand **btw in aftrek gebracht**, dan is er een tweede rekening die los staat van de inkomstenbelasting.\n\nEen onroerend bedrijfsmiddel blijft in België onderworpen aan een **herzieningstermijn van vijftien jaar**, die in de regel loopt vanaf 1 januari van het jaar waarin u het goed in gebruik nam. Voor werken die geen nieuw gebouw doen ontstaan is de termijn vijf jaar. Verkoopt u binnen die termijn zonder btw, dan moet u de afgetrokken btw **pro rata de nog te lopen jaren terugstorten**.\n\nEén waarschuwing die u hier echt moet meenemen. Zoekt u dit zelf op, dan botst u vrijwel meteen op bronnen die spreken over een herzieningstermijn van **tien jaar**. Dat is **Nederlands recht** en het is hier onbruikbaar. De Belgische termijn voor onroerende bedrijfsmiddelen is vijftien jaar, en vijfentwintig jaar bij optionele btw-verhuur. Dit is de klassiekste verwarring op dit onderwerp.\n\nEr is één situatie waarin de herziening niet speelt: wanneer de verkoop **zelf onder btw** valt. Dat kan wanneer het gebouw voor de btw nog als nieuw geldt — tot en met 31 december van het tweede jaar volgend op de eerste ingebruikneming of inbezitneming. De btw-keten loopt dan gewoon door bij de koper.\n\nEn nog een detail dat veel adviespagina's nog altijd verkeerd hebben: de **verklaring 104.1 is afgeschaft** sinds 1 januari 2024. De keuze om een gebouw met btw te verkopen blijkt voortaan uit de eerste akte tussen partijen — in de praktijk dus uit het compromis — of uit de notariële akte. Wie nog leest dat er vooraf een verklaring 104.1 moet worden ingediend, leest verouderde informatie.",
+        table: {
+          headers: ["Situatie", "Herziening bij verkoop zonder btw?", "Termijn"],
+          rows: [
+            ["Btw afgetrokken bij aankoop of oprichting van het gebouw", "Ja, pro rata de nog te lopen jaren", "15 jaar"],
+            ["Btw afgetrokken op verbouwingswerken zonder nieuw gebouw", "Ja", "5 jaar"],
+            ["Verbouwing zo ingrijpend dat er een nieuw gebouw ontstaat", "Ja", "15 jaar"],
+            ["Pand verhuurd onder de optionele btw-verhuur", "Ja", "25 jaar"],
+            ["De verkoop valt zelf onder btw (gebouw nog nieuw)", "Nee", "De btw-keten loopt door bij de koper"],
+            ["Nooit btw in aftrek gebracht", "Nee", "Niet van toepassing"],
+          ],
+        },
+      },
+      {
+        heading: "EPC, keuringen en informatieplicht: wat er anders is bij een gemengd pand",
+        body: "Sinds 1 januari 2022 moet er in Vlaanderen een **apart energieprestatiecertificaat per gebouweenheid** worden opgemaakt. Een niet-residentiële eenheid mag niet langer worden opgenomen in het EPC van een woning, en omgekeerd. Voor een pand met een praktijk of winkel roept dat meteen de vraag op of u één of twee certificaten nodig hebt.\n\nHet antwoord hangt af van een begrip dat weinig verkopers kennen: de **gebouweenheid**. Volgens vakbronnen worden combinaties zoals een handelswoning of een woning met een complementaire functie beschouwd als één gebouweenheid wanneer de woning en de handels- of praktijkruimte elkaar dienen en de gemeente er geen apart adres aan toekent. In dat geval volstaat één EPC, en bepaalt de **hoofdbestemming** — op basis van de bruikbare vloeroppervlakte — welk type dat wordt. Laat dit door uw energiedeskundige bevestigen vóór u bestelt, want het scheelt een certificaat.\n\nIs het beroepsgedeelte wél een aparte niet-residentiële eenheid, dan geldt de opdeling tussen **EPC NR** en **EPC kNR**. Een kleine niet-residentiële eenheid is er een met een niet-residentiële hoofdbestemming, een bruikbare vloeroppervlakte van ten hoogste 500 vierkante meter, en die deel uitmaakt van een aaneengesloten geheel van niet-residentiële eenheden in hetzelfde gebouw van ten hoogste 1.000 vierkante meter. Voldoet uw praktijkruimte daaraan, dan mag u kiezen tussen een EPC kNR — dat op een gelijkaardige manier wordt opgemaakt als een residentieel EPC — en een volwaardig EPC NR.\n\nEn er is een wijziging die pas dit jaar in werking trad: **vanaf 1 januari 2026 moet elke grote niet-residentiële gebouweenheid over een EPC NR beschikken, ook als ze kleiner is dan 1.000 vierkante meter, en ongeacht of er verkocht of verhuurd wordt.** De vroegere drempel van 1.000 vierkante meter is dus niet langer de scheidslijn voor die permanente verplichting. Voor een praktijkruimte die onder de definitie van klein niet-residentieel valt, blijft de keuzeregeling wel bestaan.\n\nTot slot het punt waar een gemengd pand het vaakst vastloopt vlak vóór de akte, en dat niets met energie te maken heeft: **de vergunning van de functie zelf**. Een woning waarin ooit een praktijk, kantoor of winkel werd ingericht, heeft daarvoor in principe een vergunde functiewijziging nodig. Is die er nooit geweest, dan verkoopt u een pand met een stedenbouwkundige overtreding, en dat moet u melden. Controleer dit in het vergunningenregister vóór u te koop zet, niet wanneer de notaris ernaar vraagt.",
+        table: {
+          headers: ["Attest of verplichting", "Woongedeelte", "Beroepsgedeelte"],
+          rows: [
+            ["EPC", "EPC residentieel", "EPC NR of EPC kNR — tenzij het samen één gebouweenheid met complementaire functie vormt"],
+            ["Asbestattest (bouwjaar vóór 2001)", "Verplicht", "Verplicht; de attestplicht kijkt naar de constructie, niet naar de functie"],
+            ["Elektrische keuring", "Controleverslag verplicht bij verkoop van de wooneenheid", "Niet-huishoudelijke installaties volgen een eigen periodieke controle — laat nakijken welk verslag geldt"],
+            ["Bodemattest", "Verplicht", "Verplicht, en bij een risico-inrichting komt er een oriënterend bodemonderzoek bij"],
+            ["Stedenbouwkundige informatieplicht", "Verplicht", "Ga na of de beroepsfunctie ooit als functiewijziging vergund werd"],
+            ["Postinterventiedossier", "Verplicht bij structurele werken na 1 mei 2001", "Idem, ook voor werken aan het beroepsgedeelte"],
+          ],
+        },
+      },
+      {
+        heading: "De prijsopsplitsing in het compromis: het punt waar het echt om gaat",
+        body: "Alles wat hierboven staat, komt op één plaats samen: **hoe de verkoopprijs in uw compromis wordt opgesplitst.** Dat is geen administratieve formaliteit die de notaris wel oplost bij de akte — het is de basis van uw fiscale afrekening.\n\nEr zijn twee opsplitsingen die ertoe doen, en ze staan los van elkaar:\n1. Privégedeelte tegenover beroepsgedeelte, want alleen op het tweede speelt de meerwaardebelasting\n2. Grond tegenover gebouw, want alleen het gebouw draagt de beroepsmatige meerwaarde\n\nBeide moeten **verdedigbaar** zijn. Een kunstmatig laag beroepsgedeelte of een kunstmatig hoge grondwaarde is een van de eerste dingen waar een controleur naar kijkt, precies zoals dat bij btw-dossiers gebeurt. Uw eigen aangiften van de voorbije jaren zijn daarbij het referentiepunt: het percentage waarmee u afschreef, is het percentage dat u nu moet verantwoorden.\n\nVoor de **koper** speelt er nog iets mee dat uw onderhandeling kan raken. Het verlaagde tarief in de registratiebelasting voor de enige eigen woning is gekoppeld aan bewoning en domiciliëring, en sinds 1 januari 2026 gelden daarvoor strengere voorwaarden. Bij een pand met een groot beroepsgedeelte is het de moeite dat een kandidaat-koper dit vooraf bij zijn eigen notaris laat aftoetsen — een koper die pas laat ontdekt dat hij 12 procent in plaats van 2 procent betaalt, is een koper die afhaakt.\n\nDe praktische volgorde die u het meeste geld bespaart, is deze: laat uw boekhouder de netto-opbrengst berekenen **voordat** u een vraagprijs bepaalt. Niet omgekeerd. Een prijs die u vastlegt zonder de meerwaardebelasting, de mogelijke btw-herziening en de opsplitsing te kennen, kan achteraf tienduizenden euro's minder waard blijken — en op dat moment is uw compromis al bindend.",
+        table: {
+          headers: ["Wat u vastlegt", "Waarom het telt", "Waar het thuishoort"],
+          rows: [
+            ["Verdeling privé tegenover beroepsmatig", "Bepaalt op welk deel meerwaardebelasting speelt", "In het compromis, niet pas in de akte"],
+            ["Verdeling grond tegenover gebouw", "Alleen het gebouwgedeelte draagt de beroepsmatige meerwaarde", "In het compromis, onderbouwd door uw boekhouder"],
+            ["De btw-positie van het pand", "Bepaalt of er een herziening volgt en hoe groot ze is", "Vóór u een prijs afspreekt"],
+            ["De timing van de verkoop", "Bepaalt of u boven of onder vijf jaar beroepsmatig gebruik zit", "Bespreek dit vóór u tekent"],
+            ["Welke attesten voor welk deel", "Voorkomt vertraging vlak vóór de aktedatum", "Vóór u te koop zet"],
+            ["De vergunde functie van het beroepsgedeelte", "Een niet-vergunde functiewijziging is een te melden overtreding", "Vóór u te koop zet"],
+          ],
+        },
+      },
+      {
+        heading: "Zo werkt het bij wijkopenpanden.be",
+        body: "Een gemengd pand verkoopt op de klassieke markt trager dan een gewone woning, en dat heeft weinig met de staat van het pand te maken. Het publiek is smaller: een gezin wil de praktijkruimte niet, een collega-zelfstandige wil misschien de woning niet, en een investeerder rekent met huurrendement in plaats van woonwaarde. Daar komt bij dat de attesten- en vergunningsvragen bij een gemengd pand talrijker zijn, en dat elke onbeantwoorde vraag een kandidaat kost.\n\n• Wij kopen **met eigen middelen en zonder opschortende voorwaarde van financiering**. Voor een pand met een kleiner kopersegment is dat het verschil tussen verkopen en maandenlang wachten.\n• Wij kopen **in de staat waarin het pand zich bevindt**, met de praktijkinrichting erin. U hoeft geen behandelkamer terug om te bouwen tot slaapkamer om het \"verkoopbaar\" te maken.\n• Een **onvergunde functiewijziging of een ontbrekend attest** is voor ons geen breekpunt. Wij kennen het dossier en verrekenen het transparant in het bod, in plaats van het drie weken vóór de akte te laten ontploffen.\n• U beslist mee over de **aktedatum** en werkt met de **notaris van uw keuze**. Bij een beroepsmatige meerwaarde is die datum meer dan een gemak — ze kan uw fiscale positie beïnvloeden.\n• U krijgt een **schriftelijk en gemotiveerd bod**, en wij vragen geen exclusiviteit.\n\nWat wij uitdrukkelijk niet doen, is fiscaal advies geven. Wij kunnen u zeggen wat wij voor uw pand betalen; wat u daar netto van overhoudt na meerwaardebelasting en een eventuele btw-herziening, is werk voor uw boekhouder. Vraag hem die berekening vóór u met ons of met iemand anders een prijs afspreekt — dat is het enige moment waarop ze u nog geld kan besparen.",
+      },
+    ],
+    relatedArticles: ["pand-uit-vennootschap-verkopen", "handelspand-gemengd-pand-verkopen-handelshuur", "belastingen-bij-woningverkoop", "woning-verkopen-met-btw-nieuwbouw", "huis-verkopen-binnen-5-jaar", "keuringen-bij-verkoop-woning", "epc-attest-antwerpen", "asbestattest-bij-verkoop-woning", "stedenbouwkundige-overtreding-woning-verkopen", "verkoop-kosten-berekenen"],
+    relatedSituations: ["magazijn-kantoor-verkopen-antwerpen", "vastgoedopkoper-antwerpen", "pand-snel-verkopen", "schatting-pand"],
+    faqs: [
+      {
+        question: "Betaal ik meerwaardebelasting als ik mijn woning met praktijkruimte verkoop?",
+        answer:
+          "Op het privégedeelte in de regel niet, op het beroepsgedeelte wel. Zodra er fiscaal afschrijvingen op een deel van het pand werden aangenomen, geldt dat deel als een beroepsmatig gebruikt actief en is de meerwaarde erop belastbaar als beroepsinkomen. Werd het meer dan vijf jaar beroepsmatig gebruikt, dan geldt een tarief van 16,5 procent plus gemeentebelasting. Was het korter, dan valt de meerwaarde in het progressieve tarief.",
+      },
+      {
+        question: "Hoe weet ik welk percentage van mijn woning beroepsmatig is?",
+        answer:
+          "Kijk naar uw eigen belastingaangiften van de voorbije jaren, niet naar de oppervlakte of naar wat in de aankoopakte staat. Het percentage waarop u afschrijvingen aftrok, is het percentage waarmee u bij de verkoop wordt afgerekend. Uw boekhouder kan dat exact uit uw afschrijvingstabel halen. Dat percentage achteraf naar beneden praten lukt zelden, omdat uw eigen aangiften het bewijsstuk vormen.",
+      },
+      {
+        question: "Ik ben al jaren gestopt met mijn praktijk. Speelt de belasting dan nog?",
+        answer:
+          "Mogelijk wel. Meerwaarden die worden verwezenlijkt naar aanleiding van de volledige en definitieve stopzetting van een beroepswerkzaamheid zijn belastbaar als stopzettingsmeerwaarde (art. 28 WIB 92), en het beslissende punt is het oorzakelijk verband met de stopzetting, niet de datum van de verkoop. Wie het pand na de stopzetting een tijd verhuurde en pas veel later verkoopt, heeft argumenten dat dat verband verbroken is, maar dat is een feitenkwestie. Laat het vooraf nakijken.",
+      },
+      {
+        question: "Moet ik twee EPC's laten maken?",
+        answer:
+          "Dat hangt ervan af of het beroepsgedeelte een aparte gebouweenheid is. Sinds 1 januari 2022 geldt een apart EPC per gebouweenheid, maar een handelswoning of een woning met een complementaire functie wordt volgens vakbronnen als één gebouweenheid beschouwd wanneer de gemeente er geen apart adres aan toekent — dan volstaat één EPC, waarvan het type door de hoofdbestemming wordt bepaald. Laat dit vooraf bevestigen door uw energiedeskundige.",
+      },
+      {
+        question: "Wat als ik btw heb afgetrokken op de verbouwing van mijn praktijkruimte?",
+        answer:
+          "Dan geldt er een herzieningstermijn. Verkoopt u binnen die termijn zonder btw, dan moet u de afgetrokken btw pro rata de nog te lopen jaren terugstorten. In België is die termijn vijftien jaar voor onroerende bedrijfsmiddelen en vijf jaar voor werken die geen nieuw gebouw doen ontstaan. Let op: veel zoekresultaten hierover spreken van tien jaar, maar dat is Nederlands recht en hier niet van toepassing.",
+      },
+      {
+        question: "Telt de grond mee in de belastbare meerwaarde?",
+        answer:
+          "Grond wordt niet afgeschreven, gebouwen wel. Bij een stopzettingsmeerwaarde moet de verkoopprijs van een gebouw met grond daarom worden opgesplitst, en is enkel het deel van de meerwaarde dat op het gebouw slaat belastbaar. Die opsplitsing hoort in het compromis en moet verdedigbaar zijn tegenover de werkelijke waardeverhouding op uw perceel — ze is bij een controle een klassiek discussiepunt. Laat ze door uw boekhouder onderbouwen.",
+      },
+    ],
+  },
+  {
+    slug: "erfenis-met-schulden-woning-verkopen",
+    title: "Een erfenis met schulden: hoe u de woning nog kunt verkopen na aanvaarding onder voorrecht van boedelbeschrijving",
+    metaTitle: "Erfenis met schulden: de woning verkopen, wat mag nog?",
+    metaDescription:
+      "Zuiver aanvaarden, onder voorrecht of verwerpen: uw keuze bepaalt of u de woning nog onderhands mag verkopen. De regels, termijnen en rekening vooraf.",
+    publishedAt: "2026-08-20",
+    updatedAt: "2026-08-20",
+    intro:
+      "Erft u een woning waar ook schulden aan hangen, dan maakt u eerst een keuze die al de rest bepaalt: zuiver aanvaarden, aanvaarden onder voorrecht van boedelbeschrijving, of verwerpen. Zuiver aanvaarden geeft u de volledige vrijheid om de woning gewoon onderhands te verkopen, maar u staat dan met uw eigen vermogen in voor álle schulden van de overledene. Aanvaardt u onder voorrecht, dan bent u nooit gehouden tot meer dan de waarde van wat u erft — maar dan moet de verkoop gebeuren in de vormen die het Gerechtelijk Wetboek voorschrijft, en kan een onderhandse verkoop enkel met machtiging van de rechter. Verwerpen wist alles uit, ook uw aanspraak op de woning.",
+    sections: [
+      {
+        heading: "Drie keuzes, drie totaal verschillende gevolgen voor de woning",
+        body: "Een erfgenaam heeft geen twee opties maar drie, en het middelste pad — aanvaarding onder voorrecht van boedelbeschrijving — is het minst begrepen van de drie. Het wordt vaak voorgesteld als \"het beste van twee werelden\", en dat is het op het vlak van aansprakelijkheid ook. Maar het heeft een prijs die zelden op voorhand wordt uitgelegd: **u verliest de vrijheid om de woning gewoon te verkopen.**\n\nDat is het punt waar dit artikel over gaat, en het is precies het punt waarop erfgenamen vastlopen. Zij aanvaarden onder voorrecht om zich te beschermen, zetten de woning te koop, vinden een koper — en horen dan van de notaris dat ze zo niet mogen verkopen.\n\nDe drie keuzes naast elkaar:",
+        table: {
+          headers: ["", "Zuiver aanvaarden", "Aanvaarden onder voorrecht", "Verwerpen"],
+          rows: [
+            ["Aansprakelijk voor de schulden", "Ja, ook met uw eigen vermogen", "Nooit meer dan de waarde van wat u erft", "Nee"],
+            ["Krijgt u de woning?", "Ja", "Ja, maar binnen een vereffening", "Nee"],
+            ["Onderhands verkopen mogelijk?", "Ja, zoals elke eigenaar", "Enkel met machtiging van de rechter", "Niet van toepassing"],
+            ["Vormvereiste", "Vormvrij, kan ook stilzwijgend", "Notariële verklaring én boedelbeschrijving", "Notariële verklaring"],
+            ["Bekendmaking", "Geen", "Centraal erfrechtregister én Belgisch Staatsblad", "Centraal erfrechtregister"],
+            ["Wie erft in uw plaats?", "Niemand", "Niemand", "Uw afstammelingen, door plaatsvervulling"],
+            ["Doorlooptijd tot de woning verkocht is", "Het snelst", "Maanden tot jaren", "Uit uw handen"],
+          ],
+        },
+      },
+      {
+        heading: "Hoe een aanvaarding onder voorrecht praktisch verloopt",
+        body: "De aanvaarding onder voorrecht van boedelbeschrijving is geregeld in Boek 4 van het Burgerlijk Wetboek, in de artikelen 4.49 tot en met 4.57. De procedure verloopt in vaste stappen.\n\n1. U legt een **uitdrukkelijke verklaring** af bij authentieke akte voor een notaris (art. 4.49, § 1 BW). Een aanvaarding onder voorrecht kan dus nooit stilzwijgend gebeuren — een zuivere aanvaarding wél, en dat verschil is cruciaal.\n2. De notaris schrijft de verklaring binnen **vijftien dagen** in in het centraal erfrechtregister en publiceert een uittreksel in het Belgisch Staatsblad, met een oproep aan de schuldeisers om hun schuldvordering binnen **drie maanden** in te dienen.\n3. Er wordt een **boedelbeschrijving** opgemaakt: een volledige inventaris van alle goederen en schulden van de nalatenschap (art. 4.50 BW).\n4. U beheert en vereffent de nalatenschap, en moet daarover **rekening en verantwoording** doen aan de schuldeisers en de legatarissen (art. 4.53 BW).\n\nDe termijnen die daarbij horen, worden vaak door elkaar gehaald: u hebt in principe **drie maanden** vanaf het openvallen van de nalatenschap om de boedelbeschrijving te laten opmaken, en daarna nog **veertig dagen beraad** om te kiezen tussen aanvaarden en verwerpen — te rekenen vanaf het einde van die drie maanden of vanaf de afsluiting van de boedelbeschrijving, naargelang wat eerst komt.\n\nEen taalkundige valstrik die in dit dossier echt voor verwarring zorgt: art. 4.53 BW bepaalt dat u geen dading, **compromis** of hypotheek mag aangaan zonder rechterlijke machtiging. \"Compromis\" betekent daar een **arbitrageovereenkomst**, in de oude juridische betekenis van het woord — niet de onderhandse verkoopovereenkomst die in de vastgoedwereld zo heet. De beperking op het verkopen van de woning volgt uit een ander artikel, dat in de volgende sectie aan bod komt.\n\nWordt het beheer u te zwaar, dan kunt u zich laten **ontheffen**: op verzoekschrift kan de familierechtbank een beheerder benoemen die de nalatenschap vereffent (art. 4.54 BW). Omgekeerd kan elke belanghebbende — een schuldeiser bijvoorbeeld — in kort geding vragen dat u vervangen wordt door een beheerder wanneer zijn belangen in gevaar komen door nalatigheid of door uw eigen vermogenssituatie. Ook die beschikking wordt binnen vijftien dagen in het centraal erfrechtregister ingeschreven.\n\nTot slot de sanctie. Het voorrecht — uw bescherming — **vervalt** wanneer u zich schuldig maakt aan verduistering, of wanneer u wetens en te kwader trouw goederen van de nalatenschap niet in de boedelbeschrijving hebt opgenomen (art. 4.51 BW). U valt dan terug op een zuivere aanvaarding, met uw eigen vermogen als onderpand. Dat is geen theoretisch risico: een inboedel die \"onder de familie verdeeld\" is zonder in de inventaris te staan, is precies het scenario dat hier bedoeld wordt.",
+      },
+      {
+        heading: "De grote beperking: hoe u de woning dan nog mag verkopen",
+        body: "Hier zit de kern van dit artikel, en het is de informatie die het minst vaak op voorhand gegeven wordt.\n\nArt. 4.55, § 1 BW bepaalt het in één zin: **\"De verkoop van de roerende of onroerende goederen geschiedt in de vorm, door het Gerechtelijk Wetboek bepaald.\"** U bent dus geen gewone eigenaar die zijn pand op de markt zet. De verkoop verloopt in de vormen van een gerechtelijke verkoop, met de openbare verkoop als uitgangspunt.\n\nEr bestaat wel een uitweg, en die is voor de meeste erfgenamen de beste route. **Art. 1193bis van het Gerechtelijk Wetboek** voorziet in een verkoop uit de hand — een onderhandse verkoop dus — voor onroerende goederen die geheel of gedeeltelijk toebehoren aan onder meer minderjarigen en beschermde personen, en voor goederen die afhangen van een nalatenschap die onder voorrecht van boedelbeschrijving werd aanvaard of van een onbeheerde nalatenschap. Zo'n verkoop uit de hand vereist een **machtiging van de rechter**. In de praktijk verloopt dat zo: uw notaris maakt een ontwerp van verkoopovereenkomst op, en dat ontwerp gaat samen met een gemotiveerd verzoekschrift naar de bevoegde rechtbank. De rechter beoordeelt of de onderhandse verkoop in het belang van de betrokkenen is en kan er voorwaarden aan koppelen, bijvoorbeeld een minimumprijs.\n\nWelke rechtbank precies bevoegd is, hangt af van de situatie — voor beschermde personen is dat de vrederechter, in andere gevallen een andere rechtbank. Laat dat door uw notaris bepalen; dat is nu net het werk waarvoor het verzoekschrift wordt opgesteld.\n\nDrie gevolgen die u moet inrekenen:\n• **Tijd.** De machtigingsprocedure komt boven op de gewone verkooptermijn. Reken op weken tot maanden extra, afhankelijk van de agenda van de rechtbank.\n• **Kosten.** Een openbare verkoop kost meer dan een verkoop uit de hand, en de machtigingsprocedure zelf brengt ook kosten mee.\n• **Onzekerheid over het resultaat.** Bij een openbare verkoop bestaat de mogelijkheid dat het goed wordt ingehouden bij gebrek aan aanvaardbare biedingen. Voor een pand in slechte staat of in een moeilijk segment is dat een reëel risico.\n\nPraktisch betekent dit ook iets voor hoe u met een bod omgaat. Een schriftelijk bod van een koper is in deze situatie **geen eindpunt, maar een bouwsteen**: het is de onderbouwing waarmee uw notaris aan de rechter kan aantonen dat de voorgestelde onderhandse verkoop marktconform is en in het belang van de schuldeisers. Twee onderbouwde biedingen naast elkaar zijn daarbij sterker dan één.\n\nVergeet ten slotte niet dat een **hypothecaire schuldeiser zijn rang behoudt**. De opbrengst van de woning gaat niet naar u, maar naar de boedel, en de bank wordt bij voorrang betaald. Wat er daarna nog overblijft, komt aan de schuldeisers zonder voorrecht toe, en pas als er dán nog iets over is, aan u.",
+        table: {
+          headers: ["Route", "Wat er moet gebeuren", "Realistische doorlooptijd"],
+          rows: [
+            ["Zuiver aanvaard: gewone onderhandse verkoop", "Compromis, akte, verdeling van de opbrengst", "Weken tot enkele maanden"],
+            ["Onder voorrecht: openbare verkoop", "Verkoop in de vormen van het Gerechtelijk Wetboek", "Meerdere maanden, met hogere kosten"],
+            ["Onder voorrecht: verkoop uit de hand", "Ontwerpakte van de notaris plus machtiging van de rechter (art. 1193bis Ger.W.)", "Extra weken tot maanden voor de machtiging"],
+            ["Een beheerder werd aangesteld", "De beheerder vereffent en verkoopt, niet u", "Volgt de agenda van de beheerder"],
+            ["Onbeheerde nalatenschap", "De rechtbank stelt een curator aan", "Volledig uit uw handen"],
+          ],
+        },
+      },
+      {
+        heading: "Verwerpen: wat er dan met de woning en met uw kinderen gebeurt",
+        body: "Verwerpen doet u met een verklaring bij een notaris, die wordt ingeschreven in het centraal erfrechtregister. De verwerping werkt terugwerkend: u wordt geacht **nooit erfgenaam te zijn geweest**. U kunt dus niets uit de nalatenschap opeisen, maar u bent ook tot niets gehouden.\n\nEn dan komt de fout die we het vaakst zien. **Verwerpen laat de nalatenschap niet verdwijnen — ze schuift door.** Sinds de hervorming van het erfrecht die op 1 september 2018 in werking trad, is plaatsvervulling bij verwerping uitdrukkelijk mogelijk (art. 4.12 BW). Verwerpt u, dan komen uw **afstammelingen in uw plaats**: uw kinderen, en verwerpen die ook, dan uw kleinkinderen. Plaatsvervulling loopt tot en met de zesde graad.\n\nDat betekent concreet dat een ouder die verwerpt \"om de schulden niet te erven\" die schulden gewoon bij zijn eigen kinderen legt, tenzij die kinderen zelf ook verwerpen. Zijn die kinderen **minderjarig**, dan is er voor die keuze een machtiging van de vrederechter nodig — een extra procedure, met een eigen termijn. Verwerpen is dus een familiebeslissing en geen individuele.\n\nVerwerpt uiteindelijk iedereen, dan wordt de nalatenschap **onbeheerd** en stelt de rechtbank een curator aan. Die vereffent de boedel en verkoopt de woning. U hebt er dan geen zeggenschap meer over: niet over de prijs, niet over de timing, en niet over wie koopt.\n\nOver de kosten: volgens notaris.be kost een verklaring ongeveer 30 euro aan aktekosten, en wordt de akte van verwerping **kosteloos** opgemaakt wanneer de nalatenschap deficitair is of het netto-actief minder dan 5.000 euro bedraagt. De boedelbeschrijving bij een aanvaarding onder voorrecht is een ander verhaal: die kost, afhankelijk van de omvang en de complexiteit, van enkele honderden tot enkele duizenden euro's.\n\nEn dan de waarschuwing die u het vaakst nodig hebt, want ze wordt in de eerste weken na een overlijden bijna altijd genegeerd. **Doe niets met de goederen van de nalatenschap vóór u gekozen hebt.** Een zuivere aanvaarding kan namelijk ook stilzwijgend gebeuren, uit daden waaruit blijkt dat u zich als erfgenaam gedraagt. De inboedel leeghalen en verdelen, meubels verkopen, de auto op uw naam zetten of het huurcontract van de overledene opzeggen en de spullen meenemen: het zijn stuk voor stuk handelingen die als een stilzwijgende zuivere aanvaarding kunnen worden gelezen. U verliest daarmee uw hele keuze — en bij een nalatenschap met schulden verliest u dan uw bescherming.\n\nDe termijn om te kiezen is overigens ruim: volgens notaris.be hebt u in principe dertig jaar om een nalatenschap te verwerpen. Maar de fiscale termijnen wachten niet, en daarover gaat de sectie na de volgende.",
+      },
+      {
+        heading: "De rekening die u eerst moet maken",
+        body: "De keuze tussen aanvaarden en verwerpen komt neer op één som: is het actief groter dan het passief? Klinkt eenvoudig, maar de meeste erfgenamen maken twee fouten. Ze schatten de woning te optimistisch in, en ze vergeten posten aan de schuldenkant.\n\n**Schat de woning realistisch.** Niet de vraagprijs van een gelijkaardig pand op een zoekertjessite, maar wat er in de huidige staat, met de huidige attesten en binnen een redelijke termijn werkelijk voor te krijgen is. Bij een aanvaarding onder voorrecht komt daar nog een correctie bij: de verkoop verloopt trager en duurder, en dat drukt de netto-opbrengst.\n\nEn er is één post die de hele beslissing kan kantelen en die stelselmatig over het hoofd wordt gezien: de **schuldsaldoverzekering** op het hypothecair krediet van de overledene. Erfgenamen kijken naar het openstaande saldo bij de bank en concluderen dat de nalatenschap negatief is, terwijl die verzekering het krediet geheel of gedeeltelijk kan wegnemen. Bel de bank en de verzekeraar vóór u iets beslist.\n\nEen tweede punt dat verkeerd wordt ingeschat: **de rekening staat niet stil.** Zolang de nalatenschap niet vereffend is, blijft het pand kosten maken. Onroerende voorheffing, brandverzekering, gemeenschappelijke lasten bij een appartement, en in veel gemeenten na ongeveer twaalf maanden leegstand een leegstandsheffing die daarna jaarlijks terugkomt en oploopt. Een nalatenschap die vandaag net positief is, kan na twee jaar procedure negatief zijn. Snelheid is hier geen luxe maar een deel van de rekening.",
+        table: {
+          headers: ["Post", "Waarom ze vaak vergeten wordt", "Waar u ze opvraagt"],
+          rows: [
+            ["Schuldsaldoverzekering op het hypothecair krediet", "Erfgenamen kijken enkel naar het openstaande saldo", "Bij de bank en de verzekeraar van de overledene"],
+            ["Achterstallige onroerende voorheffing", "De aanslag komt nog op naam van de overledene", "Vlaamse Belastingdienst"],
+            ["Openstaande lasten en het reservekapitaal bij een appartement", "De syndicus factureert pas achteraf", "Bij de syndicus, via de afrekening bij overdracht"],
+            ["Belasting- en socialezekerheidsschulden", "Ze duiken pas op bij de notariële notificatie", "Via de notaris"],
+            ["Leegstands- of verwaarlozingsheffing", "Ze begint pas te lopen na ongeveer een jaar", "Bij de gemeente"],
+            ["Erfbelasting", "Ze wordt per erfgenaam berekend en niet pas na de verkoop", "Vlaamse Belastingdienst"],
+          ],
+        },
+      },
+      {
+        heading: "De fiscale termijn loopt ondertussen gewoon door",
+        body: "Dit is de val waar erfgenamen met een moeilijke nalatenschap het vaakst in trappen: zij denken dat de erfrechtelijke termijnen ook de fiscale termijnen zijn. Dat zijn ze niet. Ze lopen **naast elkaar**, ze beginnen op een ander moment en ze dienen een ander doel.\n\nDe aangifte van nalatenschap moet worden ingediend bij de Vlaamse Belastingdienst binnen **vier maanden na het overlijden**. Overleed de persoon in een ander Europees land, dan is dat vijf maanden; buiten Europa zes maanden. Die termijn wacht niet op uw boedelbeschrijving, niet op uw beraadtermijn en niet op de verkoop van de woning.\n\nIn die aangifte hoort een overzicht van alle bezittingen én schulden. Dat is geen formaliteit: dient u niets in, dan bepaalt de administratie zelf de waarde van de nalatenschap en dus ook de erfbelasting — en dan komt een schuld die u wél had kunnen aftrekken er mogelijk niet in. Bij een nalatenschap met veel passief is dat precies het slechtst denkbare scenario.\n\nEen tweede punt dat samenhangt met de waardering van de woning: geen van de officiële schattingswegen — een erkend schatter-expert van de lijst van de Vlaamse Belastingdienst, of een kosteloze bindende schatting door die dienst zelf — **verlengt de aangiftetermijn van vier maanden**. Wie een bindende schatting wil, moet dus meteen na het overlijden in gang schieten.\n\nDe termijnen op een rij, zodat u ze niet door elkaar haalt:",
+        table: {
+          headers: ["Termijn", "Waarvoor", "Vanaf wanneer"],
+          rows: [
+            ["3 maanden", "De boedelbeschrijving laten opmaken bij aanvaarding onder voorrecht", "Het openvallen van de nalatenschap"],
+            ["40 dagen", "Beraad: aanvaarden of verwerpen", "Het einde van de drie maanden of de afsluiting van de boedelbeschrijving"],
+            ["15 dagen", "Inschrijving door de notaris in het centraal erfrechtregister en publicatie", "De verklaring bij de notaris"],
+            ["3 maanden", "Termijn voor schuldeisers om zich te melden", "De publicatie van het uittreksel in het Belgisch Staatsblad"],
+            ["4 maanden", "Aangifte van nalatenschap bij de Vlaamse Belastingdienst", "Het overlijden"],
+            ["5 of 6 maanden", "Aangifte bij overlijden in een ander Europees land of buiten Europa", "Het overlijden"],
+          ],
+        },
+      },
+      {
+        heading: "Zo werkt het bij wijkopenpanden.be",
+        body: "Een nalatenschap met schulden vraagt in de eerste plaats één ding: **een hard cijfer voor de woning**, want zonder dat cijfer kunt u de keuze tussen aanvaarden en verwerpen niet maken. Precies daar zijn wij nuttig.\n\n• U krijgt een **schriftelijk en gemotiveerd bod**, kosteloos en vrijblijvend. Dat is een vaste waarde die u aan de actiefzijde van uw rekening kunt zetten, in plaats van een vraagprijs waarvan u niet weet of iemand ze betaalt.\n• Wij kopen **met eigen middelen en zonder opschortende voorwaarde van financiering**. Bij een nalatenschap waarin de kosten doorlopen, is snelheid geen comfort maar geld.\n• Wij kopen **in de staat waarin het pand zich bevindt, inboedel inbegrepen**. U hoeft niets te ruimen — wat bij een aanvaarding onder voorrecht ook verstandig is, want de inboedel hoort in de boedelbeschrijving thuis.\n• U beslist mee over de **aktedatum** en werkt met de **notaris van uw keuze**. Dat helpt wanneer u de erfbelasting binnen de termijn wilt kunnen betalen.\n• Wij vragen **geen exclusiviteit**.\n\nEn de grens van wat wij kunnen, zeggen wij er meteen bij, want die is hier belangrijker dan waar ook. **Hebt u onder voorrecht van boedelbeschrijving aanvaard, dan kunnen wij niet zomaar onderhands van u kopen.** Dat mag u niet en dus mogen wij het ook niet. Wat wél kan, is dat ons schriftelijk bod dient als onderbouwing bij het verzoekschrift waarmee uw notaris de machtiging tot verkoop uit de hand vraagt (art. 1193bis Ger.W.). Voor een rechter die moet beoordelen of een onderhandse verkoop in het belang van de schuldeisers is, is een concreet en gemotiveerd bod van een koper met eigen middelen een bruikbaar stuk.\n\nWat wij niet doen, is u adviseren over uw erfkeuze. Of u zuiver aanvaardt, onder voorrecht aanvaardt of verwerpt, is een beslissing die u met uw notaris neemt, en de gevolgen ervan reiken tot bij uw kinderen. Wij leveren het cijfer waarmee u die beslissing kunt maken — en wachten daarna gewoon af wat u kiest.",
+      },
+    ],
+    relatedArticles: ["erfenis-woning-stappenplan", "erfbelasting-vlaanderen-2026", "hoelang-tijd-erfbelasting-betalen", "woning-verkopen-met-beslag", "belastingschulden-bij-verkoop-notariele-notificatie", "mede-eigenaar-wil-niet-verkopen-uit-onverdeeldheid", "woning-verkopen-met-minderjarige-eigenaar", "woning-verkopen-bij-faillissement-curator", "huis-verkopen-bij-betalingsproblemen-schulden", "leegstandsheffing-antwerpen-2026"],
+    relatedSituations: ["huis-verkopen-bij-erfenis", "vastgoedopkoper-antwerpen", "pand-snel-verkopen", "schatting-pand"],
+    faqs: [
+      {
+        question: "Kan ik een geërfde woning verkopen als ik de nalatenschap onder voorrecht heb aanvaard?",
+        answer:
+          "Niet op de gewone manier. Art. 4.55 BW bepaalt dat de verkoop van roerende en onroerende goederen gebeurt in de vorm die het Gerechtelijk Wetboek voorschrijft, met de openbare verkoop als uitgangspunt. Een onderhandse verkoop is wel mogelijk via art. 1193bis Ger.W., maar enkel met machtiging van de rechter: uw notaris maakt een ontwerpakte op en dient een gemotiveerd verzoekschrift in. Reken op weken tot maanden extra doorlooptijd.",
+      },
+      {
+        question: "Wat is het verschil tussen verwerpen en aanvaarden onder voorrecht?",
+        answer:
+          "Bij verwerping bent u geacht nooit erfgenaam te zijn geweest: u krijgt niets en betaalt niets, en uw afstammelingen komen in uw plaats. Bij aanvaarding onder voorrecht erft u wel, maar bent u nooit gehouden tot meer dan de waarde van wat u erft. De prijs daarvan is dat u de nalatenschap moet vereffenen, rekening en verantwoording moet doen aan de schuldeisers, en de woning niet vrij onderhands kunt verkopen.",
+      },
+      {
+        question: "Erven mijn kinderen de schulden als ik verwerp?",
+        answer:
+          "Ja, tenzij zij zelf ook verwerpen. Sinds de hervorming van 1 september 2018 is plaatsvervulling bij verwerping uitdrukkelijk mogelijk (art. 4.12 BW): uw afstammelingen komen in uw plaats, en dat loopt tot en met de zesde graad. Zijn uw kinderen minderjarig, dan is er voor hun verwerping een machtiging van de vrederechter nodig. Verwerpen is daardoor een familiebeslissing en geen individuele.",
+      },
+      {
+        question: "Mag ik de inboedel al leeghalen vóór ik gekozen heb?",
+        answer:
+          "Doe dat niet. Een zuivere aanvaarding kan ook stilzwijgend gebeuren, uit daden waaruit blijkt dat u zich als erfgenaam gedraagt. Meubels verdelen of verkopen, de auto op uw naam zetten of de inboedel meenemen bij het opzeggen van een huurcontract kunnen als zo'n daad worden gelezen. U verliest daarmee uw keuze — en bij een nalatenschap met schulden dus ook uw bescherming. Wacht tot de boedelbeschrijving en de keuze rond zijn.",
+      },
+      {
+        question: "Hoeveel kost het om een nalatenschap te verwerpen?",
+        answer:
+          "Volgens notaris.be kost een verklaring ongeveer 30 euro aan aktekosten, en wordt de akte van verwerping kosteloos opgemaakt wanneer de nalatenschap deficitair is of wanneer het netto-actief van de nalatenschap minder dan 5.000 euro bedraagt. De boedelbeschrijving die bij een aanvaarding onder voorrecht hoort, is duurder: afhankelijk van de omvang en de complexiteit gaat het van enkele honderden tot enkele duizenden euro's.",
+      },
+      {
+        question: "Moet ik nog een aangifte van nalatenschap indienen als de erfenis negatief is?",
+        answer:
+          "De aangifteplicht bij de Vlaamse Belastingdienst binnen vier maanden na het overlijden staat los van uw erfkeuze en wacht niet op uw beraadtermijn. In de aangifte horen alle bezittingen én schulden. Dient u niets in, dan bepaalt de administratie zelf de waarde van de nalatenschap, waardoor een schuld die u wél had kunnen aftrekken er mogelijk niet in komt. Laat door uw notaris bepalen wie in uw dossier precies aangifteplichtig is.",
       },
     ],
   },
