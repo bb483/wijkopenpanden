@@ -182,7 +182,7 @@ export const articles: Article[] = [
         body: "Een opkoper biedt u minder dan de theoretische marktwaarde, maar de bijkomende kosten en wachttijd bij een klassieke verkoop verkleinen het verschil aanzienlijk. Bij een woning in mindere staat, erfenis of tijdsdruk kan een rechtstreekse verkoop zelfs financieel gelijkwaardig of voordeliger uitkomen.\n\nDe keuze hangt niet alleen van de prijs af, maar ook van uw persoonlijke situatie: heeft u tijd, of heeft u zekerheid en snelheid nodig?",
       },
     ],
-    relatedArticles: ["commissie-makelaar-belgie", "notariskosten-woning-verkoop", "keuringen-bij-verkoop-woning", "kadastraal-inkomen-en-woningverkoop", "woning-verkopen-met-btw-nieuwbouw", "vastgoedinformatie-aanvragen-bij-verkoop", "huis-verkopen-aan-opkoper-verstandig", "pand-verkopen-aan-projectontwikkelaar"],
+    relatedArticles: ["commissie-makelaar-belgie", "notariskosten-woning-verkoop", "keuringen-bij-verkoop-woning", "kadastraal-inkomen-en-woningverkoop", "woning-verkopen-met-btw-nieuwbouw", "vastgoedinformatie-aanvragen-bij-verkoop", "huis-verkopen-aan-opkoper-verstandig", "pand-verkopen-aan-projectontwikkelaar", "verkopen-binnen-twee-jaar-na-aankoop-teruggave-verkooprecht"],
     relatedSituations: ["verkopen-zonder-makelaar"],
     faqs: [
       {
@@ -295,7 +295,7 @@ export const articles: Article[] = [
         body: "Alle erfgenamen moeten het compromis (de verkoopbelofte) ondertekenen. Zijn niet alle erfgenamen aanwezig, dan kan één erfgenaam optreden met een volmacht (notarieel of onderhands) van de anderen.\n\nNa het compromis volgt de akte bij de notaris, doorgaans twee tot drie maanden later. Bij de akte worden de notariskosten verrekend en wordt de netto-opbrengst verdeeld onder de erfgenamen.",
       },
     ],
-    relatedArticles: ["keuringen-bij-verkoop-woning", "notariskosten-woning-verkoop", "blote-eigendom-verkopen", "pand-laten-schatten-schattingsverslag", "woning-verkopen-met-zorgvolmacht", "erfenis-met-schulden-woning-verkopen"],
+    relatedArticles: ["keuringen-bij-verkoop-woning", "notariskosten-woning-verkoop", "blote-eigendom-verkopen", "pand-laten-schatten-schattingsverslag", "woning-verkopen-met-zorgvolmacht", "erfenis-met-schulden-woning-verkopen", "familielid-woont-gratis-in-woning-verkopen"],
     relatedSituations: ["huis-verkopen-bij-erfenis"],
     faqs: [
       {
@@ -564,7 +564,7 @@ export const articles: Article[] = [
         body: "Ons bod houdt rekening met:\n\n• Geschatte renovatiekost (structurele gebreken wegen zwaarder dan cosmetische)\n• Staat van de elektriciteit, dakbedekking, riolering en verwarmingsinstallatie\n• Aanwezigheid van asbest\n• EPC-label en geschatte energetische investeringen\n• Marktwaarde van vergelijkbare panden in de buurt na renovatie\n\nWij zijn transparant over onze berekening en leggen u uit hoe we tot ons bod zijn gekomen.",
       },
     ],
-    relatedArticles: ["keuringen-bij-verkoop-woning", "epc-attest-antwerpen", "verkoop-kosten-berekenen", "huis-verkopen-na-brand-of-schade", "woning-verkopen-met-krakers-of-domiciliefraude", "beschermd-monument-erfgoedwoning-verkopen", "verwaarloosde-woning-heffing-verkopen", "onafgewerkte-verbouwing-of-bouwwerf-verkopen", "oude-woning-zonder-bouwvergunning-vermoeden-van-vergunning", "zonevreemde-woning-verkopen", "pand-verkopen-aan-projectontwikkelaar"],
+    relatedArticles: ["keuringen-bij-verkoop-woning", "epc-attest-antwerpen", "verkoop-kosten-berekenen", "huis-verkopen-na-brand-of-schade", "woning-verkopen-met-krakers-of-domiciliefraude", "beschermd-monument-erfgoedwoning-verkopen", "verwaarloosde-woning-heffing-verkopen", "onafgewerkte-verbouwing-of-bouwwerf-verkopen", "oude-woning-zonder-bouwvergunning-vermoeden-van-vergunning", "zonevreemde-woning-verkopen", "pand-verkopen-aan-projectontwikkelaar", "betwiste-perceelsgrens-woning-verkopen"],
     relatedSituations: ["opknappand-verkopen", "huis-verkopen-bij-erfenis"],
     faqs: [
       {
@@ -635,7 +635,7 @@ export const articles: Article[] = [
         },
       },
     ],
-    relatedArticles: ["notariskosten-woning-verkoop", "verkoop-kosten-berekenen", "erfenis-woning-stappenplan", "kadastraal-inkomen-en-woningverkoop", "onroerende-voorheffing-verrekenen-bij-verkoop", "woonbonus-en-fiscaal-voordeel-bij-verkoop-woning", "pand-uit-vennootschap-verkopen", "woning-verkopen-met-btw-nieuwbouw", "partner-uitkopen-bij-scheiding-verdeelrecht", "woning-met-praktijkruimte-of-beroepsgedeelte-verkopen"],
+    relatedArticles: ["notariskosten-woning-verkoop", "verkoop-kosten-berekenen", "erfenis-woning-stappenplan", "kadastraal-inkomen-en-woningverkoop", "onroerende-voorheffing-verrekenen-bij-verkoop", "woonbonus-en-fiscaal-voordeel-bij-verkoop-woning", "pand-uit-vennootschap-verkopen", "woning-verkopen-met-btw-nieuwbouw", "partner-uitkopen-bij-scheiding-verdeelrecht", "woning-met-praktijkruimte-of-beroepsgedeelte-verkopen", "verkopen-binnen-twee-jaar-na-aankoop-teruggave-verkooprecht"],
     relatedSituations: ["huis-verkopen-bij-erfenis", "huis-verkopen-bij-scheiding"],
     faqs: [
       {
@@ -3727,7 +3727,7 @@ export const articles: Article[] = [
         body: "Wie binnen 5 jaar na aankoop moet verkopen, doet dat zelden uit luxe. Bij een scheiding, jobverlies of onverwachte verhuis draait alles om één vraag: **wat blijft er netto over, en wanneer?** De belastingregels hierboven liggen vast — daar valt weinig aan te optimaliseren behalve de timing. Wat u wél in de hand hebt, zijn de transactiekosten en de doorlooptijd.\n\nEen directe verkoop aan wijkopenpanden.be maakt die rekensom een stuk voorspelbaarder. Er is **geen makelaarscommissie**, u ontvangt een **schriftelijk gemotiveerd bod** en kent dus meteen het exacte nettobedrag — handig om naast uw openstaand kredietsaldo en de eventuele belasting te leggen. We reageren binnen 2 uur, ook in het weekend, komen doorgaans binnen 48 uur langs en kopen het pand in de huidige staat, met betaling uit eigen middelen. De akte volgt doorgaans 2 tot 3 maanden na akkoord — wat bij een verkoop binnen de 2 jaar ook telt om de teruggavetermijn van het verkooprecht te halen.\n\nHet bod is gratis en vrijblijvend. Vergelijken met een klassiek verkooptraject kan dus altijd — u beslist pas als alle cijfers op tafel liggen.",
       },
     ],
-    relatedArticles: ["meerwaardebelasting-tweede-verblijf-belgie", "belastingen-bij-woningverkoop", "huis-verkopen-met-hypotheek", "verkoop-kosten-berekenen", "notariskosten-woning-verkoop", "keuringen-bij-verkoop-woning", "woning-verkopen-met-btw-nieuwbouw"],
+    relatedArticles: ["meerwaardebelasting-tweede-verblijf-belgie", "belastingen-bij-woningverkoop", "huis-verkopen-met-hypotheek", "verkoop-kosten-berekenen", "notariskosten-woning-verkoop", "keuringen-bij-verkoop-woning", "woning-verkopen-met-btw-nieuwbouw", "verkopen-binnen-twee-jaar-na-aankoop-teruggave-verkooprecht"],
     relatedSituations: ["huis-verkopen-bij-scheiding", "huis-verkopen-bij-erfenis"],
     faqs: [
       {
@@ -4144,7 +4144,7 @@ export const articles: Article[] = [
         body: "Wie niet zelf de procedures wil voeren of niet wil wachten tot alles is opgelost, kan het pand rechtstreeks verkopen aan een **professionele vastgoedkoper** die vertrouwd is met bezette panden. De koper neemt dan het bezettingsrisico en de verdere afhandeling over, tegen een prijs die met dat risico rekening houdt.\n\nDe klassieke markt voor een gekraakt of frauduleus ingeschreven pand is beperkt: particuliere kopers krijgen de aankoop moeilijk gefinancierd en willen geen procedure erven, waardoor de verkoop lang kan aanslepen terwijl de bezetting voortduurt. Een directe verkoop gaat sneller, maar doorgaans tegen een prijs onder de vrije marktwaarde, omdat de koper de kosten, de tijd en het risico van de ontruiming overneemt.\n\n**Wijkopenpanden.be** koopt panden in de regio Antwerpen aan in de huidige staat, ook wanneer er een bezetting of een betwiste inschrijving speelt. U ontvangt binnen 2 uur een reactie op uw aanvraag en na een plaatsbezoek een schriftelijk bod. Wij coördineren met uw notaris, u betaalt geen commissie, en samen bekijken we of u vrij van bewoning dan wel in bezette staat verkoopt. Zo weegt u de zekerheid en snelheid af tegen het bedrag dat een gewone verkoop na een afgeronde ontruiming zou opleveren.",
       },
     ],
-    relatedArticles: ["huurder-rechten-bij-verkoop-woning", "pand-in-slechte-staat-verkopen", "leegstandsheffing-antwerpen-2026", "verborgen-gebreken-woning-verkoop-belgie", "ongeschikt-onbewoonbaar-verklaarde-woning-verkopen", "hoe-snel-verkopen-en-geld-ontvangen"],
+    relatedArticles: ["huurder-rechten-bij-verkoop-woning", "pand-in-slechte-staat-verkopen", "leegstandsheffing-antwerpen-2026", "verborgen-gebreken-woning-verkoop-belgie", "ongeschikt-onbewoonbaar-verklaarde-woning-verkopen", "hoe-snel-verkopen-en-geld-ontvangen", "familielid-woont-gratis-in-woning-verkopen"],
     relatedSituations: ["pand-met-huurders-verkopen", "verkopen-zonder-makelaar"],
     faqs: [
       {
@@ -4382,7 +4382,7 @@ export const articles: Article[] = [
         body: "In principe mag u **vrij over uw eigen onverdeeld aandeel beschikken**: u kunt uw aandeel verkopen aan een derde zonder toestemming van de andere mede-eigenaars. Beslissingen over het **geheel** van de woning vragen daarentegen wél ieders medewerking.\n\nToch is een los aandeel in de praktijk **moeilijk verkoopbaar**. Een koper verwerft dan geen woning, maar een onverdeelde positie mét een onwillige mede-eigenaar en een onzekere afloop — want zo'n verkoop houdt maar stand als het goed bij de uiteindelijke verdeling in de kavel van de verkoper terechtkomt. Weinig particuliere kopers zitten daarop te wachten, en de prijs voor een geïsoleerd aandeel ligt navenant laag.\n\nMeestal levert het meer op om, zodra alle mede-eigenaars akkoord zijn om samen te verkopen (of nadat de rechtbank de verkoop heeft bevolen), het **hele pand** in één keer te verkopen. Wilt u dan zekerheid en snelheid, dan kan een directe verkoop aan een professionele koper een alternatief zijn voor de onzekere opbrengst van een openbare veiling.\n\n**Wijkopenpanden.be** koopt panden in de regio Antwerpen aan in de huidige staat. Zodra de mede-eigenaars het eens zijn om te verkopen, ontvangt u binnen 2 uur een reactie op uw aanvraag en na een plaatsbezoek een schriftelijk bod op het geheel. U betaalt geen commissie en wij coördineren met uw notaris. Zo krijgen alle partijen een concreet, vergelijkbaar bedrag op tafel — handig om af te wegen tegen wat een openbare verkoop zou opbrengen, en vaak een manier om een slepend geschil sneller af te sluiten.",
       },
     ],
-    relatedArticles: ["mede-eigendom-verkopen", "erfenis-woning-stappenplan", "woning-verkopen-via-biddit", "belastingen-bij-woningverkoop", "hoe-snel-verkopen-en-geld-ontvangen", "partner-uitkopen-bij-scheiding-verdeelrecht", "erfenis-met-schulden-woning-verkopen"],
+    relatedArticles: ["mede-eigendom-verkopen", "erfenis-woning-stappenplan", "woning-verkopen-via-biddit", "belastingen-bij-woningverkoop", "hoe-snel-verkopen-en-geld-ontvangen", "partner-uitkopen-bij-scheiding-verdeelrecht", "erfenis-met-schulden-woning-verkopen", "familielid-woont-gratis-in-woning-verkopen"],
     relatedSituations: ["huis-verkopen-bij-scheiding", "huis-verkopen-bij-erfenis"],
     faqs: [
       {
@@ -4791,7 +4791,7 @@ export const articles: Article[] = [
         body: "Wilt u de discussie over doorgang, gemene muur of inkijk niet eerst uitvechten met de buren, dan is er een tweede route. **wijkopenpanden.be** koopt panden in de **regio Antwerpen** aan in de **huidige staat**, dus ook woningen die belast zijn met een erfdienstbaarheid, met een betwiste doorgang of met een muur waarover geen enkel papier bestaat.\n\nHoe dat verloopt:\n\n• U bezorgt ons de gegevens van het pand. U krijgt **binnen 2 uur een reactie** op uw aanvraag.\n• Na een **plaatsbezoek** ontvangt u een **schriftelijk bod**. Wij bekijken de erfdienstbaarheid met de kennis van een professional en verrekenen ze in ons bod, in plaats van er in extremis over te onderhandelen.\n• Er is **geen commissie**. De **verplichte attesten en de coördinatie met de notaris** zijn inbegrepen.\n• De **akte verlijdt doorgaans binnen 2 tot 3 maanden**.\n\nWij beloven u geen bepaald bedrag en geen garanties. Wat wij wel doen, is u een concreet, schriftelijk bod geven dat u rustig kunt **vergelijken met de klassieke route** via een makelaar. Zo kiest u met volledige informatie wat voor uw dossier het meest oplevert.",
       },
     ],
-    relatedArticles: ["verborgen-gebreken-woning-verkoop-belgie", "compromis-verkoop-woning-belgie", "stedenbouwkundige-overtreding-woning-verkopen", "verkoopbelofte-compromis-akte", "keuringen-bij-verkoop-woning", "wat-is-mijn-woning-waard-antwerpen", "woning-in-onteigeningsplan-of-rooilijn-verkopen"],
+    relatedArticles: ["verborgen-gebreken-woning-verkoop-belgie", "compromis-verkoop-woning-belgie", "stedenbouwkundige-overtreding-woning-verkopen", "verkoopbelofte-compromis-akte", "keuringen-bij-verkoop-woning", "wat-is-mijn-woning-waard-antwerpen", "woning-in-onteigeningsplan-of-rooilijn-verkopen", "betwiste-perceelsgrens-woning-verkopen"],
     relatedSituations: ["opknappand-verkopen", "verkopen-zonder-makelaar"],
     faqs: [
       {
@@ -5287,7 +5287,7 @@ export const articles: Article[] = [
         body: "Een perceel splitsen is een project op zich: landmeter, gemeente, openbaar onderzoek, buren, notaris, fiscaliteit — en pas daarna een koper zoeken. Voor wie het geld sneller nodig heeft, wie de discussie met de gemeente niet wil voeren, of wie merkt dat de grond gewoon geen bouwbestemming heeft, is er een eenvoudiger alternatief: **het geheel verkopen zoals het is**.\n\nWij, **wijkopenpanden.be**, kopen panden in de **regio Antwerpen** aan in de **huidige staat**. U hoeft niets te splitsen, niets op te meten en niets te laten vergunnen. Op uw aanvraag krijgt u **binnen 2 uur een reactie**. Na een **plaatsbezoek** ontvangt u een **schriftelijk bod**. Wij rekenen **geen commissie**, en de **verplichte attesten en de coördinatie met de notaris zijn inbegrepen**. De akte volgt **doorgaans binnen 2 tot 3 maanden**.\n\nDat bod is een vertrekpunt, geen eindpunt. Leg het naast wat u denkt te halen via de klassieke route — met splitsing, met vergunning, met wachttijd en met kosten — en beslis dan met volledige informatie welk spoor voor u het beste uitkomt. Wilt u eerst weten hoe een klassieke verkoop in de regio verloopt, dan leest u dat in onze [gids over een huis verkopen in Antwerpen](/kennisbank/huis-verkopen-antwerpen-gids).",
       },
     ],
-    relatedArticles: ["stedenbouwkundige-overtreding-woning-verkopen", "meerwaardebelasting-tweede-verblijf-belgie", "wat-is-mijn-woning-waard-antwerpen", "verkoop-kosten-berekenen", "notariskosten-woning-verkoop", "huis-verkopen-antwerpen-gids", "zonevreemde-woning-verkopen", "pand-verkopen-aan-projectontwikkelaar"],
+    relatedArticles: ["stedenbouwkundige-overtreding-woning-verkopen", "meerwaardebelasting-tweede-verblijf-belgie", "wat-is-mijn-woning-waard-antwerpen", "verkoop-kosten-berekenen", "notariskosten-woning-verkoop", "huis-verkopen-antwerpen-gids", "zonevreemde-woning-verkopen", "pand-verkopen-aan-projectontwikkelaar", "betwiste-perceelsgrens-woning-verkopen"],
     relatedSituations: ["huis-verkopen-bij-erfenis", "verkopen-zonder-makelaar"],
     faqs: [
       {
@@ -8723,6 +8723,364 @@ export const articles: Article[] = [
         question: "Moet ik nog een aangifte van nalatenschap indienen als de erfenis negatief is?",
         answer:
           "De aangifteplicht bij de Vlaamse Belastingdienst binnen vier maanden na het overlijden staat los van uw erfkeuze en wacht niet op uw beraadtermijn. In de aangifte horen alle bezittingen én schulden. Dient u niets in, dan bepaalt de administratie zelf de waarde van de nalatenschap, waardoor een schuld die u wél had kunnen aftrekken er mogelijk niet in komt. Laat door uw notaris bepalen wie in uw dossier precies aangifteplichtig is.",
+      },
+    ],
+  },
+  {
+    slug: "verkopen-binnen-twee-jaar-na-aankoop-teruggave-verkooprecht",
+    title: "Verkoopt u binnen twee jaar na uw aankoop? Dan krijgt u drie vijfden van uw verkooprecht terug",
+    metaTitle: "Verkoop binnen 2 jaar: 3/5 verkooprecht terug",
+    metaDescription:
+      "Wie binnen twee jaar na de aankoopakte opnieuw verkoopt, krijgt drie vijfden van het verkooprecht terug. De voorwaarden, de rekensom en de valstrik van 2026.",
+    publishedAt: "2026-08-22",
+    updatedAt: "2026-08-22",
+    intro:
+      "Verkoopt u een pand opnieuw binnen twee jaar na de authentieke aankoopakte, dan krijgt u drie vijfden van het verkooprecht terug dat u bij die aankoop betaalde. Dat staat in artikel 3.6.0.0.6, § 2 van de Vlaamse Codex Fiscaliteit. Op een aankoop van 300.000 euro aan het gewone tarief van 12 procent gaat het om 21.600 euro. Twee zaken bepalen of u dat geld ook echt ziet: de tweede akte moet binnen die twee jaar verleden zijn — akte tot akte, de compromis telt niet mee — en u moet de teruggave zelf aanvragen, want ze gebeurt niet automatisch. Kocht u aan het verlaagd tarief van 2 procent, dan levert de regeling u niets op en dreigt sinds 1 januari 2026 net het omgekeerde.",
+    sections: [
+      {
+        heading: "Wat u terugkrijgt, in cijfers",
+        body: "De teruggave bedraagt **drie vijfden — 60 procent — van het verkooprecht dat bij uw aankoop werd geheven**. Niet van de verkoopprijs, niet van de notariskosten: van de registratiebelasting zelf.\n\nSinds 1 januari 2022 bedraagt het gewone verkooprecht in Vlaanderen **12 procent**. Wie een pand koopt dat niet zijn enige eigen woning is — een opbrengsteigendom, een tweede verblijf, een renovatieproject, een pand voor een kind — betaalt dat tarief. Precies die kopers zijn het die de teruggave werkelijk kunnen gebruiken.\n\nDe rekensom is eenvoudig:",
+        table: {
+          headers: ["Aankoopprijs", "Verkooprecht aan 12%", "Teruggave (3/5)", "Netto belastingkost van uw aankoop"],
+          rows: [
+            ["200.000 euro", "24.000 euro", "14.400 euro", "9.600 euro"],
+            ["300.000 euro", "36.000 euro", "21.600 euro", "14.400 euro"],
+            ["450.000 euro", "54.000 euro", "32.400 euro", "21.600 euro"],
+            ["600.000 euro", "72.000 euro", "43.200 euro", "28.800 euro"],
+          ],
+        },
+      },
+      {
+        heading: "Eén nuance die de som kan drukken",
+        body: "De teruggave is **beperkt tot drie vijfden van het geheven verkooprecht**, maar de berekening houdt ook rekening met de prijs waaraan u wederverkoopt. Verkoopt u lager dan u zelf betaald hebt, dan wordt de teruggave in de praktijk op die lagere basis berekend. Verkoopt u hoger, dan blijft uw aankoop het plafond — de fiscus geeft nooit meer terug dan drie vijfden van wat u zelf betaalde.\n\nDat is geen detail bij een pand dat u met verlies van de hand doet. Laat uw notaris de som maken vóór u tekent, zodat u weet met welk bedrag u mag rekenen en het niet als een verrassing naast de afrekening opduikt.",
+      },
+      {
+        heading: "De vier voorwaarden waar dossiers op stuklopen",
+        body: "1. **Akte tot akte binnen twee jaar.** De termijn loopt van de datum van uw authentieke aankoopakte tot de datum van de authentieke akte van wederverkoop. De onderhandse verkoopovereenkomst — de compromis — telt niet mee, hoe vroeg u ze ook tekent.\n2. **Het moet een wederverkoop zijn.** Een verkoop dus. Een schenking, een inbreng in vennootschap of een verdeling tussen mede-eigenaars zijn dat niet, en openen het recht op teruggave niet.\n3. **U moet aan het gewone tarief gekocht hebben.** Wie aan een verlaagd tarief kocht, moet eerst de aanvullende rechten tot 12 procent bijbetalen om aanspraak te kunnen maken — en dat is bijna altijd een slechte zaak, zoals verder blijkt.\n4. **U moet de teruggave aanvragen.** Dit is de voorwaarde die het vaakst geld kost, want ze gebeurt **niet automatisch**.\n\nDe aanvraag verloopt via een **met redenen omkleed verzoekschrift** bij de ontvanger van de verkooprechten van de plaats waar u destijds kocht. In de praktijk neemt uw notaris die vraag onderaan de akte van wederverkoop op, zodat ze samen met de akte ter registratie wordt aangeboden en meteen correct terechtkomt. Zeg dat expliciet tegen uw notaris — het is niet iets wat vanzelf in elk dossier gebeurt.\n\nU hebt daarna nog **vijf jaar**, te rekenen vanaf 1 januari van het jaar waarin de akte van wederverkoop werd verleden, om de aanvraag alsnog in te dienen. Vergat u het bij de akte, dan is het dus niet verloren. Maar wacht niet: bewijsstukken raken zoek, en de teruggave staat of valt met twee aktedatums die u moet kunnen voorleggen.",
+        table: {
+          headers: ["Vraag", "Wat telt", "Wat niet telt"],
+          rows: [
+            ["Startdatum van de termijn", "De datum van uw authentieke aankoopakte", "De datum van uw compromis of van uw bod"],
+            ["Einddatum van de termijn", "De datum van de authentieke akte van wederverkoop", "De datum waarop de koper tekende of betaalde"],
+            ["Soort overdracht", "Een verkoop", "Schenking, inbreng, verdeling, ruil"],
+            ["Aanvraag", "Met redenen omkleed verzoekschrift, meestal via de akte", "Niets doen en hopen dat het automatisch loopt"],
+            ["Termijn om aan te vragen", "Vijf jaar vanaf 1 januari van het jaar van de akte", "De datum waarop u het dossier afsluit"],
+          ],
+        },
+      },
+      {
+        heading: "Akte tot akte: waarom die twee jaar korter zijn dan ze lijken",
+        body: "Hier zit de reden waarom deze regeling minder vaak wordt gebruikt dan ze zou kunnen. Twee jaar klinkt ruim. Maar de klok stopt pas bij de **tweede notariële akte**, en tussen het moment waarop u beslist te verkopen en die akte zit een keten van stappen die u maar deels in de hand hebt.\n\nEen realistische terugtelling vanaf uw deadline:",
+        table: {
+          headers: ["Stap", "Realistische duur", "Waar u de tijd verliest"],
+          rows: [
+            ["Van compromis tot authentieke akte", "Ongeveer vier maanden", "De wettelijke registratietermijn en de agenda van de notaris"],
+            ["Van aanvaard bod tot compromis", "Twee tot vier weken", "Attesten opvragen en de overeenkomst opstellen"],
+            ["Opschortende voorwaarde van financiering", "Vier tot zes weken bovenop", "De kredietbeslissing van de bank van uw koper"],
+            ["Zoekperiode tot een geschikte koper", "Zeer variabel", "Het segment, de staat van het pand en de prijszetting"],
+            ["Verkoopklaar maken: EPC, keuring, foto's", "Enkele weken", "Wachttijden bij keurders en experts"],
+          ],
+        },
+      },
+      {
+        heading: "Wat dat concreet betekent voor uw planning",
+        body: "Reken achterwaarts. Wilt u zeker binnen de twee jaar zijn, dan moet uw compromis ruwweg **vier maanden vóór de vervaldag** getekend zijn, en moet u dus al **vijf tot zes maanden** eerder een koper hebben. Wie op maand twintig pas begint te zoeken, haalt de deadline zelden.\n\nEn er is een risico dat zelden wordt ingecalculeerd: **een koper die zijn krediet niet rondkrijgt**. Valt de opschortende voorwaarde weg, dan bent u niet alleen die koper kwijt, maar ook de weken die u aan hem besteed hebt. Bij een deadline die in duizenden euro's teruggave uitgedrukt staat, is dat geen ongemak maar een rekening.\n\nDaarom is dit een van de weinige dossiers waarin een lagere prijs met zekerheid meer kan opbrengen dan een hogere prijs met vertraging. Een verschil van enkele duizenden euro's op de prijs weegt niet op tegen een teruggave van 21.600 euro die u misloopt omdat de akte drie weken te laat valt.",
+      },
+      {
+        heading: "De valstrik van 2026: u kunt uw 2%-tarief verliezen",
+        body: "Kocht u uw **enige eigen woning** aan het verlaagd verkooprecht — sinds 1 januari 2025 is dat 2 procent — dan speelt er iets in de omgekeerde richting, en dat is nieuw.\n\nVroeger volstond het dat u zich binnen drie jaar na de akte inschreef op het adres van de gekochte woning. **Voor verkoopovereenkomsten gesloten vanaf 1 januari 2026** komt daar een voorwaarde bij: u moet die inschrijving **ononderbroken minstens één jaar** behouden en de woning ook werkelijk bewonen. De notaris neemt die verbintenis uitdrukkelijk in de akte op, en de Vlaamse Belastingdienst controleert ze achteraf. Op **10 februari 2026** publiceerde VLABEL een standpunt (nr. 18044bis) over de concrete toepassing van die nieuwe voorwaarden.\n\nEr veranderde in dezelfde beweging nog meer aan het 2%-tarief:\n• Het geldt alleen nog bij een **zuivere aankoop in volle eigendom**. Gesplitste aankopen — vruchtgebruik bij de ene, blote eigendom bij de andere — vallen terug op 12 procent.\n• Het geldt alleen nog voor aankopen door **natuurlijke personen**. Koopt een natuurlijke persoon samen met een vennootschap, dan is het voordeel weg.\n• Het is de **datum van de compromis** die bepaalt welk regime van toepassing is, niet de datum van de notariële akte. Wie eind 2025 tekende en pas in 2026 de akte liet verlijden, valt dus nog onder het oude regime.\n\nDe sanctie bij niet-naleving is stevig: u betaalt het **verschil met het gewone tarief van 12 procent**, verhoogd met een **belastingverhoging van 20 procent**. Op een woning van 300.000 euro is dat 30.000 euro aanvullende rechten plus 6.000 euro verhoging.\n\nOf en wanneer overmacht wordt aanvaard bij een gedwongen vertrek — een scheiding, een ziekte, een professionele overplaatsing — is niet in detail publiek uitgeschreven. Zit u in die situatie, laat uw notaris uw dossier dan uitdrukkelijk aan VLABEL voorleggen vóór u tekent. Dit is geen vraag om achteraf te stellen.",
+        table: {
+          headers: ["Punt", "Tot en met 2025", "Vanaf een compromis van 1 januari 2026"],
+          rows: [
+            ["Inschrijving op het adres", "Binnen drie jaar na de akte", "Binnen drie jaar én ononderbroken minstens één jaar behouden"],
+            ["Werkelijk bewonen", "Niet als aparte voorwaarde uitgewerkt", "Uitdrukkelijk vereist, per koper afzonderlijk"],
+            ["Gesplitste aankoop vruchtgebruik en blote eigendom", "Kon in aanmerking komen", "Valt terug op 12 procent"],
+            ["Aankoop samen met een vennootschap", "Kon in aanmerking komen", "Uitgesloten, enkel natuurlijke personen"],
+            ["Sanctie bij niet-naleving", "Verschil met het gewone tarief", "Verschil met 12 procent plus 20 procent belastingverhoging"],
+          ],
+        },
+      },
+      {
+        heading: "Waarom de teruggave voor een 2%-koper niets oplevert",
+        body: "De teruggave staat open voor wie aan het gewone tarief kocht. Kocht u aan 2 procent, dan kunt u ze in theorie ook vragen — maar enkel na eerst de **aanvullende rechten tot 12 procent** te hebben bijbetaald. Reken die som één keer door en de conclusie is definitief.\n\nOp een woning van 300.000 euro:\n• U betaalde bij de aankoop 2 procent, dus 6.000 euro.\n• Om in aanmerking te komen, betaalt u het verschil bij tot 12 procent: 30.000 euro.\n• U vraagt drie vijfden van 36.000 euro terug: 21.600 euro.\n• Netto verliest u 8.400 euro.\n\nDe teruggave is met andere woorden **geen regeling voor wie zijn gezinswoning snel weer verkoopt**. Ze is er voor wie aan 12 procent kocht. Voor een 2%-koper is de enige relevante vraag die uit de vorige sectie: houdt u uw gunsttarief, of niet?",
+      },
+      {
+        heading: "Wie hier wél iets aan heeft",
+        body: "De regeling is geschreven voor situaties die vaker voorkomen dan u denkt. Wie zich hierin herkent, heeft er alle belang bij de tweejaarstermijn te bewaken.",
+        table: {
+          headers: ["Situatie", "Kocht u doorgaans aan", "Teruggave mogelijk"],
+          rows: [
+            ["Renovatieproject dat u niet afkrijgt of niet meer ziet zitten", "12 procent", "Ja, als de akte binnen twee jaar valt"],
+            ["Opbrengsteigendom die tegenvalt of te veel werk vraagt", "12 procent", "Ja"],
+            ["Tweede verblijf dat u opnieuw van de hand doet", "12 procent", "Ja"],
+            ["Pand gekocht voor een familielid dat er uiteindelijk niet gaat wonen", "12 procent", "Ja"],
+            ["Woning gekocht en meteen doorverkocht na een scheiding", "2 of 12 procent", "Enkel zinvol bij een aankoop aan 12 procent"],
+            ["Uw enige eigen woning die u snel weer verkoopt", "2 procent", "Nee, en let op het verlies van uw gunsttarief"],
+          ],
+        },
+      },
+      {
+        heading: "Verwar dit niet met de meerwaardebelasting",
+        body: "Twee regels met dezelfde reflex — snel weer verkopen — maar het zijn twee totaal verschillende dingen, en ze lopen in tegengestelde richting.\n\nDe **teruggave van het verkooprecht** is geld dat u terugkrijgt. Ze hangt vast aan een termijn van **twee jaar**, gerekend van akte tot akte.\n\nDe **meerwaardebelasting** is geld dat u betaalt. Op een bebouwd onroerend goed dat niet uw eigen woning is, kan een meerwaarde belastbaar zijn wanneer u binnen **vijf jaar** na de aankoop verkoopt, aan een afzonderlijk tarief en te verhogen met gemeentebelasting. De eigen woning is daar in de regel van vrijgesteld.\n\nEen verkoop binnen twee jaar zit dus in beide vensters. Dat betekent niet dat verkopen een slecht idee is — het betekent dat u de **twee sommen naast elkaar** moet zetten voor u beslist, en niet alleen die welke u goed uitkomt. De regels rond verkopen binnen vijf jaar zetten wij in een apart artikel uiteen.",
+      },
+      {
+        heading: "Zo werkt het bij wijkopenpanden.be",
+        body: "In dit dossier is snelheid geen comfort maar rechtstreeks geld. Alles wat de akte dichter bij uw vervaldag duwt, kost u een deel van uw teruggave.\n\n• U krijgt een **schriftelijk en gemotiveerd bod**, kosteloos en vrijblijvend, na een plaatsbezoek. Geen vraagprijs waarvan u niet weet of iemand ze betaalt, maar een cijfer waarmee u kunt rekenen.\n• Wij kopen **met eigen middelen en zonder opschortende voorwaarde van financiering**. De weken die u anders aan een kredietbeslissing verliest, blijven in uw termijn zitten.\n• U beslist mee over de **aktedatum** en werkt met de **notaris van uw keuze**. Ligt uw vervaldag vast, dan werken wij daar naartoe.\n• Wij kopen **in de staat waarin het pand zich bevindt**, inboedel inbegrepen — nuttig bij een renovatieproject dat halverwege bleef steken.\n• Wij vragen **geen exclusiviteit** en rekenen **geen commissie**.\n\nWat wij niet doen, is uw teruggave aanvragen of u fiscaal adviseren. Dat is werk voor uw notaris, en het is bij hem dat u de vraag om teruggave onderaan de akte moet laten opnemen. Zeg ons wel welke datum uw deadline is — dan houden wij daar in het hele traject rekening mee.",
+      },
+    ],
+    relatedArticles: ["huis-verkopen-binnen-5-jaar", "verkoop-kosten-berekenen", "belastingen-bij-woningverkoop", "woonbonus-en-fiscaal-voordeel-bij-verkoop-woning", "notariskosten-woning-verkoop", "compromis-verkoop-woning-belgie", "hoelang-duurt-huis-verkopen-belgie", "eerst-kopen-dan-verkopen-overbruggingskrediet", "meerwaardebelasting-tweede-verblijf-belgie", "koper-krijgt-lening-niet-rond-opschortende-voorwaarde"],
+    relatedSituations: ["huis-snel-verkopen", "pand-snel-verkopen", "vastgoedopkoper-antwerpen", "opknappand-verkopen"],
+    faqs: [
+      {
+        question: "Krijg ik de teruggave van drie vijfden automatisch?",
+        answer:
+          "Nee. De teruggave moet u aanvragen bij de ontvanger van de verkooprechten van de plaats waar u destijds kocht, via een met redenen omkleed verzoekschrift. In de praktijk neemt de notaris die vraag onderaan de akte van wederverkoop op, zodat ze samen met de akte ter registratie gaat. Vraag daar uitdrukkelijk naar. Vergat u het, dan hebt u nog vijf jaar tijd, te rekenen vanaf 1 januari van het jaar waarin de akte van wederverkoop werd verleden.",
+      },
+      {
+        question: "Telt de datum van de compromis of van de notariële akte?",
+        answer:
+          "Enkel de authentieke akte telt, aan beide kanten. De termijn van twee jaar loopt van de datum van uw authentieke aankoopakte tot de datum van de authentieke akte van wederverkoop. Omdat tussen compromis en akte doorgaans ongeveer vier maanden zitten, moet uw compromis dus ruwweg vier maanden vóór de vervaldag getekend zijn. Wie pas op maand twintig begint te zoeken, haalt de deadline zelden.",
+      },
+      {
+        question: "Ik kocht aan 2 procent. Heeft die teruggave zin voor mij?",
+        answer:
+          "Nee. Om ze te kunnen vragen, moet u eerst de aanvullende rechten tot 12 procent bijbetalen. Op een woning van 300.000 euro betekent dat 30.000 euro bijbetalen om 21.600 euro terug te krijgen: een netto verlies van 8.400 euro. De regeling is bedoeld voor wie aan het gewone tarief van 12 procent kocht, niet voor wie zijn enige eigen woning snel weer verkoopt.",
+      },
+      {
+        question: "Verlies ik mijn 2%-tarief als ik binnen het jaar weer verhuis?",
+        answer:
+          "Dat risico bestaat sinds kort wel degelijk. Voor verkoopovereenkomsten gesloten vanaf 1 januari 2026 moet u zich binnen drie jaar inschrijven op het adres én die inschrijving ononderbroken minstens één jaar behouden, met werkelijke bewoning. Voldoet u daar niet aan, dan zijn de aanvullende rechten tot 12 procent verschuldigd, verhoogd met een belastingverhoging van 20 procent. VLABEL publiceerde op 10 februari 2026 een standpunt over de toepassing. Zit u in een gedwongen situatie, laat uw notaris uw dossier dan vooraf voorleggen.",
+      },
+      {
+        question: "Wat als ik goedkoper verkoop dan ik gekocht heb?",
+        answer:
+          "De teruggave is beperkt tot drie vijfden van het verkooprecht dat bij uw aankoop werd geheven, en de berekening houdt rekening met de prijs waaraan u wederverkoopt. Ligt die lager dan uw aankoopprijs, dan valt de teruggave in de praktijk lager uit. Laat uw notaris de exacte som maken vóór u tekent, zodat u weet met welk bedrag u mag rekenen.",
+      },
+      {
+        question: "Geldt de regeling ook als ik het pand schenk of inbreng in een vennootschap?",
+        answer:
+          "Nee. Het moet om een wederverkoop gaan, dus om een verkoop. Een schenking, een inbreng in een vennootschap, een ruil of een verdeling tussen mede-eigenaars openen het recht op teruggave niet. Overweegt u een van die routes en zit u nog binnen de twee jaar, zet dan beide scenario's cijfermatig naast elkaar bij uw notaris vóór u kiest.",
+      },
+    ],
+  },
+  {
+    slug: "betwiste-perceelsgrens-woning-verkopen",
+    title: "Een betwiste perceelsgrens: verkopen als uw garage, muur of afsluiting deels op de grond van de buur staat",
+    metaTitle: "Betwiste perceelsgrens: uw woning toch verkopen",
+    metaDescription:
+      "Uw aanbouw staat over de grens of de buur betwist de erfgrens. Wat het kadasterplan waard is, wat artikel 3.62 BW toelaat en hoe u de woning toch verkoopt.",
+    publishedAt: "2026-08-22",
+    updatedAt: "2026-08-22",
+    intro:
+      "U kunt een woning met een betwiste perceelsgrens verkopen, maar u moet de betwisting melden en u moet weten wat ze waard is. Het kadastraal plan bewijst uw grens niet: het geeft enkel een grafische benadering van de percelen. Alleen uw eigendomstitel, een afpaling (artikel 3.61 van het Burgerlijk Wetboek) of een vonnis leggen de grens juridisch vast. Staat een bouwwerk deels op de grond van de buur, dan kan die in principe de verwijdering ervan eisen (artikel 3.62). Was u te goeder trouw en zou afbraak u onevenredig schaden, dan kiest de buur tussen een opstalrecht en de overdracht van de strook grond, telkens tegen vergoeding.",
+    sections: [
+      {
+        heading: "Waarom het kadasterplan uw grens niet bewijst",
+        body: "Dit is de vergissing waarmee bijna elk grensconflict begint. Twee buren halen het kadastraal percelenplan of Geopunt erbij, zien een lijn, en denken dat daarmee de discussie beslecht is.\n\nDat is niet zo. Het kadastraal percelenplan is in oorsprong een **fiscaal instrument**: het bestaat om percelen te identificeren en te belasten, niet om eigendomsgrenzen vast te leggen. Het geeft een **grafische benadering** van de ligging en de omvang van de percelen. Ook het Grootschalig Referentiebestand (GRB) is een referentiekader voor opmetingen en geen eigendomsbewijs.\n\nWat wél telt, staat in de volgende tabel — en de rangorde daarin verrast de meeste eigenaars.",
+        table: {
+          headers: ["Document", "Wat het is", "Juridische waarde voor de grens"],
+          rows: [
+            ["Uw eigendomstitel en de plannen die eraan gehecht zijn", "De basis van uw recht", "Sterk, maar oude titels beschrijven de grens vaak vaag"],
+            ["Proces-verbaal van afpaling, ondertekend door beide buren", "Een akkoord over de grens", "Bindend tussen die twee buren"],
+            ["Authentieke akte van afpaling, overgeschreven", "Datzelfde akkoord, notarieel en gepubliceerd", "Ook tegenstelbaar aan derden, dus aan uw koper"],
+            ["Vonnis na gerechtelijke afpaling", "Een rechterlijke beslissing", "Bindend, ook zonder akkoord van de buur"],
+            ["Eenzijdig opmetingsplan van een landmeter-expert", "Een technische vaststelling in uw opdracht", "Waardevol als bewijs, maar de buur is er niet door gebonden"],
+            ["Kadastraal percelenplan of Geopunt of GRB", "Een grafische benadering", "Geen bewijs van de eigendomsgrens"],
+          ],
+        },
+      },
+      {
+        heading: "Het detail dat bij een verkoop het verschil maakt",
+        body: "Veel eigenaars regelen hun grensdiscussie met een plan dat beide buren ondertekenen, en denken daarmee klaar te zijn. Voor die twee buren is dat ook zo.\n\nMaar een ondertekend plan bindt in beginsel alleen de partijen die het ondertekenden. Om de grens ook **tegenstelbaar te maken aan derden** — en uw koper is zo'n derde — moet de afpaling in een **authentieke akte** worden gegoten en worden **overgeschreven**. Zonder die stap koopt uw koper een grens waarover de volgende buurman van nul kan herbeginnen.\n\nHebt u ooit een grens minnelijk geregeld, zoek dat document dan op vóór u verkoopt en kijk na in welke vorm het gegoten werd. Is het een los ondertekend plan, dan is de stap naar een notariële akte de goedkoopste investering in uw dossier.",
+      },
+      {
+        heading: "Afpaling: minnelijk of gerechtelijk",
+        body: "Artikel 3.61 van het Burgerlijk Wetboek geeft u een recht dat weinig mensen kennen: **iedere eigenaar kan zijn buur verplichten om tot afpaling over te gaan**. De buur kan dus niet zomaar weigeren om de grens te laten vastleggen.\n\nDe procedure kent twee sporen:\n\n1. **Minnelijke afpaling.** Een beëdigd landmeter-expert meet op, reconstrueert de grens op basis van titels, oude plannen en terreinsporen, en stelt een proces-verbaal van afpaling op. Tekenen beide buren, dan worden de grenspalen geplaatst. De kosten worden in principe gelijk verdeeld tussen de betrokken eigenaars.\n2. **Gerechtelijke afpaling.** Komt er geen akkoord, dan beslecht de rechter het geschil, doorgaans na aanstelling van een deskundige. Dat duurt langer en kost meer.\n\nHet startpunt is dus altijd hetzelfde: **een landmeter-expert**. Niet de notaris, niet de architect, niet de aannemer. En niet uzelf met een rolmeter en een oud plan, want de reconstructie van een grens is precies het werk waarvoor die opleiding en dat beroep bestaan.",
+      },
+      {
+        heading: "Bouwen over de grens: wat artikel 3.62 BW toelaat",
+        body: "Staat een bouwwerk — een aanbouw, een garage, een terras, een funderingszool, een dakoversteek — ten dele op, boven of onder de grond van de buur, dan kan die in beginsel de **verwijdering** ervan eisen, tenzij er een wettelijke of contractuele titel voor bestaat.\n\nDe wet maakt daarna één cruciaal onderscheid.\n\n**Was de bouwer te goeder trouw** en zou de verwijdering hem onevenredig schaden, dan kan de buur die afbraak niet eisen. Hij krijgt in de plaats daarvan een keuze: ofwel vestigt hij een **opstalrecht** voor de duur van het bouwwerk, ofwel draagt hij het **noodzakelijke deel van de grond over**. In beide gevallen tegen een vergoeding, berekend op basis van ongerechtvaardigde verrijking.\n\n**Was de bouwer te kwader trouw**, dan staat hij veel zwakker. En daar kwam op **25 april 2024** een belangrijke correctie. In arrest nr. 49/2024 vernietigde het Grondwettelijk Hof een deel van artikel 3.62, § 2: de beperking die de buur belette de verwijdering te vorderen wanneer er geen wezenlijke inname of schade was, kan niet worden tegengeworpen aan wie **vooraf gewaarschuwd** heeft en toch een bouwer zag doorgaan. Wie na een duidelijke, aangetekende verwittiging bewust verder bouwt over de grens, moet dus nog altijd vrezen te moeten afbreken — ook als de ingenomen strook klein is.\n\nDat arrest is voor een verkoper in twee richtingen relevant. Bouwde ú over de grens na een protestbrief van de buur, dan zit er een reëel afbraakrisico in uw dossier dat u niet mag verzwijgen. Bouwde de **buur** over uw grens en hebt u destijds geprotesteerd, dan is dat protest vandaag een **actief** in uw dossier: bewaar die brief, want hij is geld waard.",
+        table: {
+          headers: ["Situatie", "Wat de buur kan eisen", "Wat u ertegenover kunt zetten"],
+          rows: [
+            ["U bouwde te goeder trouw over de grens, afbraak zou u onevenredig schaden", "Geen afbraak, wel een opstalrecht of overdracht van de strook, tegen vergoeding", "Uw goede trouw en de wanverhouding tussen inname en afbraakkost"],
+            ["U bouwde verder na een aangetekende verwittiging", "Verwijdering, binnen een redelijke termijn (arrest 49/2024)", "Weinig, dit is precies het scenario dat het Hof viseerde"],
+            ["De buur bouwde over úw grens en u protesteerde toen", "U bent hier de eisende partij", "Uw protestbrief, de datum ervan en uw opmetingsplan"],
+            ["De grens is onduidelijk en niemand weet wie waar staat", "Nog niets, eerst moet de grens vastliggen", "Vraag de afpaling: uw buur kan die niet weigeren"],
+            ["Het gaat om een gemene muur of afsluiting", "Een regeling in mede-eigendom, geen afbraak", "De vermoedens van gemeenheid en de kostenverdeling"],
+          ],
+        },
+      },
+      {
+        heading: "De strook die al dertig jaar van u lijkt: verkrijgende verjaring",
+        body: "Een klassiek scenario: de haag staat al zolang iedereen zich herinnert op dezelfde plaats, maar volgens de opmeting ligt de juridische grens twee meter verderop. Wordt die strook dan van rechtswege van u?\n\nSoms wel, maar niet zomaar. Het gaat om **verkrijgende verjaring**, en Boek 3 van het Burgerlijk Wetboek — in werking sinds 1 september 2021 — heeft die regels hertekend.\n\n• De termijn bedraagt **tien jaar** wanneer de bezitter bij de aanvang van zijn bezit **te goeder trouw** was. Dat is een aanzienlijke verkorting: het oude wetboek werkte met tien of twintig jaar naargelang de woonplaats van de eigenaar, en met de vereiste van een geldige titel.\n• Was de bezitter **te kwader trouw**, dan is de termijn **dertig jaar**.\n• Het bezit moet **voortdurend, ongestoord, openbaar en niet dubbelzinnig** zijn, en uitgeoefend met de bedoeling om als eigenaar op te treden.\n\nDaar zit de valstrik. **Loutere gedoogzaamheid levert geen bezit op.** Liet de buur u toe om die strook te gebruiken, of gebruikte u ze in de wetenschap dat ze niet van u was, dan bouwt u geen verjaring op — hoe lang het ook duurt. Een tuinpad, een oprit of een moestuin die u decennialang onderhield, maakt u dus niet automatisch eigenaar.\n\nEn dan de stap die bij een verkoop beslissend is: verkrijgende verjaring **stelt zichzelf niet vast**. Artikel 3.26 voorziet drie manieren: bij **vonnis**, bij **akkoord** tussen wie het bezit verloor en de bezitter, of bij **eenzijdige verklaring** van wie het bezit verloor. Zolang niets daarvan gebeurd is, verkoopt u een aanspraak en geen eigendom — en dat is precies het verschil waar de bank van uw koper op afhaakt.",
+      },
+      {
+        heading: "Wat een betwiste grens doet met uw verkoop",
+        body: "Drie mechanismen spelen tegelijk, en ze versterken elkaar.\n\n**Uw informatieplicht.** U moet uw koper inlichten over wat u weet. Een lopende betwisting, een protestbrief van de buur, een opmeting die een overschrijding aantoont: dat verzwijgen is geen slimme onderhandelingstactiek maar een aansprakelijkheidsrisico dat de verkoop jaren later nog kan achtervolgen.\n\n**De oppervlakte in de akte.** Wordt een onroerend goed verkocht met vermelding van de oppervlakte, dan geldt een oude maar levende regel uit het (oud) Burgerlijk Wetboek: verschilt de werkelijke maat **meer dan een twintigste** — 5 procent — van wat in de overeenkomst staat, dan kan dat aanleiding geven tot een prijsvermindering of, bij een te grote oppervlakte, tot bijbetaling of afstand van de koop. Bij een klein perceel in de stad is 5 procent sneller bereikt dan u denkt.\n\n**De vrijwaring.** Blijkt na de verkoop dat een deel van wat u verkocht niet van u was, dan spreekt de koper u aan op grond van de vrijwaring voor uitwinning. Een clausule die de oppervlakte niet waarborgt, dekt u niet wanneer u wist wat u verzweeg.\n\nDe praktische keuze komt daarmee neer op drie routes:",
+        table: {
+          headers: ["Route", "Wat u doet", "Realistische doorlooptijd en gevolg"],
+          rows: [
+            ["Eerst afpalen en regelen", "Landmeter-expert, minnelijke afpaling, notariële akte, overschrijving", "Weken tot maanden, daarna verkoopt u een zuiver dossier"],
+            ["Naar de rechter", "Gerechtelijke afpaling of vordering over de grensoverschrijding", "Maanden tot jaren, met een pand dat ondertussen leegstaat"],
+            ["Verkopen met de betwisting erin", "Volledige informatie, opmetingsplan en briefwisseling in het dossier", "Snel, maar de koper prijst het risico in"],
+            ["Verkopen aan een koper die het dossier overneemt", "Uw stukken overdragen aan wie de discussie zelf uitvecht", "Snelst, met een prijs die het risico weerspiegelt"],
+          ],
+        },
+      },
+      {
+        heading: "Zo pakt u het aan als u snel wil verkopen",
+        body: "Een grensdiscussie hoeft uw verkoop niet twee jaar te blokkeren, op voorwaarde dat u het dossier eerst **leesbaar** maakt. Dat is werk van dagen, niet van maanden.\n\n1. Verzamel uw **eigendomstitel** en alle plannen die eraan gehecht zijn, ook de oude verkavelings- of splitsingsplannen.\n2. Zoek alle **briefwisseling** met de buur op, en let daarbij vooral op aangetekende zendingen en op hun datum.\n3. Laat een **beëdigd landmeter-expert** de feitelijke toestand opmeten en op plan zetten. Ook zonder akkoord van de buur is dat plan het enige stuk waarmee iedereen — koper, bank, notaris — over hetzelfde praat.\n4. Vraag uw notaris na te gaan of er ooit een **afpaling werd overgeschreven** en of er iets over de grens in de titels staat.\n5. Beslis pas dán of u eerst regelt of meteen verkoopt. Die volgorde is niet omkeerbaar: wie eerst verkoopt en pas daarna meet, verkoopt blind.",
+      },
+      {
+        heading: "Zo werkt het bij wijkopenpanden.be",
+        body: "Een betwiste grens is voor een particuliere koper vaak een reden om af te haken, en voor zijn bank een reden om niet te financieren. Voor ons is het een dossier dat we kunnen inschatten.\n\n• Wij kopen panden in de **regio Antwerpen** aan in de **staat waarin ze zich bevinden**, ook met een lopende betwisting over de perceelsgrens of een constructie die over de grens staat.\n• U krijgt een **schriftelijk en gemotiveerd bod** na een plaatsbezoek, kosteloos en vrijblijvend, met een duidelijke uitleg van hoe wij het grensrisico waarderen.\n• Wij kopen **met eigen middelen en zonder opschortende voorwaarde van financiering**. Er is dus geen bank die op het laatste moment op de betwisting afhaakt.\n• U beslist mee over de **aktedatum** en werkt met de **notaris van uw keuze**. Wij vragen **geen exclusiviteit** en rekenen **geen commissie**.\n\nEn de grens van wat wij kunnen, zeggen wij er meteen bij. **Wij kunnen niet kopen wat niet van u is.** Staat een deel van uw tuin of gebouw op grond die juridisch van de buur is, dan kopen wij uw perceel zoals het in uw titel staat, plus het risico dat daarbij hoort — niet de strook zelf. Meent u dat die strook u door verjaring toekomt, dan zal ze eerst moeten worden vastgesteld bij vonnis, bij akkoord of bij eenzijdige verklaring. Wij zeggen u vooraf welke van die twee scenario's wij in ons bod hebben ingerekend.",
+      },
+    ],
+    relatedArticles: ["erfdienstbaarheid-recht-van-doorgang-woning-verkopen", "tuin-of-bouwgrond-apart-verkopen-perceel-splitsen", "oude-woning-zonder-bouwvergunning-vermoeden-van-vergunning", "stedenbouwkundige-overtreding-woning-verkopen", "verborgen-gebreken-woning-verkoop-belgie", "vastgoedinformatie-aanvragen-bij-verkoop", "pand-laten-schatten-schattingsverslag", "woning-staat-al-maanden-te-koop", "keuringen-bij-verkoop-woning", "pand-in-slechte-staat-verkopen"],
+    relatedSituations: ["vastgoedopkoper-antwerpen", "pand-snel-verkopen", "opknappand-verkopen", "schatting-pand"],
+    faqs: [
+      {
+        question: "Bewijst het kadastraal plan waar mijn perceelsgrens ligt?",
+        answer:
+          "Nee. Het kadastraal percelenplan is in oorsprong een fiscaal instrument en geeft een grafische benadering van de percelen. Het legt geen eigendomsgrenzen vast, en hetzelfde geldt voor de kaartlagen op Geopunt en voor het GRB. Alleen uw eigendomstitel, een afpaling of een vonnis bepalen de grens juridisch. Wilt u zekerheid, dan is een beëdigd landmeter-expert het startpunt, niet het kadaster.",
+      },
+      {
+        question: "Kan mijn buur weigeren om de grens te laten afpalen?",
+        answer:
+          "Nee. Artikel 3.61 van het Burgerlijk Wetboek bepaalt dat iedere eigenaar of zakelijk gerechtigde de eigenaar van het aanpalende perceel kan verplichten tot afpaling. Komt er geen minnelijk akkoord, dan volgt een gerechtelijke afpaling. De kosten van de afpaling worden in principe gelijk verdeeld tussen de betrokken eigenaars.",
+      },
+      {
+        question: "Mijn aanbouw staat dertig centimeter over de grens. Moet ik afbreken?",
+        answer:
+          "Niet noodzakelijk. Bouwde u te goeder trouw en zou de verwijdering u onevenredig schaden, dan kan de buur geen afbraak eisen: hij kiest dan tussen een opstalrecht voor de duur van het bouwwerk en de overdracht van het noodzakelijke deel van de grond, telkens tegen vergoeding. Bouwde u door nadat de buur u aangetekend gewaarschuwd had, dan ligt het anders: sinds het arrest van het Grondwettelijk Hof van 25 april 2024 kan hij dan wel degelijk verwijdering vorderen binnen een redelijke termijn, ook bij een kleine inname.",
+      },
+      {
+        question: "Ik gebruik die strook al dertig jaar. Is ze nu van mij?",
+        answer:
+          "Mogelijk, maar het gaat niet vanzelf. Verkrijgende verjaring vereist bezit dat voortdurend, ongestoord, openbaar en niet dubbelzinnig is, en uitgeoefend wordt als eigenaar. Loutere gedoogzaamheid door de buur volstaat niet. De termijn is tien jaar bij goede trouw bij aanvang van het bezit en dertig jaar bij kwade trouw. Bovendien moet de verjaring worden vastgesteld: bij vonnis, bij akkoord met wie het bezit verloor, of bij eenzijdige verklaring van die persoon. Zonder die vaststelling verkoopt u een aanspraak, geen eigendom.",
+      },
+      {
+        question: "Moet ik een lopende grensbetwisting melden aan mijn koper?",
+        answer:
+          "Ja. U moet uw koper inlichten over wat u weet, en een betwisting over de grens hoort daar zonder twijfel bij. Verzwijgen is geen onderhandelingstactiek maar een aansprakelijkheidsrisico: blijkt achteraf dat een deel van het verkochte niet van u was, dan spreekt de koper u aan op grond van de vrijwaring, en een clausule die de oppervlakte niet waarborgt beschermt u niet wanneer u wist wat u niet vertelde.",
+      },
+      {
+        question: "Wat als de opgemeten oppervlakte kleiner blijkt dan in de akte staat?",
+        answer:
+          "Wordt een onroerend goed verkocht met vermelding van de oppervlakte, dan kan een afwijking van meer dan een twintigste — 5 procent — tussen de werkelijke en de vermelde maat aanleiding geven tot een prijsvermindering ten voordele van de koper, of bij een grotere oppervlakte tot bijbetaling of afstand van de koop. Bij kleine stadspercelen is die drempel snel bereikt. Laat de oppervlakte dus opmeten vóór ze in een compromis belandt.",
+      },
+    ],
+  },
+  {
+    slug: "familielid-woont-gratis-in-woning-verkopen",
+    title: "Een familielid woont gratis in de woning die u wilt verkopen: bruikleen, opzeg en bezettingsvergoeding",
+    metaTitle: "Familielid woont gratis in uw woning: zo verkoopt u",
+    metaDescription:
+      "Gratis bewoning is bruikleen, geen huur. Hoe u ze correct beëindigt, welke bezettingsvergoeding een erfgenaam verschuldigd is en hoe u de woning toch verkoopt.",
+    publishedAt: "2026-08-22",
+    updatedAt: "2026-08-22",
+    intro:
+      "Woont een familielid gratis in uw woning, dan is dat juridisch geen huur maar bruikleen. Dat verschil bepaalt alles. Een bruikleen zonder afgesproken einddatum kunt u opzeggen, maar enkel met een redelijke opzegtermijn, en bij betwisting bepaalt de rechter hoe lang die moet zijn. Er is geen automatische uitzetting, en de bewoner vertrekt niet op de dag van de notariële akte omdat u dat zo met uw koper afsprak. Gaat het om een geërfde woning waarin één erfgenaam blijft wonen, dan is die vanaf het overlijden in principe een bezettingsvergoeding verschuldigd aan de onverdeeldheid — een post die bij de verdeling wordt verrekend en die vaak de sleutel is om een geblokkeerd dossier los te trekken.",
+    sections: [
+      {
+        heading: "Huur, bruikleen of bezetting ter bede: het etiket bepaalt uw rechten",
+        body: "Drie situaties die er van buitenaf hetzelfde uitzien, maar juridisch niets met elkaar te maken hebben. Wie de verkeerde veronderstelt, zet de verkeerde stap.\n\n**Huur** vraagt wilsovereenstemming over het goed, de prijs en een zekere duur. Is er een prijs, dan is er huur — ook als niemand ooit een contract op papier zette.\n\n**Bruikleen** is de kosteloze terbeschikkingstelling van een zaak om ervan gebruik te maken, met de verplichting ze terug te geven. Het is een oude figuur uit het Burgerlijk Wetboek (artikel 1875 en volgende) en het kenmerk is precies dat er **geen tegenprestatie** tegenover staat.\n\n**Bezetting ter bede** is een gebruik op precaire titel: de eigenaar kan er op elk ogenblik een einde aan maken, zonder bijzondere motivering. Het is bedoeld voor tijdelijke, onzekere toestanden.",
+        table: {
+          headers: ["", "Huur", "Bruikleen", "Bezetting ter bede"],
+          rows: [
+            ["Is er een tegenprestatie?", "Ja, een huurprijs", "Nee, kosteloos", "Meestal een vergoeding, maar zonder zekere duur"],
+            ["Hoe eindigt het?", "Volgens het huurcontract en de huurwetgeving", "Door opzeg met een redelijke termijn", "Op elk ogenblik, mits korte opzeg"],
+            ["Blijft het gelden na de verkoop?", "In beginsel ja, koop breekt geen huur", "Niet automatisch, maar de bewoner zit er wel", "Nee, de nieuwe eigenaar beëindigt het"],
+            ["Gelden de Vlaamse woningkwaliteitsnormen?", "Ja", "Ja, ook bij gratis terbeschikkingstelling", "Ja"],
+            ["Grootste risico voor u", "Opzegregels en opzegvergoeding", "Herkwalificatie tot huur", "Herkwalificatie tot huur"],
+          ],
+        },
+      },
+      {
+        heading: "Waarom uw etiket niet doorslaggevend is",
+        body: "Dit is het punt dat eigenaars het vaakst verkeerd inschatten: de rechter kijkt naar de **feitelijke verhouding**, niet naar het woord dat u erop plakte. Een overeenkomst \"bezetting ter bede\" noemen maakt ze nog geen bezetting ter bede.\n\nEn er is één detail waarmee gratis bewoning stilletjes in huur verandert: een **tegenprestatie**. Betaalt uw neef elke maand een vast bedrag \"voor de kosten\"? Neemt uw zus de onroerende voorheffing op zich in ruil voor het wonen? Dan bestaat de kans dat een rechter daarin een huurprijs ziet — en dan valt u onder de huurwetgeving, met opzegtermijnen en opzegvergoedingen, en met de regel dat een geregistreerde huurovereenkomst de verkoop overleeft.\n\nWilt u dat vermijden, dan is er maar één juiste volgorde. **Zet vóór de verkoop op papier wat de situatie werkelijk is**, met de datum vanaf wanneer, en met de uitdrukkelijke vermelding dat er geen huurprijs bedongen is en dat het gebruik kosteloos is. Doe dat rustig en in overleg, en niet pas op het moment dat u een koper aan de lijn hebt. Wij zetten de regels bij een echte huurovereenkomst in een apart artikel uiteen.",
+      },
+      {
+        heading: "Hoe u een gratis bewoning correct beëindigt",
+        body: "Een bruikleen voor onbepaalde duur is **opzegbaar** — dat staat vast. Maar de opzegging mag noch ontijdig, noch onredelijk zijn: er moet een **redelijke opzegtermijn** in acht genomen worden. Is daarover geen akkoord, dan bepaalt de rechter die termijn in concreto, onder meer rekening houdend met hoelang de situatie al duurt.\n\nDat maakt van tijd uw belangrijkste bondgenoot. Iemand die er twintig jaar woont, krijgt van een rechter geen maand.\n\nDe volgorde die werkt:\n\n1. **Praat eerst.** Leg uit dat u verkoopt, waarom, en tegen wanneer. Verrassing is in dit soort dossiers de duurste strategie die bestaat.\n2. **Bevestig schriftelijk.** Een aangetekende brief met een duidelijke einddatum en een redelijke termijn. Dat is geen vijandige daad, het is het stuk waarop later alles steunt.\n3. **Maak de termijn ruim genoeg om verdedigbaar te zijn.** Bij een langdurige bewoning is enkele maanden realistischer dan enkele weken.\n4. **Help waar u kan.** Een gevonden alternatief lost dit sneller op dan gelijk hebben.\n5. **Blijft de bewoner zitten**, dan hebt u een **uitvoerbare titel** nodig: een dagvaarding, een vonnis en pas daarna een gerechtsdeurwaarder.\n\nEn de regel waarop de meeste verkopen stranden: **u zet niemand zelf buiten.** Sloten vervangen, spullen buitenzetten of nutsvoorzieningen afsluiten is eigenrichting. U verliest daarmee niet alleen uw gelijk, maar riskeert ook zelf aansprakelijk te worden.",
+      },
+      {
+        heading: "De bezettingsvergoeding: het bedrag waarover niemand het heeft",
+        body: "Bij een geërfde woning ligt het anders, en veel harder. Van zodra de nalatenschap openvalt, zitten de erfgenamen in **onverdeeldheid**. Artikel 3.71 van het Burgerlijk Wetboek zegt daarover iets kort en beslissend: elke mede-eigenaar heeft recht op het materiële gebruik en het genot van het onverdeelde goed, overeenkomstig zijn bestemming, **zonder dat dit gebruik en genot zijn evenredig aandeel te buiten gaan**.\n\nWie in zijn eentje in de woning blijft wonen, gebruikt meer dan zijn aandeel. Daarom is hij in beginsel een **bezettingsvergoeding** verschuldigd aan de onverdeeldheid, ten belope van het aandeel van de anderen. Dat is geen boete en geen huur: het is een vergoeding voor het exclusieve genot, en ze wordt bij de verdeling verrekend.\n\nHoe dat oploopt, ziet u het best in cijfers. Neem een woning met een huurwaarde van 900 euro per maand en drie erfgenamen die elk een derde hebben:",
+        table: {
+          headers: ["Periode van exclusieve bewoning", "Vergoeding per maand aan de twee anderen", "Totaal dat bij de verdeling verrekend wordt"],
+          rows: [
+            ["6 maanden", "600 euro", "3.600 euro"],
+            ["1 jaar", "600 euro", "7.200 euro"],
+            ["2 jaar", "600 euro", "14.400 euro"],
+            ["3 jaar", "600 euro", "21.600 euro"],
+            ["5 jaar", "600 euro", "36.000 euro"],
+          ],
+        },
+      },
+      {
+        heading: "Waarom dat cijfer dossiers deblokkeert",
+        body: "In veel nalatenschappen zit de blokkade niet in het recht maar in de traagheid: één erfgenaam woont er, heeft geen haast, en de anderen wachten. Wie dan met een cijfer op tafel komt, verandert de verhouding.\n\nDrie zaken die u daarbij moet weten:\n\n• De vergoeding loopt in principe **vanaf het overlijden**, niet vanaf het moment waarop iemand er voor het eerst over begint. Zwijgen kost u dus geen rechten, al is vroeg en schriftelijk vragen altijd verstandiger.\n• De vergoeding wordt begroot op de **huurwaarde** van het pand, pro rata het aandeel van de andere deelgenoten. Een schattingsverslag of een gemotiveerde waardebepaling maakt dat gesprek zakelijk in plaats van emotioneel.\n• De bewoner draagt daar tegenover ook zijn deel van de lasten en de kosten die hij betaalde. Verrekening gaat in twee richtingen: onderhoud, verzekering en onroerende voorheffing die hij voorschoot, komen mee in de eindafrekening.\n\nEn dan de scheidingslijn die het vaakst tot ruzie leidt: de periode **vóór** het overlijden. Woonde een kind jarenlang gratis in de woning van zijn ouders, dan stellen broers en zussen achteraf vaak dat dat voordeel een gift was die in de nalatenschap moet worden ingebracht. Dat is een discussie over de bedoeling van de overleden ouder, en die is na zijn dood bijzonder moeilijk te bewijzen. Wie dat wil vermijden, regelt het **bij leven**: door een — desnoods lage — huurprijs af te spreken, of door in het testament uitdrukkelijk te bepalen of het gratis wonen als voorschot op de erfenis geldt dan wel bovenop het erfdeel komt.\n\nEen erfgenaam kan overigens **te allen tijde de verdeling vorderen** (artikel 3.75 van het Burgerlijk Wetboek). Niemand kan gedwongen in onverdeeldheid blijven. Hoe die weg concreet loopt, leest u in ons artikel over de mede-eigenaar die niet wil verkopen.",
+      },
+      {
+        heading: "Wat u ondertussen wél moet: woningkwaliteit, verzekering en belastingen",
+        body: "Gratis bewoning ontslaat u niet van uw verplichtingen als eigenaar. Integendeel: op enkele punten is het risico groter dan bij verhuur, precies omdat niemand er formeel mee bezig is.\n\n**Woningkwaliteit.** De Vlaamse woningkwaliteitsnormen gelden ook wanneer u een woning **kosteloos ter beschikking stelt**. Een woning verhuren, te huur stellen óf ter beschikking stellen die niet aan de minimale veiligheids-, gezondheids- en kwaliteitsnormen voldoet, is strafbaar. Een woning die niet meer voldoet, kan bovendien ongeschikt of onbewoonbaar worden verklaard, met een inventaris en een heffing als gevolg.\n\n**Verzekering.** Uw bewoner is geen huurder. Kijk uw brandpolis na: staat de woning als bewoond of als leegstaand geregistreerd, en is er dekking voor de aansprakelijkheid van wie er woont? Dit is een telefoontje van vijf minuten dat een schadegeval van tienduizenden euro's kan schelen.\n\n**Belastingen.** U blijft eigenaar, dus u blijft de **onroerende voorheffing** betalen. In de personenbelasting zijn er geen huurinkomsten aan te geven, maar wordt u belast op basis van het kadastraal inkomen volgens de regels voor een woning die u niet zelf betrekt.\n\n**Domicilie.** Is de bewoner op het adres ingeschreven, dan verdwijnt die inschrijving niet door de verkoop en evenmin doordat u ze vraagt te schrappen. Ze volgt de werkelijke verblijfplaats, en de gemeente stelt die vast. Reken dus niet op de akte om dat op te lossen.",
+      },
+      {
+        heading: "Verkopen met de bewoner erin",
+        body: "U hoeft niet te wachten tot het pand leeg is om te verkopen. U moet alleen weten wat u verkoopt — en het zo ook aanbieden.\n\nDe drie varianten, met hun gevolgen:",
+        table: {
+          headers: ["Variant", "Wat de koper krijgt", "Wat het u kost of oplevert"],
+          rows: [
+            ["Vrij van gebruik bij de akte", "Een leeg pand op de aktedatum", "De hoogste prijs, maar u draagt het risico dat de bewoner niet tijdig weg is"],
+            ["Verkocht in bewoonde staat", "Een pand met een bewoner en een dossier", "Een lagere prijs, maar zekerheid en geen conflict"],
+            ["Akte uitgesteld tot na het vertrek", "Zekerheid, met wachttijd", "Prijs blijft intact, doorlooptijd loopt op"],
+            ["Verkocht met een schriftelijke vertrekafspraak", "Een concrete datum, ondertekend door de bewoner", "Vaak het beste evenwicht tussen prijs en zekerheid"],
+          ],
+        },
+      },
+      {
+        heading: "De clausule die u niet mag ondertekenen",
+        body: "Let op met de standaardclausule **\"het pand wordt vrij van gebruik en bewoning geleverd\"** in een compromis, zolang u niet zwart op wit hebt dat uw familielid tegen die datum vertrekt.\n\nMet die ene zin neemt u een resultaatsverbintenis op u waarvan de uitvoering bij iemand anders ligt. Vertrekt de bewoner niet, dan bent u het die in gebreke is tegenover uw koper, met schadevergoeding, een uitgestelde akte of een verbroken verkoop als gevolg — bovenop een familieconflict.\n\nDe veilige volgorde is dus omgekeerd: **eerst de vertrekafspraak, dan de compromis.** Krijgt u die afspraak niet, verkoop dan uitdrukkelijk in bewoonde staat en laat de prijs dat weerspiegelen. Dat is geen zwakte in de onderhandeling, dat is het vermijden van de enige fout die in dit dossier echt duur is.",
+      },
+      {
+        heading: "Zo werkt het bij wijkopenpanden.be",
+        body: "Een pand waar een familielid woont, is voor een particuliere koper doorgaans geen optie: die wil er zelf in, op een vaste datum, en zijn bank rekent daarop. Voor ons ligt dat anders.\n\n• Wij kopen panden in de **regio Antwerpen** aan in de **staat waarin ze zich bevinden**, inboedel inbegrepen. U hoeft niets te ruimen en niets op te knappen.\n• Wij kunnen kopen **met de bewoner erin**, of met een **afgesproken vertrekdatum**, of met een **latere aktedatum** die u de tijd geeft om het rustig te regelen. U kiest de variant.\n• Wij kopen **met eigen middelen en zonder opschortende voorwaarde van financiering**. Er is dus geen bank die op de bewoningssituatie afhaakt.\n• U werkt met de **notaris van uw keuze**, wij vragen **geen exclusiviteit** en rekenen **geen commissie**.\n• U krijgt een **schriftelijk en gemotiveerd bod** na een plaatsbezoek. Bij een nalatenschap is dat cijfer dubbel nuttig: het is meteen de basis om de bezettingsvergoeding en de verdeling zakelijk te bespreken.\n\nWat wij **niet** doen, zeggen wij er meteen bij. **Wij zetten niemand buiten.** Wij vragen u ook niet om dat te doen, en wij nemen geen dossiers aan waarin wij als koper de discussie met uw familie zouden moeten voeren. Blijft de bewoner zitten zonder akkoord, dan is de weg een dagvaarding en een vonnis — dat is werk voor uw advocaat, niet voor ons. Wat wij wél leveren, is een vaste prijs en een datum waarop u kunt rekenen, zodat het gesprek binnen de familie eindelijk over iets concreets gaat.",
+      },
+    ],
+    relatedArticles: ["erfenis-woning-stappenplan", "mede-eigenaar-wil-niet-verkopen-uit-onverdeeldheid", "mede-eigendom-verkopen", "huurder-rechten-bij-verkoop-woning", "woning-verkopen-met-krakers-of-domiciliefraude", "woning-verkopen-aan-familielid", "ongeschikt-onbewoonbaar-verklaarde-woning-verkopen", "erfenis-met-schulden-woning-verkopen", "woning-verkopen-verhuis-woonzorgcentrum", "kadastraal-inkomen-en-woningverkoop"],
+    relatedSituations: ["huis-verkopen-bij-erfenis", "vastgoedopkoper-antwerpen", "pand-snel-verkopen", "pand-met-huurders-verkopen"],
+    faqs: [
+      {
+        question: "Mijn broer woont gratis in het ouderlijk huis. Kan ik hem laten vertrekken?",
+        answer:
+          "Niet van vandaag op morgen, maar u kunt het wel afdwingen. Gratis bewoning zonder afgesproken einddatum is een bruikleen voor onbepaalde duur, en die is opzegbaar mits een redelijke opzegtermijn. Hoe lang die moet zijn, hangt onder meer af van hoelang de situatie al duurt; bij betwisting bepaalt de rechter ze. Bevestig uw opzeg aangetekend met een duidelijke einddatum. Blijft hij zitten, dan hebt u een vonnis nodig voor een gerechtsdeurwaarder kan optreden. Zelf de sloten vervangen mag niet.",
+      },
+      {
+        question: "Moet een erfgenaam die in de woning blijft wonen betalen?",
+        answer:
+          "In principe wel. Artikel 3.71 van het Burgerlijk Wetboek bepaalt dat het gebruik en genot van een mede-eigenaar zijn evenredig aandeel niet te buiten mogen gaan. Wie alleen in de geërfde woning woont, gebruikt meer dan zijn deel en is daarom een bezettingsvergoeding verschuldigd aan de onverdeeldheid, ten belope van het aandeel van de anderen. Ze wordt begroot op de huurwaarde en bij de verdeling verrekend. Kosten die de bewoner voorschoot, worden in de andere richting verrekend.",
+      },
+      {
+        question: "Vanaf wanneer loopt die bezettingsvergoeding?",
+        answer:
+          "In principe vanaf het openvallen van de nalatenschap, dus vanaf het overlijden, en niet pas vanaf het moment waarop iemand ze voor het eerst vraagt. Vraag ze niettemin vroeg en schriftelijk: dat maakt de discussie zakelijk en voorkomt dat het gesprek pas bij de verdeling begint, wanneer de bedragen al fors zijn opgelopen. Een schattingsverslag of gemotiveerde waardebepaling van de huurwaarde helpt daarbij.",
+      },
+      {
+        question: "Geldt koop breekt geen huur ook bij gratis bewoning?",
+        answer:
+          "Nee, want er is geen huur. Een bruikleen is geen huurovereenkomst en de bescherming van de huurwetgeving speelt dus niet. Let wel op de herkwalificatie: betaalt de bewoner een vast maandelijks bedrag of neemt hij lasten op zich als tegenprestatie voor het wonen, dan kan een rechter daarin toch een huurprijs zien. Zet daarom vóór de verkoop schriftelijk vast dat het gebruik kosteloos is en dat er geen huurprijs bedongen werd.",
+      },
+      {
+        question: "Moet mijn woning aan de woningkwaliteitsnormen voldoen als er niemand huur betaalt?",
+        answer:
+          "Ja. De Vlaamse woningkwaliteitsnormen gelden ook wanneer u een woning kosteloos ter beschikking stelt. Een woning verhuren, te huur stellen of ter beschikking stellen die niet aan de minimale veiligheids-, gezondheids- en woningkwaliteitsnormen voldoet, is strafbaar. De woning kan bovendien ongeschikt of onbewoonbaar worden verklaard, wat leidt tot opname in een inventaris en tot een heffing.",
+      },
+      {
+        question: "Kan ik verkopen terwijl mijn familielid er nog woont?",
+        answer:
+          "Ja, op voorwaarde dat u het pand ook zo aanbiedt. De grootste fout is een compromis tekenen met de clausule dat het pand vrij van gebruik en bewoning geleverd wordt, zonder dat u een schriftelijke vertrekafspraak met de bewoner hebt. U neemt dan een verbintenis op u waarvan de uitvoering bij iemand anders ligt. Regel eerst de vertrekdatum, of verkoop uitdrukkelijk in bewoonde staat en laat de prijs dat weerspiegelen.",
       },
     ],
   },
