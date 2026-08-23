@@ -44,7 +44,7 @@ export const articles: Article[] = [
         body: "Formeel wel, maar in de praktijk is de marge beperkt. De meeste makelaars hanteren een standaardtarief en wijken hier alleen van af bij uitzonderlijke omstandigheden (zeer waardevolle woning, exclusieve opdracht, meerdere dossiers tegelijk).\n\nVoorts is er een psychologisch element: een makelaar die zijn tarief snel verlaagt, geeft impliciet aan dat hij ook bij de onderhandeling met de koper snel toegeeft. Of dat zo is, kunt u moeilijk controleren.\n\nAlternatief zijn no-cure-no-pay-makelaars (alleen commissie bij verkoop, geen vaste kosten vooraf) en online platformen die een lager tarief rekenen maar minder diensten bieden. Bij beide opties blijft de eigenaar meer betrokken in het verkoopproces.",
       },
     ],
-    relatedArticles: ["notariskosten-woning-verkoop", "keuringen-bij-verkoop-woning", "hoelang-duurt-huis-verkopen-belgie", "compromis-verkoop-woning-belgie", "makelaarscontract-opzeggen-en-zelf-verkopen"],
+    relatedArticles: ["notariskosten-woning-verkoop", "keuringen-bij-verkoop-woning", "hoelang-duurt-huis-verkopen-belgie", "compromis-verkoop-woning-belgie", "makelaarscontract-opzeggen-en-zelf-verkopen", "discreet-verkopen-zonder-publiciteit"],
     relatedSituations: ["verkopen-zonder-makelaar", "huis-verkopen-bij-erfenis"],
     faqs: [
       {
@@ -452,7 +452,7 @@ export const articles: Article[] = [
         body: "Lijfrente is het meest interessant voor:\n\n• Senioren zonder kinderen of met kinderen die de woning niet nodig hebben\n• Eigenaars die aanvullend inkomen willen naast het pensioen\n• Eigenaars die niet willen verhuizen maar wel hun vermogen willen liquideren\n• Situaties waarbij erfgenamen geen interesse hebben in de woning\n\nWijkopenpanden.be biedt lijfrenteverkoop aan als een van de mogelijke formules. Wij berekenen kosteloos de mogelijke lijfrente voor uw woning en bespreken alle opties met u.",
       },
     ],
-    relatedArticles: ["blijven-wonen-na-verkoop", "verkoop-kosten-berekenen"],
+    relatedArticles: ["blijven-wonen-na-verkoop", "verkoop-kosten-berekenen", "verkoop-woning-invloed-op-uitkering-leefloon-igo"],
     relatedSituations: ["lijfrente-antwerpen"],
     faqs: [
       {
@@ -1014,7 +1014,7 @@ export const articles: Article[] = [
         },
       },
     ],
-    relatedArticles: ["commissie-makelaar-belgie", "keuringen-bij-verkoop-woning", "notariskosten-woning-verkoop", "verkoop-kosten-berekenen", "belastingen-bij-woningverkoop", "huis-verkopen-bij-betalingsproblemen-schulden"],
+    relatedArticles: ["commissie-makelaar-belgie", "keuringen-bij-verkoop-woning", "notariskosten-woning-verkoop", "verkoop-kosten-berekenen", "belastingen-bij-woningverkoop", "huis-verkopen-bij-betalingsproblemen-schulden", "discreet-verkopen-zonder-publiciteit"],
     relatedSituations: ["verkopen-zonder-makelaar", "opknappand-verkopen", "huis-verkopen-bij-erfenis", "huis-snel-verkopen"],
     faqs: [
       {
@@ -1543,7 +1543,7 @@ export const articles: Article[] = [
         body: "Ondanks de nadelen is lijfrente in specifieke situaties uitstekend geschikt:\n\n• U bent 70 jaar of ouder en eigenaar van uw woning\n• Uw wettelijk pensioen is onvoldoende om comfortabel te leven\n• U wilt in uw woning blijven wonen en niet verhuizen naar een appartementsgebouw of serviceflat\n• U heeft geen erfgenamen of heeft bewust gekozen om de woning niet na te laten\n• U heeft geen behoefte aan een groot eenmalig kapitaal maar wél aan een stabiel maandelijks inkomen\n• U wilt de woning niet verhuren maar ook niet gewoon leeg laten staan\n\nVoor eigenaars die aan dit profiel voldoen, biedt lijfrente een combinatie van woonzekerheid en financiële rust die geen enkele andere formule biedt.",
       },
     ],
-    relatedArticles: ["wat-is-een-vastgoedopkoper", "verhuren-of-verkopen-antwerpen", "wanneer-beste-moment-woning-verkopen"],
+    relatedArticles: ["wat-is-een-vastgoedopkoper", "verhuren-of-verkopen-antwerpen", "wanneer-beste-moment-woning-verkopen", "verkoop-woning-invloed-op-uitkering-leefloon-igo"],
     relatedSituations: ["lijfrente-antwerpen", "blijven-wonen"],
     faqs: [
       {
@@ -1849,7 +1849,7 @@ export const articles: Article[] = [
         body: "Ja — maar enkel als het busnummer administratief beschikbaar is (tijdelijk of definitief) zodat het EPC kan worden opgemaakt. Zonder EPC is verkopen wettelijk niet mogelijk.\n\nAls het busnummer beschikbaar is maar de onderliggende overtreding niet geregulariseerd, gelden de regels van de stedenbouwkundige overtreding bij verkoop:\n\n• De overtreding moet worden vermeld in het maatregelenregister (verplicht in Antwerpen sinds april 2026)\n• De koper wordt bij de akte geïnformeerd over de overtreding\n• De koper neemt de overtreding en de eventuele handhavingsrisico's over\n\nVoor particuliere kopers die de woning zelf willen bewonen, is een onvergunde wooneenheid een risico. Voor professionele vastgoedopkopers die zelf regulariseren of voor eigen gebruik verbouwen, is het een courante situatie.\n\nWijkopenpanden.be koopt panden met busnummer-problematiek en stedenbouwkundige overtredingen aan in de Antwerpse regio. Wij nemen de administratieve situatie volledig op ons — u verkoopt as-is, zonder voorafgaande regularisatie of extra attesten.",
       },
     ],
-    relatedArticles: ["stedenbouwkundige-overtreding-woning-verkopen", "keuringen-bij-verkoop-woning", "leegstandsheffing-antwerpen-2026", "oude-woning-zonder-bouwvergunning-vermoeden-van-vergunning"],
+    relatedArticles: ["stedenbouwkundige-overtreding-woning-verkopen", "keuringen-bij-verkoop-woning", "leegstandsheffing-antwerpen-2026", "oude-woning-zonder-bouwvergunning-vermoeden-van-vergunning", "zorgwoning-kangoeroewoning-verkopen"],
     relatedSituations: ["opknappand-verkopen", "verkopen-zonder-makelaar"],
     faqs: [
       {
@@ -2166,7 +2166,7 @@ export const articles: Article[] = [
       {
         question: "Is de maandelijkse lijfrente belastbaar als inkomen?",
         answer:
-          "Nee, de maandelijkse lijfrente-uitkering wordt in België niet beschouwd als belastbaar inkomen in de personenbelasting. Ze heeft ook geen invloed op sociale uitkeringen of pensioenen. Uitzondering: als de woning commercieel werd gebruikt of aan een vennootschap wordt verkocht, kunnen de regels afwijken.",
+          "Nee, de maandelijkse lijfrente-uitkering wordt in België niet beschouwd als belastbaar inkomen in de personenbelasting. Op uw wettelijk pensioen heeft ze geen invloed. Let wel op met bijstandsuitkeringen: het leefloon en de inkomensgarantie voor ouderen vertrekken van een onderzoek naar uw bestaansmiddelen en rekenen een afstand van onroerend goed in de tien jaar vóór de aanvraag mee — een lijfrenteverkoop is zo'n afstand. Laat dat vooraf berekenen; zie ons artikel over de invloed van een verkoop op uw uitkering. Uitzondering: als de woning commercieel werd gebruikt of aan een vennootschap wordt verkocht, kunnen de regels afwijken.",
       },
       {
         question: "Is een lijfrente op twee levens beter voor koppels?",
@@ -2343,7 +2343,7 @@ export const articles: Article[] = [
         body: "Een schenking is onherroepelijk. Eens de akte getekend en geregistreerd, kunt u de schenking niet zomaar terugdraaien. Er zijn uitzonderingen (ondankbaarheid van de begiftigde, niet-nakoming van lasten), maar die zijn beperkt.\n\nSamentellingsregel:\nAls u aan dezelfde persoon meerdere schenkingen van onroerend goed doet binnen drie jaar, worden alle waarden samengeteld voor de progressieve berekening van de schenkbelasting. Een tweede schenking binnen drie jaar kan daardoor in een hogere schijf vallen. Spreid schenkingen over meer dan drie jaar als u van de laagste schijf wil blijven genieten.\n\nOpduweffect bij overlijden:\nAls u overlijdt binnen drie jaar na de schenking, wordt de waarde van het geschonken goed fictief opgeteld bij de nalatenschap voor de berekening van de erfbelasting op andere geërfde goederen. Het geschonken goed zelf wordt niet opnieuw belast — de schenkbelasting werd al betaald — maar de extra waarde kan de resterende goederen in een hogere erfbelastingschijf duwen. Bespreek dit risico met uw notaris als u een gezondheidssituatie heeft die dit relevant maakt.\n\nBelang van goede clausules:\n• Een terugkeerbeding zorgt ervoor dat het goed automatisch naar u terugkeert als de begiftigde vóór u overlijdt (zonder erfbelasting op die terugkeer)\n• Een verbod op vervreemding kan voorkomen dat de begiftigde het goed snel verkoopt\n• Lasten opleggen (bv. u financieel ondersteunen) is mogelijk maar moet juridisch correct worden opgesteld\n\nHypotheek op de geschonken woning:\nAls er een hypotheek rust op de woning die u schenkt, moet dat worden meegedeeld. De begiftigde kan de lening overnemen of u laat de lening aflossen voor de schenking. Een notaris zal u dit precies uitleggen.\n\nGelijkheid tussen kinderen (inbreng en inkorting):\nEen schenking telt als een voorschot op de erfenis, tenzij u uitdrukkelijk 'buiten erfdeel' schenkt. Dit heeft gevolgen voor de verdeling van de rest van uw nalatenschap. Laat u hierover adviseren door de notaris als u meerdere kinderen heeft.",
       },
     ],
-    relatedArticles: ["erfbelasting-vlaanderen-2026", "notariskosten-woning-verkoop", "belastingen-bij-woningverkoop", "woning-verkopen-aan-familielid", "blote-eigendom-verkopen"],
+    relatedArticles: ["erfbelasting-vlaanderen-2026", "notariskosten-woning-verkoop", "belastingen-bij-woningverkoop", "woning-verkopen-aan-familielid", "blote-eigendom-verkopen", "verkoop-woning-invloed-op-uitkering-leefloon-igo"],
     relatedSituations: ["huis-verkopen-bij-erfenis", "verkopen-zonder-makelaar"],
     faqs: [
       {
@@ -2567,7 +2567,7 @@ export const articles: Article[] = [
         body: "Als uw woning al maanden te koop staat en u de wachttijd, de onzekerheid of de oplopende kosten beu bent, is een rechtstreekse verkoop aan wijkopenpanden.be een uitweg.\n\nWij kopen uw woning rechtstreeks aan, zonder makelaar en zonder commissie. U hoeft geen nieuwe foto's te laten maken, geen bezichtigingen meer te organiseren en geen te-koop-bord te plaatsen. Wij brengen na een bezoek een concreet, schriftelijk bod uit en u kiest zelf de datum van de akte.\n\nVoor een woning die niet verkocht raakt op de klassieke markt — door staat, dossier of het verkeerde publiek — biedt dit zekerheid in plaats van opnieuw maanden afwachten. U weegt zelf af of de zekerheid en de bespaarde kosten opwegen tegen het verschil met een onzekere verkoopprijs op termijn.",
       },
     ],
-    relatedArticles: ["wat-is-mijn-woning-waard-antwerpen", "hoelang-duurt-huis-verkopen-belgie", "commissie-makelaar-belgie", "pand-in-slechte-staat-verkopen", "huis-verkopen-bij-betalingsproblemen-schulden", "wanneer-beste-moment-woning-verkopen", "makelaarscontract-opzeggen-en-zelf-verkopen"],
+    relatedArticles: ["wat-is-mijn-woning-waard-antwerpen", "hoelang-duurt-huis-verkopen-belgie", "commissie-makelaar-belgie", "pand-in-slechte-staat-verkopen", "huis-verkopen-bij-betalingsproblemen-schulden", "wanneer-beste-moment-woning-verkopen", "makelaarscontract-opzeggen-en-zelf-verkopen", "discreet-verkopen-zonder-publiciteit"],
     relatedSituations: ["verkopen-zonder-makelaar", "opknappand-verkopen", "huis-snel-verkopen"],
     faqs: [
       {
@@ -2671,7 +2671,7 @@ export const articles: Article[] = [
         body: "Bij betalingsproblemen telt vooral snelheid en zekerheid. wijkopenpanden.be koopt uw woning rechtstreeks aan, zonder makelaar en zonder commissie, en brengt na een bezoek een concreet, schriftelijk bod uit.\n\nVoor wie onder druk staat, biedt dat drie voordelen: u krijgt snel duidelijkheid over wat de woning oplevert, u vermijdt maandenlange onzekerheid en bijkomende kosten, en de verkoop verloopt discreet, zonder publieke advertentie of veiling. Dringende dossiers behandelen wij met voorrang.\n\nWij kopen aan in alle situaties — met een lopende hypotheek, bij beslag of binnen een schuldenregeling — en coördineren met uw notaris voor een vlotte afhandeling. Een vrijblijvend bod aanvragen verplicht u tot niets en geeft u een concreet vergelijkingspunt om uw situatie te beoordelen.",
       },
     ],
-    relatedArticles: ["huis-verkopen-met-hypotheek", "snel-geld-vrijmaken-woning", "mede-eigendom-verkopen", "woning-staat-al-maanden-te-koop", "hoelang-duurt-huis-verkopen-belgie", "verkoop-kosten-berekenen", "woning-verkopen-met-beslag", "belastingschulden-bij-verkoop-notariele-notificatie", "woning-verkopen-bij-faillissement-curator", "woning-verkopen-in-collectieve-schuldenregeling", "erfenis-met-schulden-woning-verkopen"],
+    relatedArticles: ["huis-verkopen-met-hypotheek", "snel-geld-vrijmaken-woning", "mede-eigendom-verkopen", "woning-staat-al-maanden-te-koop", "hoelang-duurt-huis-verkopen-belgie", "verkoop-kosten-berekenen", "woning-verkopen-met-beslag", "belastingschulden-bij-verkoop-notariele-notificatie", "woning-verkopen-bij-faillissement-curator", "woning-verkopen-in-collectieve-schuldenregeling", "erfenis-met-schulden-woning-verkopen", "verkoop-woning-invloed-op-uitkering-leefloon-igo"],
     relatedSituations: ["verkopen-zonder-makelaar", "huis-verkopen-bij-scheiding"],
     faqs: [
       {
@@ -2901,7 +2901,7 @@ export const articles: Article[] = [
         body: "Geen van beide is altijd beter — het hangt af van uw situatie.\n\nEen **makelaar** is interessant als:\n• Uw woning in goede staat is en vlot verkoopt op de markt\n• U geen haast heeft en de hoogst mogelijke brutoprijs wilt nastreven\n• U geen bezwaar heeft tegen bezichtigingen en wachttijd\n\nEen **opkoper** is interessant als:\n• U snel of op een gekozen datum zekerheid wilt\n• U niet wilt of kunt renoveren vóór de verkoop\n• U discreet wilt verkopen, zonder bezichtigingen of advertentie\n• U een pand verkoopt dat de doorsnee koper niet zoekt (opknappand, opbrengsteigendom, verhuurd pand)\n• U gedoe en bijkomende kosten wilt vermijden\n\nTwijfelt u? Een vrijblijvend bod aanvragen kost niets en geeft u een concreet vergelijkingspunt naast een schatting van een makelaar.",
       },
     ],
-    relatedArticles: ["commissie-makelaar-belgie", "wat-is-een-vastgoedopkoper", "hoelang-duurt-huis-verkopen-belgie", "betrouwbaar-verkopen-aan-opkoper", "bod-aanvragen-vrijblijvend-bindend", "verkoop-kosten-berekenen", "makelaarscontract-opzeggen-en-zelf-verkopen", "huis-verkopen-aan-opkoper-verstandig", "pand-verkopen-aan-projectontwikkelaar"],
+    relatedArticles: ["commissie-makelaar-belgie", "wat-is-een-vastgoedopkoper", "hoelang-duurt-huis-verkopen-belgie", "betrouwbaar-verkopen-aan-opkoper", "bod-aanvragen-vrijblijvend-bindend", "verkoop-kosten-berekenen", "makelaarscontract-opzeggen-en-zelf-verkopen", "huis-verkopen-aan-opkoper-verstandig", "pand-verkopen-aan-projectontwikkelaar", "discreet-verkopen-zonder-publiciteit"],
     relatedSituations: ["verkopen-zonder-makelaar", "opknappand-verkopen", "vastgoedopkoper-antwerpen"],
     faqs: [
       {
@@ -3386,7 +3386,7 @@ export const articles: Article[] = [
         body: "Bij een verhuis naar het woonzorgcentrum telt niet de allerlaatste euro, maar **tempo en zekerheid**: de zorgfactuur komt elke maand, en niemand in de familie zit te wachten op een jaar bezichtigingen in het huis van mama of papa.\n\nEen directe verkoop aan wijkopenpanden.be geeft die duidelijkheid snel. U vraagt een **gratis en vrijblijvend bod** aan en krijgt binnen 2 uur reactie, ook in het weekend. Doorgaans komen we binnen 48 uur langs en ontvangt u een **schriftelijk, gemotiveerd bod**. We kopen de woning **in de huidige staat** — ook met verouderde afwerking of een volle inboedel — zodat er niet eerst opgeruimd of opgefrist hoeft te worden. Er is geen makelaarscommissie, we betalen uit eigen middelen, en de akte volgt doorgaans twee tot drie maanden na het akkoord. U kiest bovendien mee de datum van de akte, zodat die aansluit op de verhuis en de financiële planning van het gezin.\n\nZo weet iedereen binnen enkele dagen waar het gezin aan toe is — en kan de aandacht terug naar wat echt telt: een goede start in het woonzorgcentrum.",
       },
     ],
-    relatedArticles: ["verhuren-of-verkopen-antwerpen", "leegstandsheffing-antwerpen-2026", "verkoop-kosten-berekenen", "belastingen-bij-woningverkoop", "hoelang-duurt-huis-verkopen-belgie", "blijven-wonen-na-verkoop", "woning-verkopen-met-zorgvolmacht"],
+    relatedArticles: ["verhuren-of-verkopen-antwerpen", "leegstandsheffing-antwerpen-2026", "verkoop-kosten-berekenen", "belastingen-bij-woningverkoop", "hoelang-duurt-huis-verkopen-belgie", "blijven-wonen-na-verkoop", "woning-verkopen-met-zorgvolmacht", "zorgwoning-kangoeroewoning-verkopen", "verkoop-woning-invloed-op-uitkering-leefloon-igo"],
     relatedSituations: ["huis-verkopen-bij-erfenis", "opknappand-verkopen"],
     faqs: [
       {
@@ -5475,7 +5475,7 @@ export const articles: Article[] = [
         body: "Twijfelt u om te verkopen omdat uw woning een hoog, verouderd of net herzien KI heeft? Bij wijkopenpanden.be kopen wij woningen in de regio **Antwerpen** rechtstreeks aan, in de **huidige staat**. U hoeft niets te renoveren en het KI vormt voor ons geen bezwaar.\n\nOnze werkwijze is eenvoudig. Na uw aanvraag reageren wij doorgaans **binnen 2 uur**. Na een plaatsbezoek ontvangt u een **schriftelijk bod**, zonder **commissie**. Wij coördineren de nodige attesten en de afspraken met de notaris, zodat u zich daar geen zorgen over hoeft te maken. De **akte** verloopt doorgaans binnen 2 à 3 maanden, op een timing die voor u past.\n\nZo verkoopt u zonder makelaarskosten en zonder de rompslomp van keuringen. Meer achtergrond over verkopen zonder tussenpersoon vindt u bij onze pagina's over het verkopen zonder makelaar en het verkopen van een opknappand."
       }
     ],
-    relatedArticles: ["belastingen-bij-woningverkoop", "onroerende-voorheffing-verrekenen-bij-verkoop", "verkoop-kosten-berekenen", "wat-is-mijn-woning-waard-antwerpen", "energie-renovatieplicht-vlaanderen-2026", "woning-verkopen-met-btw-nieuwbouw"],
+    relatedArticles: ["belastingen-bij-woningverkoop", "onroerende-voorheffing-verrekenen-bij-verkoop", "verkoop-kosten-berekenen", "wat-is-mijn-woning-waard-antwerpen", "energie-renovatieplicht-vlaanderen-2026", "woning-verkopen-met-btw-nieuwbouw", "zorgwoning-kangoeroewoning-verkopen"],
     relatedSituations: ["opknappand-verkopen", "verkopen-zonder-makelaar"],
     faqs: [
       {
@@ -6048,7 +6048,7 @@ export const articles: Article[] = [
         body: "Wilt u niet wachten op een investeerder die enkel uw blote eigendom wil overnemen, of wilt u samen met de vruchtgebruiker in één beweging verkopen? Dan kan een directe verkoop aan **wijkopenpanden.be** een rustige oplossing zijn.\n\nWij kopen woningen op in de **regio Antwerpen** en **in de huidige staat** — u hoeft niets op te knappen of leeg te maken. Na een korte melding reageren wij **doorgaans binnen 2 uur**, ook in het weekend, en na een plaatsbezoek ontvangt u een **schriftelijk, vrijblijvend bod**. Wij rekenen **geen makelaarscommissie** aan en kopen met eigen middelen, zonder financieringsvoorbehoud.\n\nGaat u akkoord, dan verzorgen wij de nodige **attesten** en de **coördinatie met de notaris**. Bij een dossier met vruchtgebruik zorgen we mee voor een transparante verdeling van de opbrengst tussen de vruchtgebruiker en de blote eigenaar. De akte volgt **doorgaans binnen 2 à 3 maanden**. Zo weet u snel waar u aan toe bent, zonder lange bezichtigingsrondes of onzekerheid.",
       },
     ],
-    relatedArticles: ["vruchtgebruik-woning-verkopen", "schenking-woning-vlaanderen", "erfenis-woning-stappenplan", "mede-eigendom-verkopen", "wat-is-mijn-woning-waard-antwerpen", "notariskosten-woning-verkoop"],
+    relatedArticles: ["vruchtgebruik-woning-verkopen", "schenking-woning-vlaanderen", "erfenis-woning-stappenplan", "mede-eigendom-verkopen", "wat-is-mijn-woning-waard-antwerpen", "notariskosten-woning-verkoop", "verkoop-woning-invloed-op-uitkering-leefloon-igo"],
     relatedSituations: ["huis-verkopen-bij-erfenis", "verkopen-zonder-makelaar"],
     faqs: [
       {
@@ -6163,7 +6163,7 @@ export const articles: Article[] = [
       "huis-verkopen-met-hypotheek",
       "belastingschulden-bij-verkoop-notariele-notificatie",
       "snel-geld-vrijmaken-woning",
-      "notariskosten-woning-verkoop",
+      "notariskosten-woning-verkoop", "verkoop-woning-invloed-op-uitkering-leefloon-igo",
     ],
     relatedSituations: ["verkopen-zonder-makelaar", "huis-verkopen-bij-scheiding"],
     faqs: [
@@ -6557,7 +6557,7 @@ export const articles: Article[] = [
         body: "Wij kopen woningen in de regio **Antwerpen** rechtstreeks aan, in de huidige staat en met **eigen middelen**. Wij treden niet op als makelaar: er is geen bemiddelingsovereenkomst, geen exclusiviteit, geen opzegtermijn en geen commissie.\n\nWees wel eerlijk geïnformeerd: als u nog aan een makelaarsopdracht gebonden bent, **neemt onze aankoop die verbintenis niet weg**. Wat u aan uw makelaar verschuldigd bent, staat los van ons en wordt bepaald door uw contract en het KB. Wij kunnen dat niet voor u beoordelen en doen dat ook niet.\n\nWat wij wel doen:\n\n• Een **vrijblijvend en schriftelijk bod**, zodat u weet welk bedrag tegenover uw opzegkost staat.\n• Reactie op uw aanvraag doorgaans binnen 2 uur.\n• Bij akkoord verloopt het verlijden van de akte doorgaans binnen 2 à 3 maanden — u kunt de timing dus afstemmen op het einde van uw opdracht.\n\nIn de praktijk kiezen verkopers vaak voor die volgorde: eerst weten wat een directe verkoop opbrengt, dan pas beslissen of vroegtijdig opzeggen de moeite loont.",
       },
     ],
-    relatedArticles: ["commissie-makelaar-belgie", "opkoper-of-makelaar-verschil", "woning-staat-al-maanden-te-koop", "betrouwbaar-verkopen-aan-opkoper", "bod-aanvragen-vrijblijvend-bindend", "verkoop-kosten-berekenen"],
+    relatedArticles: ["commissie-makelaar-belgie", "opkoper-of-makelaar-verschil", "woning-staat-al-maanden-te-koop", "betrouwbaar-verkopen-aan-opkoper", "bod-aanvragen-vrijblijvend-bindend", "verkoop-kosten-berekenen", "discreet-verkopen-zonder-publiciteit"],
     relatedSituations: ["verkopen-zonder-makelaar"],
     faqs: [
       {
@@ -8094,7 +8094,7 @@ export const articles: Article[] = [
         body: "Onze werkwijze is bewust opgebouwd rond precies deze acht punten.\n\n• U krijgt na één bezoek een **schriftelijk, gemotiveerd bod**, doorgaans 7 dagen geldig\n• Wat in het bod staat, is wat u ontvangt — wij vragen geen extra kortingen bij de akte\n• Wij vragen **geen exclusiviteit**, zodat u vrij kunt vergelijken met een makelaar of een tweede bod\n• Wij kopen zelf aan, met eigen middelen, zonder opschortende voorwaarde van financiering\n• Wij kopen het pand **in de staat waarin het zich bevindt** — u hoeft niets op te knappen of te ruimen\n• Wij regelen en betalen de verplichte keuringen en attesten\n• U kiest mee de aktedatum en u werkt met de notaris van uw keuze\n\nHeeft u een bod van een andere partij liggen en wilt u weten of het redelijk is? Vraag er gerust een tweede naast aan. Ook als u uiteindelijk niet met ons verkoopt, heeft u dan een eerlijk vergelijkingspunt.",
       },
     ],
-    relatedArticles: ["huis-verkopen-aan-opkoper-verstandig", "betrouwbaar-verkopen-aan-opkoper", "bod-aanvragen-vrijblijvend-bindend", "verkoopbelofte-compromis-akte", "verkoop-annuleren-na-compromis-koop-is-koop", "huis-verkopen-binnen-5-jaar", "onroerende-voorheffing-verrekenen-bij-verkoop", "huis-verkopen-met-hypotheek", "notariskosten-woning-verkoop"],
+    relatedArticles: ["huis-verkopen-aan-opkoper-verstandig", "betrouwbaar-verkopen-aan-opkoper", "bod-aanvragen-vrijblijvend-bindend", "verkoopbelofte-compromis-akte", "verkoop-annuleren-na-compromis-koop-is-koop", "huis-verkopen-binnen-5-jaar", "onroerende-voorheffing-verrekenen-bij-verkoop", "huis-verkopen-met-hypotheek", "notariskosten-woning-verkoop", "discreet-verkopen-zonder-publiciteit"],
     relatedSituations: ["vastgoedopkoper-antwerpen", "verkopen-zonder-makelaar", "pand-snel-verkopen", "blijven-wonen"],
     faqs: [
       {
@@ -8201,7 +8201,7 @@ export const articles: Article[] = [
         body: "Een verkoop met zorgvolmacht is geen gewone verkoop. De lasthebber handelt in naam van iemand anders en moet kunnen aantonen dat de verkoop verdedigbaar is. Daar sluit een directe verkoop goed op aan.\n\n• U krijgt een **schriftelijk, gemotiveerd bod** — een stuk dat u kunt voorleggen aan de notaris, aan de andere kinderen, of aan de vrederechter als het toch een bewinddossier blijkt te worden\n• Wij kopen **uit eigen middelen, zonder opschortende voorwaarde van financiering**, zodat de verkoop niet alsnog afspringt op een geweigerd krediet\n• Wij kopen het pand **in de staat waarin het zich bevindt**: bij een woning die maanden leegstond hoeft u niets op te knappen en niets te ruimen\n• U beslist mee over de **aktedatum**, wat helpt wanneer er nog een verhuis naar een woonzorgcentrum of een controle van de volmacht loopt\n• U werkt met de **notaris van uw keuze** — de notaris die de zorgvolmacht opmaakte, kent het dossier meestal het best\n\nWat wij niet kunnen, is de wet omzeilen. Dekt de volmacht de verkoop niet, of is ze niet geregistreerd, dan gaat de akte niet door: bij ons evenmin als elders. Wat wel kan, is u vroeg in het traject een concreet bedrag geven, zodat u weet waar u aan toe bent vóór u tijd en geld in een procedure investeert. Een bod aanvragen is gratis, vrijblijvend en verplicht u tot niets.",
       },
     ],
-    relatedArticles: ["woning-verkopen-onder-bewind", "woning-verkopen-verhuis-woonzorgcentrum", "erfenis-woning-stappenplan", "pand-laten-schatten-schattingsverslag", "woning-verkopen-met-minderjarige-eigenaar", "mede-eigendom-verkopen", "vruchtgebruik-woning-verkopen", "compromis-verkoop-woning-belgie", "notariskosten-woning-verkoop"],
+    relatedArticles: ["woning-verkopen-onder-bewind", "woning-verkopen-verhuis-woonzorgcentrum", "erfenis-woning-stappenplan", "pand-laten-schatten-schattingsverslag", "woning-verkopen-met-minderjarige-eigenaar", "mede-eigendom-verkopen", "vruchtgebruik-woning-verkopen", "compromis-verkoop-woning-belgie", "notariskosten-woning-verkoop", "zorgwoning-kangoeroewoning-verkopen"],
     relatedSituations: ["huis-verkopen-bij-erfenis", "vastgoedopkoper-antwerpen", "schatting-pand", "verkopen-zonder-makelaar"],
     faqs: [
       {
@@ -8308,7 +8308,7 @@ export const articles: Article[] = [
         body: "Een zonevreemd pand verkoopt zelden vlot op de klassieke markt, en het probleem is bijna nooit het pand zelf — het is de onzekerheid errond. Een directe verkoop lost een aantal van die punten concreet op.\n\n• Wij kopen zelf aan en **kennen het onderscheid** tussen zonevreemd, vergund geacht en onvergund. U moet ons niet overtuigen dat uw woning legaal is; wij lezen het uittreksel uit het plannen- en vergunningenregister en schatten zelf in wat er nog kan.\n• Er zit **geen opschortende voorwaarde van financiering** in ons compromis. Daarmee verdwijnt precies het risico dat bij een zonevreemd pand het vaakst een verkoop doet klappen.\n• Wij kopen het pand **in de staat waarin het zich bevindt**. U hoeft niets op te knappen, niet te ruimen en geen werken uit te voeren om het \"verkoopbaar\" te maken.\n• U hoeft niet te wachten. Bij een vervallen hoeve is dat meer dan een gemak: hoe langer een pand onbewoond en zonder onderhoud staat, hoe dichter het bij de grens van **verkrot** komt — en daarmee bij het verlies van zijn basisrechten.\n• U beslist mee over de **aktedatum** en u werkt met de **notaris van uw keuze**.\n• U krijgt een **schriftelijk, gemotiveerd bod** en wij vragen geen exclusiviteit, zodat u vrij kunt vergelijken met een makelaarsschatting of een tweede bod.\n\nWat wij niet doen, is beloven dat er meer mag dan de VCRO toelaat. Ligt uw woning in natuurgebied, dan mag ook een opkoper ze niet herbouwen — dat zit in het bod verrekend en wij zeggen u dat op voorhand. Wat wij wél bieden, is een koper die de situatie kan inschatten zonder dat er drie maanden onzekerheid over uw hoofd hangt.",
       },
     ],
-    relatedArticles: ["oude-woning-zonder-bouwvergunning-vermoeden-van-vergunning", "stedenbouwkundige-overtreding-woning-verkopen", "vastgoedinformatie-aanvragen-bij-verkoop", "pand-in-slechte-staat-verkopen", "energie-renovatieplicht-vlaanderen-2026", "huis-verkopen-na-brand-of-schade", "tuin-of-bouwgrond-apart-verkopen-perceel-splitsen", "beschermd-monument-erfgoedwoning-verkopen", "recht-van-voorkoop-bij-verkoop-woning"],
+    relatedArticles: ["oude-woning-zonder-bouwvergunning-vermoeden-van-vergunning", "stedenbouwkundige-overtreding-woning-verkopen", "vastgoedinformatie-aanvragen-bij-verkoop", "pand-in-slechte-staat-verkopen", "energie-renovatieplicht-vlaanderen-2026", "huis-verkopen-na-brand-of-schade", "tuin-of-bouwgrond-apart-verkopen-perceel-splitsen", "beschermd-monument-erfgoedwoning-verkopen", "recht-van-voorkoop-bij-verkoop-woning", "zorgwoning-kangoeroewoning-verkopen"],
     relatedSituations: ["opknappand-verkopen", "vastgoedopkoper-antwerpen", "pand-snel-verkopen", "schatting-pand"],
     faqs: [
       {
@@ -9049,7 +9049,7 @@ export const articles: Article[] = [
         body: "Een pand waar een familielid woont, is voor een particuliere koper doorgaans geen optie: die wil er zelf in, op een vaste datum, en zijn bank rekent daarop. Voor ons ligt dat anders.\n\n• Wij kopen panden in de **regio Antwerpen** aan in de **staat waarin ze zich bevinden**, inboedel inbegrepen. U hoeft niets te ruimen en niets op te knappen.\n• Wij kunnen kopen **met de bewoner erin**, of met een **afgesproken vertrekdatum**, of met een **latere aktedatum** die u de tijd geeft om het rustig te regelen. U kiest de variant.\n• Wij kopen **met eigen middelen en zonder opschortende voorwaarde van financiering**. Er is dus geen bank die op de bewoningssituatie afhaakt.\n• U werkt met de **notaris van uw keuze**, wij vragen **geen exclusiviteit** en rekenen **geen commissie**.\n• U krijgt een **schriftelijk en gemotiveerd bod** na een plaatsbezoek. Bij een nalatenschap is dat cijfer dubbel nuttig: het is meteen de basis om de bezettingsvergoeding en de verdeling zakelijk te bespreken.\n\nWat wij **niet** doen, zeggen wij er meteen bij. **Wij zetten niemand buiten.** Wij vragen u ook niet om dat te doen, en wij nemen geen dossiers aan waarin wij als koper de discussie met uw familie zouden moeten voeren. Blijft de bewoner zitten zonder akkoord, dan is de weg een dagvaarding en een vonnis — dat is werk voor uw advocaat, niet voor ons. Wat wij wél leveren, is een vaste prijs en een datum waarop u kunt rekenen, zodat het gesprek binnen de familie eindelijk over iets concreets gaat.",
       },
     ],
-    relatedArticles: ["erfenis-woning-stappenplan", "mede-eigenaar-wil-niet-verkopen-uit-onverdeeldheid", "mede-eigendom-verkopen", "huurder-rechten-bij-verkoop-woning", "woning-verkopen-met-krakers-of-domiciliefraude", "woning-verkopen-aan-familielid", "ongeschikt-onbewoonbaar-verklaarde-woning-verkopen", "erfenis-met-schulden-woning-verkopen", "woning-verkopen-verhuis-woonzorgcentrum", "kadastraal-inkomen-en-woningverkoop"],
+    relatedArticles: ["erfenis-woning-stappenplan", "mede-eigenaar-wil-niet-verkopen-uit-onverdeeldheid", "mede-eigendom-verkopen", "huurder-rechten-bij-verkoop-woning", "woning-verkopen-met-krakers-of-domiciliefraude", "woning-verkopen-aan-familielid", "ongeschikt-onbewoonbaar-verklaarde-woning-verkopen", "erfenis-met-schulden-woning-verkopen", "woning-verkopen-verhuis-woonzorgcentrum", "kadastraal-inkomen-en-woningverkoop", "zorgwoning-kangoeroewoning-verkopen"],
     relatedSituations: ["huis-verkopen-bij-erfenis", "vastgoedopkoper-antwerpen", "pand-snel-verkopen", "pand-met-huurders-verkopen"],
     faqs: [
       {
@@ -9081,6 +9081,337 @@ export const articles: Article[] = [
         question: "Kan ik verkopen terwijl mijn familielid er nog woont?",
         answer:
           "Ja, op voorwaarde dat u het pand ook zo aanbiedt. De grootste fout is een compromis tekenen met de clausule dat het pand vrij van gebruik en bewoning geleverd wordt, zonder dat u een schriftelijke vertrekafspraak met de bewoner hebt. U neemt dan een verbintenis op u waarvan de uitvoering bij iemand anders ligt. Regel eerst de vertrekdatum, of verkoop uitdrukkelijk in bewoonde staat en laat de prijs dat weerspiegelen.",
+      },
+    ],
+  },
+  {
+    slug: "zorgwoning-kangoeroewoning-verkopen",
+    title: "Een woning met een zorgwoning of kangoeroewoning verkopen: melding, stopzetting en wat de koper erft",
+    metaTitle: "Woning met zorgwoning verkopen: melding en stopzetting",
+    metaDescription:
+      "Een gemelde zorgwoning verkoopt u niet als tweewoonst. Wat u moet stopzetten, wat de koper wel en niet mag, en waar het misloopt bij een tweede keuken.",
+    publishedAt: "2026-08-23",
+    updatedAt: "2026-08-23",
+    intro:
+      "Een woning met een gemelde zorgwoning verkoopt u als één woning met een ondergeschikte wooneenheid, niet als een tweewoonst en niet als een opbrengsteigendom. De ondergeschikte eenheid kan trouwens niet apart verkocht worden: het geheel moet dezelfde eigenaar hebben. Eindigt de zorgsituatie — en bij een verkoop is dat bijna altijd zo — dan moet dat opnieuw gemeld worden en mag de woning nog door één gezin bewoond worden. Wil de koper er twee huishoudens in houden, dan heeft hij daarvoor een omgevingsvergunning nodig die hij niet zomaar krijgt. Wie dat verschil niet uitlegt, verkoopt een verwachting die achteraf niet waargemaakt kan worden.",
+    sections: [
+      {
+        heading: "Wat een zorgwoning juridisch is — en wat ze uitdrukkelijk niet is",
+        body: "Zorgwonen is het creëren van **één kleinere, ondergeschikte woongelegenheid in of bij een bestaande, hoofdzakelijk vergunde woning**, zodat maximaal twee personen er kunnen wonen van wie er minstens één 65 jaar of ouder is, of zorgbehoevend. De kinderen ten laste van de zorgbehoevende tellen niet mee voor dat maximum van twee.\n\nDrie voorwaarden moeten samen vervuld zijn:\n\n1. Er is **één** ondergeschikte wooneenheid, in of aansluitend bij de hoofdwoning.\n2. De hoofdwoning en de ondergeschikte eenheid — of de grond waarop een tijdelijke unit staat — behoren toe aan **dezelfde eigenaar of eigenaars**.\n3. De bewoning beantwoordt aan de leeftijds- of zorgvoorwaarde.\n\nDie tweede voorwaarde is bij een verkoop de belangrijkste van de drie, en ze wordt het vaakst over het hoofd gezien. **Een zorgwoning is geen appartement en geen studio: u kunt ze niet apart verkopen en u kunt ze niet los verhuren aan wie u wil.** Het pand blijft één geheel, met één eigenaar.\n\nDe rechtsgrond staat in de **Vlaamse Codex Ruimtelijke Ordening** (onder meer artikel 4.1.1, 18° voor de definitie en artikel 4.2.4 voor de meldingsplicht). De huidige, verruimde regeling geldt sinds **16 augustus 2021**.",
+        table: {
+          headers: ["", "Zorgwoning (gemeld)", "Opgedeelde woning (vergund)", "Tweewoonst"],
+          rows: [
+            ["Aantal eenheden", "Eén woning met één ondergeschikte eenheid", "Twee of meer zelfstandige eenheden", "Twee zelfstandige woningen"],
+            ["Wat u nodig hebt", "Een melding bij de gemeente", "Een omgevingsvergunning", "Een omgevingsvergunning"],
+            ["Apart verkoopbaar?", "Nee, één eigenaar voor het geheel", "Ja, na splitsing", "Ja"],
+            ["Vrij verhuurbaar aan derden?", "Nee, enkel aan wie aan de zorgvoorwaarde voldoet", "Ja", "Ja"],
+            ["Wat als de bewoning wijzigt?", "Opnieuw melden, terug naar één gezin", "Niets, de vergunning blijft", "Niets"],
+          ],
+        },
+      },
+      {
+        heading: "De drie vormen die enkel meldingsplichtig zijn",
+        body: "Zorgwonen is een **uitzondering op de vergunningsplicht**, maar alleen in drie precies omschreven gevallen. Valt uw situatie erbuiten, dan hebt u geen melding maar een vergunning nodig — en dan is de vraag of u die ooit gekregen hebt.\n\nDat onderscheid is bij een verkoop geen theorie. Een ondergeschikte eenheid van 70 m² in een bijgebouw is géén gemelde zorgwoning, ook al noemt iedereen ze zo. Dan verkoopt u een **niet-vergunde opdeling**, met alle gevolgen van dien.",
+        table: {
+          headers: ["Vorm", "Belangrijkste maten", "Waar het misloopt"],
+          rows: [
+            ["Binnen het bestaande volume van de woning", "Maximaal een derde van de bruto-vloeroppervlakte", "De eenheid moet één fysiek geheel blijven met de hoofdwoning"],
+            ["In een bestaand, hoofdzakelijk vergund vrijstaand bijgebouw", "Maximaal 50 m²", "Geen bijkomende verharding behalve de nodige toegang; nutsvoorzieningen en afvalwater via de hoofdwoning"],
+            ["In een tijdelijke, verplaatsbare constructie", "Maximaal 50 m², hoogte maximaal 3,5 meter, binnen een straal van 30 meter van de woning", "Maximaal 3 jaar, één keer verlengbaar met 3 jaar; te verwijderen binnen 3 maanden na het einde van de zorg"],
+          ],
+        },
+      },
+      {
+        heading: "Een melding is geen vergunning: vier gevolgen die pas bij de verkoop opduiken",
+        body: "Een melding is een **aktename**, geen vergunning. Ze is smaller dan een vergunning, ze is voorwaardelijk, en ze is aan de zorgsituatie gekoppeld — niet aan het gebouw. Vier gevolgen die u vóór de verkoop moet kennen:\n\n• **De effectieve bewoning moet binnen twee jaar na de aktename van de melding starten**, anders vervalt de melding. Werd de zorgwoning ingericht en nooit bewoond, dan is er stedenbouwkundig mogelijk niets meer waarop u zich kunt beroepen.\n• **Na een verkoop begint er geen nieuwe termijn van twee jaar te lopen.** De koper koopt geen verse klok. Wie erop rekent \"dat de nieuwe eigenaar het wel opnieuw kan opstarten\", vergist zich.\n• **Het einde van de zorgsituatie moet gemeld worden.** Dat is een verplichting, geen formaliteit die stilzwijgend verdwijnt.\n• **De eenheid volgt de eigendom.** Zolang de zorgwoning bestaat, moeten hoofdwoning en ondergeschikte eenheid van dezelfde eigenaar zijn. Een verkoop van enkel het achterhuis is dus uitgesloten.\n\nVoor de zone waarin uw woning ligt is er wel goed nieuws: zorgwonen is uitdrukkelijk mogelijk in **zonevreemde woningen** en in woningen die afwijken van een verkaveling. Enkel voor de verplaatsbare unit gelden er beperkingen in ruimtelijk kwetsbaar gebied.",
+      },
+      {
+        heading: "Wat er moet gebeuren als de zorgsituatie eindigt",
+        body: "Dit is het hart van het dossier, en het is precies wat de meeste verkopers niet weten.\n\n**Wordt de zorgwoning na het einde van de zorg opnieuw gebruikt om één gezin te huisvesten, dan moet u dat opnieuw melden** bij uw gemeente — via het meldingsformulier of online via het Omgevingsloket. De ondergeschikte eenheid verdwijnt dan administratief en het pand is opnieuw één eengezinswoning.\n\n**Wilt u of wil de koper het pand nadien gebruiken om méér dan één gezin te huisvesten, dan is er een omgevingsvergunning nodig.** Dat is geen melding meer, maar een volwaardige aanvraag voor het opdelen van een woning, met alle beoordelingsmarge van de gemeente die daarbij hoort. In veel Antwerpse wijken bestaan er stedenbouwkundige verordeningen die het opdelen van eengezinswoningen sterk beperken of verbieden. Reken er dus niet op.\n\nGaat het om een **tijdelijke, verplaatsbare unit**, dan moet die **binnen drie maanden na het einde van de zorgsituatie verwijderd** worden. Staat ze er nog bij het plaatsbezoek van een kandidaat-koper, dan koopt hij een opruimplicht mee.\n\nDe praktische volgorde die werkt bij een verkoop:\n\n1. **Stel vast wat er precies gemeld is** en wanneer. Vraag de aktename op bij de gemeente; hebt u ze niet meer, dan vindt de dienst omgeving ze terug.\n2. **Bepaal of de zorgsituatie nog loopt.** Woont de zorgbehoevende er niet meer, dan is de zorgsituatie geëindigd — ook als niemand dat ooit meldde.\n3. **Meld de beëindiging** en breng het pand terug tot één woning, of bespreek uitdrukkelijk met uw koper dat hij dat doet.\n4. **Zet het resultaat op papier in de compromis.** Wat u verkoopt, is een eengezinswoning met een extra badkamer en keuken — geen twee wooneenheden.",
+      },
+      {
+        heading: "De duurste fout: de zorgwoning als tweede inkomen aanbieden",
+        body: "De verleiding is groot. Er staat een volledige tweede keuken, een tweede badkamer en een aparte inkom. Dat lijkt op een opbrengsteigendom, en het verkoopt ook als een opbrengsteigendom. Maar dat is het niet.\n\nDrie redenen om dat niet te doen:\n\n• **De informatieplicht.** De Vlaamse Codex Ruimtelijke Ordening verplicht u in élke publiciteit onder meer de meest recente stedenbouwkundige bestemming te vermelden, of er een omgevingsvergunning voor stedenbouwkundige handelingen is, en of er een handhavingsmaatregel loopt. Adverteren als \"twee wooneenheden\" terwijl er één vergunde woning met een gemelde zorgeenheid staat, is een onjuiste voorstelling van de stedenbouwkundige toestand.\n• **De sanctie.** Inbreuken op de informatieplicht worden sinds 1 maart 2018 bestraft met een bestuurlijke geldboete van de gewestelijke beboetingsentiteit. En als het goed het voorwerp is of kan worden van een herstelmaatregel, kan de rechter op vraag van de koper de titel van eigendomsverkrijging **nietig verklaren**, onverminderd zijn recht op schadevergoeding.\n• **De bank van de koper.** Een kandidaat die rekent op huurinkomsten uit de tweede eenheid, bouwt zijn dossier op een inkomen dat hij niet legaal mag realiseren. Springt dat achteraf uit, dan verliest u de koper — of erger, u verliest hem ná de compromis.\n\nWees dus expliciet. **Beschrijf de zorgwoning als wat ze is**, met de melding erbij, en laat de koper zelf uitzoeken wat hij ermee kan. Verkopers die dat doen, hebben achteraf geen discussie. Verkopers die het laten aanvoelen als een tweewoonst, hebben ze bijna altijd.",
+      },
+      {
+        heading: "Kadastraal inkomen, onroerende voorheffing, uitkeringen en EPC",
+        body: "Rond zorgwonen circuleren nogal wat halve waarheden. Dit is wat vaststaat en wat u zelf moet laten bevestigen.\n\nHet punt dat het vaakst verkeerd verteld wordt, is dat van de **uitkeringen**. Zorgwonen wordt door de gemeente in het **Rijksregister** geregistreerd. Daardoor kunnen alle instellingen die het Rijksregister raadplegen met die woonvorm rekening houden bij de berekening van premies of uitkeringen. Wie correct zorgwoont, wordt dus niet zomaar als samenwonende behandeld. Wel is er een **werkelijke verhuis** nodig van adres A naar adres B: iedereen krijgt hetzelfde adres maar een eigen code in het register.\n\nHet punt dat het vaakst overschat wordt, is dat van het **kadastraal inkomen**. Bronnen spreken elkaar tegen: sommige stellen dat een zorgwoning het KI verhoogt, andere dat er niets verandert zolang er geen aparte eenheid geregistreerd is. Wat wél vaststaat: wie verbouwt, moet dat binnen **dertig dagen na de voltooiing van de werken** aangeven bij het kadaster. Laat uw situatie bevestigen in plaats van te vertrouwen op wat u ergens las.",
+        table: {
+          headers: ["Aspect", "Wat u moet weten", "Wie het bevestigt"],
+          rows: [
+            ["Kadastraal inkomen", "Verbouwingen aangeven binnen 30 dagen na voltooiing; of het KI stijgt, hangt af van de aard van de werken", "FOD Financiën, Administratie Opmetingen en Waarderingen"],
+            ["Onroerende voorheffing", "Volgt het KI: stijgt het KI, dan stijgt de heffing evenredig mee", "Vlaamse Belastingdienst"],
+            ["Uitkeringen en premies", "Zorgwonen wordt in het Rijksregister geregistreerd, zodat instellingen er rekening mee kunnen houden", "De uitbetalende instelling zelf"],
+            ["Fiscaal ten laste", "Bij een aparte zorgwoning zijn er fiscaal twee gezinnen, dus de zorgbehoevende is niet ten laste", "Uw boekhouder of de FOD Financiën"],
+            ["EPC", "Bij verkoop is een geldig EPC verplicht; hoeveel certificaten er nodig zijn, hangt af van hoe de eenheden geregistreerd staan", "Uw energiedeskundige type A"],
+          ],
+        },
+      },
+      {
+        heading: "Uw checklist vóór u het pand op de markt zet",
+        body: "Zes stappen, in deze volgorde. Ze kosten u samen doorgaans minder dan een week, en ze voorkomen dat u een koper verliest in week zes.\n\n1. **Vraag de aktename van de melding op** bij de dienst omgeving van uw gemeente, samen met de datum. Zonder dat stuk weet u niet wat u verkoopt.\n2. **Controleer of de melding niet vervallen is** doordat de bewoning nooit binnen twee jaar startte.\n3. **Vraag uw vastgoedinformatie op** via het Vastgoedinformatieplatform. Daarin staat wat er over uw pand geregistreerd is, inclusief lopende handhaving.\n4. **Meld de beëindiging van de zorgsituatie** als de zorgbehoevende er niet meer woont, of maak een duidelijke afspraak met de koper over wie dat doet.\n5. **Verwijder een tijdelijke unit** of maak de kosten en de termijn ervan expliciet in de compromis.\n6. **Laat uw beschrijving nalezen** vóór ze online gaat. Eén foute zin in een advertentie is een informatieplicht-inbreuk; dezelfde zin in een compromis is een aansprakelijkheid.\n\nEen ding hoeft u niet te doen: de zorgwoning terugbouwen tot ze onherkenbaar is. Een tweede keuken of een extra badkamer is op zich geen probleem — het probleem ontstaat pas wanneer het pand als twee zelfstandige eenheden gebruikt of verkocht wordt.",
+      },
+      {
+        heading: "Zo werkt het bij wijkopenpanden.be",
+        body: "Een woning met een zorgwoning belandt vaak op de markt op het slechtste moment: na een overlijden, of wanneer de zorgbehoevende naar een woonzorgcentrum verhuist. Op dat ogenblik lopen twee kosten door en heeft de familie geen zin in een dossier met stedenbouwkundige losse eindjes.\n\n• Wij kopen panden in de **regio Antwerpen** in de **staat waarin ze zich bevinden**, inclusief de zorgeenheid, de tweede keuken en de inboedel. U hoeft niets terug te bouwen en niets te ruimen.\n• Wij **beoordelen de stedenbouwkundige toestand zelf**, met de kennis van een professional, en verrekenen ze in ons bod — in plaats van er in extremis over te onderhandelen zoals een particuliere koper doet.\n• Wij kopen **met eigen middelen en zonder opschortende voorwaarde van financiering**. Er is dus geen bank die op de zorgeenheid afhaakt.\n• U werkt met de **notaris van uw keuze**, wij vragen **geen exclusiviteit** en rekenen **geen commissie**.\n• U krijgt **binnen 2 uur een reactie** op uw aanvraag en na een plaatsbezoek een **schriftelijk en gemotiveerd bod**. De akte verlijdt doorgaans binnen 2 tot 3 maanden.\n\nWat wij niet doen: u vertellen dat de zorgwoning \"gewoon blijft bestaan\" of dat er een opbrengsteigendom van te maken valt. Dat is precies de belofte die dit soort dossiers doet ontsporen. Wat wij wél doen, is u een concreet cijfer geven dat u rustig kunt vergelijken met de klassieke route via een makelaar — met alle informatie op tafel.",
+      },
+    ],
+    relatedArticles: ["woning-verkopen-verhuis-woonzorgcentrum", "ontbrekend-busnummer-onvergund-appartement-antwerpen", "stedenbouwkundige-overtreding-woning-verkopen", "oude-woning-zonder-bouwvergunning-vermoeden-van-vergunning", "kadastraal-inkomen-en-woningverkoop", "onroerende-voorheffing-verrekenen-bij-verkoop", "familielid-woont-gratis-in-woning-verkopen", "woning-verkopen-met-zorgvolmacht", "vastgoedinformatie-aanvragen-bij-verkoop", "zonevreemde-woning-verkopen"],
+    relatedSituations: ["huis-verkopen-bij-erfenis", "vastgoedopkoper-antwerpen", "rijhuis-verkopen-antwerpen", "blijven-wonen"],
+    faqs: [
+      {
+        question: "Kan ik de zorgwoning apart verkopen aan mijn kinderen?",
+        answer:
+          "Nee. Een van de drie voorwaarden voor zorgwonen is dat de hoofdwoning en de ondergeschikte wooneenheid — of de grond waarop een tijdelijke unit staat — aan dezelfde eigenaar of eigenaars toebehoren. Verkoopt u de zorgeenheid apart, dan is er per definitie geen zorgwoning meer en verkoopt u in feite een tweede wooneenheid waarvoor u een omgevingsvergunning voor het opdelen van een woning nodig hebt. Bespreek dat met uw notaris vóór u iets ondertekent.",
+      },
+      {
+        question: "Moet ik de zorgwoning stopzetten als ik verkoop?",
+        answer:
+          "De zorgsituatie eindigt in de praktijk bij de verkoop, en het einde ervan moet gemeld worden. Wordt het pand nadien opnieuw door één gezin bewoond, dan meldt u dat via het meldingsformulier van uw gemeente of online via het Omgevingsloket. Wil de koper er meer dan één gezin in huisvesten, dan is een omgevingsvergunning vereist. Spreek uitdrukkelijk in de compromis af wie welke melding doet, zodat het niet tussen wal en schip valt.",
+      },
+      {
+        question: "Mijn zorgwoning is nooit bewoond geweest. Is de melding nog geldig?",
+        answer:
+          "Waarschijnlijk niet. De effectieve bewoning door de zorgbehoevende of de 65-plusser moet binnen twee jaar na de aktename van de melding starten; gebeurt dat niet, dan vervalt de aktename. Vraag de datum van de aktename op bij uw gemeente en reken vanaf daar. Is de termijn verstreken, ga er dan niet van uit dat de tweede eenheid stedenbouwkundig in orde is, en laat uw situatie beoordelen vóór u adverteert.",
+      },
+      {
+        question: "Mag ik de woning adverteren als een tweewoonst of opbrengsteigendom?",
+        answer:
+          "Nee. In elke publiciteit moet u onder meer de meest recente stedenbouwkundige bestemming vermelden, of er een omgevingsvergunning is en of er een handhavingsmaatregel loopt. Een gemelde zorgwoning is één vergunde woning met een ondergeschikte eenheid, geen twee wooneenheden. Inbreuken op de informatieplicht worden sinds 1 maart 2018 bestraft met een bestuurlijke geldboete, en de koper kan in bepaalde gevallen de nietigheid van de verkoop vorderen.",
+      },
+      {
+        question: "Wat gebeurt er met de tijdelijke zorgunit in de tuin?",
+        answer:
+          "Een tijdelijke, verplaatsbare constructie mag maximaal 50 vierkante meter groot en 3,5 meter hoog zijn, moet binnen een straal van 30 meter van de woning staan en geldt voor maximaal drie jaar, één keer verlengbaar met drie jaar. Na het einde van de zorgsituatie moet ze binnen drie maanden verwijderd worden. Staat ze er nog bij de verkoop, spreek dan schriftelijk af wie ze wegneemt en wie de kosten draagt.",
+      },
+      {
+        question: "Verlies ik mijn uitkering als ik ga zorgwonen?",
+        answer:
+          "Zorgwonen is precies bedoeld om dat te vermijden. De gemeente registreert het zorgwonen in het Rijksregister, waardoor instellingen die het register raadplegen met die woonvorm rekening kunnen houden bij premies en uitkeringen. Er is wel een werkelijke verhuis nodig: beide huishoudens staan op hetzelfde adres, maar met een eigen code. Vraag uw concrete situatie na bij de instelling die uw uitkering betaalt, want de gevolgen verschillen per stelsel.",
+      },
+    ],
+  },
+  {
+    slug: "discreet-verkopen-zonder-publiciteit",
+    title: "Discreet uw woning verkopen: zonder bord, zonder foto's online en zonder bezichtigingen",
+    metaTitle: "Discreet verkopen: zonder bord, foto's of bezichtigingen",
+    metaDescription:
+      "Discreet verkopen kan, maar niet anoniem. Wat wettelijk in elke advertentie moet, wat sowieso publiek wordt, en wat discretie u kost aan prijs.",
+    publishedAt: "2026-08-23",
+    updatedAt: "2026-08-23",
+    intro:
+      "Discreet verkopen kan, en het is volkomen legaal: er bestaat geen enkele verplichting om uw woning te adverteren, een bord te plaatsen of bezichtigingen te organiseren. U beslist zelf wie uw woning te zien krijgt. Maar discreet is niet hetzelfde als anoniem. Zodra u één advertentie plaatst, ook één zonder adres of foto, moet die het EPC-label en de stedenbouwkundige informatie bevatten. En de eigendomsoverdracht zelf wordt na de akte overgeschreven in een openbaar register. Wat discretie u werkelijk kost, is bereik: minder kandidaten betekent minder concurrentie, en dat weegt op de prijs.",
+    sections: [
+      {
+        heading: "Discreet, stil of anoniem: drie dingen die door elkaar gehaald worden",
+        body: "Bijna elk gesprek over discreet verkopen loopt vast omdat de betrokkenen drie verschillende dingen bedoelen met hetzelfde woord.\n\n**Discreet verkopen** betekent dat er geen bord aan de gevel hangt, dat het adres niet in een advertentie staat, dat er geen interieurfoto's van uw leefwereld online komen en dat er geen kijkdagen met tien onbekenden door uw huis lopen. Dat kan volledig.\n\n**Stille verkoop** betekent dat een makelaar uw woning niet publiceert maar enkel voorstelt aan een geselecteerd bestand van kandidaten. Ook dat kan, maar u bent dan afhankelijk van de omvang en de kwaliteit van dat ene bestand.\n\n**Anoniem verkopen** bestaat niet. Uw naam als eigenaar en de overdracht zelf komen terecht in de registers van het kantoor Rechtszekerheid, en die publiciteit is precies waarvoor die registers bestaan: derden moeten kunnen nagaan wie de eigenaar is en welke lasten op een pand rusten.\n\nWie dat onderscheid eenmaal maakt, stelt meteen de juiste vraag. Niet: *hoe verberg ik dit?* Wel: **wie moet het niet weten, en tot wanneer?**",
+        table: {
+          headers: ["", "Discreet verkopen", "Stille verkoop", "Anoniem verkopen"],
+          rows: [
+            ["Wat het betekent", "Geen bord, geen adres, geen interieurfoto's publiek", "Enkel getoond aan een geselecteerd bestand", "Uw naam en de overdracht blijven onbekend"],
+            ["Kan het?", "Ja, volledig", "Ja", "Nee, niet na de akte"],
+            ["Wie kiest de kandidaten", "U", "De makelaar", "Niet van toepassing"],
+            ["Wat u ervoor opgeeft", "Bereik", "Bereik en concurrentie tussen kandidaten", "Niets, want het bestaat niet"],
+          ],
+        },
+      },
+      {
+        heading: "Wat u niet moet doen, ook al denkt iedereen van wel",
+        body: "Er is geen enkele wettelijke verplichting om uw woning publiek te koop aan te bieden. Concreet: u **moet** geen bord plaatsen, geen advertentie zetten, geen foto's online publiceren, geen open huis houden en geen makelaar inschakelen. Een verkoop tussen twee partijen die elkaar vonden zonder één advertentie is een volwaardige verkoop.\n\nEr is één belangrijke uitzondering: een **openbare verkoop** is per definitie publiek. Wie via het online veilingplatform verkoopt, kiest voor maximale zichtbaarheid — dat is net de bedoeling van die formule. Discretie en een openbare verkoop gaan niet samen.\n\nWat u wél altijd moet doen, verandert niet door discretie: de **verplichte attesten** verzamelen (EPC, bodemattest, elektrische keuring, asbestattest voor panden van vóór 2001, en de rest), en de **informatieplichten** naleven in de compromis en de akte. Discreet verkopen verlaagt uw zichtbaarheid, niet uw verplichtingen.",
+      },
+      {
+        heading: "Zet u één advertentie, dan gelden er meteen regels",
+        body: "Dit is de valkuil van de halve discretie: de verkoper die \"toch even\" een kort berichtje plaatst zonder adres, zonder foto's, met enkel \"woning te koop in Antwerpen-Noord, prijs op aanvraag\". Ook dat is publiciteit, en dus gelden alle vermeldingsplichten.\n\n**Wat er in elke advertentie moet staan:**\n\n• Het **EPC-label** en het **kengetal** in kilowattuur per vierkante meter. Die verplichting geldt vanaf de eerste advertentie, online én offline. Het Vlaams Energie- en Klimaatagentschap controleert steekproefsgewijs en kan een administratieve geldboete opleggen; commerciële bronnen noemen een vork van 500 tot 5.000 euro.\n• De **meest recente stedenbouwkundige bestemming** van het goed, met de benaming uit het plannenregister.\n• Of er voor het goed een **omgevingsvergunning voor stedenbouwkundige handelingen** is uitgereikt.\n• Of het goed het voorwerp is van een **handhavingsmaatregel**, dan wel of er een procedure loopt om er een op te leggen.\n\nVoor die laatste categorie bestaan er officiële **afkortingen** — onder meer Dv voor dagvaarding, Ho voor een rechterlijke herstelmaatregel, Bo voor bestuursdwang, Lod voor een last onder dwangsom, Ms voor een minnelijke schikking en Gmo wanneer er geen maatregel is opgelegd. Maar let op: afkortingen zijn bedoeld voor publiciteit waar per teken of per regel betaald wordt, en horen niet thuis in een internetadvertentie waar de ruimte niet beperkt is.\n\n**En de sanctie is niet symbolisch.** Inbreuken op de informatieplicht worden sinds 1 maart 2018 bestraft met een bestuurlijke geldboete van de gewestelijke beboetingsentiteit. Erger nog: is het goed het voorwerp van een gerechtelijke of bestuurlijke herstelmaatregel of kan het dat worden, dan kan de rechter op vraag van de koper de **titel van eigendomsverkrijging nietig verklaren**, onverminderd diens recht op schadevergoeding.\n\nDe eenvoudigste manier om dat risico op nul te zetten, is uiteraard: geen advertentie.",
+      },
+      {
+        heading: "Wat sowieso publiek wordt — en wat niet",
+        body: "Veel verkopers overschatten wat de buitenwereld te zien krijgt, en onderschatten wat er in de registers belandt. Het correcte beeld:\n\nDe **hypothecaire publiciteit** is het sluitstuk van ons systeem van eigendomsoverdracht. De akte wordt overgeschreven op het bevoegde kantoor Rechtszekerheid, en het is precies de bedoeling dat derden kunnen nagaan wie titularis is van welke zakelijke rechten en welke inschrijvingen, voorrechten of beslagen daarop rusten. In beginsel levert het kantoor een getuigschrift af aan wie erom verzoekt, tegen betaling. Uw verkoop wordt dus niet aangekondigd, maar hij is wel **opzoekbaar**.\n\nWat er níét gebeurt: uw individuele verkoopprijs wordt nergens als losse publicatie gepubliceerd. De cijfers die u in de pers ziet — de vastgoedbarometer van de notarissen, de statistieken per gemeente — zijn **geaggregeerd**. Uw straat kan erin zitten, uw huisnummer niet.\n\nEn dan de praktijk, die niemand in een register vindt maar die uw buren wel opmerkt: de energiedeskundige die een halve dag rondloopt, de landmeter, de asbestdeskundige die stalen neemt, de containers, en later de verhuiswagen. Volledige onzichtbaarheid bestaat niet. **Wat u wél kunt sturen, is het verhaal.** Wie zelf, tijdig en kort aan de directe buren zegt dat hij verkoopt, houdt de regie. Wie zwijgt tot de verhuiswagen voorrijdt, geeft ze weg.",
+        table: {
+          headers: ["Gegeven", "Wordt het publiek?", "Waar"],
+          rows: [
+            ["Dat uw woning te koop staat", "Alleen als u adverteert", "Advertentie, bord, sociale media"],
+            ["Uw naam als eigenaar", "Ja, ook zonder advertentie", "De registers van het kantoor Rechtszekerheid"],
+            ["De prijs in uw akte", "Niet als losse publicatie, wel opvraagbaar via de hypothecaire publiciteit", "Kantoor Rechtszekerheid"],
+            ["Prijsstatistieken van uw buurt", "Ja, maar geaggregeerd", "Statbel en de notarisbarometer"],
+            ["Uw reden om te verkopen", "Nooit, tenzij u ze zelf vertelt", "Enkel wat u deelt"],
+          ],
+        },
+      },
+      {
+        heading: "De vier discrete routes, met hun echte prijskaartje",
+        body: "Er zijn maar vier manieren om een woning te verkopen zonder publiciteit, en elk ervan heeft een kost die u vooraf moet kennen.\n\n**1. Stille verkoop via een makelaar.** Uw pand gaat niet online, maar wordt aangeboden aan het bestand van één kantoor. Voordeel: begeleiding en een zekere selectie aan de deur. Nadeel: u betaalt de volle commissie voor een fractie van het bereik, en u hebt weinig zicht op hoeveel kandidaten uw dossier echt gezien hebben.\n\n**2. Gericht aanbieden aan wie al met het pand verbonden is.** De zittende huurder, de buur die uitbreiding zoekt, een familielid, de eigenaar van het aanpalende pand. Voordeel: nul publiciteit en een gemotiveerde kandidaat. Nadeel: u onderhandelt met één partij die dat weet, en die relatie moet daarna nog jaren mee.\n\n**3. Openbare verkoop.** Volledig transparant, met een vaste kalender en een duidelijk eindpunt — maar het tegenovergestelde van discreet.\n\n**4. Directe verkoop aan een professionele koper.** Eén partij ziet het pand, doet één plaatsbezoek en brengt een schriftelijk bod uit. Voordeel: geen publiciteit, geen bezichtigingen, een vaste datum. Nadeel: u hebt één bod in plaats van een markt, dus u moet dat bod zelf kunnen toetsen.",
+        table: {
+          headers: ["Route", "Wie ziet uw woning", "Doorlooptijd", "Wat het u kost"],
+          rows: [
+            ["Stille verkoop via een makelaar", "Het bestand van één kantoor", "Onvoorspelbaar", "Volle commissie voor een fractie van het bereik"],
+            ["Gericht aanbieden aan huurder, buur of familie", "Enkele personen", "Kort tot zeer lang", "Onderhandelen met één partij die dat weet"],
+            ["Openbare verkoop", "Iedereen", "Vast", "Maximale zichtbaarheid, dus geen discretie"],
+            ["Directe verkoop aan een professionele koper", "Eén partij", "Kort en vast", "Eén bod in plaats van een markt"],
+          ],
+        },
+      },
+      {
+        heading: "Waarom discretie geld kost — en hoe u dat beperkt",
+        body: "Het mechanisme is eenvoudig en het heeft niets met de waarde van uw woning te maken. **Uw prijs komt niet uit uw pand, maar uit het aantal kandidaten dat er tegelijk naar kijkt.** Twee geïnteresseerden die van elkaar weten, drijven de prijs op. Eén geïnteresseerde die weet dat hij de enige is, doet dat niet.\n\nWie discreet verkoopt, schakelt precies dat mechanisme uit. Dat is geen bezwaar — het is gewoon de prijs van de rust die u koopt. Maar u moet ze bewust betalen, niet per ongeluk.\n\nVier manieren om dat verschil klein te houden:\n\n• **Vertrek van een onafhankelijke waardebepaling.** Zonder markt hebt u een ijkpunt nodig. Een schattingsverslag van een landmeter-expert kost een paar honderd euro en verandert een onderhandeling van gevoel naar cijfer.\n• **Vraag altijd een tweede bod.** Twee professionele kopers die onafhankelijk van elkaar rekenen, geven u een vork. Eén bod geeft u een bedrag zonder context.\n• **Vraag naar de opbouw, niet naar het cijfer.** Een ernstige koper legt uit hoe hij aan zijn bod komt: waarde na renovatie, min het renovatiebudget, min zijn kosten en zijn marge. Wie enkel een bedrag noemt, geeft u niets om mee te vergelijken.\n• **Reken netto, niet bruto.** Bij een discrete verkoop vallen commissie, publiciteitskosten en maanden dubbele lasten weg. Vergelijk dus het bedrag dat op uw rekening komt, niet de vraagprijs van het huis verderop.",
+      },
+      {
+        heading: "Bezichtigingen vermijden zonder blind te verkopen",
+        body: "Geen kijkdagen betekent niet dat niemand binnenkomt. Een koper die een pand nooit zag, kan er geen serieus bod op doen — en een bod dat later \"onder voorbehoud van een bezoek\" alsnog naar beneden gaat, is erger dan geen bod.\n\nDe werkbare middenweg is **één plaatsbezoek in plaats van tien**:\n\n1. **Spreek een tijdstip af dat u past**, desnoods buiten de kantooruren of in het weekend. U bepaalt wie er die dag in huis is.\n2. **Laat één partij komen, niet drie na elkaar.** Wie discretie wil, spreidt bezoeken niet over een zaterdag.\n3. **Maak zelf de foto's die u wil delen**, of spreek af dat er geen beeldmateriaal het pand verlaat. Dat is een afspraak die u gewoon in het gesprek maakt.\n4. **Zet vertrouwelijkheid op papier** als er gevoelige informatie meegaat — bij een verhuurd pand, een dossier in een echtscheiding of een pand van een vennootschap is dat geen overdrijving.\n5. **Geef de sleutel nooit af vóór de akte.** Ook niet \"om even te meten\". Vóór de akte bent u eigenaar, en uw brandverzekering vertrekt daarvan.\n\nEn de meest onderschatte tip: **verzamel uw attesten vóór het eerste gesprek.** Een koper die alle stukken meteen krijgt, hoeft niet terug te komen, hoeft niets te laten onderzoeken en kan sneller een bod uitbrengen dat hij ook waarmaakt. Elk bijkomend bezoek dat u kunt vermijden, is winst voor uw discretie.",
+      },
+      {
+        heading: "Zo werkt het bij wijkopenpanden.be",
+        body: "Discretie is bij ons geen extra dienst, het is gewoon hoe de aankoop verloopt. Er komt geen bord, geen advertentie, geen fotoreportage en geen kijkdag aan te pas, want wij kopen zelf.\n\n• U bezorgt ons de gegevens van uw pand in de **regio Antwerpen** en krijgt **binnen 2 uur een reactie**, ook in het weekend.\n• Er volgt **één plaatsbezoek**, op een moment dat u kiest. Daarna ontvangt u een **schriftelijk en gemotiveerd bod**.\n• Wij kopen in de **huidige staat**, inboedel inbegrepen. U hoeft niet op te ruimen, niet te schilderen en niet te stylen voor foto's die er toch niet komen.\n• Wij kopen **met eigen middelen en zonder opschortende voorwaarde van financiering**, u werkt met de **notaris van uw keuze**, wij vragen **geen exclusiviteit** en rekenen **geen commissie**. De akte verlijdt doorgaans binnen 2 tot 3 maanden.\n\nEn wat wij u uitdrukkelijk aanraden: **vergelijk ons bod.** Vraag een tweede bod bij een andere professionele koper, of laat een schatting maken. Discreet verkopen mag u nooit uw referentiepunt kosten. Wij geven u liever een cijfer dat de toets doorstaat dan een cijfer dat u niet kunt controleren.",
+      },
+    ],
+    relatedArticles: ["huis-verkopen-antwerpen-gids", "commissie-makelaar-belgie", "makelaarscontract-opzeggen-en-zelf-verkopen", "opkoper-of-makelaar-verschil", "bod-aanvragen-vrijblijvend-bindend", "woning-verkopen-via-biddit", "huis-verkopen-bij-betalingsproblemen-schulden", "pand-laten-schatten-schattingsverslag", "stedenbouwkundige-overtreding-woning-verkopen", "fouten-bij-verkopen-aan-opkoper"],
+    relatedSituations: ["verkopen-zonder-makelaar", "vastgoedopkoper-antwerpen", "huis-verkopen-bij-scheiding", "pand-snel-verkopen"],
+    faqs: [
+      {
+        question: "Mag ik mijn woning verkopen zonder ze te adverteren?",
+        answer:
+          "Ja. Er bestaat geen enkele verplichting om uw woning publiek aan te bieden, een bord te plaatsen, foto's te publiceren of bezichtigingen te organiseren. Een verkoop tussen twee partijen die elkaar zonder advertentie vonden, is een volwaardige verkoop. Uw overige verplichtingen blijven wel gelden: de verplichte attesten en de informatieplichten in de compromis en de akte veranderen niet doordat u discreet werkt.",
+      },
+      {
+        question: "Moet het EPC-label in mijn advertentie staan als ik geen adres vermeld?",
+        answer:
+          "Ja. De verplichting hangt aan de publiciteit, niet aan het detailniveau ervan. Zodra u adverteert, moeten het EPC-label en het kengetal in kilowattuur per vierkante meter vermeld worden, online en offline. Het Vlaams Energie- en Klimaatagentschap controleert steekproefsgewijs en kan een administratieve geldboete opleggen. Ook de stedenbouwkundige vermeldingen zijn dan verplicht: de bestemming, of er een vergunning is en of er een handhavingsmaatregel loopt.",
+      },
+      {
+        question: "Kan iemand achteraf opzoeken wat ik voor mijn huis kreeg?",
+        answer:
+          "Uw individuele verkoopprijs wordt nergens als losse publicatie gepubliceerd; de cijfers in de pers zijn geaggregeerd per gemeente of wijk. Maar de akte wordt wel overgeschreven op het kantoor Rechtszekerheid, en dat register bestaat juist om derden te laten nagaan wie eigenaar is en welke lasten er rusten. In beginsel wordt een getuigschrift afgeleverd aan wie erom verzoekt, tegen betaling. Anoniem verkopen bestaat dus niet.",
+      },
+      {
+        question: "Verlies ik veel geld door discreet te verkopen?",
+        answer:
+          "U verliest bereik, en bereik is wat de prijs opdrijft. Twee kandidaten die van elkaar weten, bieden tegen elkaar op; één kandidaat die weet dat hij de enige is, doet dat niet. Beperk dat verschil door te vertrekken van een onafhankelijke waardebepaling, altijd een tweede bod te vragen, naar de opbouw van een bod te vragen in plaats van naar het cijfer, en netto te rekenen: zonder commissie en zonder maanden dubbele lasten ziet de vergelijking er vaak anders uit.",
+      },
+      {
+        question: "Kan ik verkopen zonder dat mijn huurders het merken?",
+        answer:
+          "Niet volledig, en dat is ook niet de bedoeling. Een huurder heeft rechten bij een verkoop en moet toegang geven voor bezoeken volgens wat contractueel is afgesproken. U kunt de last wel sterk beperken door één plaatsbezoek te organiseren in plaats van een reeks bezichtigingen, en door het pand in verhuurde staat te verkopen aan een koper die de huurovereenkomst overneemt. Speel open kaart met uw huurder: een tegenwerkende huurder kost u meer dan discretie u oplevert.",
+      },
+      {
+        question: "Is een verkoop aan een opkoper hetzelfde als discreet verkopen?",
+        answer:
+          "Het is één manier om discreet te verkopen, niet de enige. Er komt geen publiciteit en geen kijkdag aan te pas, want de koper is meteen de eindkoper. Daar staat tegenover dat u met één bod werkt in plaats van met een markt. Vraag daarom altijd naar de opbouw van het bod, vraag een tweede bod bij een andere professionele koper, en vergelijk het nettobedrag met wat een klassieke verkoop u na commissie en doorlooptijd zou opleveren.",
+      },
+    ],
+  },
+  {
+    slug: "verkoop-woning-invloed-op-uitkering-leefloon-igo",
+    title: "Uw woning verkopen en uw uitkering: leefloon, IGO en zorgbudget, en de tienjaarsregel",
+    metaTitle: "Woning verkopen: wat het doet met uw uitkering",
+    metaDescription:
+      "Verkoopt u uw woning, dan telt de opbrengst mee voor leefloon, IGO en zorgbudget — tot tien jaar lang. Wat wel en niet meetelt, met de percentages.",
+    publishedAt: "2026-08-23",
+    updatedAt: "2026-08-23",
+    intro:
+      "Of de opbrengst van uw woning uw uitkering raakt, hangt van één onderscheid af. Uitkeringen die u door te werken hebt opgebouwd — het wettelijk pensioen, de werkloosheidsuitkering, de ziekte- en invaliditeitsuitkering — kijken naar uw loopbaan en uw gezinstoestand, niet naar uw vermogen. Die verandert u in beginsel niet door te verkopen. Bijstandsuitkeringen die vertrekken van een onderzoek naar uw bestaansmiddelen — het leefloon, de inkomensgarantie voor ouderen en het zorgbudget voor ouderen met een zorgnood — doen dat wél. En ze kijken tien jaar terug, ook bij een schenking. Verkopen is dus zelden sociaal neutraal.",
+    sections: [
+      {
+        heading: "Eén onderscheid bepaalt alles: verzekering of bijstand",
+        body: "Ons sociaal systeem bestaat uit twee lagen die niets met elkaar te maken hebben, en die verwarring kost mensen jaarlijks veel geld.\n\nDe **verzekeringslaag** vertrekt van bijdragen die u betaalde tijdens uw loopbaan. Wat u bezit, is daarbij niet relevant. Uw pensioen wordt berekend op uw loopbaan, niet op uw spaarrekening. Uw werkloosheids- of ziekte-uitkering hangt af van uw laatste loon en van uw gezinstoestand — of u samenwoont, gezinslast hebt of alleenstaande bent — maar niet van de vraag of u een huis hebt verkocht.\n\nDe **bijstandslaag** vertrekt van het omgekeerde principe: u krijgt aanvulling tot een bepaald niveau, en daarvoor onderzoekt men eerst wat u zelf hebt. Dat onderzoek heet niet toevallig een **onderzoek naar de bestaansmiddelen**, en het kijkt naar uw inkomsten, uw spaargeld, uw beleggingen, uw onroerende goederen én naar wat u de voorbije jaren vervreemd hebt.\n\nZet die twee naast elkaar en de meeste vragen beantwoorden zichzelf.",
+        table: {
+          headers: ["Uitkering", "Kijkt men naar uw vermogen?", "Wat een verkoop doet"],
+          rows: [
+            ["Wettelijk pensioen", "Nee", "In beginsel niets"],
+            ["Werkloosheidsuitkering", "Nee, wel naar uw gezinstoestand", "In beginsel niets"],
+            ["Ziekte- en invaliditeitsuitkering", "Nee, wel naar uw gezinstoestand", "In beginsel niets"],
+            ["Leefloon", "Ja", "De opbrengst wordt tien jaar lang aangerekend"],
+            ["Inkomensgarantie voor ouderen", "Ja", "De verkoopwaarde wordt tien jaar lang aangerekend"],
+            ["Zorgbudget voor ouderen met een zorgnood", "Ja", "De zorgkas herberekent uw recht"],
+          ],
+        },
+      },
+      {
+        heading: "Leefloon: hoe het OCMW een verkoopopbrengst aanrekent",
+        body: "Voor het leefloon staan de regels in het **koninklijk besluit van 11 juli 2002**, het algemeen reglement betreffende het recht op maatschappelijke integratie. Drie artikelen doen het werk.\n\n**Artikel 27** bepaalt hoe roerende kapitalen — dus ook het geld op uw rekening na de verkoop — worden omgezet in een fictief jaarinkomen: er wordt rekening gehouden met **6 procent van de schijf tussen 6.200 en 12.500 euro, en met 10 procent van wat daarboven ligt**. Staat een rekening op meer namen, dan worden die grensbedragen gedeeld door het aantal titularissen.\n\n**Artikel 28** is het artikel dat mensen verrast. Heeft de aanvrager in de **tien jaar** vóór de ingangsdatum van zijn aanvraag roerende of onroerende goederen **om niet of onder bezwarende titel afgestaan**, dan wordt er een forfaitair inkomen aangerekend dat overeenstemt met de **verkoopwaarde van die goederen op het ogenblik van de afstand** — berekend volgens dezelfde methode als in artikel 27.\n\nLees die zin nog eens. Er staat niet: het geld dat u nog hebt. Er staat: de waarde van wat u afstond. **Of u dat geld ondertussen hebt uitgegeven, staat er niet in.**\n\n**Artikel 29** biedt de belangrijkste tegenwicht: op de verkoopwaarde wordt een **eerste schijf van 37.200 euro vrijgesteld** wanneer het gaat om de woning die u bewoonde en u geen ander bebouwd onroerend goed bezit, of om uw enige onbebouwde onroerend goed.\n\n**Artikel 30** laat u de **persoonlijke schulden aftrekken** die u vóór de vervreemding was aangegaan, op voorwaarde dat u aantoont dat u ze geheel of gedeeltelijk met de opbrengst hebt terugbetaald. Dat is precies waarom u de aflossing van uw hypothecair krediet bij de akte moet kunnen bewijzen.\n\nEn tot slot een geruststelling die vaak ontbreekt: **het OCMW kan u niet verplichten uw woning te verkopen** vóór u recht hebt op steun. Bezit u een woning, dan wordt daarvoor wel een fictief inkomen aangerekend, in de regel op basis van het niet-vrijgestelde kadastraal inkomen vermenigvuldigd met drie.",
+        table: {
+          headers: ["Schijf van de aangerekende waarde", "Percentage dat als bestaansmiddel telt"],
+          rows: [
+            ["Tot 6.200 euro", "0 procent"],
+            ["Van 6.200 tot 12.500 euro", "6 procent"],
+            ["Boven 12.500 euro", "10 procent"],
+          ],
+        },
+      },
+      {
+        heading: "De inkomensgarantie voor ouderen: de strengste van de drie",
+        body: "De IGO is een bijstandsuitkering voor 65-plussers met een ontoereikend pensioen. Het onderzoek naar de bestaansmiddelen staat in het **koninklijk besluit van 23 mei 2001**, en het is strenger dan bij het leefloon — niet in de percentages, wel in wat er allemaal meetelt.\n\n**Roerende kapitalen** worden aangerekend aan **4 procent van de schijf tussen 6.200 en 18.600 euro en 10 procent van wat daarboven ligt**.\n\n**Onroerende goederen die u nog bezit** worden aangerekend door het **niet-vrijgestelde kadastraal inkomen met 3 te vermenigvuldigen**, zowel voor bebouwde als voor onbebouwde goederen. Er geldt een basisvrijstelling op het kadastraal inkomen, verhoogd per kind waarvoor kinderbijslag wordt ontvangen.\n\n**Afstand van onroerend goed in de tien jaar** vóór de ingangsdatum van uw aanvraag wordt aangerekend op basis van de verkoopwaarde op het ogenblik van de afstand. Daarbij gelden drie correcties die u moet kennen omdat ze samen een groot verschil maken:\n\n• Een **abattement van 37.200 euro** op de eerste schijf van de verkoopwaarde, voor de eigen woning of het enige onbebouwde goed.\n• Een **jaarlijks abattement** dat automatisch verder afbouwt: 1.250 euro per jaar bij het basisbedrag, 2.000 euro per jaar bij het verhoogde basisbedrag, berekend naar maanden en toegepast op de verjaardag van de IGO.\n• De **aftrek van persoonlijke schulden** die u vóór de afstand aanging en met de opbrengst terugbetaalde.\n\nEn twee waarderingsregels die bij familiale constructies beslissend zijn: bij afstand van een **vruchtgebruik** wordt de waarde vastgesteld op **40 procent** van de waarde in volle eigendom; de **blote eigendom** vertegenwoordigt de resterende 60 procent.",
+        table: {
+          headers: ["Schijf van de aangerekende waarde", "Percentage dat als bestaansmiddel telt"],
+          rows: [
+            ["Tot 6.200 euro", "0 procent"],
+            ["Van 6.200 tot 18.600 euro", "4 procent"],
+            ["Boven 18.600 euro", "10 procent"],
+          ],
+        },
+      },
+      {
+        heading: "Een rekenvoorbeeld dat het concreet maakt",
+        body: "Neem een alleenstaande van 72 jaar met een klein pensioen die IGO ontvangt. Zij verkoopt haar rijhuis voor 250.000 euro. Er staat nog 80.000 euro hypothecair krediet open, dat bij de akte wordt afgelost. Drie jaar later wordt haar dossier herbekeken.\n\nZo ziet de redenering er in grote lijnen uit. Let op: de Pensioendienst past de regels toe in een vaste volgorde en op basis van uw volledige dossier — beschouw dit als een illustratie van de mechaniek, niet als uw uitkomst.\n\nWat dit voorbeeld vooral toont: **de aangerekende bestaansmiddelen liggen hier ruim boven het bedrag van de IGO zelf.** Het recht valt dus weg, en het valt niet weg omdat het geld op de rekening staat, maar omdat de woning verkocht is. Iemand die de opbrengst intussen in een appartement heeft gestoken, in de zorg van een partner of aan haar kinderen heeft gegeven, zit in exact hetzelfde geval — met dat verschil dat zij het geld niet meer heeft.\n\nDat is de reden waarom deze berekening **vóór** de verkoop gemaakt moet worden en niet erna.",
+        table: {
+          headers: ["Stap", "Bedrag"],
+          rows: [
+            ["Verkoopwaarde van de woning", "250.000 euro"],
+            ["Af: hypothecair krediet, afgelost met de opbrengst", "80.000 euro"],
+            ["Af: abattement voor de eigen woning", "37.200 euro"],
+            ["Af: jaarlijks abattement na 3 jaar (3 x 1.250 euro)", "3.750 euro"],
+            ["Basis waarop het forfait berekend wordt", "129.050 euro"],
+            ["Aangerekend als bestaansmiddel per jaar", "ongeveer 11.500 euro"],
+          ],
+        },
+      },
+      {
+        heading: "Het zorgbudget voor ouderen met een zorgnood",
+        body: "Het zorgbudget voor ouderen met een zorgnood — de vroegere tegemoetkoming voor hulp aan bejaarden — is de derde uitkering met een inkomensonderzoek. Ze is bedoeld voor 65-plussers met een beperkt inkomen en een verminderd zelfzorgvermogen, en ze wordt uitbetaald door uw **zorgkas**.\n\nHet Departement Zorg is duidelijk over wat er meetelt: **pensioen, inkomen uit arbeid, vervangingsinkomen, spaargelden en beleggingen**, en daarnaast het bezit van onroerende goederen en **de opbrengst van de verkoop of de schenking ervan**. Een verkoop of schenking leidt in de praktijk vaak tot een vermindering of tot het einde van het zorgbudget.\n\nEr geldt wel een vrijstelling op het inkomen. Voor een alleenwonende gaat het om **17.945,40 euro** per jaar, voor wie een partner heeft om **22.424,30 euro**; die bedragen worden automatisch aangepast wanneer de spilindex overschreden wordt. Controleer altijd het actuele bedrag bij uw zorgkas, want die indexering gebeurt tussentijds.\n\nEn dan de verplichting die het vaakst vergeten wordt: **stijgt uw inkomen of dat van uw partner met minstens 10 procent, dan moet u dat binnen drie maanden melden.** Een woningverkoop haalt die drempel bijna altijd. Wie niet meldt, krijgt het bedrag niet kwijtgescholden maar teruggevorderd — vaak jaren later, en dan in één keer.",
+      },
+      {
+        heading: "Waarom schenken hier vaak slechter uitpakt dan verkopen",
+        body: "Veel mensen redeneren omgekeerd: *ik geef de woning aan mijn kinderen, dan heb ik niets meer en behoud ik mijn uitkering.* Precies daarvoor bestaan die tienjaarsregels.\n\nZowel bij het leefloon als bij de IGO wordt het forfaitaire inkomen berekend op de **verkoopwaarde van het goed op het ogenblik van de afstand** — en het besluit spreekt uitdrukkelijk over afstand **om niet of onder bezwarende titel**. Een schenking is een afstand om niet. Het gevolg is bikkelhard:\n\n• Bij een **verkoop** wordt de waarde aangerekend, maar u hebt het geld.\n• Bij een **schenking** wordt exact dezelfde waarde aangerekend, en u hebt het geld niet.\n\nDrie situaties waarin dit misloopt zonder dat iemand slechte bedoelingen had:\n\n• De woning werd **jaren geleden** al aan de kinderen geschonken, met voorbehoud van vruchtgebruik, om erfbelasting te besparen. Bij de latere IGO-aanvraag blijkt de schenking binnen de tienjaarstermijn te vallen.\n• De **blote eigendom** werd overgedragen en het vruchtgebruik behouden. Dat lost niets op: de blote eigendom vertegenwoordigt 60 procent van de waarde in volle eigendom en wordt als afstand aangerekend.\n• Een **lijfrenteverkoop** is voor deze regels evengoed een afstand van onroerend goed. Het bouquet en het behouden woonrecht veranderen daar niets aan. Bespreek dit dus uitdrukkelijk vóór u tekent.\n\nDe conclusie is niet dat u niet mag schenken. De conclusie is dat een schenking of een lijfrente een beslissing is die u **samen met uw uitkeringsdossier** neemt, en niet enkel met uw notaris of uw kinderen.",
+      },
+      {
+        heading: "Wat u concreet kunt doen — en wat niet werkt",
+        body: "**Wat werkt:**\n\n1. **Reken vooraf.** Vraag uw uitbetalingsinstelling — het OCMW, de Federale Pensioendienst of uw zorgkas — schriftelijk wat een verkoop met uw dossier doet, vóór u een compromis tekent. Dat is een gewone vraag en niemand neemt u ze kwalijk.\n2. **Los uw schulden af met de opbrengst en bewaar het bewijs.** Zowel bij het leefloon als bij de IGO mag u persoonlijke schulden die u vóór de afstand aanging in mindering brengen als u aantoont dat u ze met de opbrengst terugbetaalde. De afrekening van de notaris is daarvoor uw belangrijkste stuk.\n3. **Meld tijdig.** Bij het zorgbudget is er een uitdrukkelijke meldingsplicht binnen drie maanden bij een inkomensstijging van 10 procent of meer. Ook voor de IGO en het leefloon meldt u een wijziging spontaan.\n4. **Houd de tienjaarsklok in het oog** bij planning op langere termijn. Een afstand die meer dan tien jaar vóór de ingangsdatum van de aanvraag gebeurde, valt buiten de aanrekening.\n5. **Verwacht dat de bedragen dalen, niet dat ze verdwijnen.** Het jaarlijkse abattement bouwt de aangerekende waarde bij de IGO elk jaar verder af.\n\n**Wat niet werkt:**\n\n• Het geld op de rekening van een kind of kleinkind zetten. Dat is een nieuwe afstand, geen oplossing.\n• Ervan uitgaan dat een uitgegeven som niet meer meetelt. Het forfait wordt berekend op de waarde op het ogenblik van de afstand, niet op wat er nog over is.\n• Niets melden en hopen dat het niet opvalt. De instellingen raadplegen de patrimoniumdocumentatie; een terugvordering komt vaak jaren later en dan in één bedrag.\n• Denken dat een lager verkoopbedrag u helpt. Onder de marktwaarde verkopen kost u dubbel: u krijgt minder én de instelling kan van de werkelijke verkoopwaarde uitgaan.",
+      },
+      {
+        heading: "Zo werkt het bij wijkopenpanden.be",
+        body: "Wie een uitkering ontvangt en over een verkoop nadenkt, heeft vooral nood aan **twee cijfers en een datum**: wat levert de woning netto op, wanneer staat het geld er, en wat betekent dat voor het dossier.\n\n• U krijgt **binnen 2 uur een reactie** op uw aanvraag en na een plaatsbezoek een **schriftelijk en gemotiveerd bod**. Dat is een stuk dat u letterlijk kunt meenemen naar het OCMW, de Pensioendienst of uw zorgkas om vooraf te laten berekenen wat er met uw uitkering gebeurt.\n• Wij kopen panden in de **regio Antwerpen** in de **huidige staat**, inboedel inbegrepen, **zonder commissie** en **zonder opschortende voorwaarde van financiering**. U werkt met de **notaris van uw keuze**.\n• De akte verlijdt doorgaans binnen **2 tot 3 maanden**, met een datum die vooraf vaststaat. Voor wie moet melden binnen een termijn, is voorspelbaarheid meer waard dan een vraagprijs die maandenlang blijft hangen.\n\nWat wij **niet** doen, zeggen wij er meteen bij: wij berekenen uw uitkering niet en wij geven daar geen advies over. Dat is werk voor uw OCMW, de Federale Pensioendienst of uw zorgkas, en zij zijn de enigen die uw volledige dossier zien. Wat wij wél leveren, is het cijfer waarmee zij kunnen rekenen — vóór u iets tekent, niet erna.",
+      },
+    ],
+    relatedArticles: ["woning-verkopen-verhuis-woonzorgcentrum", "lijfrente-woning-verkopen-belgie", "huis-verkopen-bij-betalingsproblemen-schulden", "woning-verkopen-in-collectieve-schuldenregeling", "schenking-woning-vlaanderen", "belastingen-bij-woningverkoop", "blote-eigendom-verkopen", "vruchtgebruik-woning-verkopen", "woning-verkopen-onder-bewind", "verkoop-kosten-berekenen"],
+    relatedSituations: ["vastgoedopkoper-antwerpen", "huis-snel-verkopen", "blijven-wonen", "lijfrente-antwerpen"],
+    faqs: [
+      {
+        question: "Verlies ik mijn pensioen als ik mijn huis verkoop?",
+        answer:
+          "Nee. Het wettelijk pensioen wordt berekend op uw loopbaan en uw loon, niet op uw vermogen. Een verkoop verandert daar in beginsel niets aan. Het onderscheid dat telt is dat tussen verzekeringsuitkeringen, zoals pensioen, werkloosheid en ziekte-uitkering, en bijstandsuitkeringen met een onderzoek naar de bestaansmiddelen: het leefloon, de inkomensgarantie voor ouderen en het zorgbudget voor ouderen met een zorgnood. Enkel die laatste drie kijken naar wat u bezit of afstond.",
+      },
+      {
+        question: "Hoelang telt de opbrengst van mijn verkoop mee?",
+        answer:
+          "Tien jaar. Zowel bij het leefloon als bij de inkomensgarantie voor ouderen wordt gekeken naar roerende of onroerende goederen die u om niet of onder bezwarende titel hebt afgestaan in de tien jaar vóór de ingangsdatum van de aanvraag. Er wordt dan een forfaitair inkomen aangerekend op basis van de verkoopwaarde op het ogenblik van de afstand — niet op basis van wat er vandaag nog van over is.",
+      },
+      {
+        question: "Helpt het om de woning aan mijn kinderen te schenken?",
+        answer:
+          "Meestal niet, integendeel. De regels spreken uitdrukkelijk over afstand om niet of onder bezwarende titel: een schenking wordt dus op dezelfde manier aangerekend als een verkoop, op basis van de waarde op het ogenblik van de afstand. Het verschil is dat u bij een verkoop het geld hebt en bij een schenking niet. Ook het overdragen van de blote eigendom lost niets op: die vertegenwoordigt 60 procent van de waarde in volle eigendom.",
+      },
+      {
+        question: "Mag ik mijn hypothecaire lening aftrekken van de aangerekende opbrengst?",
+        answer:
+          "Ja, mits bewijs. Zowel bij het leefloon als bij de inkomensgarantie voor ouderen mogen persoonlijke schulden die u vóór de vervreemding was aangegaan afgetrokken worden, op voorwaarde dat u aantoont dat u ze geheel of gedeeltelijk met de opbrengst hebt terugbetaald. Bewaar dus de afrekening van de notaris en het bewijs van de aflossing van uw krediet. Zonder die stukken vertrekt de berekening van de volledige verkoopwaarde.",
+      },
+      {
+        question: "Kan het OCMW mij verplichten mijn woning te verkopen?",
+        answer:
+          "Nee. Het OCMW kan u niet verplichten uw woning te verkopen vooraleer u recht hebt op steun. Wel wordt er voor een onroerend goed dat u bezit een fictief inkomen aangerekend, in de regel op basis van het niet-vrijgestelde kadastraal inkomen vermenigvuldigd met drie. Bezit alleen sluit het recht op leefloon dus niet uit; het beïnvloedt wel het bedrag. Vraag uw maatschappelijk werker om de berekening voor uw concrete situatie.",
+      },
+      {
+        question: "Moet ik de verkoop melden, en binnen welke termijn?",
+        answer:
+          "Melden is altijd het veiligst. Voor het zorgbudget voor ouderen met een zorgnood is er een uitdrukkelijke regel: stijgt uw inkomen of dat van uw partner met minstens 10 procent, dan moet u dat binnen drie maanden melden. Een woningverkoop haalt die drempel bijna altijd. Ook voor het leefloon en de inkomensgarantie voor ouderen meldt u een wijziging spontaan. Wie niet meldt, riskeert een terugvordering die vaak jaren later in één keer komt.",
       },
     ],
   },
