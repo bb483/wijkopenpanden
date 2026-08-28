@@ -42,8 +42,8 @@ export const propertyTypes: PropertyType[] = [
       { area: "Wilrijk", min: 230000, max: 360000, note: "Rustige ligging, ruimere tuinen" },
     ],
     relatedRegions: ["borgerhout", "deurne", "berchem", "wilrijk"],
-    relatedSituations: ["huis-verkopen-bij-erfenis", "huis-verkopen-bij-scheiding", "opknappand-verkopen", "huis-snel-verkopen", "schatting-pand"],
-    relatedArticles: ["energie-renovatieplicht-vlaanderen-2026", "epc-attest-antwerpen", "keuringen-bij-verkoop-woning", "pand-in-slechte-staat-verkopen", "commissie-makelaar-belgie"],
+    relatedSituations: ["rijhuis-snel-verkopen", "huis-verkopen-bij-erfenis", "huis-verkopen-bij-scheiding", "opknappand-verkopen", "huis-snel-verkopen", "schatting-pand"],
+    relatedArticles: ["energie-renovatieplicht-vlaanderen-2026", "epc-attest-antwerpen", "keuringen-bij-verkoop-woning", "pand-in-slechte-staat-verkopen", "oud-gebouw-te-renoveren-pand-verkopen", "commissie-makelaar-belgie"],
     faqs: [
       {
         question: "Koopt u een rijhuis aan als de elektriciteit niet conform is?",
@@ -112,7 +112,7 @@ export const propertyTypes: PropertyType[] = [
       { area: "Wilrijk / Mortsel", min: 155000, max: 270000, note: "Rustiger, gericht op gezinnen" },
     ],
     relatedRegions: ["antwerpen", "berchem", "borgerhout", "deurne"],
-    relatedSituations: ["huis-verkopen-bij-erfenis", "huis-verkopen-bij-scheiding", "pand-met-huurders-verkopen", "huis-snel-verkopen", "vastgoedopkoper-antwerpen"],
+    relatedSituations: ["appartement-snel-verkopen", "huis-verkopen-bij-erfenis", "huis-verkopen-bij-scheiding", "pand-met-huurders-verkopen", "huis-snel-verkopen", "vastgoedopkoper-antwerpen"],
     relatedArticles: ["mede-eigendom-verkopen", "energie-renovatieplicht-vlaanderen-2026", "keuringen-bij-verkoop-woning", "epc-attest-antwerpen", "commissie-makelaar-belgie"],
     faqs: [
       {
@@ -182,8 +182,8 @@ export const propertyTypes: PropertyType[] = [
       { area: "Borgerhout-rand / Deurne", min: 310000, max: 510000, note: "Lagere instapdrempel, meer renovatiepanden" },
     ],
     relatedRegions: ["antwerpen", "berchem", "borgerhout"],
-    relatedSituations: ["huis-verkopen-bij-erfenis", "opknappand-verkopen", "huis-snel-verkopen"],
-    relatedArticles: ["energie-renovatieplicht-vlaanderen-2026", "keuringen-bij-verkoop-woning", "epc-attest-antwerpen", "belastingen-bij-woningverkoop", "pand-in-slechte-staat-verkopen"],
+    relatedSituations: ["herenhuis-snel-verkopen", "huis-verkopen-bij-erfenis", "opknappand-verkopen", "huis-snel-verkopen"],
+    relatedArticles: ["energie-renovatieplicht-vlaanderen-2026", "keuringen-bij-verkoop-woning", "epc-attest-antwerpen", "belastingen-bij-woningverkoop", "pand-in-slechte-staat-verkopen", "oud-gebouw-te-renoveren-pand-verkopen"],
     faqs: [
       {
         question: "Kan ik een beschermd herenhuis in Zurenborg verkopen zonder vergunning?",
@@ -252,8 +252,8 @@ export const propertyTypes: PropertyType[] = [
       { area: "Wilrijk / Mortsel", min: 350000, max: 590000, note: "Stedelijk karakter, ruimere rijwoningen en bungalows" },
     ],
     relatedRegions: ["schilde", "brasschaat", "edegem", "kontich", "wilrijk"],
-    relatedSituations: ["huis-verkopen-bij-erfenis", "opknappand-verkopen", "huis-snel-verkopen"],
-    relatedArticles: ["energie-renovatieplicht-vlaanderen-2026", "belastingen-bij-woningverkoop", "keuringen-bij-verkoop-woning", "verkoop-kosten-berekenen"],
+    relatedSituations: ["villa-snel-verkopen", "huis-verkopen-bij-erfenis", "opknappand-verkopen", "huis-snel-verkopen"],
+    relatedArticles: ["energie-renovatieplicht-vlaanderen-2026", "belastingen-bij-woningverkoop", "keuringen-bij-verkoop-woning", "stookolietank-woning-verkopen", "verkoop-kosten-berekenen"],
     faqs: [
       {
         question: "Heeft u een bodemattest nodig bij de verkoop van een villa in Brasschaat?",
@@ -321,7 +321,7 @@ export const propertyTypes: PropertyType[] = [
       { area: "Meergezinspand (4+ units)", min: 460000, max: 950000, note: "Afhankelijk van eenheidstype en staat" },
     ],
     relatedRegions: ["antwerpen", "borgerhout", "berchem", "deurne"],
-    relatedSituations: ["pand-met-huurders-verkopen", "huis-verkopen-bij-erfenis", "pand-snel-verkopen", "vastgoedopkoper-antwerpen"],
+    relatedSituations: ["opbrengsteigendom-snel-verkopen", "pand-met-huurders-verkopen", "huis-verkopen-bij-erfenis", "pand-snel-verkopen", "vastgoedopkoper-antwerpen"],
     relatedArticles: ["mede-eigendom-verkopen", "belastingen-bij-woningverkoop", "energie-renovatieplicht-vlaanderen-2026", "keuringen-bij-verkoop-woning", "commissie-makelaar-belgie", "opbrengsteigendom-verkopen"],
     faqs: [
       {
@@ -362,8 +362,8 @@ export const propertyTypes: PropertyType[] = [
     characteristics: [],
     priceRanges: [{ area: "Antwerpen", min: 150000, max: 500000 }],
     relatedRegions: ["antwerpen"],
-    relatedSituations: ["pand-snel-verkopen"],
-    relatedArticles: ["belastingen-bij-woningverkoop", "notariskosten-woning-verkoop", "verkoop-kosten-berekenen"],
+    relatedSituations: ["bouwgrond-snel-verkopen", "pand-snel-verkopen", "schatting-pand", "vastgoedopkoper-antwerpen"],
+    relatedArticles: ["tuin-of-bouwgrond-apart-verkopen-perceel-splitsen", "bodemattest-vlaanderen-verkoop", "belastingen-bij-woningverkoop", "notariskosten-woning-verkoop", "verkoop-kosten-berekenen"],
     faqs: [],
   },
   {
@@ -377,8 +377,8 @@ export const propertyTypes: PropertyType[] = [
     characteristics: [],
     priceRanges: [{ area: "Antwerpen", min: 20000, max: 60000 }],
     relatedRegions: ["antwerpen"],
-    relatedSituations: ["pand-snel-verkopen"],
-    relatedArticles: ["verkoop-kosten-berekenen", "notariskosten-woning-verkoop"],
+    relatedSituations: ["garagebox-snel-verkopen", "pand-snel-verkopen", "vastgoedopkoper-antwerpen"],
+    relatedArticles: ["verkoop-kosten-berekenen", "notariskosten-woning-verkoop", "mede-eigendom-verkopen"],
     faqs: [],
   },
   {
@@ -392,8 +392,8 @@ export const propertyTypes: PropertyType[] = [
     characteristics: [],
     priceRanges: [{ area: "Antwerpen", min: 100000, max: 600000 }],
     relatedRegions: ["antwerpen"],
-    relatedSituations: ["pand-snel-verkopen"],
-    relatedArticles: ["belastingen-bij-woningverkoop", "verkoop-kosten-berekenen", "notariskosten-woning-verkoop"],
+    relatedSituations: ["magazijn-kantoor-snel-verkopen", "handelspand-snel-verkopen", "pand-snel-verkopen"],
+    relatedArticles: ["pand-uit-vennootschap-verkopen", "bodemattest-vlaanderen-verkoop", "oud-gebouw-te-renoveren-pand-verkopen", "belastingen-bij-woningverkoop", "verkoop-kosten-berekenen"],
     faqs: [],
   },
 ];

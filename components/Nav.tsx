@@ -15,6 +15,27 @@ const menus = [
       { label: "Villa", href: "/villa-verkopen-antwerpen" },
       { label: "Opbrengsteigendom", href: "/opbrengsteigendom-verkopen-antwerpen" },
       { label: "Bouwgrond", href: "/bouwgrond-verkopen-antwerpen" },
+      { label: "Garagebox", href: "/garagebox-verkopen-antwerpen" },
+      { label: "Magazijn of kantoor", href: "/magazijn-kantoor-verkopen-antwerpen" },
+      { label: "Handelspand", href: "/handelspand-snel-verkopen" },
+      { label: "Hoeve of boerderij", href: "/hoeve-boerderij-snel-verkopen" },
+    ],
+  },
+  {
+    label: "Snel verkopen",
+    items: [
+      { label: "Huis snel verkopen", href: "/huis-snel-verkopen" },
+      { label: "Rijhuis snel verkopen", href: "/rijhuis-snel-verkopen" },
+      { label: "Appartement snel verkopen", href: "/appartement-snel-verkopen" },
+      { label: "Herenhuis snel verkopen", href: "/herenhuis-snel-verkopen" },
+      { label: "Villa snel verkopen", href: "/villa-snel-verkopen" },
+      { label: "Opbrengsteigendom snel verkopen", href: "/opbrengsteigendom-snel-verkopen" },
+      { label: "Handelspand snel verkopen", href: "/handelspand-snel-verkopen" },
+      { label: "Magazijn of kantoor snel verkopen", href: "/magazijn-kantoor-snel-verkopen" },
+      { label: "Bouwgrond snel verkopen", href: "/bouwgrond-snel-verkopen" },
+      { label: "Garagebox snel verkopen", href: "/garagebox-snel-verkopen" },
+      { label: "Hoeve of boerderij snel verkopen", href: "/hoeve-boerderij-snel-verkopen" },
+      { label: "Elk ander pand", href: "/pand-snel-verkopen" },
     ],
   },
   {
@@ -25,8 +46,6 @@ const menus = [
       { label: "Opknapper", href: "/opknappand-verkopen" },
       { label: "Met huurders", href: "/pand-met-huurders-verkopen" },
       { label: "Zonder makelaar", href: "/verkopen-zonder-makelaar" },
-      { label: "Huis snel verkopen", href: "/huis-snel-verkopen" },
-      { label: "Pand snel verkopen", href: "/pand-snel-verkopen" },
       { label: "Schatting pand", href: "/schatting-pand" },
       { label: "Vastgoedopkoper", href: "/vastgoedopkoper-antwerpen" },
     ],
@@ -49,6 +68,7 @@ const menus = [
       { label: "Makelaarsloon in België", href: "/kennisbank/commissie-makelaar-belgie" },
       { label: "Keuringen bij verkoop", href: "/kennisbank/keuringen-bij-verkoop-woning" },
       { label: "Notariskosten uitgelegd", href: "/kennisbank/notariskosten-woning-verkoop" },
+      { label: "Oud of te renoveren pand verkopen", href: "/kennisbank/oud-gebouw-te-renoveren-pand-verkopen" },
     ],
   },
 ];
@@ -93,7 +113,7 @@ export default function Nav() {
         </Link>
 
         {/* Desktop nav */}
-        <nav className="hidden md:flex items-center gap-1">
+        <nav className="hidden lg:flex items-center gap-1">
           {menus.map((menu) => (
             <div
               key={menu.label}
@@ -144,28 +164,28 @@ export default function Nav() {
           </a>
           <Link
             href="/tip-een-pand"
-            className="hidden lg:inline-flex px-5 py-2 rounded-full text-sm font-medium transition-colors duration-200 ease-out"
+            className="hidden xl:inline-flex px-5 py-2 rounded-full text-sm font-medium transition-colors duration-200 ease-out"
             style={{ background: "rgba(196,163,90,0.12)", color: "#C4A35A", border: "1px solid rgba(196,163,90,0.30)" }}
           >
             Tip & verdien €5.000
           </Link>
           <Link
             href="/tip-een-pand"
-            className="md:hidden inline-flex items-center px-2.5 py-1 rounded-full text-[11px] font-medium ml-auto"
+            className="xl:hidden inline-flex items-center px-2.5 py-1 rounded-full text-[11px] font-medium ml-auto"
             style={{ background: "rgba(196,163,90,0.12)", color: "#C4A35A", border: "1px solid rgba(196,163,90,0.30)" }}
           >
             Tip & verdien
           </Link>
           <Link
             href="/#formulier"
-            className="hidden md:inline-flex px-5 py-2 rounded-full text-sm font-medium text-white bg-[#C0392B] hover:bg-[#a93226] transition-colors duration-200 ease-out"
+            className="hidden lg:inline-flex px-5 py-2 rounded-full text-sm font-medium text-white bg-[#C0392B] hover:bg-[#a93226] transition-colors duration-200 ease-out"
             onClick={(e) => { e.preventDefault(); scrollToFormulier(); }}
           >
             Vraag bod aan
           </Link>
           {/* Hamburger */}
           <button
-            className="md:hidden flex items-center justify-center w-11 h-11 text-[#5C4D3C] hover:text-[#1C1610] transition-colors"
+            className="lg:hidden flex items-center justify-center w-11 h-11 text-[#5C4D3C] hover:text-[#1C1610] transition-colors"
             onClick={() => setMobileOpen(!mobileOpen)}
             aria-label="Menu"
             aria-expanded={mobileOpen}
@@ -193,7 +213,7 @@ export default function Nav() {
       {/* Mobile menu */}
       {mobileOpen && (
         <div
-          className="md:hidden"
+          className="lg:hidden"
           style={{
             background: "#FFFFFF",
             borderTop: "1px solid rgba(28,22,16,0.08)",
