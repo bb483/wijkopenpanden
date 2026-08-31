@@ -103,7 +103,7 @@ export default function Nav() {
         borderBottom: scrolled ? "1px solid rgba(28,22,16,0.08)" : "1px solid transparent",
       }}
     >
-      <div className="mx-auto flex h-20 w-full max-w-[1440px] items-center gap-6 px-6 md:px-8 lg:px-10 xl:gap-8">
+      <div className="mx-auto flex h-20 w-full max-w-[1440px] items-center gap-6 px-6 md:px-8 lg:px-10 2xl:gap-8">
         {/* Logo */}
         <Link
           href="/"
@@ -115,7 +115,7 @@ export default function Nav() {
         </Link>
 
         {/* Desktop nav */}
-        <nav className="hidden h-full flex-1 items-center justify-center gap-0.5 lg:flex xl:gap-1">
+        <nav className="hidden h-full flex-1 items-center justify-center gap-1.5 lg:flex 2xl:gap-2">
           {menus.map((menu) => (
             <div
               key={menu.label}
@@ -124,7 +124,12 @@ export default function Nav() {
               onMouseLeave={handleMouseLeave}
             >
               <button
-                className="whitespace-nowrap rounded-md px-3 py-2 text-sm leading-none text-[#5C4D3C] hover:text-[#1C1610] transition-colors duration-150 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#C4A35A] xl:px-3.5"
+                className="inline-flex h-10 items-center whitespace-nowrap rounded-full border px-3.5 text-[13px] font-medium leading-none transition-colors duration-150 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#C4A35A] 2xl:px-4 2xl:text-sm"
+                style={
+                  open === menu.label
+                    ? { background: "rgba(196,163,90,0.12)", borderColor: "rgba(196,163,90,0.30)", color: "#1C1610" }
+                    : { background: "transparent", borderColor: "rgba(28,22,16,0.10)", color: "#5C4D3C" }
+                }
                 aria-haspopup="true"
                 aria-expanded={open === menu.label}
                 onClick={() => setOpen(open === menu.label ? null : menu.label)}
@@ -157,30 +162,30 @@ export default function Nav() {
         </nav>
 
         {/* Right side */}
-        <div className="ml-auto flex flex-shrink-0 items-center gap-2 lg:ml-0 xl:gap-3">
+        <div className="ml-auto flex flex-shrink-0 items-center gap-1.5 lg:ml-0 2xl:gap-2">
           <a
             href="tel:0492779475"
-            className="hidden whitespace-nowrap text-sm leading-none text-[#5C4D3C] hover:text-[#1C1610] transition-colors duration-150 min-[1400px]:block"
+            className="hidden h-10 items-center whitespace-nowrap px-2 text-[13px] leading-none text-[#5C4D3C] hover:text-[#1C1610] transition-colors duration-150 min-[1300px]:inline-flex 2xl:text-sm"
           >
             0492 77 94 75
           </a>
           <Link
             href="/tip-een-pand"
-            className="hidden whitespace-nowrap rounded-full px-4 py-2.5 text-sm font-medium leading-none transition-colors duration-200 ease-out xl:inline-flex xl:items-center 2xl:px-5"
-            style={{ background: "rgba(196,163,90,0.12)", color: "#C4A35A", border: "1px solid rgba(196,163,90,0.30)" }}
+            className="hidden h-10 items-center whitespace-nowrap rounded-full border px-3.5 text-[13px] font-medium leading-none transition-colors duration-200 ease-out min-[1300px]:inline-flex 2xl:px-4 2xl:text-sm"
+            style={{ background: "rgba(196,163,90,0.12)", color: "#C4A35A", borderColor: "rgba(196,163,90,0.30)" }}
           >
             Tip &amp; verdien €5.000
           </Link>
           <Link
             href="/tip-een-pand"
-            className="inline-flex items-center whitespace-nowrap rounded-full px-3 py-2 text-xs font-medium leading-none lg:hidden"
-            style={{ background: "rgba(196,163,90,0.12)", color: "#C4A35A", border: "1px solid rgba(196,163,90,0.30)" }}
+            className="inline-flex h-9 items-center whitespace-nowrap rounded-full border px-3 text-xs font-medium leading-none lg:hidden"
+            style={{ background: "rgba(196,163,90,0.12)", color: "#C4A35A", borderColor: "rgba(196,163,90,0.30)" }}
           >
             Tip &amp; verdien
           </Link>
           <Link
             href="/#formulier"
-            className="hidden whitespace-nowrap rounded-full px-4 py-2.5 text-sm font-medium leading-none text-white bg-[#C0392B] hover:bg-[#a93226] transition-colors duration-200 ease-out lg:inline-flex lg:items-center 2xl:px-5"
+            className="hidden h-10 items-center whitespace-nowrap rounded-full border border-[#C0392B] px-3.5 text-[13px] font-medium leading-none text-white bg-[#C0392B] hover:bg-[#a93226] hover:border-[#a93226] transition-colors duration-200 ease-out lg:inline-flex 2xl:px-4 2xl:text-sm"
             onClick={(e) => { e.preventDefault(); scrollToFormulier(); }}
           >
             Vraag bod aan
