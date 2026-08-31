@@ -174,7 +174,7 @@ export const situations: Situation[] = [
       },
     ],
     relatedPropertyTypes: ["rijhuis-verkopen-antwerpen", "herenhuis-verkopen-antwerpen", "villa-verkopen-antwerpen", "huis-snel-verkopen", "hoeve-boerderij-snel-verkopen"],
-    relatedArticles: ["oud-gebouw-te-renoveren-pand-verkopen", "commissie-makelaar-belgie", "pand-in-slechte-staat-verkopen", "pand-verkopen-aan-projectontwikkelaar"],
+    relatedArticles: ["oud-gebouw-te-renoveren-pand-verkopen", "renovatiekosten-oud-pand-berekenen", "renoveren-of-verkopen-oud-pand", "ontwikkelingspotentieel-perceel-pand-bepalen", "commissie-makelaar-belgie", "pand-in-slechte-staat-verkopen", "pand-verkopen-aan-projectontwikkelaar"],
     faqs: [
       {
         question: "Moet ik het pand leegmaken voor de verkoop aan wijkopenpanden.be?",

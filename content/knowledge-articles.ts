@@ -564,7 +564,7 @@ export const articles: Article[] = [
         body: "Ons bod houdt rekening met:\n\n• Geschatte renovatiekost (structurele gebreken wegen zwaarder dan cosmetische)\n• Staat van de elektriciteit, dakbedekking, riolering en verwarmingsinstallatie\n• Aanwezigheid van asbest\n• EPC-label en geschatte energetische investeringen\n• Marktwaarde van vergelijkbare panden in de buurt na renovatie\n\nWij zijn transparant over onze berekening en leggen u uit hoe we tot ons bod zijn gekomen.",
       },
     ],
-    relatedArticles: ["keuringen-bij-verkoop-woning", "epc-attest-antwerpen", "verkoop-kosten-berekenen", "huis-verkopen-na-brand-of-schade", "woning-verkopen-met-krakers-of-domiciliefraude", "beschermd-monument-erfgoedwoning-verkopen", "verwaarloosde-woning-heffing-verkopen", "onafgewerkte-verbouwing-of-bouwwerf-verkopen", "oude-woning-zonder-bouwvergunning-vermoeden-van-vergunning", "zonevreemde-woning-verkopen", "pand-verkopen-aan-projectontwikkelaar", "betwiste-perceelsgrens-woning-verkopen"],
+    relatedArticles: ["keuringen-bij-verkoop-woning", "epc-attest-antwerpen", "verkoop-kosten-berekenen", "huis-verkopen-na-brand-of-schade", "woning-verkopen-met-krakers-of-domiciliefraude", "beschermd-monument-erfgoedwoning-verkopen", "verwaarloosde-woning-heffing-verkopen", "onafgewerkte-verbouwing-of-bouwwerf-verkopen", "oude-woning-zonder-bouwvergunning-vermoeden-van-vergunning", "zonevreemde-woning-verkopen", "pand-verkopen-aan-projectontwikkelaar", "betwiste-perceelsgrens-woning-verkopen", "renovatiekosten-oud-pand-berekenen", "renoveren-of-verkopen-oud-pand"],
     relatedSituations: ["opknappand-verkopen", "huis-verkopen-bij-erfenis"],
     faqs: [
       {
@@ -865,7 +865,7 @@ export const articles: Article[] = [
         body: "Wij kopen woningen met EPC-label E, F en ook D rechtstreeks aan — ook als ze renovatieplichtig zijn na onze aankoop. De renovatieverplichting gaat over op ons als koper. Wij rekenen de renovatiekost intern in en trekken die niet ongefundeerd van uw prijs af: wij baseren ons op werkelijke renovatieramingen, niet op overdreven angstcijfers.\n\nVoordelen voor u als eigenaar:\n• Geen voorafgaande renovatie nodig\n• Geen keuringskosten (EPC, elektriciteit, asbest) — die zijn voor ons\n• Geen makelaar, geen commissie\n• Schriftelijk bod na één bezoek\n• Akte binnen 2 tot 3 maanden\n\nWij leggen u bij het bezoek transparant uit hoe wij het EPC-label meewegen in ons bod. U beslist vrijblijvend.",
       },
     ],
-    relatedArticles: ["epc-attest-antwerpen", "keuringen-bij-verkoop-woning", "pand-in-slechte-staat-verkopen", "verhuurd-pand-verkopen-conformiteitsattest-woningkwaliteit", "beschermd-monument-erfgoedwoning-verkopen"],
+    relatedArticles: ["epc-attest-antwerpen", "keuringen-bij-verkoop-woning", "pand-in-slechte-staat-verkopen", "verhuurd-pand-verkopen-conformiteitsattest-woningkwaliteit", "beschermd-monument-erfgoedwoning-verkopen", "renoveren-of-verkopen-oud-pand", "renovatiekosten-oud-pand-berekenen", "oud-gebouw-te-renoveren-pand-verkopen"],
     relatedSituations: ["opknappand-verkopen", "verkopen-zonder-makelaar"],
     faqs: [
       {
@@ -1308,7 +1308,7 @@ export const articles: Article[] = [
         body: "Als u wilt investeren om de verkoopprijs te verhogen, zijn dit de ingrepen met de beste return:\n\nHoog rendement:\n• Dakisolatie of dakvernieuwing — zichtbaar, sterk effect op EPC en verkoopprijs\n• Nieuwe condensatieketel of warmtepomp — verbetert EPC, geeft koper zekerheid\n• Neutraliseren en opfrissen: professioneel schilderwerk in neutrale kleuren\n\nLaag rendement (investering wordt zelden terugverdiend):\n• Nieuwe keuken of badkamer — smaakgebonden, koper wil vaak toch zijn eigen keuze\n• Vloervervanging — koper ziet het, maar betaalt er niet evenredig voor\n• Uitbreidingen of aanbouwen — duur, lang, en vereisen vergunning\n\nVuistregel: renoveer alleen als de investering minstens 1,5× terugkomt in een hogere verkoopprijs. In de praktijk is dat zelden het geval bij grote ingrepen.",
       },
     ],
-    relatedArticles: ["energie-renovatieplicht-vlaanderen-2026", "huis-verkopen-antwerpen-gids", "pand-in-slechte-staat-verkopen", "wanneer-beste-moment-woning-verkopen", "commissie-makelaar-belgie", "pand-laten-schatten-schattingsverslag"],
+    relatedArticles: ["energie-renovatieplicht-vlaanderen-2026", "huis-verkopen-antwerpen-gids", "pand-in-slechte-staat-verkopen", "wanneer-beste-moment-woning-verkopen", "commissie-makelaar-belgie", "pand-laten-schatten-schattingsverslag", "renoveren-of-verkopen-oud-pand", "renovatiekosten-oud-pand-berekenen"],
     relatedSituations: ["opknappand-verkopen", "verkopen-zonder-makelaar", "schatting-pand"],
     faqs: [
       {
@@ -5287,7 +5287,7 @@ export const articles: Article[] = [
         body: "Een perceel splitsen is een project op zich: landmeter, gemeente, openbaar onderzoek, buren, notaris, fiscaliteit — en pas daarna een koper zoeken. Voor wie het geld sneller nodig heeft, wie de discussie met de gemeente niet wil voeren, of wie merkt dat de grond gewoon geen bouwbestemming heeft, is er een eenvoudiger alternatief: **het geheel verkopen zoals het is**.\n\nWij, **wijkopenpanden.be**, kopen panden in de **regio Antwerpen** aan in de **huidige staat**. U hoeft niets te splitsen, niets op te meten en niets te laten vergunnen. Op uw aanvraag krijgt u **binnen 2 uur een reactie**. Na een **plaatsbezoek** ontvangt u een **schriftelijk bod**. Wij rekenen **geen commissie**, en de **verplichte attesten en de coördinatie met de notaris zijn inbegrepen**. De akte volgt **doorgaans binnen 2 tot 3 maanden**.\n\nDat bod is een vertrekpunt, geen eindpunt. Leg het naast wat u denkt te halen via de klassieke route — met splitsing, met vergunning, met wachttijd en met kosten — en beslis dan met volledige informatie welk spoor voor u het beste uitkomt. Wilt u eerst weten hoe een klassieke verkoop in de regio verloopt, dan leest u dat in onze [gids over een huis verkopen in Antwerpen](/kennisbank/huis-verkopen-antwerpen-gids).",
       },
     ],
-    relatedArticles: ["stedenbouwkundige-overtreding-woning-verkopen", "meerwaardebelasting-tweede-verblijf-belgie", "wat-is-mijn-woning-waard-antwerpen", "verkoop-kosten-berekenen", "notariskosten-woning-verkoop", "huis-verkopen-antwerpen-gids", "zonevreemde-woning-verkopen", "pand-verkopen-aan-projectontwikkelaar", "betwiste-perceelsgrens-woning-verkopen"],
+    relatedArticles: ["stedenbouwkundige-overtreding-woning-verkopen", "meerwaardebelasting-tweede-verblijf-belgie", "wat-is-mijn-woning-waard-antwerpen", "verkoop-kosten-berekenen", "notariskosten-woning-verkoop", "huis-verkopen-antwerpen-gids", "zonevreemde-woning-verkopen", "pand-verkopen-aan-projectontwikkelaar", "betwiste-perceelsgrens-woning-verkopen", "ontwikkelingspotentieel-perceel-pand-bepalen"],
     relatedSituations: ["huis-verkopen-bij-erfenis", "verkopen-zonder-makelaar"],
     faqs: [
       {
@@ -8308,7 +8308,7 @@ export const articles: Article[] = [
         body: "Een zonevreemd pand verkoopt zelden vlot op de klassieke markt, en het probleem is bijna nooit het pand zelf — het is de onzekerheid errond. Een directe verkoop lost een aantal van die punten concreet op.\n\n• Wij kopen zelf aan en **kennen het onderscheid** tussen zonevreemd, vergund geacht en onvergund. U moet ons niet overtuigen dat uw woning legaal is; wij lezen het uittreksel uit het plannen- en vergunningenregister en schatten zelf in wat er nog kan.\n• Er zit **geen opschortende voorwaarde van financiering** in ons compromis. Daarmee verdwijnt precies het risico dat bij een zonevreemd pand het vaakst een verkoop doet klappen.\n• Wij kopen het pand **in de staat waarin het zich bevindt**. U hoeft niets op te knappen, niet te ruimen en geen werken uit te voeren om het \"verkoopbaar\" te maken.\n• U hoeft niet te wachten. Bij een vervallen hoeve is dat meer dan een gemak: hoe langer een pand onbewoond en zonder onderhoud staat, hoe dichter het bij de grens van **verkrot** komt — en daarmee bij het verlies van zijn basisrechten.\n• U beslist mee over de **aktedatum** en u werkt met de **notaris van uw keuze**.\n• U krijgt een **schriftelijk, gemotiveerd bod** en wij vragen geen exclusiviteit, zodat u vrij kunt vergelijken met een makelaarsschatting of een tweede bod.\n\nWat wij niet doen, is beloven dat er meer mag dan de VCRO toelaat. Ligt uw woning in natuurgebied, dan mag ook een opkoper ze niet herbouwen — dat zit in het bod verrekend en wij zeggen u dat op voorhand. Wat wij wél bieden, is een koper die de situatie kan inschatten zonder dat er drie maanden onzekerheid over uw hoofd hangt.",
       },
     ],
-    relatedArticles: ["oude-woning-zonder-bouwvergunning-vermoeden-van-vergunning", "stedenbouwkundige-overtreding-woning-verkopen", "vastgoedinformatie-aanvragen-bij-verkoop", "pand-in-slechte-staat-verkopen", "energie-renovatieplicht-vlaanderen-2026", "huis-verkopen-na-brand-of-schade", "tuin-of-bouwgrond-apart-verkopen-perceel-splitsen", "beschermd-monument-erfgoedwoning-verkopen", "recht-van-voorkoop-bij-verkoop-woning", "zorgwoning-kangoeroewoning-verkopen"],
+    relatedArticles: ["oude-woning-zonder-bouwvergunning-vermoeden-van-vergunning", "stedenbouwkundige-overtreding-woning-verkopen", "vastgoedinformatie-aanvragen-bij-verkoop", "pand-in-slechte-staat-verkopen", "energie-renovatieplicht-vlaanderen-2026", "huis-verkopen-na-brand-of-schade", "tuin-of-bouwgrond-apart-verkopen-perceel-splitsen", "beschermd-monument-erfgoedwoning-verkopen", "recht-van-voorkoop-bij-verkoop-woning", "zorgwoning-kangoeroewoning-verkopen", "ontwikkelingspotentieel-perceel-pand-bepalen"],
     relatedSituations: ["opknappand-verkopen", "vastgoedopkoper-antwerpen", "pand-snel-verkopen", "schatting-pand"],
     faqs: [
       {
@@ -8443,7 +8443,7 @@ export const articles: Article[] = [
         body: "Wij zijn geen projectontwikkelaar. Wij kopen panden aan om ze zelf op te knappen en aan te houden of door te verkopen, en dat maakt ons bod op een fundamenteel punt anders dan een ontwikkelaarsbod.\n\n• Ons bod hangt **niet aan een omgevingsvergunning**. Wij kopen met eigen middelen en zonder financieringsvoorwaarde, dus u wacht geen zes tot achttien maanden op een beslissing van een vergunningverlenende overheid.\n• Wij kopen het pand **in de staat waarin het zich bevindt**. U hoeft niet op te knappen, niet te ruimen en geen attesten te laten aanpassen.\n• U krijgt een **schriftelijk en gemotiveerd bod** en wij vragen **geen exclusiviteit**. U mag ons bod naast dat van een ontwikkelaar leggen, en dat is precies waarvoor het nuttig is: het geeft u een harde ondergrens waarmee u een voorwaardelijk bod kunt afwegen tegen zekerheid vandaag.\n• U beslist mee over de **aktedatum** en u werkt met de **notaris van uw keuze**.\n\nEn omdat eerlijkheid hier meer waard is dan een verkoopargument: **heeft uw perceel werkelijk ontwikkelingspotentieel, dan zal een ontwikkelaar op termijn meer kunnen betalen dan wij.** Wij zeggen u dat ook. Wat wij u dan aanraden, is niet om ons bod te nemen, maar om het te gebruiken zoals het bedoeld is — als vergelijkingspunt, en als vangnet voor het geval de vergunning er niet komt. Voor de meeste panden zonder extra bouwvolume ligt de zaak omgekeerd: daar is de ontwikkelingswaarde een verhaal, en is een zekere verkoop op een datum die u kiest het betere resultaat.",
       },
     ],
-    relatedArticles: ["tuin-of-bouwgrond-apart-verkopen-perceel-splitsen", "koper-krijgt-lening-niet-rond-opschortende-voorwaarde", "verkoop-kosten-berekenen", "woning-verkopen-met-btw-nieuwbouw", "huis-verkopen-binnen-5-jaar", "verkoopbelofte-compromis-akte", "opkoper-of-makelaar-verschil", "woning-verkopen-met-erfpacht-of-opstalrecht", "pand-in-slechte-staat-verkopen", "onafgewerkte-verbouwing-of-bouwwerf-verkopen"],
+    relatedArticles: ["tuin-of-bouwgrond-apart-verkopen-perceel-splitsen", "koper-krijgt-lening-niet-rond-opschortende-voorwaarde", "verkoop-kosten-berekenen", "woning-verkopen-met-btw-nieuwbouw", "huis-verkopen-binnen-5-jaar", "verkoopbelofte-compromis-akte", "opkoper-of-makelaar-verschil", "woning-verkopen-met-erfpacht-of-opstalrecht", "pand-in-slechte-staat-verkopen", "onafgewerkte-verbouwing-of-bouwwerf-verkopen", "ontwikkelingspotentieel-perceel-pand-bepalen", "renovatiekosten-oud-pand-berekenen"],
     relatedSituations: ["pand-snel-verkopen", "vastgoedopkoper-antwerpen", "schatting-pand", "bouwgrond-verkopen-antwerpen"],
     faqs: [
       {
@@ -9485,6 +9485,9 @@ export const articles: Article[] = [
       },
     ],
     relatedArticles: [
+      "renovatiekosten-oud-pand-berekenen",
+      "renoveren-of-verkopen-oud-pand",
+      "ontwikkelingspotentieel-perceel-pand-bepalen",
       "pand-in-slechte-staat-verkopen",
       "energie-renovatieplicht-vlaanderen-2026",
       "asbestattest-bij-verkoop-woning",
@@ -9534,6 +9537,354 @@ export const articles: Article[] = [
         question: "Wanneer is slopen interessanter dan renoveren?",
         answer:
           "Wanneer de structuur, de plafondhoogte of de indeling zich niet laat aanpassen aan een hedendaagse standaard, en wanneer het sloop-heropbouwscenario onder het verlaagde btw-tarief van 6 procent valt. Dat tarief is sinds 1 juli 2025 definitief, maar veronderstelt onder meer een bewoonbare oppervlakte van maximaal 175 vierkante meter en een koper die er zelf gaat wonen gedurende vijf jaar of verhuurt gedurende minstens vijftien jaar. Bij grotere panden valt de nieuwbouw vaak boven die drempel en verliest het sloopscenario zijn voordeel. Laat beide scenario's naast elkaar rekenen vóór u een vraagprijs bepaalt.",
+      },
+    ],
+  },
+  {
+    slug: "renovatiekosten-oud-pand-berekenen",
+    title: "Wat kost de renovatie van een oud pand? Kostenposten, richtprijzen en de posten die budgetten doen ontsporen",
+    metaTitle: "Renovatiekosten oud pand 2026: richtprijzen per post",
+    metaDescription:
+      "Wat kost het renoveren van een oud pand in 2026? Richtprijzen per kostenpost, de vijf posten die budgetten doen ontsporen, en wat 6% btw en premies opleveren.",
+    publishedAt: "2026-08-31",
+    updatedAt: "2026-08-31",
+    intro:
+      "Voor een grondige totaalrenovatie van een oud pand in Vlaanderen circuleren richtprijzen van ongeveer 850 tot 1.500 euro per vierkante meter bij een sobere afwerking, en 1.500 tot 2.200 euro per vierkante meter zodra u ook energetisch grondig ingrijpt — keuken, badkamer, asbestverwijdering, studiekosten en buitenaanleg meestal niet inbegrepen. Voor een rijhuis van 135 vierkante meter komt dat neer op ruwweg 115.000 tot 300.000 euro. Die vork is niet breed omdat aannemers willekeurig prijzen, maar omdat vijf posten bij een oud gebouw pas zichtbaar worden als de muren open liggen. In dit artikel ontleden wij de rekening post per post, en tonen wij wat ze betekent voor de prijs die u vandaag voor uw pand kunt krijgen.",
+    sections: [
+      {
+        heading: "Waarom één prijs per vierkante meter niet bestaat",
+        body: "Elke prijs per vierkante meter is een gemiddelde van dossiers die onderling nauwelijks vergelijkbaar zijn. Bij een oud pand hangt de kostprijs af van drie keuzes die vóór de eerste offerte al vastliggen.\n\n1. **Het ambitieniveau.** Opknappen (schilderen, vloeren, keuken, badkamer) is iets fundamenteel anders dan casco strippen en heropbouwen achter een behouden gevel. Tussen die twee zit een factor drie tot vijf.\n2. **De staat van de structuur.** Een pand met gezonde funderingen, een droge kelder en een intacte balklaag vertrekt van een heel andere basis dan een pand met opstijgend vocht, een verzakte achterbouw of een dak dat al jaren lekt.\n3. **Het energetische traject.** Isoleren tot een courant label vraagt bij een massieve muur zonder spouw ofwel binnenisolatie met alle bouwfysische gevolgen van dien, ofwel buitenisolatie die de gevel wijzigt en dus vergunningsplichtig kan zijn.\n\nDat verklaart waarom twee eigenaars van een schijnbaar identiek rijhuis in dezelfde straat volstrekt verschillende offertes krijgen. En het verklaart ook waarom een koper die u een bod doet, altijd een risicomarge inbouwt: hij weet vooraf niet in welk van de drie scenario's hij terechtkomt.",
+      },
+      {
+        heading: "De kostenposten van een totaalrenovatie, post per post",
+        body: "Onderstaande tabel geeft indicatieve vorken voor een grondige totaalrenovatie van een rijhuis of bel-etage van ongeveer 120 tot 150 vierkante meter in de regio Antwerpen. Het zijn marktindicaties, geen offertes: de enige cijfers die tellen, zijn die van een aannemer die het pand heeft gezien.\n\nTel de linkerkolom op en u zit rond 105.000 euro. Tel de rechterkolom op en u loopt tegen 375.000 euro aan. Dat is precies de vork die u in de markt terugvindt — en ze toont waarom een gemiddelde per vierkante meter u zo weinig leert over uw eigen pand.",
+        table: {
+          headers: ["Kostenpost", "Wat het omvat", "Indicatieve vork"],
+          rows: [
+            ["Studie en vergunning", "Architect, stabiliteitsingenieur, EPB-verslaggever, veiligheidscoördinator, dossierkosten", "6 tot 12% van de bouwkost"],
+            ["Strippen en afvoer", "Uitbraakwerk, containers, stortkosten, stelling", "4.000 tot 15.000 euro"],
+            ["Asbestverwijdering", "Verwijdering door een erkende aannemer, afhankelijk van hechtgebonden of niet-hechtgebonden asbest", "1.500 tot 12.000 euro"],
+            ["Ruwbouw en stabiliteit", "Funderingen, vochtbestrijding, balklagen, doorbraken, staalstructuur, nieuwe achterbouw", "10.000 tot 60.000 euro"],
+            ["Dak", "Dakstructuur, isolatie, dakbedekking, dakvlakramen, goten", "10.000 tot 35.000 euro"],
+            ["Buitenschrijnwerk", "Ramen en deuren, beglazing, plaatsing en afwerking", "9.000 tot 30.000 euro"],
+            ["Isolatie gevel en vloer", "Binnen- of buitenisolatie, vloerisolatie, luchtdichting", "12.000 tot 40.000 euro"],
+            ["Technieken", "Elektriciteit, sanitair, verwarming, ventilatie", "25.000 tot 65.000 euro"],
+            ["Binnenafwerking", "Pleisterwerk, chape, vloeren, binnendeuren, trap, schilderwerk", "20.000 tot 55.000 euro"],
+            ["Keuken en badkamer", "Volledige inrichting, toestellen en sanitair", "12.000 tot 45.000 euro"],
+            ["Buitenaanleg", "Terras, tuin, afsluitingen, regenwaterput en infiltratie", "3.000 tot 20.000 euro"],
+          ],
+        },
+      },
+      {
+        heading: "De vijf posten die budgetten écht doen ontsporen",
+        body: "Renovatiebudgetten lopen zelden uit de hand door de posten die iedereen ziet. Ze lopen uit de hand door wat pas na het strippen zichtbaar wordt. Bij oude gebouwen zijn dit de vijf terugkerende schuldigen.\n\n1. **Vocht en fundering.** Opstijgend vocht, een doorslaande gevel of een fundering die te ondiep zit voor de geplande uitbraak. Een injectie is goedkoop; een onderschoeiing van een aanpalende muur is dat niet, en ze vergt bovendien een stabiliteitsstudie en overleg met de buren.\n2. **De houten draagstructuur.** Balkkoppen die in een vochtige gevel steken, zijn na honderd jaar vaak aangetast. Dat ziet u pas wanneer de vloer eruit gaat. Een balklaag vervangen kost al snel een veelvoud van wat ervoor begroot was.\n3. **Asbest op onverwachte plaatsen.** Niet alleen golfplaten, maar ook leidingisolatie, vinylvloeren met een asbesthoudende onderlaag, schoorsteenkanalen en gevelbeplating. Een asbestattest brengt de toegankelijke materialen in kaart, maar wat achter een wand zit, komt pas tijdens de werken boven.\n4. **Technieken die volledig vernieuwd moeten worden.** Een installatie uit de jaren zeventig laat zich niet gedeeltelijk moderniseren. Zodra u aan de elektriciteit begint, moet het geheel conform; zodra u de verwarming vernieuwt, volgen de leidingen, de radiatoren en vaak de schouw.\n5. **De vergunningsprocedure.** Niet zozeer de kost van het dossier, maar de doorlooptijd. Elke maand vertraging is een maand rente, verzekering, onroerende voorheffing en — als u elders woont — dubbele woonlast.\n\nOm die reden bouwt elke ervaren renoveerder een onvoorziene post van tien tot twintig procent in. Wie dat niet doet, ontdekt halverwege dat de badkamer of de tuin sneuvelt.",
+      },
+      {
+        heading: "Wat er níét in een aannemersofferte zit",
+        body: "Een offerte van een aannemer dekt de werken die hij uitvoert. De rekening die u uiteindelijk betaalt, ligt hoger. De posten die eigenaars het vaakst vergeten:\n\n• **De btw.** Zes of eenentwintig procent scheelt op een budget van 150.000 euro ruim 22.000 euro. Zie de volgende sectie voor de voorwaarden.\n• **Ereloon architect en studies.** Verplicht zodra er vergunningsplichtige of stabiliteitsgevoelige werken zijn.\n• **Veiligheidscoördinator.** Verplicht van zodra er twee of meer aannemers gelijktijdig op de werf zijn.\n• **EPB-verslaggeving.** Bij ingrijpende energetische renovaties en bij vergunningsplichtige werken met energetische impact.\n• **Aansluitingen en meterwerk.** Nutsmaatschappijen rekenen aparte tarieven voor het verplaatsen, versterken of heraansluiten van een aansluiting.\n• **Financieringskost tijdens de werken.** Rente op een renovatiekrediet dat maandenlang opgenomen is zonder dat het pand bewoonbaar is.\n• **Tijdelijke huisvesting of dubbele woonlast.** Bij een casco renovatie is dit vaak twaalf tot vierentwintig maanden.\n• **De onvoorziene post.** Tien tot twintig procent, en bij een pand van vóór 1945 eerder twintig dan tien.\n\nDie posten samen tillen een bouwkost van 150.000 euro moeiteloos naar 200.000 euro totale projectkost. Dat is het cijfer dat een koper in zijn rekensom zet — niet het cijfer op de offerte.",
+      },
+      {
+        heading: "Btw: wanneer 6 procent en wanneer 21 procent",
+        body: "Het verlaagde btw-tarief van **6 procent voor renovatiewerken** is het grootste enkelvoudige voordeel in een renovatiebudget. De kernvoorwaarden:\n\n• De woning is bij aanvang van de werken **minstens tien jaar oud**, gerekend vanaf de eerste ingebruikname.\n• De woning wordt na de werken **hoofdzakelijk — meer dan de helft — als privéwoning gebruikt**.\n• De werken worden **geleverd én geplaatst door een aannemer**. Materialen die u zelf koopt en zelf plaatst, blijven aan 21 procent.\n• De factuur is gericht aan de **eindgebruiker** en bevat de wettelijk vereiste vermeldingen. Het aparte btw-attest werd op 1 juli 2022 afgeschaft; sindsdien staat de verklaring op de factuur zelf.\n\nTwee wijzigingen zijn recent en worden vaak over het hoofd gezien.\n\n**Gas- en stookolieketels.** Sinds 1 juli 2025 valt de levering en plaatsing van een gasketel of stookolieketel bij een renovatie van een woning ouder dan tien jaar op **21 procent** in plaats van 6 procent. Wie zijn ketel vervangt, betaalt dus fors meer dan enkele jaren geleden.\n\n**Warmtepompen.** Omgekeerd geldt vanaf **1 januari 2026** een tarief van **6 procent op de levering en plaatsing van een warmtepomp**, uitgebreid naar alle woningen — ook nieuwbouw en woningen jonger dan tien jaar — voor een periode van vijf jaar. Dat maakt het fiscale plaatje van een warmtepomp in 2026 aanzienlijk gunstiger dan dat van een klassieke ketel.\n\nControleer de exacte toepassingsvoorwaarden altijd vooraf bij de FOD Financiën of uw boekhouder: de regels rond verwarmingsinstallaties zijn de voorbije jaren meermaals gewijzigd.",
+      },
+      {
+        heading: "Premies in 2026: wat er nog overblijft",
+        body: "Wie een renovatiebudget opstelt op basis van premiebedragen van enkele jaren geleden, rekent zich rijk. In 2026 is het Vlaamse premielandschap op twee punten grondig versmald.\n\n**Mijn VerbouwPremie.** Vanaf **1 maart 2026** is de steun sterker toegespitst op de laagste inkomens. Voor **inkomenscategorie 3 en 4** verandert er niets: zij blijven in aanmerking komen voor het volledige werkenpakket. Voor **inkomenscategorie 1 en 2** — de hoogste inkomens — blijft enkel nog steun over voor een **warmtepomp of warmtepompboiler**; voor isolatie, beglazing en de overige werken is er voor hen geen premie meer. Ook voor verhuurders en andere investeerders wijzigt het kader.\n\n**De EPC-labelpremie is aan het uitdoven.** De premie die u kreeg wanneer u een woning binnen vijf jaar na aankoop een sprong in energielabel liet maken, is niet langer beschikbaar voor nieuwe dossiers. Vanaf 1 juli 2026 kan ze enkel nog aangevraagd worden op basis van een bij Fluvius goedgekeurde activatie van ten laatste 31 december 2024.\n\nWat wél blijft: **Mijn VerbouwLening** voor wie in aanmerking komt, de OVAM-ondersteuning bij asbestverwijdering via bepaalde ophaal- en verwijderingstrajecten, en gemeentelijke of provinciale premies die per gemeente verschillen. Reken die laatste nooit in vóór u ze bevestigd hebt: de budgetten zijn beperkt en de voorwaarden wijzigen jaarlijks.\n\nDe praktische gevolgtrekking voor een eigenaar met een renovatiepand: **de premies die uw koper kan aanspreken, zijn kleiner geworden.** En wat de koper minder aan steun krijgt, trekt hij af van wat hij u kan bieden.",
+      },
+      {
+        heading: "Wat renovatiekosten doen met de prijs van uw pand",
+        body: "Een koper van een renovatiepand vergelijkt niet, hij rekent achterstevoren. Hij vertrekt van de waarde die het pand na renovatie heeft, trekt daar de bouwkost, de bijkomende kosten en een risicomarge van af, en houdt over wat hij vandaag kan bieden. Die redenering heet de residuele waarde.\n\nDaaruit volgen drie dingen die verkopers zelden meteen doorhebben.\n\n**Onzekerheid kost meer dan de werken zelf.** Een koper die de fundering, de balklaag of de leidingen niet kan beoordelen, prijst dat niet voorzichtig — hij prijst het zwaar. Elke duizend euro onzekerheid kost u in de praktijk meer dan duizend euro in het bod.\n\n**De eindwaarde is een plafond.** In een straat waar een volledig gerenoveerd huis 340.000 euro doet, is er geen koper die 240.000 euro biedt voor een pand dat 150.000 euro werk vraagt. Hoe mooi de gevel ook is.\n\n**Documentatie is geld waard.** Facturen van een vernieuwd dak, een keuringsverslag van de elektriciteit, een recent asbestattest, plannen van de bestaande toestand: elk stuk dat de koper niet zelf moet uitzoeken, verkleint zijn risicomarge. Dat is de goedkoopste manier om uw verkoopprijs op te trekken die er bestaat.",
+        table: {
+          headers: ["Situatie van het pand", "Wat de koper inschat", "Effect op het bod"],
+          rows: [
+            ["Alles toegankelijk, facturen aanwezig, recente attesten", "Bouwkost redelijk nauwkeurig te ramen", "Kleine risicomarge"],
+            ["Bewoond, geen documenten, kelder en zolder niet toegankelijk", "Bouwkost onzeker over meerdere posten", "Ruime risicomarge"],
+            ["Leegstaand, vochtsporen, onbekende vergunningstoestand", "Bouwkost én procedurerisico onzeker", "Zware risicomarge, kleinere kopersgroep"],
+          ],
+        },
+      },
+      {
+        heading: "Zo werkt het bij wijkopenpanden.be",
+        body: "Wij maken exact de rekensom uit dit artikel, en wij laten ze u zien.\n\n• U krijgt **binnen 2 uur een reactie** op uw aanvraag en na één plaatsbezoek een **schriftelijk en gemotiveerd bod**, met de redenering erbij: van welke eindwaarde wij vertrekken, welke renovatiekost wij inrekenen op basis van offertes van vaste aannemers, en welke posten daar bovenop komen.\n• Wij kopen aan in de **regio Antwerpen**, in de **huidige staat** en **inboedel inbegrepen**. U hoeft niets op te knappen, niets te ontruimen en geen enkele keuring te laten uitvoeren: **EPC, asbestattest en elektrische keuring regelen wij na de aankoop**.\n• Wij kopen **met eigen middelen**, dus zonder opschortende voorwaarde van financiering. Er is geen bank die in de laatste week alsnog afhaakt.\n• Wij rekenen **geen commissie** aan, u werkt met de **notaris van uw keuze**, en de akte verlijdt doorgaans binnen **2 tot 3 maanden**.\n\nEn wat wij er meteen bij zeggen: **bij een instapklaar pand in een gewilde straat wint de klassieke markt vaak.** Onze meerwaarde ligt bij het pand dat renovatie of sloop vraagt, dat leegstaat, of waar een erfenis, een stopzetting of een verhuis een datum oplegt. Vraag in dat geval gerust een bod aan en leg het naast een renovatieraming — u bent tot niets gehouden.",
+      },
+    ],
+    relatedArticles: [
+      "oud-gebouw-te-renoveren-pand-verkopen",
+      "renoveren-of-verkopen-oud-pand",
+      "ontwikkelingspotentieel-perceel-pand-bepalen",
+      "pand-in-slechte-staat-verkopen",
+      "energie-renovatieplicht-vlaanderen-2026",
+      "asbestattest-bij-verkoop-woning",
+      "onafgewerkte-verbouwing-of-bouwwerf-verkopen",
+      "keuringen-bij-verkoop-woning",
+      "elektriciteitskeuring-niet-conform-verkopen",
+      "epc-attest-antwerpen",
+    ],
+    relatedSituations: [
+      "opknappand-verkopen",
+      "pand-snel-verkopen",
+      "huis-snel-verkopen",
+      "rijhuis-snel-verkopen",
+      "herenhuis-snel-verkopen",
+      "schatting-pand",
+    ],
+    faqs: [
+      {
+        question: "Wat kost een totaalrenovatie van een rijhuis in 2026?",
+        answer:
+          "In de markt circuleren richtprijzen van ongeveer 850 tot 1.500 euro per vierkante meter voor een sobere totaalrenovatie, en 1.500 tot 2.200 euro per vierkante meter zodra u ook energetisch grondig ingrijpt. Voor een rijhuis van 135 vierkante meter komt dat neer op ruwweg 115.000 tot 300.000 euro, exclusief keuken, badkamer, studiekosten en buitenaanleg. De enige cijfers die echt tellen, zijn die van een aannemer die het pand heeft gezien.",
+      },
+      {
+        question: "Welke onvoorziene kosten moet ik inrekenen bij een oud pand?",
+        answer:
+          "Reken op tien tot twintig procent onvoorzien, en bij een pand van vóór 1945 eerder twintig dan tien. De vijf posten die het vaakst ontsporen zijn vocht en fundering, een aangetaste houten balklaag, asbest op plaatsen die het attest niet dekt, technieken die volledig vernieuwd moeten worden, en de doorlooptijd van de vergunningsprocedure. Die laatste kost geen bouwmateriaal maar wel rente, verzekering en dubbele woonlast.",
+      },
+      {
+        question: "Wanneer betaal ik 6 procent btw op renovatiewerken?",
+        answer:
+          "Wanneer de woning bij de aanvang van de werken minstens tien jaar oud is, na de werken hoofdzakelijk als privéwoning gebruikt wordt, en de werken door een aannemer geleverd én geplaatst worden met een factuur aan de eindgebruiker met de wettelijk vereiste vermeldingen. Let op twee recente wijzigingen: gas- en stookolieketels vallen sinds 1 juli 2025 op 21 procent, terwijl warmtepompen vanaf 1 januari 2026 op 6 procent vallen voor alle woningen.",
+      },
+      {
+        question: "Kan ik in 2026 nog Mijn VerbouwPremie krijgen?",
+        answer:
+          "Dat hangt af van uw inkomenscategorie. Vanaf 1 maart 2026 blijft voor categorie 3 en 4 alles bij het oude, terwijl categorie 1 en 2 — de hoogste inkomens — enkel nog steun krijgen voor een warmtepomp of warmtepompboiler. Voor isolatie, beglazing en de overige werken is er voor hen geen premie meer. De EPC-labelpremie dooft uit en is voor nieuwe dossiers niet langer beschikbaar.",
+      },
+      {
+        question: "Moet ik renoveren om een betere prijs te krijgen?",
+        answer:
+          "Meestal niet. Een koper die het pand toch gaat strippen, betaalt niets voor verf, behang of een nieuwe keuken. Wat wél loont en nauwelijks geld kost, is documentatie: facturen van uitgevoerde werken, plannen, keuringsverslagen en een recent asbestattest. Elk stuk dat de koper niet zelf moet uitzoeken, verkleint zijn risicomarge en verhoogt zijn bod.",
+      },
+      {
+        question: "Waarom lopen offertes voor hetzelfde pand zo ver uiteen?",
+        answer:
+          "Omdat aannemers verschillende aannames maken over wat ze achter de muren zullen aantreffen, en omdat ze verschillende afwerkingsniveaus en onvoorziene marges inrekenen. Vraag daarom altijd een offerte met een uitgesplitste meetstaat in plaats van één totaalbedrag, en laat expliciet opnemen wat er niet in zit: btw-tarief, erelonen, stelling, containers en aansluitingen.",
+      },
+    ],
+  },
+  {
+    slug: "ontwikkelingspotentieel-perceel-pand-bepalen",
+    title: "Wat mag er op mijn perceel of in mijn pand? Zo bepaalt u het ontwikkelingspotentieel",
+    metaTitle: "Ontwikkelingspotentieel perceel bepalen: de 4 lagen",
+    metaDescription:
+      "Heeft uw perceel of oud pand ontwikkelingspotentieel? Zo controleert u bestemming, gemeentelijke voorschriften, vergunde toestand en perceelvorm — en wat het opbrengt.",
+    publishedAt: "2026-08-31",
+    updatedAt: "2026-08-31",
+    intro:
+      "Het ontwikkelingspotentieel van uw eigendom is geen gevoel maar een optelsom van vier lagen, die u in deze volgorde controleert: de planologische bestemming (gewestplan of ruimtelijk uitvoeringsplan), de gemeentelijke voorschriften en verordeningen, de bestaande vergunde toestand van het pand, en de fysieke kenmerken van het perceel zoals breedte, diepte, ontsluiting en waterhuishouding. Pas als die vier lagen samen ruimte laten voor méér bouwvolume of méér wooneenheden dan er vandaag vergund zijn, heeft uw eigendom potentieel — en pas dan betaalt een ontwikkelaar daarvoor. In dit artikel doorloopt u de vier lagen één voor één, met de instrumenten waarmee u ze zelf kunt controleren en de valkuilen die eigenaars het vaakst duur komen te staan.",
+    sections: [
+      {
+        heading: "Potentieel is een optelsom, geen gevoel",
+        body: "\"Er kan hier veel mee gebeuren\" is de zin die eigenaars van een grote tuin, een diep perceel of een leegstaand bedrijfsgebouw het vaakst te horen krijgen. Soms klopt het. Vaker klopt het niet, en dan blijkt dat pas als er al een bod op tafel ligt dat op een verkeerde aanname gebaseerd was.\n\nEen ontwikkelaar of een gespecialiseerde koper controleert vier lagen, in deze volgorde. Elke laag kan het potentieel dat de vorige liet zien, weer wegnemen.\n\n1. **De bestemming.** Wat de gewestelijke plannen toelaten. Deze laag is beslissend: in agrarisch gebied of woonreservegebied helpt geen enkel bouwtalent u vooruit.\n2. **De gemeentelijke voorschriften.** Wat de gemeente daarbovenop oplegt via een RUP, een BPA, een verkavelingsvoorschrift of een stedenbouwkundige verordening.\n3. **De vergunde toestand.** Wat er vandaag officieel staat en waarvoor het vergund is. Dit is het vertrekpunt van elke wijziging.\n4. **Het perceel zelf.** Breedte, diepte, oriëntatie, ontsluiting, ondergrond, water, bomen en erfdienstbaarheden.\n\nDe volgorde is niet vrijblijvend. Wie begint met een schetsontwerp en pas daarna naar de bestemming kijkt, doet het werk twee keer.",
+      },
+      {
+        heading: "Laag 1: de bestemming — gewestplan, RUP en woonreservegebied",
+        body: "Elk perceel in Vlaanderen heeft een planologische bestemming. Die vindt u terug via het geoloket van de Vlaamse overheid en, definitief, via de **vastgoedinformatie** die u bij uw gemeente kunt aanvragen. Daar staat welke bestemming geldt en welke plannen van toepassing zijn.\n\nDe hoofdcategorieën die u het vaakst tegenkomt:\n\n• **Woongebied.** De ruimste bestemming voor residentiële ontwikkeling. Hier ligt het potentieel in de dichtheid en het volume, niet in de vraag óf er gewoond mag worden.\n• **Woongebied met landelijk karakter.** Wonen kan, maar met beperkingen op schaal en dichtheid.\n• **Agrarisch gebied.** Nieuwe woningen zijn hier in de regel uitgesloten. Bestaande zonevreemde woningen hebben een eigen regime: een hoofdzakelijk vergunde en niet-verkrotte zonevreemde woning kan doorgaans verbouwd worden binnen het bestaande volume, terwijl herbouwen, uitbreiden en functiewijzigen aan strikte voorwaarden gebonden zijn.\n• **Industrie- en bedrijvenzone.** Wonen is er niet toegelaten; herbestemming vergt een planwijziging, wat een traject van jaren is.\n• **Recreatiegebied, parkgebied, natuurgebied.** In de praktijk gesloten voor woonontwikkeling.\n\nEén categorie verdient bijzondere aandacht, omdat er zoveel misverstanden over bestaan: het **woonreservegebied**. Dat is de verzamelnaam voor wat vroeger woonuitbreidingsgebied, reservegebied voor woonwijken of woonaansnijdingsgebied heette. Sinds het **Decreet Woonreservegebieden** — goedgekeurd op 24 mei 2023 en in werking sinds 7 juli 2023 — is het niet langer mogelijk om onbebouwd woonreservegebied rechtstreeks aan te snijden. Er is voortaan altijd een voorafgaand **vrijgavebesluit van de gemeenteraad** nodig. Die \"stolp\" hoort bij de bouwshift en heeft één zeer concreet gevolg voor u als eigenaar: een perceel in woonreservegebied is vandaag geen bouwgrond, en de waarde ervan ligt een veelvoud lager dan die van een perceel in woongebied — hoe dicht bij de bebouwing het ook ligt.",
+      },
+      {
+        heading: "Laag 2: de gemeentelijke voorschriften",
+        body: "De gewestelijke bestemming zegt wát er mag. De gemeentelijke laag zegt hoevéél en hoe. Vier instrumenten spelen hier.\n\n**Ruimtelijke uitvoeringsplannen en BPA's.** Deze leggen per gebied voorschriften vast: maximale bouwhoogte, bouwdiepte, dakvorm, inplanting, minimale tuindiepte en soms een maximaal aantal wooneenheden per perceel. Een RUP overstemt het gewestplan.\n\n**Verkavelingsvoorschriften.** Ligt uw perceel in een verkaveling, dan gelden de voorschriften van die verkavelingsvergunning: bouwzone, bouwvrije stroken, dakhelling, materialen. Ook dat kan potentieel dat het RUP toelaat, alsnog uitsluiten.\n\n**Gemeentelijke stedenbouwkundige verordeningen.** In Antwerpen is dat de **bouwcode**, definitief vastgesteld door de gemeenteraad op 25 maart 2024 en in werking sinds 15 juli 2024. Zij bevat de eisen waaraan een vergunningsaanvraag moet voldoen: bouwdiepte en achteruitbouw, daken en dakvolumes, gevelwijzigingen, lichtinval en bezonning, toegankelijkheid van functies in meergezinsgebouwen, buitenruimte, fietsenstalling en afvalberging. Voor wie een pand wil opdelen, is dat laatste rijtje vaak beslissender dan het volume zelf.\n\n**Parkeer- en woningmixbeleid.** Steden koppelen aan bijkomende wooneenheden vrijwel altijd normen voor autostaanplaatsen en fietsenstallingen, en sturen ook op de mix van woninggroottes om te vermijden dat een pand volledig in kleine studio's wordt opgedeeld. Dat beleid wordt geregeld bijgesteld. Vraag daarom vóór u rekent altijd de actuele versie op bij de dienst stedenbouw van uw gemeente, of laat het door de kandidaat-koper aantonen.",
+      },
+      {
+        heading: "Laag 3: de vergunde toestand van uw pand",
+        body: "Alles wat u wil wijzigen, vertrekt van wat er vandaag officieel staat. Drie regels bepalen die basis.\n\n**Het vermoeden van vergunning.** Constructies van **vóór 22 april 1962** — de datum waarop de eerste stedenbouwwet in werking trad — worden in Vlaanderen in beginsel geacht vergund te zijn, tenzij het tegendeel bewezen wordt. Voor constructies van na die datum is het vermoeden veel beperkter en hangt het onder meer af van de opname in het vergunningenregister. Bij een negentiende-eeuws herenhuis of een oude hoeve is dat goed nieuws voor het oorspronkelijke volume — maar het dekt niet wat er later bij kwam.\n\n**Het opdelen van een woning is altijd vergunningsplichtig.** Het wijzigen van het aantal woongelegenheden in een gebouw is uitdrukkelijk vergunningsplichtig op grond van de Vlaamse Codex Ruimtelijke Ordening, en het vrijstellingenbesluit voorziet daar geen uitzondering op. Wie in het verleden een extra unit creëerde zonder vergunning, verkoopt vandaag een pand met een stedenbouwkundige overtreding. Een ontbrekend busnummer op één van de eenheden is daarvoor een veelzeggende aanwijzing.\n\n**Functiewijzigingen zijn vergunningsplichtig.** Het besluit van de Vlaamse Regering van 14 april 2000 somt de hoofdfuncties op tussen dewelke een wijziging vergunningsplichtig is: wonen, verblijfsrecreatie, dagrecreatie, land- en tuinbouw, detailhandel, horeca en dancing, kantoor en vrije beroepen, industrie en bedrijvigheid, gemeenschapsvoorzieningen en openbare nutsvoorzieningen, en militair gebruik. Een café dat een woning wordt, een werkplaats die kantoren wordt, een schoolgebouw dat appartementen wordt: telkens een vergunningsplichtige functiewijziging met een onzekere uitkomst.\n\nDe praktische consequentie: **hoe verder de gewenste toekomstige functie van de huidige vergunde functie ligt, hoe groter het vergunningsrisico en hoe voorzichtiger er geboden wordt.** Dat risico heeft een prijs, en die betaalt u.",
+      },
+      {
+        heading: "Laag 4: het perceel zelf",
+        body: "Bestemming en voorschriften kunnen alles toelaten en toch loopt een project vast op de fysieke werkelijkheid van het perceel. De punten die het vaakst beslissend zijn:\n\n• **Breedte en diepte.** Onder een bepaalde gevelbreedte is een tweede trappenhuis of een gescheiden toegang eenvoudigweg niet in te passen. Dat maakt opdelen technisch onmogelijk, ongeacht wat de voorschriften toelaten.\n• **Ontsluiting.** Een achterliggend perceel zonder eigen toegang tot de openbare weg is bouwtechnisch waardeloos zolang er geen recht van doorgang of een aankoop van een strook bij komt. Dit is de meest voorkomende reden waarom \"die grote tuin achteraan\" niets opbrengt.\n• **Waterhuishouding.** De watertoets, de ligging in overstromingsgevoelig gebied en de gewestelijke hemelwaterverordening bepalen mee wat er verhard en gebouwd mag worden, en welke buffervolumes en infiltratievoorzieningen er nodig zijn.\n• **Bodem.** Bij een voormalige risico-inrichting — een garage, drukkerij, werkplaats of stookolieopslag — kan er vóór de overdracht een oriënterend bodemonderzoek vereist zijn. Bij bedrijfs- en landbouwpanden is dat de meest voorkomende oorzaak van maandenlang uitstel.\n• **Erfdienstbaarheden en burenrechten.** Een recht van doorgang, een gemene muur, lichten en zichten, of afspraken uit een oude akte kunnen een bouwzone in de praktijk halveren.\n• **Bomen en groen.** Een hoogstammige boom of een als waardevol aangeduid groenelement kan een bouwzone verschuiven of een velling vergunningsplichtig maken.\n• **Aanpalende bebouwing.** Bij een rijhuis bepalen de bouwdiepte en de hoogte van de buren mee wat er vergunbaar is, onder meer via de regels rond bezonning en lichtinval.",
+      },
+      {
+        heading: "Drie routes: opdelen, verkavelen of herbestemmen",
+        body: "Ontwikkelingspotentieel loopt in de praktijk langs drie routes. Ze verschillen sterk in doorlooptijd, risico en wie er koper voor is.",
+        table: {
+          headers: ["Route", "Wat het inhoudt", "Doorlooptijd en risico", "Typische koper"],
+          rows: [
+            ["Opdelen", "Eén pand omvormen tot meerdere wooneenheden", "Altijd vergunningsplichtig; struikelt vaak op parkeernorm, fietsenstalling, oppervlaktenormen en toegankelijkheid", "Kleine investeerder of aannemer"],
+            ["Verkavelen of splitsen", "Een perceel opdelen in meerdere bouwloten", "Omgevingsvergunning voor het verkavelen van gronden; ontsluiting, nutsvoorzieningen en lasten zijn beslissend", "Ontwikkelaar of bouwfirma"],
+            ["Herbestemmen", "Een gebouw met een andere vergunde functie omvormen, bijvoorbeeld een school, kerk of werkplaats", "Vergunningsplichtige functiewijziging met de langste doorlooptijd en het grootste risico", "Gespecialiseerde ontwikkelaar"],
+            ["Slopen en heropbouwen", "Bestaand volume vervangen door nieuwbouw", "Sloopopvolging en asbestregels; het btw-tarief van 6 procent voor sloop en heropbouw is beslissend voor de rendabiliteit", "Ontwikkelaar of eigenbouwer"],
+          ],
+        },
+      },
+      {
+        heading: "Hoe potentieel zich vertaalt in een bod",
+        body: "Hier zit het misverstand dat eigenaars het meeste geld kost. **Potentieel dat mogelijk is, is niet hetzelfde als potentieel dat vergund is** — en het verschil in prijs tussen die twee is groot.\n\nEen koper rekent residueel: hij vertrekt van de opbrengst van het afgewerkte project, trekt de bouwkost, de bijkomende kosten en zijn winstmarge af, en houdt over wat hij vandaag voor de grond of het pand kan betalen. Zolang de vergunning er niet is, telt hij daar bovenop een risicokorting — en die korting is niet klein, want een geweigerde vergunning maakt zijn hele rekensom waardeloos.\n\nDe tabel hieronder toont hoe eenzelfde eigendom in prijs verschuift naarmate de zekerheid toeneemt.",
+        table: {
+          headers: ["Stadium", "Wat de koper zeker weet", "Effect op de prijs"],
+          rows: [
+            ["Vermoed potentieel", "Enkel de bestemming; geen studie, geen overleg met de gemeente", "Zware risicokorting; veel kandidaten haken af"],
+            ["Onderbouwd potentieel", "Volumestudie, gecheckte voorschriften, informeel gunstig gemeentelijk advies", "Merkbaar hogere prijs, risico blijft bij de koper"],
+            ["Vergund potentieel", "Definitieve omgevingsvergunning, beroepstermijn verstreken", "Hoogste prijs, maar u droeg zelf de kosten, de tijd en het risico"],
+          ],
+        },
+      },
+      {
+        heading: "Wat u wél en niet zelf doet vóór u verkoopt",
+        body: "Zelf een vergunning gaan halen om een hogere prijs te krijgen, klinkt logisch en is soms verstandig — maar het is een project op zich, met kosten die u voorschiet en een uitkomst die u niet in de hand hebt.\n\n**Wat vrijwel altijd loont, en weinig kost:**\n\n1. **Vraag de vastgoedinformatie op bij uw gemeente.** Bestemming, vergunningshistoriek, eventuele overtredingen, voorkooprechten en inventarissen staan er in één document.\n2. **Verzamel de plannen en oude vergunningen.** Ook onvolledige dossiers zijn waardevol: ze verkleinen de onzekerheid van de koper.\n3. **Zoek de vergunde toestand uit vóór u te koop zet.** Een overtreding die u kent en meedeelt, is een onderhandelingspunt. Een overtreding die halverwege het dossier opduikt, kost weken en vaak de koper zelf.\n4. **Start het bodemtraject vroeg** als er ooit een risico-inrichting op het perceel gevestigd was. Dat is de post met de langste doorlooptijd.\n5. **Verduidelijk de ontsluiting.** Bij een achterliggend perceel is dit dé factor die het verschil maakt tussen waardeloos en waardevol.\n\n**Wat u beter niet zelf doet, tenzij u het traject echt wil dragen:**\n\n• **Een volledige vergunningsaanvraag indienen.** Erelonen, studies, doorlooptijd van maanden, en het reële risico op een weigering of op bezwaren van buren.\n• **Slopen vóór de verkoop.** U verliest daarmee de mogelijkheid dat een koper het bestaande volume nog benut, en u draagt de kost én het risico.\n• **Een architect een maximaal scenario laten tekenen.** Een mooi renderbeeld dat niet vergunbaar is, verhoogt uw vraagprijs maar niet uw verkoopprijs — en ondermijnt uw geloofwaardigheid bij een professionele koper.",
+      },
+      {
+        heading: "Zo werkt het bij wijkopenpanden.be",
+        body: "Panden met een onduidelijk of onbewezen potentieel zijn precies het segment waarin wij werken.\n\n• U krijgt **binnen 2 uur een reactie** en na één plaatsbezoek een **schriftelijk en gemotiveerd bod**, met de redenering erbij: welk scenario wij realistisch achten, welke vergunningsrisico's wij zien en welke waarde wij daaraan hangen.\n• Wij zoeken de **bestemming, de voorschriften en de vergunde toestand zelf uit**. U hoeft geen studie te laten maken en geen vergunning aan te vragen om een correcte prijs te krijgen.\n• Wij kopen aan in de **regio Antwerpen**, in de **huidige staat** en **inboedel inbegrepen**, **met eigen middelen** en dus zonder opschortende voorwaarde van financiering.\n• Wij rekenen **geen commissie** aan, u werkt met de **notaris van uw keuze**, en de akte verlijdt doorgaans binnen **2 tot 3 maanden**. Is er een bodemonderzoek of een voorkoopprocedure nodig, dan zeggen wij dat vooraf.\n\nEn eerlijk: **heeft uw perceel aantoonbaar en vergund potentieel, dan haalt u op de open markt vaak een hogere prijs** — er zijn dan genoeg ontwikkelaars die willen bieden. Onze meerwaarde ligt bij het pand waar het potentieel onzeker is, waar een overtreding of een bodemdossier speelt, of waar u geen jaren wil investeren in een procedure met een open einde.",
+      },
+    ],
+    relatedArticles: [
+      "oud-gebouw-te-renoveren-pand-verkopen",
+      "renovatiekosten-oud-pand-berekenen",
+      "renoveren-of-verkopen-oud-pand",
+      "pand-verkopen-aan-projectontwikkelaar",
+      "tuin-of-bouwgrond-apart-verkopen-perceel-splitsen",
+      "zonevreemde-woning-verkopen",
+      "stedenbouwkundige-overtreding-woning-verkopen",
+      "oude-woning-zonder-bouwvergunning-vermoeden-van-vergunning",
+      "vastgoedinformatie-aanvragen-bij-verkoop",
+      "ontbrekend-busnummer-onvergund-appartement-antwerpen",
+      "overstromingsgevoelige-woning-verkopen",
+      "recht-van-voorkoop-bij-verkoop-woning",
+    ],
+    relatedSituations: [
+      "bouwgrond-snel-verkopen",
+      "opknappand-verkopen",
+      "opbrengsteigendom-snel-verkopen",
+      "magazijn-kantoor-snel-verkopen",
+      "hoeve-boerderij-snel-verkopen",
+      "schatting-pand",
+    ],
+    faqs: [
+      {
+        question: "Hoe weet ik welke bestemming mijn perceel heeft?",
+        answer:
+          "Vraag de vastgoedinformatie op bij uw gemeente. Daarin staat de planologische bestemming, welke ruimtelijke uitvoeringsplannen, BPA's of verkavelingsvoorschriften van toepassing zijn, wat de vergunningshistoriek is en of er voorkooprechten of inventarissen spelen. Dat ene document vervangt een half dozijn afzonderlijke opzoekingen en is het eerste wat een professionele koper opvraagt.",
+      },
+      {
+        question: "Is mijn woonuitbreidingsgebied nog bouwgrond?",
+        answer:
+          "Nee, niet zonder meer. Sinds het Decreet Woonreservegebieden, goedgekeurd op 24 mei 2023 en in werking sinds 7 juli 2023, kan onbebouwd woonreservegebied — waaronder het vroegere woonuitbreidingsgebied — niet langer rechtstreeks aangesneden worden. Er is altijd een voorafgaand vrijgavebesluit van de gemeenteraad nodig. Zolang dat er niet is, is uw perceel geen bouwgrond en ligt de waarde een veelvoud lager dan die van een perceel in woongebied.",
+      },
+      {
+        question: "Mag ik mijn woning opsplitsen in twee appartementen?",
+        answer:
+          "Alleen met een omgevingsvergunning. Het wijzigen van het aantal woongelegenheden in een gebouw is uitdrukkelijk vergunningsplichtig volgens de Vlaamse Codex Ruimtelijke Ordening, en het vrijstellingenbesluit voorziet geen uitzondering. Of het vergunbaar is, hangt af van het RUP, de gemeentelijke verordening, de parkeer- en fietsenstallingsnormen, de minimale oppervlaktenormen per eenheid en de technische inpasbaarheid van een aparte toegang.",
+      },
+      {
+        question: "Levert een vergunning aanvragen vóór de verkoop meer op?",
+        answer:
+          "Doorgaans wel in prijs, maar u betaalt daarvoor met kosten, tijd en risico. Erelonen en studies loopt u vooruit, de procedure duurt maanden en een weigering of een bezwaar van een buur is een reëel scenario. Een tussenweg die vaak beter uitpakt: laat een volumestudie maken en pols informeel bij de dienst stedenbouw. Dat verkleint de onzekerheid van de koper aanzienlijk zonder dat u het volledige vergunningsrisico op u neemt.",
+      },
+      {
+        question: "Waarom brengt mijn grote tuin achteraan niets op?",
+        answer:
+          "Meestal omdat er geen eigen ontsluiting naar de openbare weg is. Een achterliggend perceel zonder toegang is bouwtechnisch waardeloos zolang er geen recht van doorgang of een aankoop van een strook bij komt. Daarnaast kunnen de bestemming, de minimale tuindiepte in de gemeentelijke voorschriften, de watertoets of een waardevolle boom het bouwvolume verder beperken.",
+      },
+      {
+        question: "Waarom bieden ontwikkelaars zo veel lager dan ik verwachtte?",
+        answer:
+          "Omdat ze residueel rekenen en het vergunningsrisico bij zichzelf leggen. Ze vertrekken van de opbrengst van het afgewerkte project, trekken de bouwkost, de bijkomende kosten en hun winstmarge af, en brengen daarbovenop een korting in rekening zolang de vergunning er niet is. Een geweigerde vergunning maakt hun hele rekensom waardeloos. Vraag daarom altijd de redenering achter een bod op, niet alleen het bedrag.",
+      },
+    ],
+  },
+  {
+    slug: "renoveren-of-verkopen-oud-pand",
+    title: "Renoveren of verkopen? De rekensom voor een oud pand",
+    metaTitle: "Renoveren of verkopen? De rekensom voor een oud pand",
+    metaDescription:
+      "Loont het om uw oude pand eerst te renoveren, of verkoopt u beter zoals het is? De rekensom, wat zich terugverdient, en wat er in 2026 fiscaal wijzigde.",
+    publishedAt: "2026-08-31",
+    updatedAt: "2026-08-31",
+    intro:
+      "Renoveren vóór de verkoop loont alleen als de meerwaarde na de werken groter is dan de bouwkost plus de prijs van tijd, geld en risico — en bij een oud pand is dat zelden het geval. De vuistregel: gerichte, zichtbare ingrepen aan een verder gezond huis verdienen zich vaak terug, terwijl een energetische of structurele totaalrenovatie met de bedoeling om daarna te verkopen dat bijna nooit doet. Twee wijzigingen maken die rekensom in 2026 nog ongunstiger: het verlaagde verkooprecht van 1 procent voor een ingrijpende energetische renovatie bestaat niet meer voor overeenkomsten vanaf 1 januari 2025, en vanaf 1 maart 2026 vallen de twee hoogste inkomenscategorieën grotendeels uit Mijn VerbouwPremie. In dit artikel maakt u de som zelf.",
+    sections: [
+      {
+        heading: "De enige vraag die telt",
+        body: "Bij elke overweging om te renoveren vóór de verkoop komt het neer op één vergelijking:\n\n**Wat de ingreep aan uw verkoopprijs toevoegt, tegenover wat de ingreep u kost aan geld, tijd en risico samen.**\n\nDe fout die eigenaars het vaakst maken, is dat zij enkel de eerste twee posten vergelijken: 20.000 euro werk tegenover een verwachte meerprijs van 25.000 euro lijkt winst. Maar in die rekening ontbreken de maanden dat u het pand nog aanhoudt, de rente op het geld dat u erin steekt, en de kans dat de werken duurder uitvallen of dat de markt intussen verandert.\n\nEr is bovendien een asymmetrie die specifiek is voor renovatiepanden. **Een koper die het pand toch gaat strippen, betaalt niets voor uw afwerking.** Wie een casco renovatie plant, breekt uw nieuwe keuken uit. Uw investering is dan geen meerwaarde maar afvalcontainer. Omgekeerd geldt: **wie het pand instapklaar wil bewonen, betaalt wél voor afwerking** — maar die koper haakt af zodra het pand een grondige renovatie vraagt.\n\nDe kernvraag is dus niet \"wat is dit werk waard?\" maar **\"welke koper spreek ik ermee aan, en betaalt die ervoor?\"**",
+      },
+      {
+        heading: "De verborgen kant van de rekening",
+        body: "Naast de aannemersfactuur lopen er kosten door die u pas achteraf optelt. Bij een renovatie van twaalf tot vierentwintig maanden zijn dit de posten die het verschil maken tussen \"rendabel op papier\" en \"verlieslatend in werkelijkheid\".\n\n• **Dubbele woonlast.** Woont u elders terwijl u renoveert, dan betaalt u maandenlang huur of een tweede lening naast de lasten van het pand.\n• **Financieringskost.** Rente op een renovatiekrediet dat opgenomen is terwijl het pand nog niets opbrengt.\n• **Onroerende voorheffing.** Elk kalenderjaar dat het pand nog van u is, kost een volledige aanslag.\n• **Leegstands- en verwaarlozingsheffingen.** Bij een leegstaand pand in Antwerpen tikken deze door zolang de werken lopen, tenzij u tijdig een vrijstelling voor renovatie aanvraagt en de voorwaarden ervan naleeft.\n• **Verzekering.** Een leegstaand of in verbouwing zijnd pand is duurder en soms moeilijker te verzekeren.\n• **De onvoorziene post.** Tien tot twintig procent bij een oud pand, en dat is een gemiddelde: bij één op de vijf dossiers is het meer.\n• **Uw eigen tijd.** Offertes vergelijken, werfopvolging, discussies over meerwerk. Dat is geen kost op papier, maar wel de reden waarom veel eigenaars halverwege afhaken.\n\nEen renovatie van 60.000 euro die achttien maanden duurt, kost u in de praktijk vaak 75.000 tot 85.000 euro voor u de eerste bezichtiging hebt gehad.",
+      },
+      {
+        heading: "Wat zich doorgaans wél en niet terugverdient",
+        body: "De tabel hieronder geeft de gangbare vuistregels voor een pand dat u binnen afzienbare tijd wil verkopen. Zij gelden niet als u zelf blijft wonen: dan weegt wooncomfort mee, en dat staat in geen enkele tabel.",
+        table: {
+          headers: ["Ingreep", "Kost", "Verdict bij verkoop", "Waarom"],
+          rows: [
+            ["Documentatie verzamelen: plannen, facturen, attesten", "Vrijwel nul", "Altijd doen", "Verkleint de risicomarge van de koper"],
+            ["Opruimen, ontstoffen, tuin snoeien", "Zeer laag", "Doen", "Merkbaar effect bij elke bezichtiging"],
+            ["Lekkend dak of gesprongen leiding herstellen", "Laag tot matig", "Doen", "Voorkomt vervolgschade en wantrouwen"],
+            ["Schilderen en behangen", "Laag", "Twijfelachtig", "Alleen waard bij een koper die niet gaat strippen"],
+            ["Nieuwe keuken of badkamer", "Hoog", "Meestal niet doen", "Wordt uitgebroken bij een casco renovatie"],
+            ["Asbest zelf laten verwijderen", "Hoog", "Meestal niet doen", "De koper vergoedt de kost zelden volledig"],
+            ["Zelf renoveren tot label D", "Zeer hoog", "Niet doen bij verkoopintentie", "Zelden volledig terugverdiend op de markt"],
+            ["Slopen vóór de verkoop", "Hoog", "Niet doen", "U verliest het volume én draagt het risico"],
+          ],
+        },
+      },
+      {
+        heading: "Wat er in 2026 fiscaal veranderde — en waarom dat u aangaat",
+        body: "Verschillende regels die renoveren aantrekkelijk maakten, zijn de voorbije twee jaar versmald. Ook al betaalt de koper de registratiebelasting en niet u: wat de koper meer betaalt of minder aan steun krijgt, trekt hij af van wat hij u kan bieden.\n\n**Het verkooprecht.** Het standaardtarief in Vlaanderen blijft **12 procent**. Voor de **enige eigen woning** geldt **2 procent**. Voor een **beschermd monument** dat de enige eigen woning is, geldt **1 procent**, op voorwaarde dat er tijdig geïnvesteerd wordt in instandhoudings- of renovatiewerken. Het verlaagde tarief van 1 procent bij een **ingrijpende energetische renovatie** werd afgeschaft voor overeenkomsten vanaf **1 januari 2025**. Wie vandaag een renovatiepand koopt om er zelf te gaan wonen, geniet dus enkel nog het gewone tarief van 2 procent voor de enige eigen woning.\n\n**Verstrenging van het tarief van 2 procent vanaf 1 januari 2026.** De koper moet zich binnen drie jaar na de akte op het adres inschrijven én er ononderbroken minstens één jaar gedomicilieerd blijven. Het tarief geldt bovendien enkel bij de aankoop van de **volle eigendom** — gesplitste aankopen van vruchtgebruik en blote eigendom vallen op 12 procent — en enkel wanneer de aankoop volledig door **natuurlijke personen** gebeurt. Voor compromissen die vóór 1 januari 2026 getekend werden, blijven de oude regels gelden, ook als de akte later verlijdt.\n\n**Btw op renovatie.** Het tarief van **6 procent** blijft gelden voor werken aan een woning van **minstens tien jaar oud** die na de werken hoofdzakelijk als privéwoning gebruikt wordt, geleverd én geplaatst door een aannemer, met de wettelijke vermeldingen op de factuur. Sinds **1 juli 2025** vallen gas- en stookolieketels bij zo'n renovatie echter op **21 procent**, terwijl vanaf **1 januari 2026** warmtepompen op **6 procent** vallen voor alle woningen.\n\n**Premies.** Vanaf **1 maart 2026** blijft Mijn VerbouwPremie voor inkomenscategorie 3 en 4 ongewijzigd, maar krijgen categorie 1 en 2 enkel nog steun voor een warmtepomp of warmtepompboiler. De **EPC-labelpremie** dooft uit en is voor nieuwe dossiers niet meer beschikbaar.\n\n**De renovatieplicht.** Wie in Vlaanderen een woning met EPC-label **E of F** koopt, moet die binnen **zes jaar** tot minstens **label D** brengen. Die termijn werd in 2026 versoepeld van vijf naar zes jaar, en het eerder aangekondigde verstrengingspad naar label C en B is geschrapt. De verplichting rust op de **koper**, niet op u — maar hij rekent ze door in zijn bod.",
+      },
+      {
+        heading: "Drie profielen, drie antwoorden",
+        body: "De juiste beslissing hangt minder af van het pand dan van uw eigen situatie. Drie profielen die wij in de praktijk het vaakst tegenkomen.\n\n**1. U wil binnen zes maanden weg en heeft de renovatie niet nodig om te leven.** Renoveren is dan vrijwel altijd de verkeerde keuze. U verlengt de doorlooptijd met een tot twee jaar, u draagt in die periode alle lasten, en u verdient de investering op de klassieke markt zelden volledig terug. Verkoop zoals het pand er vandaag bij staat, en steek de energie in documentatie in plaats van in bouwwerken.\n\n**2. U heeft tijd, budget én ervaring, en de structuur is gezond.** Dan kan renoveren wél rendabel zijn — maar reken het eerst door met de volledige kostenkant uit dit artikel, en toets uw verwachte eindwaarde aan wat gerenoveerde panden in uw straat écht opbrachten, niet aan vraagprijzen. Ligt uw verwachte meerwaarde minder dan twintig procent boven de totale kost, dan is de marge te dun voor het risico.\n\n**3. Er ligt een datum vast door een erfenis, een scheiding, een verhuis of een stopzetting.** Dan is de vraag niet of renoveren rendabel is, maar of u het traject kunt dragen binnen die datum. In de meeste van deze dossiers is het antwoord nee, en is een verkoop in de huidige staat — met een zekere datum en zonder financieringsvoorwaarde — meer waard dan een theoretisch hogere prijs over twee jaar.",
+      },
+      {
+        heading: "Als u toch renoveert: de volgorde die het minst geld kost",
+        body: "Beslist u om te renoveren, dan bepaalt de volgorde van de werken hoeveel het uiteindelijk kost. De regel is simpel: **eerst wat het gebouw beschermt, dan wat het isoleert, dan wat u ziet.**\n\n1. **Waterdicht en droog maken.** Dak, goten, gevelvoegen, vochtbestrijding. Elke andere investering in een nat gebouw is verloren geld.\n2. **Structuur en stabiliteit.** Funderingen, balklagen, doorbraken. Dit bepaalt de indeling en dus alles wat erna komt.\n3. **Buitenschil isoleren en luchtdicht maken.** Dak, gevel, vloer, schrijnwerk — in die volgorde van rendement.\n4. **Technieken vernieuwen.** Elektriciteit, sanitair, verwarming, ventilatie. Pas nadat de schil klaar is, want de warmtevraag bepaalt de dimensionering van de verwarming.\n5. **Afwerking.** Pleisterwerk, vloeren, keuken, badkamer, schilderwerk.\n\nTwee praktische aandachtspunten. Vraag altijd **offertes met een uitgesplitste meetstaat** in plaats van één totaalbedrag, en laat expliciet opnemen wat er níét in zit: btw-tarief, erelonen, stelling, containers en nutsaansluitingen. En **begin vroeg met de trage stukken** — het asbestattest en, bij een voormalige risico-inrichting, het oriënterend bodemonderzoek hebben de langste doorlooptijd van allemaal.",
+      },
+      {
+        heading: "Zo werkt het bij wijkopenpanden.be",
+        body: "Wij zijn geen alternatief voor een goed renovatieproject. Wij zijn een alternatief voor het renovatieproject dat u niet wil of niet kunt dragen.\n\n• U krijgt **binnen 2 uur een reactie** op uw aanvraag en na één plaatsbezoek een **schriftelijk en gemotiveerd bod**, met de rekensom erbij: van welke eindwaarde wij vertrekken, welke renovatiekost wij inrekenen op basis van offertes van vaste aannemers, en welke posten daar bovenop komen. U kunt dat naast uw eigen raming leggen.\n• Wij kopen aan in de **regio Antwerpen**, in de **huidige staat** en **inboedel inbegrepen**. Geen opknapwerk, geen ontruiming, geen keuringen: **EPC, asbestattest en elektrische keuring regelen wij na de aankoop**.\n• Wij kopen **met eigen middelen**, dus zonder opschortende voorwaarde van financiering, en met een **akte doorgaans binnen 2 tot 3 maanden** — of later, als u die tijd nodig heeft.\n• Wij rekenen **geen commissie** aan en u werkt met de **notaris van uw keuze**.\n\nEn wat wij er meteen bij zeggen: **is uw pand structureel gezond, ligt het in een gewilde straat en heeft u tijd, dan wint de klassieke markt vaak** — al dan niet na een gerichte opknapbeurt. Onze meerwaarde ligt bij het pand dat grondige renovatie of sloop vraagt, dat leegstaat, dat een vergunnings- of bodemdossier heeft, of waar een datum vastligt. Vraag in dat geval gerust een bod aan en leg het naast de rekensom uit dit artikel — u bent tot niets gehouden.",
+      },
+    ],
+    relatedArticles: [
+      "renovatiekosten-oud-pand-berekenen",
+      "oud-gebouw-te-renoveren-pand-verkopen",
+      "ontwikkelingspotentieel-perceel-pand-bepalen",
+      "energie-renovatieplicht-vlaanderen-2026",
+      "pand-in-slechte-staat-verkopen",
+      "verhuren-of-verkopen-antwerpen",
+      "wanneer-beste-moment-woning-verkopen",
+      "leegstandsheffing-antwerpen-2026",
+      "verwaarloosde-woning-heffing-verkopen",
+      "verkoop-kosten-berekenen",
+      "woning-staat-al-maanden-te-koop",
+    ],
+    relatedSituations: [
+      "opknappand-verkopen",
+      "pand-snel-verkopen",
+      "huis-snel-verkopen",
+      "verkopen-zonder-makelaar",
+      "schatting-pand",
+      "huis-verkopen-bij-erfenis",
+    ],
+    faqs: [
+      {
+        question: "Loont het om mijn huis te renoveren vóór ik het verkoop?",
+        answer:
+          "Zelden, als het om een grondige renovatie gaat. U verlengt de doorlooptijd met een tot twee jaar, draagt in die periode alle lasten en het volledige bouwrisico, en verdient de investering op de klassieke markt zelden volledig terug. Wat wél loont, kost nauwelijks geld: opruimen, het pand droog houden, en alle documenten verzamelen. Gerichte, zichtbare ingrepen aan een verder gezond huis kunnen renderen; een energetische of structurele totaalrenovatie met verkoopintentie bijna nooit.",
+      },
+      {
+        question: "Moet ik mijn woning tot label D brengen voor ik verkoop?",
+        answer:
+          "Nee. De Vlaamse renovatieplicht rust op de koper: die moet een woning met EPC-label E of F binnen zes jaar na de aankoop tot minstens label D brengen. U mag verkopen zoals het pand er vandaag bij staat. De koper rekent die kost wel door in zijn bod, plus een risicomarge — maar zelf renoveren om die aftrek te vermijden, is doorgaans duurder dan de aftrek zelf.",
+      },
+      {
+        question: "Bestaat het verlaagde verkooprecht van 1 procent voor energetische renovatie nog?",
+        answer:
+          "Nee. Het tarief van 1 procent bij een ingrijpende energetische renovatie werd afgeschaft voor overeenkomsten vanaf 1 januari 2025. Wat blijft: het standaardtarief van 12 procent, het tarief van 2 procent voor de enige eigen woning, en 1 procent voor een beschermd monument dat de enige eigen woning is, mits er tijdig in instandhoudings- of renovatiewerken geïnvesteerd wordt.",
+      },
+      {
+        question: "Wat verandert er op 1 januari 2026 aan het tarief van 2 procent?",
+        answer:
+          "De voorwaarden worden strenger. De koper moet zich binnen drie jaar na de akte inschrijven op het adres en er ononderbroken minstens één jaar gedomicilieerd blijven. Het tarief geldt bovendien enkel bij aankoop van de volle eigendom — gesplitste aankopen van vruchtgebruik en blote eigendom vallen op 12 procent — en enkel wanneer de aankoop volledig door natuurlijke personen gebeurt. Compromissen getekend vóór 1 januari 2026 blijven onder de oude regels vallen.",
+      },
+      {
+        question: "Wat kost het mij om te wachten met verkopen tijdens een renovatie?",
+        answer:
+          "Meer dan de meeste eigenaars inschatten. Reken op dubbele woonlast of huur, rente op het renovatiekrediet, een volledige aanslag onroerende voorheffing per kalenderjaar, een duurdere verzekering voor een pand in verbouwing, en bij leegstand mogelijk een leegstands- of verwaarlozingsheffing als u geen tijdige vrijstelling voor renovatie aanvraagt. Een renovatie van 60.000 euro over achttien maanden kost in de praktijk vaak 75.000 tot 85.000 euro.",
+      },
+      {
+        question: "Hoe weet ik of mijn renovatieplan rendabel is?",
+        answer:
+          "Vergelijk uw totale kost — bouwkost, erelonen, btw, financiering, aanhoudkosten en een onvoorziene post van tien tot twintig procent — met wat gerenoveerde panden in uw straat écht opbrachten, niet met vraagprijzen. Ligt de verwachte meerwaarde minder dan ongeveer twintig procent boven die totale kost, dan is de marge te dun voor het risico dat u loopt.",
       },
     ],
   },
