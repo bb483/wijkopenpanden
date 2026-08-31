@@ -2,7 +2,6 @@
 
 import { useState, useEffect, useRef } from "react";
 import Link from "next/link";
-import Container from "./Container";
 import { scrollToFormulier } from "@/components/ScrollToFormulier";
 
 const menus = [
@@ -104,25 +103,28 @@ export default function Nav() {
         borderBottom: scrolled ? "1px solid rgba(28,22,16,0.08)" : "1px solid transparent",
       }}
     >
-      <Container className="flex items-center justify-between py-4">
+      <div className="mx-auto flex h-20 w-full max-w-[1440px] items-center gap-6 px-6 md:px-8 lg:px-10 xl:gap-8">
         {/* Logo */}
-        <Link href="/" className="flex-shrink-0 font-serif font-bold text-xl text-[#1C1610] tracking-tight">
+        <Link
+          href="/"
+          className="flex-shrink-0 whitespace-nowrap font-serif font-bold text-xl text-[#1C1610] tracking-tight leading-none"
+        >
           wijkopenpanden
           <span style={{ color: "#C4A35A" }}>.</span>
           be
         </Link>
 
         {/* Desktop nav */}
-        <nav className="hidden lg:flex items-center gap-1">
+        <nav className="hidden h-full flex-1 items-center justify-center gap-0.5 lg:flex xl:gap-1">
           {menus.map((menu) => (
             <div
               key={menu.label}
-              className="relative"
+              className="relative flex h-full items-center"
               onMouseEnter={() => handleMouseEnter(menu.label)}
               onMouseLeave={handleMouseLeave}
             >
               <button
-                className="px-3 py-2 text-sm text-[#5C4D3C] hover:text-[#1C1610] transition-colors duration-150 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#C4A35A] rounded-md"
+                className="whitespace-nowrap rounded-md px-3 py-2 text-sm leading-none text-[#5C4D3C] hover:text-[#1C1610] transition-colors duration-150 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#C4A35A] xl:px-3.5"
                 aria-haspopup="true"
                 aria-expanded={open === menu.label}
                 onClick={() => setOpen(open === menu.label ? null : menu.label)}
@@ -132,7 +134,7 @@ export default function Nav() {
               </button>
               {open === menu.label && (
                 <div
-                  className="absolute top-full left-0 mt-1 min-w-[220px] py-2 rounded-xl"
+                  className="absolute top-full left-1/2 -translate-x-1/2 min-w-[240px] py-2 rounded-xl"
                   style={{
                     background: "#FFFFFF",
                     border: "1px solid rgba(28,22,16,0.08)",
@@ -155,37 +157,37 @@ export default function Nav() {
         </nav>
 
         {/* Right side */}
-        <div className="flex items-center gap-3">
+        <div className="ml-auto flex flex-shrink-0 items-center gap-2 lg:ml-0 xl:gap-3">
           <a
             href="tel:0492779475"
-            className="text-sm text-[#5C4D3C] hover:text-[#1C1610] transition-colors duration-150 hidden sm:block"
+            className="hidden whitespace-nowrap text-sm leading-none text-[#5C4D3C] hover:text-[#1C1610] transition-colors duration-150 min-[1400px]:block"
           >
             0492 77 94 75
           </a>
           <Link
             href="/tip-een-pand"
-            className="hidden xl:inline-flex px-5 py-2 rounded-full text-sm font-medium transition-colors duration-200 ease-out"
+            className="hidden whitespace-nowrap rounded-full px-4 py-2.5 text-sm font-medium leading-none transition-colors duration-200 ease-out xl:inline-flex xl:items-center 2xl:px-5"
             style={{ background: "rgba(196,163,90,0.12)", color: "#C4A35A", border: "1px solid rgba(196,163,90,0.30)" }}
           >
-            Tip & verdien €5.000
+            Tip &amp; verdien €5.000
           </Link>
           <Link
             href="/tip-een-pand"
-            className="xl:hidden inline-flex items-center px-2.5 py-1 rounded-full text-[11px] font-medium ml-auto"
+            className="inline-flex items-center whitespace-nowrap rounded-full px-3 py-2 text-xs font-medium leading-none lg:hidden"
             style={{ background: "rgba(196,163,90,0.12)", color: "#C4A35A", border: "1px solid rgba(196,163,90,0.30)" }}
           >
-            Tip & verdien
+            Tip &amp; verdien
           </Link>
           <Link
             href="/#formulier"
-            className="hidden lg:inline-flex px-5 py-2 rounded-full text-sm font-medium text-white bg-[#C0392B] hover:bg-[#a93226] transition-colors duration-200 ease-out"
+            className="hidden whitespace-nowrap rounded-full px-4 py-2.5 text-sm font-medium leading-none text-white bg-[#C0392B] hover:bg-[#a93226] transition-colors duration-200 ease-out lg:inline-flex lg:items-center 2xl:px-5"
             onClick={(e) => { e.preventDefault(); scrollToFormulier(); }}
           >
             Vraag bod aan
           </Link>
           {/* Hamburger */}
           <button
-            className="lg:hidden flex items-center justify-center w-11 h-11 text-[#5C4D3C] hover:text-[#1C1610] transition-colors"
+            className="lg:hidden -mr-2 flex items-center justify-center w-11 h-11 text-[#5C4D3C] hover:text-[#1C1610] transition-colors"
             onClick={() => setMobileOpen(!mobileOpen)}
             aria-label="Menu"
             aria-expanded={mobileOpen}
@@ -208,7 +210,7 @@ export default function Nav() {
             </svg>
           </button>
         </div>
-      </Container>
+      </div>
 
       {/* Mobile menu */}
       {mobileOpen && (
