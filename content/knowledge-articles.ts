@@ -114,7 +114,18 @@ export const articles: Article[] = [
         body: "Bij een verkoop aan wijkopenpanden.be regelen wij alle verplichte keuringen en attesten zelf, op onze kosten. U hoeft geen EPC, elektriciteitskeuring, asbestinventaris of bodemattesten zelf aan te vragen of te betalen. Dit is een van de concrete voordelen van een rechtstreekse verkoop aan een professionele opkoper.",
       },
     ],
-    relatedArticles: ["commissie-makelaar-belgie", "notariskosten-woning-verkoop", "asbestattest-bij-verkoop-woning", "bodemattest-vlaanderen-verkoop", "elektriciteitskeuring-niet-conform-verkopen", "postinterventiedossier-pid-verkoop-woning", "onafgewerkte-verbouwing-of-bouwwerf-verkopen", "vastgoedinformatie-aanvragen-bij-verkoop", "woning-met-praktijkruimte-of-beroepsgedeelte-verkopen"],
+    relatedArticles: [
+      "commissie-makelaar-belgie",
+      "notariskosten-woning-verkoop",
+      "asbestattest-bij-verkoop-woning",
+      "bodemattest-vlaanderen-verkoop",
+      "elektriciteitskeuring-niet-conform-verkopen",
+      "postinterventiedossier-pid-verkoop-woning",
+      "onafgewerkte-verbouwing-of-bouwwerf-verkopen",
+      "vastgoedinformatie-aanvragen-bij-verkoop",
+      "woning-met-praktijkruimte-of-beroepsgedeelte-verkopen",
+      "rioolkeuring-en-afkoppeling-bij-verkoop-woning",
+    ],
     relatedSituations: ["verkopen-zonder-makelaar", "opknappand-verkopen"],
     faqs: [
       {
@@ -697,7 +708,16 @@ export const articles: Article[] = [
         body: "Bij elke verkoop van mede-eigendom is een notaris verplicht. De notaris:\n• Stelt de verkoopovereenkomst en akte op\n• Verdeelt de opbrengst tussen de mede-eigenaars naar rato van hun aandeel\n• Vereffent de openstaande hypotheek (als die er is)\n• Zorgt voor de fiscale aangifte\n\nAls de mede-eigenaars verschillende notarissen willen, is dat mogelijk. De kopers- en verkopers-notaris werken dan samen.\n\nBij verkoop aan wijkopenpanden.be regelen wij de volledige coördinatie met de notaris(sen). U hoeft zich niet te bekommeren om de administratie.",
       },
     ],
-    relatedArticles: ["erfenis-woning-stappenplan", "belastingen-bij-woningverkoop", "verkoop-kosten-berekenen", "mede-eigenaar-wil-niet-verkopen-uit-onverdeeldheid", "woning-verkopen-met-minderjarige-eigenaar", "woning-verkopen-met-erfpacht-of-opstalrecht", "partner-uitkopen-bij-scheiding-verdeelrecht"],
+    relatedArticles: [
+      "erfenis-woning-stappenplan",
+      "belastingen-bij-woningverkoop",
+      "verkoop-kosten-berekenen",
+      "mede-eigenaar-wil-niet-verkopen-uit-onverdeeldheid",
+      "woning-verkopen-met-minderjarige-eigenaar",
+      "woning-verkopen-met-erfpacht-of-opstalrecht",
+      "partner-uitkopen-bij-scheiding-verdeelrecht",
+      "woning-verkopen-zonder-handtekening-partner-gezinswoning",
+    ],
     relatedSituations: ["huis-verkopen-bij-erfenis", "huis-verkopen-bij-scheiding"],
     faqs: [
       {
@@ -2057,7 +2077,17 @@ export const articles: Article[] = [
         body: "Wie zijn woning verkoopt aan een professionele vastgoedopkoper zoals wijkopenpanden.be, verkrijgt in de praktijk de sterkst mogelijke bescherming tegen vorderingen wegens verborgen gebreken.\n\nWaarom?\n• Professionele opkopers kopen uitdrukkelijk 'as-is' — de as-is-clausule is een standaardbeding in het compromis\n• Als professionele partij wordt van een opkoper verwacht dat hij zelf een grondige inspectie uitvoert vóór het bod\n• Rechtbanken aanvaarden de vrijwaringsclausule makkelijker tussen een particulier en een professionele koper dan tussen twee particulieren\n• De opkoper koopt precies om te renoveren — hij is niet verrast door gebreken, hij verwacht ze\n\nVoor eigenaars met een oud pand, een woning met gekende structurele problemen of een erfenis waarbij men de exacte staat niet kent, is verkoop aan een opkoper de meest zekere manier om elk risico op een latere vordering te vermijden.",
       },
     ],
-    relatedArticles: ["keuringen-bij-verkoop-woning", "compromis-verkoop-woning-belgie", "huis-verkopen-met-hypotheek", "commissie-makelaar-belgie", "erfdienstbaarheid-recht-van-doorgang-woning-verkopen", "verkoop-annuleren-na-compromis-koop-is-koop", "sleutels-geven-voor-de-akte-vervroegde-ingebruikname", "woning-verkopen-met-lopende-gerechtelijke-procedure-kantmelding"],
+    relatedArticles: [
+      "keuringen-bij-verkoop-woning",
+      "compromis-verkoop-woning-belgie",
+      "huis-verkopen-met-hypotheek",
+      "commissie-makelaar-belgie",
+      "erfdienstbaarheid-recht-van-doorgang-woning-verkopen",
+      "verkoop-annuleren-na-compromis-koop-is-koop",
+      "sleutels-geven-voor-de-akte-vervroegde-ingebruikname",
+      "woning-verkopen-met-lopende-gerechtelijke-procedure-kantmelding",
+      "rioolkeuring-en-afkoppeling-bij-verkoop-woning",
+    ],
     relatedSituations: ["opknappand-verkopen", "huis-verkopen-bij-erfenis", "verkopen-zonder-makelaar"],
     faqs: [
       {
@@ -2817,7 +2847,17 @@ export const articles: Article[] = [
         body: "Wij houden de aanvraag bewust vrijblijvend en helder.\n\n• U vraagt een bod aan via het formulier of telefonisch — gratis en zonder verplichting\n• Wij bezoeken het pand; ook dat bezoek is vrijblijvend\n• U ontvangt een schriftelijk, gemotiveerd bod, doorgaans 7 dagen geldig\n• Wij vragen geen exclusiviteit, zodat u vrij kunt vergelijken\n• Wat in het bod staat, is wat u ontvangt — geen extra kortingen bij de akte\n• U zit pas vast wanneer u zélf de koopovereenkomst ondertekent\n\nZo kunt u zonder risico uitzoeken wat uw woning rechtstreeks opbrengt, en pas beslissen wanneer u alle informatie heeft.",
       },
     ],
-    relatedArticles: ["wat-is-een-vastgoedopkoper", "verkoopbelofte-compromis-akte", "compromis-verkoop-woning-belgie", "betrouwbaar-verkopen-aan-opkoper", "opkoper-of-makelaar-verschil", "notariskosten-woning-verkoop", "koper-krijgt-lening-niet-rond-opschortende-voorwaarde", "fouten-bij-verkopen-aan-opkoper"],
+    relatedArticles: [
+      "wat-is-een-vastgoedopkoper",
+      "verkoopbelofte-compromis-akte",
+      "compromis-verkoop-woning-belgie",
+      "betrouwbaar-verkopen-aan-opkoper",
+      "opkoper-of-makelaar-verschil",
+      "notariskosten-woning-verkoop",
+      "koper-krijgt-lening-niet-rond-opschortende-voorwaarde",
+      "fouten-bij-verkopen-aan-opkoper",
+      "meerdere-biedingen-op-woning-hoogste-bod-kiezen",
+    ],
     relatedSituations: ["verkopen-zonder-makelaar", "vastgoedopkoper-antwerpen"],
     faqs: [
       {
@@ -2978,7 +3018,17 @@ export const articles: Article[] = [
         body: "Bij een klassieke verkoop blijven de attesten ten laste van de verkoper. U laat ze opmaken vóór de publicatie — onder meer omdat het EPC al in de advertentie moet staan — en betaalt de keurders zelf. Een makelaar regelt dit soms tegen vergoeding, maar de kosten blijven uw rekening.\n\nVerkoopt u liever via een makelaar, dan kan dat uiteraard — bijvoorbeeld via een vastgoedkantoor zoals Berabrick, dat het volledige verkooptraject en de attesten in uw plaats opvolgt. De afweging blijft dezelfde als altijd: een mogelijk hogere brutoprijs tegenover de kosten, de wachttijd en de rompslomp.\n\nBij een directe verkoop aan wijkopenpanden.be vallen die keuringskosten en dat opzoekwerk weg. U levert de woning aan zoals ze is; wij doen de rest.",
       },
     ],
-    relatedArticles: ["keuringen-bij-verkoop-woning", "epc-attest-antwerpen", "bodemattest-vlaanderen-verkoop", "opkoper-of-makelaar-verschil", "pand-in-slechte-staat-verkopen", "hoe-snel-verkopen-en-geld-ontvangen", "elektriciteitskeuring-niet-conform-verkopen", "postinterventiedossier-pid-verkoop-woning"],
+    relatedArticles: [
+      "keuringen-bij-verkoop-woning",
+      "epc-attest-antwerpen",
+      "bodemattest-vlaanderen-verkoop",
+      "opkoper-of-makelaar-verschil",
+      "pand-in-slechte-staat-verkopen",
+      "hoe-snel-verkopen-en-geld-ontvangen",
+      "elektriciteitskeuring-niet-conform-verkopen",
+      "postinterventiedossier-pid-verkoop-woning",
+      "rioolkeuring-en-afkoppeling-bij-verkoop-woning",
+    ],
     relatedSituations: ["verkopen-zonder-makelaar", "opknappand-verkopen"],
     faqs: [
       {
@@ -3471,7 +3521,18 @@ export const articles: Article[] = [
         body: "Een bewinddossier vraagt precies wat een klassieke verkoop met bezoekdagen en onzekere kandidaten moeilijk kan garanderen: een schriftelijk bod, een zekere koper en een voorspelbare timing. Een directe verkoop aan wijkopenpanden.be sluit daar goed op aan.\n\nU ontvangt een **gratis en vrijblijvend bod**: reactie binnen 2 uur, ook in het weekend, en een plaatsbezoek doorgaans binnen 48 uur. Het bod is **schriftelijk en gemotiveerd** — een stuk dat u samen met het schattingsverslag bij het verzoekschrift kunt voegen, zodat de vrederechter concreet kan toetsen. Er is **geen financieringsvoorbehoud**: de aankoop gebeurt uit eigen middelen, waardoor de gemachtigde verkoop niet alsnog kan afspringen op een geweigerd krediet. De woning wordt in haar **huidige staat** gekocht — ook als ze jaren bewoond werd door iemand die er niet meer in kon investeren — en er is geen makelaarscommissie. Na akkoord en machtiging volgt de akte doorgaans binnen 2 à 3 maanden.\n\nBent u bewindvoerder of bereidt u als familielid een bewinddossier voor? Vraag vrijblijvend een bod aan; u beslist daarna in alle rust, en uiteindelijk beslist de vrederechter mee. Zo hoort het ook.",
       },
     ],
-    relatedArticles: ["erfenis-woning-stappenplan", "compromis-verkoop-woning-belgie", "notariskosten-woning-verkoop", "mede-eigendom-verkopen", "wat-is-een-vastgoedopkoper", "hoelang-duurt-huis-verkopen-belgie", "woning-verkopen-met-minderjarige-eigenaar", "pand-laten-schatten-schattingsverslag", "woning-verkopen-met-zorgvolmacht"],
+    relatedArticles: [
+      "erfenis-woning-stappenplan",
+      "compromis-verkoop-woning-belgie",
+      "notariskosten-woning-verkoop",
+      "mede-eigendom-verkopen",
+      "wat-is-een-vastgoedopkoper",
+      "hoelang-duurt-huis-verkopen-belgie",
+      "woning-verkopen-met-minderjarige-eigenaar",
+      "pand-laten-schatten-schattingsverslag",
+      "woning-verkopen-met-zorgvolmacht",
+      "woning-verkopen-zonder-handtekening-partner-gezinswoning",
+    ],
     relatedSituations: ["huis-verkopen-bij-erfenis", "verkopen-zonder-makelaar"],
     faqs: [
       {
@@ -6260,7 +6321,18 @@ export const articles: Article[] = [
         body: "Wij kopen woningen in de regio Antwerpen rechtstreeks op, **in de huidige staat** en met **eigen middelen**. Dat laatste is de kern van het verschil: omdat wij niet afhankelijk zijn van een bank, hebben wij **geen financieringsvoorbehoud** nodig. Er staat dus geen opschortende voorwaarde van financiering in onze overeenkomst die de verkoop weken kan blokkeren of alsnog kan laten afspringen. Voor u betekent dat meer zekerheid en minder wachttijd.\n\nConcreet werken wij zo:\n\n• U krijgt doorgaans **binnen 2 uur** een reactie op uw aanvraag.\n• Na een plaatsbezoek ontvangt u een **schriftelijk, vrijblijvend bod**.\n• Er is **geen makelaarscommissie** en geen financieringsvoorbehoud.\n• De akte verloopt doorgaans **binnen 2 à 3 maanden**, of sneller in overleg.\n\nWij zijn eerlijk over wat wij wél en niet wegnemen. Een directe verkoop schrapt het risico dat de koper zijn lening niet rondkrijgt, want dat risico bestaat bij ons niet. Andere aspecten — zoals de prijs die u op de open markt zou kunnen halen — blijven een afweging die u zelf maakt. Vergelijk gerust ons bod met een klassieke verkoop en beslis daarna.",
       },
     ],
-    relatedArticles: ["compromis-verkoop-woning-belgie", "verkoopbelofte-compromis-akte", "bod-aanvragen-vrijblijvend-bindend", "hoe-snel-verkopen-en-geld-ontvangen", "hoelang-duurt-huis-verkopen-belgie", "betrouwbaar-verkopen-aan-opkoper", "koper-tekent-de-akte-niet-of-betaalt-niet", "verkopen-onder-voorwaarde-nieuwe-woning", "sleutels-geven-voor-de-akte-vervroegde-ingebruikname"],
+    relatedArticles: [
+      "compromis-verkoop-woning-belgie",
+      "verkoopbelofte-compromis-akte",
+      "bod-aanvragen-vrijblijvend-bindend",
+      "hoe-snel-verkopen-en-geld-ontvangen",
+      "hoelang-duurt-huis-verkopen-belgie",
+      "betrouwbaar-verkopen-aan-opkoper",
+      "koper-tekent-de-akte-niet-of-betaalt-niet",
+      "verkopen-onder-voorwaarde-nieuwe-woning",
+      "sleutels-geven-voor-de-akte-vervroegde-ingebruikname",
+      "meerdere-biedingen-op-woning-hoogste-bod-kiezen",
+    ],
     relatedSituations: ["verkopen-zonder-makelaar"],
     faqs: [
       {
@@ -6367,7 +6439,16 @@ export const articles: Article[] = [
         body: "Wij kopen woningen in de regio Antwerpen rechtstreeks op, **in de huidige staat**. U hoeft niets op te knappen, leeg te maken of te laten keuren vóór de verkoop.\n\nWat u van ons mag verwachten:\n\n• **Geen makelaarscommissie** — wij zijn de koper, geen tussenpersoon.\n• **Eigen middelen, dus geen financieringsvoorbehoud** — onze aankoop hangt niet af van een bank die alsnog kan afhaken.\n• Reactie op uw vraag **doorgaans binnen 2 uur**.\n• Na een plaatsbezoek een **schriftelijk, vrijblijvend bod**: u beslist zelf of u erop ingaat, zonder verplichting.\n• Bij akkoord verloopt het verder via het compromis en de notaris, met de akte **doorgaans binnen 2 à 3 maanden**.\n\nEén ding blijven wij eerlijk over: ook bij ons geldt na ondertekening van het compromis dat koop koop is. Wij nemen die onzekerheid dus niet weg — wat wij wél doen, is u vóór de handtekening een duidelijk en vrijblijvend bod geven, zodat u met volledige informatie kan beslissen. Twijfelt u over uw juridische positie in een lopende verkoop, raadpleeg dan altijd eerst uw notaris of een advocaat.",
       },
     ],
-    relatedArticles: ["compromis-verkoop-woning-belgie", "verkoopbelofte-compromis-akte", "bod-aanvragen-vrijblijvend-bindend", "verborgen-gebreken-woning-verkoop-belgie", "betrouwbaar-verkopen-aan-opkoper", "koper-tekent-de-akte-niet-of-betaalt-niet", "verkopen-onder-voorwaarde-nieuwe-woning"],
+    relatedArticles: [
+      "compromis-verkoop-woning-belgie",
+      "verkoopbelofte-compromis-akte",
+      "bod-aanvragen-vrijblijvend-bindend",
+      "verborgen-gebreken-woning-verkoop-belgie",
+      "betrouwbaar-verkopen-aan-opkoper",
+      "koper-tekent-de-akte-niet-of-betaalt-niet",
+      "verkopen-onder-voorwaarde-nieuwe-woning",
+      "meerdere-biedingen-op-woning-hoogste-bod-kiezen",
+    ],
     relatedSituations: ["verkopen-zonder-makelaar"],
     faqs: [
       {
@@ -6815,7 +6896,16 @@ export const articles: Article[] = [
         body: "In verreweg de meeste dossiers waarin een koper afhaakt, is de oorzaak dezelfde: de **financiering geraakt niet rond**. Ofwel is er een opschortende voorwaarde die faalt, ofwel is er geen voorwaarde en blijft de koper hangen zonder krediet.\n\nWij kopen woningen in de regio **Antwerpen** rechtstreeks aan, met **eigen middelen**. Dat betekent concreet: **geen opschortende voorwaarde van financiering**, geen wachten op een bankattest en geen kredietdossier dat in de laatste week ontspoort. Dat is de belangrijkste reden waarom verkopers die al één keer een koper zagen afhaken, bij ons uitkomen.\n\nOnze werkwijze:\n\n• Reactie op uw aanvraag doorgaans binnen 2 uur.\n• Een plaatsbezoek, gevolgd door een schriftelijk en vrijblijvend bod.\n• Bij akkoord verloopt het verlijden van de akte doorgaans binnen 2 à 3 maanden.\n\nEen eerlijke nuance tot slot: zit u nu **midden in een lopend geschil** met een koper, dan kunt u het pand niet zomaar een tweede keer verkopen. De bestaande koop moet eerst juridisch en fiscaal correct worden afgewikkeld, met uw notaris en desgevallend een advocaat. Wij kunnen die stap niet overslaan, en een partij die beweert van wel, is geen betrouwbare partij.",
       },
     ],
-    relatedArticles: ["compromis-verkoop-woning-belgie", "verkoop-annuleren-na-compromis-koop-is-koop", "koper-krijgt-lening-niet-rond-opschortende-voorwaarde", "verkoopbelofte-compromis-akte", "bod-aanvragen-vrijblijvend-bindend", "hoelang-duurt-huis-verkopen-belgie", "sleutels-geven-voor-de-akte-vervroegde-ingebruikname"],
+    relatedArticles: [
+      "compromis-verkoop-woning-belgie",
+      "verkoop-annuleren-na-compromis-koop-is-koop",
+      "koper-krijgt-lening-niet-rond-opschortende-voorwaarde",
+      "verkoopbelofte-compromis-akte",
+      "bod-aanvragen-vrijblijvend-bindend",
+      "hoelang-duurt-huis-verkopen-belgie",
+      "sleutels-geven-voor-de-akte-vervroegde-ingebruikname",
+      "meerdere-biedingen-op-woning-hoogste-bod-kiezen",
+    ],
     relatedSituations: ["verkopen-zonder-makelaar"],
     faqs: [
       {
@@ -7671,6 +7761,7 @@ export const articles: Article[] = [
       "pand-laten-schatten-schattingsverslag",
       "notariskosten-woning-verkoop",
       "woonbonus-en-fiscaal-voordeel-bij-verkoop-woning",
+      "woning-verkopen-zonder-handtekening-partner-gezinswoning",
     ],
     relatedSituations: ["huis-verkopen-bij-scheiding", "schatting-pand"],
     faqs: [
@@ -8203,7 +8294,19 @@ export const articles: Article[] = [
         body: "Een verkoop met zorgvolmacht is geen gewone verkoop. De lasthebber handelt in naam van iemand anders en moet kunnen aantonen dat de verkoop verdedigbaar is. Daar sluit een directe verkoop goed op aan.\n\n• U krijgt een **schriftelijk, gemotiveerd bod** — een stuk dat u kunt voorleggen aan de notaris, aan de andere kinderen, of aan de vrederechter als het toch een bewinddossier blijkt te worden\n• Wij kopen **uit eigen middelen, zonder opschortende voorwaarde van financiering**, zodat de verkoop niet alsnog afspringt op een geweigerd krediet\n• Wij kopen het pand **in de staat waarin het zich bevindt**: bij een woning die maanden leegstond hoeft u niets op te knappen en niets te ruimen\n• U beslist mee over de **aktedatum**, wat helpt wanneer er nog een verhuis naar een woonzorgcentrum of een controle van de volmacht loopt\n• U werkt met de **notaris van uw keuze** — de notaris die de zorgvolmacht opmaakte, kent het dossier meestal het best\n\nWat wij niet kunnen, is de wet omzeilen. Dekt de volmacht de verkoop niet, of is ze niet geregistreerd, dan gaat de akte niet door: bij ons evenmin als elders. Wat wel kan, is u vroeg in het traject een concreet bedrag geven, zodat u weet waar u aan toe bent vóór u tijd en geld in een procedure investeert. Een bod aanvragen is gratis, vrijblijvend en verplicht u tot niets.",
       },
     ],
-    relatedArticles: ["woning-verkopen-onder-bewind", "woning-verkopen-verhuis-woonzorgcentrum", "erfenis-woning-stappenplan", "pand-laten-schatten-schattingsverslag", "woning-verkopen-met-minderjarige-eigenaar", "mede-eigendom-verkopen", "vruchtgebruik-woning-verkopen", "compromis-verkoop-woning-belgie", "notariskosten-woning-verkoop", "zorgwoning-kangoeroewoning-verkopen"],
+    relatedArticles: [
+      "woning-verkopen-onder-bewind",
+      "woning-verkopen-verhuis-woonzorgcentrum",
+      "erfenis-woning-stappenplan",
+      "pand-laten-schatten-schattingsverslag",
+      "woning-verkopen-met-minderjarige-eigenaar",
+      "mede-eigendom-verkopen",
+      "vruchtgebruik-woning-verkopen",
+      "compromis-verkoop-woning-belgie",
+      "notariskosten-woning-verkoop",
+      "zorgwoning-kangoeroewoning-verkopen",
+      "woning-verkopen-zonder-handtekening-partner-gezinswoning",
+    ],
     relatedSituations: ["huis-verkopen-bij-erfenis", "vastgoedopkoper-antwerpen", "schatting-pand", "verkopen-zonder-makelaar"],
     faqs: [
       {
@@ -10575,6 +10678,7 @@ export const articles: Article[] = [
       "leegstandsheffing-antwerpen-2026",
       "brandverzekering-bij-verkoop-woning-overgang-en-opzeg",
       "onroerende-voorheffing-verrekenen-bij-verkoop",
+      "rioolkeuring-en-afkoppeling-bij-verkoop-woning",
     ],
     relatedSituations: [
       "huis-verkopen-bij-erfenis",
@@ -11074,6 +11178,348 @@ export const articles: Article[] = [
       {
         question: "Koopt wijkopenpanden.be een pand waartegen beroep loopt?",
         answer: "Ja. Wij kopen in de regio Antwerpen ook panden en percelen met een hangend beroep bij de deputatie of de Raad voor Vergunningsbetwistingen, en met een vervallen of bijna vervallen vergunning. Wij werken met eigen middelen en zonder opschortende voorwaarde van vergunning; het risico van het beroep zit in de prijs, en wij leggen schriftelijk uit hoe wij dat inrekenen. Hebt u een definitieve vergunning voor een project dat de markt wil, dan betaalt een projectontwikkelaar daarvoor doorgaans meer dan wij, als u de tijd hebt om zijn voorwaarde af te wachten.",
+      },
+    ],
+  },
+  {
+    slug: "meerdere-biedingen-op-woning-hoogste-bod-kiezen",
+    title: "Meerdere biedingen op uw woning: moet u het hoogste bod aanvaarden?",
+    metaTitle: "Meerdere biedingen: moet u het hoogste bod aanvaarden?",
+    metaDescription:
+      "Nee, u kiest vrij tussen kandidaat-kopers zolang u niet discrimineert, maar een aanvaard bod is een verkoop. Zo weegt u prijs, zekerheid en aktedatum af.",
+    publishedAt: "2026-09-05",
+    updatedAt: "2026-09-05",
+    intro:
+      "Nee, u bent nooit verplicht het hoogste bod te aanvaarden, en evenmin om een bod aan de vraagprijs te aanvaarden: als verkoper kiest u vrij welke kandidaat-koper u aanvaardt, zolang u niet kiest op een beschermd criterium zoals nationaliteit, handicap of leeftijd. De keerzijde is even belangrijk: zodra u een bod aanvaardt, ook per e-mail of WhatsApp, is de koop gesloten (art. 1583 oud BW en art. 5.18 tot 5.21 BW), ook als een uur later een hoger bod binnenkomt. Dit artikel gaat over biedingen van kandidaat-kopers in een gewone onderhandse verkoop, met of zonder makelaar. U leest wanneer een bod bindend is en hoelang, waarom een lager onvoorwaardelijk bod soms meer waard is dan een hoger bod met financieringsvoorwaarde, wat uw makelaar met elk bod moet doen volgens de BIV-plichtenleer, hoe biedrondes en gesloten omslagen werken, welke keuzecriteria toegelaten zijn, en met welk stappenplan u van meerdere biedingen naar één ondertekend compromis gaat.",
+    sections: [
+      {
+        heading: "Moet u het hoogste bod aanvaarden? Nee, maar een aanvaarding is definitief",
+        body: "Nee. Geen enkele wet verplicht u om het hoogste bod te aanvaarden, of om überhaupt een bod te aanvaarden. De verkoop van een woning komt tot stand door de aanvaarding van een aanbod (art. 5.18 BW) en is voltrokken zodra koper en verkoper het eens zijn over de zaak en de prijs (art. 1583 oud BW). Tot u een bod aanvaardt, beslist u dus vrij. Daarna niet meer: een aanvaard bod is een koop, ook als het compromis nog niet is opgesteld en ook al was het niet het hoogste bod dat u kreeg.\n\nSinds 1 januari 2023 staan de spelregels van aanbod en aanvaarding in Boek 5 van het Burgerlijk Wetboek:\n• Een **bod is een aanbod** zodra het alle essentiële elementen bevat, het pand en de prijs, en de kandidaat de wil uitdrukt om gebonden te zijn (art. 5.19 BW). Een e-mail met 'wij bieden 325.000 euro voor de woning in de Lange Leemstraat' voldoet daaraan.\n• De bieder is **gebonden gedurende de termijn die hij zelf in zijn bod zet**, en zonder termijn gedurende een redelijke termijn (art. 5.19 BW). Trekt hij zijn bod vóór het verstrijken in, dan kan hij daarvoor aansprakelijk zijn, al blijft de praktische vraag wat u daarmee opschiet als hij toch niet wil kopen.\n• De **aanvaarding moet zuiver zijn** (art. 5.20 BW). Antwoordt u 'akkoord, maar aan 335.000 euro' of 'akkoord, als de akte pas in maart passeert', dan aanvaardt u niet: u doet een tegenbod. Het oorspronkelijke bod geldt daarmee als verworpen; wil de kandidaat het toch hernemen, dan moet hij het opnieuw uitbrengen.\n• Het contract ontstaat op het ogenblik dat **uw aanvaarding de bieder bereikt** (art. 5.21 BW). Een aanvaarding per e-mail of WhatsApp is dus een verkoop.\n\nDat laatste is de valkuil. Wie enthousiast 'oké, dat is goed' antwoordt op een bod, heeft verkocht. Kandidaat-kopers bewaren die berichten. Voor rechtshandelingen boven 3.500 euro vraagt Boek 8 BW in principe een ondertekend geschrift, maar e-mails en chatberichten gelden minstens als begin van bewijs, aangevuld met de rest van de conversatie. Reken er niet op dat een informeel akkoord u niet bindt.\n\nWilt u vrij blijven onderhandelen, gebruik dan tot de aanvaarding formuleringen als 'wij nemen uw bod in overweging' of 'onder voorbehoud van akkoord van alle mede-eigenaars'. Vermeld wanneer u zult beslissen en laat de aanvaarding zelf één keer, schriftelijk en ondubbelzinnig gebeuren.",
+      },
+      {
+        heading: "Vraagprijs, 'bieden vanaf' en een bod boven de vraagprijs",
+        body: "De vraagprijs in een advertentie is in de gangbare Belgische lezing een uitnodiging tot onderhandelen, geen aanbod van uw kant. Wie de vraagprijs biedt, sluit dus geen koop: u mag weigeren, ook als drie kandidaten tegelijk de vraagprijs bieden. Notaris.be bevestigt dat een verkoper na biedingen onder gesloten omslag niet verplicht is om met de hoogste bieder in zee te gaan.\n\nToch verdient dit nuance. In de rechtsleer wordt verdedigd dat een advertentie die het goed en een vaste prijs vermeldt, zelf alle essentiële bestanddelen van een aanbod bevat, zodat een bieder die exact de vraagprijs aanvaardt, de koop rond zou hebben; er bestaat rechtspraak die in die richting gaat wanneer de advertentie geen enkel voorbehoud maakt. De meeste juristen en makelaars gaan ervan uit dat de vraagprijs geen aanbod is, maar twee praktische regels beperken het risico:\n• Laat in elke advertentie en elke prijsmededeling **'prijs zonder verbintenis'** of 'onder voorbehoud van aanvaarding door de verkoper' opnemen. Makelaars doen dat standaard; wie zelf verkoopt, vergeet het vaak.\n• Doe zelf **nooit een tegenbod dat u niet wilt nakomen**. Zegt u tegen kandidaat A 'voor 340.000 euro is het van u' en stemt A toe, dan is de koop gesloten, ook als B intussen 345.000 euro bood.\n\n**Bod boven de vraagprijs.** Op een gewilde woning komen biedingen boven de vraagprijs voor. Zo'n bod is even bindend voor de bieder als elk ander, maar kijk naar de rest: een hoog bedrag met een financieringsvoorwaarde, een lange aktetermijn of een voorwaarde over de verkoop van de eigen woning is minder waard dan het cijfer suggereert. De volgende secties tonen hoe u dat weegt.\n\n**'Bieden vanaf'.** Sommige makelaars adverteren met een lage vanafprijs om veel kandidaten aan te trekken en organiseren daarna een biedronde. Dat is toegelaten, maar de makelaar mag niemand misleiden over de beschikbaarheid of de essentiële kenmerken van het goed (art. 55 BIV-plichtenleer) en moet u vooraf zeggen wanneer hij vindt dat de prijs die u verwacht niet realistisch is (art. 47). Een vanafprijs die ver onder de prijs ligt die u werkelijk wilt, trekt bovendien vooral kandidaten aan die afhaken zodra ze het echte prijsniveau horen, en kost u weken.",
+      },
+      {
+        heading: "Welke soorten biedingen bestaan er en hoeveel zekerheid geven ze?",
+        body: "Niet elk bod van 330.000 euro is 330.000 euro waard. Het bedrag is één element; de voorwaarden, de termijn en de herkomst van het geld bepalen hoe groot de kans is dat u dat bedrag effectief op uw rekening krijgt, en wanneer. De tabel zet de gangbare soorten biedingen naast elkaar.\n\nTwee toelichtingen. Een opschortende voorwaarde van financiering (art. 5.139 BW) betekent dat de koop vervalt als de koper binnen de afgesproken termijn geen lening krijgt; het bod is dus bindend, maar niet zeker. De voorwaarde 'verkoop van de eigen woning' is een stuk zwakker: u hangt dan af van een tweede verkoop waarop u geen enkele invloed hebt, meestal zonder einddatum. Vraag in dat geval minstens een uiterste datum en het recht om intussen aan een andere kandidaat te verkopen (een ontsnappingsclausule), of weiger de voorwaarde.\n\nEen bod met een lange aktetermijn, bijvoorbeeld negen maanden omdat de koper eerst een huurcontract wil uitzitten, draagt een ander risico: in die maanden kan de markt bewegen en kan de situatie van de koper veranderen. Het compromis moet bovendien binnen vier maanden geregistreerd worden en het verkooprecht is dan verschuldigd; dat is een probleem van de koper, maar het maakt lange termijnen ook voor hem minder aantrekkelijk en dus minder stabiel. Een voorschot van 5 tot 10% op de derdenrekening van de notaris compenseert een deel van dat risico, omdat het het schadebeding dekt als de koper afhaakt.\n\nHet bod van een opkoper met eigen middelen staat in de tabel als apart type omdat het de twee klassieke onzekerheden schrapt: geen financiering, en een aktedatum die u kiest. De prijs ligt doorgaans onder wat een sterke particuliere kandidaat op een gewilde woning biedt; dat verschil is de prijs van de zekerheid, en het is aan u om te beoordelen of die zekerheid in uw situatie dat verschil waard is.",
+        table: {
+          headers: ["Soort bod","Wat het inhoudt","Zekerheid voor u","Doorlooptijd tot akte"],
+          rows: [
+            ["Onvoorwaardelijk bod, eigen middelen","Geen voorwaarden; koper toont zijn middelen aan","Hoog: koop definitief bij aanvaarding","Zodra de notaris klaar is, vaak 2 tot 3 maanden"],
+            ["Bod onder opschortende voorwaarde van financiering","Koop vervalt als de lening binnen de termijn wordt geweigerd","Middel: hangt af van bank en dossier","Voorwaarde 4 tot 6 weken, akte binnen 4 maanden"],
+            ["Bod onder voorwaarde verkoop eigen woning","Koper moet eerst zijn eigen woning verkopen","Laag: dubbel risico, vaak zonder einddatum","Onbepaald, dikwijls 4 tot 8 maanden"],
+            ["Bod met voorwaarde bouwtechnische keuring","Koper wil eerst een keuring of attest","Middel tot laag: heronderhandeling waarschijnlijk","Enkele weken extra vóór het compromis"],
+            ["Bod boven vraagprijs met lange aktetermijn","Hoge prijs, akte pas na 6 maanden of meer","Middel: langer risico op afhaken en marktbeweging","6 maanden of langer"],
+            ["Bod van opkoper met eigen middelen","Schriftelijk, zonder financieringsvoorwaarde, huidige staat","Hoog: prijs en datum liggen vast","Doorgaans 2 tot 3 maanden, of later op uw vraag"],
+          ],
+        },
+      },
+      {
+        heading: "Rekenvoorbeeld: lager onvoorwaardelijk bod tegenover hoger bod met financieringsvoorwaarde",
+        body: "Stel: u ontvangt twee biedingen op uw rijhuis in Berchem.\n• Bod A: 335.000 euro, onder opschortende voorwaarde van een lening van 300.000 euro, voorwaarde te vervullen binnen zes weken, akte vier maanden later.\n• Bod B: 325.000 euro, onvoorwaardelijk, eigen middelen aangetoond, akte binnen drie maanden.\n\nHet verschil is 10.000 euro. De vraag is niet welk bod het hoogst is, maar welk bod het meeste oplevert als u het risico op afhaken meetelt. Betrouwbare Belgische cijfers over hoe vaak een financieringsvoorwaarde effectief mislukt, bestaan niet; de kansen hieronder zijn dus aannames ter illustratie.\n\n**Scenario 1.** A heeft een principieel bankakkoord en 20% eigen inbreng. Kans op afhaken: zeg 10%. Haakt A af, dan verliest u ongeveer twee maanden en verkoopt u alsnog aan 325.000 euro, met 2.500 euro extra vaste kosten (onroerende voorheffing, verzekering, verwarming, eventueel uw lopende hypotheek). Verwachte opbrengst van A: 0,90 × 335.000 + 0,10 × 322.500 = 333.750 euro. Bod A wint duidelijk van de 325.000 euro van B.\n\n**Scenario 2.** Het verschil is maar 3.000 euro (A biedt 328.000 euro), A heeft geen bankattest en moet 95% lenen, en u hebt zelf al een woning gekocht met een akte over vier maanden. Kans op afhaken: zeg 25%. Haakt A af, dan moet u snel verkopen en landt u realistisch op 310.000 euro, of u betaalt intussen een overbruggingskrediet. Verwachte opbrengst van A: 0,75 × 328.000 + 0,25 × 310.000 = 323.500 euro. Nu wint het lagere, onvoorwaardelijke bod B.\n\nDrie lessen:\n1. Een hoger voorwaardelijk bod is meestal nog altijd de beste keuze, als het verschil groot is en het dossier sterk.\n2. De rekensom kantelt wanneer het verschil klein is, het financieringsdossier zwak, en uw terugvaloptie slecht: een eigen aankoop, een erfenis met deadline, een verhuis naar een woonzorgcentrum.\n3. Onderhandel de voorwaarde in plaats van ze te aanvaarden of te weigeren: een kortere termijn (vier weken), de verplichting om bij minstens twee banken aan te vragen met bewijs van de aanvraag, en een principieel akkoord vóór het compromis. Zo behoudt u de hogere prijs met minder risico.\n\nWat een opschortende voorwaarde precies doet en wat er gebeurt als de lening wordt geweigerd, leest u in ons artikel over de koper die zijn lening niet rond krijgt.",
+      },
+      {
+        heading: "Wat uw makelaar met elk bod moet doen volgens de BIV-plichtenleer",
+        body: "Werkt u met een makelaar, dan beslist u nog altijd zelf. De makelaar is een bemiddelaar met een mandaat, en zijn gedrag rond biedingen ligt vast in het reglement van plichtenleer van het BIV, goedgekeurd bij KB van 29 juni 2018. De relevante regels:\n• **Elk bod moet u bereiken.** Tijdens zijn opdracht moet de makelaar elk voorstel of elke vaste verbintenis van een gegadigde onverwijld aan u meedelen, tenzij u anders hebt afgesproken (art. 52). Een makelaar die een bod achterhoudt omdat het 'toch te laag' is of omdat hij een andere koper verkiest, schendt zijn deontologie.\n• **De bieder krijgt antwoord.** De makelaar moet de kandidaat onverwijld op de hoogte brengen van het gevolg dat u aan zijn ondertekend bod geeft (art. 62). Een bod eindeloos laten hangen als drukmiddel is dus geen optie.\n• **Bekwaamheid en bevoegdheid.** Vóór een kandidaat zich verbindt, gaat de makelaar zijn handelingsbekwaamheid en bevoegdheid na en meldt hij u zijn redelijke twijfels (art. 57). Voor de solvabiliteit van de kandidaat is hij tuchtrechtelijk niet verantwoordelijk (art. 53); het financieringsbewijs vraagt u dus best zelf, of u laat die taak uitdrukkelijk in de bemiddelingsovereenkomst zetten.\n• **Alleen verbinden binnen het mandaat.** De makelaar mag u uitsluitend verbinden volgens de voorwaarden van zijn opdracht (art. 60). Staat in uw bemiddelingsovereenkomst dat hij mag aanvaarden aan de vraagprijs, dan kan hij dat zonder u te bellen. Lees die clausule vóór u tekent.\n\n**Biedrondes, gesloten omslag en 'beste en laatste bod'.** Voor deze praktijken bestaat geen specifiek wettelijk kader. Wat juristen en notarissen wel vrijwel unaniem stellen: bij een onderhandse verkoop mogen kandidaten niet tegen elkaar opbieden alsof het een veiling is. De openbare verkoop van onroerend goed is voorbehouden aan de notaris, en wie zelf een opbod organiseert, riskeert een betwisting van de verkoop. Kandidaten meedelen dat er meerdere biedingen zijn, mag; bedragen rondsturen om een biedstrijd uit te lokken, niet. Daarom werken makelaars met een biedronde met deadline: alle kandidaten krijgen dezelfde informatie en dezelfde uiterste datum en dienen één schriftelijk bod in, al dan niet onder gesloten omslag. Na de deadline beslist u: aanvaarden, weigeren, of met één kandidaat verder onderhandelen. U bent ook na zo'n ronde niet verplicht aan de hoogste bieder te verkopen, maar de biedingen binden de bieders wél gedurende hun termijn. Vraag de makelaar vooraf schriftelijk hoe de ronde verloopt, wie wat te horen krijgt en wanneer u de biedingen ziet. Fictieve biedingen vermelden om een kandidaat op te jagen, is misleiding en verboden.",
+      },
+      {
+        heading: "Kiezen tussen kandidaten zonder te discrimineren",
+        body: "U mag kiezen, maar niet op om het even welke grond. Wie een woning publiek te koop stelt, biedt een goed aan dat publiek beschikbaar is en valt daarmee onder de antidiscriminatiewetgeving. Die bestaat uit drie federale wetten en, voor Vlaamse bevoegdheden zoals huisvesting, het Gelijkekansendecreet van 10 juli 2008:\n• de **Antiracismewet van 30 juli 1981**: nationaliteit, zogenaamd ras, huidskleur, afkomst, nationale of etnische afstamming;\n• de **Antidiscriminatiewet van 10 mei 2007**: leeftijd, seksuele oriëntatie, burgerlijke staat, geboorte, vermogen, geloof of levensbeschouwing, politieke overtuiging, syndicale overtuiging, taal, gezondheidstoestand, handicap, fysieke of genetische eigenschap, sociale afkomst of toestand;\n• de **Genderwet van 10 mei 2007**: geslacht, zwangerschap, moederschap, gezinsverantwoordelijkheden, genderidentiteit, genderexpressie en aanverwante criteria.\n\nEen makelaar is via zijn plichtenleer uitdrukkelijk aan die wetten gebonden. Een opdracht tot discrimineren is zelf verboden: een makelaar die uw instructie 'geen buitenlanders' uitvoert, discrimineert samen met u.\n\n**Wat mag:** kiezen op objectieve criteria die met de transactie te maken hebben. De prijs. Financiering rond of eigen middelen. Geen opschortende voorwaarden. De kandidaat aanvaardt uw aktedatum. Een groter voorschot. Een volledig en tijdig ingediend bod. Ook 'de koper wil de woning zelf bewonen en niet verhuren' is een toelaatbare voorkeur, zolang u ze voor iedereen gelijk toepast.\n\n**Wat niet mag:** een bod naast u neerleggen omdat de kandidaten een andere nationaliteit of taal hebben, een handicap, kinderen ten laste (gezinsverantwoordelijkheden), een bepaalde leeftijd, een uitkering als inkomen, of omdat ze een koppel van hetzelfde geslacht vormen. Let op met 'vermogen': nagaan of iemand de prijs kan betalen is legitiem; iemand weigeren omwille van de bron van zijn inkomen of zijn sociale situatie niet.\n\n**De sanctie.** Wie discriminatie aantoont, kan een forfaitaire schadevergoeding vorderen van 2.077 of 4.153 euro (bedragen volgens Unia sinds 1 januari 2026, jaarlijks geïndexeerd), of de werkelijk geleden schade. De bewijslast verschuift: wie feiten aanbrengt die discriminatie doen vermoeden, verplicht de verkoper te bewijzen dat hij niet discrimineerde. Dat is precies waarom een objectieve, genoteerde motivering van uw keuze ('bod B was onvoorwaardelijk en aanvaardde onze aktedatum') u beschermt.\n\nUnia is de instantie waar een afgewezen kandidaat een melding kan doen, gratis en vertrouwelijk, ook via 0800 12 800. Een gedocumenteerde keuze op prijs, zekerheid en timing houdt u aan de goede kant.",
+      },
+      {
+        heading: "Keuzecriteria naast de prijs en hoe u ze controleert",
+        body: "De prijs is het eerste wat u ziet, maar zelden het enige wat telt. Onderstaande criteria maken het verschil tussen een bod dat op papier hoog staat en een bod dat effectief tot een akte leidt. Bij elk criterium hoort een concreet stuk dat u mag vragen; een ernstige kandidaat levert het zonder morren.\n\nHet principieel bankakkoord verdient uitleg. Het is geen kredietaanbod, maar een schriftelijke inschatting van de bank dat de kandidaat, gelet op zijn inkomen en inbreng, een lening van een bepaald bedrag kan krijgen. Het geeft geen zekerheid, want de bank beoordeelt het dossier pas definitief na het compromis en met de schatting van het pand, maar het filtert de kandidaten die nog nooit met een bank hebben gesproken. Voor een koper met eigen middelen volstaat een recent rekeninguittreksel of een verklaring van zijn notaris.\n\nLet ook op wie tekent. Een bod van één partner terwijl het koppel samen koopt, of van een 'vennootschap in oprichting', is kwetsbaar. Vraag dat alle kopers het bod ondertekenen en, bij een vennootschap, het KBO-nummer en het bewijs dat de ondertekenaar bevoegd is. Bij een kandidaat die koopt 'voor een nog aan te duiden persoon' (command) wilt u vóór het compromis weten wie de echte koper wordt; de plichtenleer verplicht de makelaar u op dat risico te wijzen (art. 58).\n\nTen slotte de termijn van het bod. Een bod dat 24 uur geldig is, is een drukmiddel; vijf tot tien dagen is normaal en geeft u de tijd om de andere kandidaten hun bod te laten afronden. Vraag gerust een verlenging; een kandidaat die dat weigert, toont hoe hij zich later in het traject zal gedragen.",
+        table: {
+          headers: ["Criterium naast de prijs","Goed teken","Waarom het telt","Wat u vraagt als bewijs"],
+          rows: [
+            ["Financiering rond","Principieel bankakkoord of eigen middelen","Het grootste afhaakrisico valt weg","Bankattest, rekeninguittreksel of verklaring notaris"],
+            ["Geen opschortende voorwaarden","Enkel de wettelijke voorbehouden","Koop is definitief bij aanvaarding","Schriftelijk bod zonder voorwaarden"],
+            ["Aktedatum","Koper aanvaardt de datum die u nodig hebt","Vermijdt overbrugging of dubbele kosten","Datum uitdrukkelijk in bod en compromis"],
+            ["Voorschot bij compromis","5 tot 10% op derdenrekening van de notaris","Toont ernst en dekt het schadebeding deels","Bewijs van storting vóór ondertekening"],
+            ["Identiteit en bevoegdheid","Alle kopers tekenen; vennootschap met mandaat","Vermijdt een ongeldig of betwist bod","Kopie identiteitskaart, KBO-nummer, mandaat"],
+            ["Geldigheidstermijn van het bod","5 tot 10 dagen, verlenging bespreekbaar","Geeft u tijd om te vergelijken","Uiterste datum in het bod zelf"],
+          ],
+        },
+      },
+      {
+        heading: "Stappenplan: van meerdere biedingen naar één ondertekend compromis",
+        body: "Zo houdt u het overzicht en vermijdt u dat u per ongeluk twee keer verkoopt of een bod verliest:\n1. **Vraag elk bod schriftelijk**, met naam, adres, e-mailadres, het bedrag, de eventuele voorwaarden, de gewenste aktedatum en de geldigheidstermijn. Mondelinge biedingen bevestigt u zelf per e-mail 'ter kennisneming, zonder aanvaarding'.\n2. **Vraag identiteit en financieringsbewijs**: een kopie van de identiteitskaart van alle kopers (beide partners) en een principieel bankakkoord of een uittreksel dat de eigen middelen aantoont. Wie dat weigert, is zelden een sterke kandidaat.\n3. **Zet één deadline voor iedereen**, bijvoorbeeld vijf werkdagen na de laatste bezichtiging, en geef alle kandidaten dezelfde informatie: dat er meerdere geïnteresseerden zijn, dat elk één schriftelijk bod mag indienen en dat u niet verplicht bent het hoogste te kiezen.\n4. **Vergelijk op vier assen**: prijs, voorwaarden, aktedatum en bewijs van middelen. Noteer uw motivering, ook voor uzelf.\n5. **Onderhandel eventueel met één kandidaat** over de voorwaarde of de datum. Doe dat schriftelijk en besef dat uw tegenbod bindend wordt zodra hij ja zegt.\n6. **Aanvaard schriftelijk en ondubbelzinnig**, één keer, met verwijzing naar het bod (datum, bedrag, voorwaarden) en de afspraak dat het compromis binnen een vaste termijn, bijvoorbeeld 15 dagen, wordt getekend bij de notaris van uw keuze. Vanaf die aanvaarding is de koop gesloten; het compromis legt ze vast en moet binnen vier maanden geregistreerd worden.\n7. **Verwittig de andere bieders** pas nadat uw aanvaarding verstuurd is, kort en neutraal: 'wij hebben een ander bod aanvaard en danken u voor uw interesse'. Geef geen bedragen en geen redenen die op een beschermd criterium kunnen lijken. Vraag wel of u hen opnieuw mag contacteren als de koop alsnog niet doorgaat; bij een opschortende voorwaarde is zo'n reservekandidaat goud waard.\n\nWat u niet doet: bedragen van de ene kandidaat aan de andere doorspelen om een opbod te creëren, een bod maandenlang laten liggen, of twee kandidaten tegelijk 'ja' zeggen. Dat laatste is een dubbele verkoop: beide kopers hebben dan een geldige koop tegenover u, wie het pand uiteindelijk krijgt hangt af van de overschrijving en de goede trouw, en de andere koper vordert schadevergoeding van u.\n\nVerkoopt u zelf, zonder makelaar, dan vervult u de rol die anders de makelaar vervult: dezelfde informatie voor iedereen, alles schriftelijk, en één aanvaarding. Verkoopt u met een makelaar, vraag dan dat elk bod u integraal en met datum van ontvangst wordt doorgestuurd, zodat u de volgorde en de termijnen kunt controleren.",
+      },
+      {
+        heading: "Zo werkt het bij wijkopenpanden.be",
+        body: "Wie meerdere biedingen verzamelt, heeft baat bij een vast referentiepunt: een bod waarvan prijs, voorwaarden en datum vaststaan. Ons bod is zo'n referentie, en u vraagt het naast uw andere kandidaten aan, zonder verplichting.\n• U krijgt **binnen 2 uur** een reactie, ook in het weekend, en na één plaatsbezoek een **schriftelijk, gemotiveerd bod**.\n• Het bod is **onvoorwaardelijk**: wij kopen met eigen middelen, zonder opschortende voorwaarde van financiering. Wat in het bod staat, is wat u ontvangt.\n• De **akte passeert doorgaans binnen 2 tot 3 maanden**, of later als dat u beter uitkomt, bij de notaris die u zelf kiest. Geen commissie.\n• Wij kopen in de **regio Antwerpen**, in de huidige staat en met de inboedel; EPC, asbestattest en elektrische keuring regelen wij na de aankoop.\n• Het bod is **vrijblijvend**: u legt het naast de biedingen van uw kandidaat-kopers en kiest.\n\nEerlijk over de afweging. Op een gezonde woning in een gewilde straat, met meerdere sterke kandidaten die hun financiering rond hebben, haalt de klassieke markt doorgaans meer dan ons bod; kies dan de klassieke markt en gebruik ons bod hoogstens als ondergrens. Ons bod wint aan waarde in drie gevallen: wanneer uw hoogste bod een zwakke financieringsvoorwaarde of een lange termijn draagt en het verschil met ons bod klein is; wanneer u zelf een deadline hebt (eigen aankoop, erfenis, verhuis) en een afhakende koper u geld kost; en wanneer het pand werk vraagt, zodat particuliere biedingen na de bouwtechnische keuring toch heronderhandeld worden. Bel 0492 77 94 75 of vraag uw bod aan via het formulier, en gebruik het als meetlat, of als terugvaloptie wanneer een kandidaat afhaakt.",
+      },
+    ],
+    relatedArticles: [
+      "bod-aanvragen-vrijblijvend-bindend",
+      "koper-krijgt-lening-niet-rond-opschortende-voorwaarde",
+      "verkoop-annuleren-na-compromis-koop-is-koop",
+      "koper-tekent-de-akte-niet-of-betaalt-niet",
+      "compromis-verkoop-woning-belgie",
+      "woning-verkopen-via-biddit",
+      "makelaarscontract-opzeggen-en-zelf-verkopen",
+      "discreet-verkopen-zonder-publiciteit",
+      "wat-is-mijn-woning-waard-antwerpen",
+      "hoelang-duurt-huis-verkopen-belgie",
+    ],
+    relatedSituations: [
+      "verkopen-zonder-makelaar",
+      "huis-snel-verkopen",
+      "vastgoedopkoper-antwerpen",
+      "schatting-pand",
+      "hoe-wij-werken",
+    ],
+    faqs: [
+      {
+        question: "Ben ik verplicht het hoogste bod op mijn huis te aanvaarden?",
+        answer: "Nee. U bent nooit verplicht een bod te aanvaarden, ook niet het hoogste en ook niet een bod aan de vraagprijs. De vraagprijs geldt in de gangbare lezing als een uitnodiging tot onderhandelen, niet als een aanbod van uw kant. U kiest vrij tussen kandidaten op prijs, voorwaarden, aktedatum en bewijs van middelen, zolang u niet kiest op een beschermd criterium zoals nationaliteit, handicap, leeftijd of gezinsverantwoordelijkheden. Zodra u een bod wel aanvaardt, is de koop gesloten en kunt u niet meer naar een hoger bod overstappen.",
+      },
+      {
+        question: "Is een bod dat ik per e-mail of WhatsApp aanvaard bindend?",
+        answer: "Ja. De koop komt tot stand zodra uw aanvaarding de bieder bereikt (art. 5.21 BW) en koper en verkoper het eens zijn over zaak en prijs (art. 1583 oud BW). Een e-mail of chatbericht met 'akkoord' volstaat daarvoor; het compromis legt de koop nadien enkel vast. Boek 8 BW vraagt voor rechtshandelingen boven 3.500 euro in principe een ondertekend geschrift, maar e-mails en berichten gelden minstens als begin van bewijs. Antwoord daarom pas 'akkoord' als u werkelijk gekozen hebt, en gebruik tot dan formuleringen als 'wij nemen uw bod in overweging'.",
+      },
+      {
+        question: "Mag ik kandidaat-kopers tegen elkaar laten opbieden?",
+        answer: "Niet als een veiling. Bij een onderhandse verkoop mogen kandidaten niet openlijk tegen elkaar opbieden; de openbare verkoop van onroerend goed is voorbehouden aan de notaris en wie zelf een opbod organiseert, riskeert een betwisting. U mag kandidaten wel meedelen dat er meerdere biedingen zijn en één deadline zetten waarop iedereen een schriftelijk bod indient, al dan niet onder gesloten omslag. Na die ronde beslist u vrij: aanvaarden, weigeren of met één kandidaat verder onderhandelen. Wilt u echt een opbod, dan is een online openbare verkoop via Biddit bij de notaris de wettelijke weg.",
+      },
+      {
+        question: "Moet mijn makelaar mij elk bod doorgeven?",
+        answer: "Ja. Volgens art. 52 van de BIV-plichtenleer (KB van 29 juni 2018) moet de makelaar elk voorstel of elke vaste verbintenis van een gegadigde onverwijld aan u meedelen, tenzij u anders hebt afgesproken. Hij moet de kandidaat ook onverwijld laten weten wat u met zijn bod doet (art. 62). Een makelaar mag u alleen verbinden binnen de grenzen van zijn mandaat (art. 60): staat in uw bemiddelingsovereenkomst dat hij aan de vraagprijs mag aanvaarden, dan kan hij dat zonder u te raadplegen. Vraag dat elk bod u integraal en met ontvangstdatum wordt doorgestuurd.",
+      },
+      {
+        question: "Mag ik een koper weigeren omdat hij een lening nodig heeft?",
+        answer: "Ja. Voorrang geven aan een kandidaat zonder opschortende voorwaarde van financiering, of aan wie met eigen middelen koopt, is een objectief criterium dat met de transactie te maken heeft en geen discriminatie. Ook de aktedatum, het voorschot en de volledigheid van het bod mag u laten meewegen. Wat niet mag, is weigeren op basis van een beschermd criterium zoals nationaliteit, taal, handicap, leeftijd, gezinsverantwoordelijkheden of de bron van iemands inkomen. Noteer uw objectieve motivering; bij een klacht bij Unia verschuift de bewijslast naar u zodra er een vermoeden van discriminatie is.",
+      },
+      {
+        question: "Kan een kandidaat zijn bod intrekken voor ik geantwoord heb?",
+        answer: "Niet zonder gevolgen. Een bod dat het pand en de prijs vermeldt, is een aanbod dat de bieder bindt gedurende de termijn die hij erin heeft gezet, of anders gedurende een redelijke termijn (art. 5.19 BW). Trekt hij het vroeger in, dan kan hij aansprakelijk zijn voor de schade. In de praktijk dwingt u een onwillige koper zelden tot aankoop; het is dus verstandiger om niet op één bod te wachten, alle kandidaten dezelfde deadline te geven en snel schriftelijk te aanvaarden zodra u gekozen hebt. Een bod zonder termijn is na enkele weken doorgaans niet meer afdwingbaar.",
+      },
+    ],
+  },
+  {
+    slug: "rioolkeuring-en-afkoppeling-bij-verkoop-woning",
+    title: "Is een keuring van de riolering verplicht bij verkoop van uw woning?",
+    metaTitle: "Rioolkeuring verplicht bij verkoop woning? Vlaanderen 2026",
+    metaDescription:
+      "Nee, bij louter verkoop is de rioolkeuring (privéwaterafvoer) niet verplicht. Wél in vijf gevallen die vaak samenvallen met verkoop. Ook zonering en IBA.",
+    publishedAt: "2026-09-05",
+    updatedAt: "2026-09-05",
+    intro:
+      "Nee, bij een loutere verkoop is de keuring van de privéwaterafvoer (de rioolkeuring) in Vlaanderen niet verplicht; VLARIO, dat de keuringen coördineert, antwoordt op die vraag letterlijk dat dit niet verplicht is. De keuring is wél verplicht in een aantal gevallen die vaak samenvallen met een verkoop of een verbouwing: een nieuwe aansluiting, een afkoppeling wanneer uw straat gescheiden riolering krijgt, de plaatsing van een individuele zuiveringsinstallatie of een vaststelling van een inbreuk. En kopers vragen er steeds vaker naar, zeker bij een oud pand met een gemengd stelsel. Dit artikel geeft de lijst met verplichte gevallen, legt uit hoe u opzoekt in welke zone van het zoneringsplan uw woning ligt, wat dat betekent voor septische put en IBA, hoe het in Antwerpen met water-link en rio-link verloopt, en wat u als verkoper moet melden en beter niet belooft.",
+    sections: [
+      {
+        heading: "Wanneer de keuring wél verplicht is: de lijst sinds 1 januari 2021",
+        body: "De keuring van de privéwaterafvoer bestaat sinds 1 juli 2011 en steunt op het **Algemeen Waterverkoopreglement** (AWVR), een besluit van de Vlaamse Regering dat de rechten en plichten regelt van de drinkwatermaatschappij, de rioolbeheerder en de klant. De inhoud van de keuring zelf is uitgewerkt in een ministerieel besluit over de keuring van de binneninstallatie en de privéwaterafvoer. Op 1 januari 2021 traden de laatste artikelen van het vernieuwde AWVR in werking, samen met een nieuw ministerieel besluit, en sindsdien geldt de lijst zoals VLARIO ze publiceert.\n\nDe keuring is verplicht:\n1. Bij **nieuwbouw of herbouw** in de zin van de Vlaamse Codex Ruimtelijke Ordening.\n2. Bij een **nieuwe, bijkomende huisaansluiting** op de openbare riolering.\n3. Bij de **plaatsing van een individuele behandelingsinstallatie voor afvalwater** (IBA).\n4. Na de **vaststelling van een inbreuk** op de lozingsvoorwaarden.\n5. Bij de **aanleg van gescheiden riolering op het openbaar domein** (een afkoppelingsproject in uw straat), tenzij er al een conforme keuring van nieuwbouw of herbouw bestaat die niet ouder is dan vijf jaar.\n\nDaarbovenop volgt een herkeuring na herstelmaatregelen wanneer een eerdere keuring niet conform was. Verkoop staat niet in die lijst. Wie een bestaande woning verkoopt zonder te verbouwen, zonder nieuwe aansluiting en zonder afkoppelingsproject in de straat, hoeft dus geen keurder te bestellen.\n\nDe valkuil zit in de samenloop. Een koper die het pand na de akte grondig renoveert, een bijkomende wooneenheid maakt met een eigen aansluiting, of herbouwt, moet wél laten keuren, en hij zal de kosten en het risico van een afkeuring in zijn bod verrekenen. Dat is ook de reden waarom kopers en hun architect al vóór het compromis naar het stelsel kijken. Sinds 2021 zijn er bovendien drie extra afkeurcriteria bijgekomen: de verplichte infiltratievoorziening, de verplichte buffervoorziening en de septische put voor zwart water waar die verplicht is. Een privéwaterafvoer die in 2015 nog vlot door de keuring kwam, kan vandaag dus op die punten worden afgekeurd.\n\nBelangrijk: de keuring is volgens VLARIO steeds een momentopname. Er is geen wettelijke geldigheidsduur zoals bij een elektriciteitskeuring, met als enige expliciete termijn die vijf jaar bij een afkoppelingsproject.",
+        table: {
+          headers: ["Situatie","Wat gebeurt er","Keuring verplicht?","Wie betaalt / termijn"],
+          rows: [
+            ["Louter verkoop bestaande woning","Geen werken, geen nieuwe aansluiting","Nee","Niemand; keuring is vrijwillig"],
+            ["Verbouwing met nieuwe of bijkomende aansluiting","Extra wooneenheid, nieuwe huisaansluiting","Ja","Bouwheer/koper, vóór de aansluiting"],
+            ["Straat krijgt gescheiden riolering","Afkoppelingsproject van de rioolbeheerder","Ja, tenzij conforme nieuwbouwkeuring jonger dan 5 jaar","Eigenaar; termijn opgelegd door rioolbeheerder"],
+            ["Nieuwbouw of herbouw","Vergunde sloop en heropbouw","Ja","Bouwheer, vóór ingebruikname aansluiting"],
+            ["Woning in IBA-gebied","Plaatsing individuele zuivering","Ja, bij plaatsing IBA","Eigenaar, tenzij gemeente collectief plaatst"],
+            ["Vaststelling van een inbreuk","Foute lozing vastgesteld door rioolbeheerder","Ja","Eigenaar; herstel binnen hersteltermijn"],
+            ["Vrijwillige afkoppeling met subsidie","Eigenaar koppelt regenwater zelf af","Ja, keuring type nieuwe aansluiting","Eigenaar; nodig om subsidie te krijgen"],
+          ],
+        },
+      },
+      {
+        heading: "Wat de keurder controleert en wat een niet-conform attest betekent",
+        body: "De keurder kijkt naar drie dingen: of afvalwater en regenwater op uw perceel **gescheiden** zijn afgevoerd, of de lozing van het afvalwater voldoet aan de milieuwetgeving (VLAREM), en of de opvang, het gebruik en de afvoer van het hemelwater voldoen aan de hemelwaterverordening. Het resultaat is een keuringsattest met de vermelding **conform** of **niet conform**, met een lijst van de vastgestelde tekortkomingen.\n\nWie mag keuren? De rioolbeheerder organiseert de keuring; in de praktijk gebeurt ze door keurders die VLARIO certificeert als onafhankelijke keuringsinstelling (ISO 17020 type A). Een VLARIO-keuring wordt volgens VLARIO overal in Vlaanderen aanvaard, met één uitzondering (Jabbeke). De keurder mag niet betrokken zijn bij de uitvoering van de privéwaterafvoer: uw aannemer mag zijn eigen werk dus niet keuren.\n\nDe kostprijs is niet wettelijk vastgelegd. VLARIO zegt uitdrukkelijk dat de keurder zelf de prijs bepaalt en dat er geen wettelijke richtprijzen bestaan. Voor een eengezinswoning gaat het in de praktijk om enkele honderden euro's, maar vraag een prijs op bij uw rioolbeheerder of bij twee keurders, want die kan verschillen naargelang de bereikbaarheid van de putjes, de aanwezigheid van plannen en de grootte van het perceel.\n\nBij een niet-conforme keuring gelden twee gevolgen. Ten eerste: er moeten **herstelmaatregelen** komen binnen een hersteltermijn van **60 dagen**, en daarna moet een herkeuring worden aangevraagd. Ten tweede: gaat het om een nieuwe aansluiting, dan sluit de rioolbeheerder niet aan zolang het attest niet conform is. Voor een bestaande woning met een bestaande aansluiting betekent een niet-conform attest dus vooral een verplichting om te herstellen, niet een onmiddellijke afsluiting.\n\nWat een verkoper vaak niet weet: elke keuring die sinds juli 2011 werd uitgevoerd, staat via VLARIO in de **woningpas** van het pand. Een koper die de woningpas opvraagt (of u die vraagt te delen) ziet dus of er ooit een keuring was en wat het resultaat was. Bij appartementen lukt de koppeling aan de juiste wooneenheid niet altijd. Hebt u een oud niet-conform attest waarvan de herstelling nooit gebeurde, ga er dan van uit dat de koper dat vindt, en behandel het als een bekend gebrek (zie verder).",
+      },
+      {
+        heading: "Het zoneringsplan: in welke zone ligt uw woning en wat betekent dat?",
+        body: "Elk Vlaams adres ligt in een zone van het gemeentelijk **zoneringsplan**, dat de gemeenten samen met de Vlaamse Milieumaatschappij (VMM) opmaakten in 2006-2008. Het plan wordt volgens de VMM enkele keren per jaar geactualiseerd naar de werkelijke toestand op het terrein. Het **gebiedsdekkend uitvoeringsplan** (GUP) bouwt daarop verder: het legt vast welke rioleringsprojecten nog moeten worden uitgevoerd, door wie en met welke prioriteit, en het geeft ook de nog te plaatsen IBA's een prioriteit. Samen bepalen zonering en GUP of uw woning aangesloten moet zijn, aangesloten zal worden, of het afvalwater zelf moet zuiveren.\n\nZo zoekt u het op:\n1. Open het geoloket zonering en uitvoeringsplannen van de VMM en zoek op adres; de kleur van uw perceel geeft de zone.\n2. Bekijk de woningpas van het pand: die toont de zonering en de eventuele keuringen.\n3. Vraag bij twijfel de rioolbeheerder (in de stad Antwerpen water-link) welke lozingsvoorwaarden voor uw perceel gelden; VLARIO verwijst daarvoor naar het document met de voorwaarden voor de lozing van afvalwater bij verkoop.\n\nDe vier zones en wat ze voor de eigenaar betekenen, staan in de tabel. Twee vuistregels. In het **centraal gebied** en het collectief geoptimaliseerd buitengebied is aansluiting op de riolering **verplicht** zodra die er ligt. In het centraal gebied is een septische put bij voorkeur niet toegelaten, tenzij de rioolbeheerder dat nodig vindt, en dan alleen voor zwart water (toiletwater) met minstens 2.000 liter onder het watervlak; in het collectief geoptimaliseerd buitengebied legt de rioolbeheerder daarentegen meestal een septische put voor alle afvalwater van minstens 3.000 liter op. In het collectief te optimaliseren buitengebied is de riolering gepland maar nog niet aangelegd: in afwachting moet alle afvalwater door een septische put van minstens 3.000 liter, en waar de riolering niet op korte termijn komt, kan de gemeente of rioolbeheerder (zeker bij nieuwbouw) al een IBA opleggen. In het **individueel te optimaliseren buitengebied** is geen riolering gepland en is een IBA verplicht.\n\nVoor wie in Antwerpen verkoopt, is de kans groot dat het pand in centraal gebied ligt en al op de openbare riolering aangesloten is; de vraag is dan niet óf er een aansluiting is, maar of het een gemengd of een gescheiden stelsel is en of er ooit is afgekoppeld. Verkoopt u een hoeve, een villa in een buitenwijk of een woning langs een gracht, controleer dan wel degelijk de zone: een koper die achteraf ontdekt dat hij een IBA moet plaatsen, ziet dat als een bekend feit dat u had kunnen melden.",
+        table: {
+          headers: ["Zone zoneringsplan","Wat het betekent","Verplichting eigenaar","Wat de koper vraagt"],
+          rows: [
+            ["Centraal gebied","Riolering ligt er en is aangesloten op zuivering","Aansluiten verplicht; septische put bij voorkeur niet","Gescheiden of gemengd stelsel? Ooit gekeurd?"],
+            ["Collectief geoptimaliseerd buitengebied","Riolering recent aangelegd en aangesloten","Aansluiten verplicht zodra riolering er ligt; meestal septische put voor alle afvalwater (min. 3.000 l)","Is de aansluiting effectief gebeurd en gekeurd?"],
+            ["Collectief te optimaliseren buitengebied","Riolering gepland volgens GUP, nog niet aangelegd","Septische put voor alle afvalwater (min. 3.000 l); soms al een IBA opgelegd","Wanneer komt de riolering? Kost van latere afkoppeling?"],
+            ["Individueel te optimaliseren buitengebied","Geen riolering gepland; zuivering op eigen perceel","IBA plaatsen en onderhouden, tenzij collectief geplaatst","Is er een IBA? Wie beheert ze? Keuringsattest?"],
+            ["Perceel langs waterloop of gracht","Lozing op oppervlaktewater mogelijk na zuivering","Enkel gezuiverd water lozen, binnen de regels van VLAREM","Waar loost het pand op? Vergunning of melding?"],
+          ],
+        },
+      },
+      {
+        heading: "Septische put, IBA en hemelwater: de regels die een koper zal opzoeken",
+        body: "Drie onderdelen van de privéwaterafvoer komen bij een verkoop het vaakst ter sprake, omdat ze bij een latere verbouwing of aansluiting tot een afkeuring leiden.\n\n**De septische put.** Of een septische put verplicht is, hangt af van de zone én van wat de gemeente of rioolbeheerder oplegt. VLARIO en de VMM geven dezelfde regel: in het collectief te optimaliseren buitengebied, en meestal ook in het collectief geoptimaliseerd buitengebied, moet alle afvalwater (zwart én grijs) door een voorbehandelingsinstallatie van minstens 3.000 liter; in het individueel te optimaliseren buitengebied neemt de IBA die rol over en is een aparte septische put volgens de VMM niet vereist; in centraal gebied is een septische put bij voorkeur niet toegelaten, tenzij de rioolbeheerder ze nodig acht, en dan enkel voor zwart water met minstens 2.000 liter. Een bestaande put mag u dus niet zomaar behouden of afkoppelen: de rioolbeheerder beslist. Een septische put is bovendien niet hetzelfde als een bezinkput of sterfput; het is een gesloten systeem zonder bodeminfiltratie. Sinds 2021 controleert de keurder uitdrukkelijk of de septische put voor zwart water aanwezig is waar ze verplicht is.\n\n**De IBA.** In het individueel te optimaliseren buitengebied moet het afvalwater ter plaatse worden gezuiverd in een individuele behandelingsinstallatie. De plaatsing is in de eerste plaats een plicht van de eigenaar, maar volgens de VMM nemen sommige gemeenten of rioolbeheerders dat over met een subsidie of met een collectieve aanpak, waarbij de rioolbeheerder de IBA plaatst en onderhoudt. Bij nieuwbouw geldt de plicht onmiddellijk; voor een bestaande woning neemt de gemeente of rioolbeheerder contact op en legt een termijn op. Het gezuiverde water mag naar oppervlaktewater binnen 50 meter of naar een besterfput. Wie op een IBA is aangesloten, betaalt geen bovengemeentelijke saneringsbijdrage op de waterfactuur. Een koper wil dus weten: is er een IBA, wie beheert ze, en is de plaatsing gekeurd?\n\n**Het hemelwater.** De gewestelijke hemelwaterverordening 2023 geldt voor vergunningsaanvragen en meldingen ingediend vanaf 2 oktober 2023; oudere dossiers vallen onder de verordening van 2016. De grote lijnen: een hemelwaterput is niet langer alleen verplicht bij nieuwbouw of uitbreidingen vanaf 40 m², maar ook bij kleinere uitbreidingen, bij verbouwingen en bij werken aan de afvoer; infiltratie is ook verplicht op percelen kleiner dan 250 m²; het verplichte putvolume stijgt met de dakoppervlakte. De exacte volumes hangen af van dak en perceel en horen bij de architect thuis. Voor u als verkoper telt vooral dit: een koper die een vergunningsplichtige verbouwing plant, krijgt die verplichtingen erbij, en de keuring controleert ze.",
+      },
+      {
+        heading: "Antwerpen: water-link, rio-link en de afkoppeling als uw straat gescheiden riolering krijgt",
+        body: "In de stad Antwerpen is **water-link** zowel de drinkwatermaatschappij als de rioolbeheerder; de rioleringsactiviteit loopt onder de naam rio-link, in samenwerking met Aquafin. water-link staat in voor het deel van de huisaansluiting op het openbaar domein, van de straatriool tot de rooilijn. Alles op uw eigen perceel is uw privéwaterafvoer en daar slaat de keuring op.\n\nEen nieuwe of bijkomende aansluiting vraagt u online aan. Voor een gewone huisaansluiting (tot 160 mm) vraagt water-link om dat minstens **één maand** vóór de gewenste uitvoeringsdatum te doen; de prijs verschijnt op de laatste pagina van de online aanvraag en u kunt meteen bestellen. Voor een grote aansluiting (tot 200 mm) rekent u op minstens **drie maanden** en krijgt u een offerte per e-mail. Aansluiten op de openbare riolering is verplicht als die er ligt. U legt op uw perceel twee aparte leidingen tot aan de rooilijn, één voor afvalwater en één voor regenwater, en de privéwaterafvoer moet gekeurd zijn vóór de aansluiting in dienst gaat. Concrete bedragen publiceren wij hier bewust niet: ze staan in de online aanvraag en verschillen per situatie.\n\nHet geval dat verkopers in Antwerpen het vaakst raakt, is de **afkoppeling**. Wanneer water-link in uw straat een gescheiden stelsel aanlegt, moet u op uw perceel regenwater en afvalwater scheiden en apart aanbieden. Meestal komt een afkoppelingsadviseur langs die een plan opmaakt; de rioolbeheerder legt een termijn op en na de werken volgt de verplichte keuring. Hoe ver de afkoppeling moet gaan, regelt VLAREM II (art. 6.2.2.1.2, §3): bij de aanleg van gescheiden riolering is een volledige scheiding van afvalwater en hemelwater de regel, maar voor een bestaand gebouw in gesloten bebouwing (het klassieke rijhuis) is ze alleen verplicht als er geen leidingen onder of door het gebouw moeten worden gelegd. De voorgevel moet dus in de regel worden afgekoppeld; het achterste dakvlak alleen als het zonder breekwerk door de woning bereikbaar is, bijvoorbeeld via een zijdoorgang. Vraag de afkoppelingsadviseur wat precies voor uw pand geldt; de subsidieregeling voor een vrijwillige afkoppeling verschilt per rioolbeheerder en vereist volgens VLARIO een keuring van het type nieuwe aansluiting.\n\nVerkoopt u terwijl zo'n project in uw straat loopt of aangekondigd is, zeg dat dan uitdrukkelijk in het compromis en spreek af wie de afkoppeling en de keuring draagt. Zwijgen is geen optie: de brief van water-link ligt in de bus, de werken zijn zichtbaar en de koper erft de termijn.",
+      },
+      {
+        heading: "Hoe een koper naar de riolering van een oud pand kijkt",
+        body: "Een Antwerps rijhuis van vóór 1970 heeft bijna altijd een **gemengd stelsel**: regenwater van het dak en het koertje loopt samen met het toiletwater naar één huisaansluiting. Dat is niet illegaal; het pand is gebouwd toen dat de norm was, en zolang er geen verplichte keuring speelt, hoeft u niets te veranderen. Een geïnformeerde koper kijkt echter niet naar wat vandaag mag, maar naar wat hij morgen zal moeten. Hij stelt zichzelf drie vragen.\n\n**Waar gaat het regenwater naartoe?** Staat de regenpijp van de voorgevel rechtstreeks op de vuilwaterleiding, dan is dat het eerste wat bij een afkoppelingsproject moet veranderen. Bij een rijhuis is dat vaak eenvoudig voor de voorgevel en lastig voor de achterbouw, waar de leidingen onder de vloer door lopen.\n\n**Waar loost het afvalwater?** In de stad is dat de openbare riolering. Buiten de stad komt het voor dat een oudere woning nog op een gracht, een waterloop of een besterfput loost, met of zonder septische put. Dat kan in een bepaalde zone toegelaten zijn, maar meestal alleen na voorbehandeling, en in het individueel te optimaliseren buitengebied enkel via een IBA. Een koper zal de zone opzoeken en de kost van een IBA of een aansluiting meenemen in zijn bod.\n\n**Zijn er plannen, putjes en een attest?** Een rioleringsplan van de architect, toezichtputjes die bereikbaar zijn en een oud keuringsattest maken een latere keuring goedkoper. Bij een pand zonder documenten zal een keurder meer tijd nodig hebben en soms een camera-inspectie vragen.\n\nWat de koper daar in de praktijk mee doet, verschilt. Wie het pand koopt om zelf te bewonen zonder grote werken, aanvaardt doorgaans het gemengd stelsel en rekent alleen op een toekomstige afkoppeling. Wie verbouwt, vraagt vaak een korting voor de afkoppeling, de hemelwaterput en de infiltratievoorziening die de vergunning zal opleggen. Wie een extra wooneenheid wil maken, weet dat de bijkomende aansluiting een keuring vraagt en dat een niet-conforme afvoer de aansluiting blokkeert. Bereid u dus voor op de vraag en heb een antwoord klaar: zone, stelsel, en of er ooit gekeurd is. Wie dat eerlijk brengt, verliest zelden een koper; wie het niet weet, wekt de indruk dat er meer verborgen zit.",
+      },
+      {
+        heading: "Uw meldingsplicht als verkoper: wat u zegt, wat u niet belooft",
+        body: "Dat de keuring niet verplicht is, betekent niet dat u mag zwijgen over wat u weet. Twee regels bepalen uw positie.\n\n**Vrijwaring voor verborgen gebreken.** De koop zit nog in het oud Burgerlijk Wetboek: de verkoper moet de koper vrijwaren voor verborgen gebreken (art. 1641 oud BW). Een niet-conforme afvoer die bij een gewone bezichtiging niet zichtbaar is, zoals een septische put die ontbreekt waar ze verplicht is, een lozing op een gracht zonder voorbehandeling of een vuilwaterleiding die bij regen terugslaat, kan zo'n gebrek zijn; rechtspraak heeft een niet-conforme septische installatie al als verborgen gebrek erkend. Het standaardbeding in bijna elk compromis, waarbij de koper afziet van vrijwaring voor verborgen gebreken, beschermt u volgens art. 1643 oud BW en vaste rechtspraak alleen als u het gebrek zelf niet kende. Wist u ervan, bijvoorbeeld door een oud niet-conform attest of een brief van de rioolbeheerder, dan valt het beding weg en kan de koper prijsvermindering of ontbinding vorderen.\n\n**Precontractuele informatieplicht.** Sinds Boek 5 van het nieuw BW (1 januari 2023) rust op de partijen tijdens de onderhandelingen een uitdrukkelijke informatieplicht te goeder trouw (art. 5.16 BW). Een gekend probleem aan de afvoer dat de prijs of de beslissing van de koper beïnvloedt, valt daaronder.\n\nWat u daarom wél doet:\n• Vermeld in het compromis wat u weet: zone volgens het zoneringsplan, gemengd of gescheiden stelsel, aanwezigheid van een septische put of IBA, bestaand keuringsattest (conform of niet), en lopende of aangekondigde afkoppelingsprojecten.\n• Geef het keuringsattest en het rioleringsplan mee als u ze hebt, of deel de woningpas.\n• Laat de notaris de zonering opnemen in de akte als die uit de vastgoedinformatie blijkt. Het inlichtingenformulier van het Vastgoedinformatieplatform bevat stedenbouwkundige en milieu-informatie van de gemeente, maar zegt niets over de conformiteit van uw privéwaterafvoer; welke rioleringsgegevens de gemeente precies invult, verschilt per gemeente.\n\nWat u beter niet doet:\n• Beloven dat de afvoer conform is als u dat niet met een attest kunt staven. Schrijf liever dat de privéwaterafvoer niet gekeurd is en dat de koper ze in de huidige staat aanvaardt, met kennis van de zone.\n• Een keuring laten uitvoeren om de koper gerust te stellen zonder te beseffen dat een niet-conform resultaat u tot herstel binnen 60 dagen verplicht en in de woningpas terechtkomt. Een vrijwillige keuring is nuttig bij een recent verbouwd pand, riskant bij een oud pand.\n• Regenwater stiekem overkoppelen op de vuilwaterleiding om een lek te verhelpen; dat is een lozingsinbreuk die een keuring uitlokt.",
+      },
+      {
+        heading: "Zo werkt het bij wijkopenpanden.be",
+        body: "Wij kopen woningen en panden in de regio Antwerpen in de **huidige staat**, en dat geldt ook voor de riolering. Een gemengd stelsel, een privéwaterafvoer die nooit gekeurd is, een oud niet-conform attest waarvan de herstelling niet gebeurde, een septische put die niet aan de zone beantwoordt of een aangekondigd afkoppelingsproject in de straat: het verandert de prijs, niet de aankoop. Wij nemen die feiten op in ons bod en regelen de aansluiting, de afkoppeling en de keuring zelf na de akte, samen met het EPC, het asbestattest en de elektrische keuring die wij ook na de aankoop laten uitvoeren. U hoeft dus geen keurder te bestellen en geen herstellingen te laten uitvoeren om te kunnen verkopen.\n\nPraktisch verloopt het zo. U vraagt een bod aan en krijgt binnen twee uur een reactie, ook in het weekend. Na één plaatsbezoek volgt een **schriftelijk en gemotiveerd bod**, waarin u leest hoe wij de staat van de afvoer hebben ingeschat; zeg ons gerust vooraf wat u weet over zone, stelsel en attesten, want dat maakt het bod preciezer. Wij kopen met **eigen middelen**, zonder opschortende voorwaarde van financiering, en de inboedel mag blijven staan. De akte verlijdt doorgaans binnen twee tot drie maanden, of later als u dat verkiest, bij uw eigen notaris. Wij rekenen geen commissie aan. Het bod is vrijblijvend.\n\nEerlijk gezegd is dit niet voor elke verkoper de beste weg. Ligt uw woning in centraal gebied, is ze al gescheiden aangesloten of hebt u een recent conform keuringsattest, en is de rest van het pand gezond, dan speelt de rioolkeuring geen enkele rol in de verkoop en haalt u op de klassieke markt, met een makelaar of zelf, doorgaans een hogere prijs. Ons bod is interessant wanneer de afvoer een van de redenen is waarom kopers afhaken of onderhandelen: een pand met een lozing op een gracht, een IBA-plicht die nog niet is uitgevoerd, een rijhuis dat u niet wilt openbreken voor een afkoppeling, of een verkoop die u snel en zonder werken wilt afronden. Twijfelt u, bel dan 0492 77 94 75 en leg de situatie voor; een bod vragen verplicht u tot niets.",
+      },
+    ],
+    relatedArticles: [
+      "nutsvoorzieningen-en-meterstanden-overdragen-bij-verkoop",
+      "keuringen-bij-verkoop-woning",
+      "keuringen-attesten-bij-directe-verkoop",
+      "verborgen-gebreken-woning-verkoop-belgie",
+      "vastgoedinformatie-aanvragen-bij-verkoop",
+      "oud-gebouw-te-renoveren-pand-verkopen",
+      "overstromingsgevoelige-woning-verkopen",
+      "elektriciteitskeuring-niet-conform-verkopen",
+      "renovatiekosten-oud-pand-berekenen",
+      "compromis-verkoop-woning-belgie",
+    ],
+    relatedSituations: [
+      "opknappand-verkopen",
+      "rijhuis-verkopen-antwerpen",
+      "hoeve-boerderij-snel-verkopen",
+      "vastgoedopkoper-antwerpen",
+      "hoe-wij-werken",
+    ],
+    faqs: [
+      {
+        question: "Moet ik een rioolkeuring laten uitvoeren voordat ik mijn huis verkoop?",
+        answer: "Nee. Bij een loutere verkoop van een bestaande woning is de keuring van de privéwaterafvoer in Vlaanderen niet verplicht; VLARIO zegt dat letterlijk. De keuring is wel verplicht bij nieuwbouw of herbouw, bij een nieuwe of bijkomende huisaansluiting, bij plaatsing van een IBA, na vaststelling van een inbreuk en bij een afkoppelingsproject in uw straat. Hebt u een bestaand attest, geef het mee; hebt u er geen, dan hoeft u er geen te laten opmaken. Vermeld wel eerlijk wat u weet over stelsel, zone en eventuele problemen.",
+      },
+      {
+        question: "Hoeveel kost een keuring van de privéwaterafvoer en hoe lang blijft ze geldig?",
+        answer: "Er bestaan geen wettelijke richtprijzen: de keurder bepaalt zelf zijn tarief, zegt VLARIO. Voor een eengezinswoning rekent u in de praktijk op enkele honderden euro's, afhankelijk van de bereikbaarheid van de putjes en de beschikbare plannen; vraag een prijs bij uw rioolbeheerder of bij twee keurders. Een keuring is volgens VLARIO een momentopname en heeft geen wettelijke geldigheidsduur. De enige uitdrukkelijke termijn is dat bij een afkoppelingsproject geen nieuwe keuring nodig is als er een conforme nieuwbouwkeuring bestaat die niet ouder is dan vijf jaar.",
+      },
+      {
+        question: "Wat gebeurt er als de keuring niet conform is?",
+        answer: "Dan moet u herstelmaatregelen uitvoeren binnen een hersteltermijn van 60 dagen en een herkeuring aanvragen. Gaat het om een nieuwe of bijkomende aansluiting, dan sluit de rioolbeheerder pas aan wanneer het attest conform is. Bij een bestaande woning met bestaande aansluiting betekent een niet-conform attest vooral een herstelplicht, geen onmiddellijke afsluiting. Het attest komt via VLARIO in de woningpas van het pand terecht. Verkoopt u met een oud niet-conform attest waarvan de herstelling nooit gebeurde, meld dat dan in het compromis; anders riskeert u een vordering wegens verborgen gebreken.",
+      },
+      {
+        question: "Hoe weet ik in welke zone van het zoneringsplan mijn woning ligt?",
+        answer: "Zoek uw adres op in het geoloket zonering en uitvoeringsplannen van de Vlaamse Milieumaatschappij; de kleur van het perceel geeft de zone. De zonering staat ook in de woningpas van het pand, en de rioolbeheerder (in de stad Antwerpen water-link) kan u de lozingsvoorwaarden voor uw perceel bezorgen. In centraal gebied en collectief geoptimaliseerd buitengebied is aansluiting op de riolering verplicht; in collectief te optimaliseren buitengebied is in afwachting een septische put voor alle afvalwater verplicht; in individueel te optimaliseren buitengebied moet een IBA het afvalwater zuiveren.",
+      },
+      {
+        question: "Moet ik mijn septische put afkoppelen als ik op de riolering aangesloten ben?",
+        answer: "Dat beslist de gemeente of de rioolbeheerder, niet u. In centraal gebied is een septische put volgens de VMM bij voorkeur niet toegelaten, tenzij de rioolbeheerder ze nodig acht, en dan alleen voor het toiletwater met minstens 2.000 liter onder het watervlak. In het collectief te optimaliseren buitengebied, en meestal ook in het collectief geoptimaliseerd buitengebied, moet alle afvalwater door een put van minstens 3.000 liter; in het individueel te optimaliseren buitengebied vervangt de IBA de septische put. Verander dus niets op eigen initiatief: het ontbreken van een septische put waar ze verplicht is, is sinds 2021 een uitdrukkelijk afkeurcriterium bij de keuring. Vraag de rioolbeheerder schriftelijk wat voor uw perceel geldt en geef dat antwoord mee aan de koper.",
+      },
+      {
+        question: "Mijn straat in Antwerpen krijgt gescheiden riolering. Moet ik afkoppelen vóór de verkoop?",
+        answer: "De verplichting tot afkoppeling en keuring volgt uit het project van de rioolbeheerder en rust op de eigenaar op het moment dat de termijn verstrijkt; ze verdwijnt niet door te verkopen. U mag dus verkopen zonder af te koppelen, maar u moet het project en de opgelegde termijn melden in het compromis en afspreken wie de afkoppeling, de keuring en de eventuele subsidieaanvraag draagt. Bij een bestaand rijhuis in gesloten bebouwing geldt de volledige scheiding volgens VLAREM II alleen als er geen leidingen onder of door de woning moeten worden gelegd; de afkoppelingsadviseur van water-link zegt wat voor uw pand geldt.",
+      },
+    ],
+  },
+  {
+    slug: "woning-verkopen-zonder-handtekening-partner-gezinswoning",
+    title: "Kan ik mijn woning verkopen zonder de handtekening van mijn partner?",
+    metaTitle: "Woning verkopen zonder handtekening van uw partner?",
+    metaDescription:
+      "Gehuwd of wettelijk samenwonend? Dan verkoopt u de gezinswoning nooit zonder uw partner, zelfs als enige eigenaar. Plus: wanneer de rechter machtigt.",
+    publishedAt: "2026-09-05",
+    updatedAt: "2026-09-05",
+    intro:
+      "Dat hangt af van twee dingen: of het om de gezinswoning gaat en welk statuut uw relatie heeft. Bent u gehuwd of wettelijk samenwonend, dan kunt u de gezinswoning nooit zonder de instemming van uw partner verkopen, ook niet als u de enige eigenaar bent: dat volgt uit artikel 215, § 1 van het oud Burgerlijk Wetboek, waarnaar artikel 1477, § 2 voor wettelijk samenwonenden verwijst. Woont u feitelijk samen, dan bestaat die bescherming niet en verkoopt de eigenaar alleen. Gaat het om een woning die geen gezinswoning is, zoals een tweede verblijf of een opbrengstpand, dan tekent de eigenaar alleen, tenzij het goed tot de huwelijksgemeenschap behoort. Dit artikel legt uit wanneer de handtekening van uw partner nodig is, wat er gebeurt als u ze niet hebt, hoe de familierechtbank een weigering kan doorbreken en wat de notaris en de koper bij het compromis controleren.",
+    sections: [
+      {
+        heading: "De regel: de gezinswoning verkoopt u nooit alleen",
+        body: "Artikel 215, § 1 van het oud Burgerlijk Wetboek is kort maar streng: de ene echtgenoot kan zonder de instemming van de andere niet **onder bezwarende titel of om niet onder de levenden beschikken** over de rechten die hij bezit op het onroerend goed dat het gezin tot voornaamste woning dient, en kan dat goed evenmin **met hypotheek bezwaren**. Dezelfde bescherming geldt voor het **huisraad** dat in die woning aanwezig is. Verkopen, schenken, inbrengen in een vennootschap of hypothekeren: telkens zijn twee handtekeningen nodig.\n\nDrie kenmerken maken deze regel anders dan wat veel eigenaars verwachten:\n\n• **De eigendom speelt geen rol.** Staat de woning alleen op uw naam omdat u ze vóór het huwelijk kocht of ze erfde, dan blijft ze uw eigen goed, maar u kunt er niet alleen over beschikken zolang uw gezin er woont.\n• **Het huwelijksstelsel speelt geen rol.** De regel geldt onder het wettelijk stelsel, bij scheiding van goederen en bij elk ander huwelijkscontract. Het is dwingend recht: u kunt er in een huwelijkscontract niet van afwijken.\n• **De bescherming is gekoppeld aan de feitelijke bestemming.** De gezinswoning is de woning die het gezin daadwerkelijk als voornaamste verblijf gebruikt. Een tweede verblijf aan de kust, een verhuurd appartement of een leegstaand ouderlijk huis dat u erfde, valt er niet onder. Die verkoopt de eigenaar in principe alleen, tenzij het goed tot de huwelijksgemeenschap behoort (daarover verder meer).\n\nEen valkuil die zelden vermeld wordt: de regel treft niet alleen de verkoopakte, maar elke handeling waarmee u over het goed beschikt. Ook een **verkoopbelofte, een aankoopoptie of een verkoopvolmacht** aan een makelaar of opkoper wordt in de rechtsleer doorgaans als zo'n beschikking beschouwd. Wie een makelaarsopdracht met verkoopvolmacht voor de gezinswoning tekent zonder zijn partner, begint dus al fout.\n\nTot slot: artikel 215 beschermt het gezin, niet de eigenaar. De echtgenoot die geen eigenaar is, krijgt geen aandeel in de verkoopprijs. Hij of zij krijgt enkel een vetorecht op het moment van de verkoop, en dat veto kan door de familierechtbank worden doorbroken als het zonder gewichtige redenen wordt uitgeoefend.",
+      },
+      {
+        heading: "Gehuwd, wettelijk samenwonend of feitelijk samenwonend: wie heeft welke bescherming",
+        body: "De bescherming van artikel 215 werd bij de invoering van de wettelijke samenwoning doorgetrokken: artikel 1477, § 2 van het oud Burgerlijk Wetboek verklaart de regels over de gezinswoning, de machtiging door de rechtbank en de nietigverklaring van overeenkomstige toepassing op wettelijk samenwonenden. Wie een verklaring van wettelijke samenwoning heeft afgelegd bij de gemeente, zit dus in dezelfde positie als een gehuwde: de gezinswoning en het huisraad worden niet verkocht, geschonken of gehypothekeerd zonder de instemming van beide partners, ongeacht wie eigenaar is.\n\nFeitelijk samenwonenden vallen buiten dit alles. Hoe lang u ook samenwoont, hoeveel kinderen u ook samen hebt: **de partner die geen eigenaar is, heeft geen wettelijk vetorecht** en geen recht om in de woning te blijven wanneer de eigenaar verkoopt. Wat er wel kan bestaan, is contractueel: een samenlevingscontract met afspraken over de woning, of een huurovereenkomst tussen de partners. Is de woning samen gekocht, dan tekenen beide partners uiteraard mee, niet omdat zij een koppel zijn, maar omdat zij **mede-eigenaars** zijn.\n\nLet bij het bepalen van uw statuut op twee details die in de praktijk vaak verkeerd worden ingeschat:\n\n• Wettelijke samenwoning ontstaat niet door samen te wonen of samen te kopen, maar enkel door de **verklaring bij de ambtenaar van de burgerlijke stand**. Veel koppels denken wettelijk samenwonend te zijn omdat zij ooit samen een huis kochten; dat is niet zo.\n• Een huwelijk of geregistreerd partnerschap dat in het buitenland werd aangegaan, telt mee. De notaris vraagt het buitenlandse huwelijk of contract op en gaat na welk recht op uw vermogen van toepassing is.\n\nDe tabel hieronder zet de drie statuten naast elkaar. Let op de derde kolom: de vraag is niet of uw partner iets te zeggen heeft over de verkoop, maar of zijn of haar instemming juridisch vereist is. Bij gehuwden speelt naast de gezinswoning ook het huwelijksstelsel, dat in de volgende sectie aan bod komt.",
+        table: {
+          headers: ["Relatiestatuut","Gezinswoning?","Instemming partner vereist?","Sanctie zonder instemming"],
+          rows: [
+            ["Gehuwd, u bent alleen eigenaar","Ja","Ja, altijd (art. 215 § 1 oud BW)","Nietigverklaring op verzoek partner, binnen 1 jaar"],
+            ["Gehuwd, wettelijk stelsel, gemeenschapsgoed","Nee","Ja, gezamenlijk bestuur (art. 2.3.32 BW)","Nietigverklaring op verzoek partner, binnen 1 jaar (art. 2.3.36 BW)"],
+            ["Gehuwd, eigen goed of scheiding van goederen","Nee","Nee, de eigenaar tekent alleen","Geen"],
+            ["Wettelijk samenwonend, u bent alleen eigenaar","Ja","Ja, zelfde regel als gehuwden (art. 1477 § 2)","Nietigverklaring op verzoek partner, binnen 1 jaar"],
+            ["Wettelijk samenwonend, ander pand","Nee","Nee, tenzij de partner mede-eigenaar is","Geen"],
+            ["Feitelijk samenwonend, u bent alleen eigenaar","Ja","Nee, tenzij een samenlevingscontract dat bepaalt","Geen wettelijke sanctie, hoogstens contractueel"],
+            ["Om het even welk statuut, woning op beide namen","Ja of nee","Ja, als mede-eigenaar (art. 3.75 BW)","Verkoop van het geheel is onmogelijk zonder beide"],
+          ],
+        },
+      },
+      {
+        heading: "Uw huwelijksstelsel bepaalt de rest: gemeenschap, eigen goed of scheiding van goederen",
+        body: "Artikel 215 regelt enkel de gezinswoning. Voor alle andere onroerende goederen bepaalt uw **huwelijksvermogensstelsel** wie tekent.\n\n**Het wettelijk stelsel** (gehuwd zonder huwelijkscontract) kent drie vermogens: het eigen vermogen van elke echtgenoot en het gemeenschappelijk vermogen. Alles wat tijdens het huwelijk onder bezwarende titel wordt verworven, is in principe gemeenschappelijk, en van elk goed wordt vermoed dat het gemeenschappelijk is zolang het tegendeel niet bewezen is. Voor de gemeenschap geldt het **gezamenlijk bestuur** van artikel 2.3.32 van het Burgerlijk Wetboek (voorheen artikel 1418 oud BW; het huwelijksvermogensrecht zit sinds 1 juli 2022 in Boek 2 van het nieuwe wetboek): een onroerend goed kopen, verkopen, schenken of met hypotheek bezwaren kan enkel met de instemming van beide echtgenoten. Weigert een echtgenoot zonder gewichtige reden, of kan hij zijn wil niet uiten, dan kan de andere zich door de familierechtbank laten machtigen (artikel 2.3.34 BW). Is er toch alleen getekend, dan kan de andere echtgenoot de handeling laten nietigverklaren (artikel 2.3.36 BW), binnen een jaar nadat hij er kennis van kreeg (artikel 2.3.37 BW). Dit staat volledig los van de vraag of het goed de gezinswoning is: ook een gemeenschappelijk opbrengstpand verkoopt u samen.\n\n**Eigen goederen** zijn wat u al bezat vóór het huwelijk en wat u tijdens het huwelijk erfde of geschonken kreeg. Daarover beschikt u alleen, tenzij het goed de gezinswoning is. Wie de opbrengst van een eigen goed herbelegt in een nieuw pand, laat dat best in de aankoopakte vermelden (een verklaring van wederbelegging), anders valt het nieuwe goed onder het vermoeden van gemeenschap.\n\n**Scheiding van goederen**: elk goed behoort toe aan wie het op zijn naam heeft. Wat samen werd gekocht, is onverdeeld: dan tekenen beide, als mede-eigenaars. Ook hier blijft artikel 215 onverkort gelden voor de gezinswoning.\n\nEen concreet voorbeeld. Bart koopt in 2015 alleen een appartement in Berchem. In 2019 huwt hij zonder huwelijkscontract met Lien en het gezin gaat er wonen. In 2021 kopen zij samen een rijhuis in Deurne en verhuren het appartement.\n\n• Het appartement is een eigen goed van Bart. Zolang het gezin er woonde, kon hij het niet zonder Lien verkopen (artikel 215). Sinds het verhuurd is, is het geen gezinswoning meer en tekent Bart alleen.\n• Het rijhuis is gemeenschappelijk én gezinswoning: twee handtekeningen, op twee gronden.\n\nBent u in het buitenland gehuwd of hebt u na het huwelijk in het buitenland gewoond, dan kan een ander recht op uw vermogen van toepassing zijn. De notaris bekijkt dat aan de hand van uw huwelijkscontract en het Centraal Register van Huwelijksovereenkomsten.",
+      },
+      {
+        heading: "Uw partner weigert of kan niet tekenen: de machtiging door de familierechtbank",
+        body: "Weigert uw partner te tekenen, dan is er één wettelijke uitweg: de **machtiging door de familierechtbank**. De wet onderscheidt twee gevallen.\n\n• **Weigering zonder gewichtige redenen** (artikel 215, § 1, derde lid oud Burgerlijk Wetboek): de echtgenoot die wil verkopen, vraagt de rechtbank om de handeling alleen te mogen verrichten. De rechter beoordeelt of de weigering het gezinsbelang dient of enkel dwarsligt.\n• **Onmogelijkheid** (artikel 220, § 1 oud Burgerlijk Wetboek): de partner is afwezig, onbekwaam of kan zijn wil niet uiten, bijvoorbeeld door dementie of coma. Ook dan machtigt de familierechtbank. Staat de partner onder bewind of bestaat er een zorgvolmacht, dan loopt de weg via de bewindvoerder en de vrederechter; hoe dat werkt, leest u in de artikels over bewind en zorgvolmacht.\n\nWat de rechter weegt, is niet of ú goede redenen hebt om te verkopen, maar of uw partner goede redenen heeft om te weigeren. Als gewichtige reden wordt onder meer aanvaard dat de partner en de kinderen geen andere passende huisvesting hebben, dat de prijs abnormaal laag ligt of dat de opbrengst dreigt te verdwijnen. Een weigering die enkel dient om de andere te treffen, houdt geen stand. Wie de machtiging vraagt, versterkt zijn dossier daarom met:\n\n1. een onafhankelijk schattingsverslag of een schriftelijk, gemotiveerd bod;\n2. het bewijs dat het voorstel schriftelijk aan de partner werd voorgelegd, met een redelijke antwoordtermijn;\n3. een concreet plan voor de huisvesting van de partner en de kinderen en voor de bestemming van de opbrengst.\n\nOver de procedure zelf past voorzichtigheid. Ze wordt ingeleid bij verzoekschrift bij de familierechtbank, doorgaans die van de laatste gezamenlijke verblijfplaats; een advocaat is niet verplicht maar in de praktijk aangewezen. Reken op **enkele weken tot enkele maanden**, afhankelijk van de rechtbank, van de vraag of de partner verschijnt en verweer voert, en van een eventueel beroep. De kosten bestaan uit het rolrecht, de erelonen van uw advocaat en, bij verlies, een rechtsplegingsvergoeding aan de tegenpartij. Dat zijn indicaties, geen beloftes: vraag een concrete inschatting aan een advocaat familierecht.\n\nTwee zaken doet de machtiging niet. Zij dwingt uw partner niet om te verhuizen: het gebruik van de woning en het afzonderlijk verblijf worden in een scheidingscontext apart geregeld. En zij geeft geen vrijgeleide om te verkopen aan gelijk welke prijs: de rechter kan voorwaarden koppelen aan zijn machtiging, zoals een minimumprijs of een bestemming van de opbrengst.",
+      },
+      {
+        heading: "Zeven situaties uit de praktijk: wie tekent, op welke grond, en wat de oplossing is",
+        body: "De vraag \"moet mijn partner tekenen?\" komt in de praktijk in een handvol varianten terug. De tabel geeft per situatie het antwoord, de rechtsgrond en wat u concreet doet. Enkele toelichtingen bij de rijen die het vaakst tot verrassingen leiden.\n\n**U bent alleen eigenaar en gehuwd.** Dit is de situatie waarin artikel 215 het hardst aankomt: uw naam staat op de akte, de bank kent alleen u, en toch verkoopt u niet zonder de handtekening van uw echtgenoot zolang het gezin er woont. Uw partner tekent het compromis en de akte mee \"ter instemming\", zonder daardoor mede-eigenaar of medeverkoper te worden.\n\n**Uw partner is in het buitenland.** De instemming hoeft niet in persoon te gebeuren. Een **notariële volmacht**, opgemaakt bij een notaris in het woonland en voorzien van een apostille of legalisatie, volstaat; een digitale volmacht via de Belgische notaris kan als uw partner een geldige eID heeft. Voor de instemming in het compromis wordt een gedateerde en ondertekende verklaring vaak aanvaard, maar de notaris beslist wat hij voor de akte vereist. Reken op enkele weken voor het buitenlandse circuit.\n\n**Uw partner is overleden.** Dan is er geen instemming meer nodig van een partner, maar wel van wie in zijn of haar plaats is gekomen. De langstlevende echtgenoot heeft krachtens het erfrecht minstens het vruchtgebruik op de gezinswoning en het huisraad; de kinderen of andere erfgenamen bezitten de blote eigendom. Verkopen kan enkel als vruchtgebruiker en blote eigenaars samen tekenen, na de aangifte van nalatenschap. Was u zelf de enige eigenaar, dan verkoopt u na het overlijden wél alleen: de bescherming van artikel 215 eindigt met het huwelijk.\n\n**Uw partner is vertrokken en weigert.** Zolang de echtscheiding niet is uitgesproken en overgeschreven, blijft de woning juridisch de gezinswoning. Dat de partner er niet meer woont, verandert daar op zichzelf niets aan; in de rechtspraak wordt wel aangenomen dat de bescherming vooral toekomt aan de echtgenoot die er nog woont. Zonder handtekening rest de machtiging van de familierechtbank.",
+        table: {
+          headers: ["Situatie","Rechtsgrond","Handtekening partner nodig?","Oplossing"],
+          rows: [
+            ["Alleen eigenaar, gehuwd, gezinswoning","Art. 215 § 1 oud BW","Ja, altijd","Partner tekent compromis en akte mee, of machtiging rechtbank"],
+            ["Samen eigenaar, gehuwd of niet","Mede-eigendom, art. 3.75 BW","Ja, als mede-eigenaar","Beide tekenen; anders uitonverdeeldheidtreding via de rechtbank"],
+            ["Partner is wilsonbekwaam","Art. 220 § 1 oud BW, bewind","Ja, via bewindvoerder of machtiging","Zorgvolmacht, bewindvoerder met vrederechter, of familierechtbank"],
+            ["Partner is vertrokken en weigert","Art. 215 § 1, derde lid oud BW","Ja, zolang het huwelijk bestaat","Machtiging familierechtbank bij weigering zonder gewichtige reden"],
+            ["Partner verblijft in het buitenland","Art. 215 § 1 oud BW, volmacht","Ja, mag via volmacht","Notariële volmacht met apostille of legalisatie, eventueel vertaling"],
+            ["Partner is overleden","Erfrecht, vruchtgebruik langstlevende","Nee, wel die van erfgenamen of vruchtgebruiker","Aangifte nalatenschap, akkoord van alle erfgenamen"],
+            ["Eigen goed dat geen gezinswoning is","Huwelijksstelsel, eigen vermogen","Nee","Eigenaar tekent alleen; notaris stelt in de akte vast dat het geen gezinswoning is"],
+          ],
+        },
+      },
+      {
+        heading: "Uit elkaar maar nog niet gescheiden: feitelijke scheiding en einde wettelijke samenwoning",
+        body: "**Feitelijke scheiding bij gehuwden.** De wet kent geen aparte regeling voor echtgenoten die uit elkaar zijn maar nog niet gescheiden. Gevolg: artikel 215 blijft gelden tot het huwelijk is ontbonden, dus tot de echtscheiding is uitgesproken en overgeschreven in de registers van de burgerlijke stand. Wie in die tussenperiode wil verkopen, heeft drie mogelijkheden: beide partners tekenen toch, bijvoorbeeld in een regelingsakte bij echtscheiding door onderlinge toestemming waarin de verkoop is opgenomen; de familierechtbank verleent een machtiging; of de verkoop wacht tot na de echtscheiding. In een lopende procedure kan de familierechtbank bovendien **dringende en voorlopige maatregelen** nemen: zij wijst toe wie voorlopig in de woning mag blijven, kan een woonvergoeding opleggen en kan een tijdelijk verbod opleggen om over de woning te beschikken. Een verkoop tijdens de procedure past u dus altijd in dat kader in.\n\nNa de echtscheiding verdwijnt de bescherming, maar niet de eventuele mede-eigendom. Een woning die beiden toebehoort, wordt vereffend en verdeeld: verkopen aan een derde, of één partner koopt de andere uit. Raken de ex-partners het niet eens, dan vraagt één van hen de uitonverdeeldheidtreding: niemand kan worden verplicht in onverdeeldheid te blijven (artikel 3.75 nieuw Burgerlijk Wetboek).\n\n**Einde van de wettelijke samenwoning.** Die eindigt door huwelijk, overlijden, een gezamenlijke verklaring bij de ambtenaar van de burgerlijke stand of een **eenzijdige verklaring**, die aan de andere partner wordt betekend via een gerechtsdeurwaarder op kosten van wie opzegt. Vanaf dan is artikel 1477, § 2 niet meer van toepassing en heeft de partner die geen eigenaar is, geen wettelijk vetorecht meer. Ook hier kan de familierechtbank rond het einde van de samenwoning dringende en voorlopige maatregelen nemen over de woning; de termijn waarbinnen dat kan, is beperkt, laat ze door een advocaat nakijken. Is de woning gezamenlijke eigendom, dan geldt hetzelfde als bij gehuwden: verdelen, uitkopen of uitonverdeeldheidtreding, met het verdeelrecht van 1 procent als de wettelijke samenwoning minstens een jaar heeft geduurd en de verdeling binnen drie jaar na het einde volgt.\n\n**Feitelijk samenwonenden** hebben geen einde-procedure nodig: de eigenaar verkoopt wanneer hij wil. De ex-partner die blijft zitten, is geen huurder en heeft geen titel; hoe u met een bewoner zonder titel omgaat, leest u in het artikel over een familielid dat gratis in de woning woont. Woonde de ex-partner er op basis van een schriftelijke huurovereenkomst, dan gelden de huurdersrechten bij verkoop.\n\nEén praktische regel voor alle statuten: is er een lopende procedure, meld dat aan de koper of opkoper vóór het compromis. Een verkoop die de rechter achteraf doorkruist, kost beide partijen meer dan een verkoop die twee maanden later start.",
+      },
+      {
+        heading: "Wat de notaris controleert en waarom een compromis met één handtekening de koper in de problemen brengt",
+        body: "Een notaris verlijdt geen verkoopakte zonder te weten wie moet tekenen. Hij vraagt daarom systematisch:\n\n• uw **burgerlijke staat** via het Rijksregister: gehuwd, wettelijk samenwonend, gescheiden, weduwe of weduwnaar, met de datum;\n• uw **huwelijkscontract** of wijzigingsakte, opgezocht in het Centraal Register van Huwelijksovereenkomsten, om te weten of het goed eigen of gemeenschappelijk is;\n• of het goed de **gezinswoning** is. In de akte laat hij de verkoper verklaren dat het verkochte goed niet tot voornaamste woning van het gezin dient, of hij laat de partner mee tussenkomen ter instemming met de verkoop.\n\nDie verklaring in de akte is geen formaliteit. Wie onjuist verklaart dat de woning geen gezinswoning is, brengt de koper in gevaar: de benadeelde partner kan de verkoop alsnog aanvechten.\n\n**Het compromis met één handtekening.** Hier gaat het vaak fout, omdat een compromis buiten de notaris om wordt getekend. Koop is koop zodra er akkoord is over zaak en prijs (artikel 1583 oud Burgerlijk Wetboek), dus een verkoper die alleen tekent, bindt zich. Maar de verkoop is behept met een **relatieve nietigheid**: de partner wiens instemming ontbrak, kan de nietigverklaring vorderen binnen één jaar nadat hij of zij van de verkoop kennis kreeg (artikel 224 oud Burgerlijk Wetboek). Alleen die partner kan dat; de koper of de tekenende verkoper kunnen zich er niet op beroepen om onder de verkoop uit te komen. Bevestigt de partner de verkoop achteraf alsnog, dan is het probleem van de baan.\n\nVoor de koper is het resultaat pijnlijk. Zonder instemming verlijdt de notaris de akte niet, en met een nietigverklaring verliest de koper de woning. Wat overblijft, is een vordering tot **schadevergoeding** tegen de verkoper die niet kon leveren wat hij verkocht: doorgaans het schadebeding uit het compromis (vaak 10 procent van de prijs, door de rechter te matigen als het kennelijk onredelijk is) of de werkelijke schade. Geld dus, geen huis, en meestal na een procedure.\n\nEen zorgvuldige koper of opkoper vraagt daarom vóór het compromis:\n\n1. de burgerlijke staat en het huwelijkscontract;\n2. of het pand de gezinswoning is, en zo ja, dat beide partners het compromis tekenen of dat een gedateerde, ondertekende verklaring van instemming wordt bijgevoegd;\n3. bij een lopende scheiding: de stand van de procedure en eventuele voorlopige maatregelen;\n4. bij een machtiging: de uitspraak van de familierechtbank vóór de ondertekening, niet erna.\n\nDie vragen zijn geen wantrouwen tegenover u. Zij beschermen ook u tegen een verkoop die een jaar later alsnog sneuvelt.",
+      },
+      {
+        heading: "Zo werkt het bij wijkopenpanden.be",
+        body: "Bij het eerste contact vragen wij naar uw statuut: gehuwd, wettelijk of feitelijk samenwonend, of het pand uw gezinswoning is en wie eigenaar is. Niet uit nieuwsgierigheid, maar omdat het bepaalt wie het compromis tekent. Gaat het om de gezinswoning van een gehuwd of wettelijk samenwonend koppel, dan zorgen wij dat **beide partners het compromis ondertekenen** of dat de machtiging van de familierechtbank er is vóór wij iets laten tekenen. Een compromis met één handtekening op een gezinswoning tekenen wij niet, ook niet als u ons verzekert dat uw partner wel zal volgen.\n\nWaar wij eerlijk in zijn: een weigerende partner lossen wij niet op. Dat is het terrein van de familierechtbank en van uw advocaat, niet van een opkoper. Wat wij wel kunnen, is uw dossier daar sterker maken: na één plaatsbezoek ontvangt u een **schriftelijk en gemotiveerd bod**, dat u aan uw partner of aan de rechter kunt voorleggen als concreet en realistisch voorstel.\n\nZijn beide partners het eens maar willen zij snel en zonder gedoe, bijvoorbeeld omdat de relatie voorbij is en niemand nog maanden bezichtigingen wil, dan zijn wij een uitweg:\n\n• wij reageren **binnen 2 uur** op uw aanvraag, ook in het weekend;\n• wij kopen in de **regio Antwerpen**, in de **huidige staat**, **inboedel inbegrepen**, wat bij een relatiebreuk de discussie over wie wat leeghaalt beperkt;\n• wij kopen **met eigen middelen**, zonder opschortende voorwaarde van financiering, zodat er geen koper afvalt;\n• **EPC, asbestattest en elektrische keuring regelen wij na de aankoop**;\n• de **akte volgt doorgaans binnen 2 tot 3 maanden**, of later als u dat wenst, bijvoorbeeld tot een verhuis rond is;\n• er is **geen commissie** en u kiest uw **eigen notaris**, die de instemming en de verdeling van de opbrengst tussen beide partners correct in de akte zet.\n\nOns bod is vrijblijvend. Is uw woning in goede staat, ligt zij in een gewilde straat en hebt u samen de tijd om de klassieke markt te bespelen, dan haalt u daar doorgaans een hogere prijs; wij zeggen u dat bij het plaatsbezoek. U bereikt ons op 0492 77 94 75.",
+      },
+    ],
+    relatedArticles: [
+      "partner-uitkopen-bij-scheiding-verdeelrecht",
+      "woning-verkopen-met-zorgvolmacht",
+      "woning-verkopen-onder-bewind",
+      "mede-eigendom-verkopen",
+      "mede-eigenaar-wil-niet-verkopen-uit-onverdeeldheid",
+      "woning-verkopen-vanuit-buitenland",
+      "vruchtgebruik-woning-verkopen",
+      "compromis-verkoop-woning-belgie",
+      "familielid-woont-gratis-in-woning-verkopen",
+      "huurder-rechten-bij-verkoop-woning",
+    ],
+    relatedSituations: [
+      "huis-verkopen-bij-scheiding",
+      "huis-snel-verkopen",
+      "vastgoedopkoper-antwerpen",
+      "schatting-pand",
+      "hoe-wij-werken",
+    ],
+    faqs: [
+      {
+        question: "Kan ik mijn huis verkopen als mijn echtgenoot niet wil tekenen?",
+        answer: "Niet zonder tussenkomst van de rechter, als het om de gezinswoning gaat. Artikel 215, § 1 oud Burgerlijk Wetboek verbiedt de verkoop van de gezinswoning zonder instemming van de andere echtgenoot, ook als u alleen eigenaar bent. Weigert uw partner zonder gewichtige redenen, dan kunt u de familierechtbank vragen u te machtigen om alleen te verkopen. De rechter weegt daarbij het gezinsbelang: de huisvesting van partner en kinderen, de prijs en de bestemming van de opbrengst. Gaat het niet om de gezinswoning en is het goed uw eigen goed, dan verkoopt u wel alleen.",
+      },
+      {
+        question: "Ik woon samen zonder te trouwen. Heb ik de handtekening van mijn partner nodig om te verkopen?",
+        answer: "Alleen als uw partner mede-eigenaar is of als u wettelijk samenwoont. Bij wettelijke samenwoning, dus na een verklaring bij de gemeente, geldt via artikel 1477, § 2 oud Burgerlijk Wetboek dezelfde bescherming van de gezinswoning als bij gehuwden. Bij feitelijk samenwonen bestaat die bescherming niet: de eigenaar verkoopt alleen, en de partner die geen eigenaar is, heeft geen recht om te blijven, tenzij een samenlevingscontract of een huurovereenkomst iets anders bepaalt. Staat de woning op beide namen, dan tekenen beide mede-eigenaars, ongeacht het statuut.",
+      },
+      {
+        question: "De woning stond al op mijn naam vóór ons huwelijk. Moet mijn echtgenoot dan meetekenen?",
+        answer: "Ja, zolang het uw gezinswoning is. Een woning die u vóór het huwelijk kocht, blijft uw eigen goed, maar artikel 215 oud Burgerlijk Wetboek geldt ongeacht wie eigenaar is en ongeacht het huwelijksstelsel. Uw echtgenoot tekent het compromis en de akte mee ter instemming, zonder mede-eigenaar te worden en zonder recht op een deel van de prijs. Woont het gezin er niet meer, bijvoorbeeld omdat u de woning verhuurt of naar een andere gezinswoning verhuisde, dan is de bescherming weg en tekent u alleen. Laat de notaris die feitelijke situatie in de akte vaststellen.",
+      },
+      {
+        question: "Wat gebeurt er als ik toch een compromis teken zonder mijn partner?",
+        answer: "Dan is de verkoop relatief nietig. Uw partner kan de nietigverklaring vorderen binnen één jaar nadat hij of zij van de verkoop kennis kreeg (artikel 224 oud Burgerlijk Wetboek); de koper of uzelf kunnen zich daar niet op beroepen. Zonder instemming verlijdt de notaris de akte niet. De koper blijft achter met een vordering tot schadevergoeding tegen u, vaak het schadebeding uit het compromis. Bevestigt uw partner de verkoop alsnog, dan is het probleem opgelost. Teken daarom nooit alleen: laat uw partner meetekenen of voeg een ondertekende verklaring van instemming bij.",
+      },
+      {
+        question: "Hoe lang duurt een machtiging van de familierechtbank om de gezinswoning te verkopen?",
+        answer: "Reken op enkele weken tot enkele maanden, afhankelijk van de rechtbank, van de vraag of uw partner verschijnt en verweer voert, en van een eventueel beroep. De procedure start met een verzoekschrift bij de familierechtbank; een advocaat is niet verplicht maar aangewezen. De kosten zijn het rolrecht, de erelonen van uw advocaat en bij verlies een rechtsplegingsvergoeding. U versnelt de zaak met een schattingsverslag of schriftelijk bod, het bewijs dat u het voorstel aan uw partner voorlegde, en een plan voor de huisvesting van partner en kinderen. Vraag een concrete inschatting aan een advocaat familierecht.",
+      },
+      {
+        question: "We zijn uit elkaar maar nog niet gescheiden. Mag ik de woning al verkopen?",
+        answer: "Niet alleen, als het de gezinswoning was. De bescherming van artikel 215 oud Burgerlijk Wetboek blijft gelden tot de echtscheiding is uitgesproken en overgeschreven, ook als uw partner al verhuisd is. U verkoopt dus samen, met een machtiging van de familierechtbank, of na de echtscheiding. Loopt er een procedure, dan kan de rechter bovendien voorlopige maatregelen nemen over wie in de woning blijft en of erover beschikt mag worden. Bent u samen eigenaar, dan blijft na de echtscheiding de verdeling: verkopen aan een derde of elkaar uitkopen, met 1 procent verdeelrecht.",
       },
     ],
   },
