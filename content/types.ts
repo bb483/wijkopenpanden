@@ -34,6 +34,19 @@ export interface Region {
   relatedPropertyTypes: string[];
   recentPurchases: { type: string; situation: string; duration: string; description: string }[];
   faqs: FAQ[];
+  /** District van de stad Antwerpen (true) of randgemeente (false/undefined). */
+  isDistrict?: boolean;
+  /** Postcodes die bij dit gebied horen, voor de districtstoewijzing. */
+  postcodes?: string[];
+  /** Cijfers over de woningvoorraad, met bron en referentiejaar. */
+  stats?: { label: string; value: string; note?: string }[];
+  statsSource?: string;
+  /** Wat wij in dit gebied vaak tegenkomen: pandtype, gebreken, lokaal instrument. */
+  whatWeSee?: { title: string; body: string }[];
+  /** Verkoopsituaties met één gebiedsspecifieke zin per situatie. */
+  situationLinks?: { slug: string; note: string }[];
+  relatedArticles?: string[];
+  neighbours?: string[];
 }
 
 export interface Situation {
@@ -49,6 +62,10 @@ export interface Situation {
   relatedPropertyTypes: string[];
   relatedArticles: string[];
   faqs: FAQ[];
+  /** Toon het raster met Antwerpse districten (pijlerpagina's). */
+  showDistricts?: boolean;
+  /** Extra blokken onder de stappen, bv. "Actief in deze districten" of "Ervaringen". */
+  extraSections?: { heading: string; body: string }[];
 }
 
 export interface ArticleSection {

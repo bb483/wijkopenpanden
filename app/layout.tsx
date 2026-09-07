@@ -18,11 +18,11 @@ const jakarta = Plus_Jakarta_Sans({
 export const metadata: Metadata = {
   metadataBase: new URL("https://wijkopenpanden.be"),
   title: {
-    default: "Vastgoed opkoper Antwerpen | wijkopenpanden.be",
+    default: "Huisopkoper Antwerpen | wijkopenpanden.be",
     template: "%s | wijkopenpanden.be",
   },
   description:
-    "Woning of pand verkopen in Antwerpen? Geen commissie, geen makelaar. Keuringen & ontruiming volledig inbegrepen. Direct een eerlijk schriftelijk bod na bezichtiging.",
+    "Woning of pand verkopen in Antwerpen? Geen commissie, geen makelaar. Keuringen & ontruiming volledig inbegrepen. Contact binnen 2 uur, bezoek binnen 48 uur, schriftelijk bod dezelfde dag.",
   openGraph: {
     siteName: "wijkopenpanden.be",
     locale: "nl_BE",
@@ -53,10 +53,16 @@ const organizationSchema = {
   email: "bb@berabrick.be",
   address: {
     "@type": "PostalAddress",
+    streetAddress: "Jezusstraat 18 bus 001",
+    postalCode: "2000",
     addressLocality: "Antwerpen",
     addressCountry: "BE",
   },
   areaServed: "Antwerpen",
+  sameAs: [
+    "https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?ondernemingsnummer=0797335149",
+    "https://www.berabrick.be",
+  ],
 };
 
 // Geen h-full op <html>: dat pint de border-box vast op de vensterhoogte, waardoor

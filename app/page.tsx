@@ -5,6 +5,7 @@ import StickyCtaButton from "@/components/StickyCtaButton";
 import Hero from "@/components/home/Hero";
 import Beloftes from "@/components/home/Beloftes";
 import VoorWie from "@/components/home/VoorWie";
+import Districten from "@/components/home/Districten";
 import ZoWerktHet from "@/components/home/ZoWerktHet";
 import WaaromOns from "@/components/home/WaaromOns";
 import BlijvenWonen from "@/components/home/BlijvenWonen";
@@ -15,14 +16,14 @@ import KennisbankPreview from "@/components/home/KennisbankPreview";
 import Formulier from "@/components/home/Formulier";
 
 export const metadata: Metadata = {
-  title: { absolute: "Vastgoed opkoper Antwerpen — Direct eerlijk bod | wijkopenpanden.be" },
+  title: { absolute: "Huisopkoper Antwerpen — direct eerlijk bod op uw pand | wijkopenpanden.be" },
   description:
-    "Woning of pand verkopen in Antwerpen? wijkopenpanden.be koopt rechtstreeks aan — geen commissie, geen makelaar, keuringen & ontruiming inbegrepen. Reactie binnen 2 uur.",
+    "Huis of appartement verkopen in Antwerpen? wijkopenpanden.be koopt rechtstreeks aan in alle districten: geen commissie, geen makelaar, keuringen & ontruiming inbegrepen. Contact binnen 2 uur, bezoek binnen 48 uur.",
   alternates: { canonical: "https://wijkopenpanden.be" },
   openGraph: {
-    title: "Vastgoed opkoper Antwerpen — Direct eerlijk bod | wijkopenpanden.be",
+    title: "Huisopkoper Antwerpen — direct eerlijk bod op uw pand | wijkopenpanden.be",
     description:
-      "Woning of pand verkopen in Antwerpen? Geen commissie, geen makelaar, keuringen & ontruiming inbegrepen. Reactie binnen 2 uur, schriftelijk bod na bezichtiging.",
+      "Huis of appartement verkopen in Antwerpen? Geen commissie, geen makelaar, keuringen & ontruiming inbegrepen. Contact binnen 2 uur, bezoek binnen 48 uur, schriftelijk bod dezelfde dag.",
     url: "https://wijkopenpanden.be",
     siteName: "wijkopenpanden.be",
     locale: "nl_BE",
@@ -38,19 +39,33 @@ const localBusinessSchema = {
   telephone: "+32492779475",
   email: "bb@berabrick.be",
   description:
-    "wijkopenpanden.be koopt woningen en panden rechtstreeks aan in Antwerpen en omstreken. Geen commissie, geen makelaar, keuringen en ontruiming volledig inbegrepen.",
-  areaServed: {
-    "@type": "City",
-    name: "Antwerpen",
-    "@id": "https://www.wikidata.org/wiki/Q12892",
-  },
+    "wijkopenpanden.be is een Antwerpse huisopkoper: wij kopen woningen en panden rechtstreeks aan in alle districten van de stad Antwerpen en in de directe rand. Geen commissie, geen makelaar, keuringen en ontruiming volledig inbegrepen.",
+  areaServed: [
+    { "@type": "City", name: "Antwerpen", "@id": "https://www.wikidata.org/wiki/Q12892" },
+    { "@type": "AdministrativeArea", name: "Deurne" },
+    { "@type": "AdministrativeArea", name: "Borgerhout" },
+    { "@type": "AdministrativeArea", name: "Berchem" },
+    { "@type": "AdministrativeArea", name: "Hoboken" },
+    { "@type": "AdministrativeArea", name: "Merksem" },
+    { "@type": "AdministrativeArea", name: "Wilrijk" },
+    { "@type": "AdministrativeArea", name: "Ekeren" },
+    { "@type": "AdministrativeArea", name: "Borsbeek" },
+    { "@type": "AdministrativeArea", name: "Berendrecht-Zandvliet-Lillo" },
+  ],
   priceRange: "€€",
   openingHours: "Mo-Su 08:00-20:00",
   address: {
     "@type": "PostalAddress",
+    streetAddress: "Jezusstraat 18 bus 001",
+    postalCode: "2000",
     addressLocality: "Antwerpen",
+    addressRegion: "Antwerpen",
     addressCountry: "BE",
   },
+  sameAs: [
+    "https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?ondernemingsnummer=0797335149",
+    "https://www.berabrick.be",
+  ],
   image: {
     "@type": "ImageObject",
     url: "https://wijkopenpanden.be/opengraph-image",
@@ -108,7 +123,15 @@ const faqSchema = {
       name: "Koopt u ook buiten Antwerpen?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Onze focus ligt op Antwerpen en de directe omstreken (Boom, Mechelen, Mortsel, Edegem). Neem contact op — in specifieke gevallen kijken wij ook verder.",
+        text: "Onze thuismarkt is de stad Antwerpen: wij kopen in alle districten, van Deurne, Borgerhout en Berchem tot Hoboken, Merksem, Wilrijk en Ekeren. Ligt uw pand in de directe rand van Antwerpen, dan bekijken wij uw aanvraag eveneens. Bezorg ons het adres; u hoort binnen 2 uur of en hoe wij u kunnen helpen.",
+      },
+    },
+    {
+      "@type": "Question",
+      name: "Hoe snel krijg ik een bod?",
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: "Na uw aanvraag nemen wij binnen 2 uur contact op en plannen wij een bezoek binnen 48 uur. Dezelfde dag als het bezoek ontvangt u een schriftelijk bod met de berekening erbij. Het bod is vrijblijvend tot u het aanvaardt.",
       },
     },
   ],
@@ -130,6 +153,7 @@ export default function HomePage() {
         <Hero />
         <Beloftes />
         <VoorWie />
+        <Districten />
         <ZoWerktHet />
         <WaaromOns />
         <BlijvenWonen />

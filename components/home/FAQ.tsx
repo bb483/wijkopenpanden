@@ -39,7 +39,12 @@ const vragen = [
   {
     vraag: "Koopt u ook buiten Antwerpen?",
     antwoord:
-      "Onze focus ligt op Antwerpen en de directe omstreken (Boom, Mechelen, Mortsel, Edegem). Neem contact op — in specifieke gevallen kijken wij ook verder.",
+      "Onze thuismarkt is de stad Antwerpen: wij kopen in alle districten, van Deurne, Borgerhout en Berchem tot Hoboken, Merksem, Wilrijk en Ekeren. Ligt uw pand in de directe rand van Antwerpen, dan bekijken wij uw aanvraag eveneens. Bezorg ons het adres; u hoort binnen 2 uur of en hoe wij u kunnen helpen.",
+  },
+  {
+    vraag: "Hoe snel krijg ik een bod?",
+    antwoord:
+      "Na uw aanvraag nemen wij binnen 2 uur contact op en plannen wij een bezoek binnen 48 uur. Dezelfde dag als het bezoek ontvangt u een schriftelijk bod met de berekening erbij. Het bod is vrijblijvend tot u het aanvaardt.",
   },
   {
     vraag: "Wat als ik toch wil blijven wonen na de verkoop?",

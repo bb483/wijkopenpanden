@@ -41,24 +41,28 @@ const menus = [
   {
     label: "Situatie",
     items: [
+      { label: "Huis verkopen in Antwerpen", href: "/huis-verkopen-antwerpen" },
       { label: "Erfenis", href: "/huis-verkopen-bij-erfenis" },
       { label: "Scheiding", href: "/huis-verkopen-bij-scheiding" },
       { label: "Opknapper", href: "/opknappand-verkopen" },
       { label: "Met huurders", href: "/pand-met-huurders-verkopen" },
       { label: "Zonder makelaar", href: "/verkopen-zonder-makelaar" },
       { label: "Schatting pand", href: "/schatting-pand" },
-      { label: "Vastgoedopkoper", href: "/vastgoedopkoper-antwerpen" },
+      { label: "Huisopkoper Antwerpen", href: "/vastgoedopkoper-antwerpen" },
     ],
   },
   {
-    label: "Regio",
+    label: "Districten",
     items: [
-      { label: "Alle regio's", href: "/regios" },
-      { label: "Borgerhout", href: "/regios/borgerhout" },
+      { label: "Alle districten en de rand", href: "/regios" },
       { label: "Deurne", href: "/regios/deurne" },
+      { label: "Borgerhout", href: "/regios/borgerhout" },
       { label: "Berchem", href: "/regios/berchem" },
-      { label: "Mortsel", href: "/regios/mortsel" },
+      { label: "Hoboken", href: "/regios/hoboken" },
+      { label: "Merksem", href: "/regios/merksem" },
       { label: "Wilrijk", href: "/regios/wilrijk" },
+      { label: "Antwerpen-Noord", href: "/regios/antwerpen-noord" },
+      { label: "Antwerpen-Centrum", href: "/regios/antwerpen-centrum" },
     ],
   },
   {

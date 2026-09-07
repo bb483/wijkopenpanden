@@ -7,6 +7,11 @@ import Heading from "@/components/Heading";
 import FAQAccordion from "@/components/FAQAccordion";
 import JsonLd from "@/components/JsonLd";
 import StickyCtaButton from "@/components/StickyCtaButton";
+import Formulier from "@/components/home/Formulier";
+import ScrollToFormulier from "@/components/ScrollToFormulier";
+import DistrictenRaster from "@/components/DistrictenRaster";
+import { titleForSlug, hrefForSlug } from "@/content/lookup";
+import { antwerpLayerFor } from "@/content/antwerp-layers";
 import type { Article } from "@/content/types";
 
 const BASE_URL = "https://wijkopenpanden.be";
@@ -146,6 +151,11 @@ export default function ArticleTemplate({ data }: { data: Article }) {
         }
       : null;
 
+  // Antwerpse laag: een extra sectie "In Antwerpen" voor artikels die Vlaams of
+  // Belgisch geframed zijn, zodat de lezer meteen de lokale toepassing ziet.
+  const layer = antwerpLayerFor(data.slug);
+  const sections = layer ? [...data.sections, layer] : data.sections;
+
   return (
     <>
       <JsonLd data={breadcrumb} />
@@ -188,11 +198,11 @@ export default function ArticleTemplate({ data }: { data: Article }) {
         <section className="py-16 md:py-24" style={{ background: "#FFFFFF" }}>
           <Container>
             <div className="max-w-3xl">
-              {data.sections.map((section, i) => (
+              {sections.map((section, i) => (
                 <div
                   key={i}
                   className="mb-14 pb-14"
-                  style={i < data.sections.length - 1 ? { borderBottom: "1px solid rgba(28,22,16,0.07)" } : undefined}
+                  style={i < sections.length - 1 ? { borderBottom: "1px solid rgba(28,22,16,0.07)" } : undefined}
                 >
                   <h2
                     className="font-serif font-bold mb-5"
@@ -267,20 +277,16 @@ export default function ArticleTemplate({ data }: { data: Article }) {
             >
               <div>
                 <p className="font-serif text-xl font-bold mb-1" style={{ color: "#1C1610" }}>
-                  Wilt u een vrijblijvend bod ontvangen?
+                  Ligt uw pand in Antwerpen? Stel het ons vrijblijvend voor.
                 </p>
                 <p className="text-sm" style={{ color: "#5C4D3C" }}>
-                  Wij reageren binnen 2 uur — ook in het weekend.
+                  Wij reageren binnen 2 uur, bezoeken binnen 48 uur en doen dezelfde dag een schriftelijk bod.
                 </p>
               </div>
               <div className="flex flex-col sm:flex-row gap-3 flex-shrink-0">
-                <Link
-                  href="/#formulier"
-                  className="px-7 py-3.5 rounded-full font-semibold text-white text-center whitespace-nowrap text-sm"
-                  style={{ background: "#C0392B" }}
-                >
+                <ScrollToFormulier className="px-7 py-3.5 rounded-full font-semibold text-white text-center whitespace-nowrap text-sm cursor-pointer inline-flex items-center justify-center bg-[#C0392B] hover:bg-[#a93226] transition-colors">
                   Vraag een bod aan
-                </Link>
+                </ScrollToFormulier>
                 <a
                   href="tel:0492779475"
                   className="px-7 py-3.5 rounded-full font-medium text-center whitespace-nowrap text-sm"
@@ -312,44 +318,84 @@ export default function ArticleTemplate({ data }: { data: Article }) {
           <section className="py-14" style={{ background: "#FAF7F2" }}>
             <Container>
               <div className="max-w-3xl">
-                <p
-                  className="text-xs font-semibold tracking-widest uppercase mb-5"
-                  style={{ color: "#C4A35A" }}
-                >
-                  Verwante artikels
-                </p>
-                <div className="flex flex-wrap gap-3">
-                  {data.relatedSituations.map((slug) => (
-                    <Link
-                      key={slug}
-                      href={`/${slug}`}
-                      className="text-sm px-4 py-2 rounded-full transition-colors duration-150"
-                      style={{
-                        border: "1px solid rgba(28,22,16,0.15)",
-                        color: "#5C4D3C",
-                      }}
+                {data.relatedSituations.length > 0 && (
+                  <>
+                    <p
+                      className="text-xs font-semibold tracking-widest uppercase mb-5"
+                      style={{ color: "#C4A35A" }}
                     >
-                      {slug.replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase())}
-                    </Link>
-                  ))}
-                  {data.relatedArticles.map((slug) => (
-                    <Link
-                      key={slug}
-                      href={`/kennisbank/${slug}`}
-                      className="text-sm px-4 py-2 rounded-full transition-colors duration-150"
-                      style={{
-                        border: "1px solid rgba(28,22,16,0.15)",
-                        color: "#5C4D3C",
-                      }}
+                      Zo helpen wij u
+                    </p>
+                    <div className="flex flex-wrap gap-3 mb-10">
+                      {data.relatedSituations.map((slug) => (
+                        <Link
+                          key={slug}
+                          href={hrefForSlug(slug)}
+                          className="text-sm px-4 py-2 rounded-full transition-colors duration-150"
+                          style={{
+                            border: "1px solid rgba(28,22,16,0.15)",
+                            color: "#5C4D3C",
+                          }}
+                        >
+                          {titleForSlug(slug)}
+                        </Link>
+                      ))}
+                    </div>
+                  </>
+                )}
+                {data.relatedArticles.length > 0 && (
+                  <>
+                    <p
+                      className="text-xs font-semibold tracking-widest uppercase mb-5"
+                      style={{ color: "#C4A35A" }}
                     >
-                      {slug.replace(/-/g, " ")}
-                    </Link>
-                  ))}
-                </div>
+                      Verwante artikels
+                    </p>
+                    <div className="flex flex-wrap gap-3">
+                      {data.relatedArticles.map((slug) => (
+                        <Link
+                          key={slug}
+                          href={`/kennisbank/${slug}`}
+                          className="text-sm px-4 py-2 rounded-full transition-colors duration-150"
+                          style={{
+                            border: "1px solid rgba(28,22,16,0.15)",
+                            color: "#5C4D3C",
+                          }}
+                        >
+                          {titleForSlug(slug)}
+                        </Link>
+                      ))}
+                    </div>
+                  </>
+                )}
               </div>
             </Container>
           </section>
         )}
+
+        {/* Ligt uw pand in Antwerpen? */}
+        <section className="py-16 md:py-20" style={{ background: "#FFFFFF" }}>
+          <Container>
+            <div className="max-w-3xl mb-8">
+              <p className="text-xs font-semibold tracking-widest uppercase mb-4" style={{ color: "#C4A35A" }}>
+                Ligt uw pand in Antwerpen?
+              </p>
+              <h2
+                className="font-serif font-bold mb-3"
+                style={{ fontSize: "clamp(1.25rem, 2.5vw, 1.625rem)", color: "#1C1610", letterSpacing: "-0.02em" }}
+              >
+                Wij kopen in elk district van de stad
+              </h2>
+              <p className="text-sm leading-relaxed" style={{ color: "#5C4D3C" }}>
+                Kies uw district voor de cijfers, de typische verkoopsituaties en onze recente dossiers daar. Ligt uw pand in
+                de directe rand, dan bekijken wij uw aanvraag eveneens.
+              </p>
+            </div>
+            <DistrictenRaster compact showOuter />
+          </Container>
+        </section>
+
+        <Formulier />
       </main>
       <Footer />
       <StickyCtaButton />

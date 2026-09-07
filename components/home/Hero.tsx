@@ -7,9 +7,9 @@ import { scrollToFormulier } from "@/components/ScrollToFormulier";
 
 const trust = [
   "Reactie binnen 2 uur",
+  "Bezoek binnen 48 uur, bod dezelfde dag",
   "Geen commissie of kosten",
   "Keuringen & ontruiming inbegrepen",
-  "Vrijblijvend bod na bezichtiging",
 ];
 
 export default function Hero() {
@@ -58,7 +58,7 @@ export default function Hero() {
             style={{ color: "#C4A35A" }}
           >
             <span className="w-6 h-px flex-shrink-0" style={{ background: "#C4A35A" }} />
-            Vastgoed opkoper — Antwerpen &amp; omstreken
+            Huisopkoper in Antwerpen
             <span className="w-6 h-px flex-shrink-0" style={{ background: "#C4A35A" }} />
           </p>
 
@@ -66,7 +66,7 @@ export default function Hero() {
           <h1
             className="font-serif font-extrabold mb-7"
             style={{
-              fontSize: "clamp(2.75rem, 7vw, 5.75rem)",
+              fontSize: "clamp(2.5rem, 6.5vw, 5.25rem)",
               letterSpacing: "-0.03em",
               lineHeight: 1.04,
               color: "#1C1610",
@@ -74,8 +74,8 @@ export default function Hero() {
           >
             Direct een eerlijk bod{" "}
             <br className="hidden sm:block" />
-            op uw{" "}
-            <span style={{ color: "#C4A35A" }}>pand.</span>
+            op uw pand in{" "}
+            <span style={{ color: "#C4A35A" }}>Antwerpen.</span>
           </h1>
 
           {/* Subtitle */}
@@ -84,10 +84,10 @@ export default function Hero() {
             style={{
               fontSize: "clamp(1.1rem, 2.5vw, 1.3rem)",
               color: "#4A3D30",
-              maxWidth: "540px",
+              maxWidth: "580px",
             }}
           >
-            Geen makelaar, geen commissie, geen gedoe. Wij nemen binnen 2 uur contact op en doen u een concreet schriftelijk bod na bezichtiging.
+            Geen makelaar, geen commissie, geen gedoe. Wij kopen rechtstreeks aan in alle Antwerpse districten, van Deurne en Borgerhout tot Hoboken, Merksem en Wilrijk, en in de directe rand. Contact binnen 2 uur, bezoek binnen 48 uur, schriftelijk bod dezelfde dag.
           </p>
 
           {/* CTAs */}

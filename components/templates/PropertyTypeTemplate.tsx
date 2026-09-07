@@ -12,6 +12,7 @@ import StickyCtaButton from "@/components/StickyCtaButton";
 import Formulier from "@/components/home/Formulier";
 import type { PropertyType } from "@/content/types";
 import { articles } from "@/content/knowledge-articles";
+import { titleForSlug, hrefForSlug } from "@/content/lookup";
 
 const BASE_URL = "https://wijkopenpanden.be";
 
@@ -94,12 +95,12 @@ export default function PropertyTypeTemplate({ data }: { data: PropertyType }) {
           <div className="flex flex-wrap gap-4">
             {data.relatedRegions.map((slug) => (
               <Link key={slug} href={`/regios/${slug}`} className="text-sm text-ink border border-ink/15 px-4 py-2 hover:border-ink/40 transition-colors">
-                Verkopen in {slug.charAt(0).toUpperCase() + slug.slice(1)}
+                {titleForSlug(slug)}
               </Link>
             ))}
             {data.relatedSituations.map((slug) => (
-              <Link key={slug} href={`/${slug}`} className="text-sm text-ink border border-ink/15 px-4 py-2 hover:border-ink/40 transition-colors">
-                {slug.replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase())}
+              <Link key={slug} href={hrefForSlug(slug)} className="text-sm text-ink border border-ink/15 px-4 py-2 hover:border-ink/40 transition-colors">
+                {titleForSlug(slug)}
               </Link>
             ))}
           </div>

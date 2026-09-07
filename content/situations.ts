@@ -337,13 +337,24 @@ export const situations: Situation[] = [
   },
   {
     slug: "vastgoedopkoper-antwerpen",
-    title: "Vastgoedopkoper Antwerpen",
-    metaTitle: "Vastgoedopkoper Antwerpen — direct bod op uw pand",
+    title: "Huisopkoper Antwerpen",
+    metaTitle: "Huisopkoper Antwerpen (vastgoedopkoper) — direct bod op uw pand",
     metaDescription:
-      "Zoekt u een vastgoedopkoper in Antwerpen? Wij kopen uw pand rechtstreeks aan met eigen middelen. Contact binnen 2 uur, geen makelaar, geen commissie.",
-    h1: "Vastgoedopkoper in Antwerpen",
+      "Zoekt u een huisopkoper in Antwerpen? wijkopenpanden.be koopt in alle districten rechtstreeks aan met eigen middelen. Contact binnen 2 uur, bezoek binnen 48 uur, bod dezelfde dag.",
+    h1: "Huisopkoper in Antwerpen",
     intro:
-      "Een vastgoedopkoper koopt uw pand rechtstreeks aan voor eigen rekening. Hij zoekt geen koper voor u — hij is de koper. Dat verandert alles aan het verloop: geen zoektocht, geen bezichtigingen, geen bod dat afspringt omdat de bank van een kandidaat afhaakt. wijkopenpanden.be is een lokale vastgoedopkoper in Antwerpen en omstreken. Wij kopen met eigen middelen, in elke staat, en leggen altijd uit hoe wij tot ons bedrag komen. Een opkoper betaalt niet de theoretische topprijs van de markt — wij zeggen dat liever op voorhand dan achteraf.",
+      "Een huisopkoper, ook vastgoedopkoper genoemd, koopt uw pand rechtstreeks aan voor eigen rekening. Hij zoekt geen koper voor u: hij is de koper. Dat verandert alles aan het verloop: geen zoektocht, geen bezichtigingen, geen bod dat afspringt omdat de bank van een kandidaat afhaakt. wijkopenpanden.be is een Antwerpse huisopkoper met een familiebedrijf in de Jezusstraat, actief in alle negen districten van de stad en in de directe rand. Wij kopen met eigen middelen, in elke staat, en leggen altijd uit hoe wij tot ons bedrag komen. Een opkoper betaalt niet de theoretische topprijs van de markt; wij zeggen dat liever op voorhand dan achteraf.",
+    showDistricts: true,
+    extraSections: [
+      {
+        heading: "Wat een Antwerpse huisopkoper anders doet dan een landelijke",
+        body: "Een opkoper die van op afstand werkt, rekent met gemiddelden. Wij rekenen met de straat. In Borgerhout en Berchem dateert bijna de helft van de woningen van vóór 1946: strokenfunderingen, opstijgend vocht en elektriciteit van vóór 1981 zijn er standaard, en wij kennen de kost daarvan per pandtype. In Deurne, Merksem en Wilrijk domineren de naoorlogse gezinswoningen met enkel glas en een stookolietank. Op de Linkeroever en in Deurne-Zuid bepaalt de staat van de gemene delen van het appartementsblok de prijs, niet uw eigen unit.\n\nDaar komen de stedelijke instrumenten bij die een bod in Antwerpen mee bepalen: de bouwcode, die een eengezinswoning beschermt tegen opdeling tenzij één woning van minstens 100 vierkante meter met buitenruimte behouden blijft; het beschermd stadsgezicht in Zurenborg en delen van het centrum; de luchthavenzone in Deurne-Zuid; en het stedelijke leegstandsregister met zijn jaarlijks stijgende heffing. Wie die regels niet kent, biedt fout, naar boven of naar beneden.",
+      },
+      {
+        heading: "Zo toetst u ons, of elke andere opkoper",
+        body: "Vraag wie er als koper op de akte komt en of dat dezelfde partij is als degene die het bod deed. Vraag of er met eigen middelen wordt gekocht, dan wel of er na uw akkoord nog een investeerder wordt gezocht. Vraag wat er na het bezoek nog aan het bod kan veranderen en of dat zwart op wit staat. Vraag wie de keuringen betaalt, of u uw eigen notaris kiest en wat er gebeurt als u afhaakt. En vraag naar dossiers in uw eigen district.\n\nOnze antwoorden: wijkopenpanden.be koopt op eigen naam, met eigen middelen en zonder financieringsvoorbehoud. Het bod komt schriftelijk, dezelfde dag als het bezoek, met de berekening erbij, en wordt enkel herzien bij ernstige gebreken die wij redelijkerwijs niet konden vaststellen. Keuringen en ontruiming betalen wij. U kiest uw notaris en de aktedatum, en tot de ondertekening van het compromis bent u nergens toe verplicht. Ons ondernemingsnummer is BE 0797.335.149.",
+      },
+    ],
     painPoints: [
       "U wilt zekerheid over de verkoop en niet maandenlang wachten op een kandidaat met een goedgekeurd krediet",
       "Het pand is in slechte staat, verhuurd of juridisch complex, waardoor makelaars afhaken of eerst werken vragen",
@@ -392,6 +403,11 @@ export const situations: Situation[] = [
     ],
     faqs: [
       {
+        question: "Wat is het verschil tussen een huisopkoper en een vastgoedopkoper?",
+        answer:
+          "Geen. Beide termen slaan op dezelfde partij: een professionele koper die uw pand voor eigen rekening aankoopt in plaats van te bemiddelen. In Antwerpen wordt vooral 'huisopkoper' gebruikt; 'vastgoedopkoper' dekt ook appartementen, opbrengsteigendommen, handelspanden en grond. wijkopenpanden.be koopt al die types aan in de stad Antwerpen en de directe rand.",
+      },
+      {
         question: "Wat is een vastgoedopkoper precies?",
         answer:
           "Een vastgoedopkoper is een professionele partij die panden voor eigen rekening aankoopt in plaats van te bemiddelen. Hij wordt zelf eigenaar, draagt vanaf de akte alle risico's en verdient met wat hij daarna met het pand doet. Omdat hij zelf de koper is, betaalt u geen commissie en hangt de verkoop niet af van een kandidaat die nog een lening moet rondkrijgen.",
@@ -412,9 +428,9 @@ export const situations: Situation[] = [
           "Neen. U betaalt ons geen commissie, geen dossierkosten en geen vergoeding voor het bod of het plaatsbezoek. Wij vragen ook geen exclusiviteit voor u tekent. Als verkoper draagt u wel de kosten die bij elke verkoop horen, zoals de doorhaling van een bestaande hypotheek.",
       },
       {
-        question: "In welke gemeenten rond Antwerpen koopt u aan?",
+        question: "In welke districten en gemeenten koopt u aan?",
         answer:
-          "Wij zijn actief in Antwerpen-stad en de districten Deurne, Berchem, Borgerhout, Wilrijk, Merksem, Hoboken, Ekeren en Linkeroever, en in de omliggende gemeenten zoals Mortsel, Edegem, Kontich, Schilde, Brasschaat, Wommelgem en Borsbeek. Bezorg ons uw adres en wij laten u weten of uw pand binnen ons werkgebied valt.",
+          "Onze thuismarkt is de stad Antwerpen: alle negen districten, dus Antwerpen (centrum, Zuid, Noord, Kiel, Luchtbal, Linkeroever), Deurne, Borgerhout, Berchem, Hoboken, Merksem, Wilrijk, Ekeren en Borsbeek. Daarnaast bekijken wij aanvragen uit de directe rand, zoals Mortsel, Edegem, Kontich, Wommelgem, Schilde en Brasschaat. Bezorg ons uw adres; u hoort binnen 2 uur of en hoe wij u kunnen helpen.",
       },
       {
         question: "Kan een opkoper de prijs bij de akte nog verlagen?",
@@ -428,7 +444,7 @@ export const situations: Situation[] = [
     title: "Huis snel verkopen",
     metaTitle: "Huis snel verkopen in Antwerpen — bod binnen 2 uur",
     metaDescription:
-      "Uw huis snel verkopen zonder makelaar of wachttijd? Wij kopen rechtstreeks aan met eigen middelen. Contact binnen 2 uur, u kiest de aktedatum.",
+      "Uw huis snel verkopen in Antwerpen, zonder makelaar of wachttijd? Wij kopen rechtstreeks aan met eigen middelen. Contact binnen 2 uur, bezoek binnen 48 uur, u kiest de aktedatum.",
     h1: "Huis snel verkopen in Antwerpen",
     intro:
       "Wie zijn huis snel wil verkopen, botst op de klassieke markt op een tijdlijn die hij niet zelf in de hand heeft: de zoektocht naar een kandidaat, de bezichtigingen, het bod, en daarna nog zes tot tien weken wachten op de kredietbeslissing van een bank. wijkopenpanden.be koopt uw woning rechtstreeks aan met eigen middelen. Er is dus geen financieringsvoorbehoud en geen zoektocht — enkel de wettelijke opzoekingen van de notaris. Hieronder leest u eerlijk wat wel en niet te versnellen valt, en wat snelheid u kost.",
@@ -523,7 +539,7 @@ export const situations: Situation[] = [
     title: "Pand snel verkopen",
     metaTitle: "Snel een pand verkopen in Antwerpen — direct bod",
     metaDescription:
-      "Snel een pand verkopen: opbrengstpand, handelspand, magazijn, garagebox of bouwgrond. Wij kopen rechtstreeks aan met eigen middelen, contact binnen 2 uur.",
+      "Snel een pand verkopen in Antwerpen: opbrengstpand, handelspand, magazijn, garagebox of bouwgrond. Wij kopen rechtstreeks aan met eigen middelen, contact binnen 2 uur.",
     h1: "Snel een pand verkopen in Antwerpen",
     intro:
       "Niet elk pand is een gewone gezinswoning, en net die panden verkopen op de klassieke markt het traagst. Een opbrengsteigendom met huurders, een handelspand met een lopende handelshuur, een magazijn, een garagebox, een stilgevallen bouwwerf of een perceel bouwgrond spreekt maar een klein deel van de kopers aan — en dat deel rekent scherp. wijkopenpanden.be koopt dit soort panden rechtstreeks aan in de Antwerpse regio, met eigen middelen en in de staat waarin ze zich bevinden.",
@@ -616,7 +632,7 @@ export const situations: Situation[] = [
     title: "Schatting van uw pand",
     metaTitle: "Schatting pand: wat is uw eigendom echt waard?",
     metaDescription:
-      "Schatting van uw pand nodig? Vergelijk de online tool, de makelaar, de erkende schatter-expert en een concreet bod — en weet welke u wanneer nodig heeft.",
+      "Schatting van uw pand in Antwerpen nodig? Vergelijk de online tool, de makelaar, de erkende schatter-expert en een concreet bod, en weet welke u wanneer nodig heeft.",
     h1: "Schatting van uw pand: wat is het echt waard?",
     intro:
       "Een schatting van uw pand kan vier heel verschillende dingen betekenen: een gratis indicatie van een online tool, een waardebepaling door een makelaar met het oog op een verkoopopdracht, een officieel schattingsverslag door een erkende schatter-expert dat tegenover de fiscus of een rechtbank standhoudt, en een concreet bod van een koper. Alleen dat laatste is een bedrag dat u ook effectief kunt krijgen. Hieronder leest u welke vorm u in welke situatie nodig heeft, wat ze kost en waar de verschillen zitten.",
@@ -707,7 +723,7 @@ export const situations: Situation[] = [
     title: "Rijhuis snel verkopen",
     metaTitle: "Rijhuis snel verkopen in Antwerpen — bod binnen 2 uur",
     metaDescription:
-      "Rijhuis snel verkopen zonder makelaar? Wij kopen rechtstreeks aan met eigen middelen, ook met vocht, asbest of onvergunde aanbouw. Contact binnen 2 uur.",
+      "Rijhuis snel verkopen in Antwerpen, zonder makelaar? Wij kopen rechtstreeks aan met eigen middelen, ook met vocht, asbest of onvergunde aanbouw. Contact binnen 2 uur.",
     h1: "Rijhuis snel verkopen in Antwerpen",
     intro:
       "Het rijhuis is het meest verhandelde pandtype van Antwerpen, en net daardoor het pandtype waar een verkoop het vaakst blijft steken. Niet omdat er geen kopers zijn, maar omdat bijna elk Antwerps rijhuis van vóór 2001 dateert en dus een asbestattest nodig heeft, omdat de elektrische installatie zelden nog conform is, en omdat een EPC met label E of F kandidaat-kopers en hun bank tegelijk doet aarzelen. wijkopenpanden.be koopt rijhuizen rechtstreeks aan met eigen middelen, in de staat waarin ze zich bevinden. Hieronder leest u welke stappen bij dit pandtype de tijd opeten, en welke daarvan bij een rechtstreekse verkoop gewoon wegvallen.",
@@ -799,7 +815,7 @@ export const situations: Situation[] = [
     title: "Appartement snel verkopen",
     metaTitle: "Appartement snel verkopen in Antwerpen — direct bod",
     metaDescription:
-      "Appartement snel verkopen? Wij kopen rechtstreeks aan met eigen middelen, ook met achterstallige VME-lasten of zware werken op komst. Bod binnen 2 uur.",
+      "Appartement snel verkopen in Antwerpen? Wij kopen rechtstreeks aan met eigen middelen, ook met achterstallige VME-lasten of zware werken op komst. Contact binnen 2 uur.",
     h1: "Appartement snel verkopen in Antwerpen",
     intro:
       "Bij een appartement wordt de snelheid van uw verkoop niet bepaald door uzelf, maar door een derde partij: de syndicus. De informatie die u wettelijk aan de koper moet bezorgen — de afrekening van de gemeenschappelijke lasten, het bedrag van het reservekapitaal en het werkkapitaal, de openstaande schulden van de vereniging van mede-eigenaars, de lopende procedures en de beslissingen over grote werken — komt uit zijn kantoor, en dus op zijn tempo. Daar bovenop kwam sinds 1 mei 2025 het asbestattest voor de gemene delen. wijkopenpanden.be koopt appartementen rechtstreeks aan en vraagt dat volledige dossier zelf op bij de syndicus.",
@@ -907,7 +923,7 @@ export const situations: Situation[] = [
     title: "Herenhuis snel verkopen",
     metaTitle: "Herenhuis snel verkopen in Antwerpen — direct bod",
     metaDescription:
-      "Herenhuis snel verkopen? Ook beschermd erfgoed, laag EPC of achterstallig onderhoud. Wij kopen rechtstreeks aan met eigen middelen. Bod binnen 2 uur.",
+      "Herenhuis snel verkopen in Antwerpen? Ook beschermd erfgoed in Zurenborg, laag EPC of achterstallig onderhoud. Wij kopen rechtstreeks aan met eigen middelen. Contact binnen 2 uur.",
     h1: "Herenhuis snel verkopen in Antwerpen",
     intro:
       "Een herenhuis verkoopt niet traag omdat het minder waard is, maar omdat de kopersgroep klein is. Voor een pand van vier- tot negenhonderdduizend euro met hoge plafonds, enkele beglazing en een verwarmingsinstallatie uit een ander tijdperk zijn er in de Antwerpse regio maar een beperkt aantal kandidaten, en die hebben stuk voor stuk een bank nodig die het bedrag én het energielabel wil financieren. Daar bovenop komen bij dit pandtype vaak erfgoedverplichtingen en de vraag of het pand mag worden opgesplitst. wijkopenpanden.be koopt herenhuizen rechtstreeks aan met eigen middelen, ook wanneer ze beschermd, verwaarloosd of onderdeel van een nalatenschap zijn.",
@@ -1091,7 +1107,7 @@ export const situations: Situation[] = [
     title: "Opbrengsteigendom snel verkopen",
     metaTitle: "Opbrengsteigendom snel verkopen Antwerpen — direct bod",
     metaDescription:
-      "Opbrengsteigendom snel verkopen met huurders erin? Geen bezichtigingen, geen keuringen per unit. Wij kopen rechtstreeks aan. Bod binnen 2 uur.",
+      "Opbrengsteigendom snel verkopen in Antwerpen, met huurders erin? Geen bezichtigingen, geen keuringen per unit. Wij kopen rechtstreeks aan. Contact binnen 2 uur.",
     h1: "Opbrengsteigendom snel verkopen in Antwerpen",
     intro:
       "Een opbrengsteigendom verkoopt traag om een reden die weinig met de markt te maken heeft: u kunt er niet vrij over beschikken. Er wonen huurders, elke bezichtiging vraagt hun medewerking, elke wooneenheid heeft een eigen elektrische keuring en een eigen EPC nodig, en de koper is een investeerder die eerst zijn rendement narekent en daarna zijn bank moet overtuigen. Elk van die schakels kost weken. wijkopenpanden.be koopt meergezinswoningen en opbrengstpanden rechtstreeks aan met eigen middelen — met actieve huurders, lege eenheden of een combinatie van beide — en neemt de huurrelatie na de akte over.",
@@ -1183,7 +1199,7 @@ export const situations: Situation[] = [
     title: "Bouwgrond snel verkopen",
     metaTitle: "Bouwgrond snel verkopen in Antwerpen — direct bod",
     metaDescription:
-      "Bouwgrond of perceel snel verkopen? Geen EPC en geen keuringen, wel een bodemattest. Wij kopen rechtstreeks aan. Contact binnen 2 uur.",
+      "Bouwgrond of perceel snel verkopen in Antwerpen? Geen EPC en geen keuringen, wel een bodemattest. Wij kopen rechtstreeks aan. Contact binnen 2 uur.",
     h1: "Bouwgrond snel verkopen in Antwerpen",
     intro:
       "Bij grond valt de helft van de klassieke verkoopvertragers gewoon weg: er is geen EPC nodig, geen elektrische keuring en geen asbestattest, en er is geen renovatieplicht. Wat overblijft, is administratief maar bepalend: het bodemattest van de OVAM, het stedenbouwkundig uittreksel dat niet ouder mag zijn dan een jaar, de watertoets, en — als u een perceel afsplitst om erop te laten bouwen — een omgevingsvergunning voor het verkavelen. Daar bovenop komt de trage schakel bij grond: de koper wil doorgaans eerst weten wat hij mag bouwen vóór hij tekent. wijkopenpanden.be koopt percelen, slooppanden en projectgronden rechtstreeks aan.",
@@ -1275,7 +1291,7 @@ export const situations: Situation[] = [
     title: "Garagebox snel verkopen",
     metaTitle: "Garagebox of staanplaats snel verkopen in Antwerpen",
     metaDescription:
-      "Garagebox of autostaanplaats snel verkopen? Geen makelaar, geen EPC. Wij kopen rechtstreeks aan, ook meerdere boxen samen. Bod binnen 2 uur.",
+      "Garagebox of autostaanplaats snel verkopen in Antwerpen? Geen makelaar, geen EPC. Wij kopen rechtstreeks aan, ook meerdere boxen samen. Contact binnen 2 uur.",
     h1: "Garagebox of staanplaats snel verkopen in Antwerpen",
     intro:
       "Een garagebox verkoopt zelden traag omdat er geen vraag is — de vraag in Antwerpen is groot. Ze verkoopt traag omdat niemand er graag werk in steekt. Voor een makelaar is de commissie op een pand van dertig- tot vijftigduizend euro te klein om er een volwaardig verkoopdossier voor op te zetten, terwijl de notariële procedure exact even zwaar is als bij een woning: bodemattest, opzoekingen, akte. Wie een box heeft geërfd, wie er meerdere in hetzelfde gebouw bezit of wie er gewoon vanaf wil, blijft daardoor vaak jaren aankijken tegen onroerende voorheffing en syndicuskosten. wijkopenpanden.be koopt garageboxen en staanplaatsen rechtstreeks aan, losstaand of als pakket.",
@@ -1367,7 +1383,7 @@ export const situations: Situation[] = [
     title: "Magazijn of kantoor snel verkopen",
     metaTitle: "Magazijn, loods of kantoor snel verkopen in Antwerpen",
     metaDescription:
-      "Magazijn, loods, atelier of kantoorpand snel verkopen? Wij kopen bedrijfsvastgoed rechtstreeks aan, ook leegstaand. Contact binnen 2 uur.",
+      "Magazijn, loods, atelier of kantoorpand snel verkopen in Antwerpen? Wij kopen bedrijfsvastgoed rechtstreeks aan, ook leegstaand. Contact binnen 2 uur.",
     h1: "Magazijn, loods of kantoor snel verkopen in Antwerpen",
     intro:
       "Bedrijfsvastgoed verkoopt op de klassieke markt het traagst van alle pandtypes, en dat heeft weinig met de prijs te maken. Een magazijn, een loods, een atelier of een kantoorpand spreekt een klein en specifiek publiek aan: kopers die precies deze oppervlakte, deze hoogte, deze ontsluiting en deze bestemming nodig hebben, op dit moment. Daar bovenop komt een dossier met eigen regels — een energieprestatiecertificaat voor niet-residentiële eenheden, een asbestattest, mogelijk een oriënterend bodemonderzoek als er ooit een risico-activiteit plaatsvond, en een btw-verleden dat de rekening van de verkoper kan raken. wijkopenpanden.be koopt dit soort panden rechtstreeks aan, ook leegstaand.",
@@ -1459,7 +1475,7 @@ export const situations: Situation[] = [
     title: "Handelspand snel verkopen",
     metaTitle: "Handelspand of winkelpand snel verkopen in Antwerpen",
     metaDescription:
-      "Handelspand, winkel- of horecapand snel verkopen, ook met lopende handelshuur? Wij kopen rechtstreeks aan met eigen middelen. Contact binnen 2 uur.",
+      "Handelspand, winkel- of horecapand snel verkopen in Antwerpen, ook met lopende handelshuur? Wij kopen rechtstreeks aan met eigen middelen. Contact binnen 2 uur.",
     h1: "Handelspand snel verkopen in Antwerpen",
     intro:
       "Bij een handelspand is niet de staat van het gebouw de moeilijkste factor, maar het huurcontract. Handelshuur is federale wetgeving — de Handelshuurwet van 30 april 1951 — en die beschermt de huurder veel sterker dan het Vlaamse woninghuurrecht: een basisduur van negen jaar, een recht op hernieuwing tot drie keer toe, en een uitzettingsvergoeding die kan oplopen tot ongeveer drie jaar huur. Een kandidaat-koper die dat leest, rekent traag. Daar bovenop komt bij een gemengd pand de vraag welk huurregime geldt voor de woning boven de winkel. wijkopenpanden.be koopt handelspanden rechtstreeks aan, met of zonder lopende handelshuur.",
@@ -1635,6 +1651,112 @@ export const situations: Situation[] = [
         question: "De hoeve komt uit een nalatenschap. Waar moeten wij op letten?",
         answer:
           "Op twee dingen: de termijn en de waardering. De aangifte van nalatenschap moet in de regel binnen vier maanden na het overlijden worden ingediend, en die termijn wordt niet verlengd doordat u een schatter aanstelt. Zorg daarnaast dat de aangegeven waarde onderbouwd is — via een erkend schatter-expert van de lijst van de Vlaamse Belastingdienst of via een kosteloze bindende schatting — want een tekortschatting kan tot twee jaar na de indiening worden gemeld. Ons schriftelijk bod kunt u als onderbouwing bij dat dossier voegen.",
+      },
+    ],
+  },
+  {
+    slug: "huis-verkopen-antwerpen",
+    title: "Huis verkopen in Antwerpen",
+    metaTitle: "Huis verkopen in Antwerpen — direct bod van een Antwerpse huisopkoper",
+    metaDescription:
+      "Huis of appartement verkopen in Antwerpen? wijkopenpanden.be koopt in alle districten rechtstreeks aan: geen makelaar, geen commissie, keuringen inbegrepen. Contact binnen 2 uur, bezoek binnen 48 uur, bod dezelfde dag.",
+    h1: "Huis of appartement verkopen in Antwerpen: direct bod, geen makelaar",
+    intro:
+      "Een woning verkopen in Antwerpen kan op twee manieren: via de klassieke markt, met makelaar, bezichtigingen en een koper die nog een lening moet rondkrijgen, of rechtstreeks aan een Antwerpse huisopkoper die het pand zelf koopt. wijkopenpanden.be is dat tweede. Wij kopen huizen, appartementen, opbrengsteigendommen en andere panden in alle negen districten van de stad en in de directe rand, in elke staat, met eigen middelen. Na uw aanvraag nemen wij binnen 2 uur contact op, bezoeken wij het pand binnen 48 uur en ontvangt u dezelfde dag een schriftelijk bod met de berekening erbij. Geen commissie, geen keuringen, geen ontruiming voor uw rekening.",
+    painPoints: [
+      "U wilt weten wat uw pand in uw district vandaag opbrengt, zonder eerst een makelaar over de vloer te halen",
+      "Het pand is verouderd, verhuurd of geërfd, en makelaars vragen eerst werken of een lager schatting",
+      "U heeft een reden om snel te verkopen: erfenis, scheiding, verhuis naar een woonzorgcentrum, dubbele lasten",
+      "U wilt geen bezichtigingen, geen bord aan de gevel en geen foto's van uw woning online",
+      "Een vorige koper haakte af omdat de bank niet volgde, en u wilt dat risico niet opnieuw",
+      "U wilt zelf uw notaris en uw aktedatum kiezen, en zeker zijn dat de prijs bij de akte nog dezelfde is",
+    ],
+    steps: [
+      {
+        title: "U bezorgt ons het adres en een korte beschrijving",
+        body: "Via het formulier onderaan of telefonisch op 0492 77 94 75: adres, type pand, staat en wat u zoekt. Meer hebben wij niet nodig. Binnen 2 uur, ook in het weekend en na 18 uur, belt een van ons u terug om de situatie door te nemen en een bezoek te plannen.",
+      },
+      {
+        title: "Wij bezoeken het pand binnen 48 uur",
+        body: "Eén bezoek, geen reeks bezichtigingen. Wij bekijken structuur, vocht, dak, installaties, het EPC en de vergunningstoestand, en bij een appartement vragen wij de VME-informatie zelf op bij de syndicus. U hoeft niets op te ruimen, te herstellen of te laten keuren.",
+      },
+      {
+        title: "U ontvangt dezelfde dag een schriftelijk bod met de berekening",
+        body: "Wij vertrekken van de waarde die het pand na renovatie in uw straat realistisch opbrengt en trekken daar de posten van af die wij dragen: renovatie- of conformeringswerken, keuringen, aankoopkosten, aanhoudkost en een marge voor het risico. Elke post staat benoemd in het bod. Het bod is vrijblijvend tot u het aanvaardt.",
+      },
+      {
+        title: "Akkoord, compromis en uw eigen notaris",
+        body: "Aanvaardt u het bod, dan leggen wij de afspraken vast in een compromis bij een notaris naar uw keuze. Er is geen financieringsvoorbehoud, dus er valt geen koper af. De prijs wordt enkel herzien bij ernstige gebreken die wij bij het bezoek redelijkerwijs niet konden vaststellen; dat staat zwart op wit.",
+      },
+      {
+        title: "Akte op de datum die u kiest",
+        body: "Van akkoord tot akte duurt doorgaans 2 tot 3 maanden; de wettelijke opzoekingen van de notaris bepalen die termijn. Wilt u later tekenen, bijvoorbeeld omdat uw nieuwe woning nog niet klaar is, dan kan dat. Wilt u na de verkoop blijven wonen, dan tekenen wij gelijktijdig een huurovereenkomst.",
+      },
+    ],
+    showDistricts: true,
+    extraSections: [
+      {
+        heading: "Welke panden wij in Antwerpen kopen",
+        body: "Rijhuizen en burgerwoningen van vóór 1946 in Borgerhout, Berchem, Antwerpen-Noord en het Kiel, ook met vocht, niet-conforme elektriciteit, asbest of onvergunde achterbouw. Naoorlogse gezinswoningen en bel-etages in Deurne, Merksem, Wilrijk, Hoboken en Ekeren, ook met enkel glas, een stookolietank en een EPC-label E of F. Appartementen in mede-eigendom in alle districten en op de Linkeroever, ook als de VME grote werken plant of het reservekapitaal leeg is. Opbrengsteigendommen en verhuurde panden, met de huurders erin. Herenhuizen, ook onder beschermd stadsgezicht in Zurenborg of rond het Stadspark. Bouwgronden, garageboxen, handelspanden, magazijnen en kantoren.\n\nWat wij niet kopen, zeggen wij bij het bezoek: een instapklaar pand in een gewilde straat brengt op de klassieke markt doorgaans meer op dan bij een opkoper. Dan raden wij u aan te wachten of met een makelaar te werken.",
+      },
+      {
+        heading: "Wat een pand in Antwerpen vandaag waard is",
+        body: "De mediaanprijs van een woonhuis lag in het eerste kwartaal van 2026 rond 370.000 euro in de meeste Antwerpse districten en iets hoger in het district Antwerpen zelf (bron: huisprijzen.be). Achter dat cijfer zit een enorme spreiding. Een instapklaar rijhuis in Oud-Berchem of Zurenborg zit er ver boven; een renovatiepand in Deurne-Noord of Antwerpen-Noord er ver onder. Het bouwjaar voorspelt de renovatiekost: bijna de helft van de woningen in Borgerhout en Berchem dateert van vóór 1946, in Deurne, Merksem en Wilrijk domineert de periode 1946–1970.\n\nDaar komen Antwerpse regels bij die de waarde bepalen: de bouwcode beschermt eengezinswoningen tegen opdeling tenzij één woning van minstens 100 vierkante meter met 15 vierkante meter buitenruimte behouden blijft, het beschermd stadsgezicht in Zurenborg beperkt wat u aan gevel en dak mag doen, de luchthavenzone in Deurne-Zuid beperkt bijgebouwen, en een woning die twaalf maanden leegstaat, kan op het stedelijke leegstandsregister komen met een jaarlijks stijgende heffing. Ons bod houdt met dat alles rekening en benoemt het.",
+      },
+      {
+        heading: "Drie Antwerpse dossiers",
+        body: "Rijhuis van 140 vierkante meter in Oud-Borgerhout, erfenis met drie erfgenamen, zware renovatie nodig en niet-conforme elektriciteit. Alle erfgenamen akkoord na het eerste gesprek; akte binnen 18 dagen.\n\nTweeslaapkamerappartement in Deurne, scheiding, instapklaar. Beide partijen wilden een snelle en neutrale afhandeling; één bod, elk een eigen notaris; akte binnen 12 dagen.\n\nOpbrengstpand met twee verhuurde appartementen in Berchem-Centrum, eigenaar ging met pensioen. Huurrelaties overgenomen, eigenaar ontving de netto verkoopprijs na aflossing van de resterende lening; akte binnen 22 dagen.",
+      },
+    ],
+    fiscalNote:
+      "Verkoopt u uw eigen gezinswoning, dan is de meerwaarde in de regel vrijgesteld van belasting. Bij een tweede woning of een investeringspand dat u minder dan vijf jaar bezit, kan er meerwaardebelasting verschuldigd zijn; verkoopt u binnen twee jaar na uw aankoop, dan krijgt u in Vlaanderen drie vijfden van het betaalde verkooprecht terug. Die regels gelden bij een verkoop aan een opkoper precies zoals bij een klassieke verkoop. Laat uw dossier vóór de ondertekening nakijken door uw notaris.",
+    relatedPropertyTypes: [
+      "rijhuis-verkopen-antwerpen",
+      "appartement-verkopen-antwerpen",
+      "opbrengsteigendom-verkopen-antwerpen",
+      "herenhuis-verkopen-antwerpen",
+      "vastgoedopkoper-antwerpen",
+      "huis-snel-verkopen",
+      "verkopen-zonder-makelaar",
+    ],
+    relatedArticles: [
+      "huis-verkopen-antwerpen-gids",
+      "wat-is-mijn-woning-waard-antwerpen",
+      "huisopkoper-antwerpen-waar-op-letten",
+      "opkoper-of-makelaar-verschil",
+      "verkoop-kosten-berekenen",
+      "keuringen-bij-verkoop-woning",
+    ],
+    faqs: [
+      {
+        question: "In welke delen van Antwerpen kopen jullie?",
+        answer:
+          "In alle negen districten van de stad: Antwerpen (centrum, Zuid, Noord, Kiel, Luchtbal, Linkeroever, Berendrecht-Zandvliet-Lillo), Deurne, Borgerhout, Berchem, Hoboken, Merksem, Wilrijk, Ekeren en Borsbeek. Ligt uw pand in de directe rand, zoals Mortsel, Edegem, Kontich, Wommelgem, Schilde of Brasschaat, dan bekijken wij uw aanvraag eveneens.",
+      },
+      {
+        question: "Hoe snel heb ik een bod op mijn huis in Antwerpen?",
+        answer:
+          "Binnen 2 uur na uw aanvraag nemen wij contact op, binnen 48 uur bezoeken wij het pand en dezelfde dag ontvangt u een schriftelijk bod met de berekening erbij. Voor grotere panden of dossiers met meerdere eigenaars kan het bod een dag langer duren; dat zeggen wij u bij het bezoek.",
+      },
+      {
+        question: "Betaalt een opkoper minder dan een makelaar oplevert?",
+        answer:
+          "Meestal wel bruto, niet altijd netto. Een opkoper betaalt niet de topprijs die een particuliere koper op een goede dag neerlegt, maar u betaalt geen commissie, geen keuringen, geen herstellingen en geen maanden dubbele lasten, en u loopt geen risico op een koper die afhaakt. Bij een instapklaar pand in een gewilde straat wint de klassieke markt; bij een renovatiepand, een verhuurd pand of een dossier met haast ligt het verschil klein. Reken beide scenario's netto door.",
+      },
+      {
+        question: "Moet ik keuringen laten uitvoeren voor ik verkoop?",
+        answer:
+          "Neen. EPC, elektriciteitskeuring en asbestattest bestellen en betalen wij zelf na de aankoop; die kost trekken wij niet van het bod af. Bij een appartement vragen wij ook de VME-informatie zelf op bij de syndicus. Heeft u al attesten, dan geeft u ze mee; heeft u er geen, dan hoeft u er geen te laten opmaken.",
+      },
+      {
+        question: "Kan ik na de verkoop in de woning blijven wonen?",
+        answer:
+          "Ja. U verkoopt en tekent gelijktijdig een huurovereenkomst voor de duur die u kiest. U beschikt meteen over het kapitaal en verhuist wanneer het u past. Ook een verkoop op lijfrente, met een maandelijkse uitkering, is mogelijk.",
+      },
+      {
+        question: "Wat als één van de mede-eigenaars niet wil verkopen?",
+        answer:
+          "Dan kunnen wij niet kopen: voor de verkoop van het geheel is de handtekening van elke mede-eigenaar nodig. Wij doen wel één schriftelijk bod dat alle mede-eigenaars tegelijk ontvangen, met de berekening erbij, zodat er een concreet cijfer op tafel ligt. Blijft één partij weigeren, dan is de uitonverdeeldheidtreding via de rechtbank de wettelijke weg; ons bod kan daar als realistisch referentiecijfer dienen.",
       },
     ],
   },

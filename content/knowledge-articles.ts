@@ -11523,6 +11523,369 @@ export const articles: Article[] = [
       },
     ],
   },
+  {
+    slug: "verhuurd-pand-verkopen-antwerpen",
+    title: "Verhuurd pand verkopen in Antwerpen in 2026: uw huurders, de Vlaamse huurregels en wat uw pand nu waard is",
+    metaTitle: "Verhuurd pand verkopen in Antwerpen (2026): huurders en waarde",
+    metaDescription:
+      "Verhuurd appartement of opbrengstpand verkopen in Antwerpen? Wat de huurder behoudt, welke EPC- en indexatieregels wegen, en wat een investeerder of opkoper betaalt, per district.",
+    publishedAt: "2026-09-07",
+    updatedAt: "2026-09-07",
+    intro:
+      "Ja, u kunt een verhuurd pand in Antwerpen verkopen met de huurder erin: het huurcontract gaat over op de koper en de huurder blijft zitten. De vraag is niet óf het kan, maar wat het opbrengt en aan wie. In Borgerhout woont 44 procent van de inwoners in een huurwoning, in Berchem 41 procent, en bijna de helft van het patrimonium in die districten dateert van vóór 1946. Precies die oude huurpanden botsen sinds 2023 op strengere Vlaamse regels rond EPC en indexatie, en vanaf 2030 op een minimumlabel om nog te mogen verhuren. Dit artikel legt uit wat de huurder behoudt, wat u als verhuurder in Antwerpen nog moet doen, hoe een investeerder en een opkoper rekenen, en wanneer u beter eerst in orde brengt en wanneer u beter nu verkoopt.",
+    sections: [
+      {
+        heading: "Verhuurd Antwerpen in cijfers: waar de huurpanden staan",
+        body: "De Antwerpse huurmarkt is niet gelijk verdeeld. In de vooroorlogse districten huurt bijna de helft van de bewoners; in de naoorlogse en suburbane districten is twee derde eigenaar. De tabel geeft per district het aandeel huurders, het aandeel woningen in meergezinsgebouwen en het aandeel woningen van vóór 1946 (AlleCijfers op basis van Statbel, referentiejaar 2024). Het bouwjaar is de sleutel: hoe ouder het pand, hoe groter de kans op enkel glas, een niet-conforme elektrische installatie, asbest en een EPC-label E of F, en dus hoe zwaarder de regels hieronder wegen.\n\nVoor Antwerpen-Noord (postcode 2060) bestaan geen aparte districtscijfers, maar de wijken Seefhoek, Stuivenberg en Dam hebben het hoogste aandeel huurders en opgedeelde panden van de stad.",
+        table: {
+          headers: ["District", "Huurders", "In meergezinsgebouw", "Gebouwd vóór 1946"],
+          rows: [
+            ["Borgerhout", "44%", "78%", "46%"],
+            ["Berchem", "41%", "75%", "45%"],
+            ["Deurne", "40%", "75%", "30%"],
+            ["Wilrijk", "36%", "64%", "25%"],
+            ["Merksem", "33%", "65%", "21%"],
+            ["Hoboken", "31%", "55%", "33%"],
+            ["Ekeren", "26–31%", "40%", "22%"],
+          ],
+        },
+      },
+      {
+        heading: "Wat de huurder behoudt als u verkoopt",
+        body: "Een lopend huurcontract gaat bij de verkoop van rechtswege over op de koper. De huurder behoudt zijn huurprijs, zijn looptijd en zijn rechten; de koper treedt in uw plaats als verhuurder. U hoeft de toestemming van de huurder niet te vragen, en u mag hem niet vragen te vertrekken omdat u wilt verkopen.\n\nDrie zaken bepalen hoeveel bewegingsruimte de koper heeft:\n\n• **Is het contract geregistreerd?** Een geregistreerd huurcontract bindt de koper volledig, met alle opzegregels van het Vlaams Woninghuurdecreet. Bij een niet-geregistreerd contract heeft de koper een ruimere opzegmogelijkheid kort na de akte. Registreer dus, of vermeld eerlijk dat het niet gebeurde: de koper prijst het verschil in.\n• **Welk type contract?** Een negenjarig contract, een kortlopend contract van maximaal drie jaar of een studentencontract geven elk andere opzegtermijnen en -gronden voor de nieuwe eigenaar.\n• **Voorkooprecht.** Anders dan in Brussel kent Vlaanderen geen algemeen wettelijk voorkooprecht voor de huurder van een gewone woning. Alleen als het huurcontract er een toekent of in bijzondere gevallen speelt het. Controleer uw contract.\n\nWat u wel moet doen: de huurder na de akte schriftelijk informeren over de nieuwe eigenaar en de nieuwe betaalgegevens, en de huurwaarborg correct overdragen. De achterstallige huur van vóór de akte blijft uw vordering; die gaat niet automatisch mee.",
+      },
+      {
+        heading: "De Vlaamse huurregels die in 2026 op uw pand wegen",
+        body: "Dit zijn de regels waar een koper van een verhuurd pand in Antwerpen als eerste naar kijkt. Ze zijn Vlaams, maar ze raken de Antwerpse districten met oud patrimonium het hardst.\n\n• **EPC verplicht bij verhuur.** Zonder geldig EPC mag u niet (opnieuw) verhuren of adverteren; het label moet in elke publicatie staan.\n• **Indexatie beperkt voor labels D, E en F.** Sinds 1 oktober 2023 mag de huurprijs van woningen met label D, E of F niet of slechts beperkt geïndexeerd worden. Voor een verhuurder met een oud pand betekent dat een huurinkomen dat achterblijft op de kosten.\n• **Aangekondigd: geen indexatie meer voor E en F vanaf 2028, en minimumlabel D om te verhuren vanaf 2030.** De Vlaamse regering kondigde een minimale energienorm voor huurwoningen aan; de definitieve teksten en overgangsregels controleert u best op vlaanderen.be vóór u beslist. Voor een pand met label F in Borgerhout of Antwerpen-Noord betekent dit: renoveren, of verkopen aan iemand die renoveert.\n• **Woningkwaliteitsnormen.** Dakisolatie en dubbele beglazing zijn normen bij een woningcontrole; enkel glas in leefruimtes telt als gebrek. Rookmelders zijn verplicht in elke huurwoning.\n\nEn dan het Antwerpse luik: de stad Antwerpen verplicht **geen conformiteitsattest** bij verhuur, behalve wanneer een woning ongeschikt of onbewoonbaar is verklaard of bij een OCMW-huurwaarborg. Vrijwillig aanvragen is gratis als de woning bij de eerste controle in orde is; elke volgende controle kost 210 euro voor een zelfstandige woning en 155 euro voor een kamer, en de burgemeester beslist binnen 60 dagen. Een geldig attest is voor een koper een geruststelling en voor u een verkoopargument; een ongeschiktverklaring is het omgekeerde en moet u melden.",
+      },
+      {
+        heading: "Wat een investeerder betaalt, en wat een opkoper betaalt",
+        body: "Een verhuurd pand wordt op twee manieren gewaardeerd. Een particuliere koper die er zelf wil wonen, valt af: hij kan de huurder niet zomaar buitenzetten en de bank rekent met een bewoond pand. Blijven over: de investeerder en de opkoper.\n\n**De investeerder** rekent met het rendement: de jaarlijkse huur gedeeld door de prijs. Bij een bruto rendement van 4 tot 5 procent op een Antwerps appartement bepaalt de huur dus de prijs. Een lage, niet-indexeerbare huur op een pand met label E drukt de prijs dubbel: lager inkomen én een renovatiekost die de investeerder na aankoop moet dragen om te mogen blijven verhuren. Daar komt bij dat een investeerder meestal een lening nodig heeft en dat de bank een bewoond pand met een laag label strenger beoordeelt.\n\n**De opkoper** rekent met de waarde na renovatie, min de kosten die hij draagt: renovatie tot minstens label D, keuringen en attesten per unit, aankoopkosten, de aanhoudkost tijdens de werken en een marge voor het risico, inclusief het risico van een huurder die pas na de wettelijke opzegtermijn vertrekt. Het bod ligt daardoor onder de theoretische topprijs, maar de opkoper koopt zonder financieringsvoorbehoud, organiseert geen bezichtigingen in bewoonde units en neemt de huurrelatie en de renovatieplicht over.\n\nEen voorbeeld, afgerond, voor een opgedeeld rijhuis in Borgerhout met twee verhuurde units en label F: waarde na renovatie 420.000 euro; renovatie tot label D en conformering van beide units 130.000 euro; keuringen, aankoopkosten en aanhoudkost 45.000 euro; marge en risico 40.000 euro; bod ongeveer 205.000 euro. Een investeerder die de huidige huur van 1.500 euro per maand kapitaliseert aan 4,5 procent komt op 400.000 euro bruto, maar trekt daar dezelfde renovatie en zijn financieringskost van af en komt in de praktijk niet veel hoger uit. Wat het verschil maakt, is zekerheid en tijd.",
+      },
+      {
+        heading: "Drie Antwerpse dossiers met huurders erin",
+        body: "**Borgerhout, opbrengstpand met twee appartementen, beide verhuurd.** De eigenaar wilde desinvesteren zonder de huurders te storen. Eén bezoek, huurrelaties overgenomen, eigenaar ontving de verkoopprijs netto zonder makelaarskosten. Akte binnen 24 dagen.\n\n**Berchem-Centrum, opbrengstpand met twee bewoonde units, eigenaar ging met pensioen.** Beide huurcontracten overgenomen, resterende lening afgelost bij de akte, saldo naar de eigenaar. Akte binnen 22 dagen.\n\n**Deurne-Centrum, verhuurd tweeslaapkamerappartement van een investeerder.** Huurcontract overgenomen, investeerder ontving het nettobedrag na aflossing van het resterende leningssaldo. Akte binnen 17 dagen.\n\nIn geen van de drie dossiers werd de huurder gevraagd te vertrekken, werd een bezichtiging met kandidaat-kopers georganiseerd of werd een keuring door de verkoper besteld.",
+      },
+      {
+        heading: "Eerst in orde brengen of nu verkopen: de rekensom",
+        body: "Wie een oud verhuurd pand in Antwerpen bezit, heeft drie opties. Reken ze netto door, over een horizon van vijf jaar.\n\n1. **Renoveren en blijven verhuren.** Kost: isolatie, glas, elektriciteit, eventueel dak, per unit. Voor een vooroorlogs rijhuis met twee units loopt dat snel op tot 60.000 à 130.000 euro. Opbrengst: een indexeerbare huur, een verkoopbaar pand en geen deadline in 2030. Risico: werken in bewoonde units, huurders die tijdelijk elders moeten, en een investering die u pas bij verkoop terugziet.\n2. **Niets doen en verhuren tot 2030.** Kost: geen investering, maar een huur die niet indexeert en een pand dat elk jaar minder waard wordt voor kopers die de renovatie steeds duurder zien worden. Risico: een ongeschiktverklaring na een klacht, met een verplicht conformiteitsattest en herstellingen als gevolg.\n3. **Nu verkopen met de huurder erin.** Kost: een bod onder de theoretische topprijs. Opbrengst: geen commissie, geen keuringen, geen werken, geen bezichtigingen, geen 2030. Zekerheid over het bedrag binnen 48 uur.\n\nDe eerste optie wint als u jong bent, de werken zelf kunt opvolgen en de huurders meewerken. De derde wint als het pand een erfenis is, u meerdere panden hebt of de renovatie u boven het hoofd groeit. De tweede wint zelden.",
+      },
+      {
+        heading: "Zo werkt het bij wijkopenpanden.be",
+        body: "U bezorgt ons het adres, het aantal units en wat u weet over de huurcontracten. Binnen 2 uur nemen wij contact op, binnen 48 uur bezoeken wij het pand, met respect voor de huurders en op een moment dat hen past, en dezelfde dag ontvangt u een schriftelijk bod met de berekening erbij: waarde na renovatie, renovatie- en conformeringskost per unit, keuringen, aankoopkosten en marge, elk benoemd.\n\nWat wij overnemen: de huurcontracten, de huurwaarborgen, de communicatie met de huurders na de akte, alle keuringen en attesten, en de renovatieplicht. Wat wij niet doen: de huurders vóór de akte benaderen, of het bod na het bezoek verlagen tenzij er ernstige gebreken opduiken die wij redelijkerwijs niet konden zien.\n\nWij kopen verhuurde panden in alle negen districten van Antwerpen en in de directe rand. U bereikt ons op 0492 77 94 75 of via het formulier onderaan.",
+      },
+    ],
+    relatedArticles: [
+      "huurder-rechten-bij-verkoop-woning",
+      "verhuurd-pand-verkopen-conformiteitsattest-woningkwaliteit",
+      "opbrengsteigendom-verkopen",
+      "energie-renovatieplicht-vlaanderen-2026",
+      "ontbrekend-busnummer-onvergund-appartement-antwerpen",
+      "verhuren-of-verkopen-antwerpen",
+      "meerwaardebelasting-tweede-verblijf-belgie",
+    ],
+    relatedSituations: [
+      "pand-met-huurders-verkopen",
+      "opbrengsteigendom-verkopen-antwerpen",
+      "appartement-verkopen-antwerpen",
+      "huis-verkopen-antwerpen",
+      "vastgoedopkoper-antwerpen",
+    ],
+    faqs: [
+      {
+        question: "Moet ik mijn huurder informeren dat ik het pand verkoop?",
+        answer: "U hoeft geen toestemming te vragen, maar een goede verstandhouding helpt: de huurder moet het bezoek toelaten en blijft na de verkoop in het pand wonen onder dezelfde voorwaarden. Na de akte moet de huurder schriftelijk op de hoogte worden gebracht van de nieuwe eigenaar en de nieuwe betaalgegevens; bij wijkopenpanden.be doen wij dat zelf.",
+      },
+      {
+        question: "Kan de koper mijn huurder na de verkoop opzeggen?",
+        answer: "Alleen binnen de regels van het Vlaams Woninghuurdecreet en van het contract zelf. Bij een geregistreerd negenjarig contract gelden dezelfde opzegtermijnen en -gronden als voor u: eigen gebruik, renovatiewerken of een opzeg zonder motief met vergoeding, telkens met de wettelijke termijn. Bij een niet-geregistreerd contract heeft de koper kort na de akte een ruimere opzegmogelijkheid. Wat de nieuwe eigenaar nadien doet, is zijn verantwoordelijkheid, niet de uwe.",
+      },
+      {
+        question: "Heb ik in Antwerpen een conformiteitsattest nodig om een verhuurd pand te verkopen?",
+        answer: "Neen. De stad Antwerpen verplicht een conformiteitsattest enkel na een ongeschikt- of onbewoonbaarverklaring of bij een OCMW-huurwaarborg; bij een verkoop is het nooit verplicht. Vrijwillig aanvragen kan en is gratis als de woning bij de eerste controle in orde is. Verkoopt u aan ons, dan vragen wij geen attest van u.",
+      },
+      {
+        question: "Wat met de huurwaarborg bij de verkoop?",
+        answer: "De waarborg blijft van de huurder en volgt het contract. Staat hij op een geblokkeerde rekening, dan wordt die bij de akte overgedragen naar de nieuwe verhuurder; staat hij bij een bank of via een waarborgverzekering, dan wordt de begunstigde aangepast. De notaris vermeldt de waarborg in de akte. Betaalde de huurder de waarborg ooit cash aan u, meld dat dan: de koper zal het bedrag bij de akte verrekenen.",
+      },
+      {
+        question: "Betaal ik meerwaardebelasting als ik mijn verhuurd appartement verkoop?",
+        answer: "Mogelijk, als u het pand minder dan vijf jaar geleden kocht: dan is de meerwaarde belastbaar tegen 16,5 procent, na aftrek van kosten en een forfaitaire verhoging. Bezit u het langer dan vijf jaar of erfde u het, dan is er in de regel geen meerwaardebelasting. Dat geldt bij een verkoop aan een opkoper precies zoals bij elke andere verkoop; laat het vóór het compromis nakijken door uw notaris.",
+      },
+      {
+        question: "Hoe snel kan een verhuurd pand in Antwerpen verkocht zijn?",
+        answer: "Bij wijkopenpanden.be: contact binnen 2 uur, bezoek binnen 48 uur, schriftelijk bod dezelfde dag. Na uw akkoord volgt het compromis en plant de notaris de akte; doorgaans binnen 2 tot 3 maanden, in onze Antwerpse dossiers met huurders ging het in 17 tot 24 dagen. De huurder hoeft niets te doen.",
+      },
+    ],
+  },
+  {
+    slug: "geerfd-huis-verkopen-antwerpen",
+    title: "Geërfd huis verkopen in Antwerpen: stappenplan, erfbelasting en wat het ouderlijk huis in Deurne, Merksem of Wilrijk vandaag opbrengt",
+    metaTitle: "Geërfd huis verkopen in Antwerpen: stappenplan en waarde (2026)",
+    metaDescription:
+      "Een woning erven in Antwerpen: wat u de eerste weken doet, de aangifte en de erfbelasting, de leegstandsheffing van de stad en wat een naoorlogs rijhuis per district opbrengt.",
+    publishedAt: "2026-09-07",
+    updatedAt: "2026-09-07",
+    intro:
+      "Een geërfd huis in Antwerpen verkopen begint niet bij de makelaar of de opkoper, maar bij de notaris: eerst de aanvaarding en de aangifte van de nalatenschap, dan pas de verkoop. Wie die volgorde omkeert of te lang wacht, betaalt daarvoor, in erfbelasting, in leegstandsheffing of in een verkoop die maanden blijft hangen. Antwerpen heeft daarbij een eigen profiel. Het typische erfenishuis is een naoorlogse gezinswoning in Deurne, Merksem of Wilrijk: 40 tot 43 procent van de woningen daar dateert uit 1946–1970, en Wilrijk heeft met ongeveer 18,5 procent het hoogste aandeel 65-plussers van alle districten. Degelijk gebouwd, energetisch verouderd, en vaak met drie of vier erfgenamen van wie er minstens één buiten de stad woont. Dit artikel geeft het stappenplan, de fiscale termijnen, de Antwerpse valkuilen en de rekensom renoveren, verhuren of verkopen.",
+    sections: [
+      {
+        heading: "De eerste zes weken: wat u wel en niet doet met het huis",
+        body: "Tussen het overlijden en de aangifte van nalatenschap zijn de erfgenamen samen eigenaar in onverdeeldheid, ook al is er nog niets geregeld. Wat u in die weken doet:\n\n• **Beveilig en verzeker.** Meld het overlijden aan de brandverzekeraar en laat de polis doorlopen; een leegstaande woning is een risico. Laat geen waardevolle inboedel achter, maar haal ook niets weg dat later in de boedelbeschrijving moet staan.\n• **Nutsvoorzieningen.** Zet de contracten op naam van de nalatenschap of van één erfgenaam, zet de verwarming op vorstvrij en laat water en elektriciteit aan zolang het huis bezocht wordt.\n• **Zoek het EPC en de attesten.** Een bestaand EPC, een elektriciteitskeuring of een stookolietankattest bespaart later tijd, maar u hoeft niets nieuws te laten opmaken om aan een opkoper te verkopen.\n• **Beslis over aanvaarding.** Zijn er mogelijk schulden, dan aanvaardt u onder voorrecht van boedelbeschrijving. Wie het huis al verkoopt of de inboedel leeghaalt, kan als zuiver aanvaardend worden beschouwd, met alle schulden erbij.\n\nWat u niet doet: alleen tekenen. Voor elke handeling over het huis, van een makelaarsopdracht tot een bod aanvaarden, is het akkoord van alle erfgenamen nodig. Wie ver weg woont, geeft een volmacht.",
+      },
+      {
+        heading: "Aangifte binnen vier maanden, erfbelasting binnen twee maanden na de aanslag",
+        body: "De aangifte van nalatenschap moet in Vlaanderen binnen **vier maanden** na het overlijden bij de Vlaamse Belastingdienst zijn, als het overlijden in België plaatsvond. Daarin geeft u de waarde van de woning aan. Die waarde is de basis voor de erfbelasting én het referentiepunt voor de latere verkoop: verkoopt u kort daarna voor duidelijk meer, dan kan de Vlaamse Belastingdienst bijkomende erfbelasting heffen op het verschil; verkoopt u voor minder, dan hebt u te veel betaald. Een realistische waarde, onderbouwd door een schatting of een schriftelijk bod, is dus geld waard.\n\nDe erfbelasting in rechte lijn en tussen partners bedraagt in Vlaanderen 3 procent tot 50.000 euro, 9 procent tussen 50.000 en 250.000 euro en 27 procent daarboven, per erfgenaam en apart voor roerend en onroerend vermogen. De langstlevende partner betaalt geen erfbelasting op zijn deel van de gezinswoning. U betaalt binnen twee maanden na het aanslagbiljet; wie het geld pas na de verkoop van het huis heeft, vraagt uitstel of een afbetalingsplan, maar betaalt daar interest op.\n\nTwee valkuilen: een laattijdige aangifte kost een belastingverhoging, en een te lage waarde in de aangifte om erfbelasting te sparen keert zich tegen u zodra u verkoopt. De artikels over erfbelasting, de betaaltermijn en het verschil tussen aangiftewaarde en verkoopprijs gaan daar dieper op in.",
+      },
+      {
+        heading: "Het Antwerpse erfenishuis per district",
+        body: "De woning die in Antwerpen vererft, is meestal geen vooroorlogs rijhuis maar het naoorlogse gezinshuis van de generatie die in de jaren 1950 en 1960 bouwde. De tabel geeft per district het aandeel woningen uit 1946–1970, het aandeel 65-plussers en het typische pand (AlleCijfers op basis van Statbel, referentiejaar 2024). Die cijfers verklaren waarom erfenisdossiers zich concentreren in Deurne, Merksem, Wilrijk, Hoboken en Ekeren, en waarom ze bijna altijd hetzelfde profiel hebben: enkel glas, geen dakisolatie, elektriciteit van vóór 1981, een stookolietank en een EPC-label E of F.\n\nDat label is in 2026 geen detail. Wie een woning met label E of F koopt, valt onder de Vlaamse renovatieplicht en moet binnen de wettelijke termijn naar een beter label. Kopers met een lening rekenen die kost af van hun bod, en de bank ook. Dat is de reden waarom een geërfde naoorlogse woning op de klassieke markt trager verkoopt dan de erfgenamen verwachten.",
+        table: {
+          headers: ["District", "Gebouwd 1946–1970", "65-plussers", "Typisch erfenishuis"],
+          rows: [
+            ["Deurne", "43%", "17%", "Rijhuis of halfopen woning, Deurne-Zuid of rond het Boekenbergpark"],
+            ["Merksem", "41%", "10%", "Rijhuis of halfopen gezinswoning achter de Bredabaan"],
+            ["Wilrijk", "40%", "18,5%", "Bel-etage uit de jaren 1960, Valaar of Elsdonk"],
+            ["Ekeren", "33%", "14%", "Vrijstaande woning op ruim perceel, Donk of Mariaburg"],
+            ["Borgerhout", "32%", "12%", "Vooroorlogs rijhuis, vaak opgedeeld"],
+            ["Berchem", "29%", "14%", "Burgerwoning in Oud-Berchem of appartement"],
+            ["Hoboken", "27%", "n.b.", "Rijhuis in het centrum of woning richting Polderstad"],
+          ],
+        },
+      },
+      {
+        heading: "Leegstand kost geld in Antwerpen: het register en de heffing",
+        body: "Een woning die twaalf opeenvolgende maanden niet als woning wordt gebruikt, kan door de stad Antwerpen op het leegstandsregister worden gezet. Vanaf dan loopt een jaarlijkse leegstandsheffing die elk jaar dat het pand op het register blijft, stijgt. Erfgenamen die een jaar lang niet beslissen, verliezen dus niet alleen tijd: zij betalen ervoor, bovenop de onroerende voorheffing, de verzekering en het onderhoud.\n\nDrie manieren om dat te vermijden: verkopen vóór de twaalf maanden om zijn, verhuren (met alle EPC- en kwaliteitsregels van dien), of een vrijstelling aanvragen, bijvoorbeeld tijdens een renovatie met vergunning. Staat het pand al op het register, dan verhindert dat de verkoop niet; de heffing voor het lopende jaar blijft wel voor de eigenaar op het moment van de aanslag. Meld het dossier aan de koper, dan wordt het correct verrekend. De bedragen en de vrijstellingen leest u in het artikel over de leegstandsheffing in de Antwerpse regio.",
+      },
+      {
+        heading: "Drie erfgenamen, één in het buitenland: hoe de verkoop praktisch verloopt",
+        body: "Elke erfgenaam moet instemmen met de verkoop en tekenen bij de akte. Dat hoeft niet fysiek: een **notariële volmacht**, opgemaakt bij een notaris in het woonland en voorzien van een apostille of legalisatie, volstaat, en met een geldige Belgische eID kan een digitale volmacht via de notaris. Elke erfgenaam mag zijn eigen notaris kiezen; de notarissen verdelen dan de opbrengst volgens de erfdelen bij de akte, na aflossing van een eventuele hypotheek en verrekening van wie welke kosten voorschoot.\n\nWat een verkoop aan een opkoper in dit scenario eenvoudiger maakt: één schriftelijk bod dat alle erfgenamen tegelijk ontvangen, met de berekening erbij, zodat er geen discussie is over wie welk cijfer kreeg; geen bezichtigingen die iemand ter plaatse moet begeleiden; geen keuringen die iemand moet bestellen; ontruiming inbegrepen; en geen financieringsvoorbehoud, dus geen koper die afhaakt terwijl de erfgenamen al akkoord waren.\n\nWeigert één erfgenaam, of reageert hij niet, dan lost een opkoper dat niet op. De weg is dan de uitonverdeeldheidtreding via de rechtbank, of bij een onvindbare erfgenaam de aanstelling van een curator. Ons bod kan daar als realistisch referentiecijfer dienen. Lees daarover de artikels over een mede-eigenaar die niet wil verkopen en over een onvindbare mede-erfgenaam.",
+      },
+      {
+        heading: "Renoveren, verhuren of verkopen: de rekensom voor een woning met label E of F",
+        body: "Neem een halfopen woning in Deurne uit 1962, 160 vierkante meter, label F, stookolietank in de tuin, drie erfgenamen. Afgeronde cijfers, ter illustratie.\n\n• **Renoveren en verkopen.** Dak, isolatie, ramen, elektriciteit, verwarming en tanksanering: 80.000 tot 120.000 euro, één tot anderhalf jaar werk dat één van de erfgenamen moet opvolgen, en in die tijd leegstand, verzekering en voorheffing. Daarna een instapklaar huis dat op de klassieke markt zijn prijs haalt, min commissie. Wint als één erfgenaam tijd en vakkennis heeft en de anderen hem vertrouwen.\n• **Verhuren.** Met label F kan dat nog, maar zonder indexatie en met een aangekondigde einddatum in 2030. De huur dekt de kosten, niet veel meer, en de erfgenamen blijven jarenlang samen eigenaar van een pand dat ondertussen niet beter wordt. Wint zelden bij drie of meer erfgenamen.\n• **Nu verkopen in de huidige staat.** Een opkoper rekent de renovatie, de tanksanering en de attesten in en doet een bod onder de theoretische topprijs, maar zonder commissie, zonder werken, zonder wachttijd en zonder afspringrisico. Wint als de erfgenamen verspreid wonen, de erfbelasting moet worden betaald of niemand de renovatie wil dragen.\n\nDe eerlijke conclusie: een instapklaar huis in een gewilde straat verkoopt u beter klassiek. Een verouderd huis met meerdere erfgenamen is het typische dossier waarin het verschil tussen beide wegen netto klein is en de zekerheid doorweegt.",
+      },
+      {
+        heading: "Drie Antwerpse erfenisdossiers",
+        body: "**Deurne-Noord, rijhuis van 120 vierkante meter, eigenaar in woonzorgcentrum.** Niet-conforme elektriciteit, vochtige kelder, keuken uit de jaren 1970. De kinderen beheerden de verkoop. Akte binnen 21 dagen, leegruiming door ons geregeld.\n\n**Deurne-Centrum, halfopen woning van 175 vierkante meter met tuin, twee erfgenamen, leeg na overlijden.** Goed onderhouden maar verouderd schrijnwerk. Beide erfgenamen tekenden bij hun eigen notaris; opbrengst verdeeld na de akte. Akte binnen 28 dagen.\n\n**Oud-Borgerhout, rijhuis van 140 vierkante meter, drie erfgenamen, woning leeg.** Zware renovatie nodig, niet-conforme elektriciteit. Alle drie akkoord na het eerste gesprek. Akte binnen 18 dagen.\n\n**Berchem-Stationsbuurt, tweeslaapkamerappartement, twee erfgenamen in het buitenland, discussie over de waarde.** Wij regelden het contact met de Belgische notaris; akte via volmacht binnen 25 dagen.",
+      },
+      {
+        heading: "Zo werkt het bij wijkopenpanden.be",
+        body: "U bezorgt ons het adres, de staat van de woning en het aantal erfgenamen. Binnen 2 uur nemen wij contact op, binnen 48 uur bezoeken wij de woning, met de inboedel erin, en dezelfde dag ontvangen alle erfgenamen tegelijk hetzelfde schriftelijke bod met de berekening. Het bod kunt u ook gebruiken als onderbouwing van de waarde in de aangifte van nalatenschap.\n\nWij kopen in de huidige staat, inboedel inbegrepen, regelen ontruiming, keuringen en attesten, en plannen de akte wanneer de aangifte en de volmachten rond zijn, doorgaans binnen 2 tot 3 maanden en sneller als het dossier eenvoudig is. Elke erfgenaam kiest zijn eigen notaris. Geen meerwaardebelasting bij de verkoop van een geërfde woning, wel de erfbelasting die u sowieso verschuldigd bent; laat dat door uw notaris bevestigen.\n\nWij kopen geërfde woningen in alle negen districten van Antwerpen en in de directe rand. U bereikt ons op 0492 77 94 75 of via het formulier onderaan.",
+      },
+    ],
+    relatedArticles: [
+      "erfenis-woning-stappenplan",
+      "erfbelasting-vlaanderen-2026",
+      "hoelang-tijd-erfbelasting-betalen",
+      "aangifte-nalatenschap-waarde-en-latere-verkoopprijs",
+      "leegstandsheffing-antwerpen-2026",
+      "mede-erfgenaam-onvindbaar-of-onbereikbaar-woning-verkopen",
+      "mede-eigenaar-wil-niet-verkopen-uit-onverdeeldheid",
+      "erfenis-met-schulden-woning-verkopen",
+      "stookolietank-woning-verkopen",
+      "woning-verkopen-vanuit-buitenland",
+    ],
+    relatedSituations: [
+      "huis-verkopen-bij-erfenis",
+      "opknappand-verkopen",
+      "huis-verkopen-antwerpen",
+      "rijhuis-verkopen-antwerpen",
+      "vastgoedopkoper-antwerpen",
+    ],
+    faqs: [
+      {
+        question: "Mogen wij het geërfde huis in Antwerpen al verkopen vóór de aangifte van nalatenschap?",
+        answer: "Een compromis tekenen kan in principe zodra alle erfgenamen de nalatenschap hebben aanvaard en het eens zijn, maar de notaris zal de akte pas verlijden wanneer de aangifte is ingediend en de erfopvolging vaststaat, meestal via een attest of akte van erfopvolging. Praktisch: vraag eerst een schriftelijk bod, gebruik dat als onderbouwing van de waarde in de aangifte en plan de akte daarna. Zo vermijdt u een verkoopprijs die sterk afwijkt van de aangegeven waarde.",
+      },
+      {
+        question: "Betalen wij meerwaardebelasting als wij het geërfde huis snel verkopen?",
+        answer: "Neen. De belasting op de meerwaarde bij verkoop binnen vijf jaar geldt niet voor onroerend goed dat u door erfenis verkreeg. Wat wel speelt: verkoopt u kort na de aangifte voor duidelijk meer dan de aangegeven waarde, dan kan de Vlaamse Belastingdienst bijkomende erfbelasting heffen op het verschil. Laat beide punten door uw notaris bevestigen.",
+      },
+      {
+        question: "Het huis staat al bijna een jaar leeg. Wat als het op het Antwerpse leegstandsregister komt?",
+        answer: "Na twaalf opeenvolgende maanden zonder gebruik als woning kan de stad het pand registreren; daarna loopt een jaarlijks stijgende heffing. Verkopen blijft mogelijk, maar de heffing die al verschuldigd is, blijft voor de eigenaar op het moment van de aanslag. Verkoopt u vóór de registratie, dan vermijdt u de heffing helemaal. Meld een lopend dossier aan de koper, dan wordt het correct verrekend.",
+      },
+      {
+        question: "Een van de erfgenamen woont in Spanje. Hoe tekent hij?",
+        answer: "Via een notariële volmacht, opgemaakt bij een notaris in Spanje en voorzien van een apostille, of via een digitale volmacht bij de Belgische notaris als hij een geldige Belgische eID heeft. Reken op enkele weken voor het buitenlandse circuit. Bij wijkopenpanden.be regelden wij zo een Berchems dossier met twee erfgenamen in het buitenland in 25 dagen.",
+      },
+      {
+        question: "Moeten wij het huis leegmaken en keuringen laten doen vóór de verkoop?",
+        answer: "Niet als u aan ons verkoopt. Wij kopen met de inboedel erin, regelen de ontruiming en bestellen EPC, elektriciteitskeuring, asbestattest en de keuring of sanering van de stookolietank zelf na de aankoop, zonder die kost van het bod af te trekken. Verkoopt u klassiek, dan moet het EPC en de elektriciteitskeuring er zijn vóór de publicatie en het compromis.",
+      },
+      {
+        question: "Wat brengt een naoorlogse woning met label F in Deurne of Merksem vandaag op?",
+        answer: "Dat hangt af van de straat, de oppervlakte en de precieze staat, maar de mediaanprijs van een woonhuis in de Antwerpse districten lag begin 2026 rond 370.000 euro voor een verkoopbaar huis, en een woning met label F en een stookolietank zit daar door de renovatiekost ruim onder. Wij bezoeken de woning binnen 48 uur en bezorgen u dezelfde dag een schriftelijk bod met de berekening, dat alle erfgenamen tegelijk ontvangen.",
+      },
+    ],
+  },
+  {
+    slug: "huisopkoper-antwerpen-waar-op-letten",
+    title: "Huisopkoper in Antwerpen: waar u op let, wat een bod echt inhoudt en zeven vragen die u elke opkoper moet stellen",
+    metaTitle: "Huisopkoper Antwerpen: waar op letten en 7 vragen (2026)",
+    metaDescription:
+      "Een huisopkoper kiezen in Antwerpen? Wat 'bod binnen 24 uur' en 'voorschot tot 25.000 euro' echt betekenen, hoe een correct bod voor een Antwerps pand wordt berekend en zeven controlevragen.",
+    publishedAt: "2026-09-07",
+    updatedAt: "2026-09-07",
+    intro:
+      "Wie 'huisopkoper Antwerpen' zoekt, vindt een handvol partijen met bijna dezelfde beloftes: bod binnen 24 uur, voorschot tot 25.000 euro, geen kosten, wij kopen elk huis. Die beloftes zijn niet fout, maar ze zeggen weinig over wat u uiteindelijk ontvangt en van wie. Een huisopkoper, ook vastgoedopkoper genoemd, koopt uw pand zelf, voor eigen rekening, en verdient met wat hij er daarna mee doet. Dat maakt hem een goede oplossing voor een pand dat op de klassieke markt blijft hangen, en een slechte voor een instapklaar huis in een gewilde straat. Dit artikel legt uit hoe een correct bod voor een Antwerps pand tot stand komt, wat de standaardbeloftes betekenen, welke rode vlaggen u niet negeert en welke zeven vragen u elke opkoper stelt, ook ons.",
+    sections: [
+      {
+        heading: "Wat een huisopkoper in Antwerpen doet, en wat niet",
+        body: "Een makelaar bemiddelt: hij zoekt een koper en rekent daarvoor een commissie op de verkoopprijs. Een huisopkoper koopt. Hij wordt eigenaar bij de akte, draagt vanaf dan alle risico's en verdient zijn geld met de renovatie, de verhuur of de doorverkoop. Voor u betekent dat één tegenpartij in plaats van een reeks kandidaten, geen commissie omdat er geen bemiddeling is, en een bod dat niet afhangt van een bank die een kandidaat moet goedkeuren.\n\nWat een opkoper niet doet: de topprijs betalen die een particuliere koper op een goede dag neerlegt. Hij moet zijn kosten en zijn marge ergens halen, en dat is uit het verschil tussen zijn bod en de waarde na renovatie. Wie dat op voorhand zegt, is eerlijk; wie het verzwijgt, niet.\n\nIn Antwerpen komt daar districtskennis bij. Een opkoper die van op afstand werkt, rekent met gemiddelden; een Antwerpse opkoper rekent met de straat: het vooroorlogse rijhuis in Borgerhout met zijn strokenfundering, de bel-etage in Wilrijk met zijn verouderde indeling, het appartement op de Linkeroever waarvan de VME de gevel moet renoveren, het herenhuis in Zurenborg onder beschermd stadsgezicht. Wie dat niet kent, biedt fout, naar boven of naar beneden, en corrigeert later.",
+      },
+      {
+        heading: "\"Bod binnen 24 uur\" en \"voorschot tot 25.000 euro\": wat het betekent",
+        body: "**Bod binnen 24 uur** is bijna altijd een bod op basis van foto's, kadastergegevens en een telefoongesprek, onder voorbehoud van bezoek. Het is een richtcijfer om u te binden, geen prijs. De echte prijs volgt na het bezoek, en dan is de vraag wat er tussen beide gebeurt. Vraag daarom niet hoe snel het eerste cijfer komt, maar hoeveel het cijfer na het bezoek nog kan veranderen en op welke gronden.\n\n**Voorschot tot 25.000 euro** is een voorschot op de prijs, betaald bij het compromis, geen extra. U krijgt bij de akte de prijs min het voorschot. Het is nuttig als u het geld nodig hebt vóór de akte, bijvoorbeeld voor een huurwaarborg of een verhuis. Het is geen garantie dat de koper de akte haalt: lees wat er gebeurt met het voorschot en met de verkoop als de koper afhaakt of de prijs wil herzien.\n\n**Geen kosten** klopt voor de commissie en, bij de meeste opkopers, voor de keuringen. Wat u als verkoper wel draagt, bij elke verkoop: de doorhaling van een bestaande hypotheek en de eventuele opzegvergoeding aan een makelaar met wie u nog een contract hebt.\n\n**Akte in vier tot zes weken** hangt niet af van de opkoper maar van de notaris: de wettelijke opzoekingen (bodemattest, stedenbouw, hypotheek, voorkooprechten) nemen doorgaans 2 tot 3 maanden. Sneller kan, als alle stukken er zijn. Wie u vier weken belooft, belooft iets wat hij niet in de hand heeft.",
+      },
+      {
+        heading: "Hoe een correct bod voor een Antwerps pand tot stand komt",
+        body: "Een correct bod vertrekt van de waarde die het pand na renovatie in uw straat realistisch opbrengt, en trekt daar de posten van af die de opkoper draagt. Elke post hoort benoemd te zijn.\n\n1. **Waarde na renovatie.** Recente verkopen van vergelijkbare, gerenoveerde panden in dezelfde wijk. Niet de vraagprijzen op de portalen, wel de gerealiseerde prijzen.\n2. **Renovatie- en conformeringskost.** Structuur, vocht, dak, schrijnwerk, elektriciteit, verwarming, isolatie tot minstens label D, asbestverwijdering, tanksanering, en bij een opgedeeld pand de conformering per unit.\n3. **Keuringen en attesten.** EPC, elektriciteitskeuring, asbestattest, bodemattest, eventueel keuring van de stookolietank en de privéwaterafvoer.\n4. **Aankoopkosten.** Verkooprecht en notariskosten aan koperszijde.\n5. **Aanhoudkost.** Verzekering, voorheffing, financiering en leegstand tijdens de werken.\n6. **Marge en risico.** De vergoeding voor het risico dat de renovatie duurder uitvalt, de markt daalt of een huurder pas na de wettelijke termijn vertrekt.\n\nEen afgerond voorbeeld: rijhuis in Deurne-Noord, 130 vierkante meter, vochtige kelder, elektriciteit van vóór 1981, label F. Waarde na renovatie 340.000 euro. Renovatie en conformering 95.000 euro. Keuringen, aankoopkosten en aanhoudkost 40.000 euro. Marge en risico 35.000 euro. Bod: ongeveer 170.000 euro. Ter vergelijking: klassiek verkocht in de huidige staat haalt zo'n pand misschien 195.000 euro, min commissie met btw, keuringen en publicatie, en met het risico dat de eerste koper zijn lening niet rondkrijgt. Netto ligt het verschil dan rond de 10.000 euro; wat u daarvoor koopt, is zekerheid en tijd.\n\nAntwerpse elementen die in stap 1 en 2 thuishoren en die een goede opkoper spontaan benoemt: de bouwcode (mag een groot pand opgesplitst worden, of is het een beschermde eengezinswoning), de erfgoedstatus (Zurenborg, historisch centrum, Stadspark), de luchthavenzone in Deurne-Zuid, de staat van de gemene delen bij een appartement, en of het pand op het leegstandsregister staat.",
+      },
+      {
+        heading: "Zeven vragen die u elke opkoper stelt",
+        body: "1. **Wie staat er als koper op de akte?** Dezelfde vennootschap als degene die het bod deed, of een derde aan wie het dossier wordt doorverkocht? Vraag het ondernemingsnummer en controleer het in de Kruispuntbank van Ondernemingen.\n2. **Koopt u met eigen middelen?** Een opkoper die na uw akkoord nog een investeerder of een lening moet vinden, is geen opkoper maar een tussenpersoon met een optie.\n3. **Wat verandert er aan het bod na het bezoek, en staat dat op papier?** Het juiste antwoord: enkel bij ernstige gebreken die redelijkerwijs niet zichtbaar waren, en dat staat in de overeenkomst.\n4. **Wie betaalt de keuringen, de attesten en de ontruiming?** En wordt die kost achteraf toch van de prijs afgetrokken?\n5. **Mag ik mijn eigen notaris kiezen en de aktedatum bepalen?** Een opkoper die u zijn notaris opdringt, wil controle over de akte die u niet moet afgeven.\n6. **Wat als ik afhaak?** Tot het compromis is getekend, moet u nergens toe verplicht zijn: geen exclusiviteit, geen dossierkosten, geen vergoeding voor het bod of het bezoek.\n7. **Welke dossiers hebt u in mijn district gedaan?** Niet 'in Antwerpen', maar in Merksem, in Hoboken, in Borgerhout intramuros. Wie de straat kent, kan het vertellen.",
+      },
+      {
+        heading: "Rode vlaggen",
+        body: "• Een prijsverlaging vlak vóór de akte, om een reden die al bij het bezoek zichtbaar was. Dat is de klassieke truc: u hebt intussen uw verhuis geregeld en tekent toch.\n• Exclusiviteit of een 'reservatieovereenkomst' vóór er een schriftelijk bod is.\n• Druk om het compromis binnen 24 uur te tekenen, zonder dat uw notaris het heeft gezien.\n• Een bod dat niet uitlegt hoe het tot stand kwam. Een cijfer zonder berekening is een gok, meestal ten nadele van u.\n• Een 'schatting' die eigenlijk een bod is, of omgekeerd: een schatting is geen verbintenis om te kopen.\n• Geen fysiek adres, geen ondernemingsnummer, alleen een formulier en een gsm-nummer.\n\nGeen van deze punten betekent per se bedrog. Samen betekenen ze wel dat u beter een tweede bod vraagt.",
+      },
+      {
+        heading: "Hoe wij het doen in de negen districten",
+        body: "wijkopenpanden.be is een familiebedrijf in de Jezusstraat in Antwerpen, ondernemingsnummer BE 0797.335.149. Wij kopen op eigen naam, met eigen middelen, zonder financieringsvoorbehoud, in alle negen districten van de stad en in de directe rand. Per district letten wij op wat daar het verschil maakt:\n\n• **Antwerpen-Centrum en -Zuid:** erfgoedstatus, gemengde VME's boven handelszaken, opsplitsingspotentieel binnen de bouwcode.\n• **Antwerpen-Noord en Borgerhout:** vocht en funderingen, onvergunde opdelingen, huurders, leegstandsregister.\n• **Berchem:** VME-planning rond het station, opsplitsing van burgerwoningen, Zurenborg-rand.\n• **Deurne:** stookolietanks, luchthavenzone, blokken uit de jaren 1960–1980.\n• **Merksem en Wilrijk:** naoorlogse gezinswoningen en bel-etages met label E of F, erfenissen, zorgvolmachten.\n• **Hoboken:** bodemattest nabij de vroegere industrie, gezinswoningen uit erfenis of scheiding.\n• **Ekeren:** sloopwaarde versus renovatiewaarde, niet-vergunde bijgebouwen.\n• **Linkeroever:** staat van de gemene delen en asbestattest van het gebouw.\n\nNa uw aanvraag nemen wij binnen 2 uur contact op, bezoeken wij het pand binnen 48 uur en ontvangt u dezelfde dag een schriftelijk bod met elke post benoemd. Keuringen en ontruiming betalen wij. U kiest uw notaris en de aktedatum. En als uw pand instapklaar in een gewilde straat ligt, zeggen wij u bij het bezoek dat de klassieke markt u meer oplevert.",
+      },
+    ],
+    relatedArticles: [
+      "wat-is-een-vastgoedopkoper",
+      "betrouwbaar-verkopen-aan-opkoper",
+      "fouten-bij-verkopen-aan-opkoper",
+      "opkoper-of-makelaar-verschil",
+      "bod-aanvragen-vrijblijvend-bindend",
+      "huis-verkopen-aan-opkoper-verstandig",
+      "makelaarscontract-opzeggen-en-zelf-verkopen",
+    ],
+    relatedSituations: [
+      "vastgoedopkoper-antwerpen",
+      "huis-verkopen-antwerpen",
+      "hoe-wij-werken",
+      "over",
+      "huis-snel-verkopen",
+    ],
+    faqs: [
+      {
+        question: "Is een huisopkoper hetzelfde als een vastgoedopkoper?",
+        answer: "Ja. Beide termen slaan op een professionele koper die uw pand voor eigen rekening aankoopt in plaats van te bemiddelen. 'Huisopkoper' is de term die Antwerpenaren het vaakst gebruiken; 'vastgoedopkoper' dekt ook appartementen, opbrengsteigendommen, handelspanden en grond.",
+      },
+      {
+        question: "Hoeveel lager ligt het bod van een opkoper dan de marktprijs?",
+        answer: "Dat hangt af van de staat van het pand. Bij een renovatiepand is het verschil met wat u klassiek netto zou overhouden vaak klein, omdat kopers met een lening dezelfde renovatiekost aftrekken en u bovendien commissie, keuringen en wachttijd uitspaart. Bij een instapklaar pand in een gewilde straat is het verschil groot en verkoopt u beter klassiek. Vraag altijd de berekening achter het bod, dan ziet u waar het verschil zit.",
+      },
+      {
+        question: "Is een bod van een opkoper bindend?",
+        answer: "Voor u niet, tot u het aanvaardt en het compromis tekent. Voor de opkoper wordt het bindend op hetzelfde moment. Let op de clausule over prijsherziening: bij een correcte opkoper kan de prijs na het bezoek enkel wijzigen bij ernstige gebreken die redelijkerwijs niet zichtbaar waren, en dat staat in de overeenkomst.",
+      },
+      {
+        question: "Moet ik een voorschot vragen?",
+        answer: "Alleen als u het geld vóór de akte nodig hebt. Een voorschot is een deel van de prijs dat vroeger wordt betaald, geen extra. Lees wat er met het voorschot gebeurt als de verkoop niet doorgaat en wie dat beslist. Bij wijkopenpanden.be bespreken wij een voorschot op maat als u dat wenst; het is geen standaardargument.",
+      },
+      {
+        question: "Kan ik een opkoper inschakelen als ik nog een contract met een makelaar heb?",
+        answer: "Dat hangt af van het contract. Bij exclusiviteit kunt u tijdens de looptijd niet zelf verkopen zonder opzegvergoeding, maar de exclusiviteit is wettelijk beperkt in duur en u hebt na de ondertekening een herroepingsrecht. Lees het artikel over een makelaarscontract opzeggen en vraag eerst een vrijblijvend bod; dat verplicht u tot niets.",
+      },
+      {
+        question: "Hoe controleer ik of een huisopkoper in Antwerpen betrouwbaar is?",
+        answer: "Vraag het ondernemingsnummer en controleer het in de Kruispuntbank van Ondernemingen. Vraag of de partij op eigen naam en met eigen middelen koopt. Vraag een schriftelijk bod met berekening en de clausule over prijsherziening. Vraag naar dossiers in uw district. En laat het compromis door uw eigen notaris nakijken vóór u tekent.",
+      },
+    ],
+  },
+  {
+    slug: "huis-verkopen-na-scheiding-antwerpen",
+    title: "Huis verkopen na scheiding in Antwerpen: hoe snel het kan, wat als één partner weigert, en de rekensom van uitkopen versus samen verkopen",
+    metaTitle: "Huis verkopen na scheiding in Antwerpen: snel, neutraal (2026)",
+    metaDescription:
+      "Woning verkopen bij een scheiding in Antwerpen: voor of na de echtscheiding, wat als uw partner weigert, uitkopen of samen verkopen met een concrete rekensom, en hoe één bod de impasse doorbreekt.",
+    publishedAt: "2026-09-07",
+    updatedAt: "2026-09-07",
+    intro:
+      "Bij een scheiding is de woning zelden het grootste probleem en bijna altijd het langste. Twee mensen die niet meer samen willen beslissen, moeten samen beslissen over het duurste wat ze bezitten: verkopen of uitkopen, tegen welke prijs, wanneer, en wie er intussen woont en betaalt. Dit artikel legt uit wat het verschil maakt of u vóór of na de echtscheiding verkoopt, welke wegen er zijn als één partner weigert, hoe de rekensom uitkopen versus samen verkopen eruitziet voor een Antwerps appartement, en hoe één neutraal bod dat beide partijen tegelijk ontvangen de impasse doorbreekt. De voorbeelden komen uit Antwerpse dossiers: een appartement in Deurne in 12 dagen, een appartement in Borgerhout extramuros in 14 dagen.",
+    sections: [
+      {
+        heading: "Vóór of na de echtscheiding verkopen: wat het verschil maakt",
+        body: "Zolang de echtscheiding niet is uitgesproken en overgeschreven, blijft de woning de gezinswoning en geldt de bescherming van artikel 215 van het oud Burgerlijk Wetboek: geen van beide echtgenoten kan ze zonder de andere verkopen, ook niet wie de enige eigenaar is. Dat verandert niets aan wie de opbrengst krijgt, wel aan wie moet tekenen.\n\nVerkopen **tijdens de procedure** kan, als beide partners tekenen. Bij een echtscheiding door onderlinge toestemming wordt de verkoop of de uitkoop meestal in de regelingsakte opgenomen; bij een echtscheiding op grond van onherstelbare ontwrichting kan de familierechtbank voorlopige maatregelen nemen over wie in de woning blijft, wie de lening betaalt en of erover beschikt mag worden. Een verkoop past u in dat kader in; een verkoop die de rechter doorkruist, kost meer dan een verkoop die twee maanden later start.\n\nVerkopen **na de echtscheiding** is juridisch eenvoudiger, maar dan blijft de mede-eigendom: de woning moet vereffend en verdeeld worden, aan een derde verkocht of door één partner overgenomen. En intussen lopen de lening, de verzekering en de voorheffing door, betaald door wie het contract op zijn naam heeft, en woont er meestal iemand die daar een woonvergoeding voor verschuldigd kan zijn.\n\nPraktisch: hoe eerder er een concreet cijfer op tafel ligt, hoe korter de discussie. Een schriftelijk bod van een opkoper of een schatting is daarom vaak de eerste stap, nog vóór de advocaten het over de rest eens zijn.",
+      },
+      {
+        heading: "Als één partner niet wil verkopen: drie wegen en hun tijdlijn",
+        body: "Niemand kan worden verplicht in onverdeeldheid te blijven (artikel 3.75 van het Burgerlijk Wetboek). Weigert uw ex-partner te verkopen of uit te kopen, dan zijn er drie wegen.\n\n1. **Onderling akkoord**, eventueel via bemiddeling of de advocaten. Tijdlijn: weken. Kost: de bemiddelaar of de advocaten. Dit is de weg die bijna altijd goedkoper is dan de andere twee, en waar een concreet, onderbouwd cijfer het meeste verschil maakt.\n2. **Uitkoop met opleg.** Eén partner neemt het aandeel van de andere over tegen de helft van de nettowaarde, neemt de lening over (met akkoord van de bank, die de vertrekkende partner uit de hoofdelijkheid moet ontslaan) en betaalt het verdeelrecht. Tijdlijn: één tot drie maanden, afhankelijk van de bank. Wint als één partner kan blijven wonen en de lening alleen kan dragen.\n3. **Uitonverdeeldheidtreding via de familierechtbank.** De rechter beveelt de verkoop, doorgaans via een notaris-vereffenaar, en bij gebrek aan akkoord een openbare verkoop. Tijdlijn: vele maanden tot meer dan een jaar. Kost: advocaten, notaris-vereffenaar, en meestal een lagere prijs dan bij een verkoop uit de hand. Dit is de weg die niemand wil, en waarvan de dreiging vaak volstaat om de eerste weg te openen.\n\nWat een weigering meestal drijft, is niet de woning maar de prijs: de ene partner vreest te weinig te krijgen, de andere te veel te betalen. Eén onafhankelijk, schriftelijk cijfer dat beide partijen tegelijk ontvangen, met de berekening erbij, haalt dat argument weg. Lees ook het artikel over een mede-eigenaar die niet wil verkopen.",
+      },
+      {
+        heading: "Uitkopen of samen verkopen: de rekensom voor een Antwerps appartement",
+        body: "Neem een tweeslaapkamerappartement in Deurne, gekocht in 2018, marktwaarde 300.000 euro, resterende lening 180.000 euro, beide partners voor de helft eigenaar. Afgeronde cijfers, ter illustratie.\n\n**Uitkoop door partner A.** Nettowaarde 300.000 min 180.000 is 120.000 euro; de helft, 60.000 euro, is de opleg aan partner B. Daarbovenop: het verdeelrecht van 1 procent op de volledige waarde, 3.000 euro, en de notariskosten van de verdeelakte, plus het akkoord van de bank om B uit de lening te ontslaan. Partner A moet dus 60.000 euro opleg financieren én de volledige lening alleen dragen. Partner B ontvangt 60.000 euro en is bevrijd van de lening.\n\n**Samen verkopen op de klassieke markt.** Verkoopprijs 300.000 euro, min lening 180.000, min commissie met btw ongeveer 10.900 euro, min keuringen en publicatie ongeveer 1.500 euro. Saldo 107.600 euro, elk 53.800 euro, na 3 tot 6 maanden bezichtigingen, waarin de lening en de lasten doorlopen en één van beiden woont of niemand.\n\n**Samen verkopen aan een opkoper.** Stel een bod van 280.000 euro voor een instapklaar appartement, zonder commissie, keuringen of publicatie. Saldo 100.000 euro, elk 50.000 euro, binnen enkele weken en zonder bezichtigingen of afspringrisico. Bij een appartement met werken op komst in de VME of een verouderde staat ligt het klassieke cijfer lager en het verschil kleiner.\n\nDe conclusie hangt af van wat u zoekt: het hoogste bruto cijfer (klassiek, als het appartement instapklaar is en u samen door de bezichtigingen kunt), de mogelijkheid om te blijven (uitkoop, als de bank meewil), of het einde van de gezamenlijke beslissingen (opkoper). De tabel zet de drie naast elkaar.",
+        table: {
+          headers: ["Weg", "Wat elke partner ontvangt (voorbeeld)", "Tijdlijn", "Voorwaarde"],
+          rows: [
+            ["Uitkoop door één partner", "B: 60.000 euro; A: de woning en de volledige lening", "1–3 maanden", "Bank ontslaat B uit de hoofdelijkheid; A draagt de opleg"],
+            ["Samen klassiek verkopen", "± 53.800 euro elk", "3–6 maanden plus akte", "Samen door bezichtigingen; koper krijgt lening rond"],
+            ["Samen aan opkoper verkopen", "± 50.000 euro elk", "Bod binnen 48 uur, akte 2–3 maanden of sneller", "Akkoord van beide partners met één schriftelijk bod"],
+          ],
+        },
+      },
+      {
+        heading: "Hoe snel kan het echt? Twee Antwerpse dossiers",
+        body: "**Deurne, tweeslaapkamerappartement, instapklaar.** Beide partijen wilden een snelle en neutrale afhandeling. Eén bezoek, één schriftelijk bod dat beiden tegelijk ontvingen, elk een eigen notaris. Akte 12 dagen na het eerste contact.\n\n**Borgerhout extramuros, tweeslaapkamerappartement, instapklaar.** Zelfde aanpak: één bod, beide partijen tekenden bij hun eigen notaris. Akte binnen 14 dagen.\n\nWat die termijnen mogelijk maakte: beide partners waren het eens over de verkoop, de stukken waren er (basisakte, EPC, VME-informatie via de syndicus), er was geen financieringsvoorbehoud en de notarissen konden de opzoekingen snel afronden. Bij een dossier waar één partner nog moet worden overtuigd of waar de VME-stukken op zich laten wachten, rekent u op de gebruikelijke 2 tot 3 maanden. Wat in geen enkel scenario nodig was: bezichtigingen met kandidaat-kopers in een woning waar de relatie net gebroken is.",
+      },
+      {
+        heading: "Praktisch: elk een eigen notaris, volmacht, verdeling bij de akte",
+        body: "• **Elk een eigen notaris.** Beide partners mogen een eigen notaris kiezen; de notarissen werken samen aan de akte en verdelen de opbrengst volgens de eigendomsverhouding, na aflossing van de lening en verrekening van wie welke kosten of aflossingen voorschoot sinds de feitelijke scheiding. Zet die verrekening op papier vóór de akte.\n• **Volmacht.** Wie niet aanwezig wil of kan zijn bij de akte, geeft een notariële volmacht. Een gezamenlijke ondertekening in dezelfde ruimte is niet nodig.\n• **Lening.** De bank wordt bij de akte afgelost uit de verkoopprijs. Loopt er een wederbeleggingsvergoeding, dan wordt die van het saldo afgehouden; vraag het bedrag vooraf op.\n• **Inboedel.** Wie een pand verkoopt met de inboedel erin, vermijdt de discussie over wie wat meeneemt; wij kopen met inboedel inbegrepen.\n• **Verdeelrecht.** Bij een verkoop aan een derde betaalt de koper het verkooprecht; het verdeelrecht van 1 procent geldt enkel bij een uitkoop tussen de partners.\n• **Wie woont er tot de akte?** Spreek af wie de lasten draagt en of er een woonvergoeding verschuldigd is; de familierechtbank kan dat bij gebrek aan akkoord opleggen.",
+      },
+      {
+        heading: "Zo werkt het bij wijkopenpanden.be",
+        body: "U bezorgt ons het adres en de situatie, desnoods elk apart. Binnen 2 uur nemen wij contact op, binnen 48 uur bezoeken wij de woning, met wie er woont of met een sleutel, en dezelfde dag ontvangen beide partners tegelijk hetzelfde schriftelijke bod met de berekening erbij. Wij kiezen geen kant, wij onderhandelen niet met de ene achter de rug van de andere, en wij geven geen andere cijfers aan de advocaten dan aan u.\n\nGaan beide partners akkoord, dan tekent elk bij zijn eigen notaris, eventueel via volmacht, en plannen wij de akte op de datum die voor beiden werkt. Geen bezichtigingen, geen bord, geen foto's online, geen financieringsvoorbehoud. Keuringen, attesten en ontruiming zijn voor ons.\n\nWeigert één partner, dan lossen wij dat niet op; dat is de weg van de familierechtbank en uw advocaat. Ons schriftelijke bod kan daar wel als onafhankelijk referentiecijfer dienen. Wij kopen in alle negen districten van Antwerpen en in de directe rand. U bereikt ons op 0492 77 94 75 of via het formulier onderaan.",
+      },
+    ],
+    relatedArticles: [
+      "partner-uitkopen-bij-scheiding-verdeelrecht",
+      "mede-eigenaar-wil-niet-verkopen-uit-onverdeeldheid",
+      "woning-verkopen-zonder-handtekening-partner-gezinswoning",
+      "mede-eigendom-verkopen",
+      "huis-verkopen-met-hypotheek",
+      "inboedel-meeverkopen-roerend-of-onroerend-verkooprecht",
+      "discreet-verkopen-zonder-publiciteit",
+    ],
+    relatedSituations: [
+      "huis-verkopen-bij-scheiding",
+      "appartement-snel-verkopen",
+      "huis-verkopen-antwerpen",
+      "vastgoedopkoper-antwerpen",
+      "schatting-pand",
+    ],
+    faqs: [
+      {
+        question: "Kan ik ons huis in Antwerpen verkopen als mijn ex-partner weigert?",
+        answer: "Niet zonder de rechter. Zolang de echtscheiding niet is uitgesproken, is de handtekening van uw partner nodig voor de gezinswoning, ook als u de enige eigenaar bent; bij een gezamenlijke eigendom is ze altijd nodig. Weigert uw partner zonder goede reden, dan kunt u de familierechtbank om een machtiging vragen of, na de echtscheiding, de uitonverdeeldheidtreding vorderen. Een schriftelijk, onderbouwd bod versterkt uw dossier bij de rechter en opent vaak alsnog een akkoord.",
+      },
+      {
+        question: "Hoe snel kan een woning na een scheiding verkocht zijn?",
+        answer: "Als beide partners akkoord zijn: bij wijkopenpanden.be contact binnen 2 uur, bezoek binnen 48 uur, schriftelijk bod dezelfde dag, en een akte doorgaans binnen 2 tot 3 maanden; in onze Antwerpse scheidingsdossiers ging het in 12 en 14 dagen. Moet één partner nog overtuigd worden of loopt er een procedure, dan bepaalt die de tijdlijn, niet de koper.",
+      },
+      {
+        question: "Wat is voordeliger: mijn partner uitkopen of samen verkopen?",
+        answer: "Uitkopen is voordeliger als u wilt blijven wonen, de bank u de lening alleen laat dragen en u de opleg kunt financieren; u betaalt dan 1 procent verdeelrecht in plaats van dat een koper 12 procent verkooprecht betaalt op een nieuw pand. Samen verkopen is voordeliger als geen van beiden kan of wil blijven, of als de opleg niet te financieren is. Reken beide netto door met de resterende lening en de kosten; het voorbeeld in dit artikel geeft de structuur.",
+      },
+      {
+        question: "Wie betaalt de lening en de kosten tot de woning verkocht is?",
+        answer: "In principe wie het contract op zijn naam heeft, dus meestal beiden, hoofdelijk. Wie alleen betaalt, kan dat bij de verdeling verrekenen; wie alleen woont, kan een woonvergoeding verschuldigd zijn. Spreek dat schriftelijk af of laat de familierechtbank het opleggen, en zet de verrekening vóór de akte op papier voor de notarissen.",
+      },
+      {
+        question: "Moeten wij samen bij de notaris aanwezig zijn?",
+        answer: "Neen. Elk van u mag een eigen notaris kiezen en elk kan via een notariële volmacht tekenen. De notarissen werken samen aan de akte en verdelen de opbrengst volgens de eigendomsverhouding, na aflossing van de lening en verrekening van de afgesproken kosten.",
+      },
+      {
+        question: "Wat gebeurt er met de inboedel en de huurwaarborg van onze huurder als het een verhuurd appartement is?",
+        answer: "De inboedel verdeelt u onderling of verkoopt u mee; wij kopen met inboedel inbegrepen, wat de discussie beperkt. Is het appartement verhuurd, dan gaat het huurcontract met de huurwaarborg over op de koper en blijft de huurder zitten; de verdeling van de opbrengst tussen u beiden verandert daar niet door.",
+      },
+    ],
+  },
 ];
 
 export function getArticle(slug: string): Article | undefined {

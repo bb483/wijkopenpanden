@@ -226,6 +226,44 @@ function AdresAutocomplete({
   );
 }
 
+// Postcodes van de stad Antwerpen (districten) en van de randgemeenten waar
+// wij aankopen. Dient enkel om het mailonderwerp te taggen zodat aanvragen
+// meteen te sorteren zijn; het formulier blokkeert nooit op locatie.
+const districtByPostcode: Record<string, string> = {
+  "2000": "Antwerpen-Centrum",
+  "2018": "Antwerpen-Zuid",
+  "2020": "Kiel",
+  "2030": "Luchtbal",
+  "2040": "Berendrecht-Zandvliet-Lillo",
+  "2050": "Linkeroever",
+  "2060": "Antwerpen-Noord",
+  "2100": "Deurne",
+  "2140": "Borgerhout",
+  "2150": "Borsbeek",
+  "2170": "Merksem",
+  "2180": "Ekeren",
+  "2600": "Berchem",
+  "2610": "Wilrijk",
+  "2660": "Hoboken",
+};
+const randByPostcode: Record<string, string> = {
+  "2640": "Mortsel",
+  "2650": "Edegem",
+  "2550": "Kontich",
+  "2970": "Schilde",
+  "2930": "Brasschaat",
+  "2160": "Wommelgem",
+};
+
+function gebiedTag(adres: string): { tag: string; gebied: string } {
+  const match = adres.match(/\b(\d{4})\b/);
+  if (!match) return { tag: "[POSTCODE ONBEKEND]", gebied: "onbekend" };
+  const pc = match[1];
+  if (districtByPostcode[pc]) return { tag: `[ANTWERPEN · ${districtByPostcode[pc]}]`, gebied: `Antwerpen – ${districtByPostcode[pc]}` };
+  if (randByPostcode[pc]) return { tag: `[RAND · ${randByPostcode[pc]}]`, gebied: `Rand – ${randByPostcode[pc]}` };
+  return { tag: `[BUITEN · ${pc}]`, gebied: `Buiten werkgebied – ${pc}` };
+}
+
 const types = [
   "Rijhuis",
   "Appartement",
@@ -295,14 +333,16 @@ export default function Formulier() {
     setSendError(false);
 
     try {
+      const { tag, gebied } = gebiedTag(form.adres);
       const res = await fetch("https://api.web3forms.com/submit", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
           access_key: "db7cb328-aaf2-4d20-becc-849f2aa440de",
-          subject: `Nieuw bod aangevraagd — ${form.adres}`,
+          subject: `${tag} Nieuw bod aangevraagd — ${form.adres}`,
           from_name: form.naam,
           botcheck,
+          gebied,
           ...form,
         }),
       });
@@ -346,7 +386,7 @@ export default function Formulier() {
                 </svg>
               </div>
               <p className="text-sm" style={{ color: "#4A3D30" }}>
-                <strong style={{ color: "#1C1610" }}>Reactie binnen 2 uur</strong> — ook in het weekend en na 18 uur.
+                <strong style={{ color: "#1C1610" }}>Reactie binnen 2 uur</strong>, ook in het weekend en na 18 uur. Bezoek binnen 48 uur, schriftelijk bod dezelfde dag. Wij kopen in alle Antwerpse districten en de directe rand.
               </p>
             </div>
 

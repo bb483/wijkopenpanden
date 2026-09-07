@@ -26,21 +26,24 @@ const columns = [
     ],
   },
   {
-    title: "Regio",
+    title: "Districten",
     links: [
-      { label: "Alle regio's", href: "/regios" },
-      { label: "Borgerhout", href: "/regios/borgerhout" },
+      { label: "Huis verkopen in Antwerpen", href: "/huis-verkopen-antwerpen" },
       { label: "Deurne", href: "/regios/deurne" },
+      { label: "Borgerhout", href: "/regios/borgerhout" },
       { label: "Berchem", href: "/regios/berchem" },
-      { label: "Mortsel", href: "/regios/mortsel" },
+      { label: "Hoboken", href: "/regios/hoboken" },
+      { label: "Merksem", href: "/regios/merksem" },
       { label: "Wilrijk", href: "/regios/wilrijk" },
+      { label: "Antwerpen-Noord", href: "/regios/antwerpen-noord" },
+      { label: "Alle districten en de rand", href: "/regios" },
     ],
   },
   {
     title: "Informatie",
     links: [
       { label: "Kennisbank", href: "/kennisbank" },
-      { label: "Vastgoedopkoper Antwerpen", href: "/vastgoedopkoper-antwerpen" },
+      { label: "Huisopkoper Antwerpen", href: "/vastgoedopkoper-antwerpen" },
       { label: "Hoe wij werken", href: "/hoe-wij-werken" },
       { label: "Tip een pand", href: "/tip-een-pand" },
       { label: "Blijven wonen", href: "/blijven-wonen" },
@@ -64,7 +67,10 @@ export default function Footer() {
                 be
               </Link>
               <p className="mt-2 text-sm max-w-xs leading-relaxed" style={{ color: "rgba(255,255,255,0.4)" }}>
-                Direct een eerlijk bod op uw woning — zonder makelaar, volledig ontzorgd.
+                Huisopkoper in Antwerpen. Direct een eerlijk bod op uw pand in elk district, zonder makelaar en volledig ontzorgd.
+              </p>
+              <p className="mt-3 text-sm" style={{ color: "rgba(255,255,255,0.4)" }}>
+                Jezusstraat 18 bus 001, 2000 Antwerpen
               </p>
             </div>
             <div className="flex flex-col sm:flex-row gap-3">

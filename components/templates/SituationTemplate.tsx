@@ -10,6 +10,8 @@ import FAQAccordion from "@/components/FAQAccordion";
 import JsonLd from "@/components/JsonLd";
 import StickyCtaButton from "@/components/StickyCtaButton";
 import Formulier from "@/components/home/Formulier";
+import DistrictenRaster from "@/components/DistrictenRaster";
+import { titleForSlug, hrefForSlug } from "@/content/lookup";
 import type { Situation } from "@/content/types";
 
 const BASE_URL = "https://wijkopenpanden.be";
@@ -92,6 +94,36 @@ export default function SituationTemplate({ data }: { data: Situation }) {
           </Section>
         )}
 
+        {/* Extra blokken (bv. districten, ervaringen) */}
+        {data.extraSections && data.extraSections.length > 0 && (
+          <Section variant="white">
+            <div className="flex flex-col gap-12 max-w-3xl">
+              {data.extraSections.map((s, i) => (
+                <div key={i}>
+                  <Heading level={2} className="mb-5">{s.heading}</Heading>
+                  <Prose className="text-muted">
+                    {s.body.split("\n\n").map((p, pi) => (
+                      <p key={pi} className="mb-4">{p}</p>
+                    ))}
+                  </Prose>
+                </div>
+              ))}
+            </div>
+          </Section>
+        )}
+
+        {/* Districtenraster op pijlerpagina's */}
+        {data.showDistricts && (
+          <Section variant="bone">
+            <Heading level={2} className="mb-4">In welk district ligt uw pand?</Heading>
+            <p className="text-muted text-base mb-10 max-w-2xl leading-relaxed">
+              Elk district heeft zijn eigen pandtypes, gebreken en prijzen. Kies het uwe voor de cijfers, de typische
+              verkoopsituaties en onze recente dossiers daar.
+            </p>
+            <DistrictenRaster showOuter />
+          </Section>
+        )}
+
         {/* Fiscale noot */}
         {data.fiscalNote && (
           <Section variant="white">
@@ -118,13 +150,13 @@ export default function SituationTemplate({ data }: { data: Situation }) {
             <Heading level={2} className="mb-6">Verwante informatie</Heading>
             <div className="flex flex-wrap gap-4">
               {data.relatedPropertyTypes.map((slug) => (
-                <Link key={slug} href={`/${slug}`} className="text-sm text-ink border border-ink/15 px-4 py-2 hover:border-ink/40 transition-colors">
-                  {slug.replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase())}
+                <Link key={slug} href={hrefForSlug(slug)} className="text-sm text-ink border border-ink/15 px-4 py-2 hover:border-ink/40 transition-colors">
+                  {titleForSlug(slug)}
                 </Link>
               ))}
               {data.relatedArticles.map((slug) => (
                 <Link key={slug} href={`/kennisbank/${slug}`} className="text-sm text-ink border border-ink/15 px-4 py-2 hover:border-ink/40 transition-colors">
-                  Kennisbank: {slug.replace(/-/g, " ")}
+                  {titleForSlug(slug)}
                 </Link>
               ))}
             </div>

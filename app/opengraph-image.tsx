@@ -128,7 +128,7 @@ export default function OGImage() {
             textAlign: "center",
           }}
         >
-          Vastgoed opkoper Antwerpen &amp; omstreken
+          Huisopkoper in Antwerpen, alle districten
         </div>
 
         {/* Trust badges */}

@@ -216,12 +216,12 @@ export const propertyTypes: PropertyType[] = [
     slug: "villa-verkopen-antwerpen",
     label: "Villa",
     labelPlural: "Villa's",
-    metaTitle: "Villa verkopen in Antwerpse regio — direct bod",
+    metaTitle: "Villa verkopen in Antwerpen en de groene rand — direct bod",
     metaDescription:
-      "Villa verkopen in Schilde, Brasschaat of 's-Gravenwezel? wijkopenpanden.be koopt rechtstreeks aan, geen makelaar, geen wachttijd. Bod binnen 48 uur.",
-    h1: "Villa verkopen in de Antwerpse regio",
+      "Villa of vrijstaande woning verkopen in Ekeren, Wilrijk, Hoboken, Schilde of Brasschaat? wijkopenpanden.be koopt rechtstreeks aan, ook met laag EPC of sloopwaarde. Bezoek binnen 48 uur, bod dezelfde dag.",
+    h1: "Villa verkopen in Antwerpen en de groene rand",
     intro:
-      "In de groene gordel rond Antwerpen — Schilde, Brasschaat, 's-Gravenwezel, Kontich, Edegem — staan de grootste woningen van de regio. Vrijstaande villa's op ruime percelen, vaak uit de jaren 1960 tot 1990, met meerdere bijgebouwen, een zwembad of een coach house. De verkoop van een villa verloopt trager dan een rijhuis: de doelgroep is kleiner, de financiering complexer en de kopersverwachtingen hoger. wijkopenpanden.be koopt villa's rechtstreeks aan — ook wanneer renovatie nodig is, de tuin verwaarloosd is of de verkoop snel moet gaan.",
+      "In de groene districten van Antwerpen, Ekeren, Wilrijk, Hoboken en Deurne-Zuid, en in de gordel daarrond, Schilde, Brasschaat, 's-Gravenwezel, Kontich en Edegem, staan de grootste woningen van de regio. Vrijstaande villa's op ruime percelen, vaak uit de jaren 1960 tot 1990, met meerdere bijgebouwen, een zwembad of een coach house. De verkoop van een villa verloopt trager dan een rijhuis: de doelgroep is kleiner, de financiering complexer en de kopersverwachtingen hoger. wijkopenpanden.be koopt villa's rechtstreeks aan — ook wanneer renovatie nodig is, de tuin verwaarloosd is of de verkoop snel moet gaan.",
     characteristics: [
       {
         title: "Grote percelen: erfdienstbaarheden en buurterfpachten",
@@ -251,7 +251,7 @@ export const propertyTypes: PropertyType[] = [
       { area: "Kontich / Edegem", min: 380000, max: 660000, note: "Goede bereikbaarheid, kleinere percelen" },
       { area: "Wilrijk / Mortsel", min: 350000, max: 590000, note: "Stedelijk karakter, ruimere rijwoningen en bungalows" },
     ],
-    relatedRegions: ["schilde", "brasschaat", "edegem", "kontich", "wilrijk"],
+    relatedRegions: ["ekeren", "wilrijk", "hoboken", "schilde", "brasschaat", "edegem", "kontich"],
     relatedSituations: ["villa-snel-verkopen", "huis-verkopen-bij-erfenis", "opknappand-verkopen", "huis-snel-verkopen"],
     relatedArticles: ["energie-renovatieplicht-vlaanderen-2026", "belastingen-bij-woningverkoop", "keuringen-bij-verkoop-woning", "stookolietank-woning-verkopen", "verkoop-kosten-berekenen"],
     faqs: [
