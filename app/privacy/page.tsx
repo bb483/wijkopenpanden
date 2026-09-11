@@ -67,7 +67,21 @@ export default function Page() {
                 </li>
               </ul>
               <p>
-                Deze website gebruikt geen advertentiecookies en geen trackingscripts van derden.
+                Daarnaast bewaren wij in uw browser de campagneparameters waarmee u op onze site
+                terechtkwam (bijvoorbeeld de naam van de advertentie of het zoekwoord), zodat wij
+                weten via welke weg uw aanvraag ons bereikte. Die informatie wordt met uw aanvraag
+                meegestuurd.
+              </p>
+
+              <h2>Cookies en advertentiemeting</h2>
+              <p>
+                Wij adverteren via Google Ads en gebruiken de Google-tag om te meten welke
+                advertenties tot een aanvraag of telefoonklik leiden. Advertentiecookies worden
+                alleen geplaatst nadat u in het cookiebalkje op &ldquo;Accepteren&rdquo; klikt.
+                Kiest u &ldquo;Weigeren&rdquo;, dan werkt de meting zonder cookies en zonder
+                persoonlijk profiel. Wij gebruiken geen remarketing en geen sociale-mediapixels. U
+                kunt uw keuze wijzigen door de opgeslagen gegevens van deze website in uw browser
+                te wissen.
               </p>
 
               <h2>Waarvoor gebruiken wij uw gegevens?</h2>

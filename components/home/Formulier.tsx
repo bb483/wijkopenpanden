@@ -4,6 +4,7 @@ import { useState, FormEvent, useRef, useEffect, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import Container from "@/components/Container";
 import { scrollToFormulier } from "@/components/ScrollToFormulier";
+import { attributionFields, trackConversion } from "@/components/tracking";
 
 interface FormData {
   adres: string;
@@ -344,11 +345,16 @@ export default function Formulier() {
           botcheck,
           gebied,
           ...form,
+          ...attributionFields(),
         }),
       });
       const data = await res.json();
-      if (data.success) setSubmitted(true);
-      else setSendError(true);
+      if (data.success) {
+        setSubmitted(true);
+        trackConversion("offerteformulier");
+      } else {
+        setSendError(true);
+      }
     } catch {
       setSendError(true);
     } finally {
