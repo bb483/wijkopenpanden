@@ -34,6 +34,12 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
   },
+  verification: {
+    other: {
+      // Meta Business: domeinverificatie wijkopenpanden.be
+      "facebook-domain-verification": "f5w3ixjwn0hy6l66hxirlmw4ql02h7",
+    },
+  },
   robots: {
     index: true,
     follow: true,
