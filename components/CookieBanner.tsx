@@ -38,8 +38,8 @@ export default function CookieBanner() {
       }}
     >
       <p className="text-sm flex-1 mb-3 sm:mb-0" style={{ color: "#4A3D30" }}>
-        Wij gebruiken cookies om te meten welke advertenties tot een aanvraag leiden.
-        Geen persoonlijke profielen, geen doorverkoop.{" "}
+        Wij gebruiken cookies van Google en Meta om te meten welke advertenties tot een aanvraag
+        leiden. Geen doorverkoop van gegevens.{" "}
         <Link href="/privacy" className="underline" style={{ color: "#1C1610" }}>
           Meer info
         </Link>

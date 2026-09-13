@@ -3,6 +3,7 @@ import { Playfair_Display, Plus_Jakarta_Sans } from "next/font/google";
 import "./globals.css";
 import SmoothScrollProvider from "@/components/SmoothScrollProvider";
 import GoogleAds from "@/components/GoogleAds";
+import MetaPixel from "@/components/MetaPixel";
 import CookieBanner from "@/components/CookieBanner";
 
 const playfair = Playfair_Display({
@@ -83,6 +84,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           {children}
         </SmoothScrollProvider>
         <GoogleAds />
+        <MetaPixel />
         <CookieBanner />
       </body>
     </html>

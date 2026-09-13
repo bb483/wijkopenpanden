@@ -36,7 +36,7 @@ export default function Page() {
           </nav>
           <Heading level={1} className="max-w-2xl mb-6">Privacyverklaring</Heading>
           <p className="text-muted text-sm max-w-2xl">
-            Laatst bijgewerkt op 3 juli 2026. Deze verklaring legt uit welke persoonsgegevens
+            Laatst bijgewerkt op 13 september 2026. Deze verklaring legt uit welke persoonsgegevens
             wijkopenpanden.be verzamelt, waarvoor wij ze gebruiken en welke rechten u heeft.
           </p>
         </Section>
@@ -75,13 +75,16 @@ export default function Page() {
 
               <h2>Cookies en advertentiemeting</h2>
               <p>
-                Wij adverteren via Google Ads en gebruiken de Google-tag om te meten welke
-                advertenties tot een aanvraag of telefoonklik leiden. Advertentiecookies worden
-                alleen geplaatst nadat u in het cookiebalkje op &ldquo;Accepteren&rdquo; klikt.
-                Kiest u &ldquo;Weigeren&rdquo;, dan werkt de meting zonder cookies en zonder
-                persoonlijk profiel. Wij gebruiken geen remarketing en geen sociale-mediapixels. U
-                kunt uw keuze wijzigen door de opgeslagen gegevens van deze website in uw browser
-                te wissen.
+                Wij adverteren via Google Ads en via Meta (Facebook en Instagram). Om te meten
+                welke advertenties tot een aanvraag of telefoonklik leiden, gebruiken wij de
+                Google-tag en de Meta-pixel. Advertentiecookies worden alleen geplaatst nadat u in
+                het cookiebalkje op &ldquo;Accepteren&rdquo; klikt. Kiest u &ldquo;Weigeren&rdquo;,
+                dan werkt de Google-meting zonder cookies en zonder persoonlijk profiel, en stuurt
+                de Meta-pixel helemaal niets door. Met uw toestemming kan Meta bezoekers van deze
+                website later een advertentie van ons tonen op Facebook of Instagram
+                (retargeting), gedurende maximaal 30 dagen. Wij delen nooit de gegevens uit uw
+                aanvraag met Google of Meta. U kunt uw keuze wijzigen door de opgeslagen gegevens
+                van deze website in uw browser te wissen.
               </p>
 
               <h2>Waarvoor gebruiken wij uw gegevens?</h2>
